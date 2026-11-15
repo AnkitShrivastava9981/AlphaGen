@@ -30,7 +30,9 @@ def collect():
         except Exception:
             failed.append(sid)
     if not frames:
-        raise RuntimeError("all FRED series failed")
+        # FRED blocks some cloud servers. Not critical: US 10y, dollar index, USD/INR and Brent
+        # are already collected from Yahoo in the prices step.
+        return 0, "FRED not reachable from GitHub - skipped (Yahoo covers yields, dollar, INR, crude)"
     wide = pd.concat(frames, axis=1).sort_index()
     wide = wide[wide.index >= "2010-01-01"]
     wide.to_csv(ensure(DATA / "macro" / "fred.csv"))

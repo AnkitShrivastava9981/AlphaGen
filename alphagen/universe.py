@@ -61,6 +61,7 @@ def collect():
         raise RuntimeError("could not download any index list and no previous universe exists")
 
     uni = pd.concat(frames).drop_duplicates("symbol", keep="first")
+    uni = uni[~uni["symbol"].str.upper().str.startswith("DUMMY")]  # NSE placeholder rows
     if failed and OUT.exists():  # keep last good copy of any bucket that failed this week
         prev = pd.read_csv(OUT)
         uni = pd.concat([uni, prev[prev.cap_bucket.isin(failed)]]).drop_duplicates("symbol", keep="first")
