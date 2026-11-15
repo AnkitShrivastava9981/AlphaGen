@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+INDIGO,A,balance,Cash And Cash Equivalents,2023-03-31,12679180000.0
+INDIGO,A,balance,Cash And Cash Equivalents,2024-03-31,6952000000.0
+INDIGO,A,balance,Cash And Cash Equivalents,2025-03-31,10731000000.0
+INDIGO,A,balance,Cash And Cash Equivalents,2026-03-31,13239000000.0
+INDIGO,A,balance,Net Debt,2023-03-31,9844190000.0
+INDIGO,A,balance,Net Debt,2024-03-31,11965000000.0
+INDIGO,A,balance,Net Debt,2025-03-31,7269000000.0
+INDIGO,A,balance,Net Debt,2026-03-31,4824000000.0
+INDIGO,A,balance,Ordinary Shares Number,2023-03-31,385547099.0
+INDIGO,A,balance,Ordinary Shares Number,2024-03-31,385978689.0
+INDIGO,A,balance,Ordinary Shares Number,2025-03-31,386423369.0
+INDIGO,A,balance,Ordinary Shares Number,2026-03-31,386612998.0
+INDIGO,A,balance,Stockholders Equity,2023-03-31,-62465160000.0
+INDIGO,A,balance,Stockholders Equity,2024-03-31,19965000000.0
+INDIGO,A,balance,Stockholders Equity,2025-03-31,93682000000.0
+INDIGO,A,balance,Stockholders Equity,2026-03-31,69711000000.0
+INDIGO,A,balance,Total Assets,2023-03-31,591698190000.0
+INDIGO,A,balance,Total Assets,2024-03-31,822245000000.0
+INDIGO,A,balance,Total Assets,2025-03-31,1158435000000.0
+INDIGO,A,balance,Total Assets,2026-03-31,1360021000000.0
+INDIGO,A,balance,Total Debt,2023-03-31,448542130000.0
+INDIGO,A,balance,Total Debt,2024-03-31,512801000000.0
+INDIGO,A,balance,Total Debt,2025-03-31,668098000000.0
+INDIGO,A,balance,Total Debt,2026-03-31,777492000000.0
+INDIGO,A,cashflow,Capital Expenditure,2023-03-31,-5698040000.0
+INDIGO,A,cashflow,Capital Expenditure,2024-03-31,-11026000000.0
+INDIGO,A,cashflow,Capital Expenditure,2025-03-31,-16048000000.0
+INDIGO,A,cashflow,Capital Expenditure,2026-03-31,-17101000000.0
+INDIGO,A,cashflow,Free Cash Flow,2023-03-31,121581350000.0
+INDIGO,A,cashflow,Free Cash Flow,2024-03-31,201150000000.0
+INDIGO,A,cashflow,Free Cash Flow,2025-03-31,225465000000.0
+INDIGO,A,cashflow,Free Cash Flow,2026-03-31,217598000000.0
+INDIGO,A,cashflow,Operating Cash Flow,2023-03-31,127279390000.0
+INDIGO,A,cashflow,Operating Cash Flow,2024-03-31,212176000000.0
+INDIGO,A,cashflow,Operating Cash Flow,2025-03-31,241513000000.0
+INDIGO,A,cashflow,Operating Cash Flow,2026-03-31,234699000000.0
+INDIGO,A,income,Basic EPS,2023-03-31,-7.93
+INDIGO,A,income,Basic EPS,2024-03-31,211.84
+INDIGO,A,income,Basic EPS,2025-03-31,187.93
+INDIGO,A,income,Basic EPS,2026-03-31,-61.88
+INDIGO,A,income,Diluted EPS,2023-03-31,-7.93
+INDIGO,A,income,Diluted EPS,2024-03-31,211.61
+INDIGO,A,income,Diluted EPS,2025-03-31,187.67
+INDIGO,A,income,Diluted EPS,2026-03-31,-61.88
+INDIGO,A,income,EBITDA,2023-03-31,79185060000.0
+INDIGO,A,income,EBITDA,2024-03-31,186439000000.0
+INDIGO,A,income,EBITDA,2025-03-31,213536000000.0
+INDIGO,A,income,EBITDA,2026-03-31,147385000000.0
+INDIGO,A,income,Interest Expense,2023-03-31,31199220000.0
+INDIGO,A,income,Interest Expense,2024-03-31,41689000000.0
+INDIGO,A,income,Interest Expense,2025-03-31,50800000000.0
+INDIGO,A,income,Interest Expense,2026-03-31,58908000000.0
+INDIGO,A,income,Net Income,2023-03-31,-3057890000.0
+INDIGO,A,income,Net Income,2024-03-31,81725000000.0
+INDIGO,A,income,Net Income,2025-03-31,72584000000.0
+INDIGO,A,income,Net Income,2026-03-31,-23919000000.0
+INDIGO,A,income,Net Income Common Stockholders,2023-03-31,-3057890000.0
+INDIGO,A,income,Net Income Common Stockholders,2024-03-31,81725000000.0
+INDIGO,A,income,Net Income Common Stockholders,2025-03-31,72584000000.0
+INDIGO,A,income,Net Income Common Stockholders,2026-03-31,-23919000000.0
+INDIGO,A,income,Operating Income,2023-03-31,44237600000.0
+INDIGO,A,income,Operating Income,2024-03-31,107186000000.0
+INDIGO,A,income,Operating Income,2025-03-31,110908000000.0
+INDIGO,A,income,Operating Income,2026-03-31,102826000000.0
+INDIGO,A,income,Pretax Income,2023-03-31,-3043850000.0
+INDIGO,A,income,Pretax Income,2024-03-31,80493000000.0
+INDIGO,A,income,Pretax Income,2025-03-31,75934000000.0
+INDIGO,A,income,Pretax Income,2026-03-31,-19605000000.0
+INDIGO,A,income,Total Revenue,2023-03-31,536076670000.0
+INDIGO,A,income,Total Revenue,2024-03-31,673868000000.0
+INDIGO,A,income,Total Revenue,2025-03-31,776186000000.0
+INDIGO,A,income,Total Revenue,2026-03-31,827089000000.0
+INDIGO,Q,income,Basic EPS,2025-06-30,56.31
+INDIGO,Q,income,Basic EPS,2025-12-31,14.22
+INDIGO,Q,income,Basic EPS,2026-03-31,-65.62
+INDIGO,Q,income,Basic EPS,2026-06-30,-6.15
+INDIGO,Q,income,Basic EPS,2026-09-30,-48.58
+INDIGO,Q,income,Diluted EPS,2025-06-30,56.24
+INDIGO,Q,income,Diluted EPS,2025-12-31,14.2
+INDIGO,Q,income,Diluted EPS,2026-03-31,-65.62
+INDIGO,Q,income,Diluted EPS,2026-06-30,-6.15
+INDIGO,Q,income,Diluted EPS,2026-09-30,-48.58
+INDIGO,Q,income,EBITDA,2025-06-30,37068000000.0
+INDIGO,Q,income,EBITDA,2025-12-31,21074000000.0
+INDIGO,Q,income,EBITDA,2026-03-31,-8671000000.0
+INDIGO,Q,income,EBITDA,2026-06-30,13269000000.0
+INDIGO,Q,income,EBITDA,2026-09-30,-2187000000.0
+INDIGO,Q,income,Interest Expense,2025-06-30,13961000000.0
+INDIGO,Q,income,Interest Expense,2025-12-31,15452000000.0
+INDIGO,Q,income,Interest Expense,2026-03-31,14846000000.0
+INDIGO,Q,income,Interest Expense,2026-06-30,15653000000.0
+INDIGO,Q,income,Interest Expense,2026-09-30,16578000000.0
+INDIGO,Q,income,Net Income,2025-06-30,21763000000.0
+INDIGO,Q,income,Net Income,2025-12-31,5498000000.0
+INDIGO,Q,income,Net Income,2026-03-31,-25363000000.0
+INDIGO,Q,income,Net Income,2026-06-30,-2376000000.0
+INDIGO,Q,income,Net Income,2026-09-30,-18786000000.0
+INDIGO,Q,income,Net Income Common Stockholders,2025-06-30,21763000000.0
+INDIGO,Q,income,Net Income Common Stockholders,2025-12-31,5498000000.0
+INDIGO,Q,income,Net Income Common Stockholders,2026-03-31,-25363000000.0
+INDIGO,Q,income,Net Income Common Stockholders,2026-06-30,-2376000000.0
+INDIGO,Q,income,Net Income Common Stockholders,2026-09-30,-18786000000.0
+INDIGO,Q,income,Operating Income,2025-06-30,28078000000.0
+INDIGO,Q,income,Operating Income,2025-12-31,36986000000.0
+INDIGO,Q,income,Operating Income,2026-03-31,28134000000.0
+INDIGO,Q,income,Operating Income,2026-06-30,3794000000.0
+INDIGO,Q,income,Operating Income,2026-09-30,1664000000.0
+INDIGO,Q,income,Pretax Income,2025-06-30,23107000000.0
+INDIGO,Q,income,Pretax Income,2025-12-31,5622000000.0
+INDIGO,Q,income,Pretax Income,2026-03-31,-23517000000.0
+INDIGO,Q,income,Pretax Income,2026-06-30,-2384000000.0
+INDIGO,Q,income,Pretax Income,2026-09-30,-18765000000.0
+INDIGO,Q,income,Total Revenue,2025-06-30,204963000000.0
+INDIGO,Q,income,Total Revenue,2025-12-31,234719000000.0
+INDIGO,Q,income,Total Revenue,2026-03-31,224384000000.0
+INDIGO,Q,income,Total Revenue,2026-06-30,245841000000.0
+INDIGO,Q,income,Total Revenue,2026-09-30,233638000000.0

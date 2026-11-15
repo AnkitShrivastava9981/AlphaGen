@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+NBCC,A,balance,Cash And Cash Equivalents,2023-03-31,23424390000.0
+NBCC,A,balance,Cash And Cash Equivalents,2024-03-31,20320825000.0
+NBCC,A,balance,Cash And Cash Equivalents,2025-03-31,29986866000.0
+NBCC,A,balance,Cash And Cash Equivalents,2026-03-31,34873964000.0
+NBCC,A,balance,Ordinary Shares Number,2023-03-31,2700000000.0
+NBCC,A,balance,Ordinary Shares Number,2024-03-31,2700000000.0
+NBCC,A,balance,Ordinary Shares Number,2025-03-31,2700000000.0
+NBCC,A,balance,Ordinary Shares Number,2026-03-31,2700000000.0
+NBCC,A,balance,Stockholders Equity,2023-03-31,19445014000.0
+NBCC,A,balance,Stockholders Equity,2024-03-31,22256203000.0
+NBCC,A,balance,Stockholders Equity,2025-03-31,24790569000.0
+NBCC,A,balance,Stockholders Equity,2026-03-31,30172626000.0
+NBCC,A,balance,Total Assets,2023-03-31,128789251000.0
+NBCC,A,balance,Total Assets,2024-03-31,127050925000.0
+NBCC,A,balance,Total Assets,2025-03-31,133436537000.0
+NBCC,A,balance,Total Assets,2026-03-31,162737815000.0
+NBCC,A,balance,Total Debt,2023-03-31,4529000.0
+NBCC,A,balance,Total Debt,2024-03-31,6322000.0
+NBCC,A,balance,Total Debt,2025-03-31,4026000.0
+NBCC,A,balance,Total Debt,2026-03-31,2579000.0
+NBCC,A,cashflow,Capital Expenditure,2023-03-31,-112168000.0
+NBCC,A,cashflow,Capital Expenditure,2024-03-31,-447942000.0
+NBCC,A,cashflow,Capital Expenditure,2025-03-31,-3198098000.0
+NBCC,A,cashflow,Capital Expenditure,2026-03-31,-373595000.0
+NBCC,A,cashflow,Free Cash Flow,2023-03-31,-3852906000.0
+NBCC,A,cashflow,Free Cash Flow,2024-03-31,-504419000.0
+NBCC,A,cashflow,Free Cash Flow,2025-03-31,3413224000.0
+NBCC,A,cashflow,Free Cash Flow,2026-03-31,4021047000.0
+NBCC,A,cashflow,Operating Cash Flow,2023-03-31,-3740738000.0
+NBCC,A,cashflow,Operating Cash Flow,2024-03-31,-56477000.0
+NBCC,A,cashflow,Operating Cash Flow,2025-03-31,6611322000.0
+NBCC,A,cashflow,Operating Cash Flow,2026-03-31,4394642000.0
+NBCC,A,income,Basic EPS,2023-03-31,0.986667
+NBCC,A,income,Basic EPS,2024-03-31,1.49
+NBCC,A,income,Basic EPS,2025-03-31,2.0
+NBCC,A,income,Basic EPS,2026-03-31,2.67
+NBCC,A,income,Diluted EPS,2023-03-31,0.986667
+NBCC,A,income,Diluted EPS,2024-03-31,1.49
+NBCC,A,income,Diluted EPS,2025-03-31,2.0
+NBCC,A,income,Diluted EPS,2026-03-31,2.67
+NBCC,A,income,EBITDA,2023-03-31,5691286000.0
+NBCC,A,income,EBITDA,2024-03-31,7760482000.0
+NBCC,A,income,EBITDA,2025-03-31,9277092000.0
+NBCC,A,income,EBITDA,2026-03-31,11581283000.0
+NBCC,A,income,Interest Expense,2023-03-31,1920071000.0
+NBCC,A,income,Interest Expense,2024-03-31,2121975000.0
+NBCC,A,income,Interest Expense,2025-03-31,1652546000.0
+NBCC,A,income,Interest Expense,2026-03-31,1537408000.0
+NBCC,A,income,Net Income,2023-03-31,2666650000.0
+NBCC,A,income,Net Income,2024-03-31,4015572000.0
+NBCC,A,income,Net Income,2025-03-31,5411300000.0
+NBCC,A,income,Net Income,2026-03-31,7200313000.0
+NBCC,A,income,Net Income Common Stockholders,2023-03-31,2666650000.0
+NBCC,A,income,Net Income Common Stockholders,2024-03-31,4015572000.0
+NBCC,A,income,Net Income Common Stockholders,2025-03-31,5411300000.0
+NBCC,A,income,Net Income Common Stockholders,2026-03-31,7200313000.0
+NBCC,A,income,Operating Income,2023-03-31,4048822000.0
+NBCC,A,income,Operating Income,2024-03-31,5381662000.0
+NBCC,A,income,Operating Income,2025-03-31,8410314000.0
+NBCC,A,income,Operating Income,2026-03-31,7362346000.0
+NBCC,A,income,Pretax Income,2023-03-31,3719060000.0
+NBCC,A,income,Pretax Income,2024-03-31,5585417000.0
+NBCC,A,income,Pretax Income,2025-03-31,7550161000.0
+NBCC,A,income,Pretax Income,2026-03-31,9913207000.0
+NBCC,A,income,Total Revenue,2023-03-31,87706364000.0
+NBCC,A,income,Total Revenue,2024-03-31,103283783000.0
+NBCC,A,income,Total Revenue,2025-03-31,116368813000.0
+NBCC,A,income,Total Revenue,2026-03-31,126080839000.0
+NBCC,Q,income,Basic EPS,2025-09-30,0.57
+NBCC,Q,income,Basic EPS,2025-12-31,0.71
+NBCC,Q,income,Basic EPS,2026-03-31,0.89
+NBCC,Q,income,Basic EPS,2026-06-30,0.57
+NBCC,Q,income,Basic EPS,2026-09-30,0.76
+NBCC,Q,income,Diluted EPS,2025-09-30,0.57
+NBCC,Q,income,Diluted EPS,2025-12-31,0.71
+NBCC,Q,income,Diluted EPS,2026-03-31,0.89
+NBCC,Q,income,Diluted EPS,2026-06-30,0.57
+NBCC,Q,income,Diluted EPS,2026-09-30,0.76
+NBCC,Q,income,EBITDA,2025-09-30,2078094000.0
+NBCC,Q,income,EBITDA,2025-12-31,2659538000.0
+NBCC,Q,income,EBITDA,2026-03-31,3461934000.0
+NBCC,Q,income,EBITDA,2026-06-30,2163243000.0
+NBCC,Q,income,EBITDA,2026-09-30,2856061000.0
+NBCC,Q,income,Interest Expense,2025-09-30,120000.0
+NBCC,Q,income,Interest Expense,2025-12-31,54000.0
+NBCC,Q,income,Interest Expense,2026-03-31,96000.0
+NBCC,Q,income,Interest Expense,2026-06-30,41000.0
+NBCC,Q,income,Interest Expense,2026-09-30,178000.0
+NBCC,Q,income,Net Income,2025-09-30,1535162000.0
+NBCC,Q,income,Net Income,2025-12-31,1929955000.0
+NBCC,Q,income,Net Income,2026-03-31,2413897000.0
+NBCC,Q,income,Net Income,2026-06-30,1548307000.0
+NBCC,Q,income,Net Income,2026-09-30,2064075000.0
+NBCC,Q,income,Net Income Common Stockholders,2025-09-30,1535162000.0
+NBCC,Q,income,Net Income Common Stockholders,2025-12-31,1929955000.0
+NBCC,Q,income,Net Income Common Stockholders,2026-03-31,2413897000.0
+NBCC,Q,income,Net Income Common Stockholders,2026-06-30,1548307000.0
+NBCC,Q,income,Net Income Common Stockholders,2026-09-30,2064075000.0
+NBCC,Q,income,Operating Income,2025-09-30,1052550000.0
+NBCC,Q,income,Operating Income,2025-12-31,1306128000.0
+NBCC,Q,income,Operating Income,2026-03-31,3803941000.0
+NBCC,Q,income,Operating Income,2026-06-30,1546894000.0
+NBCC,Q,income,Operating Income,2026-09-30,2319897000.0
+NBCC,Q,income,Pretax Income,2025-09-30,2047522000.0
+NBCC,Q,income,Pretax Income,2025-12-31,2628236000.0
+NBCC,Q,income,Pretax Income,2026-03-31,3422938000.0
+NBCC,Q,income,Pretax Income,2026-06-30,2127906000.0
+NBCC,Q,income,Pretax Income,2026-09-30,2820314000.0
+NBCC,Q,income,Total Revenue,2025-09-30,29139349000.0
+NBCC,Q,income,Total Revenue,2025-12-31,30223936000.0
+NBCC,Q,income,Total Revenue,2026-03-31,45597982000.0
+NBCC,Q,income,Total Revenue,2026-06-30,22595287000.0
+NBCC,Q,income,Total Revenue,2026-09-30,33957756000.0

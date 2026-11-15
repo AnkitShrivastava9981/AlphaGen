@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EMBDL,A,balance,Cash And Cash Equivalents,2023-03-31,367400000.0
+EMBDL,A,balance,Cash And Cash Equivalents,2024-03-31,405990000.0
+EMBDL,A,balance,Cash And Cash Equivalents,2025-03-31,686960000.0
+EMBDL,A,balance,Cash And Cash Equivalents,2026-03-31,4355460000.0
+EMBDL,A,balance,Net Debt,2023-03-31,2187600000.0
+EMBDL,A,balance,Net Debt,2024-03-31,77079690000.0
+EMBDL,A,balance,Net Debt,2025-03-31,44761550000.0
+EMBDL,A,balance,Net Debt,2026-03-31,47820420000.0
+EMBDL,A,balance,Ordinary Shares Number,2023-03-31,541075331.0
+EMBDL,A,balance,Ordinary Shares Number,2024-03-31,541075331.0
+EMBDL,A,balance,Ordinary Shares Number,2025-03-31,1221937894.0
+EMBDL,A,balance,Ordinary Shares Number,2026-03-31,1390033433.0
+EMBDL,A,balance,Stockholders Equity,2023-03-31,36556700000.0
+EMBDL,A,balance,Stockholders Equity,2024-03-31,-14464350000.0
+EMBDL,A,balance,Stockholders Equity,2025-03-31,93210930000.0
+EMBDL,A,balance,Stockholders Equity,2026-03-31,98679300000.0
+EMBDL,A,balance,Total Assets,2023-03-31,65074300000.0
+EMBDL,A,balance,Total Assets,2024-03-31,99387810000.0
+EMBDL,A,balance,Total Assets,2025-03-31,204838340000.0
+EMBDL,A,balance,Total Assets,2026-03-31,215378570000.0
+EMBDL,A,balance,Total Debt,2023-03-31,2679900000.0
+EMBDL,A,balance,Total Debt,2024-03-31,77485680000.0
+EMBDL,A,balance,Total Debt,2025-03-31,46125570000.0
+EMBDL,A,balance,Total Debt,2026-03-31,53221370000.0
+EMBDL,A,cashflow,Capital Expenditure,2023-03-31,-8600000.0
+EMBDL,A,cashflow,Capital Expenditure,2024-03-31,-915660000.0
+EMBDL,A,cashflow,Capital Expenditure,2025-03-31,-539460000.0
+EMBDL,A,cashflow,Capital Expenditure,2026-03-31,-438890000.0
+EMBDL,A,cashflow,Free Cash Flow,2023-03-31,-3437300000.0
+EMBDL,A,cashflow,Free Cash Flow,2024-03-31,5985490000.0
+EMBDL,A,cashflow,Free Cash Flow,2025-03-31,14069240000.0
+EMBDL,A,cashflow,Free Cash Flow,2026-03-31,5870000.0
+EMBDL,A,cashflow,Operating Cash Flow,2023-03-31,-3428700000.0
+EMBDL,A,cashflow,Operating Cash Flow,2024-03-31,6901150000.0
+EMBDL,A,cashflow,Operating Cash Flow,2025-03-31,14608700000.0
+EMBDL,A,cashflow,Operating Cash Flow,2026-03-31,444760000.0
+EMBDL,A,income,Basic EPS,2023-03-31,-11.29
+EMBDL,A,income,Basic EPS,2024-03-31,-9.2
+EMBDL,A,income,Basic EPS,2025-03-31,2.76
+EMBDL,A,income,Basic EPS,2026-03-31,-6.43
+EMBDL,A,income,Diluted EPS,2023-03-31,-11.29
+EMBDL,A,income,Diluted EPS,2024-03-31,-9.2
+EMBDL,A,income,Diluted EPS,2025-03-31,2.65
+EMBDL,A,income,Diluted EPS,2026-03-31,-6.43
+EMBDL,A,income,EBITDA,2023-03-31,-5232400000.0
+EMBDL,A,income,EBITDA,2024-03-31,278910000.0
+EMBDL,A,income,EBITDA,2025-03-31,4961790000.0
+EMBDL,A,income,EBITDA,2026-03-31,-3368350000.0
+EMBDL,A,income,Interest Expense,2023-03-31,273000000.0
+EMBDL,A,income,Interest Expense,2024-03-31,5485020000.0
+EMBDL,A,income,Interest Expense,2025-03-31,4541010000.0
+EMBDL,A,income,Interest Expense,2026-03-31,5126190000.0
+EMBDL,A,income,Net Income,2023-03-31,-6083800000.0
+EMBDL,A,income,Net Income,2024-03-31,-4974480000.0
+EMBDL,A,income,Net Income,2025-03-31,1996030000.0
+EMBDL,A,income,Net Income,2026-03-31,-8726450000.0
+EMBDL,A,income,Net Income Common Stockholders,2023-03-31,-6083800000.0
+EMBDL,A,income,Net Income Common Stockholders,2024-03-31,-4974480000.0
+EMBDL,A,income,Net Income Common Stockholders,2025-03-31,1996030000.0
+EMBDL,A,income,Net Income Common Stockholders,2026-03-31,-8726450000.0
+EMBDL,A,income,Operating Income,2023-03-31,-5316200000.0
+EMBDL,A,income,Operating Income,2024-03-31,341190000.0
+EMBDL,A,income,Operating Income,2025-03-31,2955590000.0
+EMBDL,A,income,Operating Income,2026-03-31,-4168180000.0
+EMBDL,A,income,Pretax Income,2023-03-31,-5626700000.0
+EMBDL,A,income,Pretax Income,2024-03-31,-5271760000.0
+EMBDL,A,income,Pretax Income,2025-03-31,273180000.0
+EMBDL,A,income,Pretax Income,2026-03-31,-8973220000.0
+EMBDL,A,income,Total Revenue,2023-03-31,3545600000.0
+EMBDL,A,income,Total Revenue,2024-03-31,10900500000.0
+EMBDL,A,income,Total Revenue,2025-03-31,21203610000.0
+EMBDL,A,income,Total Revenue,2026-03-31,16337460000.0
+EMBDL,Q,income,Basic EPS,2025-09-30,-1.12
+EMBDL,Q,income,Basic EPS,2025-12-31,-1.68
+EMBDL,Q,income,Basic EPS,2026-03-31,-2.33
+EMBDL,Q,income,Basic EPS,2026-06-30,-1.69
+EMBDL,Q,income,Basic EPS,2026-09-30,-1.95
+EMBDL,Q,income,Diluted EPS,2025-09-30,-1.12
+EMBDL,Q,income,Diluted EPS,2025-12-31,-1.68
+EMBDL,Q,income,Diluted EPS,2026-03-31,-2.33
+EMBDL,Q,income,Diluted EPS,2026-06-30,-1.69
+EMBDL,Q,income,Diluted EPS,2026-09-30,-1.95
+EMBDL,Q,income,EBITDA,2025-06-30,23700000.0
+EMBDL,Q,income,EBITDA,2025-12-31,-1051490000.0
+EMBDL,Q,income,EBITDA,2026-03-31,-1923220000.0
+EMBDL,Q,income,EBITDA,2026-06-30,-1061300000.0
+EMBDL,Q,income,EBITDA,2026-09-30,-1308780000.0
+EMBDL,Q,income,Interest Expense,2025-06-30,1604210000.0
+EMBDL,Q,income,Interest Expense,2025-12-31,1134720000.0
+EMBDL,Q,income,Interest Expense,2026-03-31,1399380000.0
+EMBDL,Q,income,Interest Expense,2026-06-30,1185680000.0
+EMBDL,Q,income,Interest Expense,2026-09-30,1362920000.0
+EMBDL,Q,income,Net Income,2025-06-30,-1658480000.0
+EMBDL,Q,income,Net Income,2025-12-31,-2331360000.0
+EMBDL,Q,income,Net Income,2026-03-31,-3237790000.0
+EMBDL,Q,income,Net Income,2026-06-30,-2342940000.0
+EMBDL,Q,income,Net Income,2026-09-30,-2711180000.0
+EMBDL,Q,income,Net Income Common Stockholders,2025-06-30,-1658480000.0
+EMBDL,Q,income,Net Income Common Stockholders,2025-12-31,-2331360000.0
+EMBDL,Q,income,Net Income Common Stockholders,2026-03-31,-3237790000.0
+EMBDL,Q,income,Net Income Common Stockholders,2026-06-30,-2342940000.0
+EMBDL,Q,income,Net Income Common Stockholders,2026-09-30,-2711180000.0
+EMBDL,Q,income,Operating Income,2025-09-30,-599350000.0
+EMBDL,Q,income,Operating Income,2025-12-31,-1724070000.0
+EMBDL,Q,income,Operating Income,2026-03-31,-2737190000.0
+EMBDL,Q,income,Operating Income,2026-06-30,-1436390000.0
+EMBDL,Q,income,Operating Income,2026-09-30,-1635620000.0
+EMBDL,Q,income,Pretax Income,2025-06-30,-1647580000.0
+EMBDL,Q,income,Pretax Income,2025-12-31,-2386410000.0
+EMBDL,Q,income,Pretax Income,2026-03-31,-3448740000.0
+EMBDL,Q,income,Pretax Income,2026-06-30,-2376800000.0
+EMBDL,Q,income,Pretax Income,2026-09-30,-2808920000.0
+EMBDL,Q,income,Total Revenue,2025-09-30,4939640000.0
+EMBDL,Q,income,Total Revenue,2025-12-31,2124040000.0
+EMBDL,Q,income,Total Revenue,2026-03-31,3424630000.0
+EMBDL,Q,income,Total Revenue,2026-06-30,2167540000.0
+EMBDL,Q,income,Total Revenue,2026-09-30,2922100000.0

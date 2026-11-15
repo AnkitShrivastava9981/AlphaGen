@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PURVA,A,balance,Cash And Cash Equivalents,2023-03-31,3449900000.0
+PURVA,A,balance,Cash And Cash Equivalents,2024-03-31,9064000000.0
+PURVA,A,balance,Cash And Cash Equivalents,2025-03-31,6961900000.0
+PURVA,A,balance,Cash And Cash Equivalents,2026-03-31,12825600000.0
+PURVA,A,balance,Net Debt,2023-03-31,25819300000.0
+PURVA,A,balance,Net Debt,2024-03-31,23791900000.0
+PURVA,A,balance,Net Debt,2025-03-31,36004900000.0
+PURVA,A,balance,Net Debt,2026-03-31,42893500000.0
+PURVA,A,balance,Ordinary Shares Number,2023-03-31,237149686.0
+PURVA,A,balance,Ordinary Shares Number,2024-03-31,237149686.0
+PURVA,A,balance,Ordinary Shares Number,2025-03-31,237149686.0
+PURVA,A,balance,Ordinary Shares Number,2026-03-31,237149686.0
+PURVA,A,balance,Stockholders Equity,2023-03-31,19867700000.0
+PURVA,A,balance,Stockholders Equity,2024-03-31,18831400000.0
+PURVA,A,balance,Stockholders Equity,2025-03-31,17309000000.0
+PURVA,A,balance,Stockholders Equity,2026-03-31,17875700000.0
+PURVA,A,balance,Total Assets,2023-03-31,100552600000.0
+PURVA,A,balance,Total Assets,2024-03-31,117267100000.0
+PURVA,A,balance,Total Assets,2025-03-31,142451300000.0
+PURVA,A,balance,Total Assets,2026-03-31,172576300000.0
+PURVA,A,balance,Total Debt,2023-03-31,29436200000.0
+PURVA,A,balance,Total Debt,2024-03-31,33253200000.0
+PURVA,A,balance,Total Debt,2025-03-31,43315800000.0
+PURVA,A,balance,Total Debt,2026-03-31,55945600000.0
+PURVA,A,cashflow,Capital Expenditure,2023-03-31,-321500000.0
+PURVA,A,cashflow,Capital Expenditure,2024-03-31,-550100000.0
+PURVA,A,cashflow,Capital Expenditure,2025-03-31,-431400000.0
+PURVA,A,cashflow,Capital Expenditure,2026-03-31,-631400000.0
+PURVA,A,cashflow,Free Cash Flow,2023-03-31,1130400000.0
+PURVA,A,cashflow,Free Cash Flow,2024-03-31,8413800000.0
+PURVA,A,cashflow,Free Cash Flow,2025-03-31,-5739000000.0
+PURVA,A,cashflow,Free Cash Flow,2026-03-31,2813800000.0
+PURVA,A,cashflow,Operating Cash Flow,2023-03-31,1451900000.0
+PURVA,A,cashflow,Operating Cash Flow,2024-03-31,8963900000.0
+PURVA,A,cashflow,Operating Cash Flow,2025-03-31,-5307600000.0
+PURVA,A,cashflow,Operating Cash Flow,2026-03-31,3445200000.0
+PURVA,A,income,Basic EPS,2023-03-31,2.8
+PURVA,A,income,Basic EPS,2024-03-31,1.78
+PURVA,A,income,Basic EPS,2025-03-31,-7.59
+PURVA,A,income,Basic EPS,2026-03-31,2.69
+PURVA,A,income,Diluted EPS,2023-03-31,2.8
+PURVA,A,income,Diluted EPS,2024-03-31,1.77
+PURVA,A,income,Diluted EPS,2025-03-31,-7.59
+PURVA,A,income,Diluted EPS,2026-03-31,2.69
+PURVA,A,income,EBITDA,2023-03-31,4295400000.0
+PURVA,A,income,EBITDA,2024-03-31,5255900000.0
+PURVA,A,income,EBITDA,2025-03-31,3742100000.0
+PURVA,A,income,EBITDA,2026-03-31,7898800000.0
+PURVA,A,income,Interest Expense,2023-03-31,3569700000.0
+PURVA,A,income,Interest Expense,2024-03-31,4293000000.0
+PURVA,A,income,Interest Expense,2025-03-31,5515800000.0
+PURVA,A,income,Interest Expense,2026-03-31,6710100000.0
+PURVA,A,income,Net Income,2023-03-31,664800000.0
+PURVA,A,income,Net Income,2024-03-31,422600000.0
+PURVA,A,income,Net Income,2025-03-31,-1798800000.0
+PURVA,A,income,Net Income,2026-03-31,637100000.0
+PURVA,A,income,Net Income Common Stockholders,2023-03-31,664800000.0
+PURVA,A,income,Net Income Common Stockholders,2024-03-31,422600000.0
+PURVA,A,income,Net Income Common Stockholders,2025-03-31,-1798800000.0
+PURVA,A,income,Net Income Common Stockholders,2026-03-31,637100000.0
+PURVA,A,income,Operating Income,2023-03-31,2587000000.0
+PURVA,A,income,Operating Income,2024-03-31,4525300000.0
+PURVA,A,income,Operating Income,2025-03-31,2774400000.0
+PURVA,A,income,Operating Income,2026-03-31,7027400000.0
+PURVA,A,income,Pretax Income,2023-03-31,554400000.0
+PURVA,A,income,Pretax Income,2024-03-31,682400000.0
+PURVA,A,income,Pretax Income,2025-03-31,-2123300000.0
+PURVA,A,income,Pretax Income,2026-03-31,768700000.0
+PURVA,A,income,Total Revenue,2023-03-31,11865300000.0
+PURVA,A,income,Total Revenue,2024-03-31,21413000000.0
+PURVA,A,income,Total Revenue,2025-03-31,19232900000.0
+PURVA,A,income,Total Revenue,2026-03-31,36388200000.0
+PURVA,Q,income,Basic EPS,2025-09-30,-1.76
+PURVA,Q,income,Basic EPS,2025-12-31,2.53
+PURVA,Q,income,Basic EPS,2026-03-31,4.77
+PURVA,Q,income,Basic EPS,2026-06-30,1.22
+PURVA,Q,income,Basic EPS,2026-09-30,3.42
+PURVA,Q,income,Diluted EPS,2025-09-30,-1.76
+PURVA,Q,income,Diluted EPS,2025-12-31,2.52
+PURVA,Q,income,Diluted EPS,2026-03-31,4.77
+PURVA,Q,income,Diluted EPS,2026-06-30,1.22
+PURVA,Q,income,Diluted EPS,2026-09-30,3.41
+PURVA,Q,income,EBITDA,2025-09-30,1224500000.0
+PURVA,Q,income,EBITDA,2025-12-31,2539400000.0
+PURVA,Q,income,EBITDA,2026-03-31,3401300000.0
+PURVA,Q,income,EBITDA,2026-06-30,2170300000.0
+PURVA,Q,income,EBITDA,2026-09-30,2887300000.0
+PURVA,Q,income,Interest Expense,2025-09-30,1685800000.0
+PURVA,Q,income,Interest Expense,2025-12-31,1647500000.0
+PURVA,Q,income,Interest Expense,2026-03-31,1843900000.0
+PURVA,Q,income,Interest Expense,2026-06-30,1789400000.0
+PURVA,Q,income,Interest Expense,2026-09-30,1804200000.0
+PURVA,Q,income,Net Income,2025-09-30,-417900000.0
+PURVA,Q,income,Net Income,2025-12-31,599400000.0
+PURVA,Q,income,Net Income,2026-03-31,1132400000.0
+PURVA,Q,income,Net Income,2026-06-30,288500000.0
+PURVA,Q,income,Net Income,2026-09-30,811200000.0
+PURVA,Q,income,Net Income Common Stockholders,2025-09-30,-417900000.0
+PURVA,Q,income,Net Income Common Stockholders,2025-12-31,599400000.0
+PURVA,Q,income,Net Income Common Stockholders,2026-03-31,1132400000.0
+PURVA,Q,income,Net Income Common Stockholders,2026-06-30,288500000.0
+PURVA,Q,income,Net Income Common Stockholders,2026-09-30,811200000.0
+PURVA,Q,income,Operating Income,2025-09-30,935300000.0
+PURVA,Q,income,Operating Income,2025-12-31,2087100000.0
+PURVA,Q,income,Operating Income,2026-03-31,2907200000.0
+PURVA,Q,income,Operating Income,2026-06-30,1765700000.0
+PURVA,Q,income,Operating Income,2026-09-30,1068100000.0
+PURVA,Q,income,Pretax Income,2025-09-30,-566500000.0
+PURVA,Q,income,Pretax Income,2025-12-31,786400000.0
+PURVA,Q,income,Pretax Income,2026-03-31,1449600000.0
+PURVA,Q,income,Pretax Income,2026-06-30,260200000.0
+PURVA,Q,income,Pretax Income,2026-09-30,938500000.0
+PURVA,Q,income,Total Revenue,2025-09-30,6442000000.0
+PURVA,Q,income,Total Revenue,2025-12-31,10693100000.0
+PURVA,Q,income,Total Revenue,2026-03-31,15019200000.0
+PURVA,Q,income,Total Revenue,2026-06-30,8487200000.0
+PURVA,Q,income,Total Revenue,2026-09-30,10325000000.0

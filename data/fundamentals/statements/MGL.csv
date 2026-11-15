@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+MGL,A,balance,Cash And Cash Equivalents,2023-03-31,1179000000.0
+MGL,A,balance,Cash And Cash Equivalents,2024-03-31,1293700000.0
+MGL,A,balance,Cash And Cash Equivalents,2025-03-31,1517500000.0
+MGL,A,balance,Cash And Cash Equivalents,2026-03-31,572000000.0
+MGL,A,balance,Ordinary Shares Number,2023-03-31,98777778.0
+MGL,A,balance,Ordinary Shares Number,2024-03-31,98777778.0
+MGL,A,balance,Ordinary Shares Number,2025-03-31,98777778.0
+MGL,A,balance,Ordinary Shares Number,2026-03-31,98777778.0
+MGL,A,balance,Stockholders Equity,2023-03-31,41342200000.0
+MGL,A,balance,Stockholders Equity,2024-03-31,51302100000.0
+MGL,A,balance,Stockholders Equity,2025-03-31,58774900000.0
+MGL,A,balance,Stockholders Equity,2026-03-31,64276100000.0
+MGL,A,balance,Total Assets,2023-03-31,60323100000.0
+MGL,A,balance,Total Assets,2024-03-31,72534000000.0
+MGL,A,balance,Total Assets,2025-03-31,83015300000.0
+MGL,A,balance,Total Assets,2026-03-31,89811200000.0
+MGL,A,balance,Total Debt,2023-03-31,1146100000.0
+MGL,A,balance,Total Debt,2024-03-31,1414300000.0
+MGL,A,balance,Total Debt,2025-03-31,2010300000.0
+MGL,A,balance,Total Debt,2026-03-31,2228700000.0
+MGL,A,cashflow,Capital Expenditure,2023-03-31,-7130700000.0
+MGL,A,cashflow,Capital Expenditure,2024-03-31,-7833500000.0
+MGL,A,cashflow,Capital Expenditure,2025-03-31,-11839400000.0
+MGL,A,cashflow,Capital Expenditure,2026-03-31,-10756000000.0
+MGL,A,cashflow,Free Cash Flow,2023-03-31,2562300000.0
+MGL,A,cashflow,Free Cash Flow,2024-03-31,7845200000.0
+MGL,A,cashflow,Free Cash Flow,2025-03-31,2226800000.0
+MGL,A,cashflow,Free Cash Flow,2026-03-31,866900000.0
+MGL,A,cashflow,Operating Cash Flow,2023-03-31,9693000000.0
+MGL,A,cashflow,Operating Cash Flow,2024-03-31,15678700000.0
+MGL,A,cashflow,Operating Cash Flow,2025-03-31,14066200000.0
+MGL,A,cashflow,Operating Cash Flow,2026-03-31,11622900000.0
+MGL,A,income,Basic EPS,2023-03-31,79.98
+MGL,A,income,Basic EPS,2024-03-31,130.06
+MGL,A,income,Basic EPS,2025-03-31,105.31
+MGL,A,income,Basic EPS,2026-03-31,85.15
+MGL,A,income,Diluted EPS,2023-03-31,79.98
+MGL,A,income,Diluted EPS,2024-03-31,130.06
+MGL,A,income,Diluted EPS,2025-03-31,105.31
+MGL,A,income,Diluted EPS,2026-03-31,85.15
+MGL,A,income,EBITDA,2023-03-31,12960700000.0
+MGL,A,income,EBITDA,2024-03-31,20187700000.0
+MGL,A,income,EBITDA,2025-03-31,17357000000.0
+MGL,A,income,EBITDA,2026-03-31,15654300000.0
+MGL,A,income,Interest Expense,2023-03-31,93900000.0
+MGL,A,income,Interest Expense,2024-03-31,133000000.0
+MGL,A,income,Interest Expense,2025-03-31,140600000.0
+MGL,A,income,Interest Expense,2026-03-31,209600000.0
+MGL,A,income,Net Income,2023-03-31,7900500000.0
+MGL,A,income,Net Income,2024-03-31,12846900000.0
+MGL,A,income,Net Income,2025-03-31,10402700000.0
+MGL,A,income,Net Income,2026-03-31,8411400000.0
+MGL,A,income,Net Income Common Stockholders,2023-03-31,7900500000.0
+MGL,A,income,Net Income Common Stockholders,2024-03-31,12846900000.0
+MGL,A,income,Net Income Common Stockholders,2025-03-31,10402700000.0
+MGL,A,income,Net Income Common Stockholders,2026-03-31,8411400000.0
+MGL,A,income,Operating Income,2023-03-31,9624900000.0
+MGL,A,income,Operating Income,2024-03-31,15772200000.0
+MGL,A,income,Operating Income,2025-03-31,12236900000.0
+MGL,A,income,Operating Income,2026-03-31,10488300000.0
+MGL,A,income,Pretax Income,2023-03-31,10555400000.0
+MGL,A,income,Pretax Income,2024-03-31,17281100000.0
+MGL,A,income,Pretax Income,2025-03-31,13695900000.0
+MGL,A,income,Pretax Income,2026-03-31,11345900000.0
+MGL,A,income,Total Revenue,2023-03-31,62772700000.0
+MGL,A,income,Total Revenue,2024-03-31,62669100000.0
+MGL,A,income,Total Revenue,2025-03-31,72275100000.0
+MGL,A,income,Total Revenue,2026-03-31,82065600000.0
+MGL,Q,income,Basic EPS,2025-06-30,32.26
+MGL,Q,income,Basic EPS,2025-12-31,20.36
+MGL,Q,income,Basic EPS,2026-03-31,13.15
+MGL,Q,income,Basic EPS,2026-06-30,19.54
+MGL,Q,income,Basic EPS,2026-09-30,13.73
+MGL,Q,income,Diluted EPS,2025-06-30,32.26
+MGL,Q,income,Diluted EPS,2025-12-31,20.36
+MGL,Q,income,Diluted EPS,2026-03-31,13.15
+MGL,Q,income,Diluted EPS,2026-06-30,19.54
+MGL,Q,income,Diluted EPS,2026-09-30,13.73
+MGL,Q,income,EBITDA,2025-06-30,5320500000.0
+MGL,Q,income,EBITDA,2025-12-31,3809100000.0
+MGL,Q,income,EBITDA,2026-03-31,2874600000.0
+MGL,Q,income,EBITDA,2026-06-30,3729000000.0
+MGL,Q,income,EBITDA,2026-09-30,3098800000.0
+MGL,Q,income,Interest Expense,2025-06-30,45700000.0
+MGL,Q,income,Interest Expense,2025-12-31,64000000.0
+MGL,Q,income,Interest Expense,2026-03-31,48700000.0
+MGL,Q,income,Interest Expense,2026-06-30,59300000.0
+MGL,Q,income,Interest Expense,2026-09-30,78300000.0
+MGL,Q,income,Net Income,2025-06-30,3186800000.0
+MGL,Q,income,Net Income,2025-12-31,2011500000.0
+MGL,Q,income,Net Income,2026-03-31,1299400000.0
+MGL,Q,income,Net Income,2026-06-30,1930000000.0
+MGL,Q,income,Net Income,2026-09-30,1356200000.0
+MGL,Q,income,Net Income Common Stockholders,2025-06-30,3186800000.0
+MGL,Q,income,Net Income Common Stockholders,2025-12-31,2011500000.0
+MGL,Q,income,Net Income Common Stockholders,2026-03-31,1299400000.0
+MGL,Q,income,Net Income Common Stockholders,2026-06-30,1930000000.0
+MGL,Q,income,Net Income Common Stockholders,2026-09-30,1356200000.0
+MGL,Q,income,Operating Income,2025-06-30,4045900000.0
+MGL,Q,income,Operating Income,2025-12-31,2485300000.0
+MGL,Q,income,Operating Income,2026-03-31,1537100000.0
+MGL,Q,income,Operating Income,2026-06-30,2338200000.0
+MGL,Q,income,Operating Income,2026-09-30,1881900000.0
+MGL,Q,income,Pretax Income,2025-06-30,4313900000.0
+MGL,Q,income,Pretax Income,2025-12-31,2709600000.0
+MGL,Q,income,Pretax Income,2026-03-31,1763300000.0
+MGL,Q,income,Pretax Income,2026-06-30,2580100000.0
+MGL,Q,income,Pretax Income,2026-09-30,1854000000.0
+MGL,Q,income,Total Revenue,2025-06-30,20830100000.0
+MGL,Q,income,Total Revenue,2025-12-31,20602400000.0
+MGL,Q,income,Total Revenue,2026-03-31,20520500000.0
+MGL,Q,income,Total Revenue,2026-06-30,23727200000.0
+MGL,Q,income,Total Revenue,2026-09-30,25383800000.0

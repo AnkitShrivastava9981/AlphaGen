@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+PNB,A,balance,Cash And Cash Equivalents,2023-03-31,1573284800000.0
+PNB,A,balance,Cash And Cash Equivalents,2024-03-31,1314001900000.0
+PNB,A,balance,Cash And Cash Equivalents,2025-03-31,1507595800000.0
+PNB,A,balance,Cash And Cash Equivalents,2026-03-31,1641219800000.0
+PNB,A,balance,Ordinary Shares Number,2023-03-31,11011015558.0
+PNB,A,balance,Ordinary Shares Number,2024-03-31,11011015558.0
+PNB,A,balance,Ordinary Shares Number,2025-03-31,11492943268.0
+PNB,A,balance,Ordinary Shares Number,2026-03-31,11492943268.0
+PNB,A,balance,Stockholders Equity,2023-03-31,1028805000000.0
+PNB,A,balance,Stockholders Equity,2024-03-31,1103867300000.0
+PNB,A,balance,Stockholders Equity,2025-03-31,1331379600000.0
+PNB,A,balance,Stockholders Equity,2026-03-31,1499722200000.0
+PNB,A,balance,Total Assets,2023-03-31,14936489400000.0
+PNB,A,balance,Total Assets,2024-03-31,15986359600000.0
+PNB,A,balance,Total Assets,2025-03-31,18575436300000.0
+PNB,A,balance,Total Assets,2026-03-31,20333309500000.0
+PNB,A,balance,Total Debt,2023-03-31,701486200000.0
+PNB,A,balance,Total Debt,2024-03-31,725856200000.0
+PNB,A,balance,Total Debt,2025-03-31,719990700000.0
+PNB,A,balance,Total Debt,2026-03-31,862682300000.0
+PNB,A,cashflow,Capital Expenditure,2023-03-31,-5523900000.0
+PNB,A,cashflow,Capital Expenditure,2024-03-31,-11750000000.0
+PNB,A,cashflow,Capital Expenditure,2025-03-31,-16014100000.0
+PNB,A,cashflow,Capital Expenditure,2026-03-31,-16245800000.0
+PNB,A,cashflow,Free Cash Flow,2023-03-31,220397100000.0
+PNB,A,cashflow,Free Cash Flow,2024-03-31,-291144400000.0
+PNB,A,cashflow,Free Cash Flow,2025-03-31,204738700000.0
+PNB,A,cashflow,Free Cash Flow,2026-03-31,240108300000.0
+PNB,A,cashflow,Operating Cash Flow,2023-03-31,225921000000.0
+PNB,A,cashflow,Operating Cash Flow,2024-03-31,-279394400000.0
+PNB,A,cashflow,Operating Cash Flow,2025-03-31,220752800000.0
+PNB,A,cashflow,Operating Cash Flow,2026-03-31,256354100000.0
+PNB,A,income,Basic EPS,2023-03-31,3.04
+PNB,A,income,Basic EPS,2024-03-31,8.27
+PNB,A,income,Basic EPS,2025-03-31,16.42
+PNB,A,income,Basic EPS,2026-03-31,16.0
+PNB,A,income,Diluted EPS,2023-03-31,3.04
+PNB,A,income,Diluted EPS,2024-03-31,8.27
+PNB,A,income,Diluted EPS,2025-03-31,16.42
+PNB,A,income,Diluted EPS,2026-03-31,16.0
+PNB,A,income,Interest Expense,2023-03-31,518169900000.0
+PNB,A,income,Interest Expense,2024-03-31,685341600000.0
+PNB,A,income,Interest Expense,2025-03-31,807038400000.0
+PNB,A,income,Interest Expense,2026-03-31,880694000000.0
+PNB,A,income,Net Income,2023-03-31,33484500000.0
+PNB,A,income,Net Income,2024-03-31,91072000000.0
+PNB,A,income,Net Income,2025-03-31,184802900000.0
+PNB,A,income,Net Income,2026-03-31,183926900000.0
+PNB,A,income,Net Income Common Stockholders,2023-03-31,33484500000.0
+PNB,A,income,Net Income Common Stockholders,2024-03-31,91072000000.0
+PNB,A,income,Net Income Common Stockholders,2025-03-31,184802900000.0
+PNB,A,income,Net Income Common Stockholders,2026-03-31,183926900000.0
+PNB,A,income,Pretax Income,2023-03-31,51508800000.0
+PNB,A,income,Pretax Income,2024-03-31,141599500000.0
+PNB,A,income,Pretax Income,2025-03-31,271655200000.0
+PNB,A,income,Pretax Income,2026-03-31,284525900000.0
+PNB,A,income,Total Revenue,2023-03-31,470921000000.0
+PNB,A,income,Total Revenue,2024-03-31,552605200000.0
+PNB,A,income,Total Revenue,2025-03-31,597605500000.0
+PNB,A,income,Total Revenue,2026-03-31,626199700000.0
+PNB,Q,income,Basic EPS,2025-06-30,1.84
+PNB,Q,income,Basic EPS,2025-12-31,4.83
+PNB,Q,income,Basic EPS,2026-03-31,4.83
+PNB,Q,income,Basic EPS,2026-06-30,5.06
+PNB,Q,income,Basic EPS,2026-09-30,5.13
+PNB,Q,income,Diluted EPS,2025-06-30,1.84
+PNB,Q,income,Diluted EPS,2025-12-31,4.83
+PNB,Q,income,Diluted EPS,2026-03-31,4.83
+PNB,Q,income,Diluted EPS,2026-06-30,5.06
+PNB,Q,income,Diluted EPS,2026-09-30,5.13
+PNB,Q,income,Interest Expense,2025-06-30,218283300000.0
+PNB,Q,income,Interest Expense,2025-12-31,221644300000.0
+PNB,Q,income,Interest Expense,2026-03-31,222187800000.0
+PNB,Q,income,Interest Expense,2026-06-30,225833000000.0
+PNB,Q,income,Interest Expense,2026-09-30,234640500000.0
+PNB,Q,income,Net Income,2025-06-30,21198800000.0
+PNB,Q,income,Net Income,2025-12-31,55558900000.0
+PNB,Q,income,Net Income,2026-03-31,55916400000.0
+PNB,Q,income,Net Income,2026-06-30,58147200000.0
+PNB,Q,income,Net Income,2026-09-30,58983700000.0
+PNB,Q,income,Net Income Common Stockholders,2025-06-30,21198800000.0
+PNB,Q,income,Net Income Common Stockholders,2025-12-31,55558900000.0
+PNB,Q,income,Net Income Common Stockholders,2026-03-31,55916400000.0
+PNB,Q,income,Net Income Common Stockholders,2026-06-30,58147200000.0
+PNB,Q,income,Net Income Common Stockholders,2026-09-30,58983700000.0
+PNB,Q,income,Pretax Income,2025-06-30,69734200000.0
+PNB,Q,income,Pretax Income,2025-12-31,64398800000.0
+PNB,Q,income,Pretax Income,2026-03-31,71412800000.0
+PNB,Q,income,Pretax Income,2026-06-30,71080600000.0
+PNB,Q,income,Pretax Income,2026-09-30,74882600000.0
+PNB,Q,income,Total Revenue,2025-06-30,161705100000.0
+PNB,Q,income,Total Revenue,2025-12-31,157382300000.0
+PNB,Q,income,Total Revenue,2026-03-31,146592400000.0
+PNB,Q,income,Total Revenue,2026-06-30,153704500000.0
+PNB,Q,income,Total Revenue,2026-09-30,153270500000.0

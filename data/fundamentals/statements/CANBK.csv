@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+CANBK,A,balance,Cash And Cash Equivalents,2023-03-31,1417028205000.0
+CANBK,A,balance,Cash And Cash Equivalents,2024-03-31,1511646899000.0
+CANBK,A,balance,Cash And Cash Equivalents,2025-03-31,2058901119000.0
+CANBK,A,balance,Cash And Cash Equivalents,2026-03-31,2063304304000.0
+CANBK,A,balance,Ordinary Shares Number,2023-03-31,9070651260.0
+CANBK,A,balance,Ordinary Shares Number,2024-03-31,9070651260.0
+CANBK,A,balance,Ordinary Shares Number,2025-03-31,9070651260.0
+CANBK,A,balance,Ordinary Shares Number,2026-03-31,9070651260.0
+CANBK,A,balance,Stockholders Equity,2023-03-31,780537533000.0
+CANBK,A,balance,Stockholders Equity,2024-03-31,921332333000.0
+CANBK,A,balance,Stockholders Equity,2025-03-31,1054167601000.0
+CANBK,A,balance,Stockholders Equity,2026-03-31,1177046427000.0
+CANBK,A,balance,Total Assets,2023-03-31,13810295621000.0
+CANBK,A,balance,Total Assets,2024-03-31,15350176368000.0
+CANBK,A,balance,Total Assets,2025-03-31,17325273850000.0
+CANBK,A,balance,Total Assets,2026-03-31,18873251179000.0
+CANBK,A,balance,Total Debt,2023-03-31,594125643000.0
+CANBK,A,balance,Total Debt,2024-03-31,600612672000.0
+CANBK,A,balance,Total Debt,2025-03-31,832376594000.0
+CANBK,A,balance,Total Debt,2026-03-31,1205076626000.0
+CANBK,A,cashflow,Capital Expenditure,2022-03-31,-8210200000.0
+CANBK,A,cashflow,Capital Expenditure,2023-03-31,-6134500000.0
+CANBK,A,cashflow,Capital Expenditure,2024-03-31,-12531500000.0
+CANBK,A,cashflow,Capital Expenditure,2026-03-31,-12897700000.0
+CANBK,A,cashflow,Free Cash Flow,2023-03-31,-405913200000.0
+CANBK,A,cashflow,Free Cash Flow,2024-03-31,137933500000.0
+CANBK,A,cashflow,Free Cash Flow,2025-03-31,606685800000.0
+CANBK,A,cashflow,Free Cash Flow,2026-03-31,66521700000.0
+CANBK,A,cashflow,Operating Cash Flow,2023-03-31,-399778700000.0
+CANBK,A,cashflow,Operating Cash Flow,2024-03-31,150465000000.0
+CANBK,A,cashflow,Operating Cash Flow,2025-03-31,606685800000.0
+CANBK,A,cashflow,Operating Cash Flow,2026-03-31,79419400000.0
+CANBK,A,income,Basic EPS,2023-03-31,12.408
+CANBK,A,income,Basic EPS,2024-03-31,16.844
+CANBK,A,income,Basic EPS,2025-03-31,19.34
+CANBK,A,income,Basic EPS,2026-03-31,21.73
+CANBK,A,income,Diluted EPS,2023-03-31,12.408
+CANBK,A,income,Diluted EPS,2024-03-31,16.844
+CANBK,A,income,Diluted EPS,2025-03-31,19.34
+CANBK,A,income,Diluted EPS,2026-03-31,21.73
+CANBK,A,income,Interest Expense,2023-03-31,529900640000.0
+CANBK,A,income,Interest Expense,2024-03-31,721175863000.0
+CANBK,A,income,Interest Expense,2025-03-31,826806753000.0
+CANBK,A,income,Interest Expense,2026-03-31,891375158000.0
+CANBK,A,income,Net Income,2023-03-31,112547457000.0
+CANBK,A,income,Net Income,2024-03-31,152785644000.0
+CANBK,A,income,Net Income,2025-03-31,175396241000.0
+CANBK,A,income,Net Income,2026-03-31,197059095000.0
+CANBK,A,income,Net Income Common Stockholders,2023-03-31,112547457000.0
+CANBK,A,income,Net Income Common Stockholders,2024-03-31,152785644000.0
+CANBK,A,income,Net Income Common Stockholders,2025-03-31,175396241000.0
+CANBK,A,income,Net Income Common Stockholders,2026-03-31,197059095000.0
+CANBK,A,income,Pretax Income,2023-03-31,149634531000.0
+CANBK,A,income,Pretax Income,2024-03-31,206181174000.0
+CANBK,A,income,Pretax Income,2025-03-31,233809371000.0
+CANBK,A,income,Pretax Income,2026-03-31,271482649000.0
+CANBK,A,income,Total Revenue,2023-03-31,553766487000.0
+CANBK,A,income,Total Revenue,2024-03-31,661201114000.0
+CANBK,A,income,Total Revenue,2025-03-31,711938129000.0
+CANBK,A,income,Total Revenue,2026-03-31,641752896000.0
+CANBK,Q,income,Basic EPS,2025-06-30,3.52
+CANBK,Q,income,Basic EPS,2025-12-31,5.79
+CANBK,Q,income,Basic EPS,2026-03-31,5.04
+CANBK,Q,income,Basic EPS,2026-06-30,5.71
+CANBK,Q,income,Basic EPS,2026-09-30,5.93
+CANBK,Q,income,Diluted EPS,2025-06-30,3.52
+CANBK,Q,income,Diluted EPS,2025-12-31,5.79
+CANBK,Q,income,Diluted EPS,2026-03-31,5.04
+CANBK,Q,income,Diluted EPS,2026-06-30,5.71
+CANBK,Q,income,Diluted EPS,2026-09-30,5.93
+CANBK,Q,income,Interest Expense,2025-06-30,219921600000.0
+CANBK,Q,income,Interest Expense,2025-12-31,227087900000.0
+CANBK,Q,income,Interest Expense,2026-03-31,220243500000.0
+CANBK,Q,income,Interest Expense,2026-06-30,227374000000.0
+CANBK,Q,income,Interest Expense,2026-09-30,241506000000.0
+CANBK,Q,income,Net Income,2025-06-30,31949500000.0
+CANBK,Q,income,Net Income,2025-12-31,52536700000.0
+CANBK,Q,income,Net Income,2026-03-31,45742300000.0
+CANBK,Q,income,Net Income,2026-06-30,51807100000.0
+CANBK,Q,income,Net Income,2026-09-30,53815900000.0
+CANBK,Q,income,Net Income Common Stockholders,2025-06-30,31949500000.0
+CANBK,Q,income,Net Income Common Stockholders,2025-12-31,52536700000.0
+CANBK,Q,income,Net Income Common Stockholders,2026-03-31,45742300000.0
+CANBK,Q,income,Net Income Common Stockholders,2026-06-30,51807100000.0
+CANBK,Q,income,Net Income Common Stockholders,2026-09-30,53815900000.0
+CANBK,Q,income,Pretax Income,2025-06-30,63083500000.0
+CANBK,Q,income,Pretax Income,2025-12-31,63788100000.0
+CANBK,Q,income,Pretax Income,2026-03-31,56437600000.0
+CANBK,Q,income,Pretax Income,2026-06-30,65668900000.0
+CANBK,Q,income,Pretax Income,2026-09-30,69856200000.0
+CANBK,Q,income,Total Revenue,2025-06-30,194493500000.0
+CANBK,Q,income,Total Revenue,2025-12-31,103805700000.0
+CANBK,Q,income,Total Revenue,2026-03-31,145142600000.0
+CANBK,Q,income,Total Revenue,2026-06-30,169583100000.0
+CANBK,Q,income,Total Revenue,2026-09-30,167882000000.0

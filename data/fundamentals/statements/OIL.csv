@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+OIL,A,balance,Cash And Cash Equivalents,2023-03-31,3406400000.0
+OIL,A,balance,Cash And Cash Equivalents,2024-03-31,3159900000.0
+OIL,A,balance,Cash And Cash Equivalents,2025-03-31,6131800000.0
+OIL,A,balance,Cash And Cash Equivalents,2026-03-31,13233600000.0
+OIL,A,balance,Net Debt,2023-03-31,182082400000.0
+OIL,A,balance,Net Debt,2024-03-31,233242600000.0
+OIL,A,balance,Net Debt,2025-03-31,292024300000.0
+OIL,A,balance,Net Debt,2026-03-31,346355100000.0
+OIL,A,balance,Ordinary Shares Number,2023-03-31,1626607791.0
+OIL,A,balance,Ordinary Shares Number,2024-03-31,1626607791.0
+OIL,A,balance,Ordinary Shares Number,2025-03-31,1626607791.0
+OIL,A,balance,Ordinary Shares Number,2026-03-31,1626607791.0
+OIL,A,balance,Stockholders Equity,2023-03-31,384814900000.0
+OIL,A,balance,Stockholders Equity,2024-03-31,483389900000.0
+OIL,A,balance,Stockholders Equity,2025-03-31,497677200000.0
+OIL,A,balance,Stockholders Equity,2026-03-31,579983600000.0
+OIL,A,balance,Total Assets,2023-03-31,738830200000.0
+OIL,A,balance,Total Assets,2024-03-31,921528600000.0
+OIL,A,balance,Total Assets,2025-03-31,1044446700000.0
+OIL,A,balance,Total Assets,2026-03-31,1238480400000.0
+OIL,A,balance,Total Debt,2023-03-31,188317500000.0
+OIL,A,balance,Total Debt,2024-03-31,240405000000.0
+OIL,A,balance,Total Debt,2025-03-31,306452400000.0
+OIL,A,balance,Total Debt,2026-03-31,374779800000.0
+OIL,A,cashflow,Capital Expenditure,2023-03-31,-85245500000.0
+OIL,A,cashflow,Capital Expenditure,2024-03-31,-120628300000.0
+OIL,A,cashflow,Capital Expenditure,2025-03-31,-129689900000.0
+OIL,A,cashflow,Capital Expenditure,2026-03-31,-131709300000.0
+OIL,A,cashflow,Free Cash Flow,2023-03-31,28858600000.0
+OIL,A,cashflow,Free Cash Flow,2024-03-31,-11296900000.0
+OIL,A,cashflow,Free Cash Flow,2025-03-31,-16369500000.0
+OIL,A,cashflow,Free Cash Flow,2026-03-31,-24871800000.0
+OIL,A,cashflow,Operating Cash Flow,2023-03-31,114104100000.0
+OIL,A,cashflow,Operating Cash Flow,2024-03-31,109331400000.0
+OIL,A,cashflow,Operating Cash Flow,2025-03-31,113320400000.0
+OIL,A,cashflow,Operating Cash Flow,2026-03-31,106837500000.0
+OIL,A,income,Basic EPS,2023-03-31,53.66
+OIL,A,income,Basic EPS,2024-03-31,38.95
+OIL,A,income,Basic EPS,2025-03-31,40.27
+OIL,A,income,Basic EPS,2026-03-31,40.7
+OIL,A,income,Diluted EPS,2023-03-31,53.66
+OIL,A,income,Diluted EPS,2024-03-31,38.95
+OIL,A,income,Diluted EPS,2025-03-31,40.27
+OIL,A,income,Diluted EPS,2026-03-31,40.7
+OIL,A,income,EBITDA,2023-03-31,159046500000.0
+OIL,A,income,EBITDA,2024-03-31,118909500000.0
+OIL,A,income,EBITDA,2025-03-31,127210000000.0
+OIL,A,income,EBITDA,2026-03-31,133253900000.0
+OIL,A,income,Interest Expense,2023-03-31,8138300000.0
+OIL,A,income,Interest Expense,2024-03-31,9160600000.0
+OIL,A,income,Interest Expense,2025-03-31,9663400000.0
+OIL,A,income,Interest Expense,2026-03-31,10315000000.0
+OIL,A,income,Net Income,2023-03-31,87285900000.0
+OIL,A,income,Net Income,2024-03-31,63351000000.0
+OIL,A,income,Net Income,2025-03-31,65509300000.0
+OIL,A,income,Net Income,2026-03-31,66199400000.0
+OIL,A,income,Net Income Common Stockholders,2023-03-31,87285900000.0
+OIL,A,income,Net Income Common Stockholders,2024-03-31,63351000000.0
+OIL,A,income,Net Income Common Stockholders,2025-03-31,65509300000.0
+OIL,A,income,Net Income Common Stockholders,2026-03-31,66199400000.0
+OIL,A,income,Operating Income,2023-03-31,147854100000.0
+OIL,A,income,Operating Income,2024-03-31,119978000000.0
+OIL,A,income,Operating Income,2025-03-31,110779000000.0
+OIL,A,income,Operating Income,2026-03-31,119326200000.0
+OIL,A,income,Pretax Income,2023-03-31,131438800000.0
+OIL,A,income,Pretax Income,2024-03-31,88459100000.0
+OIL,A,income,Pretax Income,2025-03-31,94364300000.0
+OIL,A,income,Pretax Income,2026-03-31,95819200000.0
+OIL,A,income,Total Revenue,2023-03-31,360839000000.0
+OIL,A,income,Total Revenue,2024-03-31,324658100000.0
+OIL,A,income,Total Revenue,2025-03-31,325096600000.0
+OIL,A,income,Total Revenue,2026-03-31,339434100000.0
+OIL,Q,income,Basic EPS,2025-09-30,8.78
+OIL,Q,income,Basic EPS,2025-12-31,7.35
+OIL,Q,income,Basic EPS,2026-03-31,12.91
+OIL,Q,income,Basic EPS,2026-06-30,22.32
+OIL,Q,income,Basic EPS,2026-09-30,14.19
+OIL,Q,income,Diluted EPS,2025-09-30,8.78
+OIL,Q,income,Diluted EPS,2025-12-31,7.35
+OIL,Q,income,Diluted EPS,2026-03-31,12.91
+OIL,Q,income,Diluted EPS,2026-06-30,22.32
+OIL,Q,income,Diluted EPS,2026-09-30,14.19
+OIL,Q,income,EBITDA,2025-09-30,23529700000.0
+OIL,Q,income,EBITDA,2025-12-31,22286800000.0
+OIL,Q,income,EBITDA,2026-03-31,35004600000.0
+OIL,Q,income,EBITDA,2026-06-30,56243000000.0
+OIL,Q,income,EBITDA,2026-09-30,37849800000.0
+OIL,Q,income,Interest Expense,2025-09-30,3052400000.0
+OIL,Q,income,Interest Expense,2025-12-31,3187000000.0
+OIL,Q,income,Interest Expense,2026-03-31,3813300000.0
+OIL,Q,income,Interest Expense,2026-06-30,3021300000.0
+OIL,Q,income,Interest Expense,2026-09-30,3509900000.0
+OIL,Q,income,Net Income,2025-09-30,14288300000.0
+OIL,Q,income,Net Income,2025-12-31,11950800000.0
+OIL,Q,income,Net Income,2026-03-31,20996100000.0
+OIL,Q,income,Net Income,2026-06-30,36297900000.0
+OIL,Q,income,Net Income,2026-09-30,23090300000.0
+OIL,Q,income,Net Income Common Stockholders,2025-09-30,14288300000.0
+OIL,Q,income,Net Income Common Stockholders,2025-12-31,11950800000.0
+OIL,Q,income,Net Income Common Stockholders,2026-03-31,20996100000.0
+OIL,Q,income,Net Income Common Stockholders,2026-06-30,36297900000.0
+OIL,Q,income,Net Income Common Stockholders,2026-09-30,23090300000.0
+OIL,Q,income,Operating Income,2025-09-30,16322400000.0
+OIL,Q,income,Operating Income,2025-12-31,17956600000.0
+OIL,Q,income,Operating Income,2026-03-31,25817700000.0
+OIL,Q,income,Operating Income,2026-06-30,50947700000.0
+OIL,Q,income,Operating Income,2026-09-30,32092200000.0
+OIL,Q,income,Pretax Income,2025-09-30,20477300000.0
+OIL,Q,income,Pretax Income,2025-12-31,19099800000.0
+OIL,Q,income,Pretax Income,2026-03-31,31191300000.0
+OIL,Q,income,Pretax Income,2026-06-30,53221700000.0
+OIL,Q,income,Pretax Income,2026-09-30,34339900000.0
+OIL,Q,income,Total Revenue,2025-09-30,83941100000.0
+OIL,Q,income,Total Revenue,2025-12-31,83300900000.0
+OIL,Q,income,Total Revenue,2026-03-31,92932700000.0
+OIL,Q,income,Total Revenue,2026-06-30,125033200000.0
+OIL,Q,income,Total Revenue,2026-09-30,115348700000.0

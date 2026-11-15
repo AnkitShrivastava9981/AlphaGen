@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+LTM,A,balance,Cash And Cash Equivalents,2023-03-31,23216000000.0
+LTM,A,balance,Cash And Cash Equivalents,2024-03-31,18063000000.0
+LTM,A,balance,Cash And Cash Equivalents,2025-03-31,20623000000.0
+LTM,A,balance,Cash And Cash Equivalents,2026-03-31,23311000000.0
+LTM,A,balance,Ordinary Shares Number,2023-03-31,295806721.0
+LTM,A,balance,Ordinary Shares Number,2024-03-31,296009074.0
+LTM,A,balance,Ordinary Shares Number,2025-03-31,296272921.0
+LTM,A,balance,Ordinary Shares Number,2026-03-31,296461217.0
+LTM,A,balance,Stockholders Equity,2023-03-31,165921000000.0
+LTM,A,balance,Stockholders Equity,2024-03-31,200172000000.0
+LTM,A,balance,Stockholders Equity,2025-03-31,226983000000.0
+LTM,A,balance,Stockholders Equity,2026-03-31,240250000000.0
+LTM,A,balance,Total Assets,2023-03-31,234961000000.0
+LTM,A,balance,Total Assets,2024-03-31,275630000000.0
+LTM,A,balance,Total Assets,2025-03-31,306300000000.0
+LTM,A,balance,Total Assets,2026-03-31,371960000000.0
+LTM,A,balance,Total Debt,2023-03-31,15412000000.0
+LTM,A,balance,Total Debt,2024-03-31,20706000000.0
+LTM,A,balance,Total Debt,2025-03-31,21873000000.0
+LTM,A,balance,Total Debt,2026-03-31,23100000000.0
+LTM,A,cashflow,Capital Expenditure,2023-03-31,-9393000000.0
+LTM,A,cashflow,Capital Expenditure,2024-03-31,-8432000000.0
+LTM,A,cashflow,Capital Expenditure,2025-03-31,-9496000000.0
+LTM,A,cashflow,Capital Expenditure,2026-03-31,-9306000000.0
+LTM,A,cashflow,Free Cash Flow,2023-03-31,21553000000.0
+LTM,A,cashflow,Free Cash Flow,2024-03-31,48263000000.0
+LTM,A,cashflow,Free Cash Flow,2025-03-31,35962000000.0
+LTM,A,cashflow,Free Cash Flow,2026-03-31,38682000000.0
+LTM,A,cashflow,Operating Cash Flow,2023-03-31,30946000000.0
+LTM,A,cashflow,Operating Cash Flow,2024-03-31,56695000000.0
+LTM,A,cashflow,Operating Cash Flow,2025-03-31,45458000000.0
+LTM,A,cashflow,Operating Cash Flow,2026-03-31,47988000000.0
+LTM,A,income,Basic EPS,2023-03-31,149.07
+LTM,A,income,Basic EPS,2024-03-31,154.85
+LTM,A,income,Basic EPS,2025-03-31,155.29
+LTM,A,income,Basic EPS,2026-03-31,169.33
+LTM,A,income,Diluted EPS,2023-03-31,148.83
+LTM,A,income,Diluted EPS,2024-03-31,154.48
+LTM,A,income,Diluted EPS,2025-03-31,155.0
+LTM,A,income,Diluted EPS,2026-03-31,169.13
+LTM,A,income,EBITDA,2023-03-31,66296000000.0
+LTM,A,income,EBITDA,2024-03-31,70893000000.0
+LTM,A,income,EBITDA,2025-03-31,73793000000.0
+LTM,A,income,EBITDA,2026-03-31,80151000000.0
+LTM,A,income,Interest Expense,2023-03-31,1154000000.0
+LTM,A,income,Interest Expense,2024-03-31,2217000000.0
+LTM,A,income,Interest Expense,2025-03-31,1736000000.0
+LTM,A,income,Interest Expense,2026-03-31,1699000000.0
+LTM,A,income,Net Income,2023-03-31,44083000000.0
+LTM,A,income,Net Income,2024-03-31,45821000000.0
+LTM,A,income,Net Income,2025-03-31,45987000000.0
+LTM,A,income,Net Income,2026-03-31,50181000000.0
+LTM,A,income,Net Income Common Stockholders,2023-03-31,44083000000.0
+LTM,A,income,Net Income Common Stockholders,2024-03-31,45821000000.0
+LTM,A,income,Net Income Common Stockholders,2025-03-31,45987000000.0
+LTM,A,income,Net Income Common Stockholders,2026-03-31,50181000000.0
+LTM,A,income,Operating Income,2023-03-31,53980000000.0
+LTM,A,income,Operating Income,2024-03-31,55685000000.0
+LTM,A,income,Operating Income,2025-03-31,55286000000.0
+LTM,A,income,Operating Income,2026-03-31,65465000000.0
+LTM,A,income,Pretax Income,2023-03-31,57915000000.0
+LTM,A,income,Pretax Income,2024-03-31,60487000000.0
+LTM,A,income,Pretax Income,2025-03-31,62142000000.0
+LTM,A,income,Pretax Income,2026-03-31,67911000000.0
+LTM,A,income,Total Revenue,2023-03-31,331830000000.0
+LTM,A,income,Total Revenue,2024-03-31,355170000000.0
+LTM,A,income,Total Revenue,2025-03-31,380081000000.0
+LTM,A,income,Total Revenue,2026-03-31,423076000000.0
+LTM,Q,income,Basic EPS,2025-06-30,42.33
+LTM,Q,income,Basic EPS,2025-12-31,32.75
+LTM,Q,income,Basic EPS,2026-03-31,46.97
+LTM,Q,income,Basic EPS,2026-06-30,49.46
+LTM,Q,income,Basic EPS,2026-09-30,47.15
+LTM,Q,income,Diluted EPS,2025-06-30,42.28
+LTM,Q,income,Diluted EPS,2025-12-31,32.71
+LTM,Q,income,Diluted EPS,2026-03-31,46.93
+LTM,Q,income,Diluted EPS,2026-06-30,49.42
+LTM,Q,income,Diluted EPS,2026-09-30,47.11
+LTM,Q,income,EBITDA,2025-06-30,20415000000.0
+LTM,Q,income,EBITDA,2025-12-31,16396000000.0
+LTM,Q,income,EBITDA,2026-03-31,27184000000.0
+LTM,Q,income,EBITDA,2026-06-30,23160000000.0
+LTM,Q,income,EBITDA,2026-09-30,22032000000.0
+LTM,Q,income,Interest Expense,2025-06-30,724000000.0
+LTM,Q,income,Interest Expense,2025-12-31,693000000.0
+LTM,Q,income,Interest Expense,2026-03-31,653000000.0
+LTM,Q,income,Interest Expense,2026-06-30,763000000.0
+LTM,Q,income,Interest Expense,2026-09-30,699000000.0
+LTM,Q,income,Net Income,2025-06-30,12541000000.0
+LTM,Q,income,Net Income,2025-12-31,9706000000.0
+LTM,Q,income,Net Income,2026-03-31,13923000000.0
+LTM,Q,income,Net Income,2026-06-30,14663000000.0
+LTM,Q,income,Net Income,2026-09-30,13979000000.0
+LTM,Q,income,Net Income Common Stockholders,2025-06-30,12541000000.0
+LTM,Q,income,Net Income Common Stockholders,2025-12-31,9706000000.0
+LTM,Q,income,Net Income Common Stockholders,2026-03-31,13923000000.0
+LTM,Q,income,Net Income Common Stockholders,2026-06-30,14663000000.0
+LTM,Q,income,Net Income Common Stockholders,2026-09-30,13979000000.0
+LTM,Q,income,Operating Income,2025-06-30,14065000000.0
+LTM,Q,income,Operating Income,2025-12-31,17371000000.0
+LTM,Q,income,Operating Income,2026-03-31,17094000000.0
+LTM,Q,income,Operating Income,2026-06-30,17993000000.0
+LTM,Q,income,Operating Income,2026-09-30,18381000000.0
+LTM,Q,income,Pretax Income,2025-06-30,17262000000.0
+LTM,Q,income,Pretax Income,2025-12-31,13047000000.0
+LTM,Q,income,Pretax Income,2026-03-31,18810000000.0
+LTM,Q,income,Pretax Income,2026-06-30,19784000000.0
+LTM,Q,income,Pretax Income,2026-09-30,18597000000.0
+LTM,Q,income,Total Revenue,2025-06-30,98406000000.0
+LTM,Q,income,Total Revenue,2025-12-31,107810000000.0
+LTM,Q,income,Total Revenue,2026-03-31,112917000000.0
+LTM,Q,income,Total Revenue,2026-06-30,116080000000.0
+LTM,Q,income,Total Revenue,2026-09-30,118076000000.0

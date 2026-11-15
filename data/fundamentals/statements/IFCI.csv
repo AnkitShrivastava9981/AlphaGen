@@ -1,0 +1,99 @@
+symbol,freq,statement,item,period_end,value
+IFCI,A,balance,Cash And Cash Equivalents,2023-03-31,38767100000.0
+IFCI,A,balance,Cash And Cash Equivalents,2024-03-31,55427200000.0
+IFCI,A,balance,Cash And Cash Equivalents,2025-03-31,55153600000.0
+IFCI,A,balance,Cash And Cash Equivalents,2026-03-31,81615300000.0
+IFCI,A,balance,Net Debt,2022-03-31,45841900000.0
+IFCI,A,balance,Net Debt,2023-03-31,21433500000.0
+IFCI,A,balance,Net Debt,2024-03-31,3206000000.0
+IFCI,A,balance,Ordinary Shares Number,2023-03-31,2195928107.0
+IFCI,A,balance,Ordinary Shares Number,2024-03-31,2489613863.0
+IFCI,A,balance,Ordinary Shares Number,2025-03-31,2694314331.0
+IFCI,A,balance,Ordinary Shares Number,2026-03-31,2694314331.0
+IFCI,A,balance,Stockholders Equity,2023-03-31,37671900000.0
+IFCI,A,balance,Stockholders Equity,2024-03-31,45347400000.0
+IFCI,A,balance,Stockholders Equity,2025-03-31,86907500000.0
+IFCI,A,balance,Stockholders Equity,2026-03-31,89449300000.0
+IFCI,A,balance,Total Assets,2023-03-31,169387300000.0
+IFCI,A,balance,Total Assets,2024-03-31,189175700000.0
+IFCI,A,balance,Total Assets,2025-03-31,257237700000.0
+IFCI,A,balance,Total Assets,2026-03-31,265703700000.0
+IFCI,A,balance,Total Debt,2023-03-31,60200600000.0
+IFCI,A,balance,Total Debt,2024-03-31,53675500000.0
+IFCI,A,balance,Total Debt,2025-03-31,37135400000.0
+IFCI,A,balance,Total Debt,2026-03-31,35234700000.0
+IFCI,A,cashflow,Capital Expenditure,2023-03-31,-655500000.0
+IFCI,A,cashflow,Capital Expenditure,2024-03-31,-440400000.0
+IFCI,A,cashflow,Capital Expenditure,2025-03-31,-468600000.0
+IFCI,A,cashflow,Capital Expenditure,2026-03-31,-590500000.0
+IFCI,A,cashflow,Free Cash Flow,2023-03-31,-4011200000.0
+IFCI,A,cashflow,Free Cash Flow,2024-03-31,-321700000.0
+IFCI,A,cashflow,Free Cash Flow,2025-03-31,-10306000000.0
+IFCI,A,cashflow,Free Cash Flow,2026-03-31,2206800000.0
+IFCI,A,cashflow,Operating Cash Flow,2023-03-31,-3355700000.0
+IFCI,A,cashflow,Operating Cash Flow,2024-03-31,118700000.0
+IFCI,A,cashflow,Operating Cash Flow,2025-03-31,-9837400000.0
+IFCI,A,cashflow,Operating Cash Flow,2026-03-31,2797300000.0
+IFCI,A,income,Basic EPS,2023-03-31,-0.95
+IFCI,A,income,Basic EPS,2024-03-31,0.42
+IFCI,A,income,Basic EPS,2025-03-31,0.65
+IFCI,A,income,Basic EPS,2026-03-31,0.69
+IFCI,A,income,Diluted EPS,2023-03-31,-0.95
+IFCI,A,income,Diluted EPS,2024-03-31,0.42
+IFCI,A,income,Diluted EPS,2025-03-31,0.65
+IFCI,A,income,Diluted EPS,2026-03-31,0.69
+IFCI,A,income,Interest Expense,2023-03-31,6416200000.0
+IFCI,A,income,Interest Expense,2024-03-31,5711300000.0
+IFCI,A,income,Interest Expense,2025-03-31,5350400000.0
+IFCI,A,income,Interest Expense,2026-03-31,4162900000.0
+IFCI,A,income,Net Income,2023-03-31,-2078000000.0
+IFCI,A,income,Net Income,2024-03-31,1036600000.0
+IFCI,A,income,Net Income,2025-03-31,1710400000.0
+IFCI,A,income,Net Income,2026-03-31,1808700000.0
+IFCI,A,income,Net Income Common Stockholders,2023-03-31,-2078000000.0
+IFCI,A,income,Net Income Common Stockholders,2024-03-31,1036600000.0
+IFCI,A,income,Net Income Common Stockholders,2025-03-31,1710400000.0
+IFCI,A,income,Net Income Common Stockholders,2026-03-31,1808700000.0
+IFCI,A,income,Pretax Income,2023-03-31,260800000.0
+IFCI,A,income,Pretax Income,2024-03-31,7508800000.0
+IFCI,A,income,Pretax Income,2025-03-31,7490300000.0
+IFCI,A,income,Pretax Income,2026-03-31,5242100000.0
+IFCI,A,income,Total Revenue,2023-03-31,9749700000.0
+IFCI,A,income,Total Revenue,2024-03-31,14453000000.0
+IFCI,A,income,Total Revenue,2025-03-31,14208700000.0
+IFCI,A,income,Total Revenue,2026-03-31,13504900000.0
+IFCI,Q,income,Basic EPS,2025-09-30,0.53
+IFCI,Q,income,Basic EPS,2025-12-31,-0.06
+IFCI,Q,income,Basic EPS,2026-03-31,0.05
+IFCI,Q,income,Basic EPS,2026-06-30,0.12
+IFCI,Q,income,Basic EPS,2026-09-30,0.55
+IFCI,Q,income,Diluted EPS,2025-09-30,0.53
+IFCI,Q,income,Diluted EPS,2025-12-31,-0.06
+IFCI,Q,income,Diluted EPS,2026-03-31,0.05
+IFCI,Q,income,Diluted EPS,2026-06-30,0.12
+IFCI,Q,income,Diluted EPS,2026-09-30,0.55
+IFCI,Q,income,Interest Expense,2025-09-30,1070100000.0
+IFCI,Q,income,Interest Expense,2025-12-31,1027500000.0
+IFCI,Q,income,Interest Expense,2026-03-31,1021500000.0
+IFCI,Q,income,Interest Expense,2026-06-30,1037500000.0
+IFCI,Q,income,Interest Expense,2026-09-30,964600000.0
+IFCI,Q,income,Net Income,2025-09-30,1429600000.0
+IFCI,Q,income,Net Income,2025-12-31,-152400000.0
+IFCI,Q,income,Net Income,2026-03-31,132200000.0
+IFCI,Q,income,Net Income,2026-06-30,335200000.0
+IFCI,Q,income,Net Income,2026-09-30,1491400000.0
+IFCI,Q,income,Net Income Common Stockholders,2025-09-30,1429600000.0
+IFCI,Q,income,Net Income Common Stockholders,2025-12-31,-152400000.0
+IFCI,Q,income,Net Income Common Stockholders,2026-03-31,132200000.0
+IFCI,Q,income,Net Income Common Stockholders,2026-06-30,335200000.0
+IFCI,Q,income,Net Income Common Stockholders,2026-09-30,1491400000.0
+IFCI,Q,income,Pretax Income,2025-09-30,3814700000.0
+IFCI,Q,income,Pretax Income,2025-12-31,125500000.0
+IFCI,Q,income,Pretax Income,2026-03-31,273600000.0
+IFCI,Q,income,Pretax Income,2026-06-30,959300000.0
+IFCI,Q,income,Pretax Income,2026-09-30,4143300000.0
+IFCI,Q,income,Total Revenue,2025-09-30,6178000000.0
+IFCI,Q,income,Total Revenue,2025-12-31,3371500000.0
+IFCI,Q,income,Total Revenue,2026-03-31,3405200000.0
+IFCI,Q,income,Total Revenue,2026-06-30,2232400000.0
+IFCI,Q,income,Total Revenue,2026-09-30,6043000000.0

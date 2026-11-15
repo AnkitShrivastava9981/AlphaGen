@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+360ONE,A,balance,Cash And Cash Equivalents,2023-03-31,5094900000.0
+360ONE,A,balance,Cash And Cash Equivalents,2024-03-31,4427400000.0
+360ONE,A,balance,Cash And Cash Equivalents,2025-03-31,7401900000.0
+360ONE,A,balance,Cash And Cash Equivalents,2026-03-31,5692400000.0
+360ONE,A,balance,Net Debt,2023-03-31,62353700000.0
+360ONE,A,balance,Net Debt,2024-03-31,88475500000.0
+360ONE,A,balance,Net Debt,2025-03-31,102198800000.0
+360ONE,A,balance,Net Debt,2026-03-31,147510300000.0
+360ONE,A,balance,Ordinary Shares Number,2023-03-31,356089556.0
+360ONE,A,balance,Ordinary Shares Number,2024-03-31,358862640.0
+360ONE,A,balance,Ordinary Shares Number,2025-03-31,393073939.0
+360ONE,A,balance,Ordinary Shares Number,2026-03-31,406138438.0
+360ONE,A,balance,Stockholders Equity,2023-03-31,31219500000.0
+360ONE,A,balance,Stockholders Equity,2024-03-31,34497300000.0
+360ONE,A,balance,Stockholders Equity,2025-03-31,70647100000.0
+360ONE,A,balance,Stockholders Equity,2026-03-31,98355400000.0
+360ONE,A,balance,Total Assets,2023-03-31,111920600000.0
+360ONE,A,balance,Total Assets,2024-03-31,151188500000.0
+360ONE,A,balance,Total Assets,2025-03-31,197687000000.0
+360ONE,A,balance,Total Assets,2026-03-31,272013500000.0
+360ONE,A,balance,Total Debt,2023-03-31,67812400000.0
+360ONE,A,balance,Total Debt,2024-03-31,93511600000.0
+360ONE,A,balance,Total Debt,2025-03-31,110255300000.0
+360ONE,A,balance,Total Debt,2026-03-31,157996300000.0
+360ONE,A,cashflow,Capital Expenditure,2023-03-31,-729900000.0
+360ONE,A,cashflow,Capital Expenditure,2024-03-31,-1020600000.0
+360ONE,A,cashflow,Capital Expenditure,2025-03-31,-552400000.0
+360ONE,A,cashflow,Capital Expenditure,2026-03-31,-976800000.0
+360ONE,A,cashflow,Free Cash Flow,2023-03-31,-13955000000.0
+360ONE,A,cashflow,Free Cash Flow,2024-03-31,-5721700000.0
+360ONE,A,cashflow,Free Cash Flow,2025-03-31,-25174100000.0
+360ONE,A,cashflow,Free Cash Flow,2026-03-31,-30187400000.0
+360ONE,A,cashflow,Operating Cash Flow,2023-03-31,-13225100000.0
+360ONE,A,cashflow,Operating Cash Flow,2024-03-31,-4701100000.0
+360ONE,A,cashflow,Operating Cash Flow,2025-03-31,-24621700000.0
+360ONE,A,cashflow,Operating Cash Flow,2026-03-31,-29210600000.0
+360ONE,A,income,Basic EPS,2023-03-31,18.51
+360ONE,A,income,Basic EPS,2024-03-31,22.48
+360ONE,A,income,Basic EPS,2025-03-31,27.14
+360ONE,A,income,Basic EPS,2026-03-31,30.16
+360ONE,A,income,Diluted EPS,2023-03-31,18.12
+360ONE,A,income,Diluted EPS,2024-03-31,21.86
+360ONE,A,income,Diluted EPS,2025-03-31,26.08
+360ONE,A,income,Diluted EPS,2026-03-31,29.19
+360ONE,A,income,EBITDA,2023-03-31,12881100000.0
+360ONE,A,income,EBITDA,2024-03-31,16995600000.0
+360ONE,A,income,EBITDA,2025-03-31,23003900000.0
+360ONE,A,income,EBITDA,2026-03-31,28141700000.0
+360ONE,A,income,Interest Expense,2023-03-31,3915100000.0
+360ONE,A,income,Interest Expense,2024-03-31,6343800000.0
+360ONE,A,income,Interest Expense,2025-03-31,8830400000.0
+360ONE,A,income,Interest Expense,2026-03-31,10820700000.0
+360ONE,A,income,Net Income,2023-03-31,6579300000.0
+360ONE,A,income,Net Income,2024-03-31,8042100000.0
+360ONE,A,income,Net Income,2025-03-31,10153000000.0
+360ONE,A,income,Net Income,2026-03-31,12161700000.0
+360ONE,A,income,Net Income Common Stockholders,2023-03-31,6579300000.0
+360ONE,A,income,Net Income Common Stockholders,2024-03-31,8042100000.0
+360ONE,A,income,Net Income Common Stockholders,2025-03-31,10153000000.0
+360ONE,A,income,Net Income Common Stockholders,2026-03-31,12161700000.0
+360ONE,A,income,Operating Income,2023-03-31,8346500000.0
+360ONE,A,income,Operating Income,2024-03-31,7367900000.0
+360ONE,A,income,Operating Income,2025-03-31,12839600000.0
+360ONE,A,income,Operating Income,2026-03-31,13355700000.0
+360ONE,A,income,Pretax Income,2023-03-31,8502900000.0
+360ONE,A,income,Pretax Income,2024-03-31,10085400000.0
+360ONE,A,income,Pretax Income,2025-03-31,13468200000.0
+360ONE,A,income,Pretax Income,2026-03-31,15768800000.0
+360ONE,A,income,Total Revenue,2023-03-31,16471500000.0
+360ONE,A,income,Total Revenue,2024-03-31,20061200000.0
+360ONE,A,income,Total Revenue,2025-03-31,26358500000.0
+360ONE,A,income,Total Revenue,2026-03-31,31381300000.0
+360ONE,Q,income,Basic EPS,2025-06-30,7.16
+360ONE,Q,income,Basic EPS,2025-12-31,8.08
+360ONE,Q,income,Basic EPS,2026-03-31,7.12
+360ONE,Q,income,Basic EPS,2026-06-30,8.13
+360ONE,Q,income,Basic EPS,2026-09-30,7.37
+360ONE,Q,income,Diluted EPS,2025-06-30,6.95
+360ONE,Q,income,Diluted EPS,2025-12-31,7.82
+360ONE,Q,income,Diluted EPS,2026-03-31,6.85
+360ONE,Q,income,Diluted EPS,2026-06-30,7.84
+360ONE,Q,income,Diluted EPS,2026-09-30,7.09
+360ONE,Q,income,EBITDA,2025-06-30,6344700000.0
+360ONE,Q,income,EBITDA,2025-12-31,7638900000.0
+360ONE,Q,income,EBITDA,2026-03-31,7174900000.0
+360ONE,Q,income,EBITDA,2026-06-30,8196100000.0
+360ONE,Q,income,EBITDA,2026-09-30,7947200000.0
+360ONE,Q,income,Interest Expense,2025-06-30,2285400000.0
+360ONE,Q,income,Interest Expense,2025-12-31,2959600000.0
+360ONE,Q,income,Interest Expense,2026-03-31,3118500000.0
+360ONE,Q,income,Interest Expense,2026-06-30,3539900000.0
+360ONE,Q,income,Interest Expense,2026-09-30,3613400000.0
+360ONE,Q,income,Net Income,2025-06-30,2846700000.0
+360ONE,Q,income,Net Income,2025-12-31,3272800000.0
+360ONE,Q,income,Net Income,2026-03-31,2887400000.0
+360ONE,Q,income,Net Income,2026-06-30,3305300000.0
+360ONE,Q,income,Net Income,2026-09-30,3001100000.0
+360ONE,Q,income,Net Income Common Stockholders,2025-06-30,2846700000.0
+360ONE,Q,income,Net Income Common Stockholders,2025-12-31,3272800000.0
+360ONE,Q,income,Net Income Common Stockholders,2026-03-31,2887400000.0
+360ONE,Q,income,Net Income Common Stockholders,2026-06-30,3305300000.0
+360ONE,Q,income,Net Income Common Stockholders,2026-09-30,3001100000.0
+360ONE,Q,income,Operating Income,2025-06-30,2841200000.0
+360ONE,Q,income,Operating Income,2025-12-31,3126400000.0
+360ONE,Q,income,Operating Income,2026-03-31,3151000000.0
+360ONE,Q,income,Operating Income,2026-06-30,4027700000.0
+360ONE,Q,income,Operating Income,2026-09-30,4390800000.0
+360ONE,Q,income,Pretax Income,2025-06-30,3738000000.0
+360ONE,Q,income,Pretax Income,2025-12-31,4270500000.0
+360ONE,Q,income,Pretax Income,2026-03-31,3626200000.0
+360ONE,Q,income,Pretax Income,2026-06-30,4235100000.0
+360ONE,Q,income,Pretax Income,2026-09-30,3905900000.0
+360ONE,Q,income,Total Revenue,2025-06-30,6627800000.0
+360ONE,Q,income,Total Revenue,2025-12-31,8071300000.0
+360ONE,Q,income,Total Revenue,2026-03-31,8106800000.0
+360ONE,Q,income,Total Revenue,2026-06-30,8983200000.0
+360ONE,Q,income,Total Revenue,2026-09-30,9441800000.0

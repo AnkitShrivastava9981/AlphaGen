@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+IMFA,A,balance,Cash And Cash Equivalents,2023-03-31,80600000.0
+IMFA,A,balance,Cash And Cash Equivalents,2024-03-31,517600000.0
+IMFA,A,balance,Cash And Cash Equivalents,2025-03-31,72600000.0
+IMFA,A,balance,Cash And Cash Equivalents,2026-03-31,342300000.0
+IMFA,A,balance,Net Debt,2023-03-31,3133700000.0
+IMFA,A,balance,Net Debt,2024-03-31,1689800000.0
+IMFA,A,balance,Net Debt,2025-03-31,3654300000.0
+IMFA,A,balance,Net Debt,2026-03-31,8894600000.0
+IMFA,A,balance,Ordinary Shares Number,2023-03-31,53954106.0
+IMFA,A,balance,Ordinary Shares Number,2024-03-31,53954106.0
+IMFA,A,balance,Ordinary Shares Number,2025-03-31,53954106.0
+IMFA,A,balance,Ordinary Shares Number,2026-03-31,53954106.0
+IMFA,A,balance,Stockholders Equity,2023-03-31,18728800000.0
+IMFA,A,balance,Stockholders Equity,2024-03-31,21046600000.0
+IMFA,A,balance,Stockholders Equity,2025-03-31,23482500000.0
+IMFA,A,balance,Stockholders Equity,2026-03-31,27175200000.0
+IMFA,A,balance,Total Assets,2023-03-31,26535300000.0
+IMFA,A,balance,Total Assets,2024-03-31,29126700000.0
+IMFA,A,balance,Total Assets,2025-03-31,31774400000.0
+IMFA,A,balance,Total Assets,2026-03-31,43165300000.0
+IMFA,A,balance,Total Debt,2023-03-31,3405300000.0
+IMFA,A,balance,Total Debt,2024-03-31,2367900000.0
+IMFA,A,balance,Total Debt,2025-03-31,3886200000.0
+IMFA,A,balance,Total Debt,2026-03-31,9575400000.0
+IMFA,A,cashflow,Capital Expenditure,2022-03-31,-871000000.0
+IMFA,A,cashflow,Capital Expenditure,2024-03-31,-1135500000.0
+IMFA,A,cashflow,Capital Expenditure,2025-03-31,-1158000000.0
+IMFA,A,cashflow,Capital Expenditure,2026-03-31,-13354900000.0
+IMFA,A,cashflow,Free Cash Flow,2023-03-31,1509400000.0
+IMFA,A,cashflow,Free Cash Flow,2024-03-31,3460200000.0
+IMFA,A,cashflow,Free Cash Flow,2025-03-31,4695500000.0
+IMFA,A,cashflow,Free Cash Flow,2026-03-31,-10174000000.0
+IMFA,A,cashflow,Operating Cash Flow,2023-03-31,1509400000.0
+IMFA,A,cashflow,Operating Cash Flow,2024-03-31,4595700000.0
+IMFA,A,cashflow,Operating Cash Flow,2025-03-31,5853500000.0
+IMFA,A,cashflow,Operating Cash Flow,2026-03-31,3180900000.0
+IMFA,A,income,Basic EPS,2023-03-31,41.75
+IMFA,A,income,Basic EPS,2024-03-31,63.68
+IMFA,A,income,Basic EPS,2025-03-31,70.19
+IMFA,A,income,Basic EPS,2026-03-31,78.64
+IMFA,A,income,Diluted EPS,2023-03-31,41.75
+IMFA,A,income,Diluted EPS,2024-03-31,63.68
+IMFA,A,income,Diluted EPS,2025-03-31,70.19
+IMFA,A,income,Diluted EPS,2026-03-31,78.64
+IMFA,A,income,EBITDA,2023-03-31,4573500000.0
+IMFA,A,income,EBITDA,2024-03-31,6230300000.0
+IMFA,A,income,EBITDA,2025-03-31,5917400000.0
+IMFA,A,income,EBITDA,2026-03-31,6441300000.0
+IMFA,A,income,Interest Expense,2023-03-31,262000000.0
+IMFA,A,income,Interest Expense,2024-03-31,288800000.0
+IMFA,A,income,Interest Expense,2025-03-31,230300000.0
+IMFA,A,income,Interest Expense,2026-03-31,271600000.0
+IMFA,A,income,Net Income,2023-03-31,2252600000.0
+IMFA,A,income,Net Income,2024-03-31,3435700000.0
+IMFA,A,income,Net Income,2025-03-31,3787200000.0
+IMFA,A,income,Net Income,2026-03-31,4242800000.0
+IMFA,A,income,Net Income Common Stockholders,2023-03-31,2252600000.0
+IMFA,A,income,Net Income Common Stockholders,2024-03-31,3435700000.0
+IMFA,A,income,Net Income Common Stockholders,2025-03-31,3787200000.0
+IMFA,A,income,Net Income Common Stockholders,2026-03-31,4242800000.0
+IMFA,A,income,Operating Income,2023-03-31,3993000000.0
+IMFA,A,income,Operating Income,2024-03-31,5300700000.0
+IMFA,A,income,Operating Income,2025-03-31,4777200000.0
+IMFA,A,income,Operating Income,2026-03-31,5771500000.0
+IMFA,A,income,Pretax Income,2023-03-31,3238700000.0
+IMFA,A,income,Pretax Income,2024-03-31,5161200000.0
+IMFA,A,income,Pretax Income,2025-03-31,5141100000.0
+IMFA,A,income,Pretax Income,2026-03-31,5540300000.0
+IMFA,A,income,Total Revenue,2023-03-31,26393900000.0
+IMFA,A,income,Total Revenue,2024-03-31,27433500000.0
+IMFA,A,income,Total Revenue,2025-03-31,25346300000.0
+IMFA,A,income,Total Revenue,2026-03-31,27939900000.0
+IMFA,Q,income,Basic EPS,2025-06-30,17.1
+IMFA,Q,income,Basic EPS,2025-12-31,24.33
+IMFA,Q,income,Basic EPS,2026-03-31,19.13
+IMFA,Q,income,Basic EPS,2026-06-30,35.65
+IMFA,Q,income,Basic EPS,2026-09-30,27.37
+IMFA,Q,income,Diluted EPS,2025-06-30,17.1
+IMFA,Q,income,Diluted EPS,2025-12-31,24.33
+IMFA,Q,income,Diluted EPS,2026-03-31,19.13
+IMFA,Q,income,Diluted EPS,2026-06-30,35.65
+IMFA,Q,income,Diluted EPS,2026-09-30,27.37
+IMFA,Q,income,EBITDA,2025-06-30,1474500000.0
+IMFA,Q,income,EBITDA,2025-12-31,1860500000.0
+IMFA,Q,income,EBITDA,2026-03-31,1649700000.0
+IMFA,Q,income,EBITDA,2026-06-30,2941800000.0
+IMFA,Q,income,EBITDA,2026-09-30,2403000000.0
+IMFA,Q,income,Interest Expense,2025-06-30,70100000.0
+IMFA,Q,income,Interest Expense,2025-12-31,92700000.0
+IMFA,Q,income,Interest Expense,2026-03-31,112900000.0
+IMFA,Q,income,Interest Expense,2026-06-30,124600000.0
+IMFA,Q,income,Interest Expense,2026-09-30,143600000.0
+IMFA,Q,income,Net Income,2025-06-30,922900000.0
+IMFA,Q,income,Net Income,2025-12-31,1312900000.0
+IMFA,Q,income,Net Income,2026-03-31,1032200000.0
+IMFA,Q,income,Net Income,2026-06-30,1923400000.0
+IMFA,Q,income,Net Income,2026-09-30,1477000000.0
+IMFA,Q,income,Net Income Common Stockholders,2025-06-30,922900000.0
+IMFA,Q,income,Net Income Common Stockholders,2025-12-31,1312900000.0
+IMFA,Q,income,Net Income Common Stockholders,2026-03-31,1032200000.0
+IMFA,Q,income,Net Income Common Stockholders,2026-06-30,1923400000.0
+IMFA,Q,income,Net Income Common Stockholders,2026-09-30,1477000000.0
+IMFA,Q,income,Operating Income,2025-06-30,1107300000.0
+IMFA,Q,income,Operating Income,2025-12-31,1489600000.0
+IMFA,Q,income,Operating Income,2026-03-31,1413900000.0
+IMFA,Q,income,Operating Income,2026-06-30,2578600000.0
+IMFA,Q,income,Operating Income,2026-09-30,2088900000.0
+IMFA,Q,income,Pretax Income,2025-06-30,1257100000.0
+IMFA,Q,income,Pretax Income,2025-12-31,1614300000.0
+IMFA,Q,income,Pretax Income,2026-03-31,1360100000.0
+IMFA,Q,income,Pretax Income,2026-06-30,2583100000.0
+IMFA,Q,income,Pretax Income,2026-09-30,1989600000.0
+IMFA,Q,income,Total Revenue,2025-06-30,6415400000.0
+IMFA,Q,income,Total Revenue,2025-12-31,7028300000.0
+IMFA,Q,income,Total Revenue,2026-03-31,7632900000.0
+IMFA,Q,income,Total Revenue,2026-06-30,9604500000.0
+IMFA,Q,income,Total Revenue,2026-09-30,9681700000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SENCO,A,balance,Cash And Cash Equivalents,2023-03-31,94830000.0
+SENCO,A,balance,Cash And Cash Equivalents,2024-03-31,185160000.0
+SENCO,A,balance,Cash And Cash Equivalents,2025-03-31,332500000.0
+SENCO,A,balance,Cash And Cash Equivalents,2026-03-31,375860000.0
+SENCO,A,balance,Net Debt,2023-03-31,11697870000.0
+SENCO,A,balance,Net Debt,2024-03-31,14798230000.0
+SENCO,A,balance,Net Debt,2025-03-31,17357640000.0
+SENCO,A,balance,Net Debt,2026-03-31,23083710000.0
+SENCO,A,balance,Ordinary Shares Number,2023-03-31,155326312.0
+SENCO,A,balance,Ordinary Shares Number,2024-03-31,155408346.0
+SENCO,A,balance,Ordinary Shares Number,2025-03-31,163681032.0
+SENCO,A,balance,Ordinary Shares Number,2026-03-31,163806672.0
+SENCO,A,balance,Stockholders Equity,2023-03-31,9455200000.0
+SENCO,A,balance,Stockholders Equity,2024-03-31,13655420000.0
+SENCO,A,balance,Stockholders Equity,2025-03-31,19702920000.0
+SENCO,A,balance,Stockholders Equity,2026-03-31,25136840000.0
+SENCO,A,balance,Total Assets,2023-03-31,29053190000.0
+SENCO,A,balance,Total Assets,2024-03-31,37226580000.0
+SENCO,A,balance,Total Assets,2025-03-31,47463510000.0
+SENCO,A,balance,Total Assets,2026-03-31,70615060000.0
+SENCO,A,balance,Total Debt,2023-03-31,13890230000.0
+SENCO,A,balance,Total Debt,2024-03-31,17611450000.0
+SENCO,A,balance,Total Debt,2025-03-31,20594180000.0
+SENCO,A,balance,Total Debt,2026-03-31,26991100000.0
+SENCO,A,cashflow,Capital Expenditure,2023-03-31,-311090000.0
+SENCO,A,cashflow,Capital Expenditure,2024-03-31,-382330000.0
+SENCO,A,cashflow,Capital Expenditure,2025-03-31,-378500000.0
+SENCO,A,cashflow,Capital Expenditure,2026-03-31,-606030000.0
+SENCO,A,cashflow,Free Cash Flow,2023-03-31,-1093080000.0
+SENCO,A,cashflow,Free Cash Flow,2024-03-31,-614570000.0
+SENCO,A,cashflow,Free Cash Flow,2025-03-31,-2590540000.0
+SENCO,A,cashflow,Free Cash Flow,2026-03-31,-8498760000.0
+SENCO,A,cashflow,Operating Cash Flow,2023-03-31,-781990000.0
+SENCO,A,cashflow,Operating Cash Flow,2024-03-31,-232240000.0
+SENCO,A,cashflow,Operating Cash Flow,2025-03-31,-2212040000.0
+SENCO,A,cashflow,Operating Cash Flow,2026-03-31,-7892730000.0
+SENCO,A,income,Basic EPS,2023-03-31,11.465
+SENCO,A,income,Basic EPS,2024-03-31,12.03
+SENCO,A,income,Basic EPS,2025-03-31,10.09
+SENCO,A,income,Basic EPS,2026-03-31,35.08
+SENCO,A,income,Diluted EPS,2023-03-31,11.435
+SENCO,A,income,Diluted EPS,2024-03-31,12.01
+SENCO,A,income,Diluted EPS,2025-03-31,10.08
+SENCO,A,income,Diluted EPS,2026-03-31,35.06
+SENCO,A,income,EBITDA,2023-03-31,3391340000.0
+SENCO,A,income,EBITDA,2024-03-31,4064520000.0
+SENCO,A,income,EBITDA,2025-03-31,4095500000.0
+SENCO,A,income,EBITDA,2026-03-31,10257310000.0
+SENCO,A,income,Interest Expense,2023-03-31,774290000.0
+SENCO,A,income,Interest Expense,2024-03-31,968050000.0
+SENCO,A,income,Interest Expense,2025-03-31,1235640000.0
+SENCO,A,income,Interest Expense,2026-03-31,1810300000.0
+SENCO,A,income,Net Income,2023-03-31,1584790000.0
+SENCO,A,income,Net Income,2024-03-31,1810040000.0
+SENCO,A,income,Net Income,2025-03-31,1593090000.0
+SENCO,A,income,Net Income,2026-03-31,5743190000.0
+SENCO,A,income,Net Income Common Stockholders,2023-03-31,1584790000.0
+SENCO,A,income,Net Income Common Stockholders,2024-03-31,1810040000.0
+SENCO,A,income,Net Income Common Stockholders,2025-03-31,1593090000.0
+SENCO,A,income,Net Income Common Stockholders,2026-03-31,5743190000.0
+SENCO,A,income,Operating Income,2023-03-31,2902900000.0
+SENCO,A,income,Operating Income,2024-03-31,3284190000.0
+SENCO,A,income,Operating Income,2025-03-31,3159720000.0
+SENCO,A,income,Operating Income,2026-03-31,9254350000.0
+SENCO,A,income,Pretax Income,2023-03-31,2161520000.0
+SENCO,A,income,Pretax Income,2024-03-31,2495380000.0
+SENCO,A,income,Pretax Income,2025-03-31,2178610000.0
+SENCO,A,income,Pretax Income,2026-03-31,7627370000.0
+SENCO,A,income,Total Revenue,2023-03-31,40697480000.0
+SENCO,A,income,Total Revenue,2024-03-31,52316890000.0
+SENCO,A,income,Total Revenue,2025-03-31,63183930000.0
+SENCO,A,income,Total Revenue,2026-03-31,84166160000.0
+SENCO,Q,income,Basic EPS,2025-06-30,6.39
+SENCO,Q,income,Basic EPS,2025-09-30,2.98
+SENCO,Q,income,Basic EPS,2025-12-31,16.13
+SENCO,Q,income,Basic EPS,2026-03-31,9.58
+SENCO,Q,income,Basic EPS,2026-06-30,6.17
+SENCO,Q,income,Diluted EPS,2025-06-30,6.38
+SENCO,Q,income,Diluted EPS,2025-09-30,2.98
+SENCO,Q,income,Diluted EPS,2025-12-31,16.1
+SENCO,Q,income,Diluted EPS,2026-03-31,9.58
+SENCO,Q,income,Diluted EPS,2026-06-30,6.17
+SENCO,Q,income,EBITDA,2025-06-30,2022370000.0
+SENCO,Q,income,EBITDA,2025-09-30,1242590000.0
+SENCO,Q,income,EBITDA,2025-12-31,4346900000.0
+SENCO,Q,income,EBITDA,2026-03-31,2877100000.0
+SENCO,Q,income,EBITDA,2026-06-30,2283970000.0
+SENCO,Q,income,Interest Expense,2025-06-30,429780000.0
+SENCO,Q,income,Interest Expense,2025-09-30,461640000.0
+SENCO,Q,income,Interest Expense,2025-12-31,589750000.0
+SENCO,Q,income,Interest Expense,2026-03-31,560780000.0
+SENCO,Q,income,Interest Expense,2026-06-30,679390000.0
+SENCO,Q,income,Net Income,2025-06-30,1046540000.0
+SENCO,Q,income,Net Income,2025-09-30,487830000.0
+SENCO,Q,income,Net Income,2025-12-31,2640030000.0
+SENCO,Q,income,Net Income,2026-03-31,1568790000.0
+SENCO,Q,income,Net Income,2026-06-30,1011430000.0
+SENCO,Q,income,Net Income Common Stockholders,2025-06-30,1046540000.0
+SENCO,Q,income,Net Income Common Stockholders,2025-09-30,487830000.0
+SENCO,Q,income,Net Income Common Stockholders,2025-12-31,2640030000.0
+SENCO,Q,income,Net Income Common Stockholders,2026-03-31,1568790000.0
+SENCO,Q,income,Net Income Common Stockholders,2026-06-30,1011430000.0
+SENCO,Q,income,Operating Income,2025-06-30,1649170000.0
+SENCO,Q,income,Operating Income,2025-09-30,874820000.0
+SENCO,Q,income,Operating Income,2025-12-31,3834670000.0
+SENCO,Q,income,Operating Income,2026-03-31,2511830000.0
+SENCO,Q,income,Operating Income,2026-06-30,1916220000.0
+SENCO,Q,income,Pretax Income,2025-06-30,1405840000.0
+SENCO,Q,income,Pretax Income,2025-09-30,590680000.0
+SENCO,Q,income,Pretax Income,2025-12-31,3546200000.0
+SENCO,Q,income,Pretax Income,2026-03-31,2084650000.0
+SENCO,Q,income,Pretax Income,2026-06-30,1389400000.0
+SENCO,Q,income,Total Revenue,2025-06-30,18262760000.0
+SENCO,Q,income,Total Revenue,2025-09-30,15361150000.0
+SENCO,Q,income,Total Revenue,2025-12-31,30709800000.0
+SENCO,Q,income,Total Revenue,2026-03-31,19966590000.0
+SENCO,Q,income,Total Revenue,2026-06-30,30560270000.0

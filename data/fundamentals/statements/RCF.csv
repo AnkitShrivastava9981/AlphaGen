@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+RCF,A,balance,Cash And Cash Equivalents,2023-03-31,113000000.0
+RCF,A,balance,Cash And Cash Equivalents,2024-03-31,1564900000.0
+RCF,A,balance,Cash And Cash Equivalents,2025-03-31,9870300000.0
+RCF,A,balance,Cash And Cash Equivalents,2026-03-31,1238900000.0
+RCF,A,balance,Net Debt,2023-03-31,18513500000.0
+RCF,A,balance,Net Debt,2024-03-31,31267600000.0
+RCF,A,balance,Net Debt,2025-03-31,17648900000.0
+RCF,A,balance,Net Debt,2026-03-31,39895400000.0
+RCF,A,balance,Ordinary Shares Number,2023-03-31,551688100.0
+RCF,A,balance,Ordinary Shares Number,2024-03-31,551688100.0
+RCF,A,balance,Ordinary Shares Number,2025-03-31,551688100.0
+RCF,A,balance,Ordinary Shares Number,2026-03-31,551688100.0
+RCF,A,balance,Stockholders Equity,2023-03-31,45901200000.0
+RCF,A,balance,Stockholders Equity,2024-03-31,46057400000.0
+RCF,A,balance,Stockholders Equity,2025-03-31,47453300000.0
+RCF,A,balance,Stockholders Equity,2026-03-31,51212000000.0
+RCF,A,balance,Total Assets,2023-03-31,97046200000.0
+RCF,A,balance,Total Assets,2024-03-31,114557200000.0
+RCF,A,balance,Total Assets,2025-03-31,112666300000.0
+RCF,A,balance,Total Assets,2026-03-31,167008800000.0
+RCF,A,balance,Total Debt,2023-03-31,18766100000.0
+RCF,A,balance,Total Debt,2024-03-31,32966400000.0
+RCF,A,balance,Total Debt,2025-03-31,27622100000.0
+RCF,A,balance,Total Debt,2026-03-31,41280700000.0
+RCF,A,cashflow,Capital Expenditure,2023-03-31,-3846400000.0
+RCF,A,cashflow,Capital Expenditure,2024-03-31,-4823400000.0
+RCF,A,cashflow,Capital Expenditure,2025-03-31,-8273400000.0
+RCF,A,cashflow,Capital Expenditure,2026-03-31,-10755100000.0
+RCF,A,cashflow,Free Cash Flow,2023-03-31,4023700000.0
+RCF,A,cashflow,Free Cash Flow,2024-03-31,-9046100000.0
+RCF,A,cashflow,Free Cash Flow,2025-03-31,15364800000.0
+RCF,A,cashflow,Free Cash Flow,2026-03-31,-15467300000.0
+RCF,A,cashflow,Operating Cash Flow,2023-03-31,7870100000.0
+RCF,A,cashflow,Operating Cash Flow,2024-03-31,-4222700000.0
+RCF,A,cashflow,Operating Cash Flow,2025-03-31,23638200000.0
+RCF,A,cashflow,Operating Cash Flow,2026-03-31,-4712200000.0
+RCF,A,income,Basic EPS,2023-03-31,17.52
+RCF,A,income,Basic EPS,2024-03-31,4.08
+RCF,A,income,Basic EPS,2025-03-31,4.39
+RCF,A,income,Basic EPS,2026-03-31,7.75
+RCF,A,income,Diluted EPS,2023-03-31,17.52
+RCF,A,income,Diluted EPS,2024-03-31,4.08
+RCF,A,income,Diluted EPS,2025-03-31,4.39
+RCF,A,income,Diluted EPS,2026-03-31,7.75
+RCF,A,income,EBITDA,2023-03-31,16569400000.0
+RCF,A,income,EBITDA,2024-03-31,7128400000.0
+RCF,A,income,EBITDA,2025-03-31,8144900000.0
+RCF,A,income,EBITDA,2026-03-31,11579000000.0
+RCF,A,income,Interest Expense,2023-03-31,1772200000.0
+RCF,A,income,Interest Expense,2024-03-31,1840900000.0
+RCF,A,income,Interest Expense,2025-03-31,2279500000.0
+RCF,A,income,Interest Expense,2026-03-31,2549700000.0
+RCF,A,income,Net Income,2023-03-31,9663100000.0
+RCF,A,income,Net Income,2024-03-31,2252800000.0
+RCF,A,income,Net Income,2025-03-31,2424500000.0
+RCF,A,income,Net Income,2026-03-31,4274500000.0
+RCF,A,income,Net Income Common Stockholders,2023-03-31,9663100000.0
+RCF,A,income,Net Income Common Stockholders,2024-03-31,2252800000.0
+RCF,A,income,Net Income Common Stockholders,2025-03-31,2424500000.0
+RCF,A,income,Net Income Common Stockholders,2026-03-31,4274500000.0
+RCF,A,income,Operating Income,2023-03-31,13880200000.0
+RCF,A,income,Operating Income,2024-03-31,3072000000.0
+RCF,A,income,Operating Income,2025-03-31,4590800000.0
+RCF,A,income,Operating Income,2026-03-31,8796200000.0
+RCF,A,income,Pretax Income,2023-03-31,12731400000.0
+RCF,A,income,Pretax Income,2024-03-31,3011700000.0
+RCF,A,income,Pretax Income,2025-03-31,3283200000.0
+RCF,A,income,Pretax Income,2026-03-31,6094000000.0
+RCF,A,income,Total Revenue,2023-03-31,78164800000.0
+RCF,A,income,Total Revenue,2024-03-31,64242800000.0
+RCF,A,income,Total Revenue,2025-03-31,70332200000.0
+RCF,A,income,Total Revenue,2026-03-31,75459800000.0
+RCF,Q,income,Basic EPS,2025-09-30,1.91
+RCF,Q,income,Basic EPS,2025-12-31,1.47
+RCF,Q,income,Basic EPS,2026-03-31,3.38
+RCF,Q,income,Basic EPS,2026-06-30,1.33
+RCF,Q,income,Basic EPS,2026-09-30,2.37
+RCF,Q,income,Diluted EPS,2025-09-30,1.91
+RCF,Q,income,Diluted EPS,2025-12-31,1.47
+RCF,Q,income,Diluted EPS,2026-03-31,3.38
+RCF,Q,income,Diluted EPS,2026-06-30,1.33
+RCF,Q,income,Diluted EPS,2026-09-30,2.37
+RCF,Q,income,EBITDA,2025-09-30,2651400000.0
+RCF,Q,income,EBITDA,2025-12-31,2965700000.0
+RCF,Q,income,EBITDA,2026-03-31,4355300000.0
+RCF,Q,income,EBITDA,2026-06-30,2546300000.0
+RCF,Q,income,EBITDA,2026-09-30,3241800000.0
+RCF,Q,income,Interest Expense,2025-09-30,547500000.0
+RCF,Q,income,Interest Expense,2025-12-31,1034700000.0
+RCF,Q,income,Interest Expense,2026-03-31,794200000.0
+RCF,Q,income,Interest Expense,2026-06-30,706500000.0
+RCF,Q,income,Interest Expense,2026-09-30,654700000.0
+RCF,Q,income,Net Income,2025-09-30,1053500000.0
+RCF,Q,income,Net Income,2025-12-31,809500000.0
+RCF,Q,income,Net Income,2026-03-31,1867200000.0
+RCF,Q,income,Net Income,2026-06-30,735300000.0
+RCF,Q,income,Net Income,2026-09-30,1309400000.0
+RCF,Q,income,Net Income Common Stockholders,2025-09-30,1053500000.0
+RCF,Q,income,Net Income Common Stockholders,2025-12-31,809500000.0
+RCF,Q,income,Net Income Common Stockholders,2026-03-31,1867200000.0
+RCF,Q,income,Net Income Common Stockholders,2026-06-30,735300000.0
+RCF,Q,income,Net Income Common Stockholders,2026-09-30,1309400000.0
+RCF,Q,income,Operating Income,2025-09-30,1445500000.0
+RCF,Q,income,Operating Income,2025-12-31,1694200000.0
+RCF,Q,income,Operating Income,2026-03-31,2438100000.0
+RCF,Q,income,Operating Income,2026-06-30,1373900000.0
+RCF,Q,income,Operating Income,2026-09-30,2205200000.0
+RCF,Q,income,Pretax Income,2025-09-30,1406100000.0
+RCF,Q,income,Pretax Income,2025-12-31,1178300000.0
+RCF,Q,income,Pretax Income,2026-03-31,2758400000.0
+RCF,Q,income,Pretax Income,2026-06-30,1014200000.0
+RCF,Q,income,Pretax Income,2026-09-30,1770900000.0
+RCF,Q,income,Total Revenue,2025-09-30,52925800000.0
+RCF,Q,income,Total Revenue,2025-12-31,42364400000.0
+RCF,Q,income,Total Revenue,2026-03-31,55805700000.0
+RCF,Q,income,Total Revenue,2026-06-30,35857100000.0
+RCF,Q,income,Total Revenue,2026-09-30,50631900000.0

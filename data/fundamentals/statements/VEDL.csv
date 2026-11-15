@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+VEDL,A,balance,Cash And Cash Equivalents,2023-03-31,69260000000.0
+VEDL,A,balance,Cash And Cash Equivalents,2024-03-31,28120000000.0
+VEDL,A,balance,Cash And Cash Equivalents,2025-03-31,39930000000.0
+VEDL,A,balance,Cash And Cash Equivalents,2026-03-31,13700000000.0
+VEDL,A,balance,Net Debt,2023-03-31,592460000000.0
+VEDL,A,balance,Net Debt,2024-03-31,689450000000.0
+VEDL,A,balance,Net Debt,2025-03-31,698590000000.0
+VEDL,A,balance,Net Debt,2026-03-31,256250000000.0
+VEDL,A,balance,Ordinary Shares Number,2023-03-31,3713193964.0
+VEDL,A,balance,Ordinary Shares Number,2024-03-31,3709339842.0
+VEDL,A,balance,Ordinary Shares Number,2025-03-31,3905304540.0
+VEDL,A,balance,Ordinary Shares Number,2026-03-31,3904801732.0
+VEDL,A,balance,Stockholders Equity,2023-03-31,394230000000.0
+VEDL,A,balance,Stockholders Equity,2024-03-31,307220000000.0
+VEDL,A,balance,Stockholders Equity,2025-03-31,382990000000.0
+VEDL,A,balance,Stockholders Equity,2026-03-31,408310000000.0
+VEDL,A,balance,Total Assets,2023-03-31,1953770000000.0
+VEDL,A,balance,Total Assets,2024-03-31,1908070000000.0
+VEDL,A,balance,Total Assets,2025-03-31,2019740000000.0
+VEDL,A,balance,Total Assets,2026-03-31,2332360000000.0
+VEDL,A,balance,Total Debt,2023-03-31,666180000000.0
+VEDL,A,balance,Total Debt,2024-03-31,727700000000.0
+VEDL,A,balance,Total Debt,2025-03-31,751850000000.0
+VEDL,A,balance,Total Debt,2026-03-31,278440000000.0
+VEDL,A,cashflow,Capital Expenditure,2023-03-31,-137870000000.0
+VEDL,A,cashflow,Capital Expenditure,2024-03-31,-167520000000.0
+VEDL,A,cashflow,Capital Expenditure,2025-03-31,-170050000000.0
+VEDL,A,cashflow,Capital Expenditure,2026-03-31,-208760000000.0
+VEDL,A,cashflow,Free Cash Flow,2023-03-31,192780000000.0
+VEDL,A,cashflow,Free Cash Flow,2024-03-31,189020000000.0
+VEDL,A,cashflow,Free Cash Flow,2025-03-31,225570000000.0
+VEDL,A,cashflow,Free Cash Flow,2026-03-31,186230000000.0
+VEDL,A,cashflow,Operating Cash Flow,2023-03-31,330650000000.0
+VEDL,A,cashflow,Operating Cash Flow,2024-03-31,356540000000.0
+VEDL,A,cashflow,Operating Cash Flow,2025-03-31,395620000000.0
+VEDL,A,cashflow,Operating Cash Flow,2026-03-31,394990000000.0
+VEDL,A,income,Basic EPS,2023-03-31,28.5
+VEDL,A,income,Basic EPS,2024-03-31,11.42
+VEDL,A,income,Basic EPS,2025-03-31,38.97
+VEDL,A,income,Basic EPS,2026-03-31,44.58
+VEDL,A,income,Diluted EPS,2023-03-31,28.32
+VEDL,A,income,Diluted EPS,2024-03-31,11.33
+VEDL,A,income,Diluted EPS,2025-03-31,38.65
+VEDL,A,income,Diluted EPS,2026-03-31,44.21
+VEDL,A,income,EBITDA,2023-03-31,367190000000.0
+VEDL,A,income,EBITDA,2024-03-31,395420000000.0
+VEDL,A,income,EBITDA,2025-03-31,263440000000.0
+VEDL,A,income,EBITDA,2026-03-31,294590000000.0
+VEDL,A,income,Interest Expense,2023-03-31,58460000000.0
+VEDL,A,income,Interest Expense,2024-03-31,84330000000.0
+VEDL,A,income,Interest Expense,2025-03-31,35770000000.0
+VEDL,A,income,Interest Expense,2026-03-31,25260000000.0
+VEDL,A,income,Net Income,2023-03-31,105740000000.0
+VEDL,A,income,Net Income,2024-03-31,42390000000.0
+VEDL,A,income,Net Income,2025-03-31,149880000000.0
+VEDL,A,income,Net Income,2026-03-31,173910000000.0
+VEDL,A,income,Net Income Common Stockholders,2023-03-31,105740000000.0
+VEDL,A,income,Net Income Common Stockholders,2024-03-31,42390000000.0
+VEDL,A,income,Net Income Common Stockholders,2025-03-31,149880000000.0
+VEDL,A,income,Net Income Common Stockholders,2026-03-31,173910000000.0
+VEDL,A,income,Operating Income,2023-03-31,242850000000.0
+VEDL,A,income,Operating Income,2024-03-31,248280000000.0
+VEDL,A,income,Operating Income,2025-03-31,145370000000.0
+VEDL,A,income,Operating Income,2026-03-31,184970000000.0
+VEDL,A,income,Pretax Income,2023-03-31,202760000000.0
+VEDL,A,income,Pretax Income,2024-03-31,203650000000.0
+VEDL,A,income,Pretax Income,2025-03-31,116280000000.0
+VEDL,A,income,Pretax Income,2026-03-31,171260000000.0
+VEDL,A,income,Total Revenue,2023-03-31,1454040000000.0
+VEDL,A,income,Total Revenue,2024-03-31,1417930000000.0
+VEDL,A,income,Total Revenue,2025-03-31,616050000000.0
+VEDL,A,income,Total Revenue,2026-03-31,766720000000.0
+VEDL,Q,income,Basic EPS,2025-06-30,8.15
+VEDL,Q,income,Basic EPS,2025-12-31,14.62
+VEDL,Q,income,Basic EPS,2026-03-31,17.15
+VEDL,Q,income,Basic EPS,2026-06-30,14.02
+VEDL,Q,income,Basic EPS,2026-09-30,9.35
+VEDL,Q,income,Diluted EPS,2025-06-30,8.09
+VEDL,Q,income,Diluted EPS,2025-12-31,14.51
+VEDL,Q,income,Diluted EPS,2026-03-31,17.01
+VEDL,Q,income,Diluted EPS,2026-06-30,13.93
+VEDL,Q,income,Diluted EPS,2026-09-30,9.3
+VEDL,Q,income,EBITDA,2025-09-30,39680000000.0
+VEDL,Q,income,EBITDA,2025-12-31,57350000000.0
+VEDL,Q,income,EBITDA,2026-03-31,66450000000.0
+VEDL,Q,income,EBITDA,2026-06-30,78510000000.0
+VEDL,Q,income,EBITDA,2026-09-30,90860000000.0
+VEDL,Q,income,Interest Expense,2025-09-30,7610000000.0
+VEDL,Q,income,Interest Expense,2025-12-31,9890000000.0
+VEDL,Q,income,Interest Expense,2026-03-31,7370000000.0
+VEDL,Q,income,Interest Expense,2026-06-30,6620000000.0
+VEDL,Q,income,Interest Expense,2026-09-30,6960000000.0
+VEDL,Q,income,Net Income,2025-06-30,31850000000.0
+VEDL,Q,income,Net Income,2025-12-31,57100000000.0
+VEDL,Q,income,Net Income,2026-03-31,66980000000.0
+VEDL,Q,income,Net Income,2026-06-30,54730000000.0
+VEDL,Q,income,Net Income,2026-09-30,36500000000.0
+VEDL,Q,income,Net Income Common Stockholders,2025-06-30,31850000000.0
+VEDL,Q,income,Net Income Common Stockholders,2025-12-31,57100000000.0
+VEDL,Q,income,Net Income Common Stockholders,2026-03-31,66980000000.0
+VEDL,Q,income,Net Income Common Stockholders,2026-06-30,54730000000.0
+VEDL,Q,income,Net Income Common Stockholders,2026-09-30,36500000000.0
+VEDL,Q,income,Operating Income,2025-09-30,37040000000.0
+VEDL,Q,income,Operating Income,2025-12-31,54420000000.0
+VEDL,Q,income,Operating Income,2026-03-31,62270000000.0
+VEDL,Q,income,Operating Income,2026-06-30,73090000000.0
+VEDL,Q,income,Operating Income,2026-09-30,85760000000.0
+VEDL,Q,income,Pretax Income,2025-09-30,32070000000.0
+VEDL,Q,income,Pretax Income,2025-12-31,47460000000.0
+VEDL,Q,income,Pretax Income,2026-03-31,59080000000.0
+VEDL,Q,income,Pretax Income,2026-06-30,71890000000.0
+VEDL,Q,income,Pretax Income,2026-09-30,83900000000.0
+VEDL,Q,income,Total Revenue,2025-09-30,164450000000.0
+VEDL,Q,income,Total Revenue,2025-12-31,229790000000.0
+VEDL,Q,income,Total Revenue,2026-03-31,237310000000.0
+VEDL,Q,income,Total Revenue,2026-06-30,234560000000.0
+VEDL,Q,income,Total Revenue,2026-09-30,258120000000.0

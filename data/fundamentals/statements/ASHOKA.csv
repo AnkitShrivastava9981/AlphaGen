@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ASHOKA,A,balance,Cash And Cash Equivalents,2023-03-31,1974370000.0
+ASHOKA,A,balance,Cash And Cash Equivalents,2024-03-31,4587983000.0
+ASHOKA,A,balance,Cash And Cash Equivalents,2025-03-31,1673124000.0
+ASHOKA,A,balance,Cash And Cash Equivalents,2026-03-31,5909223000.0
+ASHOKA,A,balance,Net Debt,2023-03-31,53089725000.0
+ASHOKA,A,balance,Net Debt,2024-03-31,51986548000.0
+ASHOKA,A,balance,Net Debt,2025-03-31,20252850000.0
+ASHOKA,A,balance,Net Debt,2026-03-31,11465259000.0
+ASHOKA,A,balance,Ordinary Shares Number,2023-03-31,280723217.0
+ASHOKA,A,balance,Ordinary Shares Number,2024-03-31,280723217.0
+ASHOKA,A,balance,Ordinary Shares Number,2025-03-31,280723217.0
+ASHOKA,A,balance,Ordinary Shares Number,2026-03-31,280723217.0
+ASHOKA,A,balance,Stockholders Equity,2023-03-31,16756050000.0
+ASHOKA,A,balance,Stockholders Equity,2024-03-31,22202476000.0
+ASHOKA,A,balance,Stockholders Equity,2025-03-31,39152529000.0
+ASHOKA,A,balance,Stockholders Equity,2026-03-31,65792798000.0
+ASHOKA,A,balance,Total Assets,2023-03-31,171452135000.0
+ASHOKA,A,balance,Total Assets,2024-03-31,191243673000.0
+ASHOKA,A,balance,Total Assets,2025-03-31,207696234000.0
+ASHOKA,A,balance,Total Assets,2026-03-31,130501460000.0
+ASHOKA,A,balance,Total Debt,2023-03-31,55092488000.0
+ASHOKA,A,balance,Total Debt,2024-03-31,56646571000.0
+ASHOKA,A,balance,Total Debt,2025-03-31,22259558000.0
+ASHOKA,A,balance,Total Debt,2026-03-31,18353142000.0
+ASHOKA,A,cashflow,Capital Expenditure,2023-03-31,-1788623000.0
+ASHOKA,A,cashflow,Capital Expenditure,2024-03-31,-1462273000.0
+ASHOKA,A,cashflow,Capital Expenditure,2025-03-31,-1186222000.0
+ASHOKA,A,cashflow,Capital Expenditure,2026-03-31,-1172080000.0
+ASHOKA,A,cashflow,Free Cash Flow,2023-03-31,3133759000.0
+ASHOKA,A,cashflow,Free Cash Flow,2024-03-31,6026144000.0
+ASHOKA,A,cashflow,Free Cash Flow,2025-03-31,15548306000.0
+ASHOKA,A,cashflow,Free Cash Flow,2026-03-31,5373748000.0
+ASHOKA,A,cashflow,Operating Cash Flow,2023-03-31,4922382000.0
+ASHOKA,A,cashflow,Operating Cash Flow,2024-03-31,7488417000.0
+ASHOKA,A,cashflow,Operating Cash Flow,2025-03-31,16734528000.0
+ASHOKA,A,cashflow,Operating Cash Flow,2026-03-31,6545828000.0
+ASHOKA,A,income,Basic EPS,2023-03-31,10.42
+ASHOKA,A,income,Basic EPS,2024-03-31,17.92
+ASHOKA,A,income,Basic EPS,2025-03-31,60.35
+ASHOKA,A,income,Basic EPS,2026-03-31,90.84
+ASHOKA,A,income,Diluted EPS,2023-03-31,10.42
+ASHOKA,A,income,Diluted EPS,2024-03-31,17.92
+ASHOKA,A,income,Diluted EPS,2025-03-31,60.35
+ASHOKA,A,income,Diluted EPS,2026-03-31,90.84
+ASHOKA,A,income,EBITDA,2023-03-31,19951864000.0
+ASHOKA,A,income,EBITDA,2024-03-31,23885806000.0
+ASHOKA,A,income,EBITDA,2025-03-31,30530733000.0
+ASHOKA,A,income,EBITDA,2026-03-31,41604171000.0
+ASHOKA,A,income,Interest Expense,2023-03-31,10518391000.0
+ASHOKA,A,income,Interest Expense,2024-03-31,11519812000.0
+ASHOKA,A,income,Interest Expense,2025-03-31,12085830000.0
+ASHOKA,A,income,Interest Expense,2026-03-31,8674370000.0
+ASHOKA,A,income,Net Income,2023-03-31,2924218000.0
+ASHOKA,A,income,Net Income,2024-03-31,5030795000.0
+ASHOKA,A,income,Net Income,2025-03-31,16941026000.0
+ASHOKA,A,income,Net Income,2026-03-31,25500100000.0
+ASHOKA,A,income,Net Income Common Stockholders,2023-03-31,2924218000.0
+ASHOKA,A,income,Net Income Common Stockholders,2024-03-31,5030795000.0
+ASHOKA,A,income,Net Income Common Stockholders,2025-03-31,16941026000.0
+ASHOKA,A,income,Net Income Common Stockholders,2026-03-31,25500100000.0
+ASHOKA,A,income,Operating Income,2023-03-31,10278488000.0
+ASHOKA,A,income,Operating Income,2024-03-31,11950277000.0
+ASHOKA,A,income,Operating Income,2025-03-31,18238987000.0
+ASHOKA,A,income,Operating Income,2026-03-31,13427376000.0
+ASHOKA,A,income,Pretax Income,2023-03-31,5881883000.0
+ASHOKA,A,income,Pretax Income,2024-03-31,8699655000.0
+ASHOKA,A,income,Pretax Income,2025-03-31,15547818000.0
+ASHOKA,A,income,Pretax Income,2026-03-31,31323448000.0
+ASHOKA,A,income,Total Revenue,2023-03-31,73537019000.0
+ASHOKA,A,income,Total Revenue,2024-03-31,89569928000.0
+ASHOKA,A,income,Total Revenue,2025-03-31,89738888000.0
+ASHOKA,A,income,Total Revenue,2026-03-31,69528284000.0
+ASHOKA,Q,income,Basic EPS,2025-06-30,7.74
+ASHOKA,Q,income,Basic EPS,2025-09-30,2.78
+ASHOKA,Q,income,Basic EPS,2025-12-31,75.21
+ASHOKA,Q,income,Basic EPS,2026-03-31,5.1
+ASHOKA,Q,income,Basic EPS,2026-06-30,4.55
+ASHOKA,Q,income,Diluted EPS,2025-06-30,7.74
+ASHOKA,Q,income,Diluted EPS,2025-09-30,2.78
+ASHOKA,Q,income,Diluted EPS,2025-12-31,75.21
+ASHOKA,Q,income,Diluted EPS,2026-03-31,5.1
+ASHOKA,Q,income,Diluted EPS,2026-06-30,4.55
+ASHOKA,Q,income,EBITDA,2025-06-30,6488563000.0
+ASHOKA,Q,income,EBITDA,2025-09-30,4224041000.0
+ASHOKA,Q,income,EBITDA,2025-12-31,28508285000.0
+ASHOKA,Q,income,EBITDA,2026-03-31,2828406000.0
+ASHOKA,Q,income,EBITDA,2026-06-30,2919307000.0
+ASHOKA,Q,income,Interest Expense,2025-06-30,3113237000.0
+ASHOKA,Q,income,Interest Expense,2025-09-30,3179848000.0
+ASHOKA,Q,income,Interest Expense,2025-12-31,2002220000.0
+ASHOKA,Q,income,Interest Expense,2026-03-31,824191000.0
+ASHOKA,Q,income,Interest Expense,2026-06-30,833586000.0
+ASHOKA,Q,income,Net Income,2025-06-30,2173932000.0
+ASHOKA,Q,income,Net Income,2025-09-30,780628000.0
+ASHOKA,Q,income,Net Income,2025-12-31,21114102000.0
+ASHOKA,Q,income,Net Income,2026-03-31,1431437000.0
+ASHOKA,Q,income,Net Income,2026-06-30,1277741000.0
+ASHOKA,Q,income,Net Income Common Stockholders,2025-06-30,2173932000.0
+ASHOKA,Q,income,Net Income Common Stockholders,2025-09-30,780628000.0
+ASHOKA,Q,income,Net Income Common Stockholders,2025-12-31,21114102000.0
+ASHOKA,Q,income,Net Income Common Stockholders,2026-03-31,1431437000.0
+ASHOKA,Q,income,Net Income Common Stockholders,2026-06-30,1277741000.0
+ASHOKA,Q,income,Operating Income,2025-06-30,5606902000.0
+ASHOKA,Q,income,Operating Income,2025-09-30,5447667000.0
+ASHOKA,Q,income,Operating Income,2025-12-31,3936875000.0
+ASHOKA,Q,income,Operating Income,2026-03-31,2225613000.0
+ASHOKA,Q,income,Operating Income,2026-06-30,2221093000.0
+ASHOKA,Q,income,Pretax Income,2025-06-30,2995674000.0
+ASHOKA,Q,income,Pretax Income,2025-09-30,642414000.0
+ASHOKA,Q,income,Pretax Income,2025-12-31,26090073000.0
+ASHOKA,Q,income,Pretax Income,2026-03-31,1595285000.0
+ASHOKA,Q,income,Pretax Income,2026-06-30,1727967000.0
+ASHOKA,Q,income,Total Revenue,2025-06-30,18870672000.0
+ASHOKA,Q,income,Total Revenue,2025-09-30,18511802000.0
+ASHOKA,Q,income,Total Revenue,2025-12-31,18273333000.0
+ASHOKA,Q,income,Total Revenue,2026-03-31,19543031000.0
+ASHOKA,Q,income,Total Revenue,2026-06-30,14996051000.0

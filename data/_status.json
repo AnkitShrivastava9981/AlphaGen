@@ -1,6 +1,6 @@
 {
-  "started_ist": "2026-11-15T14:02:57+05:30",
-  "finished_ist": "2026-11-15T14:15:15+05:30",
+  "started_ist": "2026-11-15T14:21:37+05:30",
+  "finished_ist": "2026-11-15T14:47:13+05:30",
   "steps": {
     "universe": {
       "ok": true,
@@ -9,23 +9,23 @@
     },
     "prices": {
       "ok": true,
-      "rows": 731814,
-      "note": "776/780 tickers; full refresh"
+      "rows": 27143,
+      "note": "777/780 tickers; incremental"
     },
     "nse_delivery": {
       "ok": true,
-      "rows": 3715,
-      "note": "5 new day files"
+      "rows": 0,
+      "note": "0 new day files"
     },
     "nse_fo": {
       "ok": true,
-      "rows": 896,
-      "note": "4 new day files"
+      "rows": 0,
+      "note": "0 new day files"
     },
     "nse_participant_oi": {
       "ok": true,
-      "rows": 20,
-      "note": "4 new day files"
+      "rows": 0,
+      "note": "0 new day files"
     },
     "nse_fii_dii": {
       "ok": true,
@@ -40,7 +40,7 @@
     "mutual_funds": {
       "ok": true,
       "rows": 223,
-      "note": "4162 schemes in master; 223 tracked; full refresh"
+      "note": "4162 schemes in master; 223 tracked; appended latest NAVs"
     },
     "macro": {
       "ok": false,
@@ -49,8 +49,8 @@
     },
     "fundamentals": {
       "ok": true,
-      "rows": 20,
-      "note": "20/20 stocks"
+      "rows": 750,
+      "note": "750/753 stocks"
     }
   }
 }

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CEMPRO,A,balance,Cash And Cash Equivalents,2023-03-31,4463113000.0
+CEMPRO,A,balance,Cash And Cash Equivalents,2024-03-31,6087748000.0
+CEMPRO,A,balance,Cash And Cash Equivalents,2025-03-31,3647500000.0
+CEMPRO,A,balance,Cash And Cash Equivalents,2026-03-31,4746900000.0
+CEMPRO,A,balance,Net Debt,2023-03-31,2784301000.0
+CEMPRO,A,balance,Net Debt,2024-03-31,2532553000.0
+CEMPRO,A,balance,Net Debt,2025-03-31,5993600000.0
+CEMPRO,A,balance,Net Debt,2026-03-31,4884300000.0
+CEMPRO,A,balance,Ordinary Shares Number,2023-03-31,171787584.0
+CEMPRO,A,balance,Ordinary Shares Number,2024-03-31,171787584.0
+CEMPRO,A,balance,Ordinary Shares Number,2025-03-31,171787584.0
+CEMPRO,A,balance,Ordinary Shares Number,2026-03-31,171787584.0
+CEMPRO,A,balance,Stockholders Equity,2023-03-31,12375055000.0
+CEMPRO,A,balance,Stockholders Equity,2024-03-31,14937017000.0
+CEMPRO,A,balance,Stockholders Equity,2025-03-31,18333800000.0
+CEMPRO,A,balance,Stockholders Equity,2026-03-31,23995800000.0
+CEMPRO,A,balance,Total Assets,2023-03-31,50165316000.0
+CEMPRO,A,balance,Total Assets,2024-03-31,59172575000.0
+CEMPRO,A,balance,Total Assets,2025-03-31,58515300000.0
+CEMPRO,A,balance,Total Assets,2026-03-31,70864500000.0
+CEMPRO,A,balance,Total Debt,2023-03-31,7661839000.0
+CEMPRO,A,balance,Total Debt,2024-03-31,8891169000.0
+CEMPRO,A,balance,Total Debt,2025-03-31,9925300000.0
+CEMPRO,A,balance,Total Debt,2026-03-31,10012300000.0
+CEMPRO,A,cashflow,Capital Expenditure,2023-03-31,-4183013000.0
+CEMPRO,A,cashflow,Capital Expenditure,2024-03-31,-3564048000.0
+CEMPRO,A,cashflow,Capital Expenditure,2025-03-31,-2280500000.0
+CEMPRO,A,cashflow,Capital Expenditure,2026-03-31,-2638000000.0
+CEMPRO,A,cashflow,Free Cash Flow,2023-03-31,527596000.0
+CEMPRO,A,cashflow,Free Cash Flow,2024-03-31,3479366000.0
+CEMPRO,A,cashflow,Free Cash Flow,2025-03-31,-437700000.0
+CEMPRO,A,cashflow,Free Cash Flow,2026-03-31,2359800000.0
+CEMPRO,A,cashflow,Operating Cash Flow,2023-03-31,4710609000.0
+CEMPRO,A,cashflow,Operating Cash Flow,2024-03-31,7043414000.0
+CEMPRO,A,cashflow,Operating Cash Flow,2025-03-31,1842800000.0
+CEMPRO,A,cashflow,Operating Cash Flow,2026-03-31,4997800000.0
+CEMPRO,A,income,Basic EPS,2023-03-31,7.23
+CEMPRO,A,income,Basic EPS,2024-03-31,15.93
+CEMPRO,A,income,Basic EPS,2025-03-31,21.7
+CEMPRO,A,income,Basic EPS,2026-03-31,34.79
+CEMPRO,A,income,Diluted EPS,2023-03-31,7.23
+CEMPRO,A,income,Diluted EPS,2024-03-31,15.93
+CEMPRO,A,income,Diluted EPS,2025-03-31,21.7
+CEMPRO,A,income,Diluted EPS,2026-03-31,34.79
+CEMPRO,A,income,EBITDA,2023-03-31,4051257000.0
+CEMPRO,A,income,EBITDA,2024-03-31,7386031000.0
+CEMPRO,A,income,EBITDA,2025-03-31,8569800000.0
+CEMPRO,A,income,EBITDA,2026-03-31,11231800000.0
+CEMPRO,A,income,Interest Expense,2023-03-31,1077324000.0
+CEMPRO,A,income,Interest Expense,2024-03-31,1476761000.0
+CEMPRO,A,income,Interest Expense,2025-03-31,1545400000.0
+CEMPRO,A,income,Interest Expense,2026-03-31,1396700000.0
+CEMPRO,A,income,Net Income,2023-03-31,1242444000.0
+CEMPRO,A,income,Net Income,2024-03-31,2737334000.0
+CEMPRO,A,income,Net Income,2025-03-31,3727800000.0
+CEMPRO,A,income,Net Income,2026-03-31,5977300000.0
+CEMPRO,A,income,Net Income Common Stockholders,2023-03-31,1242444000.0
+CEMPRO,A,income,Net Income Common Stockholders,2024-03-31,2737334000.0
+CEMPRO,A,income,Net Income Common Stockholders,2025-03-31,3727800000.0
+CEMPRO,A,income,Net Income Common Stockholders,2026-03-31,5977300000.0
+CEMPRO,A,income,Operating Income,2023-03-31,3181142000.0
+CEMPRO,A,income,Operating Income,2024-03-31,5935063000.0
+CEMPRO,A,income,Operating Income,2025-03-31,6732200000.0
+CEMPRO,A,income,Operating Income,2026-03-31,8583400000.0
+CEMPRO,A,income,Pretax Income,2023-03-31,1838759000.0
+CEMPRO,A,income,Pretax Income,2024-03-31,3830440000.0
+CEMPRO,A,income,Pretax Income,2025-03-31,5079900000.0
+CEMPRO,A,income,Pretax Income,2026-03-31,8176200000.0
+CEMPRO,A,income,Total Revenue,2023-03-31,50902017000.0
+CEMPRO,A,income,Total Revenue,2024-03-31,77173382000.0
+CEMPRO,A,income,Total Revenue,2025-03-31,92461600000.0
+CEMPRO,A,income,Total Revenue,2026-03-31,100605800000.0
+CEMPRO,Q,income,Basic EPS,2025-06-30,7.99
+CEMPRO,Q,income,Basic EPS,2025-12-31,6.45
+CEMPRO,Q,income,Basic EPS,2026-03-31,14.1
+CEMPRO,Q,income,Basic EPS,2026-06-30,8.2
+CEMPRO,Q,income,Basic EPS,2026-09-30,7.6
+CEMPRO,Q,income,Diluted EPS,2025-06-30,7.99
+CEMPRO,Q,income,Diluted EPS,2025-12-31,6.45
+CEMPRO,Q,income,Diluted EPS,2026-03-31,14.1
+CEMPRO,Q,income,Diluted EPS,2026-06-30,8.2
+CEMPRO,Q,income,Diluted EPS,2026-09-30,7.6
+CEMPRO,Q,income,EBITDA,2025-09-30,2430900000.0
+CEMPRO,Q,income,EBITDA,2025-12-31,2449200000.0
+CEMPRO,Q,income,EBITDA,2026-03-31,4500100000.0
+CEMPRO,Q,income,EBITDA,2026-06-30,2850900000.0
+CEMPRO,Q,income,EBITDA,2026-09-30,2796800000.0
+CEMPRO,Q,income,Interest Expense,2025-09-30,534000000.0
+CEMPRO,Q,income,Interest Expense,2025-12-31,501100000.0
+CEMPRO,Q,income,Interest Expense,2026-03-31,610800000.0
+CEMPRO,Q,income,Interest Expense,2026-06-30,499800000.0
+CEMPRO,Q,income,Interest Expense,2026-09-30,576900000.0
+CEMPRO,Q,income,Net Income,2025-06-30,1372300000.0
+CEMPRO,Q,income,Net Income,2025-12-31,1108900000.0
+CEMPRO,Q,income,Net Income,2026-03-31,2421700000.0
+CEMPRO,Q,income,Net Income,2026-06-30,1408300000.0
+CEMPRO,Q,income,Net Income,2026-09-30,1305900000.0
+CEMPRO,Q,income,Net Income Common Stockholders,2025-06-30,1372300000.0
+CEMPRO,Q,income,Net Income Common Stockholders,2025-12-31,1108900000.0
+CEMPRO,Q,income,Net Income Common Stockholders,2026-03-31,2421700000.0
+CEMPRO,Q,income,Net Income Common Stockholders,2026-06-30,1408300000.0
+CEMPRO,Q,income,Net Income Common Stockholders,2026-09-30,1305900000.0
+CEMPRO,Q,income,Operating Income,2025-09-30,1634800000.0
+CEMPRO,Q,income,Operating Income,2025-12-31,1792100000.0
+CEMPRO,Q,income,Operating Income,2026-03-31,3190500000.0
+CEMPRO,Q,income,Operating Income,2026-06-30,2319200000.0
+CEMPRO,Q,income,Operating Income,2026-09-30,2255800000.0
+CEMPRO,Q,income,Pretax Income,2025-09-30,1464000000.0
+CEMPRO,Q,income,Pretax Income,2025-12-31,1521200000.0
+CEMPRO,Q,income,Pretax Income,2026-03-31,3502500000.0
+CEMPRO,Q,income,Pretax Income,2026-06-30,1923700000.0
+CEMPRO,Q,income,Pretax Income,2026-09-30,1798900000.0
+CEMPRO,Q,income,Total Revenue,2025-09-30,21952100000.0
+CEMPRO,Q,income,Total Revenue,2025-12-31,23154800000.0
+CEMPRO,Q,income,Total Revenue,2026-03-31,29734900000.0
+CEMPRO,Q,income,Total Revenue,2026-06-30,27209200000.0
+CEMPRO,Q,income,Total Revenue,2026-09-30,27486500000.0

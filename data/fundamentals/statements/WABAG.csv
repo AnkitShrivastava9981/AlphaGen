@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+WABAG,A,balance,Cash And Cash Equivalents,2023-03-31,1273000000.0
+WABAG,A,balance,Cash And Cash Equivalents,2024-03-31,4399000000.0
+WABAG,A,balance,Cash And Cash Equivalents,2025-03-31,6885000000.0
+WABAG,A,balance,Cash And Cash Equivalents,2026-03-31,7649000000.0
+WABAG,A,balance,Net Debt,2022-03-31,1074800000.0
+WABAG,A,balance,Net Debt,2023-03-31,859000000.0
+WABAG,A,balance,Ordinary Shares Number,2023-03-31,62190428.0
+WABAG,A,balance,Ordinary Shares Number,2024-03-31,62190428.0
+WABAG,A,balance,Ordinary Shares Number,2025-03-31,62190428.0
+WABAG,A,balance,Ordinary Shares Number,2026-03-31,62309595.0
+WABAG,A,balance,Stockholders Equity,2023-03-31,15748000000.0
+WABAG,A,balance,Stockholders Equity,2024-03-31,18186000000.0
+WABAG,A,balance,Stockholders Equity,2025-03-31,21399000000.0
+WABAG,A,balance,Stockholders Equity,2026-03-31,25685000000.0
+WABAG,A,balance,Total Assets,2023-03-31,40892000000.0
+WABAG,A,balance,Total Assets,2024-03-31,45745000000.0
+WABAG,A,balance,Total Assets,2025-03-31,52673000000.0
+WABAG,A,balance,Total Assets,2026-03-31,61224000000.0
+WABAG,A,balance,Total Debt,2023-03-31,2190000000.0
+WABAG,A,balance,Total Debt,2024-03-31,2889000000.0
+WABAG,A,balance,Total Debt,2025-03-31,3617000000.0
+WABAG,A,balance,Total Debt,2026-03-31,2284000000.0
+WABAG,A,cashflow,Capital Expenditure,2023-03-31,-52000000.0
+WABAG,A,cashflow,Capital Expenditure,2024-03-31,-119000000.0
+WABAG,A,cashflow,Capital Expenditure,2025-03-31,-45000000.0
+WABAG,A,cashflow,Capital Expenditure,2026-03-31,-52000000.0
+WABAG,A,cashflow,Free Cash Flow,2023-03-31,797000000.0
+WABAG,A,cashflow,Free Cash Flow,2024-03-31,1216000000.0
+WABAG,A,cashflow,Free Cash Flow,2025-03-31,3507000000.0
+WABAG,A,cashflow,Free Cash Flow,2026-03-31,2015000000.0
+WABAG,A,cashflow,Operating Cash Flow,2023-03-31,849000000.0
+WABAG,A,cashflow,Operating Cash Flow,2024-03-31,1335000000.0
+WABAG,A,cashflow,Operating Cash Flow,2025-03-31,3552000000.0
+WABAG,A,cashflow,Operating Cash Flow,2026-03-31,2067000000.0
+WABAG,A,income,Basic EPS,2023-03-31,2.07
+WABAG,A,income,Basic EPS,2024-03-31,39.49
+WABAG,A,income,Basic EPS,2025-03-31,47.48
+WABAG,A,income,Basic EPS,2026-03-31,59.51
+WABAG,A,income,Diluted EPS,2023-03-31,2.07
+WABAG,A,income,Diluted EPS,2024-03-31,39.49
+WABAG,A,income,Diluted EPS,2025-03-31,46.8
+WABAG,A,income,Diluted EPS,2026-03-31,58.72
+WABAG,A,income,EBITDA,2023-03-31,544000000.0
+WABAG,A,income,EBITDA,2024-03-31,3640000000.0
+WABAG,A,income,EBITDA,2025-03-31,4237000000.0
+WABAG,A,income,EBITDA,2026-03-31,5178000000.0
+WABAG,A,income,Interest Expense,2023-03-31,287000000.0
+WABAG,A,income,Interest Expense,2024-03-31,255000000.0
+WABAG,A,income,Interest Expense,2025-03-31,334000000.0
+WABAG,A,income,Interest Expense,2026-03-31,230000000.0
+WABAG,A,income,Net Income,2023-03-31,130000000.0
+WABAG,A,income,Net Income,2024-03-31,2456000000.0
+WABAG,A,income,Net Income,2025-03-31,2953000000.0
+WABAG,A,income,Net Income,2026-03-31,3705000000.0
+WABAG,A,income,Net Income Common Stockholders,2023-03-31,130000000.0
+WABAG,A,income,Net Income Common Stockholders,2024-03-31,2456000000.0
+WABAG,A,income,Net Income Common Stockholders,2025-03-31,2953000000.0
+WABAG,A,income,Net Income Common Stockholders,2026-03-31,3705000000.0
+WABAG,A,income,Operating Income,2023-03-31,3430000000.0
+WABAG,A,income,Operating Income,2024-03-31,3774000000.0
+WABAG,A,income,Operating Income,2025-03-31,3967000000.0
+WABAG,A,income,Operating Income,2026-03-31,5597000000.0
+WABAG,A,income,Pretax Income,2023-03-31,169000000.0
+WABAG,A,income,Pretax Income,2024-03-31,3301000000.0
+WABAG,A,income,Pretax Income,2025-03-31,3844000000.0
+WABAG,A,income,Pretax Income,2026-03-31,4886000000.0
+WABAG,A,income,Total Revenue,2023-03-31,29463000000.0
+WABAG,A,income,Total Revenue,2024-03-31,28269000000.0
+WABAG,A,income,Total Revenue,2025-03-31,32760000000.0
+WABAG,A,income,Total Revenue,2026-03-31,39084000000.0
+WABAG,Q,income,Basic EPS,2025-09-30,13.63
+WABAG,Q,income,Basic EPS,2025-12-31,14.73
+WABAG,Q,income,Basic EPS,2026-03-31,22.68
+WABAG,Q,income,Basic EPS,2026-06-30,14.35
+WABAG,Q,income,Basic EPS,2026-09-30,16.77
+WABAG,Q,income,Diluted EPS,2025-09-30,13.45
+WABAG,Q,income,Diluted EPS,2025-12-31,14.54
+WABAG,Q,income,Diluted EPS,2026-03-31,22.38
+WABAG,Q,income,Diluted EPS,2026-06-30,14.16
+WABAG,Q,income,Diluted EPS,2026-09-30,16.54
+WABAG,Q,income,EBITDA,2025-09-30,1321000000.0
+WABAG,Q,income,EBITDA,2025-12-31,1408000000.0
+WABAG,Q,income,EBITDA,2026-03-31,1880000000.0
+WABAG,Q,income,EBITDA,2026-06-30,1370000000.0
+WABAG,Q,income,EBITDA,2026-09-30,1554000000.0
+WABAG,Q,income,Interest Expense,2025-09-30,196000000.0
+WABAG,Q,income,Interest Expense,2025-12-31,179000000.0
+WABAG,Q,income,Interest Expense,2026-03-31,166000000.0
+WABAG,Q,income,Interest Expense,2026-06-30,172000000.0
+WABAG,Q,income,Interest Expense,2026-09-30,177000000.0
+WABAG,Q,income,Net Income,2025-09-30,848000000.0
+WABAG,Q,income,Net Income,2025-12-31,917000000.0
+WABAG,Q,income,Net Income,2026-03-31,1283000000.0
+WABAG,Q,income,Net Income,2026-06-30,901000000.0
+WABAG,Q,income,Net Income,2026-09-30,1046000000.0
+WABAG,Q,income,Net Income Common Stockholders,2025-09-30,848000000.0
+WABAG,Q,income,Net Income Common Stockholders,2025-12-31,917000000.0
+WABAG,Q,income,Net Income Common Stockholders,2026-03-31,1283000000.0
+WABAG,Q,income,Net Income Common Stockholders,2026-06-30,901000000.0
+WABAG,Q,income,Net Income Common Stockholders,2026-09-30,1046000000.0
+WABAG,Q,income,Operating Income,2025-09-30,876000000.0
+WABAG,Q,income,Operating Income,2025-12-31,1199000000.0
+WABAG,Q,income,Operating Income,2026-03-31,1559000000.0
+WABAG,Q,income,Operating Income,2026-06-30,779000000.0
+WABAG,Q,income,Operating Income,2026-09-30,1226000000.0
+WABAG,Q,income,Pretax Income,2025-09-30,1108000000.0
+WABAG,Q,income,Pretax Income,2025-12-31,1213000000.0
+WABAG,Q,income,Pretax Income,2026-03-31,1699000000.0
+WABAG,Q,income,Pretax Income,2026-06-30,1182000000.0
+WABAG,Q,income,Pretax Income,2026-09-30,1360000000.0
+WABAG,Q,income,Total Revenue,2025-09-30,8345000000.0
+WABAG,Q,income,Total Revenue,2025-12-31,9613000000.0
+WABAG,Q,income,Total Revenue,2026-03-31,14144000000.0
+WABAG,Q,income,Total Revenue,2026-06-30,8868000000.0
+WABAG,Q,income,Total Revenue,2026-09-30,10002000000.0

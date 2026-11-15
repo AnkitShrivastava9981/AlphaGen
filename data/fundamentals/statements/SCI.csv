@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SCI,A,balance,Cash And Cash Equivalents,2023-03-31,3168200000.0
+SCI,A,balance,Cash And Cash Equivalents,2024-03-31,8383900000.0
+SCI,A,balance,Cash And Cash Equivalents,2025-03-31,1357100000.0
+SCI,A,balance,Cash And Cash Equivalents,2026-03-31,1060400000.0
+SCI,A,balance,Net Debt,2023-03-31,22661200000.0
+SCI,A,balance,Net Debt,2024-03-31,20549800000.0
+SCI,A,balance,Net Debt,2025-03-31,17986600000.0
+SCI,A,balance,Net Debt,2026-03-31,23708900000.0
+SCI,A,balance,Ordinary Shares Number,2023-03-31,465799010.0
+SCI,A,balance,Ordinary Shares Number,2024-03-31,465799010.0
+SCI,A,balance,Ordinary Shares Number,2025-03-31,465799010.0
+SCI,A,balance,Ordinary Shares Number,2026-03-31,465799010.0
+SCI,A,balance,Stockholders Equity,2023-03-31,69023300000.0
+SCI,A,balance,Stockholders Equity,2024-03-31,75395000000.0
+SCI,A,balance,Stockholders Equity,2025-03-31,83117400000.0
+SCI,A,balance,Stockholders Equity,2026-03-31,90962900000.0
+SCI,A,balance,Total Assets,2023-03-31,114429800000.0
+SCI,A,balance,Total Assets,2024-03-31,120999000000.0
+SCI,A,balance,Total Assets,2025-03-31,117010600000.0
+SCI,A,balance,Total Assets,2026-03-31,133185000000.0
+SCI,A,balance,Total Debt,2023-03-31,26045800000.0
+SCI,A,balance,Total Debt,2024-03-31,29142200000.0
+SCI,A,balance,Total Debt,2025-03-31,22284900000.0
+SCI,A,balance,Total Debt,2026-03-31,26792500000.0
+SCI,A,cashflow,Capital Expenditure,2023-03-31,-4758100000.0
+SCI,A,cashflow,Capital Expenditure,2024-03-31,-5117700000.0
+SCI,A,cashflow,Capital Expenditure,2025-03-31,-2919200000.0
+SCI,A,cashflow,Capital Expenditure,2026-03-31,-15504400000.0
+SCI,A,cashflow,Free Cash Flow,2023-03-31,9896200000.0
+SCI,A,cashflow,Free Cash Flow,2024-03-31,4822900000.0
+SCI,A,cashflow,Free Cash Flow,2025-03-31,5575900000.0
+SCI,A,cashflow,Free Cash Flow,2026-03-31,-2072300000.0
+SCI,A,cashflow,Operating Cash Flow,2023-03-31,14654300000.0
+SCI,A,cashflow,Operating Cash Flow,2024-03-31,9940600000.0
+SCI,A,cashflow,Operating Cash Flow,2025-03-31,8495100000.0
+SCI,A,cashflow,Operating Cash Flow,2026-03-31,13432100000.0
+SCI,A,income,Basic EPS,2023-03-31,18.68
+SCI,A,income,Basic EPS,2024-03-31,14.58
+SCI,A,income,Basic EPS,2025-03-31,18.11
+SCI,A,income,Basic EPS,2026-03-31,29.05
+SCI,A,income,Diluted EPS,2023-03-31,18.68
+SCI,A,income,Diluted EPS,2024-03-31,14.58
+SCI,A,income,Diluted EPS,2025-03-31,18.11
+SCI,A,income,Diluted EPS,2026-03-31,29.05
+SCI,A,income,EBITDA,2023-03-31,16756000000.0
+SCI,A,income,EBITDA,2024-03-31,16883300000.0
+SCI,A,income,EBITDA,2025-03-31,19446600000.0
+SCI,A,income,EBITDA,2026-03-31,26419400000.0
+SCI,A,income,Interest Expense,2023-03-31,1194200000.0
+SCI,A,income,Interest Expense,2024-03-31,1536500000.0
+SCI,A,income,Interest Expense,2025-03-31,1415500000.0
+SCI,A,income,Interest Expense,2026-03-31,1553000000.0
+SCI,A,income,Net Income,2023-03-31,8701600000.0
+SCI,A,income,Net Income,2024-03-31,6789700000.0
+SCI,A,income,Net Income,2025-03-31,8435800000.0
+SCI,A,income,Net Income,2026-03-31,13529200000.0
+SCI,A,income,Net Income Common Stockholders,2023-03-31,8701600000.0
+SCI,A,income,Net Income Common Stockholders,2024-03-31,6789700000.0
+SCI,A,income,Net Income Common Stockholders,2025-03-31,8435800000.0
+SCI,A,income,Net Income Common Stockholders,2026-03-31,13529200000.0
+SCI,A,income,Operating Income,2023-03-31,10030800000.0
+SCI,A,income,Operating Income,2024-03-31,5640200000.0
+SCI,A,income,Operating Income,2025-03-31,8751900000.0
+SCI,A,income,Operating Income,2026-03-31,12926300000.0
+SCI,A,income,Pretax Income,2023-03-31,8030200000.0
+SCI,A,income,Pretax Income,2024-03-31,6453000000.0
+SCI,A,income,Pretax Income,2025-03-31,8517900000.0
+SCI,A,income,Pretax Income,2026-03-31,14228100000.0
+SCI,A,income,Total Revenue,2023-03-31,57704200000.0
+SCI,A,income,Total Revenue,2024-03-31,50320200000.0
+SCI,A,income,Total Revenue,2025-03-31,55877400000.0
+SCI,A,income,Total Revenue,2026-03-31,57475600000.0
+SCI,Q,income,Basic EPS,2025-09-30,4.06
+SCI,Q,income,Basic EPS,2025-12-31,8.69
+SCI,Q,income,Basic EPS,2026-03-31,8.69
+SCI,Q,income,Basic EPS,2026-06-30,13.3
+SCI,Q,income,Basic EPS,2026-09-30,12.4
+SCI,Q,income,Diluted EPS,2025-09-30,4.06
+SCI,Q,income,Diluted EPS,2025-12-31,8.69
+SCI,Q,income,Diluted EPS,2026-03-31,8.69
+SCI,Q,income,Diluted EPS,2026-06-30,13.3
+SCI,Q,income,Diluted EPS,2026-09-30,12.4
+SCI,Q,income,EBITDA,2025-09-30,2613900000.0
+SCI,Q,income,EBITDA,2025-12-31,4753200000.0
+SCI,Q,income,EBITDA,2026-03-31,4627100000.0
+SCI,Q,income,EBITDA,2026-06-30,6657000000.0
+SCI,Q,income,EBITDA,2026-09-30,6351500000.0
+SCI,Q,income,Interest Expense,2025-09-30,473800000.0
+SCI,Q,income,Interest Expense,2025-12-31,483900000.0
+SCI,Q,income,Interest Expense,2026-03-31,471200000.0
+SCI,Q,income,Interest Expense,2026-06-30,373900000.0
+SCI,Q,income,Interest Expense,2026-09-30,480500000.0
+SCI,Q,income,Net Income,2025-09-30,1891600000.0
+SCI,Q,income,Net Income,2025-12-31,4049700000.0
+SCI,Q,income,Net Income,2026-03-31,4046000000.0
+SCI,Q,income,Net Income,2026-06-30,6193400000.0
+SCI,Q,income,Net Income,2026-09-30,5777600000.0
+SCI,Q,income,Net Income Common Stockholders,2025-09-30,1891600000.0
+SCI,Q,income,Net Income Common Stockholders,2025-12-31,4049700000.0
+SCI,Q,income,Net Income Common Stockholders,2026-03-31,4046000000.0
+SCI,Q,income,Net Income Common Stockholders,2026-06-30,6193400000.0
+SCI,Q,income,Net Income Common Stockholders,2026-09-30,5777600000.0
+SCI,Q,income,Operating Income,2025-09-30,1507200000.0
+SCI,Q,income,Operating Income,2025-12-31,4067800000.0
+SCI,Q,income,Operating Income,2026-03-31,3248200000.0
+SCI,Q,income,Operating Income,2026-06-30,6004600000.0
+SCI,Q,income,Operating Income,2026-09-30,6224600000.0
+SCI,Q,income,Pretax Income,2025-09-30,2140100000.0
+SCI,Q,income,Pretax Income,2025-12-31,4269300000.0
+SCI,Q,income,Pretax Income,2026-03-31,4155900000.0
+SCI,Q,income,Pretax Income,2026-06-30,6283100000.0
+SCI,Q,income,Pretax Income,2026-09-30,5871000000.0
+SCI,Q,income,Total Revenue,2025-09-30,13388700000.0
+SCI,Q,income,Total Revenue,2025-12-31,16116700000.0
+SCI,Q,income,Total Revenue,2026-03-31,15132100000.0
+SCI,Q,income,Total Revenue,2026-06-30,18465600000.0
+SCI,Q,income,Total Revenue,2026-09-30,22907300000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+GPPL,A,balance,Cash And Cash Equivalents,2023-03-31,157710000.0
+GPPL,A,balance,Cash And Cash Equivalents,2024-03-31,236580000.0
+GPPL,A,balance,Cash And Cash Equivalents,2025-03-31,125570000.0
+GPPL,A,balance,Cash And Cash Equivalents,2026-03-31,93070000.0
+GPPL,A,balance,Ordinary Shares Number,2023-03-31,483439910.0
+GPPL,A,balance,Ordinary Shares Number,2024-03-31,483439910.0
+GPPL,A,balance,Ordinary Shares Number,2025-03-31,483439910.0
+GPPL,A,balance,Ordinary Shares Number,2026-03-31,483439910.0
+GPPL,A,balance,Stockholders Equity,2023-03-31,23107470000.0
+GPPL,A,balance,Stockholders Equity,2024-03-31,23133220000.0
+GPPL,A,balance,Stockholders Equity,2025-03-31,23371990000.0
+GPPL,A,balance,Stockholders Equity,2026-03-31,23884290000.0
+GPPL,A,balance,Total Assets,2023-03-31,28692770000.0
+GPPL,A,balance,Total Assets,2024-03-31,29364980000.0
+GPPL,A,balance,Total Assets,2025-03-31,29354490000.0
+GPPL,A,balance,Total Assets,2026-03-31,30236920000.0
+GPPL,A,balance,Total Debt,2023-03-31,794380000.0
+GPPL,A,balance,Total Debt,2024-03-31,792120000.0
+GPPL,A,balance,Total Debt,2025-03-31,604460000.0
+GPPL,A,balance,Total Debt,2026-03-31,368740000.0
+GPPL,A,cashflow,Capital Expenditure,2023-03-31,-578250000.0
+GPPL,A,cashflow,Capital Expenditure,2024-03-31,-712690000.0
+GPPL,A,cashflow,Capital Expenditure,2025-03-31,-954120000.0
+GPPL,A,cashflow,Capital Expenditure,2026-03-31,-2904740000.0
+GPPL,A,cashflow,Free Cash Flow,2023-03-31,3123120000.0
+GPPL,A,cashflow,Free Cash Flow,2024-03-31,4175350000.0
+GPPL,A,cashflow,Free Cash Flow,2025-03-31,3536200000.0
+GPPL,A,cashflow,Free Cash Flow,2026-03-31,2198370000.0
+GPPL,A,cashflow,Operating Cash Flow,2023-03-31,3701370000.0
+GPPL,A,cashflow,Operating Cash Flow,2024-03-31,4888040000.0
+GPPL,A,cashflow,Operating Cash Flow,2025-03-31,4490320000.0
+GPPL,A,cashflow,Operating Cash Flow,2026-03-31,5103110000.0
+GPPL,A,income,Basic EPS,2023-03-31,6.48
+GPPL,A,income,Basic EPS,2024-03-31,7.074302
+GPPL,A,income,Basic EPS,2025-03-31,8.21
+GPPL,A,income,Basic EPS,2026-03-31,10.66
+GPPL,A,income,Diluted EPS,2023-03-31,6.48
+GPPL,A,income,Diluted EPS,2024-03-31,7.074302
+GPPL,A,income,Diluted EPS,2025-03-31,8.21
+GPPL,A,income,Diluted EPS,2026-03-31,10.66
+GPPL,A,income,EBITDA,2023-03-31,5369450000.0
+GPPL,A,income,EBITDA,2024-03-31,6040500000.0
+GPPL,A,income,EBITDA,2025-03-31,6754030000.0
+GPPL,A,income,EBITDA,2026-03-31,8210010000.0
+GPPL,A,income,Interest Expense,2023-03-31,75640000.0
+GPPL,A,income,Interest Expense,2024-03-31,89660000.0
+GPPL,A,income,Interest Expense,2025-03-31,59590000.0
+GPPL,A,income,Interest Expense,2026-03-31,58130000.0
+GPPL,A,income,Net Income,2023-03-31,3131420000.0
+GPPL,A,income,Net Income,2024-03-31,3420000000.0
+GPPL,A,income,Net Income,2025-03-31,3968960000.0
+GPPL,A,income,Net Income,2026-03-31,5151650000.0
+GPPL,A,income,Net Income Common Stockholders,2023-03-31,3131420000.0
+GPPL,A,income,Net Income Common Stockholders,2024-03-31,3420000000.0
+GPPL,A,income,Net Income Common Stockholders,2025-03-31,3968960000.0
+GPPL,A,income,Net Income Common Stockholders,2026-03-31,5151650000.0
+GPPL,A,income,Operating Income,2023-03-31,3959130000.0
+GPPL,A,income,Operating Income,2024-03-31,4670280000.0
+GPPL,A,income,Operating Income,2025-03-31,4674600000.0
+GPPL,A,income,Operating Income,2026-03-31,5949850000.0
+GPPL,A,income,Pretax Income,2023-03-31,4132270000.0
+GPPL,A,income,Pretax Income,2024-03-31,4794830000.0
+GPPL,A,income,Pretax Income,2025-03-31,5523820000.0
+GPPL,A,income,Pretax Income,2026-03-31,6893320000.0
+GPPL,A,income,Total Revenue,2023-03-31,8462540000.0
+GPPL,A,income,Total Revenue,2024-03-31,9206790000.0
+GPPL,A,income,Total Revenue,2025-03-31,9142170000.0
+GPPL,A,income,Total Revenue,2026-03-31,10256570000.0
+GPPL,Q,income,Basic EPS,2025-06-30,2.16
+GPPL,Q,income,Basic EPS,2025-12-31,2.23
+GPPL,Q,income,Basic EPS,2026-03-31,2.95
+GPPL,Q,income,Basic EPS,2026-06-30,3.06
+GPPL,Q,income,Basic EPS,2026-09-30,3.16
+GPPL,Q,income,Diluted EPS,2025-06-30,2.16
+GPPL,Q,income,Diluted EPS,2025-12-31,2.23
+GPPL,Q,income,Diluted EPS,2026-03-31,2.95
+GPPL,Q,income,Diluted EPS,2026-06-30,3.06
+GPPL,Q,income,Diluted EPS,2026-09-30,3.16
+GPPL,Q,income,EBITDA,2025-06-30,1411250000.0
+GPPL,Q,income,EBITDA,2025-12-31,1461520000.0
+GPPL,Q,income,EBITDA,2026-03-31,1927610000.0
+GPPL,Q,income,EBITDA,2026-06-30,1992180000.0
+GPPL,Q,income,EBITDA,2026-09-30,2048750000.0
+GPPL,Q,income,Interest Expense,2025-06-30,18700000.0
+GPPL,Q,income,Interest Expense,2025-12-31,23910000.0
+GPPL,Q,income,Interest Expense,2026-03-31,11400000.0
+GPPL,Q,income,Interest Expense,2026-06-30,7170000.0
+GPPL,Q,income,Interest Expense,2026-09-30,10420000.0
+GPPL,Q,income,Net Income,2025-06-30,1043250000.0
+GPPL,Q,income,Net Income,2025-12-31,1079090000.0
+GPPL,Q,income,Net Income,2026-03-31,1422000000.0
+GPPL,Q,income,Net Income,2026-06-30,1479000000.0
+GPPL,Q,income,Net Income,2026-09-30,1526900000.0
+GPPL,Q,income,Net Income Common Stockholders,2025-06-30,1043250000.0
+GPPL,Q,income,Net Income Common Stockholders,2025-12-31,1079090000.0
+GPPL,Q,income,Net Income Common Stockholders,2026-03-31,1422000000.0
+GPPL,Q,income,Net Income Common Stockholders,2026-06-30,1479000000.0
+GPPL,Q,income,Net Income Common Stockholders,2026-09-30,1526900000.0
+GPPL,Q,income,Operating Income,2025-09-30,1459880000.0
+GPPL,Q,income,Operating Income,2025-12-31,1279940000.0
+GPPL,Q,income,Operating Income,2026-03-31,1928680000.0
+GPPL,Q,income,Operating Income,2026-06-30,1825710000.0
+GPPL,Q,income,Operating Income,2026-09-30,1807170000.0
+GPPL,Q,income,Pretax Income,2025-06-30,1392550000.0
+GPPL,Q,income,Pretax Income,2025-12-31,1437610000.0
+GPPL,Q,income,Pretax Income,2026-03-31,1916210000.0
+GPPL,Q,income,Pretax Income,2026-06-30,1985010000.0
+GPPL,Q,income,Pretax Income,2026-09-30,2038330000.0
+GPPL,Q,income,Total Revenue,2025-09-30,2991490000.0
+GPPL,Q,income,Total Revenue,2025-12-31,2922510000.0
+GPPL,Q,income,Total Revenue,2026-03-31,3172140000.0
+GPPL,Q,income,Total Revenue,2026-06-30,3317670000.0
+GPPL,Q,income,Total Revenue,2026-09-30,3391520000.0

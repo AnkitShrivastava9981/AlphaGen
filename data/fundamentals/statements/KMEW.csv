@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KMEW,A,balance,Cash And Cash Equivalents,2023-03-31,559904000.0
+KMEW,A,balance,Cash And Cash Equivalents,2024-03-31,139648000.0
+KMEW,A,balance,Cash And Cash Equivalents,2025-03-31,311659000.0
+KMEW,A,balance,Cash And Cash Equivalents,2026-03-31,736191000.0
+KMEW,A,balance,Net Debt,2022-03-31,38298000.0
+KMEW,A,balance,Net Debt,2024-03-31,462300000.0
+KMEW,A,balance,Net Debt,2025-03-31,1023168000.0
+KMEW,A,balance,Net Debt,2026-03-31,1484382000.0
+KMEW,A,balance,Ordinary Shares Number,2023-03-31,108010000.0
+KMEW,A,balance,Ordinary Shares Number,2024-03-31,108010000.0
+KMEW,A,balance,Ordinary Shares Number,2025-03-31,108010000.0
+KMEW,A,balance,Ordinary Shares Number,2026-03-31,122220540.0
+KMEW,A,balance,Stockholders Equity,2023-03-31,1340017000.0
+KMEW,A,balance,Stockholders Equity,2024-03-31,1676244000.0
+KMEW,A,balance,Stockholders Equity,2025-03-31,2174339000.0
+KMEW,A,balance,Stockholders Equity,2026-03-31,5700921000.0
+KMEW,A,balance,Total Assets,2023-03-31,2088837000.0
+KMEW,A,balance,Total Assets,2024-03-31,2594669000.0
+KMEW,A,balance,Total Assets,2025-03-31,3940514000.0
+KMEW,A,balance,Total Assets,2026-03-31,8200775000.0
+KMEW,A,balance,Total Debt,2023-03-31,241358000.0
+KMEW,A,balance,Total Debt,2024-03-31,601948000.0
+KMEW,A,balance,Total Debt,2025-03-31,1334827000.0
+KMEW,A,balance,Total Debt,2026-03-31,2220573000.0
+KMEW,A,cashflow,Capital Expenditure,2023-03-31,-169033000.0
+KMEW,A,cashflow,Capital Expenditure,2024-03-31,-578711000.0
+KMEW,A,cashflow,Capital Expenditure,2025-03-31,-1011659000.0
+KMEW,A,cashflow,Capital Expenditure,2026-03-31,-1190633000.0
+KMEW,A,cashflow,Free Cash Flow,2023-03-31,43147000.0
+KMEW,A,cashflow,Free Cash Flow,2024-03-31,-195128000.0
+KMEW,A,cashflow,Free Cash Flow,2025-03-31,-429552000.0
+KMEW,A,cashflow,Free Cash Flow,2026-03-31,-447210000.0
+KMEW,A,cashflow,Operating Cash Flow,2023-03-31,212180000.0
+KMEW,A,cashflow,Operating Cash Flow,2024-03-31,383583000.0
+KMEW,A,cashflow,Operating Cash Flow,2025-03-31,582107000.0
+KMEW,A,cashflow,Operating Cash Flow,2026-03-31,743423000.0
+KMEW,A,income,Basic EPS,2023-03-31,4.526
+KMEW,A,income,Basic EPS,2024-03-31,2.839163
+KMEW,A,income,Basic EPS,2025-03-31,4.612
+KMEW,A,income,Basic EPS,2026-03-31,6.914
+KMEW,A,income,Diluted EPS,2023-03-31,4.526
+KMEW,A,income,Diluted EPS,2024-03-31,2.839163
+KMEW,A,income,Diluted EPS,2025-03-31,4.612
+KMEW,A,income,Diluted EPS,2026-03-31,6.902
+KMEW,A,income,EBITDA,2023-03-31,693458000.0
+KMEW,A,income,EBITDA,2024-03-31,496810000.0
+KMEW,A,income,EBITDA,2025-03-31,816702000.0
+KMEW,A,income,EBITDA,2026-03-31,1099804000.0
+KMEW,A,income,Interest Expense,2023-03-31,16092000.0
+KMEW,A,income,Interest Expense,2024-03-31,28039000.0
+KMEW,A,income,Interest Expense,2025-03-31,80437000.0
+KMEW,A,income,Interest Expense,2026-03-31,125623000.0
+KMEW,A,income,Net Income,2023-03-31,470459000.0
+KMEW,A,income,Net Income,2024-03-31,306658000.0
+KMEW,A,income,Net Income,2025-03-31,498057000.0
+KMEW,A,income,Net Income,2026-03-31,788030000.0
+KMEW,A,income,Net Income Common Stockholders,2023-03-31,470459000.0
+KMEW,A,income,Net Income Common Stockholders,2024-03-31,306658000.0
+KMEW,A,income,Net Income Common Stockholders,2025-03-31,498057000.0
+KMEW,A,income,Net Income Common Stockholders,2026-03-31,788030000.0
+KMEW,A,income,Operating Income,2023-03-31,643778000.0
+KMEW,A,income,Operating Income,2024-03-31,418388000.0
+KMEW,A,income,Operating Income,2025-03-31,668099000.0
+KMEW,A,income,Operating Income,2026-03-31,807319000.0
+KMEW,A,income,Pretax Income,2023-03-31,633784000.0
+KMEW,A,income,Pretax Income,2024-03-31,408017000.0
+KMEW,A,income,Pretax Income,2025-03-31,621949000.0
+KMEW,A,income,Pretax Income,2026-03-31,787518000.0
+KMEW,A,income,Total Revenue,2023-03-31,2015296000.0
+KMEW,A,income,Total Revenue,2024-03-31,1635831000.0
+KMEW,A,income,Total Revenue,2025-03-31,1918101000.0
+KMEW,A,income,Total Revenue,2026-03-31,2509968000.0
+KMEW,Q,income,Basic EPS,2025-09-30,0.208
+KMEW,Q,income,Basic EPS,2025-12-31,2.67
+KMEW,Q,income,Basic EPS,2026-03-31,1.926
+KMEW,Q,income,Basic EPS,2026-06-30,5.134
+KMEW,Q,income,Basic EPS,2026-09-30,0.31
+KMEW,Q,income,Diluted EPS,2025-09-30,0.208
+KMEW,Q,income,Diluted EPS,2025-12-31,2.664
+KMEW,Q,income,Diluted EPS,2026-03-31,1.926
+KMEW,Q,income,Diluted EPS,2026-06-30,5.134
+KMEW,Q,income,Diluted EPS,2026-09-30,0.31
+KMEW,Q,income,EBITDA,2025-09-30,174966000.0
+KMEW,Q,income,EBITDA,2025-12-31,379083000.0
+KMEW,Q,income,EBITDA,2026-03-31,214778000.0
+KMEW,Q,income,EBITDA,2026-06-30,703945000.0
+KMEW,Q,income,EBITDA,2026-09-30,325184000.0
+KMEW,Q,income,Interest Expense,2025-09-30,37981000.0
+KMEW,Q,income,Interest Expense,2025-12-31,33037000.0
+KMEW,Q,income,Interest Expense,2026-03-31,41483000.0
+KMEW,Q,income,Interest Expense,2026-06-30,50600000.0
+KMEW,Q,income,Interest Expense,2026-09-30,31657000.0
+KMEW,Q,income,Net Income,2025-09-30,112003000.0
+KMEW,Q,income,Net Income,2025-12-31,328940000.0
+KMEW,Q,income,Net Income,2026-03-31,262097000.0
+KMEW,Q,income,Net Income,2026-06-30,617292000.0
+KMEW,Q,income,Net Income,2026-09-30,192249000.0
+KMEW,Q,income,Net Income Common Stockholders,2025-09-30,112003000.0
+KMEW,Q,income,Net Income Common Stockholders,2025-12-31,328940000.0
+KMEW,Q,income,Net Income Common Stockholders,2026-03-31,262097000.0
+KMEW,Q,income,Net Income Common Stockholders,2026-06-30,617292000.0
+KMEW,Q,income,Net Income Common Stockholders,2026-09-30,192249000.0
+KMEW,Q,income,Operating Income,2025-09-30,162834000.0
+KMEW,Q,income,Operating Income,2025-12-31,346838000.0
+KMEW,Q,income,Operating Income,2026-03-31,108986000.0
+KMEW,Q,income,Operating Income,2026-06-30,671894000.0
+KMEW,Q,income,Operating Income,2026-09-30,220726000.0
+KMEW,Q,income,Pretax Income,2025-09-30,136985000.0
+KMEW,Q,income,Pretax Income,2025-12-31,346046000.0
+KMEW,Q,income,Pretax Income,2026-03-31,173295000.0
+KMEW,Q,income,Pretax Income,2026-06-30,653345000.0
+KMEW,Q,income,Pretax Income,2026-09-30,293527000.0
+KMEW,Q,income,Total Revenue,2025-09-30,501736000.0
+KMEW,Q,income,Total Revenue,2025-12-31,900147000.0
+KMEW,Q,income,Total Revenue,2026-03-31,676173000.0
+KMEW,Q,income,Total Revenue,2026-06-30,1154137000.0
+KMEW,Q,income,Total Revenue,2026-09-30,708060000.0

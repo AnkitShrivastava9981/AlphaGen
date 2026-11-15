@@ -1,0 +1,67 @@
+symbol,freq,statement,item,period_end,value
+WEWORK,A,balance,Cash And Cash Equivalents,2026-03-31,599670000.0
+WEWORK,A,balance,Net Debt,2026-03-31,2728000000.0
+WEWORK,A,balance,Ordinary Shares Number,2026-03-31,135378008.0
+WEWORK,A,balance,Stockholders Equity,2026-03-31,2979690000.0
+WEWORK,A,balance,Total Assets,2026-03-31,70921600000.0
+WEWORK,A,balance,Total Debt,2026-03-31,55502980000.0
+WEWORK,A,cashflow,Capital Expenditure,2026-03-31,-5972800000.0
+WEWORK,A,cashflow,Free Cash Flow,2026-03-31,11368520000.0
+WEWORK,A,cashflow,Operating Cash Flow,2026-03-31,17341320000.0
+WEWORK,A,income,Basic EPS,2026-03-31,5.55
+WEWORK,A,income,Diluted EPS,2026-03-31,5.4
+WEWORK,A,income,EBITDA,2025-03-31,12617730000.0
+WEWORK,A,income,EBITDA,2026-03-31,16199350000.0
+WEWORK,A,income,Interest Expense,2025-03-31,5948320000.0
+WEWORK,A,income,Interest Expense,2026-03-31,5995760000.0
+WEWORK,A,income,Net Income,2026-03-31,744330000.0
+WEWORK,A,income,Net Income Common Stockholders,2026-03-31,744330000.0
+WEWORK,A,income,Operating Income,2025-03-31,4133080000.0
+WEWORK,A,income,Operating Income,2026-03-31,6036870000.0
+WEWORK,A,income,Pretax Income,2026-03-31,528970000.0
+WEWORK,A,income,Total Revenue,2026-03-31,24401800000.0
+WEWORK,Q,income,Basic EPS,2025-09-30,0.469396
+WEWORK,Q,income,Basic EPS,2025-12-31,1.25
+WEWORK,Q,income,Basic EPS,2026-03-31,4.88
+WEWORK,Q,income,Basic EPS,2026-06-30,-0.31
+WEWORK,Q,income,Basic EPS,2026-09-30,1.46
+WEWORK,Q,income,Diluted EPS,2025-09-30,0.469396
+WEWORK,Q,income,Diluted EPS,2025-12-31,1.22
+WEWORK,Q,income,Diluted EPS,2026-03-31,4.76
+WEWORK,Q,income,Diluted EPS,2026-06-30,-0.31
+WEWORK,Q,income,Diluted EPS,2026-09-30,1.45
+WEWORK,Q,income,EBITDA,2025-09-30,3906430000.0
+WEWORK,Q,income,EBITDA,2025-12-31,4147220000.0
+WEWORK,Q,income,EBITDA,2026-03-31,4704300000.0
+WEWORK,Q,income,EBITDA,2026-06-30,4549800000.0
+WEWORK,Q,income,EBITDA,2026-09-30,5096130000.0
+WEWORK,Q,income,Interest Expense,2025-09-30,1531920000.0
+WEWORK,Q,income,Interest Expense,2025-12-31,1523600000.0
+WEWORK,Q,income,Interest Expense,2026-03-31,1592780000.0
+WEWORK,Q,income,Interest Expense,2026-06-30,1761440000.0
+WEWORK,Q,income,Interest Expense,2026-09-30,1749130000.0
+WEWORK,Q,income,Net Income,2025-09-30,62910000.0
+WEWORK,Q,income,Net Income,2025-12-31,166950000.0
+WEWORK,Q,income,Net Income,2026-03-31,655510000.0
+WEWORK,Q,income,Net Income,2026-06-30,-43060000.0
+WEWORK,Q,income,Net Income,2026-09-30,202830000.0
+WEWORK,Q,income,Net Income Common Stockholders,2025-09-30,62910000.0
+WEWORK,Q,income,Net Income Common Stockholders,2025-12-31,166950000.0
+WEWORK,Q,income,Net Income Common Stockholders,2026-03-31,655510000.0
+WEWORK,Q,income,Net Income Common Stockholders,2026-06-30,-43060000.0
+WEWORK,Q,income,Net Income Common Stockholders,2026-09-30,202830000.0
+WEWORK,Q,income,Operating Income,2025-09-30,1488650000.0
+WEWORK,Q,income,Operating Income,2025-12-31,1619260000.0
+WEWORK,Q,income,Operating Income,2026-03-31,1830320000.0
+WEWORK,Q,income,Operating Income,2026-06-30,1551990000.0
+WEWORK,Q,income,Operating Income,2026-09-30,1758940000.0
+WEWORK,Q,income,Pretax Income,2025-09-30,62390000.0
+WEWORK,Q,income,Pretax Income,2025-12-31,167500000.0
+WEWORK,Q,income,Pretax Income,2026-03-31,440060000.0
+WEWORK,Q,income,Pretax Income,2026-06-30,-39430000.0
+WEWORK,Q,income,Pretax Income,2026-09-30,204510000.0
+WEWORK,Q,income,Total Revenue,2025-09-30,5747020000.0
+WEWORK,Q,income,Total Revenue,2025-12-31,6341050000.0
+WEWORK,Q,income,Total Revenue,2026-03-31,6960630000.0
+WEWORK,Q,income,Total Revenue,2026-06-30,6838320000.0
+WEWORK,Q,income,Total Revenue,2026-09-30,7678380000.0

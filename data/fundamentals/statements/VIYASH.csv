@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+VIYASH,A,balance,Cash And Cash Equivalents,2023-03-31,415740000.0
+VIYASH,A,balance,Cash And Cash Equivalents,2024-03-31,648100000.0
+VIYASH,A,balance,Cash And Cash Equivalents,2025-03-31,1325490000.0
+VIYASH,A,balance,Cash And Cash Equivalents,2026-03-31,2557570000.0
+VIYASH,A,balance,Net Debt,2023-03-31,3563240000.0
+VIYASH,A,balance,Net Debt,2024-03-31,3864690000.0
+VIYASH,A,balance,Net Debt,2025-03-31,4757950000.0
+VIYASH,A,balance,Net Debt,2026-03-31,1800570000.0
+VIYASH,A,balance,Ordinary Shares Number,2023-03-31,249433495.0
+VIYASH,A,balance,Ordinary Shares Number,2024-03-31,249021245.0
+VIYASH,A,balance,Ordinary Shares Number,2025-03-31,249889745.0
+VIYASH,A,balance,Ordinary Shares Number,2026-03-31,436438560.0
+VIYASH,A,balance,Stockholders Equity,2023-03-31,6987780000.0
+VIYASH,A,balance,Stockholders Equity,2024-03-31,6565600000.0
+VIYASH,A,balance,Stockholders Equity,2025-03-31,24315870000.0
+VIYASH,A,balance,Stockholders Equity,2026-03-31,29110600000.0
+VIYASH,A,balance,Total Assets,2023-03-31,15291230000.0
+VIYASH,A,balance,Total Assets,2024-03-31,15403840000.0
+VIYASH,A,balance,Total Assets,2025-03-31,41322660000.0
+VIYASH,A,balance,Total Assets,2026-03-31,46283870000.0
+VIYASH,A,balance,Total Debt,2023-03-31,4435950000.0
+VIYASH,A,balance,Total Debt,2024-03-31,4876930000.0
+VIYASH,A,balance,Total Debt,2025-03-31,6543000000.0
+VIYASH,A,balance,Total Debt,2026-03-31,4897530000.0
+VIYASH,A,cashflow,Capital Expenditure,2023-03-31,-861790000.0
+VIYASH,A,cashflow,Capital Expenditure,2024-03-31,-308070000.0
+VIYASH,A,cashflow,Capital Expenditure,2025-03-31,-1080560000.0
+VIYASH,A,cashflow,Capital Expenditure,2026-03-31,-1347240000.0
+VIYASH,A,cashflow,Free Cash Flow,2023-03-31,-693710000.0
+VIYASH,A,cashflow,Free Cash Flow,2024-03-31,-2120000.0
+VIYASH,A,cashflow,Free Cash Flow,2025-03-31,2367430000.0
+VIYASH,A,cashflow,Free Cash Flow,2026-03-31,1881890000.0
+VIYASH,A,cashflow,Operating Cash Flow,2023-03-31,168080000.0
+VIYASH,A,cashflow,Operating Cash Flow,2024-03-31,305950000.0
+VIYASH,A,cashflow,Operating Cash Flow,2025-03-31,3447990000.0
+VIYASH,A,cashflow,Operating Cash Flow,2026-03-31,3229130000.0
+VIYASH,A,income,Basic EPS,2023-03-31,-4.88
+VIYASH,A,income,Basic EPS,2024-03-31,-1.44
+VIYASH,A,income,Basic EPS,2025-03-31,0.54
+VIYASH,A,income,Basic EPS,2026-03-31,4.09
+VIYASH,A,income,Diluted EPS,2023-03-31,-4.88
+VIYASH,A,income,Diluted EPS,2024-03-31,-1.44
+VIYASH,A,income,Diluted EPS,2025-03-31,0.53
+VIYASH,A,income,Diluted EPS,2026-03-31,4.01
+VIYASH,A,income,EBITDA,2023-03-31,-522460000.0
+VIYASH,A,income,EBITDA,2024-03-31,533170000.0
+VIYASH,A,income,EBITDA,2025-03-31,3312280000.0
+VIYASH,A,income,EBITDA,2026-03-31,6464290000.0
+VIYASH,A,income,Interest Expense,2023-03-31,297190000.0
+VIYASH,A,income,Interest Expense,2024-03-31,464230000.0
+VIYASH,A,income,Interest Expense,2025-03-31,793350000.0
+VIYASH,A,income,Interest Expense,2026-03-31,637600000.0
+VIYASH,A,income,Net Income,2023-03-31,-1211590000.0
+VIYASH,A,income,Net Income,2024-03-31,-358690000.0
+VIYASH,A,income,Net Income,2025-03-31,232190000.0
+VIYASH,A,income,Net Income,2026-03-31,1772850000.0
+VIYASH,A,income,Net Income Common Stockholders,2023-03-31,-1211590000.0
+VIYASH,A,income,Net Income Common Stockholders,2024-03-31,-358690000.0
+VIYASH,A,income,Net Income Common Stockholders,2025-03-31,232190000.0
+VIYASH,A,income,Net Income Common Stockholders,2026-03-31,1772850000.0
+VIYASH,A,income,Operating Income,2023-03-31,2850000.0
+VIYASH,A,income,Operating Income,2024-03-31,370210000.0
+VIYASH,A,income,Operating Income,2025-03-31,1771880000.0
+VIYASH,A,income,Operating Income,2026-03-31,4505180000.0
+VIYASH,A,income,Pretax Income,2023-03-31,-1376580000.0
+VIYASH,A,income,Pretax Income,2024-03-31,-546460000.0
+VIYASH,A,income,Pretax Income,2025-03-31,131810000.0
+VIYASH,A,income,Pretax Income,2026-03-31,3490250000.0
+VIYASH,A,income,Total Revenue,2023-03-31,14182750000.0
+VIYASH,A,income,Total Revenue,2024-03-31,13663000000.0
+VIYASH,A,income,Total Revenue,2025-03-31,29633990000.0
+VIYASH,A,income,Total Revenue,2026-03-31,33569610000.0
+VIYASH,Q,income,Basic EPS,2025-06-30,0.74
+VIYASH,Q,income,Basic EPS,2025-09-30,0.59
+VIYASH,Q,income,Basic EPS,2025-12-31,0.89
+VIYASH,Q,income,Basic EPS,2026-03-31,1.2
+VIYASH,Q,income,Basic EPS,2026-06-30,1.51
+VIYASH,Q,income,Diluted EPS,2025-06-30,0.73
+VIYASH,Q,income,Diluted EPS,2025-09-30,0.58
+VIYASH,Q,income,Diluted EPS,2025-12-31,0.87
+VIYASH,Q,income,Diluted EPS,2026-03-31,1.17
+VIYASH,Q,income,Diluted EPS,2026-06-30,1.47
+VIYASH,Q,income,EBITDA,2025-06-30,1243600000.0
+VIYASH,Q,income,EBITDA,2025-09-30,561300000.0
+VIYASH,Q,income,EBITDA,2025-12-31,1483500000.0
+VIYASH,Q,income,EBITDA,2026-03-31,2001700000.0
+VIYASH,Q,income,EBITDA,2026-06-30,1866900000.0
+VIYASH,Q,income,Interest Expense,2025-06-30,204300000.0
+VIYASH,Q,income,Interest Expense,2025-09-30,135100000.0
+VIYASH,Q,income,Interest Expense,2025-12-31,167500000.0
+VIYASH,Q,income,Interest Expense,2026-03-31,145200000.0
+VIYASH,Q,income,Interest Expense,2026-06-30,125100000.0
+VIYASH,Q,income,Net Income,2025-06-30,318100000.0
+VIYASH,Q,income,Net Income,2025-09-30,147400000.0
+VIYASH,Q,income,Net Income,2025-12-31,384400000.0
+VIYASH,Q,income,Net Income,2026-03-31,521100000.0
+VIYASH,Q,income,Net Income,2026-06-30,658700000.0
+VIYASH,Q,income,Net Income Common Stockholders,2025-06-30,318100000.0
+VIYASH,Q,income,Net Income Common Stockholders,2025-09-30,147400000.0
+VIYASH,Q,income,Net Income Common Stockholders,2025-12-31,384400000.0
+VIYASH,Q,income,Net Income Common Stockholders,2026-03-31,521100000.0
+VIYASH,Q,income,Net Income Common Stockholders,2026-06-30,658700000.0
+VIYASH,Q,income,Operating Income,2025-06-30,594700000.0
+VIYASH,Q,income,Operating Income,2025-09-30,409700000.0
+VIYASH,Q,income,Operating Income,2025-12-31,1176000000.0
+VIYASH,Q,income,Operating Income,2026-03-31,1280000000.0
+VIYASH,Q,income,Operating Income,2026-06-30,1180500000.0
+VIYASH,Q,income,Pretax Income,2025-06-30,483400000.0
+VIYASH,Q,income,Pretax Income,2025-09-30,271600000.0
+VIYASH,Q,income,Pretax Income,2025-12-31,730700000.0
+VIYASH,Q,income,Pretax Income,2026-03-31,1252400000.0
+VIYASH,Q,income,Pretax Income,2026-06-30,1124100000.0
+VIYASH,Q,income,Total Revenue,2025-06-30,7916400000.0
+VIYASH,Q,income,Total Revenue,2025-09-30,4239900000.0
+VIYASH,Q,income,Total Revenue,2025-12-31,8584100000.0
+VIYASH,Q,income,Total Revenue,2026-03-31,9199600000.0
+VIYASH,Q,income,Total Revenue,2026-06-30,9463600000.0

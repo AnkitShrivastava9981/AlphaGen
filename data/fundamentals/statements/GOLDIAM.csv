@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+GOLDIAM,A,balance,Cash And Cash Equivalents,2023-03-31,1183048000.0
+GOLDIAM,A,balance,Cash And Cash Equivalents,2024-03-31,1441131000.0
+GOLDIAM,A,balance,Cash And Cash Equivalents,2025-03-31,1813273000.0
+GOLDIAM,A,balance,Cash And Cash Equivalents,2026-03-31,3054167000.0
+GOLDIAM,A,balance,Ordinary Shares Number,2023-03-31,145299486.0
+GOLDIAM,A,balance,Ordinary Shares Number,2024-03-31,142393495.0
+GOLDIAM,A,balance,Ordinary Shares Number,2025-03-31,142393495.0
+GOLDIAM,A,balance,Ordinary Shares Number,2026-03-31,150557125.0
+GOLDIAM,A,balance,Stockholders Equity,2023-03-31,5856590000.0
+GOLDIAM,A,balance,Stockholders Equity,2024-03-31,6304608000.0
+GOLDIAM,A,balance,Stockholders Equity,2025-03-31,7400560000.0
+GOLDIAM,A,balance,Stockholders Equity,2026-03-31,11060236000.0
+GOLDIAM,A,balance,Total Assets,2023-03-31,7048375000.0
+GOLDIAM,A,balance,Total Assets,2024-03-31,7343310000.0
+GOLDIAM,A,balance,Total Assets,2025-03-31,8936002000.0
+GOLDIAM,A,balance,Total Assets,2026-03-31,13625754000.0
+GOLDIAM,A,balance,Total Debt,2023-03-31,26816000.0
+GOLDIAM,A,balance,Total Debt,2024-03-31,46906000.0
+GOLDIAM,A,balance,Total Debt,2025-03-31,270145000.0
+GOLDIAM,A,balance,Total Debt,2026-03-31,770135000.0
+GOLDIAM,A,cashflow,Capital Expenditure,2023-03-31,-92313000.0
+GOLDIAM,A,cashflow,Capital Expenditure,2024-03-31,-65865000.0
+GOLDIAM,A,cashflow,Capital Expenditure,2025-03-31,-74880000.0
+GOLDIAM,A,cashflow,Capital Expenditure,2026-03-31,-156472000.0
+GOLDIAM,A,cashflow,Free Cash Flow,2023-03-31,559342000.0
+GOLDIAM,A,cashflow,Free Cash Flow,2024-03-31,1004264000.0
+GOLDIAM,A,cashflow,Free Cash Flow,2025-03-31,-176097000.0
+GOLDIAM,A,cashflow,Free Cash Flow,2026-03-31,79750000.0
+GOLDIAM,A,cashflow,Operating Cash Flow,2023-03-31,651655000.0
+GOLDIAM,A,cashflow,Operating Cash Flow,2024-03-31,1070129000.0
+GOLDIAM,A,cashflow,Operating Cash Flow,2025-03-31,-101217000.0
+GOLDIAM,A,cashflow,Operating Cash Flow,2026-03-31,236222000.0
+GOLDIAM,A,income,Basic EPS,2023-03-31,5.865
+GOLDIAM,A,income,Basic EPS,2024-03-31,6.3825
+GOLDIAM,A,income,Basic EPS,2025-03-31,8.2275
+GOLDIAM,A,income,Basic EPS,2026-03-31,11.3325
+GOLDIAM,A,income,Diluted EPS,2023-03-31,5.865
+GOLDIAM,A,income,Diluted EPS,2024-03-31,6.3375
+GOLDIAM,A,income,Diluted EPS,2025-03-31,8.2275
+GOLDIAM,A,income,Diluted EPS,2026-03-31,11.3325
+GOLDIAM,A,income,EBITDA,2023-03-31,1250942000.0
+GOLDIAM,A,income,EBITDA,2024-03-31,1282222000.0
+GOLDIAM,A,income,EBITDA,2025-03-31,1825501000.0
+GOLDIAM,A,income,EBITDA,2026-03-31,2484488000.0
+GOLDIAM,A,income,Interest Expense,2023-03-31,2386000.0
+GOLDIAM,A,income,Interest Expense,2024-03-31,277000.0
+GOLDIAM,A,income,Interest Expense,2025-03-31,9667000.0
+GOLDIAM,A,income,Interest Expense,2026-03-31,30685000.0
+GOLDIAM,A,income,Net Income,2023-03-31,844246000.0
+GOLDIAM,A,income,Net Income,2024-03-31,908123000.0
+GOLDIAM,A,income,Net Income,2025-03-31,1170269000.0
+GOLDIAM,A,income,Net Income,2026-03-31,1706004000.0
+GOLDIAM,A,income,Net Income Common Stockholders,2023-03-31,844246000.0
+GOLDIAM,A,income,Net Income Common Stockholders,2024-03-31,908123000.0
+GOLDIAM,A,income,Net Income Common Stockholders,2025-03-31,1170269000.0
+GOLDIAM,A,income,Net Income Common Stockholders,2026-03-31,1706004000.0
+GOLDIAM,A,income,Operating Income,2023-03-31,971459000.0
+GOLDIAM,A,income,Operating Income,2024-03-31,1086867000.0
+GOLDIAM,A,income,Operating Income,2025-03-31,1545575000.0
+GOLDIAM,A,income,Operating Income,2026-03-31,2085478000.0
+GOLDIAM,A,income,Pretax Income,2023-03-31,1174675000.0
+GOLDIAM,A,income,Pretax Income,2024-03-31,1220948000.0
+GOLDIAM,A,income,Pretax Income,2025-03-31,1725177000.0
+GOLDIAM,A,income,Pretax Income,2026-03-31,2308210000.0
+GOLDIAM,A,income,Total Revenue,2023-03-31,5331843000.0
+GOLDIAM,A,income,Total Revenue,2024-03-31,6028698000.0
+GOLDIAM,A,income,Total Revenue,2025-03-31,7809782000.0
+GOLDIAM,A,income,Total Revenue,2026-03-31,9768569000.0
+GOLDIAM,Q,income,Basic EPS,2025-09-30,2.6
+GOLDIAM,Q,income,Basic EPS,2025-12-31,4.545
+GOLDIAM,Q,income,Basic EPS,2026-03-31,2.475
+GOLDIAM,Q,income,Basic EPS,2026-06-30,4.9125
+GOLDIAM,Q,income,Basic EPS,2026-09-30,4.38
+GOLDIAM,Q,income,Diluted EPS,2025-09-30,2.6
+GOLDIAM,Q,income,Diluted EPS,2025-12-31,4.545
+GOLDIAM,Q,income,Diluted EPS,2026-03-31,2.475
+GOLDIAM,Q,income,Diluted EPS,2026-06-30,4.9125
+GOLDIAM,Q,income,Diluted EPS,2026-09-30,4.38
+GOLDIAM,Q,income,EBITDA,2025-09-30,474243000.0
+GOLDIAM,Q,income,EBITDA,2025-12-31,907553000.0
+GOLDIAM,Q,income,EBITDA,2026-03-31,582813000.0
+GOLDIAM,Q,income,EBITDA,2026-06-30,1039046000.0
+GOLDIAM,Q,income,EBITDA,2026-09-30,736264000.0
+GOLDIAM,Q,income,Interest Expense,2025-09-30,779000.0
+GOLDIAM,Q,income,Interest Expense,2025-12-31,2120000.0
+GOLDIAM,Q,income,Interest Expense,2026-03-31,14129000.0
+GOLDIAM,Q,income,Interest Expense,2026-06-30,15547000.0
+GOLDIAM,Q,income,Interest Expense,2026-09-30,11870000.0
+GOLDIAM,Q,income,Net Income,2025-09-30,313584000.0
+GOLDIAM,Q,income,Net Income,2025-12-31,683903000.0
+GOLDIAM,Q,income,Net Income,2026-03-31,372286000.0
+GOLDIAM,Q,income,Net Income,2026-06-30,739744000.0
+GOLDIAM,Q,income,Net Income,2026-09-30,493988000.0
+GOLDIAM,Q,income,Net Income Common Stockholders,2025-09-30,313584000.0
+GOLDIAM,Q,income,Net Income Common Stockholders,2025-12-31,683903000.0
+GOLDIAM,Q,income,Net Income Common Stockholders,2026-03-31,372286000.0
+GOLDIAM,Q,income,Net Income Common Stockholders,2026-06-30,739744000.0
+GOLDIAM,Q,income,Net Income Common Stockholders,2026-09-30,493988000.0
+GOLDIAM,Q,income,Operating Income,2025-09-30,366627000.0
+GOLDIAM,Q,income,Operating Income,2025-12-31,687403000.0
+GOLDIAM,Q,income,Operating Income,2026-03-31,438496000.0
+GOLDIAM,Q,income,Operating Income,2026-06-30,613016000.0
+GOLDIAM,Q,income,Operating Income,2026-09-30,508340000.0
+GOLDIAM,Q,income,Pretax Income,2025-09-30,456819000.0
+GOLDIAM,Q,income,Pretax Income,2025-12-31,885607000.0
+GOLDIAM,Q,income,Pretax Income,2026-03-31,511815000.0
+GOLDIAM,Q,income,Pretax Income,2026-06-30,973799000.0
+GOLDIAM,Q,income,Pretax Income,2026-09-30,673162000.0
+GOLDIAM,Q,income,Total Revenue,2025-09-30,1928122000.0
+GOLDIAM,Q,income,Total Revenue,2025-12-31,3197110000.0
+GOLDIAM,Q,income,Total Revenue,2026-03-31,2346021000.0
+GOLDIAM,Q,income,Total Revenue,2026-06-30,3260263000.0
+GOLDIAM,Q,income,Total Revenue,2026-09-30,2739954000.0

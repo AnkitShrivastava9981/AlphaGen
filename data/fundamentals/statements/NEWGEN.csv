@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+NEWGEN,A,balance,Cash And Cash Equivalents,2023-03-31,1080206000.0
+NEWGEN,A,balance,Cash And Cash Equivalents,2024-03-31,1245731000.0
+NEWGEN,A,balance,Cash And Cash Equivalents,2025-03-31,1037700000.0
+NEWGEN,A,balance,Cash And Cash Equivalents,2026-03-31,1035335000.0
+NEWGEN,A,balance,Ordinary Shares Number,2023-03-31,139911402.0
+NEWGEN,A,balance,Ordinary Shares Number,2024-03-31,139779319.0
+NEWGEN,A,balance,Ordinary Shares Number,2025-03-31,140212947.0
+NEWGEN,A,balance,Ordinary Shares Number,2026-03-31,141159509.0
+NEWGEN,A,balance,Stockholders Equity,2023-03-31,9825309000.0
+NEWGEN,A,balance,Stockholders Equity,2024-03-31,12235151000.0
+NEWGEN,A,balance,Stockholders Equity,2025-03-31,15164321000.0
+NEWGEN,A,balance,Stockholders Equity,2026-03-31,17773495000.0
+NEWGEN,A,balance,Total Assets,2023-03-31,13447456000.0
+NEWGEN,A,balance,Total Assets,2024-03-31,16864776000.0
+NEWGEN,A,balance,Total Assets,2025-03-31,20450783000.0
+NEWGEN,A,balance,Total Assets,2026-03-31,24424750000.0
+NEWGEN,A,balance,Total Debt,2023-03-31,427130000.0
+NEWGEN,A,balance,Total Debt,2024-03-31,485075000.0
+NEWGEN,A,balance,Total Debt,2025-03-31,534848000.0
+NEWGEN,A,balance,Total Debt,2026-03-31,393561000.0
+NEWGEN,A,cashflow,Capital Expenditure,2023-03-31,-167715000.0
+NEWGEN,A,cashflow,Capital Expenditure,2024-03-31,-138077000.0
+NEWGEN,A,cashflow,Capital Expenditure,2025-03-31,-233500000.0
+NEWGEN,A,cashflow,Capital Expenditure,2026-03-31,-97515000.0
+NEWGEN,A,cashflow,Free Cash Flow,2023-03-31,1195828000.0
+NEWGEN,A,cashflow,Free Cash Flow,2024-03-31,2676030000.0
+NEWGEN,A,cashflow,Free Cash Flow,2025-03-31,1916267000.0
+NEWGEN,A,cashflow,Free Cash Flow,2026-03-31,2221078000.0
+NEWGEN,A,cashflow,Operating Cash Flow,2023-03-31,1363543000.0
+NEWGEN,A,cashflow,Operating Cash Flow,2024-03-31,2814107000.0
+NEWGEN,A,cashflow,Operating Cash Flow,2025-03-31,2149767000.0
+NEWGEN,A,cashflow,Operating Cash Flow,2026-03-31,2318593000.0
+NEWGEN,A,income,Basic EPS,2023-03-31,6.355
+NEWGEN,A,income,Basic EPS,2024-03-31,18.02
+NEWGEN,A,income,Basic EPS,2025-03-31,22.53
+NEWGEN,A,income,Basic EPS,2026-03-31,21.38
+NEWGEN,A,income,Diluted EPS,2023-03-31,6.275
+NEWGEN,A,income,Diluted EPS,2024-03-31,17.5
+NEWGEN,A,income,Diluted EPS,2025-03-31,21.89
+NEWGEN,A,income,Diluted EPS,2026-03-31,21.24
+NEWGEN,A,income,EBITDA,2023-03-31,2453544000.0
+NEWGEN,A,income,EBITDA,2024-03-31,3355516000.0
+NEWGEN,A,income,EBITDA,2025-03-31,4396757000.0
+NEWGEN,A,income,EBITDA,2026-03-31,4283538000.0
+NEWGEN,A,income,Interest Expense,2023-03-31,34025000.0
+NEWGEN,A,income,Interest Expense,2024-03-31,33590000.0
+NEWGEN,A,income,Interest Expense,2025-03-31,46665000.0
+NEWGEN,A,income,Interest Expense,2026-03-31,44655000.0
+NEWGEN,A,income,Net Income,2023-03-31,1770115000.0
+NEWGEN,A,income,Net Income,2024-03-31,2516050000.0
+NEWGEN,A,income,Net Income,2025-03-31,3152424000.0
+NEWGEN,A,income,Net Income,2026-03-31,3005764000.0
+NEWGEN,A,income,Net Income Common Stockholders,2023-03-31,1770115000.0
+NEWGEN,A,income,Net Income Common Stockholders,2024-03-31,2516050000.0
+NEWGEN,A,income,Net Income Common Stockholders,2025-03-31,3152424000.0
+NEWGEN,A,income,Net Income Common Stockholders,2026-03-31,3005764000.0
+NEWGEN,A,income,Operating Income,2023-03-31,1902089000.0
+NEWGEN,A,income,Operating Income,2024-03-31,2603424000.0
+NEWGEN,A,income,Operating Income,2025-03-31,3437609000.0
+NEWGEN,A,income,Operating Income,2026-03-31,3784121000.0
+NEWGEN,A,income,Pretax Income,2023-03-31,2172805000.0
+NEWGEN,A,income,Pretax Income,2024-03-31,3042249000.0
+NEWGEN,A,income,Pretax Income,2025-03-31,4019679000.0
+NEWGEN,A,income,Pretax Income,2026-03-31,3872909000.0
+NEWGEN,A,income,Total Revenue,2023-03-31,9739788000.0
+NEWGEN,A,income,Total Revenue,2024-03-31,12438286000.0
+NEWGEN,A,income,Total Revenue,2025-03-31,14868792000.0
+NEWGEN,A,income,Total Revenue,2026-03-31,15743956000.0
+NEWGEN,Q,income,Basic EPS,2025-06-30,3.55
+NEWGEN,Q,income,Basic EPS,2025-12-31,4.46
+NEWGEN,Q,income,Basic EPS,2026-03-31,7.56
+NEWGEN,Q,income,Basic EPS,2026-06-30,4.44
+NEWGEN,Q,income,Basic EPS,2026-09-30,6.16
+NEWGEN,Q,income,Diluted EPS,2025-06-30,3.45
+NEWGEN,Q,income,Diluted EPS,2025-12-31,4.37
+NEWGEN,Q,income,Diluted EPS,2026-03-31,7.51
+NEWGEN,Q,income,Diluted EPS,2026-06-30,4.41
+NEWGEN,Q,income,Diluted EPS,2026-09-30,6.12
+NEWGEN,Q,income,EBITDA,2025-06-30,743866000.0
+NEWGEN,Q,income,EBITDA,2025-12-31,911967000.0
+NEWGEN,Q,income,EBITDA,2026-03-31,1481503000.0
+NEWGEN,Q,income,EBITDA,2026-06-30,921832000.0
+NEWGEN,Q,income,EBITDA,2026-09-30,1204840000.0
+NEWGEN,Q,income,Interest Expense,2025-06-30,12204000.0
+NEWGEN,Q,income,Interest Expense,2025-12-31,20796000.0
+NEWGEN,Q,income,Interest Expense,2026-03-31,9855000.0
+NEWGEN,Q,income,Interest Expense,2026-06-30,8613000.0
+NEWGEN,Q,income,Interest Expense,2026-09-30,9038000.0
+NEWGEN,Q,income,Net Income,2025-06-30,497206000.0
+NEWGEN,Q,income,Net Income,2025-12-31,628151000.0
+NEWGEN,Q,income,Net Income,2026-03-31,1062983000.0
+NEWGEN,Q,income,Net Income,2026-06-30,628211000.0
+NEWGEN,Q,income,Net Income,2026-09-30,868820000.0
+NEWGEN,Q,income,Net Income Common Stockholders,2025-06-30,497206000.0
+NEWGEN,Q,income,Net Income Common Stockholders,2025-12-31,628151000.0
+NEWGEN,Q,income,Net Income Common Stockholders,2026-03-31,1062983000.0
+NEWGEN,Q,income,Net Income Common Stockholders,2026-06-30,628211000.0
+NEWGEN,Q,income,Net Income Common Stockholders,2026-09-30,868820000.0
+NEWGEN,Q,income,Operating Income,2025-06-30,359401000.0
+NEWGEN,Q,income,Operating Income,2025-12-31,971810000.0
+NEWGEN,Q,income,Operating Income,2026-03-31,1427611000.0
+NEWGEN,Q,income,Operating Income,2026-06-30,467042000.0
+NEWGEN,Q,income,Operating Income,2026-09-30,996172000.0
+NEWGEN,Q,income,Pretax Income,2025-06-30,641068000.0
+NEWGEN,Q,income,Pretax Income,2025-12-31,800531000.0
+NEWGEN,Q,income,Pretax Income,2026-03-31,1377956000.0
+NEWGEN,Q,income,Pretax Income,2026-06-30,821156000.0
+NEWGEN,Q,income,Pretax Income,2026-09-30,1101514000.0
+NEWGEN,Q,income,Total Revenue,2025-06-30,3206563000.0
+NEWGEN,Q,income,Total Revenue,2025-12-31,4002775000.0
+NEWGEN,Q,income,Total Revenue,2026-03-31,4526683000.0
+NEWGEN,Q,income,Total Revenue,2026-06-30,3566837000.0
+NEWGEN,Q,income,Total Revenue,2026-09-30,4222406000.0

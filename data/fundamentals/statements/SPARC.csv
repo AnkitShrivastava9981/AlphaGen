@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SPARC,A,balance,Cash And Cash Equivalents,2023-03-31,5836000.0
+SPARC,A,balance,Cash And Cash Equivalents,2024-03-31,53295000.0
+SPARC,A,balance,Cash And Cash Equivalents,2025-03-31,19639000.0
+SPARC,A,balance,Cash And Cash Equivalents,2026-03-31,11553000.0
+SPARC,A,balance,Net Debt,2022-03-31,737758000.0
+SPARC,A,balance,Net Debt,2024-03-31,416705000.0
+SPARC,A,balance,Net Debt,2025-03-31,2562214000.0
+SPARC,A,balance,Net Debt,2026-03-31,5549847000.0
+SPARC,A,balance,Ordinary Shares Number,2023-03-31,324521588.0
+SPARC,A,balance,Ordinary Shares Number,2024-03-31,324521588.0
+SPARC,A,balance,Ordinary Shares Number,2025-03-31,324521588.0
+SPARC,A,balance,Ordinary Shares Number,2026-03-31,324521588.0
+SPARC,A,balance,Stockholders Equity,2023-03-31,5127751000.0
+SPARC,A,balance,Stockholders Equity,2024-03-31,1257554000.0
+SPARC,A,balance,Stockholders Equity,2025-03-31,-2169480000.0
+SPARC,A,balance,Stockholders Equity,2026-03-31,13388272000.0
+SPARC,A,balance,Total Assets,2023-03-31,8301261000.0
+SPARC,A,balance,Total Assets,2024-03-31,5150422000.0
+SPARC,A,balance,Total Assets,2025-03-31,3355335000.0
+SPARC,A,balance,Total Assets,2026-03-31,21708762000.0
+SPARC,A,balance,Total Debt,2023-03-31,156753000.0
+SPARC,A,balance,Total Debt,2024-03-31,576609000.0
+SPARC,A,balance,Total Debt,2025-03-31,2651347000.0
+SPARC,A,balance,Total Debt,2026-03-31,5578001000.0
+SPARC,A,cashflow,Capital Expenditure,2023-03-31,-153867000.0
+SPARC,A,cashflow,Capital Expenditure,2024-03-31,-265079000.0
+SPARC,A,cashflow,Capital Expenditure,2025-03-31,-103396000.0
+SPARC,A,cashflow,Capital Expenditure,2026-03-31,-238307000.0
+SPARC,A,cashflow,Free Cash Flow,2023-03-31,-845046000.0
+SPARC,A,cashflow,Free Cash Flow,2024-03-31,-4556962000.0
+SPARC,A,cashflow,Free Cash Flow,2025-03-31,-3706327000.0
+SPARC,A,cashflow,Free Cash Flow,2026-03-31,-2626075000.0
+SPARC,A,cashflow,Operating Cash Flow,2023-03-31,-691179000.0
+SPARC,A,cashflow,Operating Cash Flow,2024-03-31,-4291883000.0
+SPARC,A,cashflow,Operating Cash Flow,2025-03-31,-3602931000.0
+SPARC,A,cashflow,Operating Cash Flow,2026-03-31,-2387768000.0
+SPARC,A,income,Basic EPS,2023-03-31,-7.82
+SPARC,A,income,Basic EPS,2024-03-31,-11.93
+SPARC,A,income,Basic EPS,2025-03-31,-10.55
+SPARC,A,income,Basic EPS,2026-03-31,47.86
+SPARC,A,income,Diluted EPS,2023-03-31,-7.82
+SPARC,A,income,Diluted EPS,2024-03-31,-11.93
+SPARC,A,income,Diluted EPS,2025-03-31,-10.55
+SPARC,A,income,Diluted EPS,2026-03-31,47.86
+SPARC,A,income,EBITDA,2023-03-31,-2031780000.0
+SPARC,A,income,EBITDA,2024-03-31,-3731268000.0
+SPARC,A,income,EBITDA,2025-03-31,-3218474000.0
+SPARC,A,income,EBITDA,2026-03-31,15948058000.0
+SPARC,A,income,Interest Expense,2023-03-31,76347000.0
+SPARC,A,income,Interest Expense,2024-03-31,11946000.0
+SPARC,A,income,Interest Expense,2025-03-31,85390000.0
+SPARC,A,income,Interest Expense,2026-03-31,315880000.0
+SPARC,A,income,Net Income,2023-03-31,-2225835000.0
+SPARC,A,income,Net Income,2024-03-31,-3872139000.0
+SPARC,A,income,Net Income,2025-03-31,-3425094000.0
+SPARC,A,income,Net Income,2026-03-31,15532043000.0
+SPARC,A,income,Net Income Common Stockholders,2023-03-31,-2225835000.0
+SPARC,A,income,Net Income Common Stockholders,2024-03-31,-3872139000.0
+SPARC,A,income,Net Income Common Stockholders,2025-03-31,-3425094000.0
+SPARC,A,income,Net Income Common Stockholders,2026-03-31,15532043000.0
+SPARC,A,income,Operating Income,2023-03-31,-2236443000.0
+SPARC,A,income,Operating Income,2024-03-31,-4115041000.0
+SPARC,A,income,Operating Income,2025-03-31,-3340640000.0
+SPARC,A,income,Operating Income,2026-03-31,15989294000.0
+SPARC,A,income,Pretax Income,2023-03-31,-2225835000.0
+SPARC,A,income,Pretax Income,2024-03-31,-3868319000.0
+SPARC,A,income,Pretax Income,2025-03-31,-3427812000.0
+SPARC,A,income,Pretax Income,2026-03-31,15530099000.0
+SPARC,A,income,Total Revenue,2023-03-31,2387801000.0
+SPARC,A,income,Total Revenue,2024-03-31,755453000.0
+SPARC,A,income,Total Revenue,2025-03-31,717660000.0
+SPARC,A,income,Total Revenue,2026-03-31,391483000.0
+SPARC,Q,income,Basic EPS,2025-09-30,-2.34
+SPARC,Q,income,Basic EPS,2025-12-31,-2.48
+SPARC,Q,income,Basic EPS,2026-03-31,54.27
+SPARC,Q,income,Basic EPS,2026-06-30,-0.64
+SPARC,Q,income,Basic EPS,2026-09-30,-0.75
+SPARC,Q,income,Diluted EPS,2025-09-30,-2.34
+SPARC,Q,income,Diluted EPS,2025-12-31,-2.48
+SPARC,Q,income,Diluted EPS,2026-03-31,54.27
+SPARC,Q,income,Diluted EPS,2026-06-30,-0.64
+SPARC,Q,income,Diluted EPS,2026-09-30,-0.75
+SPARC,Q,income,EBITDA,2025-09-30,-657100000.0
+SPARC,Q,income,EBITDA,2025-12-31,-690000000.0
+SPARC,Q,income,EBITDA,2026-03-31,17750000000.0
+SPARC,Q,income,EBITDA,2026-06-30,-103400000.0
+SPARC,Q,income,EBITDA,2026-09-30,-219900000.0
+SPARC,Q,income,Interest Expense,2025-09-30,75200000.0
+SPARC,Q,income,Interest Expense,2025-12-31,87800000.0
+SPARC,Q,income,Interest Expense,2026-03-31,116400000.0
+SPARC,Q,income,Interest Expense,2026-06-30,81300000.0
+SPARC,Q,income,Interest Expense,2026-09-30,1200000.0
+SPARC,Q,income,Net Income,2025-09-30,-758500000.0
+SPARC,Q,income,Net Income,2025-12-31,-804200000.0
+SPARC,Q,income,Net Income,2026-03-31,17613400000.0
+SPARC,Q,income,Net Income,2026-06-30,-207800000.0
+SPARC,Q,income,Net Income,2026-09-30,-243900000.0
+SPARC,Q,income,Net Income Common Stockholders,2025-09-30,-758500000.0
+SPARC,Q,income,Net Income Common Stockholders,2025-12-31,-804200000.0
+SPARC,Q,income,Net Income Common Stockholders,2026-03-31,17613400000.0
+SPARC,Q,income,Net Income Common Stockholders,2026-06-30,-207800000.0
+SPARC,Q,income,Net Income Common Stockholders,2026-09-30,-243900000.0
+SPARC,Q,income,Operating Income,2025-09-30,-682800000.0
+SPARC,Q,income,Operating Income,2025-12-31,-592100000.0
+SPARC,Q,income,Operating Income,2026-03-31,17708000000.0
+SPARC,Q,income,Operating Income,2026-06-30,-362000000.0
+SPARC,Q,income,Operating Income,2026-09-30,-478100000.0
+SPARC,Q,income,Pretax Income,2025-09-30,-757900000.0
+SPARC,Q,income,Pretax Income,2025-12-31,-803500000.0
+SPARC,Q,income,Pretax Income,2026-03-31,17609600000.0
+SPARC,Q,income,Pretax Income,2026-06-30,-206700000.0
+SPARC,Q,income,Pretax Income,2026-09-30,-243100000.0
+SPARC,Q,income,Total Revenue,2025-09-30,78600000.0
+SPARC,Q,income,Total Revenue,2025-12-31,84500000.0
+SPARC,Q,income,Total Revenue,2026-03-31,18532200000.0
+SPARC,Q,income,Total Revenue,2026-06-30,399200000.0
+SPARC,Q,income,Total Revenue,2026-09-30,300300000.0

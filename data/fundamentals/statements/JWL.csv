@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+JWL,A,balance,Cash And Cash Equivalents,2023-03-31,1171331000.0
+JWL,A,balance,Cash And Cash Equivalents,2024-03-31,1225023000.0
+JWL,A,balance,Cash And Cash Equivalents,2025-03-31,4407351000.0
+JWL,A,balance,Cash And Cash Equivalents,2026-03-31,2166808000.0
+JWL,A,balance,Net Debt,2023-03-31,1705417000.0
+JWL,A,balance,Net Debt,2024-03-31,2151680000.0
+JWL,A,balance,Net Debt,2025-03-31,434684000.0
+JWL,A,balance,Net Debt,2026-03-31,7209480000.0
+JWL,A,balance,Ordinary Shares Number,2023-03-31,387447419.0
+JWL,A,balance,Ordinary Shares Number,2024-03-31,412293625.0
+JWL,A,balance,Ordinary Shares Number,2025-03-31,424498049.0
+JWL,A,balance,Ordinary Shares Number,2026-03-31,427370389.0
+JWL,A,balance,Stockholders Equity,2023-03-31,8033836000.0
+JWL,A,balance,Stockholders Equity,2024-03-31,16161557000.0
+JWL,A,balance,Stockholders Equity,2025-03-31,27543044000.0
+JWL,A,balance,Stockholders Equity,2026-03-31,29784660000.0
+JWL,A,balance,Total Assets,2023-03-31,16340338000.0
+JWL,A,balance,Total Assets,2024-03-31,29399826000.0
+JWL,A,balance,Total Assets,2025-03-31,39991117000.0
+JWL,A,balance,Total Assets,2026-03-31,47124600000.0
+JWL,A,balance,Total Debt,2023-03-31,2880807000.0
+JWL,A,balance,Total Debt,2024-03-31,3490009000.0
+JWL,A,balance,Total Debt,2025-03-31,5016238000.0
+JWL,A,balance,Total Debt,2026-03-31,9964552000.0
+JWL,A,cashflow,Capital Expenditure,2023-03-31,-726883000.0
+JWL,A,cashflow,Capital Expenditure,2024-03-31,-1248188000.0
+JWL,A,cashflow,Capital Expenditure,2025-03-31,-5081461000.0
+JWL,A,cashflow,Capital Expenditure,2026-03-31,-5345901000.0
+JWL,A,cashflow,Free Cash Flow,2023-03-31,49626000.0
+JWL,A,cashflow,Free Cash Flow,2024-03-31,-1439210000.0
+JWL,A,cashflow,Free Cash Flow,2025-03-31,-4039513000.0
+JWL,A,cashflow,Free Cash Flow,2026-03-31,-5251428000.0
+JWL,A,cashflow,Operating Cash Flow,2023-03-31,776509000.0
+JWL,A,cashflow,Operating Cash Flow,2024-03-31,-191022000.0
+JWL,A,cashflow,Operating Cash Flow,2025-03-31,1041948000.0
+JWL,A,cashflow,Operating Cash Flow,2026-03-31,94473000.0
+JWL,A,income,Basic EPS,2023-03-31,3.12
+JWL,A,income,Basic EPS,2024-03-31,8.24
+JWL,A,income,Basic EPS,2025-03-31,9.08
+JWL,A,income,Basic EPS,2026-03-31,4.02
+JWL,A,income,Diluted EPS,2023-03-31,3.12
+JWL,A,income,Diluted EPS,2024-03-31,8.24
+JWL,A,income,Diluted EPS,2025-03-31,9.08
+JWL,A,income,Diluted EPS,2026-03-31,4.02
+JWL,A,income,EBITDA,2023-03-31,2483548000.0
+JWL,A,income,EBITDA,2024-03-31,5110680000.0
+JWL,A,income,EBITDA,2025-03-31,5977403000.0
+JWL,A,income,EBITDA,2026-03-31,3691732000.0
+JWL,A,income,Interest Expense,2023-03-31,228895000.0
+JWL,A,income,Interest Expense,2024-03-31,323058000.0
+JWL,A,income,Interest Expense,2025-03-31,481976000.0
+JWL,A,income,Interest Expense,2026-03-31,570808000.0
+JWL,A,income,Net Income,2023-03-31,1207873000.0
+JWL,A,income,Net Income,2024-03-31,3315582000.0
+JWL,A,income,Net Income,2025-03-31,3822590000.0
+JWL,A,income,Net Income,2026-03-31,1710829000.0
+JWL,A,income,Net Income Common Stockholders,2023-03-31,1207873000.0
+JWL,A,income,Net Income Common Stockholders,2024-03-31,3315582000.0
+JWL,A,income,Net Income Common Stockholders,2025-03-31,3822590000.0
+JWL,A,income,Net Income Common Stockholders,2026-03-31,1710829000.0
+JWL,A,income,Operating Income,2023-03-31,2271950000.0
+JWL,A,income,Operating Income,2024-03-31,4610896000.0
+JWL,A,income,Operating Income,2025-03-31,5246148000.0
+JWL,A,income,Operating Income,2026-03-31,3062725000.0
+JWL,A,income,Pretax Income,2023-03-31,2004903000.0
+JWL,A,income,Pretax Income,2024-03-31,4419069000.0
+JWL,A,income,Pretax Income,2025-03-31,4959034000.0
+JWL,A,income,Pretax Income,2026-03-31,2450002000.0
+JWL,A,income,Total Revenue,2023-03-31,20506957000.0
+JWL,A,income,Total Revenue,2024-03-31,36237757000.0
+JWL,A,income,Total Revenue,2025-03-31,39336925000.0
+JWL,A,income,Total Revenue,2026-03-31,28881139000.0
+JWL,Q,income,Basic EPS,2025-06-30,0.77
+JWL,Q,income,Basic EPS,2025-09-30,1.1
+JWL,Q,income,Basic EPS,2025-12-31,1.33
+JWL,Q,income,Basic EPS,2026-03-31,0.67
+JWL,Q,income,Basic EPS,2026-06-30,0.66
+JWL,Q,income,Diluted EPS,2025-06-30,0.77
+JWL,Q,income,Diluted EPS,2025-09-30,1.1
+JWL,Q,income,Diluted EPS,2025-12-31,1.33
+JWL,Q,income,Diluted EPS,2026-03-31,0.67
+JWL,Q,income,Diluted EPS,2026-06-30,0.66
+JWL,Q,income,EBITDA,2025-06-30,598907000.0
+JWL,Q,income,EBITDA,2025-09-30,865114000.0
+JWL,Q,income,EBITDA,2025-12-31,1052849000.0
+JWL,Q,income,EBITDA,2026-03-31,628144000.0
+JWL,Q,income,EBITDA,2026-06-30,561630000.0
+JWL,Q,income,Interest Expense,2025-06-30,159407000.0
+JWL,Q,income,Interest Expense,2025-09-30,186248000.0
+JWL,Q,income,Interest Expense,2025-12-31,184599000.0
+JWL,Q,income,Interest Expense,2026-03-31,164756000.0
+JWL,Q,income,Interest Expense,2026-06-30,174866000.0
+JWL,Q,income,Net Income,2025-06-30,327016000.0
+JWL,Q,income,Net Income,2025-09-30,465593000.0
+JWL,Q,income,Net Income,2025-12-31,629947000.0
+JWL,Q,income,Net Income,2026-03-31,288275000.0
+JWL,Q,income,Net Income,2026-06-30,282546000.0
+JWL,Q,income,Net Income Common Stockholders,2025-06-30,327016000.0
+JWL,Q,income,Net Income Common Stockholders,2025-09-30,465593000.0
+JWL,Q,income,Net Income Common Stockholders,2025-12-31,629947000.0
+JWL,Q,income,Net Income Common Stockholders,2026-03-31,288275000.0
+JWL,Q,income,Net Income Common Stockholders,2026-06-30,282546000.0
+JWL,Q,income,Operating Income,2025-06-30,435946000.0
+JWL,Q,income,Operating Income,2025-09-30,871544000.0
+JWL,Q,income,Operating Income,2025-12-31,992822000.0
+JWL,Q,income,Operating Income,2026-03-31,654861000.0
+JWL,Q,income,Operating Income,2026-06-30,462495000.0
+JWL,Q,income,Pretax Income,2025-06-30,439500000.0
+JWL,Q,income,Pretax Income,2025-09-30,678866000.0
+JWL,Q,income,Pretax Income,2025-12-31,868250000.0
+JWL,Q,income,Pretax Income,2026-03-31,463388000.0
+JWL,Q,income,Pretax Income,2026-06-30,386764000.0
+JWL,Q,income,Total Revenue,2025-06-30,4593428000.0
+JWL,Q,income,Total Revenue,2025-09-30,7858455000.0
+JWL,Q,income,Total Revenue,2025-12-31,8903641000.0
+JWL,Q,income,Total Revenue,2026-03-31,7801507000.0
+JWL,Q,income,Total Revenue,2026-06-30,6707354000.0

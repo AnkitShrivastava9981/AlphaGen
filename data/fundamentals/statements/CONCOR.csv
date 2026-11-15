@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CONCOR,A,balance,Cash And Cash Equivalents,2023-03-31,3437400000.0
+CONCOR,A,balance,Cash And Cash Equivalents,2024-03-31,1934700000.0
+CONCOR,A,balance,Cash And Cash Equivalents,2025-03-31,3623200000.0
+CONCOR,A,balance,Cash And Cash Equivalents,2026-03-31,6543600000.0
+CONCOR,A,balance,Ordinary Shares Number,2023-03-31,761617935.0
+CONCOR,A,balance,Ordinary Shares Number,2024-03-31,761617935.0
+CONCOR,A,balance,Ordinary Shares Number,2025-03-31,761617935.0
+CONCOR,A,balance,Ordinary Shares Number,2026-03-31,761617935.0
+CONCOR,A,balance,Stockholders Equity,2023-03-31,112262900000.0
+CONCOR,A,balance,Stockholders Equity,2024-03-31,118265200000.0
+CONCOR,A,balance,Stockholders Equity,2025-03-31,123814600000.0
+CONCOR,A,balance,Stockholders Equity,2026-03-31,129423500000.0
+CONCOR,A,balance,Total Assets,2023-03-31,134652000000.0
+CONCOR,A,balance,Total Assets,2024-03-31,140413500000.0
+CONCOR,A,balance,Total Assets,2025-03-31,144771400000.0
+CONCOR,A,balance,Total Assets,2026-03-31,151756600000.0
+CONCOR,A,balance,Total Debt,2023-03-31,7735600000.0
+CONCOR,A,balance,Total Debt,2024-03-31,9144800000.0
+CONCOR,A,balance,Total Debt,2025-03-31,8372100000.0
+CONCOR,A,balance,Total Debt,2026-03-31,9402800000.0
+CONCOR,A,cashflow,Capital Expenditure,2023-03-31,-6544700000.0
+CONCOR,A,cashflow,Capital Expenditure,2024-03-31,-7979300000.0
+CONCOR,A,cashflow,Capital Expenditure,2025-03-31,-9001300000.0
+CONCOR,A,cashflow,Capital Expenditure,2026-03-31,-11490200000.0
+CONCOR,A,cashflow,Free Cash Flow,2023-03-31,7513900000.0
+CONCOR,A,cashflow,Free Cash Flow,2024-03-31,5888700000.0
+CONCOR,A,cashflow,Free Cash Flow,2025-03-31,8114100000.0
+CONCOR,A,cashflow,Free Cash Flow,2026-03-31,3332100000.0
+CONCOR,A,cashflow,Operating Cash Flow,2023-03-31,14058600000.0
+CONCOR,A,cashflow,Operating Cash Flow,2024-03-31,13868000000.0
+CONCOR,A,cashflow,Operating Cash Flow,2025-03-31,17115400000.0
+CONCOR,A,cashflow,Operating Cash Flow,2026-03-31,14822300000.0
+CONCOR,A,income,Basic EPS,2023-03-31,15.408
+CONCOR,A,income,Basic EPS,2024-03-31,16.37223
+CONCOR,A,income,Basic EPS,2025-03-31,16.938157
+CONCOR,A,income,Basic EPS,2026-03-31,16.305147
+CONCOR,A,income,Diluted EPS,2023-03-31,15.408
+CONCOR,A,income,Diluted EPS,2024-03-31,16.37223
+CONCOR,A,income,Diluted EPS,2025-03-31,16.938157
+CONCOR,A,income,Diluted EPS,2026-03-31,16.305147
+CONCOR,A,income,EBITDA,2023-03-31,22059200000.0
+CONCOR,A,income,EBITDA,2024-03-31,23603400000.0
+CONCOR,A,income,EBITDA,2025-03-31,23749700000.0
+CONCOR,A,income,EBITDA,2026-03-31,23427700000.0
+CONCOR,A,income,Interest Expense,2023-03-31,669300000.0
+CONCOR,A,income,Interest Expense,2024-03-31,704900000.0
+CONCOR,A,income,Interest Expense,2025-03-31,716700000.0
+CONCOR,A,income,Interest Expense,2026-03-31,764700000.0
+CONCOR,A,income,Net Income,2023-03-31,11739500000.0
+CONCOR,A,income,Net Income,2024-03-31,12469500000.0
+CONCOR,A,income,Net Income,2025-03-31,12900100000.0
+CONCOR,A,income,Net Income,2026-03-31,12418000000.0
+CONCOR,A,income,Net Income Common Stockholders,2023-03-31,11739500000.0
+CONCOR,A,income,Net Income Common Stockholders,2024-03-31,12469500000.0
+CONCOR,A,income,Net Income Common Stockholders,2025-03-31,12900100000.0
+CONCOR,A,income,Net Income Common Stockholders,2026-03-31,12418000000.0
+CONCOR,A,income,Operating Income,2023-03-31,12959100000.0
+CONCOR,A,income,Operating Income,2024-03-31,13333000000.0
+CONCOR,A,income,Operating Income,2025-03-31,13492800000.0
+CONCOR,A,income,Operating Income,2026-03-31,13365300000.0
+CONCOR,A,income,Pretax Income,2023-03-31,15632700000.0
+CONCOR,A,income,Pretax Income,2024-03-31,16384900000.0
+CONCOR,A,income,Pretax Income,2025-03-31,17220600000.0
+CONCOR,A,income,Pretax Income,2026-03-31,16507700000.0
+CONCOR,A,income,Total Revenue,2023-03-31,74488100000.0
+CONCOR,A,income,Total Revenue,2024-03-31,79647500000.0
+CONCOR,A,income,Total Revenue,2025-03-31,82119300000.0
+CONCOR,A,income,Total Revenue,2026-03-31,83937900000.0
+CONCOR,Q,income,Basic EPS,2025-09-30,4.99
+CONCOR,Q,income,Basic EPS,2025-12-31,4.4
+CONCOR,Q,income,Basic EPS,2026-03-31,3.46
+CONCOR,Q,income,Basic EPS,2026-06-30,3.53
+CONCOR,Q,income,Basic EPS,2026-09-30,4.64
+CONCOR,Q,income,Diluted EPS,2025-09-30,4.99
+CONCOR,Q,income,Diluted EPS,2025-12-31,4.4
+CONCOR,Q,income,Diluted EPS,2026-03-31,3.46
+CONCOR,Q,income,Diluted EPS,2026-06-30,3.53
+CONCOR,Q,income,Diluted EPS,2026-09-30,4.64
+CONCOR,Q,income,EBITDA,2025-09-30,5161400000.0
+CONCOR,Q,income,EBITDA,2025-12-31,4529800000.0
+CONCOR,Q,income,EBITDA,2026-03-31,3631800000.0
+CONCOR,Q,income,EBITDA,2026-06-30,3800500000.0
+CONCOR,Q,income,EBITDA,2026-09-30,4763100000.0
+CONCOR,Q,income,Interest Expense,2025-09-30,185600000.0
+CONCOR,Q,income,Interest Expense,2025-12-31,204100000.0
+CONCOR,Q,income,Interest Expense,2026-03-31,214700000.0
+CONCOR,Q,income,Interest Expense,2026-06-30,199400000.0
+CONCOR,Q,income,Interest Expense,2026-09-30,221700000.0
+CONCOR,Q,income,Net Income,2025-09-30,3787000000.0
+CONCOR,Q,income,Net Income,2025-12-31,3339100000.0
+CONCOR,Q,income,Net Income,2026-03-31,2626500000.0
+CONCOR,Q,income,Net Income,2026-06-30,2667400000.0
+CONCOR,Q,income,Net Income,2026-09-30,3531000000.0
+CONCOR,Q,income,Net Income Common Stockholders,2025-09-30,3787000000.0
+CONCOR,Q,income,Net Income Common Stockholders,2025-12-31,3339100000.0
+CONCOR,Q,income,Net Income Common Stockholders,2026-03-31,2626500000.0
+CONCOR,Q,income,Net Income Common Stockholders,2026-06-30,2667400000.0
+CONCOR,Q,income,Net Income Common Stockholders,2026-09-30,3531000000.0
+CONCOR,Q,income,Operating Income,2025-09-30,4284300000.0
+CONCOR,Q,income,Operating Income,2025-12-31,3605200000.0
+CONCOR,Q,income,Operating Income,2026-03-31,2743500000.0
+CONCOR,Q,income,Operating Income,2026-06-30,2945500000.0
+CONCOR,Q,income,Operating Income,2026-09-30,3914900000.0
+CONCOR,Q,income,Pretax Income,2025-09-30,4975800000.0
+CONCOR,Q,income,Pretax Income,2025-12-31,4325700000.0
+CONCOR,Q,income,Pretax Income,2026-03-31,3417100000.0
+CONCOR,Q,income,Pretax Income,2026-06-30,3601100000.0
+CONCOR,Q,income,Pretax Income,2026-09-30,4541400000.0
+CONCOR,Q,income,Total Revenue,2025-09-30,23545300000.0
+CONCOR,Q,income,Total Revenue,2025-12-31,23075100000.0
+CONCOR,Q,income,Total Revenue,2026-03-31,22633000000.0
+CONCOR,Q,income,Total Revenue,2026-06-30,21597600000.0
+CONCOR,Q,income,Total Revenue,2026-09-30,23785700000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EMIL,A,balance,Cash And Cash Equivalents,2023-03-31,2031570000.0
+EMIL,A,balance,Cash And Cash Equivalents,2024-03-31,854740000.0
+EMIL,A,balance,Cash And Cash Equivalents,2025-03-31,305310000.0
+EMIL,A,balance,Cash And Cash Equivalents,2026-03-31,497470000.0
+EMIL,A,balance,Net Debt,2023-03-31,5239350000.0
+EMIL,A,balance,Net Debt,2024-03-31,6273320000.0
+EMIL,A,balance,Net Debt,2025-03-31,9534540000.0
+EMIL,A,balance,Net Debt,2026-03-31,8413750000.0
+EMIL,A,balance,Ordinary Shares Number,2023-03-31,384748762.0
+EMIL,A,balance,Ordinary Shares Number,2024-03-31,384748762.0
+EMIL,A,balance,Ordinary Shares Number,2025-03-31,384748762.0
+EMIL,A,balance,Ordinary Shares Number,2026-03-31,384748762.0
+EMIL,A,balance,Stockholders Equity,2023-03-31,11843100000.0
+EMIL,A,balance,Stockholders Equity,2024-03-31,13696590000.0
+EMIL,A,balance,Stockholders Equity,2025-03-31,15187570000.0
+EMIL,A,balance,Stockholders Equity,2026-03-31,16261350000.0
+EMIL,A,balance,Total Assets,2023-03-31,26938760000.0
+EMIL,A,balance,Total Assets,2024-03-31,30590880000.0
+EMIL,A,balance,Total Assets,2025-03-31,36373390000.0
+EMIL,A,balance,Total Assets,2026-03-31,37970850000.0
+EMIL,A,balance,Total Debt,2023-03-31,14317530000.0
+EMIL,A,balance,Total Debt,2024-03-31,15698520000.0
+EMIL,A,balance,Total Debt,2025-03-31,19672910000.0
+EMIL,A,balance,Total Debt,2026-03-31,19969850000.0
+EMIL,A,cashflow,Capital Expenditure,2023-03-31,-2466480000.0
+EMIL,A,cashflow,Capital Expenditure,2024-03-31,-1737610000.0
+EMIL,A,cashflow,Capital Expenditure,2025-03-31,-3350760000.0
+EMIL,A,cashflow,Capital Expenditure,2026-03-31,-1341930000.0
+EMIL,A,cashflow,Free Cash Flow,2023-03-31,-2472290000.0
+EMIL,A,cashflow,Free Cash Flow,2024-03-31,-139340000.0
+EMIL,A,cashflow,Free Cash Flow,2025-03-31,-1592870000.0
+EMIL,A,cashflow,Free Cash Flow,2026-03-31,3095150000.0
+EMIL,A,cashflow,Operating Cash Flow,2023-03-31,-5810000.0
+EMIL,A,cashflow,Operating Cash Flow,2024-03-31,1598270000.0
+EMIL,A,cashflow,Operating Cash Flow,2025-03-31,1757890000.0
+EMIL,A,cashflow,Operating Cash Flow,2026-03-31,4437080000.0
+EMIL,A,income,Basic EPS,2023-03-31,3.63
+EMIL,A,income,Basic EPS,2024-03-31,4.78
+EMIL,A,income,Basic EPS,2025-03-31,4.17
+EMIL,A,income,Basic EPS,2026-03-31,2.78
+EMIL,A,income,Diluted EPS,2023-03-31,3.63
+EMIL,A,income,Diluted EPS,2024-03-31,4.78
+EMIL,A,income,Diluted EPS,2025-03-31,4.17
+EMIL,A,income,Diluted EPS,2026-03-31,2.78
+EMIL,A,income,EBITDA,2023-03-31,3438470000.0
+EMIL,A,income,EBITDA,2024-03-31,4568480000.0
+EMIL,A,income,EBITDA,2025-03-31,4565470000.0
+EMIL,A,income,EBITDA,2026-03-31,4498190000.0
+EMIL,A,income,Interest Expense,2023-03-31,952760000.0
+EMIL,A,income,Interest Expense,2024-03-31,1049980000.0
+EMIL,A,income,Interest Expense,2025-03-31,1138130000.0
+EMIL,A,income,Interest Expense,2026-03-31,1502480000.0
+EMIL,A,income,Net Income,2023-03-31,1228000000.0
+EMIL,A,income,Net Income,2024-03-31,1839470000.0
+EMIL,A,income,Net Income,2025-03-31,1604860000.0
+EMIL,A,income,Net Income,2026-03-31,1071380000.0
+EMIL,A,income,Net Income Common Stockholders,2023-03-31,1228000000.0
+EMIL,A,income,Net Income Common Stockholders,2024-03-31,1839470000.0
+EMIL,A,income,Net Income Common Stockholders,2025-03-31,1604860000.0
+EMIL,A,income,Net Income Common Stockholders,2026-03-31,1071380000.0
+EMIL,A,income,Operating Income,2023-03-31,2506880000.0
+EMIL,A,income,Operating Income,2024-03-31,3437640000.0
+EMIL,A,income,Operating Income,2025-03-31,3271000000.0
+EMIL,A,income,Operating Income,2026-03-31,2828280000.0
+EMIL,A,income,Pretax Income,2023-03-31,1631920000.0
+EMIL,A,income,Pretax Income,2024-03-31,2461640000.0
+EMIL,A,income,Pretax Income,2025-03-31,2160430000.0
+EMIL,A,income,Pretax Income,2026-03-31,1434080000.0
+EMIL,A,income,Total Revenue,2023-03-31,50899600000.0
+EMIL,A,income,Total Revenue,2024-03-31,59155390000.0
+EMIL,A,income,Total Revenue,2025-03-31,65625820000.0
+EMIL,A,income,Total Revenue,2026-03-31,69964230000.0
+EMIL,Q,income,Basic EPS,2025-09-30,0.42
+EMIL,Q,income,Basic EPS,2025-12-31,0.77
+EMIL,Q,income,Basic EPS,2026-03-31,1.03
+EMIL,Q,income,Basic EPS,2026-06-30,3.14
+EMIL,Q,income,Basic EPS,2026-09-30,1.04
+EMIL,Q,income,Diluted EPS,2025-09-30,0.42
+EMIL,Q,income,Diluted EPS,2025-12-31,0.77
+EMIL,Q,income,Diluted EPS,2026-03-31,1.03
+EMIL,Q,income,Diluted EPS,2026-06-30,3.14
+EMIL,Q,income,Diluted EPS,2026-09-30,1.04
+EMIL,Q,income,EBITDA,2025-09-30,985060000.0
+EMIL,Q,income,EBITDA,2025-12-31,1183910000.0
+EMIL,Q,income,EBITDA,2026-03-31,1342600000.0
+EMIL,Q,income,EBITDA,2026-06-30,2408940000.0
+EMIL,Q,income,EBITDA,2026-09-30,1323640000.0
+EMIL,Q,income,Interest Expense,2025-09-30,385080000.0
+EMIL,Q,income,Interest Expense,2025-12-31,387020000.0
+EMIL,Q,income,Interest Expense,2026-03-31,401010000.0
+EMIL,Q,income,Interest Expense,2026-06-30,372380000.0
+EMIL,Q,income,Interest Expense,2026-09-30,362570000.0
+EMIL,Q,income,Net Income,2025-09-30,161420000.0
+EMIL,Q,income,Net Income,2025-12-31,296450000.0
+EMIL,Q,income,Net Income,2026-03-31,397340000.0
+EMIL,Q,income,Net Income,2026-06-30,1206370000.0
+EMIL,Q,income,Net Income,2026-09-30,401520000.0
+EMIL,Q,income,Net Income Common Stockholders,2025-09-30,161420000.0
+EMIL,Q,income,Net Income Common Stockholders,2025-12-31,296450000.0
+EMIL,Q,income,Net Income Common Stockholders,2026-03-31,397340000.0
+EMIL,Q,income,Net Income Common Stockholders,2026-06-30,1206370000.0
+EMIL,Q,income,Net Income Common Stockholders,2026-09-30,401520000.0
+EMIL,Q,income,Operating Income,2025-09-30,432730000.0
+EMIL,Q,income,Operating Income,2025-12-31,785760000.0
+EMIL,Q,income,Operating Income,2026-03-31,880290000.0
+EMIL,Q,income,Operating Income,2026-06-30,1973591000.0
+EMIL,Q,income,Operating Income,2026-09-30,872180000.0
+EMIL,Q,income,Pretax Income,2025-09-30,216270000.0
+EMIL,Q,income,Pretax Income,2025-12-31,394090000.0
+EMIL,Q,income,Pretax Income,2026-03-31,534740000.0
+EMIL,Q,income,Pretax Income,2026-06-30,1620700000.0
+EMIL,Q,income,Pretax Income,2026-09-30,527980000.0
+EMIL,Q,income,Total Revenue,2025-09-30,15909740000.0
+EMIL,Q,income,Total Revenue,2025-12-31,19396530000.0
+EMIL,Q,income,Total Revenue,2026-03-31,19132450000.0
+EMIL,Q,income,Total Revenue,2026-06-30,24189511000.0
+EMIL,Q,income,Total Revenue,2026-09-30,18997380000.0

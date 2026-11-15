@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ENTERO,A,balance,Cash And Cash Equivalents,2023-03-31,253620000.0
+ENTERO,A,balance,Cash And Cash Equivalents,2024-03-31,1476460000.0
+ENTERO,A,balance,Cash And Cash Equivalents,2025-03-31,2292780000.0
+ENTERO,A,balance,Cash And Cash Equivalents,2026-03-31,1468760000.0
+ENTERO,A,balance,Net Debt,2023-03-31,3489530000.0
+ENTERO,A,balance,Net Debt,2024-03-31,1279060000.0
+ENTERO,A,balance,Net Debt,2025-03-31,695330000.0
+ENTERO,A,balance,Net Debt,2026-03-31,4198070000.0
+ENTERO,A,balance,Ordinary Shares Number,2023-03-31,43498967.0
+ENTERO,A,balance,Ordinary Shares Number,2024-03-31,43493767.0
+ENTERO,A,balance,Ordinary Shares Number,2025-03-31,43507707.0
+ENTERO,A,balance,Ordinary Shares Number,2026-03-31,43510937.0
+ENTERO,A,balance,Stockholders Equity,2023-03-31,5950270000.0
+ENTERO,A,balance,Stockholders Equity,2024-03-31,16380560000.0
+ENTERO,A,balance,Stockholders Equity,2025-03-31,17241450000.0
+ENTERO,A,balance,Stockholders Equity,2026-03-31,16886100000.0
+ENTERO,A,balance,Total Assets,2023-03-31,13087270000.0
+ENTERO,A,balance,Total Assets,2024-03-31,23449750000.0
+ENTERO,A,balance,Total Assets,2025-03-31,27025150000.0
+ENTERO,A,balance,Total Assets,2026-03-31,36002630000.0
+ENTERO,A,balance,Total Debt,2023-03-31,4377590000.0
+ENTERO,A,balance,Total Debt,2024-03-31,3379740000.0
+ENTERO,A,balance,Total Debt,2025-03-31,3852290000.0
+ENTERO,A,balance,Total Debt,2026-03-31,6771520000.0
+ENTERO,A,cashflow,Capital Expenditure,2023-03-31,-55190000.0
+ENTERO,A,cashflow,Capital Expenditure,2024-03-31,-54160000.0
+ENTERO,A,cashflow,Capital Expenditure,2025-03-31,-113140000.0
+ENTERO,A,cashflow,Capital Expenditure,2026-03-31,-675420000.0
+ENTERO,A,cashflow,Free Cash Flow,2023-03-31,-508340000.0
+ENTERO,A,cashflow,Free Cash Flow,2024-03-31,-420280000.0
+ENTERO,A,cashflow,Free Cash Flow,2025-03-31,-881780000.0
+ENTERO,A,cashflow,Free Cash Flow,2026-03-31,286600000.0
+ENTERO,A,cashflow,Operating Cash Flow,2023-03-31,-453150000.0
+ENTERO,A,cashflow,Operating Cash Flow,2024-03-31,-366120000.0
+ENTERO,A,cashflow,Operating Cash Flow,2025-03-31,-768640000.0
+ENTERO,A,cashflow,Operating Cash Flow,2026-03-31,962020000.0
+ENTERO,A,income,Basic EPS,2023-03-31,-2.656845
+ENTERO,A,income,Basic EPS,2024-03-31,10.81
+ENTERO,A,income,Basic EPS,2025-03-31,21.8
+ENTERO,A,income,Basic EPS,2026-03-31,26.44
+ENTERO,A,income,Diluted EPS,2023-03-31,-2.656845
+ENTERO,A,income,Diluted EPS,2024-03-31,10.81
+ENTERO,A,income,Diluted EPS,2025-03-31,21.76
+ENTERO,A,income,Diluted EPS,2026-03-31,26.4
+ENTERO,A,income,EBITDA,2023-03-31,649490000.0
+ENTERO,A,income,EBITDA,2024-03-31,1210540000.0
+ENTERO,A,income,EBITDA,2025-03-31,2069660000.0
+ENTERO,A,income,EBITDA,2026-03-31,2716690000.0
+ENTERO,A,income,Interest Expense,2023-03-31,444000000.0
+ENTERO,A,income,Interest Expense,2024-03-31,604820000.0
+ENTERO,A,income,Interest Expense,2025-03-31,375350000.0
+ENTERO,A,income,Interest Expense,2026-03-31,490400000.0
+ENTERO,A,income,Net Income,2023-03-31,-115570000.0
+ENTERO,A,income,Net Income,2024-03-31,391090000.0
+ENTERO,A,income,Net Income,2025-03-31,948200000.0
+ENTERO,A,income,Net Income,2026-03-31,1150420000.0
+ENTERO,A,income,Net Income Common Stockholders,2023-03-31,-115570000.0
+ENTERO,A,income,Net Income Common Stockholders,2024-03-31,391090000.0
+ENTERO,A,income,Net Income Common Stockholders,2025-03-31,948200000.0
+ENTERO,A,income,Net Income Common Stockholders,2026-03-31,1150420000.0
+ENTERO,A,income,Operating Income,2023-03-31,397700000.0
+ENTERO,A,income,Operating Income,2024-03-31,868260000.0
+ENTERO,A,income,Operating Income,2025-03-31,1421130000.0
+ENTERO,A,income,Operating Income,2026-03-31,2231500000.0
+ENTERO,A,income,Pretax Income,2023-03-31,-36880000.0
+ENTERO,A,income,Pretax Income,2024-03-31,355550000.0
+ENTERO,A,income,Pretax Income,2025-03-31,1387390000.0
+ENTERO,A,income,Pretax Income,2026-03-31,1793360000.0
+ENTERO,A,income,Total Revenue,2023-03-31,32931430000.0
+ENTERO,A,income,Total Revenue,2024-03-31,38881630000.0
+ENTERO,A,income,Total Revenue,2025-03-31,50654840000.0
+ENTERO,A,income,Total Revenue,2026-03-31,65400610000.0
+ENTERO,Q,income,Basic EPS,2025-09-30,7.26
+ENTERO,Q,income,Basic EPS,2025-12-31,6.35
+ENTERO,Q,income,Basic EPS,2026-03-31,6.44
+ENTERO,Q,income,Basic EPS,2026-06-30,8.77
+ENTERO,Q,income,Basic EPS,2026-09-30,10.47
+ENTERO,Q,income,Diluted EPS,2025-09-30,7.25
+ENTERO,Q,income,Diluted EPS,2025-12-31,6.34
+ENTERO,Q,income,Diluted EPS,2026-03-31,6.43
+ENTERO,Q,income,Diluted EPS,2026-06-30,8.76
+ENTERO,Q,income,Diluted EPS,2026-09-30,10.45
+ENTERO,Q,income,EBITDA,2025-09-30,668570000.0
+ENTERO,Q,income,EBITDA,2025-12-31,642080000.0
+ENTERO,Q,income,EBITDA,2026-03-31,900500000.0
+ENTERO,Q,income,EBITDA,2026-06-30,999970000.0
+ENTERO,Q,income,EBITDA,2026-09-30,1146540000.0
+ENTERO,Q,income,Interest Expense,2025-09-30,123980000.0
+ENTERO,Q,income,Interest Expense,2025-12-31,140110000.0
+ENTERO,Q,income,Interest Expense,2026-03-31,173110000.0
+ENTERO,Q,income,Interest Expense,2026-06-30,205720000.0
+ENTERO,Q,income,Interest Expense,2026-09-30,231380000.0
+ENTERO,Q,income,Net Income,2025-09-30,316010000.0
+ENTERO,Q,income,Net Income,2025-12-31,276260000.0
+ENTERO,Q,income,Net Income,2026-03-31,280090000.0
+ENTERO,Q,income,Net Income,2026-06-30,381620000.0
+ENTERO,Q,income,Net Income,2026-09-30,455430000.0
+ENTERO,Q,income,Net Income Common Stockholders,2025-09-30,316010000.0
+ENTERO,Q,income,Net Income Common Stockholders,2025-12-31,276260000.0
+ENTERO,Q,income,Net Income Common Stockholders,2026-03-31,280090000.0
+ENTERO,Q,income,Net Income Common Stockholders,2026-06-30,381620000.0
+ENTERO,Q,income,Net Income Common Stockholders,2026-09-30,455430000.0
+ENTERO,Q,income,Operating Income,2025-09-30,522320000.0
+ENTERO,Q,income,Operating Income,2025-12-31,579760000.0
+ENTERO,Q,income,Operating Income,2026-03-31,712500000.0
+ENTERO,Q,income,Operating Income,2026-06-30,846840000.0
+ENTERO,Q,income,Operating Income,2026-09-30,975330000.0
+ENTERO,Q,income,Pretax Income,2025-09-30,446250000.0
+ENTERO,Q,income,Pretax Income,2025-12-31,403990000.0
+ENTERO,Q,income,Pretax Income,2026-03-31,579470000.0
+ENTERO,Q,income,Pretax Income,2026-06-30,671200000.0
+ENTERO,Q,income,Pretax Income,2026-09-30,783870000.0
+ENTERO,Q,income,Total Revenue,2025-09-30,15709480000.0
+ENTERO,Q,income,Total Revenue,2025-12-31,17065180000.0
+ENTERO,Q,income,Total Revenue,2026-03-31,19099270000.0
+ENTERO,Q,income,Total Revenue,2026-06-30,19404950000.0
+ENTERO,Q,income,Total Revenue,2026-09-30,20870750000.0

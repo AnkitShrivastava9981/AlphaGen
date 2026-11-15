@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+YESBANK,A,balance,Cash And Cash Equivalents,2023-03-31,502655747000.0
+YESBANK,A,balance,Cash And Cash Equivalents,2024-03-31,634057001000.0
+YESBANK,A,balance,Cash And Cash Equivalents,2025-03-31,655842845000.0
+YESBANK,A,balance,Cash And Cash Equivalents,2026-03-31,662778605000.0
+YESBANK,A,balance,Net Debt,2023-03-31,207514092000.0
+YESBANK,A,balance,Net Debt,2024-03-31,154569096000.0
+YESBANK,A,balance,Net Debt,2025-03-31,52831624000.0
+YESBANK,A,balance,Net Debt,2026-03-31,271034700000.0
+YESBANK,A,balance,Ordinary Shares Number,2023-03-31,28754775334.0
+YESBANK,A,balance,Ordinary Shares Number,2024-03-31,28767882106.0
+YESBANK,A,balance,Ordinary Shares Number,2025-03-31,31354115322.0
+YESBANK,A,balance,Ordinary Shares Number,2026-03-31,31379757057.0
+YESBANK,A,balance,Stockholders Equity,2023-03-31,407181757000.0
+YESBANK,A,balance,Stockholders Equity,2024-03-31,421551856000.0
+YESBANK,A,balance,Stockholders Equity,2025-03-31,478324161000.0
+YESBANK,A,balance,Stockholders Equity,2026-03-31,511584149000.0
+YESBANK,A,balance,Total Assets,2023-03-31,3552041341000.0
+YESBANK,A,balance,Total Assets,2024-03-31,4063615459000.0
+YESBANK,A,balance,Total Assets,2025-03-31,4241159328000.0
+YESBANK,A,balance,Total Assets,2026-03-31,4702040797000.0
+YESBANK,A,balance,Total Debt,2023-03-31,710169839000.0
+YESBANK,A,balance,Total Debt,2024-03-31,788626097000.0
+YESBANK,A,balance,Total Debt,2025-03-31,708674469000.0
+YESBANK,A,balance,Total Debt,2026-03-31,654508192000.0
+YESBANK,A,cashflow,Capital Expenditure,2023-03-31,-7915921000.0
+YESBANK,A,cashflow,Capital Expenditure,2024-03-31,-9806555000.0
+YESBANK,A,cashflow,Capital Expenditure,2025-03-31,-7417336000.0
+YESBANK,A,cashflow,Capital Expenditure,2026-03-31,-7390733000.0
+YESBANK,A,cashflow,Free Cash Flow,2023-03-31,-266078499000.0
+YESBANK,A,cashflow,Free Cash Flow,2024-03-31,86638955000.0
+YESBANK,A,cashflow,Free Cash Flow,2025-03-31,56446650000.0
+YESBANK,A,cashflow,Free Cash Flow,2026-03-31,204777814000.0
+YESBANK,A,cashflow,Operating Cash Flow,2023-03-31,-258162578000.0
+YESBANK,A,cashflow,Operating Cash Flow,2024-03-31,96445510000.0
+YESBANK,A,cashflow,Operating Cash Flow,2025-03-31,63863986000.0
+YESBANK,A,cashflow,Operating Cash Flow,2026-03-31,212168547000.0
+YESBANK,A,income,Basic EPS,2023-03-31,0.28
+YESBANK,A,income,Basic EPS,2024-03-31,0.45
+YESBANK,A,income,Basic EPS,2025-03-31,0.79
+YESBANK,A,income,Basic EPS,2026-03-31,1.12
+YESBANK,A,income,Diluted EPS,2023-03-31,0.28
+YESBANK,A,income,Diluted EPS,2024-03-31,0.44
+YESBANK,A,income,Diluted EPS,2025-03-31,0.78
+YESBANK,A,income,Diluted EPS,2026-03-31,1.12
+YESBANK,A,income,Interest Expense,2023-03-31,147997602000.0
+YESBANK,A,income,Interest Expense,2024-03-31,195272521000.0
+YESBANK,A,income,Interest Expense,2025-03-31,219983652000.0
+YESBANK,A,income,Interest Expense,2026-03-31,204502780000.0
+YESBANK,A,income,Net Income,2023-03-31,7358186000.0
+YESBANK,A,income,Net Income,2024-03-31,12852015000.0
+YESBANK,A,income,Net Income,2025-03-31,24464926000.0
+YESBANK,A,income,Net Income,2026-03-31,35117146000.0
+YESBANK,A,income,Net Income Common Stockholders,2023-03-31,7358186000.0
+YESBANK,A,income,Net Income Common Stockholders,2024-03-31,12852015000.0
+YESBANK,A,income,Net Income Common Stockholders,2025-03-31,24464926000.0
+YESBANK,A,income,Net Income Common Stockholders,2026-03-31,35117146000.0
+YESBANK,A,income,Pretax Income,2023-03-31,9813279000.0
+YESBANK,A,income,Pretax Income,2024-03-31,15376886000.0
+YESBANK,A,income,Pretax Income,2025-03-31,32239412000.0
+YESBANK,A,income,Pretax Income,2026-03-31,46434262000.0
+YESBANK,A,income,Total Revenue,2023-03-31,93697163000.0
+YESBANK,A,income,Total Revenue,2024-03-31,139782765000.0
+YESBANK,A,income,Total Revenue,2025-03-31,168299614000.0
+YESBANK,A,income,Total Revenue,2026-03-31,184369556000.0
+YESBANK,Q,income,Basic EPS,2025-06-30,0.26
+YESBANK,Q,income,Basic EPS,2025-12-31,0.3
+YESBANK,Q,income,Basic EPS,2026-03-31,0.34
+YESBANK,Q,income,Basic EPS,2026-06-30,0.34
+YESBANK,Q,income,Basic EPS,2026-09-30,0.35
+YESBANK,Q,income,Diluted EPS,2025-06-30,0.26
+YESBANK,Q,income,Diluted EPS,2025-12-31,0.3
+YESBANK,Q,income,Diluted EPS,2026-03-31,0.34
+YESBANK,Q,income,Diluted EPS,2026-06-30,0.34
+YESBANK,Q,income,Diluted EPS,2026-09-30,0.34
+YESBANK,Q,income,Interest Expense,2025-06-30,52349200000.0
+YESBANK,Q,income,Interest Expense,2025-12-31,50930300000.0
+YESBANK,Q,income,Interest Expense,2026-03-31,50297000000.0
+YESBANK,Q,income,Interest Expense,2026-06-30,52690100000.0
+YESBANK,Q,income,Interest Expense,2026-09-30,58297600000.0
+YESBANK,Q,income,Net Income,2025-09-30,6643100000.0
+YESBANK,Q,income,Net Income,2025-12-31,9565500000.0
+YESBANK,Q,income,Net Income,2026-03-31,10821900000.0
+YESBANK,Q,income,Net Income,2026-06-30,10718000000.0
+YESBANK,Q,income,Net Income,2026-09-30,10840800000.0
+YESBANK,Q,income,Net Income Common Stockholders,2025-09-30,6643100000.0
+YESBANK,Q,income,Net Income Common Stockholders,2025-12-31,9565500000.0
+YESBANK,Q,income,Net Income Common Stockholders,2026-03-31,10821900000.0
+YESBANK,Q,income,Net Income Common Stockholders,2026-06-30,10718000000.0
+YESBANK,Q,income,Net Income Common Stockholders,2026-09-30,10840800000.0
+YESBANK,Q,income,Pretax Income,2025-06-30,10846800000.0
+YESBANK,Q,income,Pretax Income,2025-12-31,12181900000.0
+YESBANK,Q,income,Pretax Income,2026-03-31,14494900000.0
+YESBANK,Q,income,Pretax Income,2026-06-30,13110500000.0
+YESBANK,Q,income,Pretax Income,2026-09-30,13660000000.0
+YESBANK,Q,income,Total Revenue,2025-06-30,41942500000.0
+YESBANK,Q,income,Total Revenue,2025-12-31,41792800000.0
+YESBANK,Q,income,Total Revenue,2026-03-31,44484400000.0
+YESBANK,Q,income,Total Revenue,2026-06-30,46559800000.0
+YESBANK,Q,income,Total Revenue,2026-09-30,47722300000.0

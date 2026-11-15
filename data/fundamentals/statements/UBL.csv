@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+UBL,A,balance,Cash And Cash Equivalents,2023-03-31,3298600000.0
+UBL,A,balance,Cash And Cash Equivalents,2024-03-31,1291500000.0
+UBL,A,balance,Cash And Cash Equivalents,2025-03-31,3419200000.0
+UBL,A,balance,Cash And Cash Equivalents,2026-03-31,4600800000.0
+UBL,A,balance,Net Debt,2025-03-31,2329300000.0
+UBL,A,balance,Net Debt,2026-03-31,7151800000.0
+UBL,A,balance,Ordinary Shares Number,2023-03-31,264405149.0
+UBL,A,balance,Ordinary Shares Number,2024-03-31,264405149.0
+UBL,A,balance,Ordinary Shares Number,2025-03-31,264405149.0
+UBL,A,balance,Ordinary Shares Number,2026-03-31,264405149.0
+UBL,A,balance,Stockholders Equity,2023-03-31,39648900000.0
+UBL,A,balance,Stockholders Equity,2024-03-31,41783400000.0
+UBL,A,balance,Stockholders Equity,2025-03-31,43639200000.0
+UBL,A,balance,Stockholders Equity,2026-03-31,45221000000.0
+UBL,A,balance,Total Assets,2023-03-31,62803900000.0
+UBL,A,balance,Total Assets,2024-03-31,70533700000.0
+UBL,A,balance,Total Assets,2025-03-31,82227900000.0
+UBL,A,balance,Total Assets,2026-03-31,96925700000.0
+UBL,A,balance,Total Debt,2023-03-31,156200000.0
+UBL,A,balance,Total Debt,2024-03-31,1020300000.0
+UBL,A,balance,Total Debt,2025-03-31,6199800000.0
+UBL,A,balance,Total Debt,2026-03-31,13165300000.0
+UBL,A,cashflow,Capital Expenditure,2023-03-31,-1562800000.0
+UBL,A,cashflow,Capital Expenditure,2024-03-31,-1915000000.0
+UBL,A,cashflow,Capital Expenditure,2025-03-31,-2583000000.0
+UBL,A,cashflow,Capital Expenditure,2026-03-31,-5117200000.0
+UBL,A,cashflow,Free Cash Flow,2023-03-31,-2758500000.0
+UBL,A,cashflow,Free Cash Flow,2024-03-31,-1220000000.0
+UBL,A,cashflow,Free Cash Flow,2025-03-31,-447600000.0
+UBL,A,cashflow,Free Cash Flow,2026-03-31,-767700000.0
+UBL,A,cashflow,Operating Cash Flow,2023-03-31,-1195700000.0
+UBL,A,cashflow,Operating Cash Flow,2024-03-31,695000000.0
+UBL,A,cashflow,Operating Cash Flow,2025-03-31,2135400000.0
+UBL,A,cashflow,Operating Cash Flow,2026-03-31,4349500000.0
+UBL,A,income,Basic EPS,2023-03-31,11.5
+UBL,A,income,Basic EPS,2024-03-31,15.51
+UBL,A,income,Basic EPS,2025-03-31,16.71
+UBL,A,income,Basic EPS,2026-03-31,15.63
+UBL,A,income,Diluted EPS,2023-03-31,11.5
+UBL,A,income,Diluted EPS,2024-03-31,15.51
+UBL,A,income,Diluted EPS,2025-03-31,16.71
+UBL,A,income,Diluted EPS,2026-03-31,15.63
+UBL,A,income,EBITDA,2023-03-31,6323300000.0
+UBL,A,income,EBITDA,2024-03-31,7697400000.0
+UBL,A,income,EBITDA,2025-03-31,8501700000.0
+UBL,A,income,EBITDA,2026-03-31,9023300000.0
+UBL,A,income,Interest Expense,2023-03-31,44300000.0
+UBL,A,income,Interest Expense,2024-03-31,67000000.0
+UBL,A,income,Interest Expense,2025-03-31,120800000.0
+UBL,A,income,Interest Expense,2026-03-31,680500000.0
+UBL,A,income,Net Income,2023-03-31,3039800000.0
+UBL,A,income,Net Income,2024-03-31,4100300000.0
+UBL,A,income,Net Income,2025-03-31,4416900000.0
+UBL,A,income,Net Income,2026-03-31,4131700000.0
+UBL,A,income,Net Income Common Stockholders,2023-03-31,3039800000.0
+UBL,A,income,Net Income Common Stockholders,2024-03-31,4100300000.0
+UBL,A,income,Net Income Common Stockholders,2025-03-31,4416900000.0
+UBL,A,income,Net Income Common Stockholders,2026-03-31,4131700000.0
+UBL,A,income,Operating Income,2023-03-31,4056800000.0
+UBL,A,income,Operating Income,2024-03-31,4848500000.0
+UBL,A,income,Operating Income,2025-03-31,6081100000.0
+UBL,A,income,Operating Income,2026-03-31,5449800000.0
+UBL,A,income,Pretax Income,2023-03-31,4173100000.0
+UBL,A,income,Pretax Income,2024-03-31,5511400000.0
+UBL,A,income,Pretax Income,2025-03-31,6051100000.0
+UBL,A,income,Pretax Income,2026-03-31,5622900000.0
+UBL,A,income,Total Revenue,2023-03-31,73306000000.0
+UBL,A,income,Total Revenue,2024-03-31,78764900000.0
+UBL,A,income,Total Revenue,2025-03-31,85930800000.0
+UBL,A,income,Total Revenue,2026-03-31,88793500000.0
+UBL,Q,income,Basic EPS,2025-06-30,6.95
+UBL,Q,income,Basic EPS,2025-12-31,3.06
+UBL,Q,income,Basic EPS,2026-03-31,3.85
+UBL,Q,income,Basic EPS,2026-06-30,6.29
+UBL,Q,income,Basic EPS,2026-09-30,5.12
+UBL,Q,income,Diluted EPS,2025-06-30,6.95
+UBL,Q,income,Diluted EPS,2025-12-31,3.06
+UBL,Q,income,Diluted EPS,2026-03-31,3.85
+UBL,Q,income,Diluted EPS,2026-06-30,6.29
+UBL,Q,income,Diluted EPS,2026-09-30,5.12
+UBL,Q,income,EBITDA,2025-06-30,3219800000.0
+UBL,Q,income,EBITDA,2025-12-31,2181100000.0
+UBL,Q,income,EBITDA,2026-03-31,2213700000.0
+UBL,Q,income,EBITDA,2026-06-30,3333100000.0
+UBL,Q,income,EBITDA,2026-09-30,3002300000.0
+UBL,Q,income,Interest Expense,2025-06-30,111700000.0
+UBL,Q,income,Interest Expense,2025-12-31,168600000.0
+UBL,Q,income,Interest Expense,2026-03-31,290400000.0
+UBL,Q,income,Interest Expense,2026-06-30,230400000.0
+UBL,Q,income,Interest Expense,2026-09-30,283100000.0
+UBL,Q,income,Net Income,2025-06-30,1838700000.0
+UBL,Q,income,Net Income,2025-12-31,810000000.0
+UBL,Q,income,Net Income,2026-03-31,1017800000.0
+UBL,Q,income,Net Income,2026-06-30,1663300000.0
+UBL,Q,income,Net Income,2026-09-30,1353100000.0
+UBL,Q,income,Net Income Common Stockholders,2025-06-30,1838700000.0
+UBL,Q,income,Net Income Common Stockholders,2025-12-31,810000000.0
+UBL,Q,income,Net Income Common Stockholders,2026-03-31,1017800000.0
+UBL,Q,income,Net Income Common Stockholders,2026-06-30,1663300000.0
+UBL,Q,income,Net Income Common Stockholders,2026-09-30,1353100000.0
+UBL,Q,income,Operating Income,2025-06-30,2479800000.0
+UBL,Q,income,Operating Income,2025-12-31,1567900000.0
+UBL,Q,income,Operating Income,2026-03-31,631700000.0
+UBL,Q,income,Operating Income,2026-06-30,1968200000.0
+UBL,Q,income,Operating Income,2026-09-30,1696600000.0
+UBL,Q,income,Pretax Income,2025-06-30,2478800000.0
+UBL,Q,income,Pretax Income,2025-12-31,1322900000.0
+UBL,Q,income,Pretax Income,2026-03-31,1163200000.0
+UBL,Q,income,Pretax Income,2026-06-30,2244900000.0
+UBL,Q,income,Pretax Income,2026-09-30,1826700000.0
+UBL,Q,income,Total Revenue,2025-06-30,28643200000.0
+UBL,Q,income,Total Revenue,2025-12-31,20727200000.0
+UBL,Q,income,Total Revenue,2026-03-31,22500700000.0
+UBL,Q,income,Total Revenue,2026-06-30,30668600000.0
+UBL,Q,income,Total Revenue,2026-09-30,25374000000.0

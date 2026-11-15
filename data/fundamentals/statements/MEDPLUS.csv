@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+MEDPLUS,A,balance,Cash And Cash Equivalents,2023-03-31,2283750000.0
+MEDPLUS,A,balance,Cash And Cash Equivalents,2024-03-31,912090000.0
+MEDPLUS,A,balance,Cash And Cash Equivalents,2025-03-31,860520000.0
+MEDPLUS,A,balance,Cash And Cash Equivalents,2026-03-31,1984120000.0
+MEDPLUS,A,balance,Net Debt,2022-03-31,1212270000.0
+MEDPLUS,A,balance,Ordinary Shares Number,2023-03-31,119077714.0
+MEDPLUS,A,balance,Ordinary Shares Number,2024-03-31,119418586.0
+MEDPLUS,A,balance,Ordinary Shares Number,2025-03-31,119638946.0
+MEDPLUS,A,balance,Ordinary Shares Number,2026-03-31,120003381.0
+MEDPLUS,A,balance,Stockholders Equity,2023-03-31,14911780000.0
+MEDPLUS,A,balance,Stockholders Equity,2024-03-31,15779320000.0
+MEDPLUS,A,balance,Stockholders Equity,2025-03-31,17405610000.0
+MEDPLUS,A,balance,Stockholders Equity,2026-03-31,19753590000.0
+MEDPLUS,A,balance,Total Assets,2023-03-31,27967180000.0
+MEDPLUS,A,balance,Total Assets,2024-03-31,30048010000.0
+MEDPLUS,A,balance,Total Assets,2025-03-31,33600950000.0
+MEDPLUS,A,balance,Total Assets,2026-03-31,39325260000.0
+MEDPLUS,A,balance,Total Debt,2023-03-31,8999240000.0
+MEDPLUS,A,balance,Total Debt,2024-03-31,10095690000.0
+MEDPLUS,A,balance,Total Debt,2025-03-31,11198020000.0
+MEDPLUS,A,balance,Total Debt,2026-03-31,14243830000.0
+MEDPLUS,A,cashflow,Capital Expenditure,2023-03-31,-1690050000.0
+MEDPLUS,A,cashflow,Capital Expenditure,2024-03-31,-843990000.0
+MEDPLUS,A,cashflow,Capital Expenditure,2025-03-31,-594500000.0
+MEDPLUS,A,cashflow,Capital Expenditure,2026-03-31,-1230300000.0
+MEDPLUS,A,cashflow,Free Cash Flow,2023-03-31,-785970000.0
+MEDPLUS,A,cashflow,Free Cash Flow,2024-03-31,593380000.0
+MEDPLUS,A,cashflow,Free Cash Flow,2025-03-31,4809790000.0
+MEDPLUS,A,cashflow,Free Cash Flow,2026-03-31,3725510000.0
+MEDPLUS,A,cashflow,Operating Cash Flow,2023-03-31,904080000.0
+MEDPLUS,A,cashflow,Operating Cash Flow,2024-03-31,1437370000.0
+MEDPLUS,A,cashflow,Operating Cash Flow,2025-03-31,5404290000.0
+MEDPLUS,A,cashflow,Operating Cash Flow,2026-03-31,4955810000.0
+MEDPLUS,A,income,Basic EPS,2023-03-31,4.17
+MEDPLUS,A,income,Basic EPS,2024-03-31,5.48
+MEDPLUS,A,income,Basic EPS,2025-03-31,12.57
+MEDPLUS,A,income,Basic EPS,2026-03-31,18.33
+MEDPLUS,A,income,Diluted EPS,2023-03-31,4.17
+MEDPLUS,A,income,Diluted EPS,2024-03-31,5.45
+MEDPLUS,A,income,Diluted EPS,2025-03-31,12.52
+MEDPLUS,A,income,Diluted EPS,2026-03-31,18.29
+MEDPLUS,A,income,EBITDA,2023-03-31,3122250000.0
+MEDPLUS,A,income,EBITDA,2024-03-31,3940900000.0
+MEDPLUS,A,income,EBITDA,2025-03-31,5357180000.0
+MEDPLUS,A,income,EBITDA,2026-03-31,6786910000.0
+MEDPLUS,A,income,Interest Expense,2023-03-31,830270000.0
+MEDPLUS,A,income,Interest Expense,2024-03-31,964330000.0
+MEDPLUS,A,income,Interest Expense,2025-03-31,1025860000.0
+MEDPLUS,A,income,Interest Expense,2026-03-31,1204930000.0
+MEDPLUS,A,income,Net Income,2023-03-31,497630000.0
+MEDPLUS,A,income,Net Income,2024-03-31,654730000.0
+MEDPLUS,A,income,Net Income,2025-03-31,1503220000.0
+MEDPLUS,A,income,Net Income,2026-03-31,2196490000.0
+MEDPLUS,A,income,Net Income Common Stockholders,2023-03-31,497630000.0
+MEDPLUS,A,income,Net Income Common Stockholders,2024-03-31,654730000.0
+MEDPLUS,A,income,Net Income Common Stockholders,2025-03-31,1503220000.0
+MEDPLUS,A,income,Net Income Common Stockholders,2026-03-31,2196490000.0
+MEDPLUS,A,income,Operating Income,2023-03-31,873320000.0
+MEDPLUS,A,income,Operating Income,2024-03-31,1315350000.0
+MEDPLUS,A,income,Operating Income,2025-03-31,2548820000.0
+MEDPLUS,A,income,Operating Income,2026-03-31,3426730000.0
+MEDPLUS,A,income,Pretax Income,2023-03-31,471630000.0
+MEDPLUS,A,income,Pretax Income,2024-03-31,734430000.0
+MEDPLUS,A,income,Pretax Income,2025-03-31,1832890000.0
+MEDPLUS,A,income,Pretax Income,2026-03-31,2753300000.0
+MEDPLUS,A,income,Total Revenue,2023-03-31,45286800000.0
+MEDPLUS,A,income,Total Revenue,2024-03-31,55735420000.0
+MEDPLUS,A,income,Total Revenue,2025-03-31,60874640000.0
+MEDPLUS,A,income,Total Revenue,2026-03-31,68353310000.0
+MEDPLUS,Q,income,Basic EPS,2025-06-30,3.54
+MEDPLUS,Q,income,Basic EPS,2025-12-31,4.82
+MEDPLUS,Q,income,Basic EPS,2026-03-31,5.33
+MEDPLUS,Q,income,Basic EPS,2026-06-30,2.76
+MEDPLUS,Q,income,Basic EPS,2026-09-30,4.73
+MEDPLUS,Q,income,Diluted EPS,2025-06-30,3.53
+MEDPLUS,Q,income,Diluted EPS,2025-12-31,4.81
+MEDPLUS,Q,income,Diluted EPS,2026-03-31,5.33
+MEDPLUS,Q,income,Diluted EPS,2026-06-30,2.76
+MEDPLUS,Q,income,Diluted EPS,2026-09-30,4.72
+MEDPLUS,Q,income,EBITDA,2025-06-30,1457490000.0
+MEDPLUS,Q,income,EBITDA,2025-12-31,1768570000.0
+MEDPLUS,Q,income,EBITDA,2026-03-31,1897690000.0
+MEDPLUS,Q,income,EBITDA,2026-06-30,1530680000.0
+MEDPLUS,Q,income,EBITDA,2026-09-30,1905980000.0
+MEDPLUS,Q,income,Interest Expense,2025-06-30,273650000.0
+MEDPLUS,Q,income,Interest Expense,2025-12-31,308290000.0
+MEDPLUS,Q,income,Interest Expense,2026-03-31,334800000.0
+MEDPLUS,Q,income,Interest Expense,2026-06-30,332700000.0
+MEDPLUS,Q,income,Interest Expense,2026-09-30,366180000.0
+MEDPLUS,Q,income,Net Income,2025-06-30,423580000.0
+MEDPLUS,Q,income,Net Income,2025-12-31,578070000.0
+MEDPLUS,Q,income,Net Income,2026-03-31,639830000.0
+MEDPLUS,Q,income,Net Income,2026-06-30,331760000.0
+MEDPLUS,Q,income,Net Income,2026-09-30,560750000.0
+MEDPLUS,Q,income,Net Income Common Stockholders,2025-06-30,423580000.0
+MEDPLUS,Q,income,Net Income Common Stockholders,2025-12-31,578070000.0
+MEDPLUS,Q,income,Net Income Common Stockholders,2026-03-31,639830000.0
+MEDPLUS,Q,income,Net Income Common Stockholders,2026-06-30,331760000.0
+MEDPLUS,Q,income,Net Income Common Stockholders,2026-09-30,560750000.0
+MEDPLUS,Q,income,Operating Income,2025-06-30,651120000.0
+MEDPLUS,Q,income,Operating Income,2025-12-31,858750000.0
+MEDPLUS,Q,income,Operating Income,2026-03-31,932270000.0
+MEDPLUS,Q,income,Operating Income,2026-06-30,553210000.0
+MEDPLUS,Q,income,Operating Income,2026-09-30,862220000.0
+MEDPLUS,Q,income,Pretax Income,2025-06-30,527660000.0
+MEDPLUS,Q,income,Pretax Income,2025-12-31,732870000.0
+MEDPLUS,Q,income,Pretax Income,2026-03-31,803420000.0
+MEDPLUS,Q,income,Pretax Income,2026-06-30,418770000.0
+MEDPLUS,Q,income,Pretax Income,2026-09-30,701470000.0
+MEDPLUS,Q,income,Total Revenue,2025-06-30,15426340000.0
+MEDPLUS,Q,income,Total Revenue,2025-12-31,18061180000.0
+MEDPLUS,Q,income,Total Revenue,2026-03-31,18643850000.0
+MEDPLUS,Q,income,Total Revenue,2026-06-30,18796000000.0
+MEDPLUS,Q,income,Total Revenue,2026-09-30,20371080000.0

@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+LTF,A,balance,Cash And Cash Equivalents,2023-03-31,89040700000.0
+LTF,A,balance,Cash And Cash Equivalents,2024-03-31,36478600000.0
+LTF,A,balance,Cash And Cash Equivalents,2025-03-31,60418000000.0
+LTF,A,balance,Cash And Cash Equivalents,2026-03-31,58776300000.0
+LTF,A,balance,Net Debt,2023-03-31,741393800000.0
+LTF,A,balance,Net Debt,2024-03-31,728930100000.0
+LTF,A,balance,Net Debt,2025-03-31,862051000000.0
+LTF,A,balance,Net Debt,2026-03-31,1040100600000.0
+LTF,A,balance,Ordinary Shares Number,2023-03-31,2479671117.0
+LTF,A,balance,Ordinary Shares Number,2024-03-31,2488940310.0
+LTF,A,balance,Ordinary Shares Number,2025-03-31,2494868101.0
+LTF,A,balance,Ordinary Shares Number,2026-03-31,2504386016.0
+LTF,A,balance,Stockholders Equity,2023-03-31,215283700000.0
+LTF,A,balance,Stockholders Equity,2024-03-31,234384400000.0
+LTF,A,balance,Stockholders Equity,2025-03-31,255640600000.0
+LTF,A,balance,Stockholders Equity,2026-03-31,279835300000.0
+LTF,A,balance,Total Assets,2023-03-31,1063621400000.0
+LTF,A,balance,Total Assets,2024-03-31,1027175500000.0
+LTF,A,balance,Total Assets,2025-03-31,1204093600000.0
+LTF,A,balance,Total Assets,2026-03-31,1422053100000.0
+LTF,A,balance,Total Debt,2023-03-31,831049000000.0
+LTF,A,balance,Total Debt,2024-03-31,766034500000.0
+LTF,A,balance,Total Debt,2025-03-31,923724400000.0
+LTF,A,balance,Total Debt,2026-03-31,1102976600000.0
+LTF,A,cashflow,Capital Expenditure,2023-03-31,-1279200000.0
+LTF,A,cashflow,Capital Expenditure,2024-03-31,-1187600000.0
+LTF,A,cashflow,Capital Expenditure,2025-03-31,-1952800000.0
+LTF,A,cashflow,Capital Expenditure,2026-03-31,-2394600000.0
+LTF,A,cashflow,Free Cash Flow,2023-03-31,65903300000.0
+LTF,A,cashflow,Free Cash Flow,2024-03-31,5668800000.0
+LTF,A,cashflow,Free Cash Flow,2025-03-31,-167827500000.0
+LTF,A,cashflow,Free Cash Flow,2026-03-31,-144287000000.0
+LTF,A,cashflow,Operating Cash Flow,2023-03-31,67182500000.0
+LTF,A,cashflow,Operating Cash Flow,2024-03-31,6856400000.0
+LTF,A,cashflow,Operating Cash Flow,2025-03-31,-165874700000.0
+LTF,A,cashflow,Operating Cash Flow,2026-03-31,-141892400000.0
+LTF,A,income,Basic EPS,2023-03-31,6.56
+LTF,A,income,Basic EPS,2024-03-31,9.34
+LTF,A,income,Basic EPS,2025-03-31,10.61
+LTF,A,income,Basic EPS,2026-03-31,11.92
+LTF,A,income,Diluted EPS,2023-03-31,6.54
+LTF,A,income,Diluted EPS,2024-03-31,9.3
+LTF,A,income,Diluted EPS,2025-03-31,10.57
+LTF,A,income,Diluted EPS,2026-03-31,11.88
+LTF,A,income,Interest Expense,2023-03-31,57972400000.0
+LTF,A,income,Interest Expense,2024-03-31,53771900000.0
+LTF,A,income,Interest Expense,2025-03-31,59967600000.0
+LTF,A,income,Interest Expense,2026-03-31,67200800000.0
+LTF,A,income,Net Income,2023-03-31,16232500000.0
+LTF,A,income,Net Income,2024-03-31,23201000000.0
+LTF,A,income,Net Income,2025-03-31,26436600000.0
+LTF,A,income,Net Income,2026-03-31,29811800000.0
+LTF,A,income,Net Income Common Stockholders,2023-03-31,16232500000.0
+LTF,A,income,Net Income Common Stockholders,2024-03-31,23201000000.0
+LTF,A,income,Net Income Common Stockholders,2025-03-31,26436600000.0
+LTF,A,income,Net Income Common Stockholders,2026-03-31,29811800000.0
+LTF,A,income,Pretax Income,2023-03-31,-5565200000.0
+LTF,A,income,Pretax Income,2024-03-31,30290300000.0
+LTF,A,income,Pretax Income,2025-03-31,34912600000.0
+LTF,A,income,Pretax Income,2026-03-31,39981700000.0
+LTF,A,income,Total Revenue,2023-03-31,65212600000.0
+LTF,A,income,Total Revenue,2024-03-31,78592600000.0
+LTF,A,income,Total Revenue,2025-03-31,96691800000.0
+LTF,A,income,Total Revenue,2026-03-31,106351800000.0
+LTF,Q,income,Basic EPS,2025-06-30,2.81
+LTF,Q,income,Basic EPS,2025-12-31,2.95
+LTF,Q,income,Basic EPS,2026-03-31,3.22
+LTF,Q,income,Basic EPS,2026-06-30,3.6
+LTF,Q,income,Basic EPS,2026-09-30,3.89
+LTF,Q,income,Diluted EPS,2025-06-30,2.8
+LTF,Q,income,Diluted EPS,2025-12-31,2.94
+LTF,Q,income,Diluted EPS,2026-03-31,3.21
+LTF,Q,income,Diluted EPS,2026-06-30,3.59
+LTF,Q,income,Diluted EPS,2026-09-30,3.88
+LTF,Q,income,Interest Expense,2025-06-30,16357400000.0
+LTF,Q,income,Interest Expense,2025-12-31,17030200000.0
+LTF,Q,income,Interest Expense,2026-03-31,17470300000.0
+LTF,Q,income,Interest Expense,2026-06-30,19700700000.0
+LTF,Q,income,Interest Expense,2026-09-30,19704700000.0
+LTF,Q,income,Net Income,2025-06-30,7011000000.0
+LTF,Q,income,Net Income,2025-12-31,7386100000.0
+LTF,Q,income,Net Income,2026-03-31,8066300000.0
+LTF,Q,income,Net Income,2026-06-30,9024700000.0
+LTF,Q,income,Net Income,2026-09-30,9751000000.0
+LTF,Q,income,Net Income Common Stockholders,2025-06-30,7011000000.0
+LTF,Q,income,Net Income Common Stockholders,2025-12-31,7386100000.0
+LTF,Q,income,Net Income Common Stockholders,2026-03-31,8066300000.0
+LTF,Q,income,Net Income Common Stockholders,2026-06-30,9024700000.0
+LTF,Q,income,Net Income Common Stockholders,2026-09-30,9751000000.0
+LTF,Q,income,Pretax Income,2025-06-30,9432200000.0
+LTF,Q,income,Pretax Income,2025-12-31,9921700000.0
+LTF,Q,income,Pretax Income,2026-03-31,10739200000.0
+LTF,Q,income,Pretax Income,2026-06-30,12362800000.0
+LTF,Q,income,Pretax Income,2026-09-30,13188400000.0
+LTF,Q,income,Total Revenue,2025-06-30,25341200000.0
+LTF,Q,income,Total Revenue,2025-12-31,27172300000.0
+LTF,Q,income,Total Revenue,2026-03-31,28213900000.0
+LTF,Q,income,Total Revenue,2026-06-30,30857400000.0
+LTF,Q,income,Total Revenue,2026-09-30,33150400000.0

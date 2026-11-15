@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SFL,A,balance,Cash And Cash Equivalents,2023-03-31,422700000.0
+SFL,A,balance,Cash And Cash Equivalents,2024-03-31,440200000.0
+SFL,A,balance,Cash And Cash Equivalents,2025-03-31,412500000.0
+SFL,A,balance,Cash And Cash Equivalents,2026-03-31,331200000.0
+SFL,A,balance,Net Debt,2023-03-31,4253600000.0
+SFL,A,balance,Net Debt,2024-03-31,12373100000.0
+SFL,A,balance,Net Debt,2025-03-31,11752400000.0
+SFL,A,balance,Net Debt,2026-03-31,6806500000.0
+SFL,A,balance,Ordinary Shares Number,2023-03-31,97565616.0
+SFL,A,balance,Ordinary Shares Number,2024-03-31,108697341.0
+SFL,A,balance,Ordinary Shares Number,2025-03-31,108705996.0
+SFL,A,balance,Ordinary Shares Number,2026-03-31,108710778.0
+SFL,A,balance,Stockholders Equity,2023-03-31,15981800000.0
+SFL,A,balance,Stockholders Equity,2024-03-31,29201900000.0
+SFL,A,balance,Stockholders Equity,2025-03-31,30166600000.0
+SFL,A,balance,Stockholders Equity,2026-03-31,32519600000.0
+SFL,A,balance,Total Assets,2023-03-31,27090600000.0
+SFL,A,balance,Total Assets,2024-03-31,53395400000.0
+SFL,A,balance,Total Assets,2025-03-31,53675900000.0
+SFL,A,balance,Total Assets,2026-03-31,51167700000.0
+SFL,A,balance,Total Debt,2023-03-31,5711000000.0
+SFL,A,balance,Total Debt,2024-03-31,14931100000.0
+SFL,A,balance,Total Debt,2025-03-31,14623500000.0
+SFL,A,balance,Total Debt,2026-03-31,9079800000.0
+SFL,A,cashflow,Capital Expenditure,2023-03-31,-2116200000.0
+SFL,A,cashflow,Capital Expenditure,2024-03-31,-23485700000.0
+SFL,A,cashflow,Capital Expenditure,2025-03-31,-1463300000.0
+SFL,A,cashflow,Capital Expenditure,2026-03-31,-1370600000.0
+SFL,A,cashflow,Free Cash Flow,2023-03-31,59400000.0
+SFL,A,cashflow,Free Cash Flow,2024-03-31,-19426200000.0
+SFL,A,cashflow,Free Cash Flow,2025-03-31,1010600000.0
+SFL,A,cashflow,Free Cash Flow,2026-03-31,2722600000.0
+SFL,A,cashflow,Operating Cash Flow,2023-03-31,2175600000.0
+SFL,A,cashflow,Operating Cash Flow,2024-03-31,4059500000.0
+SFL,A,cashflow,Operating Cash Flow,2025-03-31,2473900000.0
+SFL,A,cashflow,Operating Cash Flow,2026-03-31,4093200000.0
+SFL,A,income,Basic EPS,2023-03-31,20.39
+SFL,A,income,Basic EPS,2024-03-31,17.66
+SFL,A,income,Basic EPS,2025-03-31,8.18
+SFL,A,income,Basic EPS,2026-03-31,14.62
+SFL,A,income,Diluted EPS,2023-03-31,20.39
+SFL,A,income,Diluted EPS,2024-03-31,17.66
+SFL,A,income,Diluted EPS,2025-03-31,8.17
+SFL,A,income,Diluted EPS,2026-03-31,14.59
+SFL,A,income,EBITDA,2023-03-31,3829100000.0
+SFL,A,income,EBITDA,2024-03-31,4395200000.0
+SFL,A,income,EBITDA,2025-03-31,4050300000.0
+SFL,A,income,EBITDA,2026-03-31,4543000000.0
+SFL,A,income,Interest Expense,2023-03-31,202000000.0
+SFL,A,income,Interest Expense,2024-03-31,678000000.0
+SFL,A,income,Interest Expense,2025-03-31,1190900000.0
+SFL,A,income,Interest Expense,2026-03-31,938800000.0
+SFL,A,income,Net Income,2023-03-31,1989300000.0
+SFL,A,income,Net Income,2024-03-31,1824400000.0
+SFL,A,income,Net Income,2025-03-31,893500000.0
+SFL,A,income,Net Income,2026-03-31,1596100000.0
+SFL,A,income,Net Income Common Stockholders,2023-03-31,1989300000.0
+SFL,A,income,Net Income Common Stockholders,2024-03-31,1824400000.0
+SFL,A,income,Net Income Common Stockholders,2025-03-31,893500000.0
+SFL,A,income,Net Income Common Stockholders,2026-03-31,1596100000.0
+SFL,A,income,Operating Income,2023-03-31,2376600000.0
+SFL,A,income,Operating Income,2024-03-31,2066100000.0
+SFL,A,income,Operating Income,2025-03-31,845100000.0
+SFL,A,income,Operating Income,2026-03-31,2449700000.0
+SFL,A,income,Pretax Income,2023-03-31,2730900000.0
+SFL,A,income,Pretax Income,2024-03-31,2559300000.0
+SFL,A,income,Pretax Income,2025-03-31,1033300000.0
+SFL,A,income,Pretax Income,2026-03-31,1818400000.0
+SFL,A,income,Total Revenue,2023-03-31,28683600000.0
+SFL,A,income,Total Revenue,2024-03-31,29780400000.0
+SFL,A,income,Total Revenue,2025-03-31,34246900000.0
+SFL,A,income,Total Revenue,2026-03-31,38129300000.0
+SFL,Q,income,Basic EPS,2025-06-30,0.6
+SFL,Q,income,Basic EPS,2025-12-31,4.77
+SFL,Q,income,Basic EPS,2026-03-31,8.36
+SFL,Q,income,Basic EPS,2026-06-30,5.63
+SFL,Q,income,Basic EPS,2026-09-30,4.24
+SFL,Q,income,Diluted EPS,2025-06-30,0.6
+SFL,Q,income,Diluted EPS,2025-12-31,4.76
+SFL,Q,income,Diluted EPS,2026-03-31,8.34
+SFL,Q,income,Diluted EPS,2026-06-30,5.62
+SFL,Q,income,Diluted EPS,2026-09-30,4.23
+SFL,Q,income,EBITDA,2025-06-30,849700000.0
+SFL,Q,income,EBITDA,2025-12-31,1300500000.0
+SFL,Q,income,EBITDA,2026-03-31,1507300000.0
+SFL,Q,income,EBITDA,2026-06-30,1312900000.0
+SFL,Q,income,EBITDA,2026-09-30,1049500000.0
+SFL,Q,income,Interest Expense,2025-06-30,291700000.0
+SFL,Q,income,Interest Expense,2025-12-31,170300000.0
+SFL,Q,income,Interest Expense,2026-03-31,208800000.0
+SFL,Q,income,Interest Expense,2026-06-30,178200000.0
+SFL,Q,income,Interest Expense,2026-09-30,174800000.0
+SFL,Q,income,Net Income,2025-06-30,65400000.0
+SFL,Q,income,Net Income,2025-12-31,521300000.0
+SFL,Q,income,Net Income,2026-03-31,912800000.0
+SFL,Q,income,Net Income,2026-06-30,614400000.0
+SFL,Q,income,Net Income,2026-09-30,462900000.0
+SFL,Q,income,Net Income Common Stockholders,2025-06-30,65400000.0
+SFL,Q,income,Net Income Common Stockholders,2025-12-31,521300000.0
+SFL,Q,income,Net Income Common Stockholders,2026-03-31,912800000.0
+SFL,Q,income,Net Income Common Stockholders,2026-06-30,614400000.0
+SFL,Q,income,Net Income Common Stockholders,2026-09-30,462900000.0
+SFL,Q,income,Operating Income,2025-06-30,293300000.0
+SFL,Q,income,Operating Income,2025-12-31,670500000.0
+SFL,Q,income,Operating Income,2026-03-31,810200000.0
+SFL,Q,income,Operating Income,2026-06-30,750200000.0
+SFL,Q,income,Operating Income,2026-09-30,490300000.0
+SFL,Q,income,Pretax Income,2025-06-30,96800000.0
+SFL,Q,income,Pretax Income,2025-12-31,656800000.0
+SFL,Q,income,Pretax Income,2026-03-31,942500000.0
+SFL,Q,income,Pretax Income,2026-06-30,795900000.0
+SFL,Q,income,Pretax Income,2026-09-30,533200000.0
+SFL,Q,income,Total Revenue,2025-06-30,8214100000.0
+SFL,Q,income,Total Revenue,2025-12-31,10744300000.0
+SFL,Q,income,Total Revenue,2026-03-31,10500600000.0
+SFL,Q,income,Total Revenue,2026-06-30,10319400000.0
+SFL,Q,income,Total Revenue,2026-09-30,10450300000.0

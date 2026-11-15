@@ -1,0 +1,111 @@
+symbol,freq,statement,item,period_end,value
+KISSHT,A,balance,Cash And Cash Equivalents,2023-03-31,5699680000.0
+KISSHT,A,balance,Cash And Cash Equivalents,2024-03-31,2850370000.0
+KISSHT,A,balance,Cash And Cash Equivalents,2025-03-31,1327230000.0
+KISSHT,A,balance,Cash And Cash Equivalents,2026-03-31,2094560000.0
+KISSHT,A,balance,Net Debt,2024-03-31,4992590000.0
+KISSHT,A,balance,Net Debt,2025-03-31,13748580000.0
+KISSHT,A,balance,Net Debt,2026-03-31,21866460000.0
+KISSHT,A,balance,Ordinary Shares Number,2023-03-31,168483022.0
+KISSHT,A,balance,Ordinary Shares Number,2024-03-31,168483022.0
+KISSHT,A,balance,Ordinary Shares Number,2025-03-31,168483022.0
+KISSHT,A,balance,Ordinary Shares Number,2026-03-31,168483022.0
+KISSHT,A,balance,Stockholders Equity,2023-03-31,5662340000.0
+KISSHT,A,balance,Stockholders Equity,2024-03-31,8045690000.0
+KISSHT,A,balance,Stockholders Equity,2025-03-31,10059940000.0
+KISSHT,A,balance,Stockholders Equity,2026-03-31,13427840000.0
+KISSHT,A,balance,Total Assets,2023-03-31,12752000000.0
+KISSHT,A,balance,Total Assets,2024-03-31,17965250000.0
+KISSHT,A,balance,Total Assets,2025-03-31,27011040000.0
+KISSHT,A,balance,Total Assets,2026-03-31,39885720000.0
+KISSHT,A,balance,Total Debt,2023-03-31,4435020000.0
+KISSHT,A,balance,Total Debt,2024-03-31,8360540000.0
+KISSHT,A,balance,Total Debt,2025-03-31,15563530000.0
+KISSHT,A,balance,Total Debt,2026-03-31,24291280000.0
+KISSHT,A,cashflow,Capital Expenditure,2023-03-31,-91050000.0
+KISSHT,A,cashflow,Capital Expenditure,2024-03-31,-30420000.0
+KISSHT,A,cashflow,Capital Expenditure,2025-03-31,-77460000.0
+KISSHT,A,cashflow,Capital Expenditure,2026-03-31,-102370000.0
+KISSHT,A,cashflow,Free Cash Flow,2023-03-31,1023730000.0
+KISSHT,A,cashflow,Free Cash Flow,2024-03-31,-6404750000.0
+KISSHT,A,cashflow,Free Cash Flow,2025-03-31,-6691720000.0
+KISSHT,A,cashflow,Free Cash Flow,2026-03-31,-4710580000.0
+KISSHT,A,cashflow,Operating Cash Flow,2023-03-31,1114780000.0
+KISSHT,A,cashflow,Operating Cash Flow,2024-03-31,-6374330000.0
+KISSHT,A,cashflow,Operating Cash Flow,2025-03-31,-6614260000.0
+KISSHT,A,cashflow,Operating Cash Flow,2026-03-31,-4608210000.0
+KISSHT,A,income,Basic EPS,2023-03-31,1.642124
+KISSHT,A,income,Basic EPS,2024-03-31,11.709785
+KISSHT,A,income,Basic EPS,2025-03-31,9.533364
+KISSHT,A,income,Basic EPS,2026-03-31,16.705066
+KISSHT,A,income,Diluted EPS,2023-03-31,1.642124
+KISSHT,A,income,Diluted EPS,2024-03-31,11.709785
+KISSHT,A,income,Diluted EPS,2025-03-31,9.533364
+KISSHT,A,income,Diluted EPS,2026-03-31,16.705066
+KISSHT,A,income,EBITDA,2023-03-31,634610000.0
+KISSHT,A,income,EBITDA,2024-03-31,3160500000.0
+KISSHT,A,income,EBITDA,2025-03-31,3007530000.0
+KISSHT,A,income,EBITDA,2026-03-31,5273280000.0
+KISSHT,A,income,Interest Expense,2023-03-31,216520000.0
+KISSHT,A,income,Interest Expense,2024-03-31,262050000.0
+KISSHT,A,income,Interest Expense,2025-03-31,617870000.0
+KISSHT,A,income,Interest Expense,2026-03-31,1290270000.0
+KISSHT,A,income,Net Income,2023-03-31,276670000.0
+KISSHT,A,income,Net Income,2024-03-31,1972900000.0
+KISSHT,A,income,Net Income,2025-03-31,1606210000.0
+KISSHT,A,income,Net Income,2026-03-31,2814520000.0
+KISSHT,A,income,Net Income Common Stockholders,2023-03-31,276670000.0
+KISSHT,A,income,Net Income Common Stockholders,2024-03-31,1972900000.0
+KISSHT,A,income,Net Income Common Stockholders,2025-03-31,1606210000.0
+KISSHT,A,income,Net Income Common Stockholders,2026-03-31,2814520000.0
+KISSHT,A,income,Operating Income,2023-03-31,3100760000.0
+KISSHT,A,income,Operating Income,2024-03-31,6399320000.0
+KISSHT,A,income,Operating Income,2025-03-31,7349790000.0
+KISSHT,A,income,Operating Income,2026-03-31,9359340000.0
+KISSHT,A,income,Pretax Income,2023-03-31,239530000.0
+KISSHT,A,income,Pretax Income,2024-03-31,2674410000.0
+KISSHT,A,income,Pretax Income,2025-03-31,2162640000.0
+KISSHT,A,income,Pretax Income,2026-03-31,3766840000.0
+KISSHT,A,income,Total Revenue,2023-03-31,9844570000.0
+KISSHT,A,income,Total Revenue,2024-03-31,16744460000.0
+KISSHT,A,income,Total Revenue,2025-03-31,13374650000.0
+KISSHT,A,income,Total Revenue,2026-03-31,21792460000.0
+KISSHT,Q,income,Basic EPS,2025-06-30,3.54558
+KISSHT,Q,income,Basic EPS,2025-09-30,3.706011
+KISSHT,Q,income,Basic EPS,2026-06-30,6.41
+KISSHT,Q,income,Basic EPS,2026-09-30,7.28
+KISSHT,Q,income,Diluted EPS,2025-06-30,3.54558
+KISSHT,Q,income,Diluted EPS,2025-09-30,3.706011
+KISSHT,Q,income,Diluted EPS,2026-06-30,5.88
+KISSHT,Q,income,Diluted EPS,2026-09-30,7.12
+KISSHT,Q,income,EBITDA,2025-09-30,2043600000.0
+KISSHT,Q,income,EBITDA,2025-12-31,-103750000.0
+KISSHT,Q,income,EBITDA,2026-03-31,1560330000.0
+KISSHT,Q,income,EBITDA,2026-06-30,2535620000.0
+KISSHT,Q,income,EBITDA,2026-09-30,2837600000.0
+KISSHT,Q,income,Interest Expense,2026-03-31,404400000.0
+KISSHT,Q,income,Net Income,2025-09-30,624400000.0
+KISSHT,Q,income,Net Income,2025-12-31,770890000.0
+KISSHT,Q,income,Net Income,2026-03-31,821830000.0
+KISSHT,Q,income,Net Income,2026-06-30,950770000.0
+KISSHT,Q,income,Net Income,2026-09-30,1251200000.0
+KISSHT,Q,income,Net Income Common Stockholders,2025-09-30,624400000.0
+KISSHT,Q,income,Net Income Common Stockholders,2025-12-31,770890000.0
+KISSHT,Q,income,Net Income Common Stockholders,2026-03-31,821830000.0
+KISSHT,Q,income,Net Income Common Stockholders,2026-06-30,950770000.0
+KISSHT,Q,income,Net Income Common Stockholders,2026-09-30,1251200000.0
+KISSHT,Q,income,Operating Income,2025-09-30,1935800000.0
+KISSHT,Q,income,Operating Income,2025-12-31,2936100000.0
+KISSHT,Q,income,Operating Income,2026-03-31,2714340000.0
+KISSHT,Q,income,Operating Income,2026-06-30,2487400000.0
+KISSHT,Q,income,Operating Income,2026-09-30,2788300000.0
+KISSHT,Q,income,Pretax Income,2025-09-30,830000000.0
+KISSHT,Q,income,Pretax Income,2025-12-31,1036920000.0
+KISSHT,Q,income,Pretax Income,2026-03-31,1102420000.0
+KISSHT,Q,income,Pretax Income,2026-06-30,1277010000.0
+KISSHT,Q,income,Pretax Income,2026-09-30,1542500000.0
+KISSHT,Q,income,Total Revenue,2025-09-30,5056900000.0
+KISSHT,Q,income,Total Revenue,2025-12-31,5911100000.0
+KISSHT,Q,income,Total Revenue,2026-03-31,6193460000.0
+KISSHT,Q,income,Total Revenue,2026-06-30,6695000000.0
+KISSHT,Q,income,Total Revenue,2026-09-30,7318100000.0

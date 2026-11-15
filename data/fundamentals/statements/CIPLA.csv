@@ -1,0 +1,111 @@
+symbol,freq,statement,item,period_end,value
+CIPLA,A,balance,Cash And Cash Equivalents,2023-03-31,6276300000.0
+CIPLA,A,balance,Cash And Cash Equivalents,2024-03-31,6400700000.0
+CIPLA,A,balance,Cash And Cash Equivalents,2025-03-31,5886900000.0
+CIPLA,A,balance,Cash And Cash Equivalents,2026-03-31,10182200000.0
+CIPLA,A,balance,Net Debt,2022-03-31,1464000000.0
+CIPLA,A,balance,Ordinary Shares Number,2023-03-31,807150593.0
+CIPLA,A,balance,Ordinary Shares Number,2024-03-31,807367062.0
+CIPLA,A,balance,Ordinary Shares Number,2025-03-31,807617120.0
+CIPLA,A,balance,Ordinary Shares Number,2026-03-31,807782631.0
+CIPLA,A,balance,Stockholders Equity,2023-03-31,234077800000.0
+CIPLA,A,balance,Stockholders Equity,2024-03-31,267064300000.0
+CIPLA,A,balance,Stockholders Equity,2025-03-31,311934500000.0
+CIPLA,A,balance,Stockholders Equity,2026-03-31,344319500000.0
+CIPLA,A,balance,Total Assets,2023-03-31,294632800000.0
+CIPLA,A,balance,Total Assets,2024-03-31,327178200000.0
+CIPLA,A,balance,Total Assets,2025-03-31,373870400000.0
+CIPLA,A,balance,Total Assets,2026-03-31,424959800000.0
+CIPLA,A,balance,Total Debt,2023-03-31,8031200000.0
+CIPLA,A,balance,Total Debt,2024-03-31,5594100000.0
+CIPLA,A,balance,Total Debt,2025-03-31,4381900000.0
+CIPLA,A,balance,Total Debt,2026-03-31,6137700000.0
+CIPLA,A,cashflow,Capital Expenditure,2023-03-31,-11828900000.0
+CIPLA,A,cashflow,Capital Expenditure,2024-03-31,-13493000000.0
+CIPLA,A,cashflow,Capital Expenditure,2025-03-31,-15482000000.0
+CIPLA,A,cashflow,Capital Expenditure,2026-03-31,-30793100000.0
+CIPLA,A,cashflow,Free Cash Flow,2023-03-31,20547600000.0
+CIPLA,A,cashflow,Free Cash Flow,2024-03-31,27846100000.0
+CIPLA,A,cashflow,Free Cash Flow,2025-03-31,34567800000.0
+CIPLA,A,cashflow,Free Cash Flow,2026-03-31,8607100000.0
+CIPLA,A,cashflow,Operating Cash Flow,2023-03-31,32376500000.0
+CIPLA,A,cashflow,Operating Cash Flow,2024-03-31,41339100000.0
+CIPLA,A,cashflow,Operating Cash Flow,2025-03-31,50049800000.0
+CIPLA,A,cashflow,Operating Cash Flow,2026-03-31,39400200000.0
+CIPLA,A,income,Basic EPS,2023-03-31,34.72
+CIPLA,A,income,Basic EPS,2024-03-31,51.05
+CIPLA,A,income,Basic EPS,2025-03-31,65.29
+CIPLA,A,income,Basic EPS,2026-03-31,48.03
+CIPLA,A,income,Diluted EPS,2023-03-31,34.69
+CIPLA,A,income,Diluted EPS,2024-03-31,51.01
+CIPLA,A,income,Diluted EPS,2025-03-31,65.24
+CIPLA,A,income,Diluted EPS,2026-03-31,48.0
+CIPLA,A,income,EBITDA,2023-03-31,51521000000.0
+CIPLA,A,income,EBITDA,2024-03-31,68240500000.0
+CIPLA,A,income,EBITDA,2025-03-31,78602800000.0
+CIPLA,A,income,EBITDA,2026-03-31,63554800000.0
+CIPLA,A,income,Interest Expense,2023-03-31,945600000.0
+CIPLA,A,income,Interest Expense,2024-03-31,711300000.0
+CIPLA,A,income,Interest Expense,2025-03-31,440200000.0
+CIPLA,A,income,Interest Expense,2026-03-31,482300000.0
+CIPLA,A,income,Net Income,2023-03-31,28019100000.0
+CIPLA,A,income,Net Income,2024-03-31,41215500000.0
+CIPLA,A,income,Net Income,2025-03-31,52725200000.0
+CIPLA,A,income,Net Income,2026-03-31,38792300000.0
+CIPLA,A,income,Operating Income,2023-03-31,40178700000.0
+CIPLA,A,income,Operating Income,2024-03-31,53686600000.0
+CIPLA,A,income,Operating Income,2025-03-31,61442200000.0
+CIPLA,A,income,Operating Income,2026-03-31,48455200000.0
+CIPLA,A,income,Pretax Income,2023-03-31,40383500000.0
+CIPLA,A,income,Pretax Income,2024-03-31,57019000000.0
+CIPLA,A,income,Pretax Income,2025-03-31,68208100000.0
+CIPLA,A,income,Pretax Income,2026-03-31,52236300000.0
+CIPLA,A,income,Total Revenue,2023-03-31,224731800000.0
+CIPLA,A,income,Total Revenue,2024-03-31,254466300000.0
+CIPLA,A,income,Total Revenue,2025-03-31,271454000000.0
+CIPLA,A,income,Total Revenue,2026-03-31,277116900000.0
+CIPLA,Q,income,Basic EPS,2025-06-30,16.07
+CIPLA,Q,income,Basic EPS,2025-12-31,8.37
+CIPLA,Q,income,Basic EPS,2026-03-31,6.87
+CIPLA,Q,income,Basic EPS,2026-06-30,9.77
+CIPLA,Q,income,Basic EPS,2026-09-30,10.86
+CIPLA,Q,income,Diluted EPS,2025-06-30,16.06
+CIPLA,Q,income,Diluted EPS,2025-12-31,8.36
+CIPLA,Q,income,Diluted EPS,2026-03-31,6.86
+CIPLA,Q,income,Diluted EPS,2026-06-30,9.76
+CIPLA,Q,income,Diluted EPS,2026-09-30,10.85
+CIPLA,Q,income,EBITDA,2025-06-30,20367000000.0
+CIPLA,Q,income,EBITDA,2025-12-31,11854900000.0
+CIPLA,Q,income,EBITDA,2026-03-31,11031100000.0
+CIPLA,Q,income,EBITDA,2026-06-30,14032000000.0
+CIPLA,Q,income,EBITDA,2026-09-30,15389400000.0
+CIPLA,Q,income,Interest Expense,2025-06-30,140500000.0
+CIPLA,Q,income,Interest Expense,2025-12-31,140300000.0
+CIPLA,Q,income,Interest Expense,2026-03-31,131300000.0
+CIPLA,Q,income,Interest Expense,2026-06-30,170300000.0
+CIPLA,Q,income,Interest Expense,2026-09-30,167400000.0
+CIPLA,Q,income,Net Income,2025-06-30,12976200000.0
+CIPLA,Q,income,Net Income,2025-12-31,6758000000.0
+CIPLA,Q,income,Net Income,2026-03-31,5546400000.0
+CIPLA,Q,income,Net Income,2026-06-30,7890500000.0
+CIPLA,Q,income,Net Income,2026-09-30,8775400000.0
+CIPLA,Q,income,Net Income Common Stockholders,2025-06-30,12976200000.0
+CIPLA,Q,income,Net Income Common Stockholders,2025-12-31,6758000000.0
+CIPLA,Q,income,Net Income Common Stockholders,2026-03-31,5546400000.0
+CIPLA,Q,income,Net Income Common Stockholders,2026-06-30,7890500000.0
+CIPLA,Q,income,Net Income Common Stockholders,2026-09-30,8775400000.0
+CIPLA,Q,income,Operating Income,2025-06-30,15254200000.0
+CIPLA,Q,income,Operating Income,2025-12-31,9767100000.0
+CIPLA,Q,income,Operating Income,2026-03-31,6140500000.0
+CIPLA,Q,income,Operating Income,2026-06-30,8880600000.0
+CIPLA,Q,income,Operating Income,2026-09-30,10429200000.0
+CIPLA,Q,income,Pretax Income,2025-06-30,17699300000.0
+CIPLA,Q,income,Pretax Income,2025-12-31,8931100000.0
+CIPLA,Q,income,Pretax Income,2026-03-31,7070600000.0
+CIPLA,Q,income,Pretax Income,2026-06-30,10819300000.0
+CIPLA,Q,income,Pretax Income,2026-09-30,11773400000.0
+CIPLA,Q,income,Total Revenue,2025-06-30,68370400000.0
+CIPLA,Q,income,Total Revenue,2025-12-31,69629700000.0
+CIPLA,Q,income,Total Revenue,2026-03-31,64642600000.0
+CIPLA,Q,income,Total Revenue,2026-06-30,70770200000.0
+CIPLA,Q,income,Total Revenue,2026-09-30,73681500000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+STAR,A,balance,Cash And Cash Equivalents,2023-03-31,3035010000.0
+STAR,A,balance,Cash And Cash Equivalents,2024-03-31,1610200000.0
+STAR,A,balance,Cash And Cash Equivalents,2025-03-31,1125640000.0
+STAR,A,balance,Cash And Cash Equivalents,2026-03-31,1886960000.0
+STAR,A,balance,Net Debt,2023-03-31,24709580000.0
+STAR,A,balance,Net Debt,2024-03-31,22535050000.0
+STAR,A,balance,Net Debt,2025-03-31,16830490000.0
+STAR,A,balance,Net Debt,2026-03-31,14799940000.0
+STAR,A,balance,Ordinary Shares Number,2023-03-31,90302704.0
+STAR,A,balance,Ordinary Shares Number,2024-03-31,91899714.0
+STAR,A,balance,Ordinary Shares Number,2025-03-31,92162714.0
+STAR,A,balance,Ordinary Shares Number,2026-03-31,92172714.0
+STAR,A,balance,Stockholders Equity,2023-03-31,22122580000.0
+STAR,A,balance,Stockholders Equity,2024-03-31,21255650000.0
+STAR,A,balance,Stockholders Equity,2025-03-31,25518310000.0
+STAR,A,balance,Stockholders Equity,2026-03-31,31075650000.0
+STAR,A,balance,Total Assets,2023-03-31,66384200000.0
+STAR,A,balance,Total Assets,2024-03-31,58397550000.0
+STAR,A,balance,Total Assets,2025-03-31,60487250000.0
+STAR,A,balance,Total Assets,2026-03-31,69272320000.0
+STAR,A,balance,Total Debt,2023-03-31,30295720000.0
+STAR,A,balance,Total Debt,2024-03-31,25168650000.0
+STAR,A,balance,Total Debt,2025-03-31,18796330000.0
+STAR,A,balance,Total Debt,2026-03-31,17579830000.0
+STAR,A,cashflow,Capital Expenditure,2023-03-31,-949380000.0
+STAR,A,cashflow,Capital Expenditure,2024-03-31,-1181510000.0
+STAR,A,cashflow,Capital Expenditure,2025-03-31,-2474980000.0
+STAR,A,cashflow,Capital Expenditure,2026-03-31,-4179350000.0
+STAR,A,cashflow,Free Cash Flow,2023-03-31,-505270000.0
+STAR,A,cashflow,Free Cash Flow,2024-03-31,5829140000.0
+STAR,A,cashflow,Free Cash Flow,2025-03-31,4368760000.0
+STAR,A,cashflow,Free Cash Flow,2026-03-31,2845840000.0
+STAR,A,cashflow,Operating Cash Flow,2023-03-31,444110000.0
+STAR,A,cashflow,Operating Cash Flow,2024-03-31,7010650000.0
+STAR,A,cashflow,Operating Cash Flow,2025-03-31,6843740000.0
+STAR,A,cashflow,Operating Cash Flow,2026-03-31,7025190000.0
+STAR,A,income,Basic EPS,2023-03-31,-22.49
+STAR,A,income,Basic EPS,2024-03-31,-7.76
+STAR,A,income,Basic EPS,2025-03-31,390.55
+STAR,A,income,Basic EPS,2026-03-31,60.34
+STAR,A,income,Diluted EPS,2023-03-31,-22.49
+STAR,A,income,Diluted EPS,2024-03-31,-7.76
+STAR,A,income,Diluted EPS,2025-03-31,390.5
+STAR,A,income,Diluted EPS,2026-03-31,60.34
+STAR,A,income,EBITDA,2023-03-31,1746430000.0
+STAR,A,income,EBITDA,2024-03-31,3443990000.0
+STAR,A,income,EBITDA,2025-03-31,8866120000.0
+STAR,A,income,EBITDA,2026-03-31,10211350000.0
+STAR,A,income,Interest Expense,2023-03-31,2175910000.0
+STAR,A,income,Interest Expense,2024-03-31,2385080000.0
+STAR,A,income,Interest Expense,2025-03-31,2074310000.0
+STAR,A,income,Interest Expense,2026-03-31,1500480000.0
+STAR,A,income,Net Income,2023-03-31,-2026350000.0
+STAR,A,income,Net Income,2024-03-31,-706120000.0
+STAR,A,income,Net Income,2025-03-31,35934550000.0
+STAR,A,income,Net Income,2026-03-31,5561930000.0
+STAR,A,income,Net Income Common Stockholders,2023-03-31,-2026350000.0
+STAR,A,income,Net Income Common Stockholders,2024-03-31,-706120000.0
+STAR,A,income,Net Income Common Stockholders,2025-03-31,35934550000.0
+STAR,A,income,Net Income Common Stockholders,2026-03-31,5561930000.0
+STAR,A,income,Operating Income,2023-03-31,1428810000.0
+STAR,A,income,Operating Income,2024-03-31,3210830000.0
+STAR,A,income,Operating Income,2025-03-31,5796030000.0
+STAR,A,income,Operating Income,2026-03-31,6170150000.0
+STAR,A,income,Pretax Income,2023-03-31,-2862000000.0
+STAR,A,income,Pretax Income,2024-03-31,-1147920000.0
+STAR,A,income,Pretax Income,2025-03-31,4869210000.0
+STAR,A,income,Pretax Income,2026-03-31,6686860000.0
+STAR,A,income,Total Revenue,2023-03-31,36076690000.0
+STAR,A,income,Total Revenue,2024-03-31,37300230000.0
+STAR,A,income,Total Revenue,2025-03-31,43916820000.0
+STAR,A,income,Total Revenue,2026-03-31,46279660000.0
+STAR,Q,income,Basic EPS,2025-06-30,10.81
+STAR,Q,income,Basic EPS,2025-12-31,21.93
+STAR,Q,income,Basic EPS,2026-03-31,13.77
+STAR,Q,income,Basic EPS,2026-06-30,17.02
+STAR,Q,income,Basic EPS,2026-09-30,14.19
+STAR,Q,income,Diluted EPS,2025-06-30,10.81
+STAR,Q,income,Diluted EPS,2025-12-31,21.92
+STAR,Q,income,Diluted EPS,2026-03-31,13.77
+STAR,Q,income,Diluted EPS,2026-06-30,17.02
+STAR,Q,income,Diluted EPS,2026-09-30,14.19
+STAR,Q,income,EBITDA,2025-06-30,2183890000.0
+STAR,Q,income,EBITDA,2025-12-31,3394770000.0
+STAR,Q,income,EBITDA,2026-03-31,2428790000.0
+STAR,Q,income,EBITDA,2026-06-30,2965760000.0
+STAR,Q,income,EBITDA,2026-09-30,2541920000.0
+STAR,Q,income,Interest Expense,2025-06-30,474600000.0
+STAR,Q,income,Interest Expense,2025-12-31,433790000.0
+STAR,Q,income,Interest Expense,2026-03-31,415790000.0
+STAR,Q,income,Interest Expense,2026-06-30,405610000.0
+STAR,Q,income,Interest Expense,2026-09-30,465410000.0
+STAR,Q,income,Net Income,2025-06-30,996080000.0
+STAR,Q,income,Net Income,2025-12-31,2021070000.0
+STAR,Q,income,Net Income,2026-03-31,1269440000.0
+STAR,Q,income,Net Income,2026-06-30,1569140000.0
+STAR,Q,income,Net Income,2026-09-30,1308360000.0
+STAR,Q,income,Net Income Common Stockholders,2025-06-30,996080000.0
+STAR,Q,income,Net Income Common Stockholders,2025-12-31,2021070000.0
+STAR,Q,income,Net Income Common Stockholders,2026-03-31,1269440000.0
+STAR,Q,income,Net Income Common Stockholders,2026-06-30,1569140000.0
+STAR,Q,income,Net Income Common Stockholders,2026-09-30,1308360000.0
+STAR,Q,income,Operating Income,2025-06-30,1691880000.0
+STAR,Q,income,Operating Income,2025-12-31,1853220000.0
+STAR,Q,income,Operating Income,2026-03-31,1864580000.0
+STAR,Q,income,Operating Income,2026-06-30,1733750000.0
+STAR,Q,income,Operating Income,2026-09-30,1936990000.0
+STAR,Q,income,Pretax Income,2025-06-30,1220430000.0
+STAR,Q,income,Pretax Income,2025-12-31,2454750000.0
+STAR,Q,income,Pretax Income,2026-03-31,1480510000.0
+STAR,Q,income,Pretax Income,2026-06-30,1996160000.0
+STAR,Q,income,Pretax Income,2026-09-30,1504360000.0
+STAR,Q,income,Total Revenue,2025-06-30,11197360000.0
+STAR,Q,income,Total Revenue,2025-12-31,11946460000.0
+STAR,Q,income,Total Revenue,2026-03-31,13234700000.0
+STAR,Q,income,Total Revenue,2026-06-30,12654070000.0
+STAR,Q,income,Total Revenue,2026-09-30,14297340000.0

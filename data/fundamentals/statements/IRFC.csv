@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+IRFC,A,balance,Cash And Cash Equivalents,2023-03-31,1626380000.0
+IRFC,A,balance,Cash And Cash Equivalents,2024-03-31,227700000.0
+IRFC,A,balance,Cash And Cash Equivalents,2025-03-31,56802900000.0
+IRFC,A,balance,Cash And Cash Equivalents,2026-03-31,2113100000.0
+IRFC,A,balance,Net Debt,2023-03-31,4187666200000.0
+IRFC,A,balance,Net Debt,2024-03-31,4120093300000.0
+IRFC,A,balance,Net Debt,2025-03-31,4064491100000.0
+IRFC,A,balance,Net Debt,2026-03-31,4362590800000.0
+IRFC,A,balance,Ordinary Shares Number,2023-03-31,13068506000.0
+IRFC,A,balance,Ordinary Shares Number,2024-03-31,13068506000.0
+IRFC,A,balance,Ordinary Shares Number,2025-03-31,13068506000.0
+IRFC,A,balance,Ordinary Shares Number,2026-03-31,13068506000.0
+IRFC,A,balance,Stockholders Equity,2023-03-31,446801810000.0
+IRFC,A,balance,Stockholders Equity,2024-03-31,491785700000.0
+IRFC,A,balance,Stockholders Equity,2025-03-31,526678500000.0
+IRFC,A,balance,Stockholders Equity,2026-03-31,567487600000.0
+IRFC,A,balance,Total Assets,2023-03-31,4903587510000.0
+IRFC,A,balance,Total Assets,2024-03-31,4850824300000.0
+IRFC,A,balance,Total Assets,2025-03-31,4888346800000.0
+IRFC,A,balance,Total Assets,2026-03-31,5166764800000.0
+IRFC,A,balance,Total Debt,2023-03-31,4189348970000.0
+IRFC,A,balance,Total Debt,2024-03-31,4120385100000.0
+IRFC,A,balance,Total Debt,2025-03-31,4121326900000.0
+IRFC,A,balance,Total Debt,2026-03-31,4364711500000.0
+IRFC,A,cashflow,Capital Expenditure,2023-03-31,-7750000.0
+IRFC,A,cashflow,Capital Expenditure,2024-03-31,-83300000.0
+IRFC,A,cashflow,Capital Expenditure,2025-03-31,-8200000.0
+IRFC,A,cashflow,Capital Expenditure,2026-03-31,-134000000.0
+IRFC,A,cashflow,Free Cash Flow,2023-03-31,-285891360000.0
+IRFC,A,cashflow,Free Cash Flow,2024-03-31,79057700000.0
+IRFC,A,cashflow,Free Cash Flow,2025-03-31,82287500000.0
+IRFC,A,cashflow,Free Cash Flow,2026-03-31,-270398100000.0
+IRFC,A,cashflow,Operating Cash Flow,2023-03-31,-285883610000.0
+IRFC,A,cashflow,Operating Cash Flow,2024-03-31,79141000000.0
+IRFC,A,cashflow,Operating Cash Flow,2025-03-31,82295700000.0
+IRFC,A,cashflow,Operating Cash Flow,2026-03-31,-270264100000.0
+IRFC,A,income,Basic EPS,2023-03-31,4.72
+IRFC,A,income,Basic EPS,2024-03-31,4.91
+IRFC,A,income,Basic EPS,2025-03-31,4.98
+IRFC,A,income,Basic EPS,2026-03-31,5.36
+IRFC,A,income,Diluted EPS,2023-03-31,4.72
+IRFC,A,income,Diluted EPS,2024-03-31,4.91
+IRFC,A,income,Diluted EPS,2025-03-31,4.98
+IRFC,A,income,Diluted EPS,2026-03-31,5.36
+IRFC,A,income,EBITDA,2023-03-31,112953580000.0
+IRFC,A,income,EBITDA,2024-03-31,121441300000.0
+IRFC,A,income,EBITDA,2025-03-31,144987700000.0
+IRFC,A,income,EBITDA,2026-03-31,176279500000.0
+IRFC,A,income,Interest Expense,2023-03-31,51141400000.0
+IRFC,A,income,Interest Expense,2024-03-31,57225800000.0
+IRFC,A,income,Interest Expense,2025-03-31,79914600000.0
+IRFC,A,income,Interest Expense,2026-03-31,106127300000.0
+IRFC,A,income,Net Income,2023-03-31,61671560000.0
+IRFC,A,income,Net Income,2024-03-31,64121100000.0
+IRFC,A,income,Net Income,2025-03-31,65020000000.0
+IRFC,A,income,Net Income,2026-03-31,70091700000.0
+IRFC,A,income,Net Income Common Stockholders,2023-03-31,61671560000.0
+IRFC,A,income,Net Income Common Stockholders,2024-03-31,64121100000.0
+IRFC,A,income,Net Income Common Stockholders,2025-03-31,65020000000.0
+IRFC,A,income,Net Income Common Stockholders,2026-03-31,70091700000.0
+IRFC,A,income,Operating Income,2023-03-31,111857130000.0
+IRFC,A,income,Operating Income,2024-03-31,120636000000.0
+IRFC,A,income,Operating Income,2025-03-31,144538600000.0
+IRFC,A,income,Operating Income,2026-03-31,175547400000.0
+IRFC,A,income,Pretax Income,2023-03-31,61671560000.0
+IRFC,A,income,Pretax Income,2024-03-31,64121100000.0
+IRFC,A,income,Pretax Income,2025-03-31,65020000000.0
+IRFC,A,income,Pretax Income,2026-03-31,70091700000.0
+IRFC,A,income,Total Revenue,2023-03-31,236506980000.0
+IRFC,A,income,Total Revenue,2024-03-31,265304200000.0
+IRFC,A,income,Total Revenue,2025-03-31,270597800000.0
+IRFC,A,income,Total Revenue,2026-03-31,270752700000.0
+IRFC,Q,income,Basic EPS,2025-06-30,1.34
+IRFC,Q,income,Basic EPS,2025-12-31,1.38
+IRFC,Q,income,Basic EPS,2026-03-31,1.29
+IRFC,Q,income,Basic EPS,2026-06-30,1.47
+IRFC,Q,income,Basic EPS,2026-09-30,1.5
+IRFC,Q,income,Diluted EPS,2025-06-30,1.34
+IRFC,Q,income,Diluted EPS,2025-12-31,1.38
+IRFC,Q,income,Diluted EPS,2026-03-31,1.29
+IRFC,Q,income,Diluted EPS,2026-06-30,1.47
+IRFC,Q,income,Diluted EPS,2026-09-30,1.5
+IRFC,Q,income,EBITDA,2025-06-30,17441600000.0
+IRFC,Q,income,EBITDA,2025-12-31,18050600000.0
+IRFC,Q,income,EBITDA,2026-03-31,17480900000.0
+IRFC,Q,income,EBITDA,2026-06-30,17970400000.0
+IRFC,Q,income,EBITDA,2026-09-30,19020600000.0
+IRFC,Q,income,Net Income,2025-06-30,17456900000.0
+IRFC,Q,income,Net Income,2025-12-31,18021900000.0
+IRFC,Q,income,Net Income,2026-03-31,16843100000.0
+IRFC,Q,income,Net Income,2026-06-30,19272100000.0
+IRFC,Q,income,Net Income,2026-09-30,19584800000.0
+IRFC,Q,income,Net Income Common Stockholders,2025-06-30,17456900000.0
+IRFC,Q,income,Net Income Common Stockholders,2025-12-31,18021900000.0
+IRFC,Q,income,Net Income Common Stockholders,2026-03-31,16843100000.0
+IRFC,Q,income,Net Income Common Stockholders,2026-06-30,19272100000.0
+IRFC,Q,income,Net Income Common Stockholders,2026-09-30,19584800000.0
+IRFC,Q,income,Operating Income,2025-06-30,17428300000.0
+IRFC,Q,income,Operating Income,2025-12-31,18032300000.0
+IRFC,Q,income,Operating Income,2026-03-31,17461500000.0
+IRFC,Q,income,Operating Income,2026-06-30,17958900000.0
+IRFC,Q,income,Operating Income,2026-09-30,18999900000.0
+IRFC,Q,income,Pretax Income,2025-06-30,17456900000.0
+IRFC,Q,income,Pretax Income,2025-12-31,18021900000.0
+IRFC,Q,income,Pretax Income,2026-03-31,16843100000.0
+IRFC,Q,income,Pretax Income,2026-06-30,19272100000.0
+IRFC,Q,income,Pretax Income,2026-09-30,19584800000.0
+IRFC,Q,income,Total Revenue,2025-06-30,69010700000.0
+IRFC,Q,income,Total Revenue,2025-12-31,66571200000.0
+IRFC,Q,income,Total Revenue,2026-03-31,73357500000.0
+IRFC,Q,income,Total Revenue,2026-06-30,82420300000.0
+IRFC,Q,income,Total Revenue,2026-09-30,78664100000.0

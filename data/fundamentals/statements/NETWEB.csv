@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+NETWEB,A,balance,Cash And Cash Equivalents,2023-03-31,70920000.0
+NETWEB,A,balance,Cash And Cash Equivalents,2024-03-31,896750000.0
+NETWEB,A,balance,Cash And Cash Equivalents,2025-03-31,1700830000.0
+NETWEB,A,balance,Cash And Cash Equivalents,2026-03-31,3655220000.0
+NETWEB,A,balance,Net Debt,2022-03-31,315420000.0
+NETWEB,A,balance,Net Debt,2023-03-31,233060000.0
+NETWEB,A,balance,Ordinary Shares Number,2023-03-31,56064980.0
+NETWEB,A,balance,Ordinary Shares Number,2024-03-31,56365868.0
+NETWEB,A,balance,Ordinary Shares Number,2025-03-31,56653868.0
+NETWEB,A,balance,Ordinary Shares Number,2026-03-31,56940687.0
+NETWEB,A,balance,Stockholders Equity,2023-03-31,936660000.0
+NETWEB,A,balance,Stockholders Equity,2024-03-31,4227520000.0
+NETWEB,A,balance,Stockholders Equity,2025-03-31,5291810000.0
+NETWEB,A,balance,Stockholders Equity,2026-03-31,7232980000.0
+NETWEB,A,balance,Total Assets,2023-03-31,2659500000.0
+NETWEB,A,balance,Total Assets,2024-03-31,6124680000.0
+NETWEB,A,balance,Total Assets,2025-03-31,8922090000.0
+NETWEB,A,balance,Total Assets,2026-03-31,22549280000.0
+NETWEB,A,balance,Total Debt,2023-03-31,356030000.0
+NETWEB,A,balance,Total Debt,2024-03-31,95730000.0
+NETWEB,A,balance,Total Debt,2025-03-31,79490000.0
+NETWEB,A,balance,Total Debt,2026-03-31,2822230000.0
+NETWEB,A,cashflow,Capital Expenditure,2023-03-31,-132640000.0
+NETWEB,A,cashflow,Capital Expenditure,2024-03-31,-194680000.0
+NETWEB,A,cashflow,Capital Expenditure,2025-03-31,-254750000.0
+NETWEB,A,cashflow,Capital Expenditure,2026-03-31,-119790000.0
+NETWEB,A,cashflow,Free Cash Flow,2023-03-31,138680000.0
+NETWEB,A,cashflow,Free Cash Flow,2024-03-31,-11010000.0
+NETWEB,A,cashflow,Free Cash Flow,2025-03-31,-386860000.0
+NETWEB,A,cashflow,Free Cash Flow,2026-03-31,1595130000.0
+NETWEB,A,cashflow,Operating Cash Flow,2023-03-31,271320000.0
+NETWEB,A,cashflow,Operating Cash Flow,2024-03-31,183670000.0
+NETWEB,A,cashflow,Operating Cash Flow,2025-03-31,-132110000.0
+NETWEB,A,cashflow,Operating Cash Flow,2026-03-31,1714920000.0
+NETWEB,A,income,Basic EPS,2023-03-31,8.371714
+NETWEB,A,income,Basic EPS,2024-03-31,13.91
+NETWEB,A,income,Basic EPS,2025-03-31,20.12
+NETWEB,A,income,Basic EPS,2026-03-31,36.3
+NETWEB,A,income,Diluted EPS,2023-03-31,8.371714
+NETWEB,A,income,Diluted EPS,2024-03-31,13.88
+NETWEB,A,income,Diluted EPS,2025-03-31,20.11
+NETWEB,A,income,Diluted EPS,2026-03-31,36.3
+NETWEB,A,income,EBITDA,2023-03-31,695540000.0
+NETWEB,A,income,EBITDA,2024-03-31,1137820000.0
+NETWEB,A,income,EBITDA,2025-03-31,1671160000.0
+NETWEB,A,income,EBITDA,2026-03-31,3000660000.0
+NETWEB,A,income,Interest Expense,2023-03-31,29340000.0
+NETWEB,A,income,Interest Expense,2024-03-31,55740000.0
+NETWEB,A,income,Interest Expense,2025-03-31,27730000.0
+NETWEB,A,income,Interest Expense,2026-03-31,93350000.0
+NETWEB,A,income,Net Income,2023-03-31,469360000.0
+NETWEB,A,income,Net Income,2024-03-31,759030000.0
+NETWEB,A,income,Net Income,2025-03-31,1137510000.0
+NETWEB,A,income,Net Income,2026-03-31,2058160000.0
+NETWEB,A,income,Net Income Common Stockholders,2023-03-31,469360000.0
+NETWEB,A,income,Net Income Common Stockholders,2024-03-31,759030000.0
+NETWEB,A,income,Net Income Common Stockholders,2025-03-31,1137510000.0
+NETWEB,A,income,Net Income Common Stockholders,2026-03-31,2058160000.0
+NETWEB,A,income,Operating Income,2023-03-31,672400000.0
+NETWEB,A,income,Operating Income,2024-03-31,971260000.0
+NETWEB,A,income,Operating Income,2025-03-31,1479670000.0
+NETWEB,A,income,Operating Income,2026-03-31,2891040000.0
+NETWEB,A,income,Pretax Income,2023-03-31,629630000.0
+NETWEB,A,income,Pretax Income,2024-03-31,1019560000.0
+NETWEB,A,income,Pretax Income,2025-03-31,1530000000.0
+NETWEB,A,income,Pretax Income,2026-03-31,2765200000.0
+NETWEB,A,income,Total Revenue,2023-03-31,4410020000.0
+NETWEB,A,income,Total Revenue,2024-03-31,7240680000.0
+NETWEB,A,income,Total Revenue,2025-03-31,11430810000.0
+NETWEB,A,income,Total Revenue,2026-03-31,21835630000.0
+NETWEB,Q,income,Basic EPS,2025-06-30,5.38
+NETWEB,Q,income,Basic EPS,2025-12-31,12.94
+NETWEB,Q,income,Basic EPS,2026-03-31,12.43
+NETWEB,Q,income,Basic EPS,2026-06-30,14.98
+NETWEB,Q,income,Basic EPS,2026-09-30,23.54
+NETWEB,Q,income,Diluted EPS,2025-06-30,5.38
+NETWEB,Q,income,Diluted EPS,2025-12-31,12.94
+NETWEB,Q,income,Diluted EPS,2026-03-31,12.43
+NETWEB,Q,income,Diluted EPS,2026-06-30,14.98
+NETWEB,Q,income,Diluted EPS,2026-09-30,23.54
+NETWEB,Q,income,EBITDA,2025-06-30,459070000.0
+NETWEB,Q,income,EBITDA,2025-12-31,1045800000.0
+NETWEB,Q,income,EBITDA,2026-03-31,1068090000.0
+NETWEB,Q,income,EBITDA,2026-06-30,1289870000.0
+NETWEB,Q,income,EBITDA,2026-09-30,2101610000.0
+NETWEB,Q,income,Interest Expense,2025-06-30,9780000.0
+NETWEB,Q,income,Interest Expense,2025-12-31,28920000.0
+NETWEB,Q,income,Interest Expense,2026-03-31,81530000.0
+NETWEB,Q,income,Interest Expense,2026-06-30,115240000.0
+NETWEB,Q,income,Interest Expense,2026-09-30,238000000.0
+NETWEB,Q,income,Net Income,2025-06-30,304790000.0
+NETWEB,Q,income,Net Income,2025-12-31,733110000.0
+NETWEB,Q,income,Net Income,2026-03-31,705930000.0
+NETWEB,Q,income,Net Income,2026-06-30,853230000.0
+NETWEB,Q,income,Net Income,2026-09-30,1366560000.0
+NETWEB,Q,income,Net Income Common Stockholders,2025-06-30,304790000.0
+NETWEB,Q,income,Net Income Common Stockholders,2025-12-31,733110000.0
+NETWEB,Q,income,Net Income Common Stockholders,2026-03-31,705930000.0
+NETWEB,Q,income,Net Income Common Stockholders,2026-06-30,853230000.0
+NETWEB,Q,income,Net Income Common Stockholders,2026-09-30,1366560000.0
+NETWEB,Q,income,Operating Income,2025-09-30,420320000.0
+NETWEB,Q,income,Operating Income,2025-12-31,1096580000.0
+NETWEB,Q,income,Operating Income,2026-03-31,927400000.0
+NETWEB,Q,income,Operating Income,2026-06-30,1171900000.0
+NETWEB,Q,income,Operating Income,2026-09-30,1935870000.0
+NETWEB,Q,income,Pretax Income,2025-06-30,416060000.0
+NETWEB,Q,income,Pretax Income,2025-12-31,980660000.0
+NETWEB,Q,income,Pretax Income,2026-03-31,948220000.0
+NETWEB,Q,income,Pretax Income,2026-06-30,1141380000.0
+NETWEB,Q,income,Pretax Income,2026-09-30,1826490000.0
+NETWEB,Q,income,Total Revenue,2025-06-30,3012120000.0
+NETWEB,Q,income,Total Revenue,2025-12-31,8049250000.0
+NETWEB,Q,income,Total Revenue,2026-03-31,7737020000.0
+NETWEB,Q,income,Total Revenue,2026-06-30,8196860000.0
+NETWEB,Q,income,Total Revenue,2026-09-30,13232790000.0

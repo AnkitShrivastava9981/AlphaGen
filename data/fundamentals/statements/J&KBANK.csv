@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+J&KBANK,A,balance,Cash And Cash Equivalents,2023-03-31,157061245000.0
+J&KBANK,A,balance,Cash And Cash Equivalents,2024-03-31,179222922000.0
+J&KBANK,A,balance,Cash And Cash Equivalents,2025-03-31,191880713000.0
+J&KBANK,A,balance,Cash And Cash Equivalents,2026-03-31,207695952000.0
+J&KBANK,A,balance,Ordinary Shares Number,2023-03-31,1031469861.0
+J&KBANK,A,balance,Ordinary Shares Number,2024-03-31,1101182463.0
+J&KBANK,A,balance,Ordinary Shares Number,2025-03-31,1101182463.0
+J&KBANK,A,balance,Ordinary Shares Number,2026-03-31,1101182463.0
+J&KBANK,A,balance,Stockholders Equity,2023-03-31,98963252000.0
+J&KBANK,A,balance,Stockholders Equity,2024-03-31,121927260000.0
+J&KBANK,A,balance,Stockholders Equity,2025-03-31,142083107000.0
+J&KBANK,A,balance,Stockholders Equity,2026-03-31,164997827000.0
+J&KBANK,A,balance,Total Assets,2023-03-31,1459125916000.0
+J&KBANK,A,balance,Total Assets,2024-03-31,1545045812000.0
+J&KBANK,A,balance,Total Assets,2025-03-31,1694235371000.0
+J&KBANK,A,balance,Total Assets,2026-03-31,1889597607000.0
+J&KBANK,A,balance,Total Debt,2023-03-31,28923058000.0
+J&KBANK,A,balance,Total Debt,2024-03-31,28850015000.0
+J&KBANK,A,balance,Total Debt,2025-03-31,23828443000.0
+J&KBANK,A,balance,Total Debt,2026-03-31,33810000000.0
+J&KBANK,A,cashflow,Capital Expenditure,2023-03-31,-1235136000.0
+J&KBANK,A,cashflow,Capital Expenditure,2024-03-31,-1856919000.0
+J&KBANK,A,cashflow,Capital Expenditure,2025-03-31,-1020995000.0
+J&KBANK,A,cashflow,Capital Expenditure,2026-03-31,-4693700000.0
+J&KBANK,A,cashflow,Free Cash Flow,2023-03-31,-5306409000.0
+J&KBANK,A,cashflow,Free Cash Flow,2024-03-31,-10382454000.0
+J&KBANK,A,cashflow,Free Cash Flow,2025-03-31,26210458000.0
+J&KBANK,A,cashflow,Free Cash Flow,2026-03-31,-15950517000.0
+J&KBANK,A,cashflow,Operating Cash Flow,2023-03-31,-4071273000.0
+J&KBANK,A,cashflow,Operating Cash Flow,2024-03-31,-8525535000.0
+J&KBANK,A,cashflow,Operating Cash Flow,2025-03-31,27231453000.0
+J&KBANK,A,cashflow,Operating Cash Flow,2026-03-31,-11256817000.0
+J&KBANK,A,income,Basic EPS,2023-03-31,12.25
+J&KBANK,A,income,Basic EPS,2024-03-31,16.84
+J&KBANK,A,income,Basic EPS,2025-03-31,18.91
+J&KBANK,A,income,Basic EPS,2026-03-31,21.42
+J&KBANK,A,income,Diluted EPS,2023-03-31,12.25
+J&KBANK,A,income,Diluted EPS,2024-03-31,16.84
+J&KBANK,A,income,Diluted EPS,2025-03-31,18.91
+J&KBANK,A,income,Diluted EPS,2026-03-31,21.42
+J&KBANK,A,income,Interest Expense,2023-03-31,46094380000.0
+J&KBANK,A,income,Interest Expense,2024-03-31,60079311000.0
+J&KBANK,A,income,Interest Expense,2025-03-31,67412570000.0
+J&KBANK,A,income,Interest Expense,2026-03-31,72686168000.0
+J&KBANK,A,income,Net Income,2023-03-31,11805170000.0
+J&KBANK,A,income,Net Income,2024-03-31,17712245000.0
+J&KBANK,A,income,Net Income,2025-03-31,20817862000.0
+J&KBANK,A,income,Net Income,2026-03-31,23594983000.0
+J&KBANK,A,income,Net Income Common Stockholders,2023-03-31,11805170000.0
+J&KBANK,A,income,Net Income Common Stockholders,2024-03-31,17712245000.0
+J&KBANK,A,income,Net Income Common Stockholders,2025-03-31,20817862000.0
+J&KBANK,A,income,Net Income Common Stockholders,2026-03-31,23594983000.0
+J&KBANK,A,income,Pretax Income,2023-03-31,17860219000.0
+J&KBANK,A,income,Pretax Income,2024-03-31,23880790000.0
+J&KBANK,A,income,Pretax Income,2025-03-31,29386718000.0
+J&KBANK,A,income,Pretax Income,2026-03-31,29635836000.0
+J&KBANK,A,income,Total Revenue,2023-03-31,54263786000.0
+J&KBANK,A,income,Total Revenue,2024-03-31,59659983000.0
+J&KBANK,A,income,Total Revenue,2025-03-31,70295876000.0
+J&KBANK,A,income,Total Revenue,2026-03-31,68739437000.0
+J&KBANK,Q,income,Basic EPS,2025-06-30,4.4
+J&KBANK,Q,income,Basic EPS,2025-12-31,5.28
+J&KBANK,Q,income,Basic EPS,2026-03-31,7.25
+J&KBANK,Q,income,Basic EPS,2026-06-30,3.89
+J&KBANK,Q,income,Basic EPS,2026-09-30,5.02
+J&KBANK,Q,income,Diluted EPS,2025-06-30,4.4
+J&KBANK,Q,income,Diluted EPS,2025-12-31,5.28
+J&KBANK,Q,income,Diluted EPS,2026-03-31,7.25
+J&KBANK,Q,income,Diluted EPS,2026-06-30,3.89
+J&KBANK,Q,income,Diluted EPS,2026-09-30,5.02
+J&KBANK,Q,income,Interest Expense,2025-06-30,18026400000.0
+J&KBANK,Q,income,Interest Expense,2025-12-31,18243500000.0
+J&KBANK,Q,income,Interest Expense,2026-03-31,17840000000.0
+J&KBANK,Q,income,Interest Expense,2026-06-30,20487000000.0
+J&KBANK,Q,income,Interest Expense,2026-09-30,22245800000.0
+J&KBANK,Q,income,Net Income,2025-06-30,4845300000.0
+J&KBANK,Q,income,Net Income,2025-12-31,5814900000.0
+J&KBANK,Q,income,Net Income,2026-03-31,7985600000.0
+J&KBANK,Q,income,Net Income,2026-06-30,4288000000.0
+J&KBANK,Q,income,Net Income,2026-09-30,5527000000.0
+J&KBANK,Q,income,Net Income Common Stockholders,2025-06-30,4845300000.0
+J&KBANK,Q,income,Net Income Common Stockholders,2025-12-31,5814900000.0
+J&KBANK,Q,income,Net Income Common Stockholders,2026-03-31,7985600000.0
+J&KBANK,Q,income,Net Income Common Stockholders,2026-06-30,4288000000.0
+J&KBANK,Q,income,Net Income Common Stockholders,2026-09-30,5527000000.0
+J&KBANK,Q,income,Pretax Income,2025-06-30,6593600000.0
+J&KBANK,Q,income,Pretax Income,2025-12-31,8072000000.0
+J&KBANK,Q,income,Pretax Income,2026-03-31,8623300000.0
+J&KBANK,Q,income,Pretax Income,2026-06-30,6208000000.0
+J&KBANK,Q,income,Pretax Income,2026-09-30,7180700000.0
+J&KBANK,Q,income,Total Revenue,2025-09-30,15915000000.0
+J&KBANK,Q,income,Total Revenue,2025-12-31,17725100000.0
+J&KBANK,Q,income,Total Revenue,2026-03-31,17517900000.0
+J&KBANK,Q,income,Total Revenue,2026-06-30,17162600000.0
+J&KBANK,Q,income,Total Revenue,2026-09-30,18224800000.0

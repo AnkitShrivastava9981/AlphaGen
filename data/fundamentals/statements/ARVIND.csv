@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ARVIND,A,balance,Cash And Cash Equivalents,2023-03-31,567900000.0
+ARVIND,A,balance,Cash And Cash Equivalents,2024-03-31,573200000.0
+ARVIND,A,balance,Cash And Cash Equivalents,2025-03-31,529600000.0
+ARVIND,A,balance,Cash And Cash Equivalents,2026-03-31,869200000.0
+ARVIND,A,balance,Net Debt,2023-03-31,13469800000.0
+ARVIND,A,balance,Net Debt,2024-03-31,12680600000.0
+ARVIND,A,balance,Net Debt,2025-03-31,13230000000.0
+ARVIND,A,balance,Net Debt,2026-03-31,13540500000.0
+ARVIND,A,balance,Ordinary Shares Number,2023-03-31,261497474.0
+ARVIND,A,balance,Ordinary Shares Number,2024-03-31,261630474.0
+ARVIND,A,balance,Ordinary Shares Number,2025-03-31,261817974.0
+ARVIND,A,balance,Ordinary Shares Number,2026-03-31,262114640.0
+ARVIND,A,balance,Stockholders Equity,2023-03-31,33456300000.0
+ARVIND,A,balance,Stockholders Equity,2024-03-31,35427500000.0
+ARVIND,A,balance,Stockholders Equity,2025-03-31,37861000000.0
+ARVIND,A,balance,Stockholders Equity,2026-03-31,40439000000.0
+ARVIND,A,balance,Total Assets,2023-03-31,69135900000.0
+ARVIND,A,balance,Total Assets,2024-03-31,72603700000.0
+ARVIND,A,balance,Total Assets,2025-03-31,80989500000.0
+ARVIND,A,balance,Total Assets,2026-03-31,88364700000.0
+ARVIND,A,balance,Total Debt,2023-03-31,15173800000.0
+ARVIND,A,balance,Total Debt,2024-03-31,14479900000.0
+ARVIND,A,balance,Total Debt,2025-03-31,15622300000.0
+ARVIND,A,balance,Total Debt,2026-03-31,16595200000.0
+ARVIND,A,cashflow,Capital Expenditure,2023-03-31,-2043300000.0
+ARVIND,A,cashflow,Capital Expenditure,2024-03-31,-2779600000.0
+ARVIND,A,cashflow,Capital Expenditure,2025-03-31,-5351200000.0
+ARVIND,A,cashflow,Capital Expenditure,2026-03-31,-5225900000.0
+ARVIND,A,cashflow,Free Cash Flow,2023-03-31,4617400000.0
+ARVIND,A,cashflow,Free Cash Flow,2024-03-31,4184000000.0
+ARVIND,A,cashflow,Free Cash Flow,2025-03-31,2277600000.0
+ARVIND,A,cashflow,Free Cash Flow,2026-03-31,3444900000.0
+ARVIND,A,cashflow,Operating Cash Flow,2023-03-31,6660700000.0
+ARVIND,A,cashflow,Operating Cash Flow,2024-03-31,6963600000.0
+ARVIND,A,cashflow,Operating Cash Flow,2025-03-31,7628800000.0
+ARVIND,A,cashflow,Operating Cash Flow,2026-03-31,8670800000.0
+ARVIND,A,income,Basic EPS,2023-03-31,15.51
+ARVIND,A,income,Basic EPS,2024-03-31,12.87
+ARVIND,A,income,Basic EPS,2025-03-31,13.51
+ARVIND,A,income,Basic EPS,2026-03-31,15.8
+ARVIND,A,income,Diluted EPS,2023-03-31,15.49
+ARVIND,A,income,Diluted EPS,2024-03-31,12.86
+ARVIND,A,income,Diluted EPS,2025-03-31,13.49
+ARVIND,A,income,Diluted EPS,2026-03-31,15.79
+ARVIND,A,income,EBITDA,2023-03-31,8967000000.0
+ARVIND,A,income,EBITDA,2024-03-31,8883900000.0
+ARVIND,A,income,EBITDA,2025-03-31,9169000000.0
+ARVIND,A,income,EBITDA,2026-03-31,10501900000.0
+ARVIND,A,income,Interest Expense,2023-03-31,1539800000.0
+ARVIND,A,income,Interest Expense,2024-03-31,1592700000.0
+ARVIND,A,income,Interest Expense,2025-03-31,1653200000.0
+ARVIND,A,income,Interest Expense,2026-03-31,1648200000.0
+ARVIND,A,income,Net Income,2023-03-31,4045600000.0
+ARVIND,A,income,Net Income,2024-03-31,3366100000.0
+ARVIND,A,income,Net Income,2025-03-31,3534900000.0
+ARVIND,A,income,Net Income,2026-03-31,4139400000.0
+ARVIND,A,income,Net Income Common Stockholders,2023-03-31,4045600000.0
+ARVIND,A,income,Net Income Common Stockholders,2024-03-31,3366100000.0
+ARVIND,A,income,Net Income Common Stockholders,2025-03-31,3534900000.0
+ARVIND,A,income,Net Income Common Stockholders,2026-03-31,4139400000.0
+ARVIND,A,income,Operating Income,2023-03-31,6128000000.0
+ARVIND,A,income,Operating Income,2024-03-31,6191700000.0
+ARVIND,A,income,Operating Income,2025-03-31,6374800000.0
+ARVIND,A,income,Operating Income,2026-03-31,7964000000.0
+ARVIND,A,income,Pretax Income,2023-03-31,4872500000.0
+ARVIND,A,income,Pretax Income,2024-03-31,4633000000.0
+ARVIND,A,income,Pretax Income,2025-03-31,4928700000.0
+ARVIND,A,income,Pretax Income,2026-03-31,5950400000.0
+ARVIND,A,income,Total Revenue,2023-03-31,81153900000.0
+ARVIND,A,income,Total Revenue,2024-03-31,74722200000.0
+ARVIND,A,income,Total Revenue,2025-03-31,80164100000.0
+ARVIND,A,income,Total Revenue,2026-03-31,89599800000.0
+ARVIND,Q,income,Basic EPS,2025-09-30,3.95
+ARVIND,Q,income,Basic EPS,2025-12-31,3.72
+ARVIND,Q,income,Basic EPS,2026-03-31,6.1
+ARVIND,Q,income,Basic EPS,2026-06-30,2.04
+ARVIND,Q,income,Basic EPS,2026-09-30,5.55
+ARVIND,Q,income,Diluted EPS,2025-09-30,3.94
+ARVIND,Q,income,Diluted EPS,2025-12-31,3.72
+ARVIND,Q,income,Diluted EPS,2026-03-31,6.1
+ARVIND,Q,income,Diluted EPS,2026-06-30,2.04
+ARVIND,Q,income,Diluted EPS,2026-09-30,5.54
+ARVIND,Q,income,EBITDA,2025-09-30,2618000000.0
+ARVIND,Q,income,EBITDA,2025-12-31,2610300000.0
+ARVIND,Q,income,EBITDA,2026-03-31,3408100000.0
+ARVIND,Q,income,EBITDA,2026-06-30,2363900000.0
+ARVIND,Q,income,EBITDA,2026-09-30,3615400000.0
+ARVIND,Q,income,Interest Expense,2025-09-30,412100000.0
+ARVIND,Q,income,Interest Expense,2025-12-31,418700000.0
+ARVIND,Q,income,Interest Expense,2026-03-31,405500000.0
+ARVIND,Q,income,Interest Expense,2026-06-30,543900000.0
+ARVIND,Q,income,Interest Expense,2026-09-30,706800000.0
+ARVIND,Q,income,Net Income,2025-09-30,1034000000.0
+ARVIND,Q,income,Net Income,2025-12-31,975900000.0
+ARVIND,Q,income,Net Income,2026-03-31,1597100000.0
+ARVIND,Q,income,Net Income,2026-06-30,534500000.0
+ARVIND,Q,income,Net Income,2026-09-30,1478600000.0
+ARVIND,Q,income,Net Income Common Stockholders,2025-09-30,1034000000.0
+ARVIND,Q,income,Net Income Common Stockholders,2025-12-31,975900000.0
+ARVIND,Q,income,Net Income Common Stockholders,2026-03-31,1597100000.0
+ARVIND,Q,income,Net Income Common Stockholders,2026-06-30,534500000.0
+ARVIND,Q,income,Net Income Common Stockholders,2026-09-30,1478600000.0
+ARVIND,Q,income,Operating Income,2025-09-30,1751300000.0
+ARVIND,Q,income,Operating Income,2025-12-31,2020200000.0
+ARVIND,Q,income,Operating Income,2026-03-31,2286500000.0
+ARVIND,Q,income,Operating Income,2026-06-30,1471400000.0
+ARVIND,Q,income,Operating Income,2026-09-30,2024900000.0
+ARVIND,Q,income,Pretax Income,2025-09-30,1486500000.0
+ARVIND,Q,income,Pretax Income,2025-12-31,1473300000.0
+ARVIND,Q,income,Pretax Income,2026-03-31,2227000000.0
+ARVIND,Q,income,Pretax Income,2026-06-30,888800000.0
+ARVIND,Q,income,Pretax Income,2026-09-30,1838100000.0
+ARVIND,Q,income,Total Revenue,2025-09-30,23711400000.0
+ARVIND,Q,income,Total Revenue,2025-12-31,23726400000.0
+ARVIND,Q,income,Total Revenue,2026-03-31,25530900000.0
+ARVIND,Q,income,Total Revenue,2026-06-30,25009600000.0
+ARVIND,Q,income,Total Revenue,2026-09-30,29186200000.0

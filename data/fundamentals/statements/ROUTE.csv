@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+ROUTE,A,balance,Cash And Cash Equivalents,2023-03-31,4584600000.0
+ROUTE,A,balance,Cash And Cash Equivalents,2024-03-31,5240700000.0
+ROUTE,A,balance,Cash And Cash Equivalents,2025-03-31,8504000000.0
+ROUTE,A,balance,Cash And Cash Equivalents,2026-03-31,8801200000.0
+ROUTE,A,balance,Ordinary Shares Number,2023-03-31,62443217.0
+ROUTE,A,balance,Ordinary Shares Number,2024-03-31,62621032.0
+ROUTE,A,balance,Ordinary Shares Number,2025-03-31,62997582.0
+ROUTE,A,balance,Ordinary Shares Number,2026-03-31,62997582.0
+ROUTE,A,balance,Stockholders Equity,2023-03-31,18204200000.0
+ROUTE,A,balance,Stockholders Equity,2024-03-31,21495900000.0
+ROUTE,A,balance,Stockholders Equity,2025-03-31,24320000000.0
+ROUTE,A,balance,Stockholders Equity,2026-03-31,27695900000.0
+ROUTE,A,balance,Total Assets,2023-03-31,28853300000.0
+ROUTE,A,balance,Total Assets,2024-03-31,34719400000.0
+ROUTE,A,balance,Total Assets,2025-03-31,38257200000.0
+ROUTE,A,balance,Total Assets,2026-03-31,35562300000.0
+ROUTE,A,balance,Total Debt,2023-03-31,1401100000.0
+ROUTE,A,balance,Total Debt,2024-03-31,3784900000.0
+ROUTE,A,balance,Total Debt,2025-03-31,4681700000.0
+ROUTE,A,balance,Total Debt,2026-03-31,419800000.0
+ROUTE,A,cashflow,Capital Expenditure,2023-03-31,-380600000.0
+ROUTE,A,cashflow,Capital Expenditure,2024-03-31,-356100000.0
+ROUTE,A,cashflow,Capital Expenditure,2025-03-31,-213200000.0
+ROUTE,A,cashflow,Capital Expenditure,2026-03-31,-264400000.0
+ROUTE,A,cashflow,Free Cash Flow,2023-03-31,351500000.0
+ROUTE,A,cashflow,Free Cash Flow,2024-03-31,-1332000000.0
+ROUTE,A,cashflow,Free Cash Flow,2025-03-31,5811600000.0
+ROUTE,A,cashflow,Free Cash Flow,2026-03-31,5547200000.0
+ROUTE,A,cashflow,Operating Cash Flow,2023-03-31,732100000.0
+ROUTE,A,cashflow,Operating Cash Flow,2024-03-31,-975900000.0
+ROUTE,A,cashflow,Operating Cash Flow,2025-03-31,6024800000.0
+ROUTE,A,cashflow,Operating Cash Flow,2026-03-31,5811600000.0
+ROUTE,A,income,Basic EPS,2023-03-31,52.29
+ROUTE,A,income,Basic EPS,2024-03-31,59.95
+ROUTE,A,income,Basic EPS,2025-03-31,50.69
+ROUTE,A,income,Basic EPS,2026-03-31,37.94
+ROUTE,A,income,Diluted EPS,2023-03-31,52.29
+ROUTE,A,income,Diluted EPS,2024-03-31,59.07
+ROUTE,A,income,Diluted EPS,2025-03-31,50.69
+ROUTE,A,income,Diluted EPS,2026-03-31,37.94
+ROUTE,A,income,EBITDA,2023-03-31,4818400000.0
+ROUTE,A,income,EBITDA,2024-03-31,5674200000.0
+ROUTE,A,income,EBITDA,2025-03-31,5541600000.0
+ROUTE,A,income,EBITDA,2026-03-31,4542400000.0
+ROUTE,A,income,Interest Expense,2023-03-31,187400000.0
+ROUTE,A,income,Interest Expense,2024-03-31,262900000.0
+ROUTE,A,income,Interest Expense,2025-03-31,389700000.0
+ROUTE,A,income,Interest Expense,2026-03-31,95900000.0
+ROUTE,A,income,Net Income,2023-03-31,3270600000.0
+ROUTE,A,income,Net Income,2024-03-31,3750800000.0
+ROUTE,A,income,Net Income,2025-03-31,3188500000.0
+ROUTE,A,income,Net Income,2026-03-31,2390200000.0
+ROUTE,A,income,Net Income Common Stockholders,2023-03-31,3270600000.0
+ROUTE,A,income,Net Income Common Stockholders,2024-03-31,3750800000.0
+ROUTE,A,income,Net Income Common Stockholders,2025-03-31,3188500000.0
+ROUTE,A,income,Net Income Common Stockholders,2026-03-31,2390200000.0
+ROUTE,A,income,Operating Income,2023-03-31,3838600000.0
+ROUTE,A,income,Operating Income,2024-03-31,4440800000.0
+ROUTE,A,income,Operating Income,2025-03-31,4451900000.0
+ROUTE,A,income,Operating Income,2026-03-31,4622000000.0
+ROUTE,A,income,Pretax Income,2023-03-31,3815000000.0
+ROUTE,A,income,Pretax Income,2024-03-31,4550800000.0
+ROUTE,A,income,Pretax Income,2025-03-31,4261100000.0
+ROUTE,A,income,Pretax Income,2026-03-31,3530400000.0
+ROUTE,A,income,Total Revenue,2023-03-31,35692300000.0
+ROUTE,A,income,Total Revenue,2024-03-31,40232900000.0
+ROUTE,A,income,Total Revenue,2025-03-31,45756200000.0
+ROUTE,A,income,Total Revenue,2026-03-31,44082100000.0
+ROUTE,Q,income,Basic EPS,2025-06-30,8.45
+ROUTE,Q,income,Basic EPS,2025-12-31,15.51
+ROUTE,Q,income,Basic EPS,2026-03-31,17.35
+ROUTE,Q,income,Basic EPS,2026-06-30,9.94
+ROUTE,Q,income,Basic EPS,2026-09-30,12.63
+ROUTE,Q,income,Diluted EPS,2025-06-30,8.45
+ROUTE,Q,income,Diluted EPS,2025-12-31,15.51
+ROUTE,Q,income,Diluted EPS,2026-03-31,17.35
+ROUTE,Q,income,Diluted EPS,2026-06-30,9.94
+ROUTE,Q,income,Diluted EPS,2026-09-30,12.63
+ROUTE,Q,income,EBITDA,2025-06-30,1048700000.0
+ROUTE,Q,income,EBITDA,2025-12-31,1592600000.0
+ROUTE,Q,income,EBITDA,2026-03-31,1640800000.0
+ROUTE,Q,income,EBITDA,2026-06-30,1165400000.0
+ROUTE,Q,income,EBITDA,2026-09-30,1272300000.0
+ROUTE,Q,income,Interest Expense,2025-06-30,58200000.0
+ROUTE,Q,income,Interest Expense,2025-12-31,14200000.0
+ROUTE,Q,income,Interest Expense,2026-03-31,12000000.0
+ROUTE,Q,income,Interest Expense,2026-06-30,13600000.0
+ROUTE,Q,income,Interest Expense,2026-09-30,24600000.0
+ROUTE,Q,income,Net Income,2025-06-30,532100000.0
+ROUTE,Q,income,Net Income,2025-12-31,977000000.0
+ROUTE,Q,income,Net Income,2026-03-31,1093200000.0
+ROUTE,Q,income,Net Income,2026-06-30,626100000.0
+ROUTE,Q,income,Net Income,2026-09-30,795700000.0
+ROUTE,Q,income,Net Income Common Stockholders,2025-06-30,532100000.0
+ROUTE,Q,income,Net Income Common Stockholders,2025-12-31,977000000.0
+ROUTE,Q,income,Net Income Common Stockholders,2026-03-31,1093200000.0
+ROUTE,Q,income,Net Income Common Stockholders,2026-06-30,626100000.0
+ROUTE,Q,income,Net Income Common Stockholders,2026-09-30,795700000.0
+ROUTE,Q,income,Operating Income,2025-06-30,714200000.0
+ROUTE,Q,income,Operating Income,2025-12-31,1237600000.0
+ROUTE,Q,income,Operating Income,2026-03-31,1126200000.0
+ROUTE,Q,income,Operating Income,2026-06-30,817700000.0
+ROUTE,Q,income,Operating Income,2026-09-30,911800000.0
+ROUTE,Q,income,Pretax Income,2025-06-30,765700000.0
+ROUTE,Q,income,Pretax Income,2025-12-31,1352100000.0
+ROUTE,Q,income,Pretax Income,2026-03-31,1392700000.0
+ROUTE,Q,income,Pretax Income,2026-06-30,914700000.0
+ROUTE,Q,income,Pretax Income,2026-09-30,1009300000.0
+ROUTE,Q,income,Total Revenue,2025-06-30,10508300000.0
+ROUTE,Q,income,Total Revenue,2025-12-31,11070600000.0
+ROUTE,Q,income,Total Revenue,2026-03-31,11309000000.0
+ROUTE,Q,income,Total Revenue,2026-06-30,11515100000.0
+ROUTE,Q,income,Total Revenue,2026-09-30,11796700000.0

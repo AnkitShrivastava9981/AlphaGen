@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KRN,A,balance,Cash And Cash Equivalents,2023-03-31,74570000.0
+KRN,A,balance,Cash And Cash Equivalents,2024-03-31,103081000.0
+KRN,A,balance,Cash And Cash Equivalents,2025-03-31,102634000.0
+KRN,A,balance,Cash And Cash Equivalents,2026-03-31,99879000.0
+KRN,A,balance,Net Debt,2023-03-31,291873000.0
+KRN,A,balance,Net Debt,2024-03-31,493838000.0
+KRN,A,balance,Net Debt,2025-03-31,232039000.0
+KRN,A,balance,Net Debt,2026-03-31,1773248000.0
+KRN,A,balance,Ordinary Shares Number,2023-03-31,62156600.0
+KRN,A,balance,Ordinary Shares Number,2024-03-31,62156600.0
+KRN,A,balance,Ordinary Shares Number,2025-03-31,62156600.0
+KRN,A,balance,Ordinary Shares Number,2026-03-31,62156600.0
+KRN,A,balance,Stockholders Equity,2023-03-31,595701000.0
+KRN,A,balance,Stockholders Equity,2024-03-31,1302847000.0
+KRN,A,balance,Stockholders Equity,2025-03-31,4986345000.0
+KRN,A,balance,Stockholders Equity,2026-03-31,5739948000.0
+KRN,A,balance,Total Assets,2023-03-31,1487591000.0
+KRN,A,balance,Total Assets,2024-03-31,2574225000.0
+KRN,A,balance,Total Assets,2025-03-31,5951145000.0
+KRN,A,balance,Total Assets,2026-03-31,9318160000.0
+KRN,A,balance,Total Debt,2023-03-31,366443000.0
+KRN,A,balance,Total Debt,2024-03-31,869596000.0
+KRN,A,balance,Total Debt,2025-03-31,334673000.0
+KRN,A,balance,Total Debt,2026-03-31,1873127000.0
+KRN,A,cashflow,Capital Expenditure,2023-03-31,-139988000.0
+KRN,A,cashflow,Capital Expenditure,2024-03-31,-697861000.0
+KRN,A,cashflow,Capital Expenditure,2025-03-31,-1510060000.0
+KRN,A,cashflow,Capital Expenditure,2026-03-31,-2475315000.0
+KRN,A,cashflow,Free Cash Flow,2023-03-31,-89263000.0
+KRN,A,cashflow,Free Cash Flow,2024-03-31,-528614000.0
+KRN,A,cashflow,Free Cash Flow,2025-03-31,-1295620000.0
+KRN,A,cashflow,Free Cash Flow,2026-03-31,-3613320000.0
+KRN,A,cashflow,Operating Cash Flow,2023-03-31,50725000.0
+KRN,A,cashflow,Operating Cash Flow,2024-03-31,169247000.0
+KRN,A,cashflow,Operating Cash Flow,2025-03-31,214440000.0
+KRN,A,cashflow,Operating Cash Flow,2026-03-31,-1138005000.0
+KRN,A,income,Basic EPS,2023-03-31,6.932204
+KRN,A,income,Basic EPS,2024-03-31,8.450302
+KRN,A,income,Basic EPS,2025-03-31,9.75
+KRN,A,income,Basic EPS,2026-03-31,12.3
+KRN,A,income,Diluted EPS,2023-03-31,6.932204
+KRN,A,income,Diluted EPS,2024-03-31,8.450302
+KRN,A,income,Diluted EPS,2025-03-31,9.75
+KRN,A,income,Diluted EPS,2026-03-31,12.3
+KRN,A,income,EBITDA,2023-03-31,510283000.0
+KRN,A,income,EBITDA,2024-03-31,625497000.0
+KRN,A,income,EBITDA,2025-03-31,817558000.0
+KRN,A,income,EBITDA,2026-03-31,1214992000.0
+KRN,A,income,Interest Expense,2023-03-31,23602000.0
+KRN,A,income,Interest Expense,2024-03-31,26253000.0
+KRN,A,income,Interest Expense,2025-03-31,28017000.0
+KRN,A,income,Interest Expense,2026-03-31,47786000.0
+KRN,A,income,Net Income,2023-03-31,323135000.0
+KRN,A,income,Net Income,2024-03-31,393899000.0
+KRN,A,income,Net Income,2025-03-31,528754000.0
+KRN,A,income,Net Income,2026-03-31,764674000.0
+KRN,A,income,Net Income Common Stockholders,2023-03-31,323135000.0
+KRN,A,income,Net Income Common Stockholders,2024-03-31,393899000.0
+KRN,A,income,Net Income Common Stockholders,2025-03-31,528754000.0
+KRN,A,income,Net Income Common Stockholders,2026-03-31,764674000.0
+KRN,A,income,Operating Income,2023-03-31,471127000.0
+KRN,A,income,Operating Income,2024-03-31,558396000.0
+KRN,A,income,Operating Income,2025-03-31,676596000.0
+KRN,A,income,Operating Income,2026-03-31,966304000.0
+KRN,A,income,Pretax Income,2023-03-31,454967000.0
+KRN,A,income,Pretax Income,2024-03-31,559339000.0
+KRN,A,income,Pretax Income,2025-03-31,743216000.0
+KRN,A,income,Pretax Income,2026-03-31,979557000.0
+KRN,A,income,Total Revenue,2023-03-31,2473012000.0
+KRN,A,income,Total Revenue,2024-03-31,3081187000.0
+KRN,A,income,Total Revenue,2025-03-31,4291597000.0
+KRN,A,income,Total Revenue,2026-03-31,6000145000.0
+KRN,Q,income,Basic EPS,2025-06-30,2.0
+KRN,Q,income,Basic EPS,2025-12-31,3.65
+KRN,Q,income,Basic EPS,2026-03-31,3.75
+KRN,Q,income,Basic EPS,2026-06-30,5.2
+KRN,Q,income,Basic EPS,2026-09-30,5.52
+KRN,Q,income,Diluted EPS,2025-06-30,2.0
+KRN,Q,income,Diluted EPS,2025-12-31,3.65
+KRN,Q,income,Diluted EPS,2026-03-31,3.75
+KRN,Q,income,Diluted EPS,2026-06-30,5.2
+KRN,Q,income,Diluted EPS,2026-09-30,5.52
+KRN,Q,income,EBITDA,2025-06-30,211695000.0
+KRN,Q,income,EBITDA,2025-12-31,333373000.0
+KRN,Q,income,EBITDA,2026-03-31,354640000.0
+KRN,Q,income,EBITDA,2026-06-30,518396000.0
+KRN,Q,income,EBITDA,2026-09-30,562330000.0
+KRN,Q,income,Interest Expense,2025-06-30,6955000.0
+KRN,Q,income,Interest Expense,2025-12-31,17042000.0
+KRN,Q,income,Interest Expense,2026-03-31,26403000.0
+KRN,Q,income,Interest Expense,2026-06-30,30412000.0
+KRN,Q,income,Interest Expense,2026-09-30,30510000.0
+KRN,Q,income,Net Income,2025-06-30,124208000.0
+KRN,Q,income,Net Income,2025-12-31,226639000.0
+KRN,Q,income,Net Income,2026-03-31,233615000.0
+KRN,Q,income,Net Income,2026-06-30,328956000.0
+KRN,Q,income,Net Income,2026-09-30,361112000.0
+KRN,Q,income,Net Income Common Stockholders,2025-06-30,124208000.0
+KRN,Q,income,Net Income Common Stockholders,2025-12-31,226639000.0
+KRN,Q,income,Net Income Common Stockholders,2026-03-31,233615000.0
+KRN,Q,income,Net Income Common Stockholders,2026-06-30,328956000.0
+KRN,Q,income,Net Income Common Stockholders,2026-09-30,361112000.0
+KRN,Q,income,Operating Income,2025-09-30,254119000.0
+KRN,Q,income,Operating Income,2025-12-31,253160000.0
+KRN,Q,income,Operating Income,2026-03-31,275741000.0
+KRN,Q,income,Operating Income,2026-06-30,425944000.0
+KRN,Q,income,Operating Income,2026-09-30,414221000.0
+KRN,Q,income,Pretax Income,2025-06-30,182890000.0
+KRN,Q,income,Pretax Income,2025-12-31,258736000.0
+KRN,Q,income,Pretax Income,2026-03-31,268493000.0
+KRN,Q,income,Pretax Income,2026-06-30,423308000.0
+KRN,Q,income,Pretax Income,2026-09-30,458574000.0
+KRN,Q,income,Total Revenue,2025-09-30,1520682000.0
+KRN,Q,income,Total Revenue,2025-12-31,1532276000.0
+KRN,Q,income,Total Revenue,2026-03-31,1794798000.0
+KRN,Q,income,Total Revenue,2026-06-30,2523170000.0
+KRN,Q,income,Total Revenue,2026-09-30,3191358000.0

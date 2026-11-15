@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+GAEL,A,balance,Cash And Cash Equivalents,2023-03-31,1039700000.0
+GAEL,A,balance,Cash And Cash Equivalents,2024-03-31,93700000.0
+GAEL,A,balance,Cash And Cash Equivalents,2025-03-31,12200000.0
+GAEL,A,balance,Cash And Cash Equivalents,2026-03-31,50000000.0
+GAEL,A,balance,Net Debt,2023-03-31,1167000000.0
+GAEL,A,balance,Net Debt,2024-03-31,1855600000.0
+GAEL,A,balance,Net Debt,2025-03-31,2163400000.0
+GAEL,A,balance,Net Debt,2026-03-31,4285800000.0
+GAEL,A,balance,Ordinary Shares Number,2023-03-31,458670660.0
+GAEL,A,balance,Ordinary Shares Number,2024-03-31,458670660.0
+GAEL,A,balance,Ordinary Shares Number,2025-03-31,458670660.0
+GAEL,A,balance,Ordinary Shares Number,2026-03-31,458670660.0
+GAEL,A,balance,Stockholders Equity,2023-03-31,24339800000.0
+GAEL,A,balance,Stockholders Equity,2024-03-31,27690200000.0
+GAEL,A,balance,Stockholders Equity,2025-03-31,30022700000.0
+GAEL,A,balance,Stockholders Equity,2026-03-31,32949900000.0
+GAEL,A,balance,Total Assets,2023-03-31,29516000000.0
+GAEL,A,balance,Total Assets,2024-03-31,33097700000.0
+GAEL,A,balance,Total Assets,2025-03-31,35870700000.0
+GAEL,A,balance,Total Assets,2026-03-31,41595400000.0
+GAEL,A,balance,Total Debt,2023-03-31,2266500000.0
+GAEL,A,balance,Total Debt,2024-03-31,1970200000.0
+GAEL,A,balance,Total Debt,2025-03-31,2286900000.0
+GAEL,A,balance,Total Debt,2026-03-31,4410000000.0
+GAEL,A,cashflow,Capital Expenditure,2023-03-31,-1976800000.0
+GAEL,A,cashflow,Capital Expenditure,2024-03-31,-2091700000.0
+GAEL,A,cashflow,Capital Expenditure,2025-03-31,-2964300000.0
+GAEL,A,cashflow,Capital Expenditure,2026-03-31,-3828100000.0
+GAEL,A,cashflow,Free Cash Flow,2023-03-31,437700000.0
+GAEL,A,cashflow,Free Cash Flow,2024-03-31,39800000.0
+GAEL,A,cashflow,Free Cash Flow,2025-03-31,441500000.0
+GAEL,A,cashflow,Free Cash Flow,2026-03-31,-1547700000.0
+GAEL,A,cashflow,Operating Cash Flow,2023-03-31,2414500000.0
+GAEL,A,cashflow,Operating Cash Flow,2024-03-31,2131500000.0
+GAEL,A,cashflow,Operating Cash Flow,2025-03-31,3405800000.0
+GAEL,A,cashflow,Operating Cash Flow,2026-03-31,2280400000.0
+GAEL,A,income,Basic EPS,2023-03-31,7.2
+GAEL,A,income,Basic EPS,2024-03-31,7.54
+GAEL,A,income,Basic EPS,2025-03-31,5.44
+GAEL,A,income,Basic EPS,2026-03-31,6.63
+GAEL,A,income,Diluted EPS,2023-03-31,7.2
+GAEL,A,income,Diluted EPS,2024-03-31,7.54
+GAEL,A,income,Diluted EPS,2025-03-31,5.44
+GAEL,A,income,Diluted EPS,2026-03-31,6.63
+GAEL,A,income,EBITDA,2023-03-31,5456100000.0
+GAEL,A,income,EBITDA,2024-03-31,5827600000.0
+GAEL,A,income,EBITDA,2025-03-31,4824300000.0
+GAEL,A,income,EBITDA,2026-03-31,5676800000.0
+GAEL,A,income,Interest Expense,2023-03-31,98200000.0
+GAEL,A,income,Interest Expense,2024-03-31,140500000.0
+GAEL,A,income,Interest Expense,2025-03-31,157200000.0
+GAEL,A,income,Interest Expense,2026-03-31,255400000.0
+GAEL,A,income,Net Income,2023-03-31,3301000000.0
+GAEL,A,income,Net Income,2024-03-31,3458600000.0
+GAEL,A,income,Net Income,2025-03-31,2493300000.0
+GAEL,A,income,Net Income,2026-03-31,3042800000.0
+GAEL,A,income,Net Income Common Stockholders,2023-03-31,3301000000.0
+GAEL,A,income,Net Income Common Stockholders,2024-03-31,3458600000.0
+GAEL,A,income,Net Income Common Stockholders,2025-03-31,2493300000.0
+GAEL,A,income,Net Income Common Stockholders,2026-03-31,3042800000.0
+GAEL,A,income,Operating Income,2023-03-31,3855700000.0
+GAEL,A,income,Operating Income,2024-03-31,3232900000.0
+GAEL,A,income,Operating Income,2025-03-31,2892900000.0
+GAEL,A,income,Operating Income,2026-03-31,3512800000.0
+GAEL,A,income,Pretax Income,2023-03-31,4411300000.0
+GAEL,A,income,Pretax Income,2024-03-31,4475700000.0
+GAEL,A,income,Pretax Income,2025-03-31,3409400000.0
+GAEL,A,income,Pretax Income,2026-03-31,4044100000.0
+GAEL,A,income,Total Revenue,2023-03-31,48742000000.0
+GAEL,A,income,Total Revenue,2024-03-31,48996400000.0
+GAEL,A,income,Total Revenue,2025-03-31,45829200000.0
+GAEL,A,income,Total Revenue,2026-03-31,56935800000.0
+GAEL,Q,income,Basic EPS,2025-09-30,0.83
+GAEL,Q,income,Basic EPS,2025-12-31,1.44
+GAEL,Q,income,Basic EPS,2026-03-31,2.95
+GAEL,Q,income,Basic EPS,2026-06-30,3.85
+GAEL,Q,income,Basic EPS,2026-09-30,2.87
+GAEL,Q,income,Diluted EPS,2025-09-30,0.83
+GAEL,Q,income,Diluted EPS,2025-12-31,1.44
+GAEL,Q,income,Diluted EPS,2026-03-31,2.95
+GAEL,Q,income,Diluted EPS,2026-06-30,3.85
+GAEL,Q,income,Diluted EPS,2026-09-30,2.87
+GAEL,Q,income,EBITDA,2025-09-30,950300000.0
+GAEL,Q,income,EBITDA,2025-12-31,1271500000.0
+GAEL,Q,income,EBITDA,2026-03-31,2208400000.0
+GAEL,Q,income,EBITDA,2026-06-30,2710600000.0
+GAEL,Q,income,EBITDA,2026-09-30,2143100000.0
+GAEL,Q,income,Interest Expense,2025-09-30,91400000.0
+GAEL,Q,income,Interest Expense,2025-12-31,55300000.0
+GAEL,Q,income,Interest Expense,2026-03-31,73700000.0
+GAEL,Q,income,Interest Expense,2026-06-30,24600000.0
+GAEL,Q,income,Interest Expense,2026-09-30,32100000.0
+GAEL,Q,income,Net Income,2025-09-30,380200000.0
+GAEL,Q,income,Net Income,2025-12-31,659200000.0
+GAEL,Q,income,Net Income,2026-03-31,1353200000.0
+GAEL,Q,income,Net Income,2026-06-30,1767700000.0
+GAEL,Q,income,Net Income,2026-09-30,1317900000.0
+GAEL,Q,income,Net Income Common Stockholders,2025-09-30,380200000.0
+GAEL,Q,income,Net Income Common Stockholders,2025-12-31,659200000.0
+GAEL,Q,income,Net Income Common Stockholders,2026-03-31,1353200000.0
+GAEL,Q,income,Net Income Common Stockholders,2026-06-30,1767700000.0
+GAEL,Q,income,Net Income Common Stockholders,2026-09-30,1317900000.0
+GAEL,Q,income,Operating Income,2025-09-30,407500000.0
+GAEL,Q,income,Operating Income,2025-12-31,660200000.0
+GAEL,Q,income,Operating Income,2026-03-31,1611700000.0
+GAEL,Q,income,Operating Income,2026-06-30,1986100000.0
+GAEL,Q,income,Operating Income,2026-09-30,1634300000.0
+GAEL,Q,income,Pretax Income,2025-09-30,507900000.0
+GAEL,Q,income,Pretax Income,2025-12-31,882000000.0
+GAEL,Q,income,Pretax Income,2026-03-31,1797500000.0
+GAEL,Q,income,Pretax Income,2026-06-30,2352800000.0
+GAEL,Q,income,Pretax Income,2026-09-30,1771900000.0
+GAEL,Q,income,Total Revenue,2025-09-30,14866900000.0
+GAEL,Q,income,Total Revenue,2025-12-31,14841700000.0
+GAEL,Q,income,Total Revenue,2026-03-31,14665100000.0
+GAEL,Q,income,Total Revenue,2026-06-30,15942200000.0
+GAEL,Q,income,Total Revenue,2026-09-30,14507300000.0

@@ -1,0 +1,110 @@
+symbol,freq,statement,item,period_end,value
+ZEEL,A,balance,Cash And Cash Equivalents,2023-03-31,7179000000.0
+ZEEL,A,balance,Cash And Cash Equivalents,2024-03-31,11131000000.0
+ZEEL,A,balance,Cash And Cash Equivalents,2025-03-31,7204000000.0
+ZEEL,A,balance,Cash And Cash Equivalents,2026-03-31,7978000000.0
+ZEEL,A,balance,Ordinary Shares Number,2023-03-31,960519420.0
+ZEEL,A,balance,Ordinary Shares Number,2024-03-31,960519420.0
+ZEEL,A,balance,Ordinary Shares Number,2025-03-31,960519420.0
+ZEEL,A,balance,Ordinary Shares Number,2026-03-31,960519420.0
+ZEEL,A,balance,Stockholders Equity,2023-03-31,107219000000.0
+ZEEL,A,balance,Stockholders Equity,2024-03-31,108728000000.0
+ZEEL,A,balance,Stockholders Equity,2025-03-31,115335000000.0
+ZEEL,A,balance,Stockholders Equity,2026-03-31,117318000000.0
+ZEEL,A,balance,Total Assets,2023-03-31,137283000000.0
+ZEEL,A,balance,Total Assets,2024-03-31,134497000000.0
+ZEEL,A,balance,Total Assets,2025-03-31,137341000000.0
+ZEEL,A,balance,Total Assets,2026-03-31,142155000000.0
+ZEEL,A,balance,Total Debt,2023-03-31,2820000000.0
+ZEEL,A,balance,Total Debt,2024-03-31,2303000000.0
+ZEEL,A,balance,Total Debt,2025-03-31,3209000000.0
+ZEEL,A,balance,Total Debt,2026-03-31,2651000000.0
+ZEEL,A,cashflow,Capital Expenditure,2023-03-31,-2676000000.0
+ZEEL,A,cashflow,Capital Expenditure,2024-03-31,-1305000000.0
+ZEEL,A,cashflow,Capital Expenditure,2025-03-31,-916000000.0
+ZEEL,A,cashflow,Capital Expenditure,2026-03-31,-1604000000.0
+ZEEL,A,cashflow,Free Cash Flow,2023-03-31,-1386000000.0
+ZEEL,A,cashflow,Free Cash Flow,2024-03-31,5839000000.0
+ZEEL,A,cashflow,Free Cash Flow,2025-03-31,10944000000.0
+ZEEL,A,cashflow,Free Cash Flow,2026-03-31,5477000000.0
+ZEEL,A,cashflow,Operating Cash Flow,2023-03-31,1290000000.0
+ZEEL,A,cashflow,Operating Cash Flow,2024-03-31,7144000000.0
+ZEEL,A,cashflow,Operating Cash Flow,2025-03-31,11860000000.0
+ZEEL,A,cashflow,Operating Cash Flow,2026-03-31,7081000000.0
+ZEEL,A,income,Diluted EPS,2023-03-31,0.5
+ZEEL,A,income,Diluted EPS,2024-03-31,1.47
+ZEEL,A,income,Diluted EPS,2025-03-31,7.08
+ZEEL,A,income,Diluted EPS,2026-03-31,2.82
+ZEEL,A,income,EBITDA,2023-03-31,8796000000.0
+ZEEL,A,income,EBITDA,2024-03-31,7699000000.0
+ZEEL,A,income,EBITDA,2025-03-31,12407000000.0
+ZEEL,A,income,EBITDA,2026-03-31,5181000000.0
+ZEEL,A,income,Interest Expense,2023-03-31,702000000.0
+ZEEL,A,income,Interest Expense,2024-03-31,721000000.0
+ZEEL,A,income,Interest Expense,2025-03-31,273000000.0
+ZEEL,A,income,Interest Expense,2026-03-31,273000000.0
+ZEEL,A,income,Net Income,2023-03-31,478000000.0
+ZEEL,A,income,Net Income,2024-03-31,1414000000.0
+ZEEL,A,income,Net Income,2025-03-31,6795000000.0
+ZEEL,A,income,Net Income,2026-03-31,2731000000.0
+ZEEL,A,income,Net Income Common Stockholders,2023-03-31,478000000.0
+ZEEL,A,income,Net Income Common Stockholders,2024-03-31,1414000000.0
+ZEEL,A,income,Net Income Common Stockholders,2025-03-31,6795000000.0
+ZEEL,A,income,Net Income Common Stockholders,2026-03-31,2731000000.0
+ZEEL,A,income,Operating Income,2023-03-31,7884000000.0
+ZEEL,A,income,Operating Income,2024-03-31,5981000000.0
+ZEEL,A,income,Operating Income,2025-03-31,9180000000.0
+ZEEL,A,income,Operating Income,2026-03-31,1419000000.0
+ZEEL,A,income,Pretax Income,2023-03-31,4681000000.0
+ZEEL,A,income,Pretax Income,2024-03-31,3811000000.0
+ZEEL,A,income,Pretax Income,2025-03-31,9261000000.0
+ZEEL,A,income,Pretax Income,2026-03-31,2736000000.0
+ZEEL,A,income,Total Revenue,2023-03-31,80879000000.0
+ZEEL,A,income,Total Revenue,2024-03-31,86372000000.0
+ZEEL,A,income,Total Revenue,2025-03-31,82801000000.0
+ZEEL,A,income,Total Revenue,2026-03-31,80880000000.0
+ZEEL,Q,income,Basic EPS,2025-06-30,1.5
+ZEEL,Q,income,Basic EPS,2025-12-31,1.62
+ZEEL,Q,income,Basic EPS,2026-03-31,-1.08
+ZEEL,Q,income,Basic EPS,2026-06-30,0.79
+ZEEL,Q,income,Basic EPS,2026-09-30,0.5
+ZEEL,Q,income,Diluted EPS,2025-06-30,1.5
+ZEEL,Q,income,Diluted EPS,2025-12-31,1.62
+ZEEL,Q,income,Diluted EPS,2026-03-31,-1.08
+ZEEL,Q,income,Diluted EPS,2026-06-30,0.79
+ZEEL,Q,income,Diluted EPS,2026-09-30,0.5
+ZEEL,Q,income,EBITDA,2025-06-30,2640000000.0
+ZEEL,Q,income,EBITDA,2025-12-31,2646000000.0
+ZEEL,Q,income,EBITDA,2026-03-31,-1785000000.0
+ZEEL,Q,income,EBITDA,2026-06-30,1308000000.0
+ZEEL,Q,income,EBITDA,2026-09-30,1084000000.0
+ZEEL,Q,income,Interest Expense,2025-06-30,77000000.0
+ZEEL,Q,income,Interest Expense,2025-12-31,92000000.0
+ZEEL,Q,income,Interest Expense,2026-03-31,149000000.0
+ZEEL,Q,income,Interest Expense,2026-06-30,132000000.0
+ZEEL,Q,income,Interest Expense,2026-09-30,25000000.0
+ZEEL,Q,income,Net Income,2025-06-30,1437000000.0
+ZEEL,Q,income,Net Income,2025-12-31,1553000000.0
+ZEEL,Q,income,Net Income,2026-03-31,-1024000000.0
+ZEEL,Q,income,Net Income,2026-06-30,763000000.0
+ZEEL,Q,income,Net Income,2026-09-30,478000000.0
+ZEEL,Q,income,Net Income Common Stockholders,2025-06-30,1437000000.0
+ZEEL,Q,income,Net Income Common Stockholders,2025-12-31,1553000000.0
+ZEEL,Q,income,Net Income Common Stockholders,2026-03-31,-1024000000.0
+ZEEL,Q,income,Net Income Common Stockholders,2026-06-30,763000000.0
+ZEEL,Q,income,Net Income Common Stockholders,2026-09-30,478000000.0
+ZEEL,Q,income,Operating Income,2025-06-30,1689000000.0
+ZEEL,Q,income,Operating Income,2025-12-31,1868000000.0
+ZEEL,Q,income,Operating Income,2026-03-31,-3159000000.0
+ZEEL,Q,income,Operating Income,2026-06-30,354000000.0
+ZEEL,Q,income,Operating Income,2026-09-30,280000000.0
+ZEEL,Q,income,Pretax Income,2025-06-30,1972000000.0
+ZEEL,Q,income,Pretax Income,2025-12-31,2017000000.0
+ZEEL,Q,income,Pretax Income,2026-03-31,-2407000000.0
+ZEEL,Q,income,Pretax Income,2026-06-30,741000000.0
+ZEEL,Q,income,Pretax Income,2026-09-30,631000000.0
+ZEEL,Q,income,Total Revenue,2025-06-30,18248000000.0
+ZEEL,Q,income,Total Revenue,2025-12-31,22801000000.0
+ZEEL,Q,income,Total Revenue,2026-03-31,20248000000.0
+ZEEL,Q,income,Total Revenue,2026-06-30,19073000000.0
+ZEEL,Q,income,Total Revenue,2026-09-30,22246000000.0

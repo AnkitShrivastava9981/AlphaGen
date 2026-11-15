@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+SUZLON,A,balance,Cash And Cash Equivalents,2023-03-31,3673100000.0
+SUZLON,A,balance,Cash And Cash Equivalents,2024-03-31,2495700000.0
+SUZLON,A,balance,Cash And Cash Equivalents,2025-03-31,9010700000.0
+SUZLON,A,balance,Cash And Cash Equivalents,2026-03-31,6309700000.0
+SUZLON,A,balance,Net Debt,2022-03-31,59531800000.0
+SUZLON,A,balance,Net Debt,2023-03-31,15375700000.0
+SUZLON,A,balance,Net Debt,2026-03-31,583500000.0
+SUZLON,A,balance,Ordinary Shares Number,2023-03-31,12473087083.0
+SUZLON,A,balance,Ordinary Shares Number,2024-03-31,13612688222.0
+SUZLON,A,balance,Ordinary Shares Number,2025-03-31,13648872068.0
+SUZLON,A,balance,Ordinary Shares Number,2026-03-31,13714828318.0
+SUZLON,A,balance,Stockholders Equity,2023-03-31,10991400000.0
+SUZLON,A,balance,Stockholders Equity,2024-03-31,39203100000.0
+SUZLON,A,balance,Stockholders Equity,2025-03-31,61057200000.0
+SUZLON,A,balance,Stockholders Equity,2026-03-31,94635200000.0
+SUZLON,A,balance,Total Assets,2023-03-31,55233800000.0
+SUZLON,A,balance,Total Assets,2024-03-31,71790200000.0
+SUZLON,A,balance,Total Assets,2025-03-31,129595900000.0
+SUZLON,A,balance,Total Assets,2026-03-31,188688600000.0
+SUZLON,A,balance,Total Debt,2023-03-31,19379200000.0
+SUZLON,A,balance,Total Debt,2024-03-31,1502400000.0
+SUZLON,A,balance,Total Debt,2025-03-31,7401200000.0
+SUZLON,A,balance,Total Debt,2026-03-31,9810900000.0
+SUZLON,A,cashflow,Capital Expenditure,2023-03-31,-1006800000.0
+SUZLON,A,cashflow,Capital Expenditure,2024-03-31,-2273600000.0
+SUZLON,A,cashflow,Capital Expenditure,2025-03-31,-3706100000.0
+SUZLON,A,cashflow,Capital Expenditure,2026-03-31,-5769800000.0
+SUZLON,A,cashflow,Free Cash Flow,2023-03-31,3904000000.0
+SUZLON,A,cashflow,Free Cash Flow,2024-03-31,-1478300000.0
+SUZLON,A,cashflow,Free Cash Flow,2025-03-31,7213500000.0
+SUZLON,A,cashflow,Free Cash Flow,2026-03-31,6250800000.0
+SUZLON,A,cashflow,Operating Cash Flow,2023-03-31,4910800000.0
+SUZLON,A,cashflow,Operating Cash Flow,2024-03-31,795300000.0
+SUZLON,A,cashflow,Operating Cash Flow,2025-03-31,10919600000.0
+SUZLON,A,cashflow,Operating Cash Flow,2026-03-31,12020600000.0
+SUZLON,A,income,Basic EPS,2023-03-31,2.64
+SUZLON,A,income,Basic EPS,2024-03-31,0.5
+SUZLON,A,income,Basic EPS,2025-03-31,1.52
+SUZLON,A,income,Basic EPS,2026-03-31,2.31
+SUZLON,A,income,Diluted EPS,2023-03-31,2.64
+SUZLON,A,income,Diluted EPS,2024-03-31,0.5
+SUZLON,A,income,Diluted EPS,2025-03-31,1.51
+SUZLON,A,income,Diluted EPS,2026-03-31,2.31
+SUZLON,A,income,EBITDA,2023-03-31,35343600000.0
+SUZLON,A,income,EBITDA,2024-03-31,9547400000.0
+SUZLON,A,income,EBITDA,2025-03-31,18115000000.0
+SUZLON,A,income,EBITDA,2026-03-31,29634600000.0
+SUZLON,A,income,Interest Expense,2023-03-31,3829700000.0
+SUZLON,A,income,Interest Expense,2024-03-31,1056500000.0
+SUZLON,A,income,Interest Expense,2025-03-31,1056800000.0
+SUZLON,A,income,Interest Expense,2026-03-31,2232900000.0
+SUZLON,A,income,Net Income,2023-03-31,28490100000.0
+SUZLON,A,income,Net Income,2024-03-31,6603500000.0
+SUZLON,A,income,Net Income,2025-03-31,20716300000.0
+SUZLON,A,income,Net Income,2026-03-31,31633900000.0
+SUZLON,A,income,Net Income Common Stockholders,2023-03-31,28490100000.0
+SUZLON,A,income,Net Income Common Stockholders,2024-03-31,6603500000.0
+SUZLON,A,income,Net Income Common Stockholders,2025-03-31,20716300000.0
+SUZLON,A,income,Net Income Common Stockholders,2026-03-31,31633900000.0
+SUZLON,A,income,Operating Income,2023-03-31,5857800000.0
+SUZLON,A,income,Operating Income,2024-03-31,8363700000.0
+SUZLON,A,income,Operating Income,2025-03-31,16007400000.0
+SUZLON,A,income,Operating Income,2026-03-31,27233200000.0
+SUZLON,A,income,Pretax Income,2023-03-31,28917100000.0
+SUZLON,A,income,Pretax Income,2024-03-31,6594900000.0
+SUZLON,A,income,Pretax Income,2025-03-31,14466300000.0
+SUZLON,A,income,Pretax Income,2026-03-31,24217200000.0
+SUZLON,A,income,Total Revenue,2023-03-31,58542900000.0
+SUZLON,A,income,Total Revenue,2024-03-31,64025700000.0
+SUZLON,A,income,Total Revenue,2025-03-31,107633700000.0
+SUZLON,A,income,Total Revenue,2026-03-31,165466500000.0
+SUZLON,Q,income,Basic EPS,2025-06-30,0.24
+SUZLON,Q,income,Basic EPS,2025-12-31,0.32
+SUZLON,Q,income,Basic EPS,2026-03-31,0.81
+SUZLON,Q,income,Basic EPS,2026-06-30,0.22
+SUZLON,Q,income,Basic EPS,2026-09-30,0.29
+SUZLON,Q,income,Diluted EPS,2025-06-30,0.24
+SUZLON,Q,income,Diluted EPS,2025-12-31,0.32
+SUZLON,Q,income,Diluted EPS,2026-03-31,0.81
+SUZLON,Q,income,Diluted EPS,2026-06-30,0.22
+SUZLON,Q,income,Diluted EPS,2026-09-30,0.29
+SUZLON,Q,income,EBITDA,2025-06-30,6325400000.0
+SUZLON,Q,income,EBITDA,2025-12-31,7610100000.0
+SUZLON,Q,income,EBITDA,2026-03-31,10613800000.0
+SUZLON,Q,income,EBITDA,2026-06-30,6285900000.0
+SUZLON,Q,income,EBITDA,2026-09-30,7521600000.0
+SUZLON,Q,income,Interest Expense,2025-06-30,1030700000.0
+SUZLON,Q,income,Interest Expense,2025-12-31,1142600000.0
+SUZLON,Q,income,Interest Expense,2026-03-31,1351600000.0
+SUZLON,Q,income,Interest Expense,2026-06-30,1336200000.0
+SUZLON,Q,income,Interest Expense,2026-09-30,1225800000.0
+SUZLON,Q,income,Net Income,2025-06-30,3243200000.0
+SUZLON,Q,income,Net Income,2025-12-31,4452800000.0
+SUZLON,Q,income,Net Income,2026-03-31,11143500000.0
+SUZLON,Q,income,Net Income,2026-06-30,3052200000.0
+SUZLON,Q,income,Net Income,2026-09-30,3941500000.0
+SUZLON,Q,income,Net Income Common Stockholders,2025-06-30,3243200000.0
+SUZLON,Q,income,Net Income Common Stockholders,2025-12-31,4452800000.0
+SUZLON,Q,income,Net Income Common Stockholders,2026-03-31,11143500000.0
+SUZLON,Q,income,Net Income Common Stockholders,2026-06-30,3052200000.0
+SUZLON,Q,income,Net Income Common Stockholders,2026-09-30,3941500000.0
+SUZLON,Q,income,Operating Income,2025-06-30,5326300000.0
+SUZLON,Q,income,Operating Income,2025-12-31,6611400000.0
+SUZLON,Q,income,Operating Income,2026-03-31,8978900000.0
+SUZLON,Q,income,Operating Income,2026-06-30,4985300000.0
+SUZLON,Q,income,Operating Income,2026-09-30,6184600000.0
+SUZLON,Q,income,Pretax Income,2025-06-30,4592300000.0
+SUZLON,Q,income,Pretax Income,2025-12-31,5667500000.0
+SUZLON,Q,income,Pretax Income,2026-03-31,8332400000.0
+SUZLON,Q,income,Pretax Income,2026-06-30,3894700000.0
+SUZLON,Q,income,Pretax Income,2026-09-30,5182100000.0
+SUZLON,Q,income,Total Revenue,2025-06-30,31173300000.0
+SUZLON,Q,income,Total Revenue,2025-12-31,42281800000.0
+SUZLON,Q,income,Total Revenue,2026-03-31,54680600000.0
+SUZLON,Q,income,Total Revenue,2026-06-30,38193600000.0
+SUZLON,Q,income,Total Revenue,2026-09-30,48690500000.0

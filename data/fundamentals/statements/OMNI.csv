@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+OMNI,A,balance,Cash And Cash Equivalents,2023-03-31,17780000.0
+OMNI,A,balance,Cash And Cash Equivalents,2024-03-31,22800000.0
+OMNI,A,balance,Cash And Cash Equivalents,2025-03-31,51330000.0
+OMNI,A,balance,Cash And Cash Equivalents,2026-03-31,1637990000.0
+OMNI,A,balance,Net Debt,2023-03-31,870330000.0
+OMNI,A,balance,Net Debt,2024-03-31,2282070000.0
+OMNI,A,balance,Net Debt,2025-03-31,3254940000.0
+OMNI,A,balance,Net Debt,2026-03-31,2340100000.0
+OMNI,A,balance,Ordinary Shares Number,2023-03-31,123666020.0
+OMNI,A,balance,Ordinary Shares Number,2024-03-31,123666020.0
+OMNI,A,balance,Ordinary Shares Number,2025-03-31,123666020.0
+OMNI,A,balance,Ordinary Shares Number,2026-03-31,123666020.0
+OMNI,A,balance,Stockholders Equity,2023-03-31,599380000.0
+OMNI,A,balance,Stockholders Equity,2024-03-31,794750000.0
+OMNI,A,balance,Stockholders Equity,2025-03-31,2036410000.0
+OMNI,A,balance,Stockholders Equity,2026-03-31,6797210000.0
+OMNI,A,balance,Total Assets,2023-03-31,1851750000.0
+OMNI,A,balance,Total Assets,2024-03-31,3869850000.0
+OMNI,A,balance,Total Assets,2025-03-31,6263320000.0
+OMNI,A,balance,Total Assets,2026-03-31,12547820000.0
+OMNI,A,balance,Total Debt,2023-03-31,1026720000.0
+OMNI,A,balance,Total Debt,2024-03-31,2617730000.0
+OMNI,A,balance,Total Debt,2025-03-31,3610190000.0
+OMNI,A,balance,Total Debt,2026-03-31,4347200000.0
+OMNI,A,cashflow,Capital Expenditure,2023-03-31,-463420000.0
+OMNI,A,cashflow,Capital Expenditure,2024-03-31,-1430430000.0
+OMNI,A,cashflow,Capital Expenditure,2025-03-31,-747840000.0
+OMNI,A,cashflow,Capital Expenditure,2026-03-31,-1269150000.0
+OMNI,A,cashflow,Free Cash Flow,2023-03-31,-69870000.0
+OMNI,A,cashflow,Free Cash Flow,2024-03-31,-1217440000.0
+OMNI,A,cashflow,Free Cash Flow,2025-03-31,-1437690000.0
+OMNI,A,cashflow,Free Cash Flow,2026-03-31,-1288970000.0
+OMNI,A,cashflow,Operating Cash Flow,2023-03-31,393550000.0
+OMNI,A,cashflow,Operating Cash Flow,2024-03-31,212990000.0
+OMNI,A,cashflow,Operating Cash Flow,2025-03-31,-689850000.0
+OMNI,A,cashflow,Operating Cash Flow,2026-03-31,-19820000.0
+OMNI,A,income,Basic EPS,2023-03-31,2.611227
+OMNI,A,income,Basic EPS,2024-03-31,1.528957
+OMNI,A,income,Basic EPS,2025-03-31,4.169186
+OMNI,A,income,Basic EPS,2026-03-31,7.45
+OMNI,A,income,Diluted EPS,2023-03-31,2.611227
+OMNI,A,income,Diluted EPS,2024-03-31,1.528957
+OMNI,A,income,Diluted EPS,2025-03-31,3.548833
+OMNI,A,income,Diluted EPS,2026-03-31,7.45
+OMNI,A,income,EBITDA,2023-03-31,670700000.0
+OMNI,A,income,EBITDA,2024-03-31,663390000.0
+OMNI,A,income,EBITDA,2025-03-31,1225480000.0
+OMNI,A,income,EBITDA,2026-03-31,1923870000.0
+OMNI,A,income,Interest Expense,2023-03-31,65900000.0
+OMNI,A,income,Interest Expense,2024-03-31,118690000.0
+OMNI,A,income,Interest Expense,2025-03-31,278420000.0
+OMNI,A,income,Interest Expense,2026-03-31,363500000.0
+OMNI,A,income,Net Income,2023-03-31,322920000.0
+OMNI,A,income,Net Income,2024-03-31,189080000.0
+OMNI,A,income,Net Income,2025-03-31,438870000.0
+OMNI,A,income,Net Income,2026-03-31,793640000.0
+OMNI,A,income,Net Income Common Stockholders,2023-03-31,322920000.0
+OMNI,A,income,Net Income Common Stockholders,2024-03-31,189080000.0
+OMNI,A,income,Net Income Common Stockholders,2025-03-31,438870000.0
+OMNI,A,income,Net Income Common Stockholders,2026-03-31,793640000.0
+OMNI,A,income,Operating Income,2023-03-31,469420000.0
+OMNI,A,income,Operating Income,2024-03-31,419610000.0
+OMNI,A,income,Operating Income,2025-03-31,791280000.0
+OMNI,A,income,Operating Income,2026-03-31,1229430000.0
+OMNI,A,income,Pretax Income,2023-03-31,439660000.0
+OMNI,A,income,Pretax Income,2024-03-31,314860000.0
+OMNI,A,income,Pretax Income,2025-03-31,561870000.0
+OMNI,A,income,Pretax Income,2026-03-31,1078730000.0
+OMNI,A,income,Total Revenue,2023-03-31,1650760000.0
+OMNI,A,income,Total Revenue,2024-03-31,1658310000.0
+OMNI,A,income,Total Revenue,2025-03-31,3202860000.0
+OMNI,A,income,Total Revenue,2026-03-31,4864650000.0
+OMNI,Q,income,Basic EPS,2025-09-30,2.15
+OMNI,Q,income,Basic EPS,2025-12-31,1.800656
+OMNI,Q,income,Basic EPS,2026-03-31,2.65
+OMNI,Q,income,Basic EPS,2026-06-30,2.4
+OMNI,Q,income,Basic EPS,2026-09-30,2.47
+OMNI,Q,income,Diluted EPS,2025-09-30,2.15
+OMNI,Q,income,Diluted EPS,2025-12-31,1.800656
+OMNI,Q,income,Diluted EPS,2026-03-31,2.65
+OMNI,Q,income,Diluted EPS,2026-06-30,2.4
+OMNI,Q,income,Diluted EPS,2026-09-30,2.47
+OMNI,Q,income,EBITDA,2025-09-30,509320000.0
+OMNI,Q,income,EBITDA,2025-12-31,550370000.0
+OMNI,Q,income,EBITDA,2026-03-31,618770000.0
+OMNI,Q,income,EBITDA,2026-06-30,563980000.0
+OMNI,Q,income,EBITDA,2026-09-30,595690000.0
+OMNI,Q,income,Interest Expense,2025-09-30,98970000.0
+OMNI,Q,income,Interest Expense,2025-12-31,101450000.0
+OMNI,Q,income,Interest Expense,2026-03-31,98130000.0
+OMNI,Q,income,Interest Expense,2026-06-30,104450000.0
+OMNI,Q,income,Interest Expense,2026-09-30,117280000.0
+OMNI,Q,income,Net Income,2025-09-30,225820000.0
+OMNI,Q,income,Net Income,2025-12-31,222680000.0
+OMNI,Q,income,Net Income,2026-03-31,293050000.0
+OMNI,Q,income,Net Income,2026-06-30,297290000.0
+OMNI,Q,income,Net Income,2026-09-30,305750000.0
+OMNI,Q,income,Net Income Common Stockholders,2025-09-30,225820000.0
+OMNI,Q,income,Net Income Common Stockholders,2025-12-31,222680000.0
+OMNI,Q,income,Net Income Common Stockholders,2026-03-31,293050000.0
+OMNI,Q,income,Net Income Common Stockholders,2026-06-30,297290000.0
+OMNI,Q,income,Net Income Common Stockholders,2026-09-30,305750000.0
+OMNI,Q,income,Operating Income,2025-09-30,317840000.0
+OMNI,Q,income,Operating Income,2025-12-31,388370000.0
+OMNI,Q,income,Operating Income,2026-03-31,362880000.0
+OMNI,Q,income,Operating Income,2026-06-30,443500000.0
+OMNI,Q,income,Operating Income,2026-09-30,437350000.0
+OMNI,Q,income,Pretax Income,2025-09-30,292670000.0
+OMNI,Q,income,Pretax Income,2025-12-31,324630000.0
+OMNI,Q,income,Pretax Income,2026-03-31,385950000.0
+OMNI,Q,income,Pretax Income,2026-06-30,396830000.0
+OMNI,Q,income,Pretax Income,2026-09-30,403300000.0
+OMNI,Q,income,Total Revenue,2025-09-30,1249650000.0
+OMNI,Q,income,Total Revenue,2025-12-31,1344060000.0
+OMNI,Q,income,Total Revenue,2026-03-31,1487230000.0
+OMNI,Q,income,Total Revenue,2026-06-30,1666580000.0
+OMNI,Q,income,Total Revenue,2026-09-30,1755570000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+ECLERX,A,balance,Cash And Cash Equivalents,2023-03-31,4179840000.0
+ECLERX,A,balance,Cash And Cash Equivalents,2024-03-31,3539330000.0
+ECLERX,A,balance,Cash And Cash Equivalents,2025-03-31,5416970000.0
+ECLERX,A,balance,Cash And Cash Equivalents,2026-03-31,6967460000.0
+ECLERX,A,balance,Ordinary Shares Number,2023-03-31,96073292.0
+ECLERX,A,balance,Ordinary Shares Number,2024-03-31,96464484.0
+ECLERX,A,balance,Ordinary Shares Number,2025-03-31,93920698.0
+ECLERX,A,balance,Ordinary Shares Number,2026-03-31,92025272.0
+ECLERX,A,balance,Stockholders Equity,2023-03-31,17148710000.0
+ECLERX,A,balance,Stockholders Equity,2024-03-31,22475010000.0
+ECLERX,A,balance,Stockholders Equity,2025-03-31,23057620000.0
+ECLERX,A,balance,Stockholders Equity,2026-03-31,25613980000.0
+ECLERX,A,balance,Total Assets,2023-03-31,22877440000.0
+ECLERX,A,balance,Total Assets,2024-03-31,29160430000.0
+ECLERX,A,balance,Total Assets,2025-03-31,31456730000.0
+ECLERX,A,balance,Total Assets,2026-03-31,36970160000.0
+ECLERX,A,balance,Total Debt,2023-03-31,1935580000.0
+ECLERX,A,balance,Total Debt,2024-03-31,2657400000.0
+ECLERX,A,balance,Total Debt,2025-03-31,3581270000.0
+ECLERX,A,balance,Total Debt,2026-03-31,3849520000.0
+ECLERX,A,cashflow,Capital Expenditure,2023-03-31,-907590000.0
+ECLERX,A,cashflow,Capital Expenditure,2024-03-31,-673910000.0
+ECLERX,A,cashflow,Capital Expenditure,2025-03-31,-1214740000.0
+ECLERX,A,cashflow,Capital Expenditure,2026-03-31,-1191220000.0
+ECLERX,A,cashflow,Free Cash Flow,2023-03-31,4018150000.0
+ECLERX,A,cashflow,Free Cash Flow,2024-03-31,4585010000.0
+ECLERX,A,cashflow,Free Cash Flow,2025-03-31,5331430000.0
+ECLERX,A,cashflow,Free Cash Flow,2026-03-31,7543440000.0
+ECLERX,A,cashflow,Operating Cash Flow,2023-03-31,4925740000.0
+ECLERX,A,cashflow,Operating Cash Flow,2024-03-31,5258920000.0
+ECLERX,A,cashflow,Operating Cash Flow,2025-03-31,6546170000.0
+ECLERX,A,cashflow,Operating Cash Flow,2026-03-31,8734660000.0
+ECLERX,A,income,Basic EPS,2023-03-31,49.38
+ECLERX,A,income,Basic EPS,2024-03-31,53.075
+ECLERX,A,income,Basic EPS,2025-03-31,57.1
+ECLERX,A,income,Basic EPS,2026-03-31,76.23
+ECLERX,A,income,Diluted EPS,2023-03-31,48.575
+ECLERX,A,income,Diluted EPS,2024-03-31,52.19
+ECLERX,A,income,Diluted EPS,2025-03-31,56.04
+ECLERX,A,income,Diluted EPS,2026-03-31,74.42
+ECLERX,A,income,EBITDA,2023-03-31,7881660000.0
+ECLERX,A,income,EBITDA,2024-03-31,8610920000.0
+ECLERX,A,income,EBITDA,2025-03-31,8946140000.0
+ECLERX,A,income,EBITDA,2026-03-31,11526250000.0
+ECLERX,A,income,Interest Expense,2023-03-31,211620000.0
+ECLERX,A,income,Interest Expense,2024-03-31,234840000.0
+ECLERX,A,income,Interest Expense,2025-03-31,348900000.0
+ECLERX,A,income,Interest Expense,2026-03-31,421360000.0
+ECLERX,A,income,Net Income,2023-03-31,4888200000.0
+ECLERX,A,income,Net Income,2024-03-31,5114560000.0
+ECLERX,A,income,Net Income,2025-03-31,5410920000.0
+ECLERX,A,income,Net Income,2026-03-31,7062110000.0
+ECLERX,A,income,Net Income Common Stockholders,2023-03-31,4888200000.0
+ECLERX,A,income,Net Income Common Stockholders,2024-03-31,5114560000.0
+ECLERX,A,income,Net Income Common Stockholders,2025-03-31,5410920000.0
+ECLERX,A,income,Net Income Common Stockholders,2026-03-31,7062110000.0
+ECLERX,A,income,Operating Income,2023-03-31,6116980000.0
+ECLERX,A,income,Operating Income,2024-03-31,6490200000.0
+ECLERX,A,income,Operating Income,2025-03-31,6983380000.0
+ECLERX,A,income,Operating Income,2026-03-31,8972130000.0
+ECLERX,A,income,Pretax Income,2023-03-31,6529900000.0
+ECLERX,A,income,Pretax Income,2024-03-31,6893360000.0
+ECLERX,A,income,Pretax Income,2025-03-31,7185310000.0
+ECLERX,A,income,Pretax Income,2026-03-31,9351240000.0
+ECLERX,A,income,Total Revenue,2023-03-31,26487060000.0
+ECLERX,A,income,Total Revenue,2024-03-31,29255430000.0
+ECLERX,A,income,Total Revenue,2025-03-31,33658650000.0
+ECLERX,A,income,Total Revenue,2026-03-31,41170260000.0
+ECLERX,Q,income,Basic EPS,2025-09-30,19.5
+ECLERX,Q,income,Basic EPS,2025-12-31,20.405
+ECLERX,Q,income,Basic EPS,2026-03-31,20.47
+ECLERX,Q,income,Basic EPS,2026-06-30,17.86
+ECLERX,Q,income,Basic EPS,2026-09-30,19.63
+ECLERX,Q,income,Diluted EPS,2025-09-30,19.05
+ECLERX,Q,income,Diluted EPS,2025-12-31,19.895
+ECLERX,Q,income,Diluted EPS,2026-03-31,20.04
+ECLERX,Q,income,Diluted EPS,2026-06-30,17.61
+ECLERX,Q,income,Diluted EPS,2026-09-30,19.27
+ECLERX,Q,income,EBITDA,2025-06-30,2346460000.0
+ECLERX,Q,income,EBITDA,2025-12-31,3063330000.0
+ECLERX,Q,income,EBITDA,2026-03-31,3133450000.0
+ECLERX,Q,income,EBITDA,2026-06-30,2830960000.0
+ECLERX,Q,income,EBITDA,2026-09-30,3078750000.0
+ECLERX,Q,income,Interest Expense,2025-06-30,96920000.0
+ECLERX,Q,income,Interest Expense,2025-12-31,99090000.0
+ECLERX,Q,income,Interest Expense,2026-03-31,117400000.0
+ECLERX,Q,income,Interest Expense,2026-06-30,148790000.0
+ECLERX,Q,income,Interest Expense,2026-09-30,151750000.0
+ECLERX,Q,income,Net Income,2025-06-30,1416780000.0
+ECLERX,Q,income,Net Income,2025-12-31,1919760000.0
+ECLERX,Q,income,Net Income,2026-03-31,1893630000.0
+ECLERX,Q,income,Net Income,2026-06-30,1643420000.0
+ECLERX,Q,income,Net Income,2026-09-30,1803920000.0
+ECLERX,Q,income,Net Income Common Stockholders,2025-06-30,1416780000.0
+ECLERX,Q,income,Net Income Common Stockholders,2025-12-31,1919760000.0
+ECLERX,Q,income,Net Income Common Stockholders,2026-03-31,1893630000.0
+ECLERX,Q,income,Net Income Common Stockholders,2026-06-30,1643420000.0
+ECLERX,Q,income,Net Income Common Stockholders,2026-09-30,1803920000.0
+ECLERX,Q,income,Operating Income,2025-06-30,1872020000.0
+ECLERX,Q,income,Operating Income,2025-12-31,2299540000.0
+ECLERX,Q,income,Operating Income,2026-03-31,2339260000.0
+ECLERX,Q,income,Operating Income,2026-06-30,2156300000.0
+ECLERX,Q,income,Operating Income,2026-09-30,2280610000.0
+ECLERX,Q,income,Pretax Income,2025-06-30,1880560000.0
+ECLERX,Q,income,Pretax Income,2025-12-31,2501150000.0
+ECLERX,Q,income,Pretax Income,2026-03-31,2519500000.0
+ECLERX,Q,income,Pretax Income,2026-06-30,2186100000.0
+ECLERX,Q,income,Pretax Income,2026-09-30,2368780000.0
+ECLERX,Q,income,Total Revenue,2025-06-30,9345560000.0
+ECLERX,Q,income,Total Revenue,2025-12-31,10703320000.0
+ECLERX,Q,income,Total Revenue,2026-03-31,11072870000.0
+ECLERX,Q,income,Total Revenue,2026-06-30,11523580000.0
+ECLERX,Q,income,Total Revenue,2026-09-30,11886570000.0

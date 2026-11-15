@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+KIRLPNU,A,balance,Cash And Cash Equivalents,2023-03-31,358620000.0
+KIRLPNU,A,balance,Cash And Cash Equivalents,2024-03-31,495910000.0
+KIRLPNU,A,balance,Cash And Cash Equivalents,2025-03-31,634590000.0
+KIRLPNU,A,balance,Cash And Cash Equivalents,2026-03-31,1139600000.0
+KIRLPNU,A,balance,Ordinary Shares Number,2023-03-31,129269380.0
+KIRLPNU,A,balance,Ordinary Shares Number,2024-03-31,129546180.0
+KIRLPNU,A,balance,Ordinary Shares Number,2025-03-31,129794780.0
+KIRLPNU,A,balance,Ordinary Shares Number,2026-03-31,129916380.0
+KIRLPNU,A,balance,Stockholders Equity,2023-03-31,7951720000.0
+KIRLPNU,A,balance,Stockholders Equity,2024-03-31,9246350000.0
+KIRLPNU,A,balance,Stockholders Equity,2025-03-31,10962420000.0
+KIRLPNU,A,balance,Stockholders Equity,2026-03-31,12488420000.0
+KIRLPNU,A,balance,Total Assets,2023-03-31,11295250000.0
+KIRLPNU,A,balance,Total Assets,2024-03-31,13850370000.0
+KIRLPNU,A,balance,Total Assets,2025-03-31,16472240000.0
+KIRLPNU,A,balance,Total Assets,2026-03-31,17574200000.0
+KIRLPNU,A,balance,Total Debt,2023-03-31,10200000.0
+KIRLPNU,A,balance,Total Debt,2024-03-31,7770000.0
+KIRLPNU,A,balance,Total Debt,2025-03-31,106030000.0
+KIRLPNU,A,balance,Total Debt,2026-03-31,33410000.0
+KIRLPNU,A,cashflow,Capital Expenditure,2023-03-31,-424250000.0
+KIRLPNU,A,cashflow,Capital Expenditure,2024-03-31,-715740000.0
+KIRLPNU,A,cashflow,Capital Expenditure,2025-03-31,-779390000.0
+KIRLPNU,A,cashflow,Capital Expenditure,2026-03-31,-663350000.0
+KIRLPNU,A,cashflow,Free Cash Flow,2023-03-31,-26380000.0
+KIRLPNU,A,cashflow,Free Cash Flow,2024-03-31,1118400000.0
+KIRLPNU,A,cashflow,Free Cash Flow,2025-03-31,1372820000.0
+KIRLPNU,A,cashflow,Free Cash Flow,2026-03-31,1664870000.0
+KIRLPNU,A,cashflow,Operating Cash Flow,2023-03-31,397870000.0
+KIRLPNU,A,cashflow,Operating Cash Flow,2024-03-31,1834140000.0
+KIRLPNU,A,cashflow,Operating Cash Flow,2025-03-31,2152210000.0
+KIRLPNU,A,cashflow,Operating Cash Flow,2026-03-31,2328220000.0
+KIRLPNU,A,income,Basic EPS,2023-03-31,8.41
+KIRLPNU,A,income,Basic EPS,2024-03-31,10.3
+KIRLPNU,A,income,Basic EPS,2025-03-31,16.29
+KIRLPNU,A,income,Basic EPS,2026-03-31,19.725
+KIRLPNU,A,income,Diluted EPS,2023-03-31,8.385
+KIRLPNU,A,income,Diluted EPS,2024-03-31,10.285
+KIRLPNU,A,income,Diluted EPS,2025-03-31,16.25
+KIRLPNU,A,income,Diluted EPS,2026-03-31,19.695
+KIRLPNU,A,income,EBITDA,2023-03-31,1768910000.0
+KIRLPNU,A,income,EBITDA,2024-03-31,2133990000.0
+KIRLPNU,A,income,EBITDA,2025-03-31,3103250000.0
+KIRLPNU,A,income,EBITDA,2026-03-31,3707260000.0
+KIRLPNU,A,income,Interest Expense,2023-03-31,780000.0
+KIRLPNU,A,income,Interest Expense,2024-03-31,570000.0
+KIRLPNU,A,income,Interest Expense,2025-03-31,3530000.0
+KIRLPNU,A,income,Interest Expense,2026-03-31,10750000.0
+KIRLPNU,A,income,Net Income,2023-03-31,1085810000.0
+KIRLPNU,A,income,Net Income,2024-03-31,1332880000.0
+KIRLPNU,A,income,Net Income,2025-03-31,2111880000.0
+KIRLPNU,A,income,Net Income,2026-03-31,2561310000.0
+KIRLPNU,A,income,Net Income Common Stockholders,2023-03-31,1085810000.0
+KIRLPNU,A,income,Net Income Common Stockholders,2024-03-31,1332880000.0
+KIRLPNU,A,income,Net Income Common Stockholders,2025-03-31,2111880000.0
+KIRLPNU,A,income,Net Income Common Stockholders,2026-03-31,2561310000.0
+KIRLPNU,A,income,Operating Income,2023-03-31,1313330000.0
+KIRLPNU,A,income,Operating Income,2024-03-31,1652160000.0
+KIRLPNU,A,income,Operating Income,2025-03-31,2661520000.0
+KIRLPNU,A,income,Operating Income,2026-03-31,3305550000.0
+KIRLPNU,A,income,Pretax Income,2023-03-31,1432760000.0
+KIRLPNU,A,income,Pretax Income,2024-03-31,1778750000.0
+KIRLPNU,A,income,Pretax Income,2025-03-31,2808340000.0
+KIRLPNU,A,income,Pretax Income,2026-03-31,3378780000.0
+KIRLPNU,A,income,Total Revenue,2023-03-31,12293160000.0
+KIRLPNU,A,income,Total Revenue,2024-03-31,13115230000.0
+KIRLPNU,A,income,Total Revenue,2025-03-31,16279910000.0
+KIRLPNU,A,income,Total Revenue,2026-03-31,17766770000.0
+KIRLPNU,Q,income,Basic EPS,2025-09-30,3.35
+KIRLPNU,Q,income,Basic EPS,2025-12-31,3.2
+KIRLPNU,Q,income,Basic EPS,2026-03-31,11.07
+KIRLPNU,Q,income,Basic EPS,2026-06-30,2.575
+KIRLPNU,Q,income,Basic EPS,2026-09-30,3.08
+KIRLPNU,Q,income,Diluted EPS,2025-09-30,3.34
+KIRLPNU,Q,income,Diluted EPS,2025-12-31,3.195
+KIRLPNU,Q,income,Diluted EPS,2026-03-31,11.055
+KIRLPNU,Q,income,Diluted EPS,2026-06-30,2.57
+KIRLPNU,Q,income,Diluted EPS,2026-09-30,3.07
+KIRLPNU,Q,income,EBITDA,2025-06-30,417000000.0
+KIRLPNU,Q,income,EBITDA,2025-12-31,672000000.0
+KIRLPNU,Q,income,EBITDA,2026-03-31,1962000000.0
+KIRLPNU,Q,income,EBITDA,2026-06-30,537000000.0
+KIRLPNU,Q,income,EBITDA,2026-09-30,598000000.0
+KIRLPNU,Q,income,Interest Expense,2025-06-30,2000000.0
+KIRLPNU,Q,income,Interest Expense,2025-12-31,2000000.0
+KIRLPNU,Q,income,Interest Expense,2026-03-31,2000000.0
+KIRLPNU,Q,income,Interest Expense,2026-06-30,1000000.0
+KIRLPNU,Q,income,Interest Expense,2026-09-30,0.0
+KIRLPNU,Q,income,Net Income,2025-06-30,266000000.0
+KIRLPNU,Q,income,Net Income,2025-12-31,422000000.0
+KIRLPNU,Q,income,Net Income,2026-03-31,1437000000.0
+KIRLPNU,Q,income,Net Income,2026-06-30,334000000.0
+KIRLPNU,Q,income,Net Income,2026-09-30,400000000.0
+KIRLPNU,Q,income,Net Income Common Stockholders,2025-06-30,266000000.0
+KIRLPNU,Q,income,Net Income Common Stockholders,2025-12-31,422000000.0
+KIRLPNU,Q,income,Net Income Common Stockholders,2026-03-31,1437000000.0
+KIRLPNU,Q,income,Net Income Common Stockholders,2026-06-30,334000000.0
+KIRLPNU,Q,income,Net Income Common Stockholders,2026-09-30,400000000.0
+KIRLPNU,Q,income,Operating Income,2025-06-30,258000000.0
+KIRLPNU,Q,income,Operating Income,2025-12-31,713000000.0
+KIRLPNU,Q,income,Operating Income,2026-03-31,1776000000.0
+KIRLPNU,Q,income,Operating Income,2026-06-30,367000000.0
+KIRLPNU,Q,income,Operating Income,2026-09-30,314000000.0
+KIRLPNU,Q,income,Pretax Income,2025-06-30,340000000.0
+KIRLPNU,Q,income,Pretax Income,2025-12-31,589000000.0
+KIRLPNU,Q,income,Pretax Income,2026-03-31,1876000000.0
+KIRLPNU,Q,income,Pretax Income,2026-06-30,447000000.0
+KIRLPNU,Q,income,Pretax Income,2026-09-30,505000000.0
+KIRLPNU,Q,income,Total Revenue,2025-06-30,2817000000.0
+KIRLPNU,Q,income,Total Revenue,2025-12-31,4069000000.0
+KIRLPNU,Q,income,Total Revenue,2026-03-31,7118000000.0
+KIRLPNU,Q,income,Total Revenue,2026-06-30,3031000000.0
+KIRLPNU,Q,income,Total Revenue,2026-09-30,3263000000.0

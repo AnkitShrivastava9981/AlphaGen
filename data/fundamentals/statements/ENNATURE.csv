@@ -1,0 +1,31 @@
+symbol,freq,statement,item,period_end,value
+ENNATURE,A,balance,Cash And Cash Equivalents,2025-03-31,0.0
+ENNATURE,A,balance,Cash And Cash Equivalents,2026-03-31,0.0
+ENNATURE,A,balance,Stockholders Equity,2025-03-31,-36000.0
+ENNATURE,A,balance,Stockholders Equity,2026-03-31,-51000.0
+ENNATURE,A,balance,Total Assets,2025-03-31,0.0
+ENNATURE,A,balance,Total Assets,2026-03-31,0.0
+ENNATURE,A,cashflow,Free Cash Flow,2024-03-31,-31000.0
+ENNATURE,A,cashflow,Free Cash Flow,2025-03-31,0.0
+ENNATURE,A,cashflow,Free Cash Flow,2026-03-31,0.0
+ENNATURE,A,cashflow,Operating Cash Flow,2024-03-31,-31000.0
+ENNATURE,A,cashflow,Operating Cash Flow,2025-03-31,0.0
+ENNATURE,A,cashflow,Operating Cash Flow,2026-03-31,0.0
+ENNATURE,A,income,EBITDA,2024-03-31,-39000.0
+ENNATURE,A,income,EBITDA,2025-03-31,-17000.0
+ENNATURE,A,income,EBITDA,2026-03-31,-15000.0
+ENNATURE,A,income,Net Income,2024-03-31,-39000.0
+ENNATURE,A,income,Net Income,2025-03-31,-17000.0
+ENNATURE,A,income,Net Income,2026-03-31,-15000.0
+ENNATURE,A,income,Net Income Common Stockholders,2024-03-31,-39000.0
+ENNATURE,A,income,Net Income Common Stockholders,2025-03-31,-17000.0
+ENNATURE,A,income,Net Income Common Stockholders,2026-03-31,-15000.0
+ENNATURE,A,income,Operating Income,2024-03-31,-39000.0
+ENNATURE,A,income,Operating Income,2025-03-31,-17000.0
+ENNATURE,A,income,Operating Income,2026-03-31,-15000.0
+ENNATURE,A,income,Pretax Income,2024-03-31,-39000.0
+ENNATURE,A,income,Pretax Income,2025-03-31,-17000.0
+ENNATURE,A,income,Pretax Income,2026-03-31,-15000.0
+ENNATURE,A,income,Total Revenue,2024-03-31,0.0
+ENNATURE,A,income,Total Revenue,2025-03-31,0.0
+ENNATURE,A,income,Total Revenue,2026-03-31,0.0

@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+ZAGGLE,A,balance,Cash And Cash Equivalents,2023-03-31,195890000.0
+ZAGGLE,A,balance,Cash And Cash Equivalents,2024-03-31,79400000.0
+ZAGGLE,A,balance,Cash And Cash Equivalents,2025-03-31,381810000.0
+ZAGGLE,A,balance,Cash And Cash Equivalents,2026-03-31,1059820000.0
+ZAGGLE,A,balance,Net Debt,2022-03-31,637610000.0
+ZAGGLE,A,balance,Net Debt,2023-03-31,1014840000.0
+ZAGGLE,A,balance,Net Debt,2024-03-31,656620000.0
+ZAGGLE,A,balance,Ordinary Shares Number,2023-03-31,122096758.0
+ZAGGLE,A,balance,Ordinary Shares Number,2024-03-31,122482493.0
+ZAGGLE,A,balance,Ordinary Shares Number,2025-03-31,134205215.0
+ZAGGLE,A,balance,Ordinary Shares Number,2026-03-31,134458445.0
+ZAGGLE,A,balance,Stockholders Equity,2023-03-31,487510000.0
+ZAGGLE,A,balance,Stockholders Equity,2024-03-31,5753820000.0
+ZAGGLE,A,balance,Stockholders Equity,2025-03-31,12479720000.0
+ZAGGLE,A,balance,Stockholders Equity,2026-03-31,14042120000.0
+ZAGGLE,A,balance,Total Assets,2023-03-31,2347590000.0
+ZAGGLE,A,balance,Total Assets,2024-03-31,6961360000.0
+ZAGGLE,A,balance,Total Assets,2025-03-31,13150350000.0
+ZAGGLE,A,balance,Total Assets,2026-03-31,15536520000.0
+ZAGGLE,A,balance,Total Debt,2023-03-31,1413480000.0
+ZAGGLE,A,balance,Total Debt,2024-03-31,866270000.0
+ZAGGLE,A,balance,Total Debt,2025-03-31,198780000.0
+ZAGGLE,A,balance,Total Debt,2026-03-31,546340000.0
+ZAGGLE,A,cashflow,Capital Expenditure,2023-03-31,-161710000.0
+ZAGGLE,A,cashflow,Capital Expenditure,2024-03-31,-459440000.0
+ZAGGLE,A,cashflow,Capital Expenditure,2025-03-31,-674850000.0
+ZAGGLE,A,cashflow,Capital Expenditure,2026-03-31,-1071140000.0
+ZAGGLE,A,cashflow,Free Cash Flow,2023-03-31,-317890000.0
+ZAGGLE,A,cashflow,Free Cash Flow,2024-03-31,-1286900000.0
+ZAGGLE,A,cashflow,Free Cash Flow,2025-03-31,-477830000.0
+ZAGGLE,A,cashflow,Free Cash Flow,2026-03-31,-1585820000.0
+ZAGGLE,A,cashflow,Operating Cash Flow,2023-03-31,-156180000.0
+ZAGGLE,A,cashflow,Operating Cash Flow,2024-03-31,-827460000.0
+ZAGGLE,A,cashflow,Operating Cash Flow,2025-03-31,197020000.0
+ZAGGLE,A,cashflow,Operating Cash Flow,2026-03-31,-514680000.0
+ZAGGLE,A,income,Basic EPS,2023-03-31,1.875644
+ZAGGLE,A,income,Basic EPS,2024-03-31,4.055884
+ZAGGLE,A,income,Basic EPS,2025-03-31,6.99
+ZAGGLE,A,income,Basic EPS,2026-03-31,10.28
+ZAGGLE,A,income,Diluted EPS,2023-03-31,1.875644
+ZAGGLE,A,income,Diluted EPS,2024-03-31,4.032868
+ZAGGLE,A,income,Diluted EPS,2025-03-31,6.96
+ZAGGLE,A,income,Diluted EPS,2026-03-31,10.26
+ZAGGLE,A,income,EBITDA,2023-03-31,459700000.0
+ZAGGLE,A,income,EBITDA,2024-03-31,807860000.0
+ZAGGLE,A,income,EBITDA,2025-03-31,1408030000.0
+ZAGGLE,A,income,EBITDA,2026-03-31,2273670000.0
+ZAGGLE,A,income,Interest Expense,2023-03-31,81360000.0
+ZAGGLE,A,income,Interest Expense,2024-03-31,126420000.0
+ZAGGLE,A,income,Interest Expense,2025-03-31,75920000.0
+ZAGGLE,A,income,Interest Expense,2026-03-31,53300000.0
+ZAGGLE,A,income,Net Income,2023-03-31,229010000.0
+ZAGGLE,A,income,Net Income,2024-03-31,440200000.0
+ZAGGLE,A,income,Net Income,2025-03-31,879190000.0
+ZAGGLE,A,income,Net Income,2026-03-31,1380830000.0
+ZAGGLE,A,income,Net Income Common Stockholders,2023-03-31,229010000.0
+ZAGGLE,A,income,Net Income Common Stockholders,2024-03-31,440200000.0
+ZAGGLE,A,income,Net Income Common Stockholders,2025-03-31,879190000.0
+ZAGGLE,A,income,Net Income Common Stockholders,2026-03-31,1380830000.0
+ZAGGLE,A,income,Operating Income,2023-03-31,406740000.0
+ZAGGLE,A,income,Operating Income,2024-03-31,623750000.0
+ZAGGLE,A,income,Operating Income,2025-03-31,993770000.0
+ZAGGLE,A,income,Operating Income,2026-03-31,1484930000.0
+ZAGGLE,A,income,Pretax Income,2023-03-31,316350000.0
+ZAGGLE,A,income,Pretax Income,2024-03-31,597810000.0
+ZAGGLE,A,income,Pretax Income,2025-03-31,1184170000.0
+ZAGGLE,A,income,Pretax Income,2026-03-31,1851570000.0
+ZAGGLE,A,income,Total Revenue,2023-03-31,5534600000.0
+ZAGGLE,A,income,Total Revenue,2024-03-31,7755980000.0
+ZAGGLE,A,income,Total Revenue,2025-03-31,13037570000.0
+ZAGGLE,A,income,Total Revenue,2026-03-31,19076460000.0
+ZAGGLE,Q,income,Basic EPS,2025-06-30,1.94
+ZAGGLE,Q,income,Basic EPS,2025-09-30,2.61
+ZAGGLE,Q,income,Basic EPS,2025-12-31,2.76
+ZAGGLE,Q,income,Basic EPS,2026-03-31,3.02
+ZAGGLE,Q,income,Basic EPS,2026-06-30,1.3
+ZAGGLE,Q,income,Diluted EPS,2025-06-30,1.94
+ZAGGLE,Q,income,Diluted EPS,2025-09-30,2.6
+ZAGGLE,Q,income,Diluted EPS,2025-12-31,2.75
+ZAGGLE,Q,income,Diluted EPS,2026-03-31,3.02
+ZAGGLE,Q,income,Diluted EPS,2026-06-30,1.3
+ZAGGLE,Q,income,EBITDA,2025-06-30,428460000.0
+ZAGGLE,Q,income,EBITDA,2025-09-30,550490000.0
+ZAGGLE,Q,income,EBITDA,2025-12-31,608640000.0
+ZAGGLE,Q,income,EBITDA,2026-03-31,686070000.0
+ZAGGLE,Q,income,EBITDA,2026-06-30,398260000.0
+ZAGGLE,Q,income,Interest Expense,2025-06-30,10790000.0
+ZAGGLE,Q,income,Interest Expense,2025-09-30,13710000.0
+ZAGGLE,Q,income,Interest Expense,2025-12-31,12780000.0
+ZAGGLE,Q,income,Interest Expense,2026-03-31,16020000.0
+ZAGGLE,Q,income,Interest Expense,2026-06-30,16580000.0
+ZAGGLE,Q,income,Net Income,2025-06-30,261110000.0
+ZAGGLE,Q,income,Net Income,2025-09-30,349840000.0
+ZAGGLE,Q,income,Net Income,2025-12-31,363890000.0
+ZAGGLE,Q,income,Net Income,2026-03-31,406040000.0
+ZAGGLE,Q,income,Net Income,2026-06-30,175330000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2025-06-30,261110000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2025-09-30,349840000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2025-12-31,363890000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2026-03-31,406040000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2026-06-30,175330000.0
+ZAGGLE,Q,income,Operating Income,2025-06-30,234710000.0
+ZAGGLE,Q,income,Operating Income,2025-09-30,364880000.0
+ZAGGLE,Q,income,Operating Income,2025-12-31,423160000.0
+ZAGGLE,Q,income,Operating Income,2026-03-31,457960000.0
+ZAGGLE,Q,income,Operating Income,2026-06-30,182130000.0
+ZAGGLE,Q,income,Pretax Income,2025-06-30,347460000.0
+ZAGGLE,Q,income,Pretax Income,2025-09-30,462070000.0
+ZAGGLE,Q,income,Pretax Income,2025-12-31,497390000.0
+ZAGGLE,Q,income,Pretax Income,2026-03-31,544640000.0
+ZAGGLE,Q,income,Pretax Income,2026-06-30,254800000.0
+ZAGGLE,Q,income,Total Revenue,2025-06-30,3319650000.0
+ZAGGLE,Q,income,Total Revenue,2025-09-30,4322160000.0
+ZAGGLE,Q,income,Total Revenue,2025-12-31,5255490000.0
+ZAGGLE,Q,income,Total Revenue,2026-03-31,6179160000.0
+ZAGGLE,Q,income,Total Revenue,2026-06-30,4232650000.0

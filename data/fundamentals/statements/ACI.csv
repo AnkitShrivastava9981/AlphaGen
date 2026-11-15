@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ACI,A,balance,Cash And Cash Equivalents,2023-03-31,59726000.0
+ACI,A,balance,Cash And Cash Equivalents,2024-03-31,454828000.0
+ACI,A,balance,Cash And Cash Equivalents,2025-03-31,405405000.0
+ACI,A,balance,Cash And Cash Equivalents,2026-03-31,412272000.0
+ACI,A,balance,Net Debt,2023-03-31,155195000.0
+ACI,A,balance,Net Debt,2024-03-31,140618000.0
+ACI,A,balance,Net Debt,2025-03-31,1375234000.0
+ACI,A,balance,Net Debt,2026-03-31,3637910000.0
+ACI,A,balance,Ordinary Shares Number,2023-03-31,123052989.0
+ACI,A,balance,Ordinary Shares Number,2024-03-31,123396969.0
+ACI,A,balance,Ordinary Shares Number,2025-03-31,123427682.0
+ACI,A,balance,Ordinary Shares Number,2026-03-31,123458394.0
+ACI,A,balance,Stockholders Equity,2023-03-31,14310198000.0
+ACI,A,balance,Stockholders Equity,2024-03-31,17015505000.0
+ACI,A,balance,Stockholders Equity,2025-03-31,18640132000.0
+ACI,A,balance,Stockholders Equity,2026-03-31,19343897000.0
+ACI,A,balance,Total Assets,2023-03-31,17554334000.0
+ACI,A,balance,Total Assets,2024-03-31,20558643000.0
+ACI,A,balance,Total Assets,2025-03-31,23890329000.0
+ACI,A,balance,Total Assets,2026-03-31,26647811000.0
+ACI,A,balance,Total Debt,2023-03-31,693853000.0
+ACI,A,balance,Total Debt,2024-03-31,978225000.0
+ACI,A,balance,Total Debt,2025-03-31,2345752000.0
+ACI,A,balance,Total Debt,2026-03-31,4663793000.0
+ACI,A,cashflow,Capital Expenditure,2023-03-31,-998570000.0
+ACI,A,cashflow,Capital Expenditure,2024-03-31,-2078904000.0
+ACI,A,cashflow,Capital Expenditure,2025-03-31,-2635721000.0
+ACI,A,cashflow,Capital Expenditure,2026-03-31,-3821644000.0
+ACI,A,cashflow,Free Cash Flow,2023-03-31,3962318000.0
+ACI,A,cashflow,Free Cash Flow,2024-03-31,1714615000.0
+ACI,A,cashflow,Free Cash Flow,2025-03-31,-873384000.0
+ACI,A,cashflow,Free Cash Flow,2026-03-31,-2425349000.0
+ACI,A,cashflow,Operating Cash Flow,2023-03-31,4960888000.0
+ACI,A,cashflow,Operating Cash Flow,2024-03-31,3793519000.0
+ACI,A,cashflow,Operating Cash Flow,2025-03-31,1762337000.0
+ACI,A,cashflow,Operating Cash Flow,2026-03-31,1396295000.0
+ACI,A,income,Basic EPS,2023-03-31,34.66
+ACI,A,income,Basic EPS,2024-03-31,25.9
+ACI,A,income,Basic EPS,2025-03-31,13.13
+ACI,A,income,Basic EPS,2026-03-31,8.66
+ACI,A,income,Diluted EPS,2023-03-31,34.59
+ACI,A,income,Diluted EPS,2024-03-31,25.87
+ACI,A,income,Diluted EPS,2025-03-31,13.12
+ACI,A,income,Diluted EPS,2026-03-31,8.65
+ACI,A,income,EBITDA,2023-03-31,6743187000.0
+ACI,A,income,EBITDA,2024-03-31,5044426000.0
+ACI,A,income,EBITDA,2025-03-31,3098239000.0
+ACI,A,income,EBITDA,2026-03-31,2634780000.0
+ACI,A,income,Interest Expense,2023-03-31,940093000.0
+ACI,A,income,Interest Expense,2024-03-31,69214000.0
+ACI,A,income,Interest Expense,2025-03-31,66725000.0
+ACI,A,income,Interest Expense,2026-03-31,234934000.0
+ACI,A,income,Net Income,2023-03-31,3825592000.0
+ACI,A,income,Net Income,2024-03-31,3189775000.0
+ACI,A,income,Net Income,2025-03-31,1621487000.0
+ACI,A,income,Net Income,2026-03-31,1068594000.0
+ACI,A,income,Net Income Common Stockholders,2023-03-31,3825592000.0
+ACI,A,income,Net Income Common Stockholders,2024-03-31,3189707000.0
+ACI,A,income,Net Income Common Stockholders,2025-03-31,1621487000.0
+ACI,A,income,Net Income Common Stockholders,2026-03-31,1068594000.0
+ACI,A,income,Operating Income,2023-03-31,5653637000.0
+ACI,A,income,Operating Income,2024-03-31,3938463000.0
+ACI,A,income,Operating Income,2025-03-31,2354941000.0
+ACI,A,income,Operating Income,2026-03-31,1465161000.0
+ACI,A,income,Pretax Income,2023-03-31,5116760000.0
+ACI,A,income,Pretax Income,2024-03-31,4271841000.0
+ACI,A,income,Pretax Income,2025-03-31,2237669000.0
+ACI,A,income,Pretax Income,2026-03-31,1470959000.0
+ACI,A,income,Total Revenue,2023-03-31,14395738000.0
+ACI,A,income,Total Revenue,2024-03-31,13039527000.0
+ACI,A,income,Total Revenue,2025-03-31,10394407000.0
+ACI,A,income,Total Revenue,2026-03-31,10774330000.0
+ACI,Q,income,Basic EPS,2025-09-30,2.36
+ACI,Q,income,Basic EPS,2025-12-31,1.92
+ACI,Q,income,Basic EPS,2026-03-31,1.13
+ACI,Q,income,Basic EPS,2026-06-30,2.48
+ACI,Q,income,Basic EPS,2026-09-30,2.6
+ACI,Q,income,Diluted EPS,2025-09-30,2.36
+ACI,Q,income,Diluted EPS,2025-12-31,1.92
+ACI,Q,income,Diluted EPS,2026-03-31,1.12
+ACI,Q,income,Diluted EPS,2026-06-30,2.48
+ACI,Q,income,Diluted EPS,2026-09-30,2.6
+ACI,Q,income,EBITDA,2025-09-30,689775000.0
+ACI,Q,income,EBITDA,2025-12-31,613478000.0
+ACI,Q,income,EBITDA,2026-03-31,490838000.0
+ACI,Q,income,EBITDA,2026-06-30,728709000.0
+ACI,Q,income,EBITDA,2026-09-30,744552000.0
+ACI,Q,income,Interest Expense,2025-09-30,55203000.0
+ACI,Q,income,Interest Expense,2025-12-31,44203000.0
+ACI,Q,income,Interest Expense,2026-03-31,104265000.0
+ACI,Q,income,Interest Expense,2026-06-30,54519000.0
+ACI,Q,income,Interest Expense,2026-09-30,48724000.0
+ACI,Q,income,Net Income,2025-09-30,290915000.0
+ACI,Q,income,Net Income,2025-12-31,236383000.0
+ACI,Q,income,Net Income,2026-03-31,134189000.0
+ACI,Q,income,Net Income,2026-06-30,306768000.0
+ACI,Q,income,Net Income,2026-09-30,320618000.0
+ACI,Q,income,Net Income Common Stockholders,2025-09-30,290915000.0
+ACI,Q,income,Net Income Common Stockholders,2025-12-31,236383000.0
+ACI,Q,income,Net Income Common Stockholders,2026-03-31,134189000.0
+ACI,Q,income,Net Income Common Stockholders,2026-06-30,306768000.0
+ACI,Q,income,Net Income Common Stockholders,2026-09-30,320618000.0
+ACI,Q,income,Operating Income,2025-09-30,390489000.0
+ACI,Q,income,Operating Income,2025-12-31,307951000.0
+ACI,Q,income,Operating Income,2026-03-31,208941000.0
+ACI,Q,income,Operating Income,2026-06-30,440641000.0
+ACI,Q,income,Operating Income,2026-09-30,463484000.0
+ACI,Q,income,Pretax Income,2025-09-30,399068000.0
+ACI,Q,income,Pretax Income,2025-12-31,333283000.0
+ACI,Q,income,Pretax Income,2026-03-31,158555000.0
+ACI,Q,income,Pretax Income,2026-06-30,442193000.0
+ACI,Q,income,Pretax Income,2026-09-30,457272000.0
+ACI,Q,income,Total Revenue,2025-09-30,2331835000.0
+ACI,Q,income,Total Revenue,2025-12-31,2545647000.0
+ACI,Q,income,Total Revenue,2026-03-31,3009434000.0
+ACI,Q,income,Total Revenue,2026-06-30,3271981000.0
+ACI,Q,income,Total Revenue,2026-09-30,2973590000.0

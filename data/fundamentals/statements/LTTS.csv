@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+LTTS,A,balance,Cash And Cash Equivalents,2023-03-31,5346000000.0
+LTTS,A,balance,Cash And Cash Equivalents,2024-03-31,11221000000.0
+LTTS,A,balance,Cash And Cash Equivalents,2025-03-31,13831000000.0
+LTTS,A,balance,Cash And Cash Equivalents,2026-03-31,16497000000.0
+LTTS,A,balance,Ordinary Shares Number,2023-03-31,105608142.0
+LTTS,A,balance,Ordinary Shares Number,2024-03-31,105753842.0
+LTTS,A,balance,Ordinary Shares Number,2025-03-31,105879693.0
+LTTS,A,balance,Ordinary Shares Number,2026-03-31,105998143.0
+LTTS,A,balance,Stockholders Equity,2023-03-31,44349000000.0
+LTTS,A,balance,Stockholders Equity,2024-03-31,53271000000.0
+LTTS,A,balance,Stockholders Equity,2025-03-31,60800000000.0
+LTTS,A,balance,Stockholders Equity,2026-03-31,64727000000.0
+LTTS,A,balance,Total Assets,2023-03-31,81976000000.0
+LTTS,A,balance,Total Assets,2024-03-31,84885000000.0
+LTTS,A,balance,Total Assets,2025-03-31,96435000000.0
+LTTS,A,balance,Total Assets,2026-03-31,104889000000.0
+LTTS,A,balance,Total Debt,2023-03-31,4542000000.0
+LTTS,A,balance,Total Debt,2024-03-31,6588000000.0
+LTTS,A,balance,Total Debt,2025-03-31,5776000000.0
+LTTS,A,balance,Total Debt,2026-03-31,5785000000.0
+LTTS,A,cashflow,Capital Expenditure,2023-03-31,-1815000000.0
+LTTS,A,cashflow,Capital Expenditure,2024-03-31,-2528000000.0
+LTTS,A,cashflow,Capital Expenditure,2025-03-31,-1116000000.0
+LTTS,A,cashflow,Capital Expenditure,2026-03-31,-1851000000.0
+LTTS,A,cashflow,Free Cash Flow,2023-03-31,11315000000.0
+LTTS,A,cashflow,Free Cash Flow,2024-03-31,12400000000.0
+LTTS,A,cashflow,Free Cash Flow,2025-03-31,13695000000.0
+LTTS,A,cashflow,Free Cash Flow,2026-03-31,12700000000.0
+LTTS,A,cashflow,Operating Cash Flow,2023-03-31,13130000000.0
+LTTS,A,cashflow,Operating Cash Flow,2024-03-31,14928000000.0
+LTTS,A,cashflow,Operating Cash Flow,2025-03-31,14811000000.0
+LTTS,A,cashflow,Operating Cash Flow,2026-03-31,14551000000.0
+LTTS,A,income,Basic EPS,2023-03-31,114.82
+LTTS,A,income,Basic EPS,2024-03-31,123.34
+LTTS,A,income,Basic EPS,2025-03-31,119.7
+LTTS,A,income,Basic EPS,2026-03-31,120.71
+LTTS,A,income,Diluted EPS,2023-03-31,114.48
+LTTS,A,income,Diluted EPS,2024-03-31,123.0
+LTTS,A,income,Diluted EPS,2025-03-31,119.44
+LTTS,A,income,Diluted EPS,2026-03-31,120.53
+LTTS,A,income,EBITDA,2023-03-31,19642000000.0
+LTTS,A,income,EBITDA,2024-03-31,21263000000.0
+LTTS,A,income,EBITDA,2025-03-31,20012000000.0
+LTTS,A,income,EBITDA,2026-03-31,20861000000.0
+LTTS,A,income,Interest Expense,2023-03-31,444000000.0
+LTTS,A,income,Interest Expense,2024-03-31,509000000.0
+LTTS,A,income,Interest Expense,2025-03-31,565000000.0
+LTTS,A,income,Interest Expense,2026-03-31,641000000.0
+LTTS,A,income,Net Income,2023-03-31,12121000000.0
+LTTS,A,income,Net Income,2024-03-31,13037000000.0
+LTTS,A,income,Net Income,2025-03-31,12667000000.0
+LTTS,A,income,Net Income,2026-03-31,12792000000.0
+LTTS,A,income,Net Income Common Stockholders,2023-03-31,12121000000.0
+LTTS,A,income,Net Income Common Stockholders,2024-03-31,13037000000.0
+LTTS,A,income,Net Income Common Stockholders,2025-03-31,12667000000.0
+LTTS,A,income,Net Income Common Stockholders,2026-03-31,12792000000.0
+LTTS,A,income,Operating Income,2023-03-31,15463000000.0
+LTTS,A,income,Operating Income,2024-03-31,16971000000.0
+LTTS,A,income,Operating Income,2025-03-31,15077000000.0
+LTTS,A,income,Operating Income,2026-03-31,15905000000.0
+LTTS,A,income,Pretax Income,2023-03-31,16860000000.0
+LTTS,A,income,Pretax Income,2024-03-31,18038000000.0
+LTTS,A,income,Pretax Income,2025-03-31,16394000000.0
+LTTS,A,income,Pretax Income,2026-03-31,16745000000.0
+LTTS,A,income,Total Revenue,2023-03-31,88155000000.0
+LTTS,A,income,Total Revenue,2024-03-31,96473000000.0
+LTTS,A,income,Total Revenue,2025-03-31,96422000000.0
+LTTS,A,income,Total Revenue,2026-03-31,109959000000.0
+LTTS,Q,income,Basic EPS,2025-06-30,29.81
+LTTS,Q,income,Basic EPS,2025-12-31,28.56
+LTTS,Q,income,Basic EPS,2026-03-31,31.34
+LTTS,Q,income,Basic EPS,2026-06-30,33.62
+LTTS,Q,income,Basic EPS,2026-09-30,51.67
+LTTS,Q,income,Diluted EPS,2025-06-30,29.77
+LTTS,Q,income,Diluted EPS,2025-12-31,28.52
+LTTS,Q,income,Diluted EPS,2026-03-31,31.29
+LTTS,Q,income,Diluted EPS,2026-06-30,33.59
+LTTS,Q,income,Diluted EPS,2026-09-30,51.61
+LTTS,Q,income,EBITDA,2025-09-30,5401000000.0
+LTTS,Q,income,EBITDA,2025-12-31,5117000000.0
+LTTS,Q,income,EBITDA,2026-03-31,5397000000.0
+LTTS,Q,income,EBITDA,2026-06-30,5774000000.0
+LTTS,Q,income,EBITDA,2026-09-30,6167000000.0
+LTTS,Q,income,Interest Expense,2025-09-30,157000000.0
+LTTS,Q,income,Interest Expense,2025-12-31,149000000.0
+LTTS,Q,income,Interest Expense,2026-03-31,170000000.0
+LTTS,Q,income,Interest Expense,2026-06-30,144000000.0
+LTTS,Q,income,Interest Expense,2026-09-30,139000000.0
+LTTS,Q,income,Net Income,2025-06-30,3157000000.0
+LTTS,Q,income,Net Income,2025-12-31,3026000000.0
+LTTS,Q,income,Net Income,2026-03-31,3321000000.0
+LTTS,Q,income,Net Income,2026-06-30,3566000000.0
+LTTS,Q,income,Net Income,2026-09-30,5482000000.0
+LTTS,Q,income,Net Income Common Stockholders,2025-06-30,3157000000.0
+LTTS,Q,income,Net Income Common Stockholders,2025-12-31,3026000000.0
+LTTS,Q,income,Net Income Common Stockholders,2026-03-31,3321000000.0
+LTTS,Q,income,Net Income Common Stockholders,2026-06-30,3566000000.0
+LTTS,Q,income,Net Income Common Stockholders,2026-09-30,5482000000.0
+LTTS,Q,income,Operating Income,2025-09-30,3824000000.0
+LTTS,Q,income,Operating Income,2025-12-31,4271000000.0
+LTTS,Q,income,Operating Income,2026-03-31,4349000000.0
+LTTS,Q,income,Operating Income,2026-06-30,4613000000.0
+LTTS,Q,income,Operating Income,2026-09-30,4965000000.0
+LTTS,Q,income,Pretax Income,2025-09-30,4324000000.0
+LTTS,Q,income,Pretax Income,2025-12-31,4101000000.0
+LTTS,Q,income,Pretax Income,2026-03-31,4362000000.0
+LTTS,Q,income,Pretax Income,2026-06-30,4760000000.0
+LTTS,Q,income,Pretax Income,2026-09-30,5135000000.0
+LTTS,Q,income,Total Revenue,2025-09-30,27133000000.0
+LTTS,Q,income,Total Revenue,2025-12-31,29235000000.0
+LTTS,Q,income,Total Revenue,2026-03-31,28579000000.0
+LTTS,Q,income,Total Revenue,2026-06-30,29401000000.0
+LTTS,Q,income,Total Revenue,2026-09-30,30404000000.0

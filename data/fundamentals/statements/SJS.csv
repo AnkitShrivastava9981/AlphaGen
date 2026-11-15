@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+SJS,A,balance,Cash And Cash Equivalents,2023-03-31,79180000.0
+SJS,A,balance,Cash And Cash Equivalents,2024-03-31,121230000.0
+SJS,A,balance,Cash And Cash Equivalents,2025-03-31,170020000.0
+SJS,A,balance,Cash And Cash Equivalents,2026-03-31,242570000.0
+SJS,A,balance,Net Debt,2023-03-31,124550000.0
+SJS,A,balance,Net Debt,2024-03-31,562200000.0
+SJS,A,balance,Ordinary Shares Number,2023-03-31,30437904.0
+SJS,A,balance,Ordinary Shares Number,2024-03-31,31037904.0
+SJS,A,balance,Ordinary Shares Number,2025-03-31,31325654.0
+SJS,A,balance,Ordinary Shares Number,2026-03-31,31996779.0
+SJS,A,balance,Stockholders Equity,2023-03-31,4296390000.0
+SJS,A,balance,Stockholders Equity,2024-03-31,5505370000.0
+SJS,A,balance,Stockholders Equity,2025-03-31,6771800000.0
+SJS,A,balance,Stockholders Equity,2026-03-31,8678770000.0
+SJS,A,balance,Total Assets,2023-03-31,5381160000.0
+SJS,A,balance,Total Assets,2024-03-31,7896270000.0
+SJS,A,balance,Total Assets,2025-03-31,8741400000.0
+SJS,A,balance,Total Assets,2026-03-31,11121270000.0
+SJS,A,balance,Total Debt,2023-03-31,304860000.0
+SJS,A,balance,Total Debt,2024-03-31,842140000.0
+SJS,A,balance,Total Debt,2025-03-31,371660000.0
+SJS,A,balance,Total Debt,2026-03-31,232540000.0
+SJS,A,cashflow,Capital Expenditure,2023-03-31,-308160000.0
+SJS,A,cashflow,Capital Expenditure,2024-03-31,-301120000.0
+SJS,A,cashflow,Capital Expenditure,2025-03-31,-386590000.0
+SJS,A,cashflow,Capital Expenditure,2026-03-31,-833080000.0
+SJS,A,cashflow,Free Cash Flow,2023-03-31,561880000.0
+SJS,A,cashflow,Free Cash Flow,2024-03-31,776800000.0
+SJS,A,cashflow,Free Cash Flow,2025-03-31,1243460000.0
+SJS,A,cashflow,Free Cash Flow,2026-03-31,1405750000.0
+SJS,A,cashflow,Operating Cash Flow,2023-03-31,870040000.0
+SJS,A,cashflow,Operating Cash Flow,2024-03-31,1077920000.0
+SJS,A,cashflow,Operating Cash Flow,2025-03-31,1630050000.0
+SJS,A,cashflow,Operating Cash Flow,2026-03-31,2238830000.0
+SJS,A,income,Basic EPS,2023-03-31,22.1
+SJS,A,income,Basic EPS,2024-03-31,27.45
+SJS,A,income,Basic EPS,2025-03-31,37.82
+SJS,A,income,Basic EPS,2026-03-31,54.02
+SJS,A,income,Diluted EPS,2023-03-31,21.81
+SJS,A,income,Diluted EPS,2024-03-31,26.87
+SJS,A,income,Diluted EPS,2025-03-31,36.88
+SJS,A,income,Diluted EPS,2026-03-31,53.06
+SJS,A,income,EBITDA,2023-03-31,1167820000.0
+SJS,A,income,EBITDA,2024-03-31,1599120000.0
+SJS,A,income,EBITDA,2025-03-31,2032080000.0
+SJS,A,income,EBITDA,2026-03-31,2879640000.0
+SJS,A,income,Interest Expense,2023-03-31,23110000.0
+SJS,A,income,Interest Expense,2024-03-31,85210000.0
+SJS,A,income,Interest Expense,2025-03-31,56410000.0
+SJS,A,income,Interest Expense,2026-03-31,38940000.0
+SJS,A,income,Net Income,2023-03-31,672530000.0
+SJS,A,income,Net Income,2024-03-31,848160000.0
+SJS,A,income,Net Income,2025-03-31,1178130000.0
+SJS,A,income,Net Income,2026-03-31,1706980000.0
+SJS,A,income,Net Income Common Stockholders,2023-03-31,672530000.0
+SJS,A,income,Net Income Common Stockholders,2024-03-31,848160000.0
+SJS,A,income,Net Income Common Stockholders,2025-03-31,1178130000.0
+SJS,A,income,Net Income Common Stockholders,2026-03-31,1706980000.0
+SJS,A,income,Operating Income,2023-03-31,837740000.0
+SJS,A,income,Operating Income,2024-03-31,1152000000.0
+SJS,A,income,Operating Income,2025-03-31,1523180000.0
+SJS,A,income,Operating Income,2026-03-31,2176680000.0
+SJS,A,income,Pretax Income,2023-03-31,911700000.0
+SJS,A,income,Pretax Income,2024-03-31,1126490000.0
+SJS,A,income,Pretax Income,2025-03-31,1528640000.0
+SJS,A,income,Pretax Income,2026-03-31,2300910000.0
+SJS,A,income,Total Revenue,2023-03-31,4320230000.0
+SJS,A,income,Total Revenue,2024-03-31,6080910000.0
+SJS,A,income,Total Revenue,2025-03-31,7584300000.0
+SJS,A,income,Total Revenue,2026-03-31,9523650000.0
+SJS,Q,income,Basic EPS,2025-06-30,11.03
+SJS,Q,income,Basic EPS,2025-12-31,14.05
+SJS,Q,income,Basic EPS,2026-03-31,15.16
+SJS,Q,income,Basic EPS,2026-06-30,23.18
+SJS,Q,income,Basic EPS,2026-09-30,18.08
+SJS,Q,income,Diluted EPS,2025-06-30,10.74
+SJS,Q,income,Diluted EPS,2025-12-31,13.77
+SJS,Q,income,Diluted EPS,2026-03-31,14.86
+SJS,Q,income,Diluted EPS,2026-06-30,22.7
+SJS,Q,income,Diluted EPS,2026-09-30,17.91
+SJS,Q,income,EBITDA,2025-06-30,587240000.0
+SJS,Q,income,EBITDA,2025-12-31,756390000.0
+SJS,Q,income,EBITDA,2026-03-31,807600000.0
+SJS,Q,income,EBITDA,2026-06-30,1079100000.0
+SJS,Q,income,EBITDA,2026-09-30,896410000.0
+SJS,Q,income,Interest Expense,2025-06-30,9270000.0
+SJS,Q,income,Interest Expense,2025-12-31,10000000.0
+SJS,Q,income,Interest Expense,2026-03-31,10070000.0
+SJS,Q,income,Interest Expense,2026-06-30,5570000.0
+SJS,Q,income,Interest Expense,2026-09-30,5410000.0
+SJS,Q,income,Net Income,2025-06-30,345650000.0
+SJS,Q,income,Net Income,2025-12-31,446110000.0
+SJS,Q,income,Net Income,2026-03-31,484880000.0
+SJS,Q,income,Net Income,2026-06-30,741750000.0
+SJS,Q,income,Net Income,2026-09-30,580300000.0
+SJS,Q,income,Net Income Common Stockholders,2025-06-30,345650000.0
+SJS,Q,income,Net Income Common Stockholders,2025-12-31,446110000.0
+SJS,Q,income,Net Income Common Stockholders,2026-03-31,484880000.0
+SJS,Q,income,Net Income Common Stockholders,2026-06-30,741750000.0
+SJS,Q,income,Net Income Common Stockholders,2026-09-30,580300000.0
+SJS,Q,income,Operating Income,2025-06-30,440530000.0
+SJS,Q,income,Operating Income,2025-12-31,569960000.0
+SJS,Q,income,Operating Income,2026-03-31,607800000.0
+SJS,Q,income,Operating Income,2026-06-30,629170000.0
+SJS,Q,income,Operating Income,2026-09-30,724840000.0
+SJS,Q,income,Pretax Income,2025-06-30,459370000.0
+SJS,Q,income,Pretax Income,2025-12-31,602540000.0
+SJS,Q,income,Pretax Income,2026-03-31,658540000.0
+SJS,Q,income,Pretax Income,2026-06-30,956000000.0
+SJS,Q,income,Pretax Income,2026-09-30,782030000.0
+SJS,Q,income,Total Revenue,2025-06-30,2096580000.0
+SJS,Q,income,Total Revenue,2025-12-31,2435310000.0
+SJS,Q,income,Total Revenue,2026-03-31,2601220000.0
+SJS,Q,income,Total Revenue,2026-06-30,2609980000.0
+SJS,Q,income,Total Revenue,2026-09-30,2827280000.0

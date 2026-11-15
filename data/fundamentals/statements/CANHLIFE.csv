@@ -1,0 +1,58 @@
+symbol,freq,statement,item,period_end,value
+CANHLIFE,A,balance,Cash And Cash Equivalents,2025-03-31,6109600000.0
+CANHLIFE,A,balance,Cash And Cash Equivalents,2026-03-31,6133300000.0
+CANHLIFE,A,balance,Ordinary Shares Number,2025-03-31,950000000.0
+CANHLIFE,A,balance,Ordinary Shares Number,2026-03-31,947484925.0
+CANHLIFE,A,balance,Stockholders Equity,2025-03-31,15168600000.0
+CANHLIFE,A,balance,Stockholders Equity,2026-03-31,16054700000.0
+CANHLIFE,A,balance,Total Assets,2025-03-31,429142800000.0
+CANHLIFE,A,balance,Total Assets,2026-03-31,480566700000.0
+CANHLIFE,A,balance,Total Debt,2026-03-31,2500000000.0
+CANHLIFE,A,cashflow,Capital Expenditure,2025-03-31,-115500000.0
+CANHLIFE,A,cashflow,Capital Expenditure,2026-03-31,-103700000.0
+CANHLIFE,A,cashflow,Free Cash Flow,2025-03-31,11962700000.0
+CANHLIFE,A,cashflow,Free Cash Flow,2026-03-31,35231300000.0
+CANHLIFE,A,income,Basic EPS,2025-03-31,1.231368
+CANHLIFE,A,income,Basic EPS,2026-03-31,1.33
+CANHLIFE,A,income,Diluted EPS,2025-03-31,1.231368
+CANHLIFE,A,income,Diluted EPS,2026-03-31,1.33
+CANHLIFE,A,income,Interest Expense,2025-03-31,81900000.0
+CANHLIFE,A,income,Interest Expense,2026-03-31,93200000.0
+CANHLIFE,A,income,Net Income,2025-03-31,1169800000.0
+CANHLIFE,A,income,Net Income,2026-03-31,1266100000.0
+CANHLIFE,A,income,Net Income Common Stockholders,2025-03-31,1169800000.0
+CANHLIFE,A,income,Net Income Common Stockholders,2026-03-31,1266100000.0
+CANHLIFE,A,income,Pretax Income,2025-03-31,1281500000.0
+CANHLIFE,A,income,Pretax Income,2026-03-31,1407800000.0
+CANHLIFE,A,income,Total Revenue,2025-03-31,104759200000.0
+CANHLIFE,A,income,Total Revenue,2026-03-31,112416500000.0
+CANHLIFE,Q,income,Basic EPS,2025-09-30,0.429579
+CANHLIFE,Q,income,Basic EPS,2025-12-31,0.29
+CANHLIFE,Q,income,Basic EPS,2026-03-31,0.37
+CANHLIFE,Q,income,Basic EPS,2026-06-30,0.3
+CANHLIFE,Q,income,Basic EPS,2026-09-30,0.45
+CANHLIFE,Q,income,Diluted EPS,2025-09-30,0.429579
+CANHLIFE,Q,income,Diluted EPS,2025-12-31,0.29
+CANHLIFE,Q,income,Diluted EPS,2026-03-31,0.37
+CANHLIFE,Q,income,Diluted EPS,2026-06-30,0.3
+CANHLIFE,Q,income,Diluted EPS,2026-09-30,0.45
+CANHLIFE,Q,income,Net Income,2025-09-30,408100000.0
+CANHLIFE,Q,income,Net Income,2025-12-31,276500000.0
+CANHLIFE,Q,income,Net Income,2026-03-31,347300000.0
+CANHLIFE,Q,income,Net Income,2026-06-30,281400000.0
+CANHLIFE,Q,income,Net Income,2026-09-30,430500000.0
+CANHLIFE,Q,income,Net Income Common Stockholders,2025-09-30,408100000.0
+CANHLIFE,Q,income,Net Income Common Stockholders,2025-12-31,276500000.0
+CANHLIFE,Q,income,Net Income Common Stockholders,2026-03-31,347300000.0
+CANHLIFE,Q,income,Net Income Common Stockholders,2026-06-30,281400000.0
+CANHLIFE,Q,income,Net Income Common Stockholders,2026-09-30,430500000.0
+CANHLIFE,Q,income,Pretax Income,2025-09-30,452600000.0
+CANHLIFE,Q,income,Pretax Income,2025-12-31,308400000.0
+CANHLIFE,Q,income,Pretax Income,2026-03-31,386100000.0
+CANHLIFE,Q,income,Pretax Income,2026-06-30,315100000.0
+CANHLIFE,Q,income,Pretax Income,2026-09-30,482100000.0
+CANHLIFE,Q,income,Total Revenue,2025-09-30,23479400000.0
+CANHLIFE,Q,income,Total Revenue,2025-12-31,42022500000.0
+CANHLIFE,Q,income,Total Revenue,2026-03-31,12905700000.0
+CANHLIFE,Q,income,Total Revenue,2026-06-30,43508600000.0
+CANHLIFE,Q,income,Total Revenue,2026-09-30,25560800000.0

@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+APTUS,A,balance,Cash And Cash Equivalents,2023-03-31,4575750000.0
+APTUS,A,balance,Cash And Cash Equivalents,2024-03-31,3486268000.0
+APTUS,A,balance,Cash And Cash Equivalents,2025-03-31,4098401000.0
+APTUS,A,balance,Cash And Cash Equivalents,2026-03-31,5688920000.0
+APTUS,A,balance,Net Debt,2023-03-31,33284866000.0
+APTUS,A,balance,Net Debt,2024-03-31,48363684000.0
+APTUS,A,balance,Net Debt,2025-03-31,64370024000.0
+APTUS,A,balance,Net Debt,2026-03-31,73047772000.0
+APTUS,A,balance,Ordinary Shares Number,2023-03-31,498030251.0
+APTUS,A,balance,Ordinary Shares Number,2024-03-31,498924001.0
+APTUS,A,balance,Ordinary Shares Number,2025-03-31,499814138.0
+APTUS,A,balance,Ordinary Shares Number,2026-03-31,500742736.0
+APTUS,A,balance,Stockholders Equity,2023-03-31,33393312000.0
+APTUS,A,balance,Stockholders Equity,2024-03-31,37679238000.0
+APTUS,A,balance,Stockholders Equity,2025-03-31,43166518000.0
+APTUS,A,balance,Stockholders Equity,2026-03-31,50600383000.0
+APTUS,A,balance,Total Assets,2023-03-31,71762848000.0
+APTUS,A,balance,Total Assets,2024-03-31,90046128000.0
+APTUS,A,balance,Total Assets,2025-03-31,112434082000.0
+APTUS,A,balance,Total Assets,2026-03-31,130476573000.0
+APTUS,A,balance,Total Debt,2023-03-31,37958211000.0
+APTUS,A,balance,Total Debt,2024-03-31,51996122000.0
+APTUS,A,balance,Total Debt,2025-03-31,68730872000.0
+APTUS,A,balance,Total Debt,2026-03-31,79037686000.0
+APTUS,A,cashflow,Capital Expenditure,2023-03-31,-33094000.0
+APTUS,A,cashflow,Capital Expenditure,2024-03-31,-48863000.0
+APTUS,A,cashflow,Capital Expenditure,2025-03-31,-69086000.0
+APTUS,A,cashflow,Capital Expenditure,2026-03-31,-63808000.0
+APTUS,A,cashflow,Free Cash Flow,2023-03-31,-10504184000.0
+APTUS,A,cashflow,Free Cash Flow,2024-03-31,-13605649000.0
+APTUS,A,cashflow,Free Cash Flow,2025-03-31,-14118207000.0
+APTUS,A,cashflow,Free Cash Flow,2026-03-31,-4956434000.0
+APTUS,A,cashflow,Operating Cash Flow,2023-03-31,-10471090000.0
+APTUS,A,cashflow,Operating Cash Flow,2024-03-31,-13556786000.0
+APTUS,A,cashflow,Operating Cash Flow,2025-03-31,-14049121000.0
+APTUS,A,cashflow,Operating Cash Flow,2026-03-31,-4892626000.0
+APTUS,A,income,Basic EPS,2023-03-31,10.11
+APTUS,A,income,Basic EPS,2024-03-31,12.27
+APTUS,A,income,Basic EPS,2025-03-31,15.04
+APTUS,A,income,Basic EPS,2026-03-31,18.84
+APTUS,A,income,Diluted EPS,2023-03-31,10.08
+APTUS,A,income,Diluted EPS,2024-03-31,12.21
+APTUS,A,income,Diluted EPS,2025-03-31,15.01
+APTUS,A,income,Diluted EPS,2026-03-31,18.84
+APTUS,A,income,Interest Expense,2023-03-31,2759120000.0
+APTUS,A,income,Interest Expense,2024-03-31,3878565000.0
+APTUS,A,income,Interest Expense,2025-03-31,5405145000.0
+APTUS,A,income,Interest Expense,2026-03-31,6484450000.0
+APTUS,A,income,Net Income,2023-03-31,5030146000.0
+APTUS,A,income,Net Income,2024-03-31,6118956000.0
+APTUS,A,income,Net Income,2025-03-31,7512461000.0
+APTUS,A,income,Net Income,2026-03-31,9429439000.0
+APTUS,A,income,Net Income Common Stockholders,2023-03-31,5030146000.0
+APTUS,A,income,Net Income Common Stockholders,2024-03-31,6118956000.0
+APTUS,A,income,Net Income Common Stockholders,2025-03-31,7512461000.0
+APTUS,A,income,Net Income Common Stockholders,2026-03-31,9429439000.0
+APTUS,A,income,Pretax Income,2023-03-31,6537197000.0
+APTUS,A,income,Pretax Income,2024-03-31,7931557000.0
+APTUS,A,income,Pretax Income,2025-03-31,9748389000.0
+APTUS,A,income,Pretax Income,2026-03-31,12111561000.0
+APTUS,A,income,Total Revenue,2023-03-31,8577256000.0
+APTUS,A,income,Total Revenue,2024-03-31,10213326000.0
+APTUS,A,income,Total Revenue,2025-03-31,12578874000.0
+APTUS,A,income,Total Revenue,2026-03-31,15970368000.0
+APTUS,Q,income,Basic EPS,2025-06-30,4.39
+APTUS,Q,income,Basic EPS,2025-12-31,4.72
+APTUS,Q,income,Basic EPS,2026-03-31,5.22
+APTUS,Q,income,Basic EPS,2026-06-30,5.21
+APTUS,Q,income,Basic EPS,2026-09-30,5.34
+APTUS,Q,income,Diluted EPS,2025-06-30,4.38
+APTUS,Q,income,Diluted EPS,2025-12-31,4.72
+APTUS,Q,income,Diluted EPS,2026-03-31,5.21
+APTUS,Q,income,Diluted EPS,2026-06-30,5.21
+APTUS,Q,income,Diluted EPS,2026-09-30,5.34
+APTUS,Q,income,Interest Expense,2025-06-30,1604329000.0
+APTUS,Q,income,Interest Expense,2025-12-31,1624926000.0
+APTUS,Q,income,Interest Expense,2026-03-31,1605121000.0
+APTUS,Q,income,Interest Expense,2026-06-30,1696751000.0
+APTUS,Q,income,Interest Expense,2026-09-30,1714521000.0
+APTUS,Q,income,Net Income,2025-06-30,2192515000.0
+APTUS,Q,income,Net Income,2025-12-31,2361886000.0
+APTUS,Q,income,Net Income,2026-03-31,2609549000.0
+APTUS,Q,income,Net Income,2026-06-30,2609410000.0
+APTUS,Q,income,Net Income,2026-09-30,2673830000.0
+APTUS,Q,income,Net Income Common Stockholders,2025-06-30,2192515000.0
+APTUS,Q,income,Net Income Common Stockholders,2025-12-31,2361886000.0
+APTUS,Q,income,Net Income Common Stockholders,2026-03-31,2609549000.0
+APTUS,Q,income,Net Income Common Stockholders,2026-06-30,2609410000.0
+APTUS,Q,income,Net Income Common Stockholders,2026-09-30,2673830000.0
+APTUS,Q,income,Pretax Income,2025-06-30,2855467000.0
+APTUS,Q,income,Pretax Income,2025-12-31,3037840000.0
+APTUS,Q,income,Pretax Income,2026-03-31,3275637000.0
+APTUS,Q,income,Pretax Income,2026-06-30,3290943000.0
+APTUS,Q,income,Pretax Income,2026-09-30,3402949000.0
+APTUS,Q,income,Total Revenue,2025-06-30,3697099000.0
+APTUS,Q,income,Total Revenue,2025-12-31,4060422000.0
+APTUS,Q,income,Total Revenue,2026-03-31,4326067000.0
+APTUS,Q,income,Total Revenue,2026-06-30,4409789000.0
+APTUS,Q,income,Total Revenue,2026-09-30,4632168000.0

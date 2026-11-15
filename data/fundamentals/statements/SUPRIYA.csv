@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+SUPRIYA,A,balance,Cash And Cash Equivalents,2023-03-31,852520000.0
+SUPRIYA,A,balance,Cash And Cash Equivalents,2024-03-31,683490000.0
+SUPRIYA,A,balance,Cash And Cash Equivalents,2025-03-31,759970000.0
+SUPRIYA,A,balance,Cash And Cash Equivalents,2026-03-31,374770000.0
+SUPRIYA,A,balance,Ordinary Shares Number,2023-03-31,80482800.0
+SUPRIYA,A,balance,Ordinary Shares Number,2024-03-31,80482800.0
+SUPRIYA,A,balance,Ordinary Shares Number,2025-03-31,80482800.0
+SUPRIYA,A,balance,Ordinary Shares Number,2026-03-31,80482800.0
+SUPRIYA,A,balance,Stockholders Equity,2023-03-31,6994580000.0
+SUPRIYA,A,balance,Stockholders Equity,2024-03-31,8153660000.0
+SUPRIYA,A,balance,Stockholders Equity,2025-03-31,9967600000.0
+SUPRIYA,A,balance,Stockholders Equity,2026-03-31,11977330000.0
+SUPRIYA,A,balance,Total Assets,2023-03-31,8202770000.0
+SUPRIYA,A,balance,Total Assets,2024-03-31,9214480000.0
+SUPRIYA,A,balance,Total Assets,2025-03-31,11173470000.0
+SUPRIYA,A,balance,Total Assets,2026-03-31,13571070000.0
+SUPRIYA,A,balance,Total Debt,2023-03-31,224680000.0
+SUPRIYA,A,balance,Total Debt,2024-03-31,54880000.0
+SUPRIYA,A,balance,Total Debt,2025-03-31,53800000.0
+SUPRIYA,A,balance,Total Debt,2026-03-31,54350000.0
+SUPRIYA,A,cashflow,Capital Expenditure,2023-03-31,-1079100000.0
+SUPRIYA,A,cashflow,Capital Expenditure,2024-03-31,-1456550000.0
+SUPRIYA,A,cashflow,Capital Expenditure,2025-03-31,-1623760000.0
+SUPRIYA,A,cashflow,Capital Expenditure,2026-03-31,-1522350000.0
+SUPRIYA,A,cashflow,Free Cash Flow,2023-03-31,-443050000.0
+SUPRIYA,A,cashflow,Free Cash Flow,2024-03-31,-323480000.0
+SUPRIYA,A,cashflow,Free Cash Flow,2025-03-31,22990000.0
+SUPRIYA,A,cashflow,Free Cash Flow,2026-03-31,335340000.0
+SUPRIYA,A,cashflow,Operating Cash Flow,2023-03-31,636050000.0
+SUPRIYA,A,cashflow,Operating Cash Flow,2024-03-31,1133070000.0
+SUPRIYA,A,cashflow,Operating Cash Flow,2025-03-31,1646750000.0
+SUPRIYA,A,cashflow,Operating Cash Flow,2026-03-31,1857690000.0
+SUPRIYA,A,income,Basic EPS,2023-03-31,11.16
+SUPRIYA,A,income,Basic EPS,2024-03-31,14.8
+SUPRIYA,A,income,Basic EPS,2025-03-31,23.35
+SUPRIYA,A,income,Basic EPS,2026-03-31,25.98
+SUPRIYA,A,income,Diluted EPS,2023-03-31,11.16
+SUPRIYA,A,income,Diluted EPS,2024-03-31,14.8
+SUPRIYA,A,income,Diluted EPS,2025-03-31,23.35
+SUPRIYA,A,income,Diluted EPS,2026-03-31,25.98
+SUPRIYA,A,income,EBITDA,2023-03-31,1369820000.0
+SUPRIYA,A,income,EBITDA,2024-03-31,1852040000.0
+SUPRIYA,A,income,EBITDA,2025-03-31,2694120000.0
+SUPRIYA,A,income,EBITDA,2026-03-31,3045830000.0
+SUPRIYA,A,income,Interest Expense,2023-03-31,16800000.0
+SUPRIYA,A,income,Interest Expense,2024-03-31,37030000.0
+SUPRIYA,A,income,Interest Expense,2025-03-31,4880000.0
+SUPRIYA,A,income,Interest Expense,2026-03-31,13950000.0
+SUPRIYA,A,income,Net Income,2023-03-31,898570000.0
+SUPRIYA,A,income,Net Income,2024-03-31,1191140000.0
+SUPRIYA,A,income,Net Income,2025-03-31,1879570000.0
+SUPRIYA,A,income,Net Income,2026-03-31,2091200000.0
+SUPRIYA,A,income,Net Income Common Stockholders,2023-03-31,898570000.0
+SUPRIYA,A,income,Net Income Common Stockholders,2024-03-31,1191140000.0
+SUPRIYA,A,income,Net Income Common Stockholders,2025-03-31,1879570000.0
+SUPRIYA,A,income,Net Income Common Stockholders,2026-03-31,2091200000.0
+SUPRIYA,A,income,Operating Income,2023-03-31,1153190000.0
+SUPRIYA,A,income,Operating Income,2024-03-31,1577510000.0
+SUPRIYA,A,income,Operating Income,2025-03-31,2358930000.0
+SUPRIYA,A,income,Operating Income,2026-03-31,2545470000.0
+SUPRIYA,A,income,Pretax Income,2023-03-31,1234870000.0
+SUPRIYA,A,income,Pretax Income,2024-03-31,1656900000.0
+SUPRIYA,A,income,Pretax Income,2025-03-31,2484800000.0
+SUPRIYA,A,income,Pretax Income,2026-03-31,2747790000.0
+SUPRIYA,A,income,Total Revenue,2023-03-31,4510150000.0
+SUPRIYA,A,income,Total Revenue,2024-03-31,5574100000.0
+SUPRIYA,A,income,Total Revenue,2025-03-31,6795640000.0
+SUPRIYA,A,income,Total Revenue,2026-03-31,8023650000.0
+SUPRIYA,Q,income,Basic EPS,2025-09-30,6.27
+SUPRIYA,Q,income,Basic EPS,2025-12-31,6.17
+SUPRIYA,Q,income,Basic EPS,2026-03-31,9.22
+SUPRIYA,Q,income,Basic EPS,2026-06-30,2.99
+SUPRIYA,Q,income,Basic EPS,2026-09-30,3.63
+SUPRIYA,Q,income,Diluted EPS,2025-09-30,6.27
+SUPRIYA,Q,income,Diluted EPS,2025-12-31,6.17
+SUPRIYA,Q,income,Diluted EPS,2026-03-31,9.22
+SUPRIYA,Q,income,Diluted EPS,2026-06-30,2.99
+SUPRIYA,Q,income,Diluted EPS,2026-09-30,3.63
+SUPRIYA,Q,income,EBITDA,2025-09-30,753720000.0
+SUPRIYA,Q,income,EBITDA,2025-12-31,742350000.0
+SUPRIYA,Q,income,EBITDA,2026-03-31,1010950000.0
+SUPRIYA,Q,income,EBITDA,2026-06-30,501060000.0
+SUPRIYA,Q,income,EBITDA,2026-09-30,476940000.0
+SUPRIYA,Q,income,Interest Expense,2025-09-30,4150000.0
+SUPRIYA,Q,income,Interest Expense,2025-12-31,4940000.0
+SUPRIYA,Q,income,Interest Expense,2026-03-31,4680000.0
+SUPRIYA,Q,income,Interest Expense,2026-06-30,3740000.0
+SUPRIYA,Q,income,Interest Expense,2026-09-30,4570000.0
+SUPRIYA,Q,income,Net Income,2025-09-30,504270000.0
+SUPRIYA,Q,income,Net Income,2025-12-31,496750000.0
+SUPRIYA,Q,income,Net Income,2026-03-31,742290000.0
+SUPRIYA,Q,income,Net Income,2026-06-30,240430000.0
+SUPRIYA,Q,income,Net Income,2026-09-30,292500000.0
+SUPRIYA,Q,income,Net Income Common Stockholders,2025-09-30,504270000.0
+SUPRIYA,Q,income,Net Income Common Stockholders,2025-12-31,496750000.0
+SUPRIYA,Q,income,Net Income Common Stockholders,2026-03-31,742290000.0
+SUPRIYA,Q,income,Net Income Common Stockholders,2026-06-30,240430000.0
+SUPRIYA,Q,income,Net Income Common Stockholders,2026-09-30,292500000.0
+SUPRIYA,Q,income,Operating Income,2025-09-30,660080000.0
+SUPRIYA,Q,income,Operating Income,2025-12-31,652610000.0
+SUPRIYA,Q,income,Operating Income,2026-03-31,891190000.0
+SUPRIYA,Q,income,Operating Income,2026-06-30,385180000.0
+SUPRIYA,Q,income,Operating Income,2026-09-30,359430000.0
+SUPRIYA,Q,income,Pretax Income,2025-09-30,683180000.0
+SUPRIYA,Q,income,Pretax Income,2025-12-31,669200000.0
+SUPRIYA,Q,income,Pretax Income,2026-03-31,921290000.0
+SUPRIYA,Q,income,Pretax Income,2026-06-30,407920000.0
+SUPRIYA,Q,income,Pretax Income,2026-09-30,377780000.0
+SUPRIYA,Q,income,Total Revenue,2025-09-30,1998330000.0
+SUPRIYA,Q,income,Total Revenue,2025-12-31,2064400000.0
+SUPRIYA,Q,income,Total Revenue,2026-03-31,2765280000.0
+SUPRIYA,Q,income,Total Revenue,2026-06-30,1897470000.0
+SUPRIYA,Q,income,Total Revenue,2026-09-30,2062970000.0

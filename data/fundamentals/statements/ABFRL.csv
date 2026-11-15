@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ABFRL,A,balance,Cash And Cash Equivalents,2023-03-31,6926900000.0
+ABFRL,A,balance,Cash And Cash Equivalents,2024-03-31,4540300000.0
+ABFRL,A,balance,Cash And Cash Equivalents,2025-03-31,7668100000.0
+ABFRL,A,balance,Cash And Cash Equivalents,2026-03-31,669600000.0
+ABFRL,A,balance,Net Debt,2023-03-31,16123200000.0
+ABFRL,A,balance,Net Debt,2024-03-31,37500400000.0
+ABFRL,A,balance,Net Debt,2025-03-31,6712300000.0
+ABFRL,A,balance,Net Debt,2026-03-31,16267700000.0
+ABFRL,A,balance,Ordinary Shares Number,2023-03-31,943934711.0
+ABFRL,A,balance,Ordinary Shares Number,2024-03-31,1010319628.0
+ABFRL,A,balance,Ordinary Shares Number,2025-03-31,1215865084.0
+ABFRL,A,balance,Ordinary Shares Number,2026-03-31,1216387646.0
+ABFRL,A,balance,Stockholders Equity,2023-03-31,33432900000.0
+ABFRL,A,balance,Stockholders Equity,2024-03-31,40223800000.0
+ABFRL,A,balance,Stockholders Equity,2025-03-31,68121700000.0
+ABFRL,A,balance,Stockholders Equity,2026-03-31,58390600000.0
+ABFRL,A,balance,Total Assets,2023-03-31,170412800000.0
+ABFRL,A,balance,Total Assets,2024-03-31,224475900000.0
+ABFRL,A,balance,Total Assets,2025-03-31,166395000000.0
+ABFRL,A,balance,Total Assets,2026-03-31,177572000000.0
+ABFRL,A,balance,Total Debt,2023-03-31,65723500000.0
+ABFRL,A,balance,Total Debt,2024-03-31,94502900000.0
+ABFRL,A,balance,Total Debt,2025-03-31,50162400000.0
+ABFRL,A,balance,Total Debt,2026-03-31,61882400000.0
+ABFRL,A,cashflow,Capital Expenditure,2023-03-31,-6813200000.0
+ABFRL,A,cashflow,Capital Expenditure,2024-03-31,-7470300000.0
+ABFRL,A,cashflow,Capital Expenditure,2025-03-31,-6347700000.0
+ABFRL,A,cashflow,Capital Expenditure,2026-03-31,-5088200000.0
+ABFRL,A,cashflow,Free Cash Flow,2023-03-31,-451200000.0
+ABFRL,A,cashflow,Free Cash Flow,2024-03-31,5943700000.0
+ABFRL,A,cashflow,Free Cash Flow,2025-03-31,10465600000.0
+ABFRL,A,cashflow,Free Cash Flow,2026-03-31,-3480700000.0
+ABFRL,A,cashflow,Operating Cash Flow,2023-03-31,6362000000.0
+ABFRL,A,cashflow,Operating Cash Flow,2024-03-31,13414000000.0
+ABFRL,A,cashflow,Operating Cash Flow,2025-03-31,16813300000.0
+ABFRL,A,cashflow,Operating Cash Flow,2026-03-31,1607500000.0
+ABFRL,A,income,Basic EPS,2023-03-31,-0.38
+ABFRL,A,income,Basic EPS,2024-03-31,-6.52
+ABFRL,A,income,Basic EPS,2025-03-31,-3.53
+ABFRL,A,income,Basic EPS,2026-03-31,-6.38
+ABFRL,A,income,Diluted EPS,2023-03-31,-0.38
+ABFRL,A,income,Diluted EPS,2024-03-31,-6.52
+ABFRL,A,income,Diluted EPS,2025-03-31,-3.53
+ABFRL,A,income,Diluted EPS,2026-03-31,-6.38
+ABFRL,A,income,EBITDA,2023-03-31,16160200000.0
+ABFRL,A,income,EBITDA,2024-03-31,11546100000.0
+ABFRL,A,income,EBITDA,2025-03-31,16475700000.0
+ABFRL,A,income,EBITDA,2026-03-31,9251400000.0
+ABFRL,A,income,Interest Expense,2023-03-31,4715000000.0
+ABFRL,A,income,Interest Expense,2024-03-31,5474600000.0
+ABFRL,A,income,Interest Expense,2025-03-31,5585300000.0
+ABFRL,A,income,Interest Expense,2026-03-31,5137800000.0
+ABFRL,A,income,Net Income,2023-03-31,-360000000.0
+ABFRL,A,income,Net Income,2024-03-31,-6280200000.0
+ABFRL,A,income,Net Income,2025-03-31,-3758200000.0
+ABFRL,A,income,Net Income,2026-03-31,-7758900000.0
+ABFRL,A,income,Net Income Common Stockholders,2023-03-31,-360000000.0
+ABFRL,A,income,Net Income Common Stockholders,2024-03-31,-6280200000.0
+ABFRL,A,income,Net Income Common Stockholders,2025-03-31,-3758200000.0
+ABFRL,A,income,Net Income Common Stockholders,2026-03-31,-7758900000.0
+ABFRL,A,income,Operating Income,2023-03-31,3380100000.0
+ABFRL,A,income,Operating Income,2024-03-31,-6163100000.0
+ABFRL,A,income,Operating Income,2025-03-31,-4477800000.0
+ABFRL,A,income,Operating Income,2026-03-31,-6071900000.0
+ABFRL,A,income,Pretax Income,2023-03-31,-824400000.0
+ABFRL,A,income,Pretax Income,2024-03-31,-10480800000.0
+ABFRL,A,income,Pretax Income,2025-03-31,-7183800000.0
+ABFRL,A,income,Pretax Income,2026-03-31,-9281300000.0
+ABFRL,A,income,Total Revenue,2023-03-31,123628700000.0
+ABFRL,A,income,Total Revenue,2024-03-31,63853200000.0
+ABFRL,A,income,Total Revenue,2025-03-31,73089100000.0
+ABFRL,A,income,Total Revenue,2026-03-31,81399000000.0
+ABFRL,Q,income,Basic EPS,2025-06-30,-1.74
+ABFRL,Q,income,Basic EPS,2025-12-31,-1.25
+ABFRL,Q,income,Basic EPS,2026-03-31,1.22
+ABFRL,Q,income,Basic EPS,2026-06-30,-1.77
+ABFRL,Q,income,Basic EPS,2026-09-30,-12.82
+ABFRL,Q,income,Diluted EPS,2025-06-30,-1.74
+ABFRL,Q,income,Diluted EPS,2025-12-31,-1.25
+ABFRL,Q,income,Diluted EPS,2026-03-31,1.22
+ABFRL,Q,income,Diluted EPS,2026-06-30,-1.77
+ABFRL,Q,income,Diluted EPS,2026-09-30,-12.82
+ABFRL,Q,income,EBITDA,2025-06-30,1694600000.0
+ABFRL,Q,income,EBITDA,2025-12-31,3411200000.0
+ABFRL,Q,income,EBITDA,2026-03-31,3001200000.0
+ABFRL,Q,income,EBITDA,2026-06-30,1665600000.0
+ABFRL,Q,income,EBITDA,2026-09-30,665800000.0
+ABFRL,Q,income,Interest Expense,2025-06-30,1133600000.0
+ABFRL,Q,income,Interest Expense,2025-12-31,1324600000.0
+ABFRL,Q,income,Interest Expense,2026-03-31,1456600000.0
+ABFRL,Q,income,Interest Expense,2026-06-30,1370900000.0
+ABFRL,Q,income,Interest Expense,2026-09-30,1517000000.0
+ABFRL,Q,income,Net Income,2025-06-30,-2119800000.0
+ABFRL,Q,income,Net Income,2025-12-31,-1522300000.0
+ABFRL,Q,income,Net Income,2026-03-31,-1484000000.0
+ABFRL,Q,income,Net Income,2026-06-30,-2152400000.0
+ABFRL,Q,income,Net Income,2026-09-30,-3428400000.0
+ABFRL,Q,income,Net Income Common Stockholders,2025-06-30,-2119800000.0
+ABFRL,Q,income,Net Income Common Stockholders,2025-12-31,-1522300000.0
+ABFRL,Q,income,Net Income Common Stockholders,2026-03-31,-1484000000.0
+ABFRL,Q,income,Net Income Common Stockholders,2026-06-30,-2152400000.0
+ABFRL,Q,income,Net Income Common Stockholders,2026-09-30,-3428400000.0
+ABFRL,Q,income,Operating Income,2025-06-30,-2039300000.0
+ABFRL,Q,income,Operating Income,2025-12-31,-407900000.0
+ABFRL,Q,income,Operating Income,2026-03-31,-1517900000.0
+ABFRL,Q,income,Operating Income,2026-06-30,-2328200000.0
+ABFRL,Q,income,Operating Income,2026-09-30,-3560800000.0
+ABFRL,Q,income,Pretax Income,2025-06-30,-2595000000.0
+ABFRL,Q,income,Pretax Income,2025-12-31,-1408500000.0
+ABFRL,Q,income,Pretax Income,2026-03-31,-1947500000.0
+ABFRL,Q,income,Pretax Income,2026-06-30,-3202600000.0
+ABFRL,Q,income,Pretax Income,2026-09-30,-4544900000.0
+ABFRL,Q,income,Total Revenue,2025-06-30,18314600000.0
+ABFRL,Q,income,Total Revenue,2025-12-31,23736600000.0
+ABFRL,Q,income,Total Revenue,2026-03-31,19901300000.0
+ABFRL,Q,income,Total Revenue,2026-06-30,20255600000.0
+ABFRL,Q,income,Total Revenue,2026-09-30,20300300000.0

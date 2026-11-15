@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+LUPIN,A,balance,Cash And Cash Equivalents,2023-03-31,12318100000.0
+LUPIN,A,balance,Cash And Cash Equivalents,2024-03-31,9832800000.0
+LUPIN,A,balance,Cash And Cash Equivalents,2025-03-31,15436900000.0
+LUPIN,A,balance,Cash And Cash Equivalents,2026-03-31,41677300000.0
+LUPIN,A,balance,Net Debt,2023-03-31,30122400000.0
+LUPIN,A,balance,Net Debt,2024-03-31,16866300000.0
+LUPIN,A,balance,Net Debt,2025-03-31,35329600000.0
+LUPIN,A,balance,Net Debt,2026-03-31,17424700000.0
+LUPIN,A,balance,Ordinary Shares Number,2023-03-31,454981335.0
+LUPIN,A,balance,Ordinary Shares Number,2024-03-31,455678908.0
+LUPIN,A,balance,Ordinary Shares Number,2025-03-31,456565045.0
+LUPIN,A,balance,Ordinary Shares Number,2026-03-31,457179111.0
+LUPIN,A,balance,Stockholders Equity,2023-03-31,124645000000.0
+LUPIN,A,balance,Stockholders Equity,2024-03-31,142902900000.0
+LUPIN,A,balance,Stockholders Equity,2025-03-31,172035000000.0
+LUPIN,A,balance,Stockholders Equity,2026-03-31,224482700000.0
+LUPIN,A,balance,Total Assets,2023-03-31,229559300000.0
+LUPIN,A,balance,Total Assets,2024-03-31,239971800000.0
+LUPIN,A,balance,Total Assets,2025-03-31,292048800000.0
+LUPIN,A,balance,Total Assets,2026-03-31,383648300000.0
+LUPIN,A,balance,Total Debt,2023-03-31,45415200000.0
+LUPIN,A,balance,Total Debt,2024-03-31,29217700000.0
+LUPIN,A,balance,Total Debt,2025-03-31,54477700000.0
+LUPIN,A,balance,Total Debt,2026-03-31,66161800000.0
+LUPIN,A,cashflow,Capital Expenditure,2023-03-31,-14996200000.0
+LUPIN,A,cashflow,Capital Expenditure,2024-03-31,-9289000000.0
+LUPIN,A,cashflow,Capital Expenditure,2025-03-31,-16824300000.0
+LUPIN,A,cashflow,Capital Expenditure,2026-03-31,-20548500000.0
+LUPIN,A,cashflow,Free Cash Flow,2023-03-31,3976200000.0
+LUPIN,A,cashflow,Free Cash Flow,2024-03-31,27194600000.0
+LUPIN,A,cashflow,Free Cash Flow,2025-03-31,13175100000.0
+LUPIN,A,cashflow,Free Cash Flow,2026-03-31,52796500000.0
+LUPIN,A,cashflow,Operating Cash Flow,2023-03-31,18972400000.0
+LUPIN,A,cashflow,Operating Cash Flow,2024-03-31,36483600000.0
+LUPIN,A,cashflow,Operating Cash Flow,2025-03-31,29999400000.0
+LUPIN,A,cashflow,Operating Cash Flow,2026-03-31,73345000000.0
+LUPIN,A,income,Basic EPS,2023-03-31,9.46
+LUPIN,A,income,Basic EPS,2024-03-31,42.05
+LUPIN,A,income,Basic EPS,2025-03-31,71.95
+LUPIN,A,income,Basic EPS,2026-03-31,116.75
+LUPIN,A,income,Diluted EPS,2023-03-31,9.41
+LUPIN,A,income,Diluted EPS,2024-03-31,41.87
+LUPIN,A,income,Diluted EPS,2025-03-31,71.69
+LUPIN,A,income,Diluted EPS,2026-03-31,116.44
+LUPIN,A,income,EBITDA,2023-03-31,18373900000.0
+LUPIN,A,income,EBITDA,2024-03-31,38981200000.0
+LUPIN,A,income,EBITDA,2025-03-31,54547900000.0
+LUPIN,A,income,EBITDA,2026-03-31,86605500000.0
+LUPIN,A,income,Interest Expense,2023-03-31,2402100000.0
+LUPIN,A,income,Interest Expense,2024-03-31,2790400000.0
+LUPIN,A,income,Interest Expense,2025-03-31,2705300000.0
+LUPIN,A,income,Interest Expense,2026-03-31,4125000000.0
+LUPIN,A,income,Net Income,2023-03-31,4300800000.0
+LUPIN,A,income,Net Income,2024-03-31,19144800000.0
+LUPIN,A,income,Net Income,2025-03-31,32816200000.0
+LUPIN,A,income,Net Income,2026-03-31,53328400000.0
+LUPIN,A,income,Net Income Common Stockholders,2023-03-31,4300800000.0
+LUPIN,A,income,Net Income Common Stockholders,2024-03-31,19144800000.0
+LUPIN,A,income,Net Income Common Stockholders,2025-03-31,32816200000.0
+LUPIN,A,income,Net Income Common Stockholders,2026-03-31,53328400000.0
+LUPIN,A,income,Operating Income,2023-03-31,8894400000.0
+LUPIN,A,income,Operating Income,2024-03-31,27966400000.0
+LUPIN,A,income,Operating Income,2025-03-31,43452200000.0
+LUPIN,A,income,Operating Income,2026-03-31,68184400000.0
+LUPIN,A,income,Pretax Income,2023-03-31,7164900000.0
+LUPIN,A,income,Pretax Income,2024-03-31,24222700000.0
+LUPIN,A,income,Pretax Income,2025-03-31,40150000000.0
+LUPIN,A,income,Pretax Income,2026-03-31,68725500000.0
+LUPIN,A,income,Total Revenue,2023-03-31,162699800000.0
+LUPIN,A,income,Total Revenue,2024-03-31,196563400000.0
+LUPIN,A,income,Total Revenue,2025-03-31,221921100000.0
+LUPIN,A,income,Total Revenue,2026-03-31,274875400000.0
+LUPIN,Q,income,Basic EPS,2025-06-30,26.7
+LUPIN,Q,income,Basic EPS,2025-12-31,25.74
+LUPIN,Q,income,Basic EPS,2026-03-31,31.96
+LUPIN,Q,income,Basic EPS,2026-06-30,30.95
+LUPIN,Q,income,Basic EPS,2026-09-30,25.27
+LUPIN,Q,income,Diluted EPS,2025-06-30,26.62
+LUPIN,Q,income,Diluted EPS,2025-12-31,25.67
+LUPIN,Q,income,Diluted EPS,2026-03-31,31.89
+LUPIN,Q,income,Diluted EPS,2026-06-30,30.89
+LUPIN,Q,income,Diluted EPS,2026-09-30,25.14
+LUPIN,Q,income,EBITDA,2025-06-30,18062800000.0
+LUPIN,Q,income,EBITDA,2025-12-31,19499800000.0
+LUPIN,Q,income,EBITDA,2026-03-31,24949500000.0
+LUPIN,Q,income,EBITDA,2026-06-30,24919400000.0
+LUPIN,Q,income,EBITDA,2026-09-30,21712100000.0
+LUPIN,Q,income,Interest Expense,2025-06-30,917600000.0
+LUPIN,Q,income,Interest Expense,2025-12-31,1149800000.0
+LUPIN,Q,income,Interest Expense,2026-03-31,1201600000.0
+LUPIN,Q,income,Interest Expense,2026-06-30,1096400000.0
+LUPIN,Q,income,Interest Expense,2026-09-30,1057100000.0
+LUPIN,Q,income,Net Income,2025-06-30,12190300000.0
+LUPIN,Q,income,Net Income,2025-12-31,11755500000.0
+LUPIN,Q,income,Net Income,2026-03-31,14603400000.0
+LUPIN,Q,income,Net Income,2026-06-30,14150000000.0
+LUPIN,Q,income,Net Income,2026-09-30,11552600000.0
+LUPIN,Q,income,Net Income Common Stockholders,2025-06-30,12190300000.0
+LUPIN,Q,income,Net Income Common Stockholders,2025-12-31,11755500000.0
+LUPIN,Q,income,Net Income Common Stockholders,2026-03-31,14603400000.0
+LUPIN,Q,income,Net Income Common Stockholders,2026-06-30,14150000000.0
+LUPIN,Q,income,Net Income Common Stockholders,2026-09-30,11552600000.0
+LUPIN,Q,income,Operating Income,2025-06-30,13423900000.0
+LUPIN,Q,income,Operating Income,2025-12-31,18965300000.0
+LUPIN,Q,income,Operating Income,2026-03-31,17242800000.0
+LUPIN,Q,income,Operating Income,2026-06-30,20985100000.0
+LUPIN,Q,income,Operating Income,2026-09-30,14715000000.0
+LUPIN,Q,income,Pretax Income,2025-06-30,14155400000.0
+LUPIN,Q,income,Pretax Income,2025-12-31,15220400000.0
+LUPIN,Q,income,Pretax Income,2026-03-31,19280000000.0
+LUPIN,Q,income,Pretax Income,2026-06-30,20173600000.0
+LUPIN,Q,income,Pretax Income,2026-09-30,15796000000.0
+LUPIN,Q,income,Total Revenue,2025-06-30,61637500000.0
+LUPIN,Q,income,Total Revenue,2025-12-31,71004500000.0
+LUPIN,Q,income,Total Revenue,2026-03-31,73919100000.0
+LUPIN,Q,income,Total Revenue,2026-06-30,82172300000.0
+LUPIN,Q,income,Total Revenue,2026-09-30,77855200000.0

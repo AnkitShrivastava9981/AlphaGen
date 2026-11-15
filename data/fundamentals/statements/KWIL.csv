@@ -1,0 +1,52 @@
+symbol,freq,statement,item,period_end,value
+KWIL,A,balance,Cash And Cash Equivalents,2026-03-31,140000000.0
+KWIL,A,balance,Net Debt,2026-03-31,363000000.0
+KWIL,A,balance,Ordinary Shares Number,2026-03-31,2349591262.0
+KWIL,A,balance,Stockholders Equity,2026-03-31,6722000000.0
+KWIL,A,balance,Total Assets,2026-03-31,18361000000.0
+KWIL,A,balance,Total Debt,2026-03-31,5479000000.0
+KWIL,Q,income,Basic EPS,2025-06-30,0.160028
+KWIL,Q,income,Basic EPS,2025-09-30,-0.426457
+KWIL,Q,income,Basic EPS,2026-03-31,-0.46
+KWIL,Q,income,Basic EPS,2026-06-30,0.22
+KWIL,Q,income,Basic EPS,2026-09-30,-0.07
+KWIL,Q,income,Diluted EPS,2025-06-30,0.160028
+KWIL,Q,income,Diluted EPS,2025-09-30,-0.426457
+KWIL,Q,income,Diluted EPS,2026-03-31,-0.46
+KWIL,Q,income,Diluted EPS,2026-06-30,0.22
+KWIL,Q,income,Diluted EPS,2026-09-30,-0.07
+KWIL,Q,income,EBITDA,2025-06-30,776000000.0
+KWIL,Q,income,EBITDA,2025-09-30,-586000000.0
+KWIL,Q,income,EBITDA,2026-03-31,-959000000.0
+KWIL,Q,income,EBITDA,2026-06-30,1184000000.0
+KWIL,Q,income,EBITDA,2026-09-30,265000000.0
+KWIL,Q,income,Interest Expense,2025-06-30,54000000.0
+KWIL,Q,income,Interest Expense,2025-09-30,53000000.0
+KWIL,Q,income,Interest Expense,2026-03-31,91000000.0
+KWIL,Q,income,Interest Expense,2026-06-30,104000000.0
+KWIL,Q,income,Interest Expense,2026-09-30,108000000.0
+KWIL,Q,income,Net Income,2025-06-30,376000000.0
+KWIL,Q,income,Net Income,2025-09-30,-1002000000.0
+KWIL,Q,income,Net Income,2026-03-31,-1071000000.0
+KWIL,Q,income,Net Income,2026-06-30,507000000.0
+KWIL,Q,income,Net Income,2026-09-30,-172000000.0
+KWIL,Q,income,Net Income Common Stockholders,2025-06-30,376000000.0
+KWIL,Q,income,Net Income Common Stockholders,2025-09-30,-1002000000.0
+KWIL,Q,income,Net Income Common Stockholders,2026-03-31,-1071000000.0
+KWIL,Q,income,Net Income Common Stockholders,2026-06-30,507000000.0
+KWIL,Q,income,Net Income Common Stockholders,2026-09-30,-172000000.0
+KWIL,Q,income,Operating Income,2025-06-30,430000000.0
+KWIL,Q,income,Operating Income,2025-09-30,-917000000.0
+KWIL,Q,income,Operating Income,2026-03-31,-1166000000.0
+KWIL,Q,income,Operating Income,2026-06-30,631000000.0
+KWIL,Q,income,Operating Income,2026-09-30,-173000000.0
+KWIL,Q,income,Pretax Income,2025-06-30,376000000.0
+KWIL,Q,income,Pretax Income,2025-09-30,-994000000.0
+KWIL,Q,income,Pretax Income,2026-03-31,-1432000000.0
+KWIL,Q,income,Pretax Income,2026-06-30,677000000.0
+KWIL,Q,income,Pretax Income,2026-09-30,-252000000.0
+KWIL,Q,income,Total Revenue,2025-06-30,7440000000.0
+KWIL,Q,income,Total Revenue,2025-09-30,3187000000.0
+KWIL,Q,income,Total Revenue,2026-03-31,4746000000.0
+KWIL,Q,income,Total Revenue,2026-06-30,8678000000.0
+KWIL,Q,income,Total Revenue,2026-09-30,4530000000.0

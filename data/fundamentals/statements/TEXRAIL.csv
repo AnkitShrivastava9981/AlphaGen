@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+TEXRAIL,A,balance,Cash And Cash Equivalents,2023-03-31,307676000.0
+TEXRAIL,A,balance,Cash And Cash Equivalents,2024-03-31,269592000.0
+TEXRAIL,A,balance,Cash And Cash Equivalents,2025-03-31,570182000.0
+TEXRAIL,A,balance,Cash And Cash Equivalents,2026-03-31,898631000.0
+TEXRAIL,A,balance,Net Debt,2023-03-31,9517291000.0
+TEXRAIL,A,balance,Net Debt,2024-03-31,6027585000.0
+TEXRAIL,A,balance,Net Debt,2025-03-31,8683970000.0
+TEXRAIL,A,balance,Net Debt,2026-03-31,7831253000.0
+TEXRAIL,A,balance,Ordinary Shares Number,2023-03-31,321869895.0
+TEXRAIL,A,balance,Ordinary Shares Number,2024-03-31,399467302.0
+TEXRAIL,A,balance,Ordinary Shares Number,2025-03-31,399467302.0
+TEXRAIL,A,balance,Ordinary Shares Number,2026-03-31,406864572.0
+TEXRAIL,A,balance,Stockholders Equity,2023-03-31,13921851000.0
+TEXRAIL,A,balance,Stockholders Equity,2024-03-31,25329572000.0
+TEXRAIL,A,balance,Stockholders Equity,2025-03-31,27972158000.0
+TEXRAIL,A,balance,Stockholders Equity,2026-03-31,23741350000.0
+TEXRAIL,A,balance,Total Assets,2023-03-31,33852560000.0
+TEXRAIL,A,balance,Total Assets,2024-03-31,41849571000.0
+TEXRAIL,A,balance,Total Assets,2025-03-31,48369529000.0
+TEXRAIL,A,balance,Total Assets,2026-03-31,50538185000.0
+TEXRAIL,A,balance,Total Debt,2023-03-31,9840003000.0
+TEXRAIL,A,balance,Total Debt,2024-03-31,6310968000.0
+TEXRAIL,A,balance,Total Debt,2025-03-31,9480728000.0
+TEXRAIL,A,balance,Total Debt,2026-03-31,8947088000.0
+TEXRAIL,A,cashflow,Capital Expenditure,2023-03-31,-527437000.0
+TEXRAIL,A,cashflow,Capital Expenditure,2024-03-31,-821262000.0
+TEXRAIL,A,cashflow,Capital Expenditure,2025-03-31,-5325309000.0
+TEXRAIL,A,cashflow,Capital Expenditure,2026-03-31,-1670542000.0
+TEXRAIL,A,cashflow,Free Cash Flow,2023-03-31,-1555826000.0
+TEXRAIL,A,cashflow,Free Cash Flow,2024-03-31,136552000.0
+TEXRAIL,A,cashflow,Free Cash Flow,2025-03-31,-5791086000.0
+TEXRAIL,A,cashflow,Free Cash Flow,2026-03-31,1956126000.0
+TEXRAIL,A,cashflow,Operating Cash Flow,2023-03-31,-1028389000.0
+TEXRAIL,A,cashflow,Operating Cash Flow,2024-03-31,957814000.0
+TEXRAIL,A,cashflow,Operating Cash Flow,2025-03-31,-465777000.0
+TEXRAIL,A,cashflow,Operating Cash Flow,2026-03-31,3626668000.0
+TEXRAIL,A,income,Basic EPS,2023-03-31,0.81
+TEXRAIL,A,income,Basic EPS,2024-03-31,3.29
+TEXRAIL,A,income,Basic EPS,2025-03-31,6.24
+TEXRAIL,A,income,Basic EPS,2026-03-31,4.84
+TEXRAIL,A,income,Diluted EPS,2023-03-31,0.81
+TEXRAIL,A,income,Diluted EPS,2024-03-31,3.29
+TEXRAIL,A,income,Diluted EPS,2025-03-31,6.21
+TEXRAIL,A,income,Diluted EPS,2026-03-31,4.84
+TEXRAIL,A,income,EBITDA,2023-03-31,1434041000.0
+TEXRAIL,A,income,EBITDA,2024-03-31,3083816000.0
+TEXRAIL,A,income,EBITDA,2025-03-31,5144463000.0
+TEXRAIL,A,income,EBITDA,2026-03-31,4235292000.0
+TEXRAIL,A,income,Interest Expense,2023-03-31,877972000.0
+TEXRAIL,A,income,Interest Expense,2024-03-31,1079848000.0
+TEXRAIL,A,income,Interest Expense,2025-03-31,1033222000.0
+TEXRAIL,A,income,Interest Expense,2026-03-31,991810000.0
+TEXRAIL,A,income,Net Income,2023-03-31,260263000.0
+TEXRAIL,A,income,Net Income,2024-03-31,1132068000.0
+TEXRAIL,A,income,Net Income,2025-03-31,2491776000.0
+TEXRAIL,A,income,Net Income,2026-03-31,1951478000.0
+TEXRAIL,A,income,Net Income Common Stockholders,2023-03-31,260263000.0
+TEXRAIL,A,income,Net Income Common Stockholders,2024-03-31,1132068000.0
+TEXRAIL,A,income,Net Income Common Stockholders,2025-03-31,2491776000.0
+TEXRAIL,A,income,Net Income Common Stockholders,2026-03-31,1951478000.0
+TEXRAIL,A,income,Operating Income,2023-03-31,1367629000.0
+TEXRAIL,A,income,Operating Income,2024-03-31,2622834000.0
+TEXRAIL,A,income,Operating Income,2025-03-31,4487848000.0
+TEXRAIL,A,income,Operating Income,2026-03-31,3485824000.0
+TEXRAIL,A,income,Pretax Income,2023-03-31,204108000.0
+TEXRAIL,A,income,Pretax Income,2024-03-31,1621918000.0
+TEXRAIL,A,income,Pretax Income,2025-03-31,3679767000.0
+TEXRAIL,A,income,Pretax Income,2026-03-31,2772985000.0
+TEXRAIL,A,income,Total Revenue,2023-03-31,22249638000.0
+TEXRAIL,A,income,Total Revenue,2024-03-31,34886468000.0
+TEXRAIL,A,income,Total Revenue,2025-03-31,50718724000.0
+TEXRAIL,A,income,Total Revenue,2026-03-31,43588141000.0
+TEXRAIL,Q,income,Basic EPS,2025-06-30,0.75
+TEXRAIL,Q,income,Basic EPS,2025-09-30,1.62
+TEXRAIL,Q,income,Basic EPS,2025-12-31,1.07
+TEXRAIL,Q,income,Basic EPS,2026-03-31,1.42
+TEXRAIL,Q,income,Basic EPS,2026-06-30,1.23
+TEXRAIL,Q,income,Diluted EPS,2025-06-30,0.73
+TEXRAIL,Q,income,Diluted EPS,2025-09-30,1.61
+TEXRAIL,Q,income,Diluted EPS,2025-12-31,1.07
+TEXRAIL,Q,income,Diluted EPS,2026-03-31,1.42
+TEXRAIL,Q,income,Diluted EPS,2026-06-30,1.23
+TEXRAIL,Q,income,EBITDA,2025-06-30,852414000.0
+TEXRAIL,Q,income,EBITDA,2025-09-30,1394183000.0
+TEXRAIL,Q,income,EBITDA,2025-12-31,1062066000.0
+TEXRAIL,Q,income,EBITDA,2026-03-31,1160866000.0
+TEXRAIL,Q,income,EBITDA,2026-06-30,799198000.0
+TEXRAIL,Q,income,Interest Expense,2025-06-30,307199000.0
+TEXRAIL,Q,income,Interest Expense,2025-09-30,301998000.0
+TEXRAIL,Q,income,Interest Expense,2025-12-31,314875000.0
+TEXRAIL,Q,income,Interest Expense,2026-03-31,301975000.0
+TEXRAIL,Q,income,Interest Expense,2026-06-30,250817000.0
+TEXRAIL,Q,income,Net Income,2025-06-30,299923000.0
+TEXRAIL,Q,income,Net Income,2025-09-30,646312000.0
+TEXRAIL,Q,income,Net Income,2025-12-31,428424000.0
+TEXRAIL,Q,income,Net Income,2026-03-31,576819000.0
+TEXRAIL,Q,income,Net Income,2026-06-30,500377000.0
+TEXRAIL,Q,income,Net Income Common Stockholders,2025-06-30,299923000.0
+TEXRAIL,Q,income,Net Income Common Stockholders,2025-09-30,646312000.0
+TEXRAIL,Q,income,Net Income Common Stockholders,2025-12-31,428424000.0
+TEXRAIL,Q,income,Net Income Common Stockholders,2026-03-31,576819000.0
+TEXRAIL,Q,income,Net Income Common Stockholders,2026-06-30,500377000.0
+TEXRAIL,Q,income,Operating Income,2025-06-30,600562000.0
+TEXRAIL,Q,income,Operating Income,2025-09-30,1133370000.0
+TEXRAIL,Q,income,Operating Income,2025-12-31,769918000.0
+TEXRAIL,Q,income,Operating Income,2026-03-31,929822000.0
+TEXRAIL,Q,income,Operating Income,2026-06-30,446627000.0
+TEXRAIL,Q,income,Pretax Income,2025-06-30,436561000.0
+TEXRAIL,Q,income,Pretax Income,2025-09-30,981495000.0
+TEXRAIL,Q,income,Pretax Income,2025-12-31,630534000.0
+TEXRAIL,Q,income,Pretax Income,2026-03-31,724395000.0
+TEXRAIL,Q,income,Pretax Income,2026-06-30,425031000.0
+TEXRAIL,Q,income,Total Revenue,2025-06-30,9105998000.0
+TEXRAIL,Q,income,Total Revenue,2025-09-30,12580991000.0
+TEXRAIL,Q,income,Total Revenue,2025-12-31,10415982000.0
+TEXRAIL,Q,income,Total Revenue,2026-03-31,11669693000.0
+TEXRAIL,Q,income,Total Revenue,2026-06-30,7566800000.0

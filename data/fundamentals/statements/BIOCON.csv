@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+BIOCON,A,balance,Cash And Cash Equivalents,2023-03-31,13232000000.0
+BIOCON,A,balance,Cash And Cash Equivalents,2024-03-31,12334000000.0
+BIOCON,A,balance,Cash And Cash Equivalents,2025-03-31,32267000000.0
+BIOCON,A,balance,Cash And Cash Equivalents,2026-03-31,24160000000.0
+BIOCON,A,balance,Net Debt,2023-03-31,164475000000.0
+BIOCON,A,balance,Net Debt,2024-03-31,144962000000.0
+BIOCON,A,balance,Net Debt,2025-03-31,145288000000.0
+BIOCON,A,balance,Net Debt,2026-03-31,124087000000.0
+BIOCON,A,balance,Ordinary Shares Number,2023-03-31,1193987732.0
+BIOCON,A,balance,Ordinary Shares Number,2024-03-31,1196804982.0
+BIOCON,A,balance,Ordinary Shares Number,2025-03-31,1198063078.0
+BIOCON,A,balance,Ordinary Shares Number,2026-03-31,1619507375.0
+BIOCON,A,balance,Stockholders Equity,2023-03-31,178669000000.0
+BIOCON,A,balance,Stockholders Equity,2024-03-31,197837000000.0
+BIOCON,A,balance,Stockholders Equity,2025-03-31,216440000000.0
+BIOCON,A,balance,Stockholders Equity,2026-03-31,340318000000.0
+BIOCON,A,balance,Total Assets,2023-03-31,520428000000.0
+BIOCON,A,balance,Total Assets,2024-03-31,560707000000.0
+BIOCON,A,balance,Total Assets,2025-03-31,587973000000.0
+BIOCON,A,balance,Total Assets,2026-03-31,636506000000.0
+BIOCON,A,balance,Total Debt,2023-03-31,180188000000.0
+BIOCON,A,balance,Total Debt,2024-03-31,162767000000.0
+BIOCON,A,balance,Total Debt,2025-03-31,183620000000.0
+BIOCON,A,balance,Total Debt,2026-03-31,154341000000.0
+BIOCON,A,cashflow,Capital Expenditure,2023-03-31,-17263000000.0
+BIOCON,A,cashflow,Capital Expenditure,2024-03-31,-19316000000.0
+BIOCON,A,cashflow,Capital Expenditure,2025-03-31,-23433000000.0
+BIOCON,A,cashflow,Capital Expenditure,2026-03-31,-19117000000.0
+BIOCON,A,cashflow,Free Cash Flow,2023-03-31,1262000000.0
+BIOCON,A,cashflow,Free Cash Flow,2024-03-31,10223000000.0
+BIOCON,A,cashflow,Free Cash Flow,2025-03-31,17179000000.0
+BIOCON,A,cashflow,Free Cash Flow,2026-03-31,823000000.0
+BIOCON,A,cashflow,Operating Cash Flow,2023-03-31,18525000000.0
+BIOCON,A,cashflow,Operating Cash Flow,2024-03-31,29539000000.0
+BIOCON,A,cashflow,Operating Cash Flow,2025-03-31,40612000000.0
+BIOCON,A,cashflow,Operating Cash Flow,2026-03-31,19940000000.0
+BIOCON,A,income,Basic EPS,2023-03-31,3.88
+BIOCON,A,income,Basic EPS,2024-03-31,8.55
+BIOCON,A,income,Basic EPS,2025-03-31,8.46
+BIOCON,A,income,Basic EPS,2026-03-31,2.82
+BIOCON,A,income,Diluted EPS,2023-03-31,3.87
+BIOCON,A,income,Diluted EPS,2024-03-31,8.54
+BIOCON,A,income,Diluted EPS,2025-03-31,8.46
+BIOCON,A,income,Diluted EPS,2026-03-31,2.82
+BIOCON,A,income,EBITDA,2023-03-31,24292000000.0
+BIOCON,A,income,EBITDA,2024-03-31,40684000000.0
+BIOCON,A,income,EBITDA,2025-03-31,44613000000.0
+BIOCON,A,income,EBITDA,2026-03-31,33694000000.0
+BIOCON,A,income,Interest Expense,2023-03-31,4190000000.0
+BIOCON,A,income,Interest Expense,2024-03-31,9744000000.0
+BIOCON,A,income,Interest Expense,2025-03-31,8877000000.0
+BIOCON,A,income,Interest Expense,2026-03-31,9648000000.0
+BIOCON,A,income,Net Income,2023-03-31,4627000000.0
+BIOCON,A,income,Net Income,2024-03-31,10225000000.0
+BIOCON,A,income,Net Income,2025-03-31,10133000000.0
+BIOCON,A,income,Net Income,2026-03-31,3856000000.0
+BIOCON,A,income,Net Income Common Stockholders,2023-03-31,4627000000.0
+BIOCON,A,income,Net Income Common Stockholders,2024-03-31,10225000000.0
+BIOCON,A,income,Net Income Common Stockholders,2025-03-31,10133000000.0
+BIOCON,A,income,Net Income Common Stockholders,2026-03-31,3856000000.0
+BIOCON,A,income,Operating Income,2023-03-31,16271000000.0
+BIOCON,A,income,Operating Income,2024-03-31,14345000000.0
+BIOCON,A,income,Operating Income,2025-03-31,16259000000.0
+BIOCON,A,income,Operating Income,2026-03-31,17221000000.0
+BIOCON,A,income,Pretax Income,2023-03-31,8971000000.0
+BIOCON,A,income,Pretax Income,2024-03-31,15252000000.0
+BIOCON,A,income,Pretax Income,2025-03-31,18866000000.0
+BIOCON,A,income,Pretax Income,2026-03-31,4479000000.0
+BIOCON,A,income,Total Revenue,2023-03-31,109341000000.0
+BIOCON,A,income,Total Revenue,2024-03-31,141958000000.0
+BIOCON,A,income,Total Revenue,2025-03-31,150522000000.0
+BIOCON,A,income,Total Revenue,2026-03-31,167799000000.0
+BIOCON,Q,income,Basic EPS,2025-09-30,0.66
+BIOCON,Q,income,Basic EPS,2025-12-31,1.08
+BIOCON,Q,income,Basic EPS,2026-03-31,0.79
+BIOCON,Q,income,Basic EPS,2026-06-30,0.87
+BIOCON,Q,income,Basic EPS,2026-09-30,0.25
+BIOCON,Q,income,Diluted EPS,2025-09-30,0.65
+BIOCON,Q,income,Diluted EPS,2025-12-31,1.07
+BIOCON,Q,income,Diluted EPS,2026-03-31,0.79
+BIOCON,Q,income,Diluted EPS,2026-06-30,0.87
+BIOCON,Q,income,Diluted EPS,2026-09-30,0.25
+BIOCON,Q,income,EBITDA,2025-09-30,9165000000.0
+BIOCON,Q,income,EBITDA,2025-12-31,6574000000.0
+BIOCON,Q,income,EBITDA,2026-03-31,9924000000.0
+BIOCON,Q,income,EBITDA,2026-06-30,8882000000.0
+BIOCON,Q,income,EBITDA,2026-09-30,8587000000.0
+BIOCON,Q,income,Interest Expense,2025-09-30,2722000000.0
+BIOCON,Q,income,Interest Expense,2025-12-31,2099000000.0
+BIOCON,Q,income,Interest Expense,2026-03-31,2315000000.0
+BIOCON,Q,income,Interest Expense,2026-06-30,2132000000.0
+BIOCON,Q,income,Interest Expense,2026-09-30,2401000000.0
+BIOCON,Q,income,Net Income,2025-09-30,845000000.0
+BIOCON,Q,income,Net Income,2025-12-31,1438000000.0
+BIOCON,Q,income,Net Income,2026-03-31,1259000000.0
+BIOCON,Q,income,Net Income,2026-06-30,1411000000.0
+BIOCON,Q,income,Net Income,2026-09-30,413000000.0
+BIOCON,Q,income,Net Income Common Stockholders,2025-09-30,845000000.0
+BIOCON,Q,income,Net Income Common Stockholders,2025-12-31,1438000000.0
+BIOCON,Q,income,Net Income Common Stockholders,2026-03-31,1259000000.0
+BIOCON,Q,income,Net Income Common Stockholders,2026-06-30,1411000000.0
+BIOCON,Q,income,Net Income Common Stockholders,2026-09-30,413000000.0
+BIOCON,Q,income,Operating Income,2025-09-30,3624000000.0
+BIOCON,Q,income,Operating Income,2025-12-31,3182000000.0
+BIOCON,Q,income,Operating Income,2026-03-31,5069000000.0
+BIOCON,Q,income,Operating Income,2026-06-30,2998000000.0
+BIOCON,Q,income,Operating Income,2026-09-30,2671000000.0
+BIOCON,Q,income,Pretax Income,2025-09-30,1713000000.0
+BIOCON,Q,income,Pretax Income,2025-12-31,-678000000.0
+BIOCON,Q,income,Pretax Income,2026-03-31,2475000000.0
+BIOCON,Q,income,Pretax Income,2026-06-30,1276000000.0
+BIOCON,Q,income,Pretax Income,2026-09-30,548000000.0
+BIOCON,Q,income,Total Revenue,2025-09-30,42625000000.0
+BIOCON,Q,income,Total Revenue,2025-12-31,41730000000.0
+BIOCON,Q,income,Total Revenue,2026-03-31,44843000000.0
+BIOCON,Q,income,Total Revenue,2026-06-30,42918000000.0
+BIOCON,Q,income,Total Revenue,2026-09-30,43450000000.0

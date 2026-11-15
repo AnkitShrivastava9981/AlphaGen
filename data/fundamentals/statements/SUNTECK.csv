@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SUNTECK,A,balance,Cash And Cash Equivalents,2023-03-31,888139000.0
+SUNTECK,A,balance,Cash And Cash Equivalents,2024-03-31,597019000.0
+SUNTECK,A,balance,Cash And Cash Equivalents,2025-03-31,1640359000.0
+SUNTECK,A,balance,Cash And Cash Equivalents,2026-03-31,544152000.0
+SUNTECK,A,balance,Net Debt,2023-03-31,5955028000.0
+SUNTECK,A,balance,Net Debt,2024-03-31,3152387000.0
+SUNTECK,A,balance,Net Debt,2025-03-31,2229045000.0
+SUNTECK,A,balance,Net Debt,2026-03-31,7197556000.0
+SUNTECK,A,balance,Ordinary Shares Number,2023-03-31,146478718.0
+SUNTECK,A,balance,Ordinary Shares Number,2024-03-31,146486420.0
+SUNTECK,A,balance,Ordinary Shares Number,2025-03-31,146489084.0
+SUNTECK,A,balance,Ordinary Shares Number,2026-03-31,146842025.0
+SUNTECK,A,balance,Stockholders Equity,2023-03-31,27878556000.0
+SUNTECK,A,balance,Stockholders Equity,2024-03-31,31241967000.0
+SUNTECK,A,balance,Stockholders Equity,2025-03-31,32600300000.0
+SUNTECK,A,balance,Stockholders Equity,2026-03-31,36110726000.0
+SUNTECK,A,balance,Total Assets,2023-03-31,72586296000.0
+SUNTECK,A,balance,Total Assets,2024-03-31,79236422000.0
+SUNTECK,A,balance,Total Assets,2025-03-31,83265514000.0
+SUNTECK,A,balance,Total Assets,2026-03-31,99128355000.0
+SUNTECK,A,balance,Total Debt,2023-03-31,6843167000.0
+SUNTECK,A,balance,Total Debt,2024-03-31,3749406000.0
+SUNTECK,A,balance,Total Debt,2025-03-31,3869404000.0
+SUNTECK,A,balance,Total Debt,2026-03-31,7741708000.0
+SUNTECK,A,cashflow,Capital Expenditure,2023-03-31,-181185000.0
+SUNTECK,A,cashflow,Capital Expenditure,2024-03-31,-631486000.0
+SUNTECK,A,cashflow,Capital Expenditure,2025-03-31,-325199000.0
+SUNTECK,A,cashflow,Capital Expenditure,2026-03-31,-1566651000.0
+SUNTECK,A,cashflow,Free Cash Flow,2023-03-31,2648819000.0
+SUNTECK,A,cashflow,Free Cash Flow,2024-03-31,478758000.0
+SUNTECK,A,cashflow,Free Cash Flow,2025-03-31,1573193000.0
+SUNTECK,A,cashflow,Free Cash Flow,2026-03-31,-5891689000.0
+SUNTECK,A,cashflow,Operating Cash Flow,2023-03-31,2830004000.0
+SUNTECK,A,cashflow,Operating Cash Flow,2024-03-31,1110244000.0
+SUNTECK,A,cashflow,Operating Cash Flow,2025-03-31,1898392000.0
+SUNTECK,A,cashflow,Operating Cash Flow,2026-03-31,-4325038000.0
+SUNTECK,A,income,Basic EPS,2023-03-31,0.1
+SUNTECK,A,income,Basic EPS,2024-03-31,4.99
+SUNTECK,A,income,Basic EPS,2025-03-31,10.26
+SUNTECK,A,income,Basic EPS,2026-03-31,13.94
+SUNTECK,A,income,Diluted EPS,2023-03-31,0.1
+SUNTECK,A,income,Diluted EPS,2024-03-31,4.99
+SUNTECK,A,income,Diluted EPS,2025-03-31,10.26
+SUNTECK,A,income,Diluted EPS,2026-03-31,13.94
+SUNTECK,A,income,EBITDA,2023-03-31,977196000.0
+SUNTECK,A,income,EBITDA,2024-03-31,1719098000.0
+SUNTECK,A,income,EBITDA,2025-03-31,2368053000.0
+SUNTECK,A,income,EBITDA,2026-03-31,3415556000.0
+SUNTECK,A,income,Interest Expense,2023-03-31,846117000.0
+SUNTECK,A,income,Interest Expense,2024-03-31,683520000.0
+SUNTECK,A,income,Interest Expense,2025-03-31,404708000.0
+SUNTECK,A,income,Interest Expense,2026-03-31,590626000.0
+SUNTECK,A,income,Net Income,2023-03-31,14089000.0
+SUNTECK,A,income,Net Income,2024-03-31,709284000.0
+SUNTECK,A,income,Net Income,2025-03-31,1503161000.0
+SUNTECK,A,income,Net Income,2026-03-31,2043685000.0
+SUNTECK,A,income,Net Income Common Stockholders,2023-03-31,14089000.0
+SUNTECK,A,income,Net Income Common Stockholders,2024-03-31,709284000.0
+SUNTECK,A,income,Net Income Common Stockholders,2025-03-31,1503161000.0
+SUNTECK,A,income,Net Income Common Stockholders,2026-03-31,2043685000.0
+SUNTECK,A,income,Operating Income,2023-03-31,570937000.0
+SUNTECK,A,income,Operating Income,2024-03-31,1165364000.0
+SUNTECK,A,income,Operating Income,2025-03-31,1736587000.0
+SUNTECK,A,income,Operating Income,2026-03-31,2903592000.0
+SUNTECK,A,income,Pretax Income,2023-03-31,44835000.0
+SUNTECK,A,income,Pretax Income,2024-03-31,949737000.0
+SUNTECK,A,income,Pretax Income,2025-03-31,1834597000.0
+SUNTECK,A,income,Pretax Income,2026-03-31,2680124000.0
+SUNTECK,A,income,Total Revenue,2023-03-31,3523017000.0
+SUNTECK,A,income,Total Revenue,2024-03-31,5592240000.0
+SUNTECK,A,income,Total Revenue,2025-03-31,8477887000.0
+SUNTECK,A,income,Total Revenue,2026-03-31,11118567000.0
+SUNTECK,Q,income,Basic EPS,2025-06-30,2.28
+SUNTECK,Q,income,Basic EPS,2025-12-31,3.97
+SUNTECK,Q,income,Basic EPS,2026-03-31,4.34
+SUNTECK,Q,income,Basic EPS,2026-06-30,2.88
+SUNTECK,Q,income,Basic EPS,2026-09-30,3.96
+SUNTECK,Q,income,Diluted EPS,2025-06-30,2.28
+SUNTECK,Q,income,Diluted EPS,2025-12-31,3.97
+SUNTECK,Q,income,Diluted EPS,2026-03-31,4.34
+SUNTECK,Q,income,Diluted EPS,2026-06-30,2.88
+SUNTECK,Q,income,Diluted EPS,2026-09-30,3.96
+SUNTECK,Q,income,EBITDA,2025-09-30,883926000.0
+SUNTECK,Q,income,EBITDA,2025-12-31,934133000.0
+SUNTECK,Q,income,EBITDA,2026-03-31,1064689000.0
+SUNTECK,Q,income,EBITDA,2026-06-30,779397000.0
+SUNTECK,Q,income,EBITDA,2026-09-30,1017339000.0
+SUNTECK,Q,income,Interest Expense,2025-09-30,199654000.0
+SUNTECK,Q,income,Interest Expense,2025-12-31,117347000.0
+SUNTECK,Q,income,Interest Expense,2026-03-31,201756000.0
+SUNTECK,Q,income,Interest Expense,2026-06-30,215697000.0
+SUNTECK,Q,income,Interest Expense,2026-09-30,211974000.0
+SUNTECK,Q,income,Net Income,2025-06-30,334308000.0
+SUNTECK,Q,income,Net Income,2025-12-31,582178000.0
+SUNTECK,Q,income,Net Income,2026-03-31,637530000.0
+SUNTECK,Q,income,Net Income,2026-06-30,419600000.0
+SUNTECK,Q,income,Net Income,2026-09-30,581734000.0
+SUNTECK,Q,income,Net Income Common Stockholders,2025-06-30,334308000.0
+SUNTECK,Q,income,Net Income Common Stockholders,2025-12-31,582178000.0
+SUNTECK,Q,income,Net Income Common Stockholders,2026-03-31,637530000.0
+SUNTECK,Q,income,Net Income Common Stockholders,2026-06-30,419600000.0
+SUNTECK,Q,income,Net Income Common Stockholders,2026-09-30,581734000.0
+SUNTECK,Q,income,Operating Income,2025-09-30,747722000.0
+SUNTECK,Q,income,Operating Income,2025-12-31,778389000.0
+SUNTECK,Q,income,Operating Income,2026-03-31,929132000.0
+SUNTECK,Q,income,Operating Income,2026-06-30,631005000.0
+SUNTECK,Q,income,Operating Income,2026-09-30,847158000.0
+SUNTECK,Q,income,Pretax Income,2025-06-30,426452000.0
+SUNTECK,Q,income,Pretax Income,2025-12-31,779998000.0
+SUNTECK,Q,income,Pretax Income,2026-03-31,825430000.0
+SUNTECK,Q,income,Pretax Income,2026-06-30,524790000.0
+SUNTECK,Q,income,Pretax Income,2026-09-30,766394000.0
+SUNTECK,Q,income,Total Revenue,2025-06-30,1883189000.0
+SUNTECK,Q,income,Total Revenue,2025-12-31,3441164000.0
+SUNTECK,Q,income,Total Revenue,2026-03-31,3390398000.0
+SUNTECK,Q,income,Total Revenue,2026-06-30,1915628000.0
+SUNTECK,Q,income,Total Revenue,2026-09-30,3208121000.0

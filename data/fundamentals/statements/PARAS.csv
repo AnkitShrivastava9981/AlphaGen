@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+PARAS,A,balance,Cash And Cash Equivalents,2023-03-31,171073000.0
+PARAS,A,balance,Cash And Cash Equivalents,2024-03-31,29817000.0
+PARAS,A,balance,Cash And Cash Equivalents,2025-03-31,344721000.0
+PARAS,A,balance,Cash And Cash Equivalents,2026-03-31,253514000.0
+PARAS,A,balance,Net Debt,2022-03-31,288998000.0
+PARAS,A,balance,Net Debt,2024-03-31,616259000.0
+PARAS,A,balance,Net Debt,2026-03-31,12567000.0
+PARAS,A,balance,Ordinary Shares Number,2023-03-31,78000122.0
+PARAS,A,balance,Ordinary Shares Number,2024-03-31,78000122.0
+PARAS,A,balance,Ordinary Shares Number,2025-03-31,80587330.0
+PARAS,A,balance,Ordinary Shares Number,2026-03-31,80587330.0
+PARAS,A,balance,Stockholders Equity,2023-03-31,4132497000.0
+PARAS,A,balance,Stockholders Equity,2024-03-31,4446141000.0
+PARAS,A,balance,Stockholders Equity,2025-03-31,6399388000.0
+PARAS,A,balance,Stockholders Equity,2026-03-31,7254443000.0
+PARAS,A,balance,Total Assets,2023-03-31,5205408000.0
+PARAS,A,balance,Total Assets,2024-03-31,6397285000.0
+PARAS,A,balance,Total Assets,2025-03-31,8519594000.0
+PARAS,A,balance,Total Assets,2026-03-31,9647110000.0
+PARAS,A,balance,Total Debt,2023-03-31,146211000.0
+PARAS,A,balance,Total Debt,2024-03-31,658037000.0
+PARAS,A,balance,Total Debt,2025-03-31,240231000.0
+PARAS,A,balance,Total Debt,2026-03-31,270547000.0
+PARAS,A,cashflow,Capital Expenditure,2023-03-31,-253263000.0
+PARAS,A,cashflow,Capital Expenditure,2024-03-31,-260079000.0
+PARAS,A,cashflow,Capital Expenditure,2025-03-31,-352322000.0
+PARAS,A,cashflow,Capital Expenditure,2026-03-31,-377856000.0
+PARAS,A,cashflow,Free Cash Flow,2023-03-31,203988000.0
+PARAS,A,cashflow,Free Cash Flow,2024-03-31,-715486000.0
+PARAS,A,cashflow,Free Cash Flow,2025-03-31,95969000.0
+PARAS,A,cashflow,Free Cash Flow,2026-03-31,-131803000.0
+PARAS,A,cashflow,Operating Cash Flow,2023-03-31,457251000.0
+PARAS,A,cashflow,Operating Cash Flow,2024-03-31,-455407000.0
+PARAS,A,cashflow,Operating Cash Flow,2025-03-31,448291000.0
+PARAS,A,cashflow,Operating Cash Flow,2026-03-31,246053000.0
+PARAS,A,income,Basic EPS,2023-03-31,4.625
+PARAS,A,income,Basic EPS,2024-03-31,4.11
+PARAS,A,income,Basic EPS,2025-03-31,8.01
+PARAS,A,income,Basic EPS,2026-03-31,10.93
+PARAS,A,income,Diluted EPS,2023-03-31,4.625
+PARAS,A,income,Diluted EPS,2024-03-31,4.11
+PARAS,A,income,Diluted EPS,2025-03-31,8.01
+PARAS,A,income,Diluted EPS,2026-03-31,10.93
+PARAS,A,income,EBITDA,2023-03-31,630992000.0
+PARAS,A,income,EBITDA,2024-03-31,573735000.0
+PARAS,A,income,EBITDA,2025-03-31,1026026000.0
+PARAS,A,income,EBITDA,2026-03-31,1370934000.0
+PARAS,A,income,Interest Expense,2023-03-31,49818000.0
+PARAS,A,income,Interest Expense,2024-03-31,35435000.0
+PARAS,A,income,Interest Expense,2025-03-31,40717000.0
+PARAS,A,income,Interest Expense,2026-03-31,24783000.0
+PARAS,A,income,Net Income,2023-03-31,360586000.0
+PARAS,A,income,Net Income,2024-03-31,320601000.0
+PARAS,A,income,Net Income,2025-03-31,634713000.0
+PARAS,A,income,Net Income,2026-03-31,880968000.0
+PARAS,A,income,Net Income Common Stockholders,2023-03-31,360586000.0
+PARAS,A,income,Net Income Common Stockholders,2024-03-31,320601000.0
+PARAS,A,income,Net Income Common Stockholders,2025-03-31,634713000.0
+PARAS,A,income,Net Income Common Stockholders,2026-03-31,880968000.0
+PARAS,A,income,Operating Income,2023-03-31,481663000.0
+PARAS,A,income,Operating Income,2024-03-31,418877000.0
+PARAS,A,income,Operating Income,2025-03-31,870201000.0
+PARAS,A,income,Operating Income,2026-03-31,1048193000.0
+PARAS,A,income,Pretax Income,2023-03-31,468450000.0
+PARAS,A,income,Pretax Income,2024-03-31,404685000.0
+PARAS,A,income,Pretax Income,2025-03-31,836007000.0
+PARAS,A,income,Pretax Income,2026-03-31,1176661000.0
+PARAS,A,income,Total Revenue,2023-03-31,2207475000.0
+PARAS,A,income,Total Revenue,2024-03-31,2534559000.0
+PARAS,A,income,Total Revenue,2025-03-31,3646055000.0
+PARAS,A,income,Total Revenue,2026-03-31,4762996000.0
+PARAS,Q,income,Basic EPS,2025-09-30,2.56
+PARAS,Q,income,Basic EPS,2025-12-31,2.26
+PARAS,Q,income,Basic EPS,2026-03-31,4.27
+PARAS,Q,income,Basic EPS,2026-06-30,2.63
+PARAS,Q,income,Basic EPS,2026-09-30,3.76
+PARAS,Q,income,Diluted EPS,2025-09-30,2.56
+PARAS,Q,income,Diluted EPS,2025-12-31,2.26
+PARAS,Q,income,Diluted EPS,2026-03-31,4.27
+PARAS,Q,income,Diluted EPS,2026-06-30,2.63
+PARAS,Q,income,Diluted EPS,2026-09-30,3.76
+PARAS,Q,income,EBITDA,2025-09-30,319700000.0
+PARAS,Q,income,EBITDA,2025-12-31,284900000.0
+PARAS,Q,income,EBITDA,2026-03-31,545600000.0
+PARAS,Q,income,EBITDA,2026-06-30,338500000.0
+PARAS,Q,income,EBITDA,2026-09-30,467400000.0
+PARAS,Q,income,Interest Expense,2025-09-30,12000000.0
+PARAS,Q,income,Interest Expense,2025-12-31,9000000.0
+PARAS,Q,income,Interest Expense,2026-03-31,17300000.0
+PARAS,Q,income,Interest Expense,2026-06-30,13400000.0
+PARAS,Q,income,Interest Expense,2026-09-30,8600000.0
+PARAS,Q,income,Net Income,2025-09-30,206400000.0
+PARAS,Q,income,Net Income,2025-12-31,182100000.0
+PARAS,Q,income,Net Income,2026-03-31,343800000.0
+PARAS,Q,income,Net Income,2026-06-30,212200000.0
+PARAS,Q,income,Net Income,2026-09-30,303000000.0
+PARAS,Q,income,Net Income Common Stockholders,2025-09-30,206400000.0
+PARAS,Q,income,Net Income Common Stockholders,2025-12-31,182100000.0
+PARAS,Q,income,Net Income Common Stockholders,2026-03-31,343800000.0
+PARAS,Q,income,Net Income Common Stockholders,2026-06-30,212200000.0
+PARAS,Q,income,Net Income Common Stockholders,2026-09-30,303000000.0
+PARAS,Q,income,Operating Income,2025-09-30,255000000.0
+PARAS,Q,income,Operating Income,2025-12-31,218300000.0
+PARAS,Q,income,Operating Income,2026-03-31,382100000.0
+PARAS,Q,income,Operating Income,2026-06-30,274200000.0
+PARAS,Q,income,Operating Income,2026-09-30,394600000.0
+PARAS,Q,income,Pretax Income,2025-09-30,265800000.0
+PARAS,Q,income,Pretax Income,2025-12-31,232000000.0
+PARAS,Q,income,Pretax Income,2026-03-31,484400000.0
+PARAS,Q,income,Pretax Income,2026-06-30,280200000.0
+PARAS,Q,income,Pretax Income,2026-09-30,408200000.0
+PARAS,Q,income,Total Revenue,2025-09-30,1057200000.0
+PARAS,Q,income,Total Revenue,2025-12-31,1063500000.0
+PARAS,Q,income,Total Revenue,2026-03-31,1713100000.0
+PARAS,Q,income,Total Revenue,2026-06-30,1279100000.0
+PARAS,Q,income,Total Revenue,2026-09-30,1511200000.0

@@ -1,0 +1,111 @@
+symbol,freq,statement,item,period_end,value
+SGMART,A,balance,Cash And Cash Equivalents,2023-03-31,117783000.0
+SGMART,A,balance,Cash And Cash Equivalents,2024-03-31,1228200000.0
+SGMART,A,balance,Cash And Cash Equivalents,2025-03-31,1239400000.0
+SGMART,A,balance,Cash And Cash Equivalents,2026-03-31,5198900000.0
+SGMART,A,balance,Net Debt,2024-03-31,2116200000.0
+SGMART,A,balance,Net Debt,2025-03-31,5651000000.0
+SGMART,A,balance,Ordinary Shares Number,2023-03-31,20000000.0
+SGMART,A,balance,Ordinary Shares Number,2024-03-31,111540000.0
+SGMART,A,balance,Ordinary Shares Number,2025-03-31,112382000.0
+SGMART,A,balance,Ordinary Shares Number,2026-03-31,126000000.0
+SGMART,A,balance,Stockholders Equity,2023-03-31,121681000.0
+SGMART,A,balance,Stockholders Equity,2024-03-31,10869900000.0
+SGMART,A,balance,Stockholders Equity,2025-03-31,12081500000.0
+SGMART,A,balance,Stockholders Equity,2026-03-31,15965300000.0
+SGMART,A,balance,Total Assets,2023-03-31,121829000.0
+SGMART,A,balance,Total Assets,2024-03-31,14869500000.0
+SGMART,A,balance,Total Assets,2025-03-31,22984800000.0
+SGMART,A,balance,Total Assets,2026-03-31,22496200000.0
+SGMART,A,balance,Total Debt,2022-03-31,0.0
+SGMART,A,balance,Total Debt,2024-03-31,3348400000.0
+SGMART,A,balance,Total Debt,2025-03-31,7219500000.0
+SGMART,A,balance,Total Debt,2026-03-31,2679200000.0
+SGMART,A,cashflow,Capital Expenditure,2024-03-31,-1050300000.0
+SGMART,A,cashflow,Capital Expenditure,2025-03-31,-1575200000.0
+SGMART,A,cashflow,Capital Expenditure,2026-03-31,-2320500000.0
+SGMART,A,cashflow,Free Cash Flow,2023-03-31,43889000.0
+SGMART,A,cashflow,Free Cash Flow,2024-03-31,-751700000.0
+SGMART,A,cashflow,Free Cash Flow,2025-03-31,-5485300000.0
+SGMART,A,cashflow,Free Cash Flow,2026-03-31,260600000.0
+SGMART,A,cashflow,Operating Cash Flow,2023-03-31,43889000.0
+SGMART,A,cashflow,Operating Cash Flow,2024-03-31,298600000.0
+SGMART,A,cashflow,Operating Cash Flow,2025-03-31,-3910100000.0
+SGMART,A,cashflow,Operating Cash Flow,2026-03-31,2581100000.0
+SGMART,A,income,Basic EPS,2022-03-31,0.1505
+SGMART,A,income,Basic EPS,2026-03-31,8.96
+SGMART,A,income,Diluted EPS,2024-03-31,7.46
+SGMART,A,income,Diluted EPS,2026-03-31,8.92
+SGMART,A,income,EBITDA,2023-03-31,2671000.0
+SGMART,A,income,EBITDA,2024-03-31,927500000.0
+SGMART,A,income,EBITDA,2025-03-31,1806300000.0
+SGMART,A,income,EBITDA,2026-03-31,2039400000.0
+SGMART,A,income,Interest Expense,2023-03-31,0.0
+SGMART,A,income,Interest Expense,2024-03-31,109300000.0
+SGMART,A,income,Interest Expense,2025-03-31,412300000.0
+SGMART,A,income,Interest Expense,2026-03-31,493200000.0
+SGMART,A,income,Net Income,2023-03-31,1971000.0
+SGMART,A,income,Net Income,2024-03-31,609400000.0
+SGMART,A,income,Net Income,2025-03-31,1034300000.0
+SGMART,A,income,Net Income,2026-03-31,1110600000.0
+SGMART,A,income,Net Income Common Stockholders,2023-03-31,1971000.0
+SGMART,A,income,Net Income Common Stockholders,2024-03-31,609400000.0
+SGMART,A,income,Net Income Common Stockholders,2025-03-31,1034300000.0
+SGMART,A,income,Net Income Common Stockholders,2026-03-31,1110600000.0
+SGMART,A,income,Operating Income,2023-03-31,-5263000.0
+SGMART,A,income,Operating Income,2024-03-31,613100000.0
+SGMART,A,income,Operating Income,2025-03-31,1079600000.0
+SGMART,A,income,Operating Income,2026-03-31,1255600000.0
+SGMART,A,income,Pretax Income,2023-03-31,2669000.0
+SGMART,A,income,Pretax Income,2024-03-31,813100000.0
+SGMART,A,income,Pretax Income,2025-03-31,1373200000.0
+SGMART,A,income,Pretax Income,2026-03-31,1431200000.0
+SGMART,A,income,Total Revenue,2023-03-31,15588000.0
+SGMART,A,income,Total Revenue,2024-03-31,26829000000.0
+SGMART,A,income,Total Revenue,2025-03-31,58561700000.0
+SGMART,A,income,Total Revenue,2026-03-31,63020800000.0
+SGMART,Q,income,Basic EPS,2025-03-31,2.95
+SGMART,Q,income,Basic EPS,2025-12-31,0.85
+SGMART,Q,income,Basic EPS,2026-03-31,3.29
+SGMART,Q,income,Basic EPS,2026-06-30,3.62
+SGMART,Q,income,Basic EPS,2026-09-30,4.29
+SGMART,Q,income,Diluted EPS,2025-06-30,2.69
+SGMART,Q,income,Diluted EPS,2025-12-31,0.85
+SGMART,Q,income,Diluted EPS,2026-03-31,3.29
+SGMART,Q,income,Diluted EPS,2026-06-30,3.61
+SGMART,Q,income,Diluted EPS,2026-09-30,4.28
+SGMART,Q,income,EBITDA,2025-06-30,563400000.0
+SGMART,Q,income,EBITDA,2025-12-31,346800000.0
+SGMART,Q,income,EBITDA,2026-03-31,677300000.0
+SGMART,Q,income,EBITDA,2026-06-30,685100000.0
+SGMART,Q,income,EBITDA,2026-09-30,807000000.0
+SGMART,Q,income,Interest Expense,2025-06-30,120200000.0
+SGMART,Q,income,Interest Expense,2025-12-31,174300000.0
+SGMART,Q,income,Interest Expense,2026-03-31,101600000.0
+SGMART,Q,income,Interest Expense,2026-06-30,62100000.0
+SGMART,Q,income,Interest Expense,2026-09-30,72300000.0
+SGMART,Q,income,Net Income,2025-06-30,323100000.0
+SGMART,Q,income,Net Income,2025-12-31,107400000.0
+SGMART,Q,income,Net Income,2026-03-31,414700000.0
+SGMART,Q,income,Net Income,2026-06-30,455800000.0
+SGMART,Q,income,Net Income,2026-09-30,540200000.0
+SGMART,Q,income,Net Income Common Stockholders,2025-06-30,323100000.0
+SGMART,Q,income,Net Income Common Stockholders,2025-12-31,107400000.0
+SGMART,Q,income,Net Income Common Stockholders,2026-03-31,414700000.0
+SGMART,Q,income,Net Income Common Stockholders,2026-06-30,455800000.0
+SGMART,Q,income,Net Income Common Stockholders,2026-09-30,540200000.0
+SGMART,Q,income,Operating Income,2025-06-30,341700000.0
+SGMART,Q,income,Operating Income,2025-12-31,130100000.0
+SGMART,Q,income,Operating Income,2026-03-31,523400000.0
+SGMART,Q,income,Operating Income,2026-06-30,546900000.0
+SGMART,Q,income,Operating Income,2026-09-30,675800000.0
+SGMART,Q,income,Pretax Income,2025-06-30,425900000.0
+SGMART,Q,income,Pretax Income,2025-12-31,135200000.0
+SGMART,Q,income,Pretax Income,2026-03-31,538600000.0
+SGMART,Q,income,Pretax Income,2026-06-30,582300000.0
+SGMART,Q,income,Pretax Income,2026-09-30,690600000.0
+SGMART,Q,income,Total Revenue,2025-06-30,11437700000.0
+SGMART,Q,income,Total Revenue,2025-12-31,16444300000.0
+SGMART,Q,income,Total Revenue,2026-03-31,18228400000.0
+SGMART,Q,income,Total Revenue,2026-06-30,13085700000.0
+SGMART,Q,income,Total Revenue,2026-09-30,15618400000.0

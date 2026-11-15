@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+ELECON,A,balance,Cash And Cash Equivalents,2023-03-31,823500000.0
+ELECON,A,balance,Cash And Cash Equivalents,2024-03-31,1096900000.0
+ELECON,A,balance,Cash And Cash Equivalents,2025-03-31,1588500000.0
+ELECON,A,balance,Cash And Cash Equivalents,2026-03-31,1692300000.0
+ELECON,A,balance,Net Debt,2022-03-31,156554000.0
+ELECON,A,balance,Ordinary Shares Number,2023-03-31,224399930.0
+ELECON,A,balance,Ordinary Shares Number,2024-03-31,224399930.0
+ELECON,A,balance,Ordinary Shares Number,2025-03-31,224399930.0
+ELECON,A,balance,Ordinary Shares Number,2026-03-31,224399930.0
+ELECON,A,balance,Stockholders Equity,2023-03-31,12791000000.0
+ELECON,A,balance,Stockholders Equity,2024-03-31,16040200000.0
+ELECON,A,balance,Stockholders Equity,2025-03-31,19986800000.0
+ELECON,A,balance,Stockholders Equity,2026-03-31,23058300000.0
+ELECON,A,balance,Total Assets,2023-03-31,17319700000.0
+ELECON,A,balance,Total Assets,2024-03-31,21240000000.0
+ELECON,A,balance,Total Assets,2025-03-31,27294700000.0
+ELECON,A,balance,Total Assets,2026-03-31,32336800000.0
+ELECON,A,balance,Total Debt,2023-03-31,515900000.0
+ELECON,A,balance,Total Debt,2024-03-31,704600000.0
+ELECON,A,balance,Total Debt,2025-03-31,1812300000.0
+ELECON,A,balance,Total Debt,2026-03-31,2726500000.0
+ELECON,A,cashflow,Capital Expenditure,2023-03-31,-470600000.0
+ELECON,A,cashflow,Capital Expenditure,2024-03-31,-314900000.0
+ELECON,A,cashflow,Capital Expenditure,2025-03-31,-660000000.0
+ELECON,A,cashflow,Capital Expenditure,2026-03-31,-1195200000.0
+ELECON,A,cashflow,Free Cash Flow,2023-03-31,2620600000.0
+ELECON,A,cashflow,Free Cash Flow,2024-03-31,3333200000.0
+ELECON,A,cashflow,Free Cash Flow,2025-03-31,3594100000.0
+ELECON,A,cashflow,Free Cash Flow,2026-03-31,1947000000.0
+ELECON,A,cashflow,Operating Cash Flow,2023-03-31,3091200000.0
+ELECON,A,cashflow,Operating Cash Flow,2024-03-31,3648100000.0
+ELECON,A,cashflow,Operating Cash Flow,2025-03-31,4254100000.0
+ELECON,A,cashflow,Operating Cash Flow,2026-03-31,3142200000.0
+ELECON,A,income,Basic EPS,2023-03-31,10.585
+ELECON,A,income,Basic EPS,2024-03-31,7.925
+ELECON,A,income,Basic EPS,2025-03-31,18.5
+ELECON,A,income,Basic EPS,2026-03-31,15.2
+ELECON,A,income,Diluted EPS,2023-03-31,10.585
+ELECON,A,income,Diluted EPS,2024-03-31,7.925
+ELECON,A,income,Diluted EPS,2025-03-31,18.5
+ELECON,A,income,Diluted EPS,2026-03-31,15.2
+ELECON,A,income,EBITDA,2023-03-31,3567200000.0
+ELECON,A,income,EBITDA,2024-03-31,5226200000.0
+ELECON,A,income,EBITDA,2025-03-31,6086200000.0
+ELECON,A,income,EBITDA,2026-03-31,5816400000.0
+ELECON,A,income,Interest Expense,2023-03-31,78400000.0
+ELECON,A,income,Interest Expense,2024-03-31,63200000.0
+ELECON,A,income,Interest Expense,2025-03-31,108900000.0
+ELECON,A,income,Interest Expense,2026-03-31,229300000.0
+ELECON,A,income,Net Income,2023-03-31,2375100000.0
+ELECON,A,income,Net Income,2024-03-31,3555800000.0
+ELECON,A,income,Net Income,2025-03-31,4151000000.0
+ELECON,A,income,Net Income,2026-03-31,3411500000.0
+ELECON,A,income,Net Income Common Stockholders,2023-03-31,2375100000.0
+ELECON,A,income,Net Income Common Stockholders,2024-03-31,3555800000.0
+ELECON,A,income,Net Income Common Stockholders,2025-03-31,4151000000.0
+ELECON,A,income,Net Income Common Stockholders,2026-03-31,3411500000.0
+ELECON,A,income,Operating Income,2023-03-31,3075000000.0
+ELECON,A,income,Operating Income,2024-03-31,4324700000.0
+ELECON,A,income,Operating Income,2025-03-31,4859400000.0
+ELECON,A,income,Operating Income,2026-03-31,4291700000.0
+ELECON,A,income,Pretax Income,2023-03-31,2998400000.0
+ELECON,A,income,Pretax Income,2024-03-31,4653800000.0
+ELECON,A,income,Pretax Income,2025-03-31,5369700000.0
+ELECON,A,income,Pretax Income,2026-03-31,4544700000.0
+ELECON,A,income,Total Revenue,2023-03-31,15013800000.0
+ELECON,A,income,Total Revenue,2024-03-31,19065300000.0
+ELECON,A,income,Total Revenue,2025-03-31,21970000000.0
+ELECON,A,income,Total Revenue,2026-03-31,23370900000.0
+ELECON,Q,income,Basic EPS,2025-06-30,7.82
+ELECON,Q,income,Basic EPS,2025-12-31,3.21
+ELECON,Q,income,Basic EPS,2026-03-31,0.27
+ELECON,Q,income,Basic EPS,2026-06-30,3.14
+ELECON,Q,income,Basic EPS,2026-09-30,4.29
+ELECON,Q,income,Diluted EPS,2025-06-30,7.82
+ELECON,Q,income,Diluted EPS,2025-12-31,3.21
+ELECON,Q,income,Diluted EPS,2026-03-31,0.27
+ELECON,Q,income,Diluted EPS,2026-06-30,3.14
+ELECON,Q,income,Diluted EPS,2026-09-30,4.29
+ELECON,Q,income,EBITDA,2025-06-30,2378100000.0
+ELECON,Q,income,EBITDA,2025-12-31,1280300000.0
+ELECON,Q,income,EBITDA,2026-03-31,738200000.0
+ELECON,Q,income,EBITDA,2026-06-30,1310300000.0
+ELECON,Q,income,EBITDA,2026-09-30,1676900000.0
+ELECON,Q,income,Interest Expense,2025-06-30,61500000.0
+ELECON,Q,income,Interest Expense,2025-12-31,68200000.0
+ELECON,Q,income,Interest Expense,2026-03-31,62500000.0
+ELECON,Q,income,Interest Expense,2026-06-30,81100000.0
+ELECON,Q,income,Interest Expense,2026-09-30,103300000.0
+ELECON,Q,income,Net Income,2025-06-30,1754400000.0
+ELECON,Q,income,Net Income,2025-12-31,719900000.0
+ELECON,Q,income,Net Income,2026-03-31,60000000.0
+ELECON,Q,income,Net Income,2026-06-30,703500000.0
+ELECON,Q,income,Net Income,2026-09-30,963500000.0
+ELECON,Q,income,Net Income Common Stockholders,2025-06-30,1754400000.0
+ELECON,Q,income,Net Income Common Stockholders,2025-12-31,719900000.0
+ELECON,Q,income,Net Income Common Stockholders,2026-03-31,60000000.0
+ELECON,Q,income,Net Income Common Stockholders,2026-06-30,703500000.0
+ELECON,Q,income,Net Income Common Stockholders,2026-09-30,963500000.0
+ELECON,Q,income,Operating Income,2025-06-30,1057600000.0
+ELECON,Q,income,Operating Income,2025-12-31,819400000.0
+ELECON,Q,income,Operating Income,2026-03-31,1308400000.0
+ELECON,Q,income,Operating Income,2026-06-30,793600000.0
+ELECON,Q,income,Operating Income,2026-09-30,1153000000.0
+ELECON,Q,income,Pretax Income,2025-06-30,2071200000.0
+ELECON,Q,income,Pretax Income,2025-12-31,939700000.0
+ELECON,Q,income,Pretax Income,2026-03-31,403900000.0
+ELECON,Q,income,Pretax Income,2026-06-30,931600000.0
+ELECON,Q,income,Pretax Income,2026-09-30,1247600000.0
+ELECON,Q,income,Total Revenue,2025-06-30,4905700000.0
+ELECON,Q,income,Total Revenue,2025-12-31,5517400000.0
+ELECON,Q,income,Total Revenue,2026-03-31,7456100000.0
+ELECON,Q,income,Total Revenue,2026-06-30,5205600000.0
+ELECON,Q,income,Total Revenue,2026-09-30,6389400000.0

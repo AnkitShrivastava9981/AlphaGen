@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KAYNES,A,balance,Cash And Cash Equivalents,2023-03-31,259310000.0
+KAYNES,A,balance,Cash And Cash Equivalents,2024-03-31,194110000.0
+KAYNES,A,balance,Cash And Cash Equivalents,2025-03-31,474220000.0
+KAYNES,A,balance,Cash And Cash Equivalents,2026-03-31,1094290000.0
+KAYNES,A,balance,Net Debt,2023-03-31,1099680000.0
+KAYNES,A,balance,Net Debt,2024-03-31,2866560000.0
+KAYNES,A,balance,Net Debt,2025-03-31,8280610000.0
+KAYNES,A,balance,Net Debt,2026-03-31,7655100000.0
+KAYNES,A,balance,Ordinary Shares Number,2023-03-31,58142496.0
+KAYNES,A,balance,Ordinary Shares Number,2024-03-31,63918073.0
+KAYNES,A,balance,Ordinary Shares Number,2025-03-31,64084305.0
+KAYNES,A,balance,Ordinary Shares Number,2026-03-31,67034654.0
+KAYNES,A,balance,Stockholders Equity,2023-03-31,9590420000.0
+KAYNES,A,balance,Stockholders Equity,2024-03-31,24868890000.0
+KAYNES,A,balance,Stockholders Equity,2025-03-31,28402600000.0
+KAYNES,A,balance,Stockholders Equity,2026-03-31,47483530000.0
+KAYNES,A,balance,Total Assets,2023-03-31,14180920000.0
+KAYNES,A,balance,Total Assets,2024-03-31,32651770000.0
+KAYNES,A,balance,Total Assets,2025-03-31,46412170000.0
+KAYNES,A,balance,Total Assets,2026-03-31,68940150000.0
+KAYNES,A,balance,Total Debt,2023-03-31,1547420000.0
+KAYNES,A,balance,Total Debt,2024-03-31,3225460000.0
+KAYNES,A,balance,Total Debt,2025-03-31,9029770000.0
+KAYNES,A,balance,Total Debt,2026-03-31,9128730000.0
+KAYNES,A,cashflow,Capital Expenditure,2023-03-31,-581220000.0
+KAYNES,A,cashflow,Capital Expenditure,2024-03-31,-3825990000.0
+KAYNES,A,cashflow,Capital Expenditure,2025-03-31,-9487470000.0
+KAYNES,A,cashflow,Capital Expenditure,2026-03-31,-12403010000.0
+KAYNES,A,cashflow,Free Cash Flow,2023-03-31,-997240000.0
+KAYNES,A,cashflow,Free Cash Flow,2024-03-31,-2948900000.0
+KAYNES,A,cashflow,Free Cash Flow,2025-03-31,-10310630000.0
+KAYNES,A,cashflow,Free Cash Flow,2026-03-31,-18407050000.0
+KAYNES,A,cashflow,Operating Cash Flow,2023-03-31,-416020000.0
+KAYNES,A,cashflow,Operating Cash Flow,2024-03-31,877090000.0
+KAYNES,A,cashflow,Operating Cash Flow,2025-03-31,-823160000.0
+KAYNES,A,cashflow,Operating Cash Flow,2026-03-31,-6004040000.0
+KAYNES,A,income,Basic EPS,2023-03-31,19.84
+KAYNES,A,income,Basic EPS,2024-03-31,30.67265
+KAYNES,A,income,Basic EPS,2025-03-31,45.82
+KAYNES,A,income,Basic EPS,2026-03-31,54.85
+KAYNES,A,income,Diluted EPS,2023-03-31,19.61
+KAYNES,A,income,Diluted EPS,2024-03-31,30.281611
+KAYNES,A,income,Diluted EPS,2025-03-31,45.4
+KAYNES,A,income,Diluted EPS,2026-03-31,54.45
+KAYNES,A,income,EBITDA,2023-03-31,1779030000.0
+KAYNES,A,income,EBITDA,2024-03-31,3081260000.0
+KAYNES,A,income,EBITDA,2025-03-31,5152690000.0
+KAYNES,A,income,EBITDA,2026-03-31,7258650000.0
+KAYNES,A,income,Interest Expense,2023-03-31,331230000.0
+KAYNES,A,income,Interest Expense,2024-03-31,514160000.0
+KAYNES,A,income,Interest Expense,2025-03-31,989050000.0
+KAYNES,A,income,Interest Expense,2026-03-31,1144830000.0
+KAYNES,A,income,Net Income,2023-03-31,951960000.0
+KAYNES,A,income,Net Income,2024-03-31,1832890000.0
+KAYNES,A,income,Net Income,2025-03-31,2931860000.0
+KAYNES,A,income,Net Income,2026-03-31,3638900000.0
+KAYNES,A,income,Net Income Common Stockholders,2023-03-31,951960000.0
+KAYNES,A,income,Net Income Common Stockholders,2024-03-31,1832890000.0
+KAYNES,A,income,Net Income Common Stockholders,2025-03-31,2931860000.0
+KAYNES,A,income,Net Income Common Stockholders,2026-03-31,3638900000.0
+KAYNES,A,income,Operating Income,2023-03-31,1511210000.0
+KAYNES,A,income,Operating Income,2024-03-31,2316370000.0
+KAYNES,A,income,Operating Income,2025-03-31,3715460000.0
+KAYNES,A,income,Operating Income,2026-03-31,4759190000.0
+KAYNES,A,income,Pretax Income,2023-03-31,1260390000.0
+KAYNES,A,income,Pretax Income,2024-03-31,2315690000.0
+KAYNES,A,income,Pretax Income,2025-03-31,3716240000.0
+KAYNES,A,income,Pretax Income,2026-03-31,5043140000.0
+KAYNES,A,income,Total Revenue,2023-03-31,11261140000.0
+KAYNES,A,income,Total Revenue,2024-03-31,18046190000.0
+KAYNES,A,income,Total Revenue,2025-03-31,27217520000.0
+KAYNES,A,income,Total Revenue,2026-03-31,36263540000.0
+KAYNES,Q,income,Basic EPS,2025-03-31,18.12
+KAYNES,Q,income,Basic EPS,2025-06-30,11.63
+KAYNES,Q,income,Basic EPS,2025-12-31,11.34
+KAYNES,Q,income,Basic EPS,2026-03-31,13.32
+KAYNES,Q,income,Basic EPS,2026-06-30,8.42
+KAYNES,Q,income,Diluted EPS,2025-03-31,17.99
+KAYNES,Q,income,Diluted EPS,2025-06-30,11.52
+KAYNES,Q,income,Diluted EPS,2025-12-31,11.2
+KAYNES,Q,income,Diluted EPS,2026-03-31,13.23
+KAYNES,Q,income,Diluted EPS,2026-06-30,8.36
+KAYNES,Q,income,EBITDA,2025-03-31,1883270000.0
+KAYNES,Q,income,EBITDA,2025-06-30,1401350000.0
+KAYNES,Q,income,EBITDA,2025-12-31,1615800000.0
+KAYNES,Q,income,EBITDA,2026-03-31,2355150000.0
+KAYNES,Q,income,EBITDA,2026-06-30,1620000000.0
+KAYNES,Q,income,Interest Expense,2025-03-31,294590000.0
+KAYNES,Q,income,Interest Expense,2025-06-30,284260000.0
+KAYNES,Q,income,Interest Expense,2025-12-31,248620000.0
+KAYNES,Q,income,Interest Expense,2026-03-31,408700000.0
+KAYNES,Q,income,Interest Expense,2026-06-30,371360000.0
+KAYNES,Q,income,Net Income,2025-03-31,1162020000.0
+KAYNES,Q,income,Net Income,2025-06-30,746120000.0
+KAYNES,Q,income,Net Income,2025-12-31,766420000.0
+KAYNES,Q,income,Net Income,2026-03-31,912230000.0
+KAYNES,Q,income,Net Income,2026-06-30,564260000.0
+KAYNES,Q,income,Net Income Common Stockholders,2025-03-31,1162020000.0
+KAYNES,Q,income,Net Income Common Stockholders,2025-06-30,746120000.0
+KAYNES,Q,income,Net Income Common Stockholders,2025-12-31,766420000.0
+KAYNES,Q,income,Net Income Common Stockholders,2026-03-31,912230000.0
+KAYNES,Q,income,Net Income Common Stockholders,2026-06-30,564260000.0
+KAYNES,Q,income,Operating Income,2025-03-31,1509230000.0
+KAYNES,Q,income,Operating Income,2025-06-30,974170000.0
+KAYNES,Q,income,Operating Income,2025-12-31,989110000.0
+KAYNES,Q,income,Operating Income,2026-03-31,1392850000.0
+KAYNES,Q,income,Operating Income,2026-06-30,1105810000.0
+KAYNES,Q,income,Pretax Income,2025-03-31,1419320000.0
+KAYNES,Q,income,Pretax Income,2025-06-30,960870000.0
+KAYNES,Q,income,Pretax Income,2025-12-31,1163170000.0
+KAYNES,Q,income,Pretax Income,2026-03-31,1402330000.0
+KAYNES,Q,income,Pretax Income,2026-06-30,878760000.0
+KAYNES,Q,income,Total Revenue,2025-03-31,9844830000.0
+KAYNES,Q,income,Total Revenue,2025-06-30,6734660000.0
+KAYNES,Q,income,Total Revenue,2025-12-31,8040320000.0
+KAYNES,Q,income,Total Revenue,2026-03-31,12426380000.0
+KAYNES,Q,income,Total Revenue,2026-06-30,9460170000.0

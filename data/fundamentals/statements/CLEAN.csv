@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CLEAN,A,balance,Cash And Cash Equivalents,2023-03-31,124690000.0
+CLEAN,A,balance,Cash And Cash Equivalents,2024-03-31,104450000.0
+CLEAN,A,balance,Cash And Cash Equivalents,2025-03-31,195320000.0
+CLEAN,A,balance,Cash And Cash Equivalents,2026-03-31,280200000.0
+CLEAN,A,balance,Ordinary Shares Number,2023-03-31,106237539.0
+CLEAN,A,balance,Ordinary Shares Number,2024-03-31,106252004.0
+CLEAN,A,balance,Ordinary Shares Number,2025-03-31,106267259.0
+CLEAN,A,balance,Ordinary Shares Number,2026-03-31,106277299.0
+CLEAN,A,balance,Stockholders Equity,2023-03-31,10099990000.0
+CLEAN,A,balance,Stockholders Equity,2024-03-31,12031650000.0
+CLEAN,A,balance,Stockholders Equity,2025-03-31,14164160000.0
+CLEAN,A,balance,Stockholders Equity,2026-03-31,15837710000.0
+CLEAN,A,balance,Total Assets,2023-03-31,11518310000.0
+CLEAN,A,balance,Total Assets,2024-03-31,13987060000.0
+CLEAN,A,balance,Total Assets,2025-03-31,16077600000.0
+CLEAN,A,balance,Total Assets,2026-03-31,17829000000.0
+CLEAN,A,balance,Total Debt,2023-03-31,20580000.0
+CLEAN,A,balance,Total Debt,2024-03-31,20300000.0
+CLEAN,A,balance,Total Debt,2025-03-31,21280000.0
+CLEAN,A,balance,Total Debt,2026-03-31,21390000.0
+CLEAN,A,cashflow,Capital Expenditure,2023-03-31,-1834050000.0
+CLEAN,A,cashflow,Capital Expenditure,2024-03-31,-2316320000.0
+CLEAN,A,cashflow,Capital Expenditure,2025-03-31,-1419500000.0
+CLEAN,A,cashflow,Capital Expenditure,2026-03-31,-2010340000.0
+CLEAN,A,cashflow,Free Cash Flow,2023-03-31,959570000.0
+CLEAN,A,cashflow,Free Cash Flow,2024-03-31,48130000.0
+CLEAN,A,cashflow,Free Cash Flow,2025-03-31,718880000.0
+CLEAN,A,cashflow,Free Cash Flow,2026-03-31,734820000.0
+CLEAN,A,cashflow,Operating Cash Flow,2023-03-31,2793620000.0
+CLEAN,A,cashflow,Operating Cash Flow,2024-03-31,2364450000.0
+CLEAN,A,cashflow,Operating Cash Flow,2025-03-31,2138380000.0
+CLEAN,A,cashflow,Operating Cash Flow,2026-03-31,2745160000.0
+CLEAN,A,income,Basic EPS,2023-03-31,27.79
+CLEAN,A,income,Basic EPS,2024-03-31,22.97
+CLEAN,A,income,Basic EPS,2025-03-31,24.88
+CLEAN,A,income,Basic EPS,2026-03-31,21.61
+CLEAN,A,income,Diluted EPS,2023-03-31,27.78
+CLEAN,A,income,Diluted EPS,2024-03-31,22.96
+CLEAN,A,income,Diluted EPS,2025-03-31,24.88
+CLEAN,A,income,Diluted EPS,2026-03-31,21.6
+CLEAN,A,income,EBITDA,2023-03-31,4319200000.0
+CLEAN,A,income,EBITDA,2024-03-31,3733510000.0
+CLEAN,A,income,EBITDA,2025-03-31,4262020000.0
+CLEAN,A,income,EBITDA,2026-03-31,3876030000.0
+CLEAN,A,income,Interest Expense,2023-03-31,1950000.0
+CLEAN,A,income,Interest Expense,2024-03-31,9250000.0
+CLEAN,A,income,Interest Expense,2025-03-31,4160000.0
+CLEAN,A,income,Interest Expense,2026-03-31,3540000.0
+CLEAN,A,income,Net Income,2023-03-31,2951760000.0
+CLEAN,A,income,Net Income,2024-03-31,2440260000.0
+CLEAN,A,income,Net Income,2025-03-31,2644050000.0
+CLEAN,A,income,Net Income,2026-03-31,2296550000.0
+CLEAN,A,income,Net Income Common Stockholders,2023-03-31,2951760000.0
+CLEAN,A,income,Net Income Common Stockholders,2024-03-31,2440260000.0
+CLEAN,A,income,Net Income Common Stockholders,2025-03-31,2644050000.0
+CLEAN,A,income,Net Income Common Stockholders,2026-03-31,2296550000.0
+CLEAN,A,income,Operating Income,2023-03-31,3664490000.0
+CLEAN,A,income,Operating Income,2024-03-31,2864870000.0
+CLEAN,A,income,Operating Income,2025-03-31,3190070000.0
+CLEAN,A,income,Operating Income,2026-03-31,2796770000.0
+CLEAN,A,income,Pretax Income,2023-03-31,3956350000.0
+CLEAN,A,income,Pretax Income,2024-03-31,3265000000.0
+CLEAN,A,income,Pretax Income,2025-03-31,3567310000.0
+CLEAN,A,income,Pretax Income,2026-03-31,3096700000.0
+CLEAN,A,income,Total Revenue,2023-03-31,9264740000.0
+CLEAN,A,income,Total Revenue,2024-03-31,7797620000.0
+CLEAN,A,income,Total Revenue,2025-03-31,9497000000.0
+CLEAN,A,income,Total Revenue,2026-03-31,9421500000.0
+CLEAN,Q,income,Basic EPS,2025-03-31,6.97
+CLEAN,Q,income,Basic EPS,2025-06-30,6.59
+CLEAN,Q,income,Basic EPS,2025-12-31,4.32
+CLEAN,Q,income,Basic EPS,2026-03-31,5.48
+CLEAN,Q,income,Basic EPS,2026-06-30,6.9
+CLEAN,Q,income,Diluted EPS,2025-03-31,6.97
+CLEAN,Q,income,Diluted EPS,2025-06-30,6.59
+CLEAN,Q,income,Diluted EPS,2025-12-31,4.32
+CLEAN,Q,income,Diluted EPS,2026-03-31,5.48
+CLEAN,Q,income,Diluted EPS,2026-06-30,6.9
+CLEAN,Q,income,EBITDA,2025-03-31,1171610000.0
+CLEAN,Q,income,EBITDA,2025-06-30,1132770000.0
+CLEAN,Q,income,EBITDA,2025-12-31,820080000.0
+CLEAN,Q,income,EBITDA,2026-03-31,985580000.0
+CLEAN,Q,income,EBITDA,2026-06-30,1186440000.0
+CLEAN,Q,income,Interest Expense,2025-03-31,1360000.0
+CLEAN,Q,income,Interest Expense,2025-06-30,700000.0
+CLEAN,Q,income,Interest Expense,2025-12-31,1670000.0
+CLEAN,Q,income,Interest Expense,2026-03-31,500000.0
+CLEAN,Q,income,Interest Expense,2026-06-30,520000.0
+CLEAN,Q,income,Net Income,2025-03-31,740920000.0
+CLEAN,Q,income,Net Income,2025-06-30,700630000.0
+CLEAN,Q,income,Net Income,2025-12-31,458840000.0
+CLEAN,Q,income,Net Income,2026-03-31,582720000.0
+CLEAN,Q,income,Net Income,2026-06-30,733500000.0
+CLEAN,Q,income,Net Income Common Stockholders,2025-03-31,740920000.0
+CLEAN,Q,income,Net Income Common Stockholders,2025-06-30,700630000.0
+CLEAN,Q,income,Net Income Common Stockholders,2025-12-31,458840000.0
+CLEAN,Q,income,Net Income Common Stockholders,2026-03-31,582720000.0
+CLEAN,Q,income,Net Income Common Stockholders,2026-06-30,733500000.0
+CLEAN,Q,income,Operating Income,2025-03-31,873430000.0
+CLEAN,Q,income,Operating Income,2025-06-30,811930000.0
+CLEAN,Q,income,Operating Income,2025-12-31,529190000.0
+CLEAN,Q,income,Operating Income,2026-03-31,749420000.0
+CLEAN,Q,income,Operating Income,2026-06-30,753390000.0
+CLEAN,Q,income,Pretax Income,2025-03-31,995810000.0
+CLEAN,Q,income,Pretax Income,2025-06-30,945490000.0
+CLEAN,Q,income,Pretax Income,2025-12-31,625700000.0
+CLEAN,Q,income,Pretax Income,2026-03-31,776870000.0
+CLEAN,Q,income,Pretax Income,2026-06-30,975510000.0
+CLEAN,Q,income,Total Revenue,2025-03-31,2636830000.0
+CLEAN,Q,income,Total Revenue,2025-06-30,2428690000.0
+CLEAN,Q,income,Total Revenue,2025-12-31,2196700000.0
+CLEAN,Q,income,Total Revenue,2026-03-31,2492530000.0
+CLEAN,Q,income,Total Revenue,2026-06-30,2684320000.0

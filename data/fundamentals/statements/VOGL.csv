@@ -1,0 +1,109 @@
+symbol,freq,statement,item,period_end,value
+VOGL,A,balance,Cash And Cash Equivalents,2023-03-31,248500000.0
+VOGL,A,balance,Cash And Cash Equivalents,2024-03-31,260500000.0
+VOGL,A,balance,Cash And Cash Equivalents,2025-03-31,5080000000.0
+VOGL,A,balance,Cash And Cash Equivalents,2026-03-31,11340000000.0
+VOGL,A,balance,Net Debt,2023-03-31,4525200000.0
+VOGL,A,balance,Net Debt,2024-03-31,3359200000.0
+VOGL,A,balance,Net Debt,2025-03-31,91500000000.0
+VOGL,A,balance,Net Debt,2026-03-31,46460000000.0
+VOGL,A,balance,Ordinary Shares Number,2023-03-31,3904155728.0
+VOGL,A,balance,Ordinary Shares Number,2024-03-31,3904155728.0
+VOGL,A,balance,Ordinary Shares Number,2025-03-31,3904155728.0
+VOGL,A,balance,Ordinary Shares Number,2026-03-31,3904155728.0
+VOGL,A,balance,Stockholders Equity,2023-03-31,196900000.0
+VOGL,A,balance,Stockholders Equity,2024-03-31,-940100000.0
+VOGL,A,balance,Stockholders Equity,2025-03-31,87980000000.0
+VOGL,A,balance,Stockholders Equity,2026-03-31,165060000000.0
+VOGL,A,balance,Total Assets,2023-03-31,10529500000.0
+VOGL,A,balance,Total Assets,2024-03-31,8017800000.0
+VOGL,A,balance,Total Assets,2025-03-31,341220000000.0
+VOGL,A,balance,Total Assets,2026-03-31,357380000000.0
+VOGL,A,balance,Total Debt,2023-03-31,4776200000.0
+VOGL,A,balance,Total Debt,2024-03-31,3710000000.0
+VOGL,A,balance,Total Debt,2025-03-31,98150000000.0
+VOGL,A,balance,Total Debt,2026-03-31,59270000000.0
+VOGL,A,cashflow,Capital Expenditure,2023-03-31,-332000000.0
+VOGL,A,cashflow,Capital Expenditure,2024-03-31,-322500000.0
+VOGL,A,cashflow,Capital Expenditure,2025-03-31,-223900000.0
+VOGL,A,cashflow,Capital Expenditure,2026-03-31,-83400000.0
+VOGL,A,cashflow,Free Cash Flow,2023-03-31,-3311500000.0
+VOGL,A,cashflow,Free Cash Flow,2024-03-31,1391700000.0
+VOGL,A,cashflow,Free Cash Flow,2025-03-31,-318400000.0
+VOGL,A,cashflow,Free Cash Flow,2026-03-31,-1759900000.0
+VOGL,A,cashflow,Operating Cash Flow,2023-03-31,-2979500000.0
+VOGL,A,cashflow,Operating Cash Flow,2024-03-31,1714200000.0
+VOGL,A,cashflow,Operating Cash Flow,2025-03-31,-94500000.0
+VOGL,A,cashflow,Operating Cash Flow,2026-03-31,-1676500000.0
+VOGL,A,income,Basic EPS,2023-03-31,-0.683554
+VOGL,A,income,Basic EPS,2024-03-31,-0.300756
+VOGL,A,income,Basic EPS,2025-03-31,4.969064
+VOGL,A,income,Basic EPS,2026-03-31,0.138314
+VOGL,A,income,Diluted EPS,2023-03-31,-0.683554
+VOGL,A,income,Diluted EPS,2024-03-31,-0.300756
+VOGL,A,income,Diluted EPS,2025-03-31,4.969064
+VOGL,A,income,Diluted EPS,2026-03-31,0.138314
+VOGL,A,income,EBITDA,2023-03-31,-2123800000.0
+VOGL,A,income,EBITDA,2024-03-31,-376700000.0
+VOGL,A,income,EBITDA,2025-03-31,37600700000.0
+VOGL,A,income,EBITDA,2026-03-31,9704300000.0
+VOGL,A,income,Interest Expense,2023-03-31,316800000.0
+VOGL,A,income,Interest Expense,2024-03-31,479700000.0
+VOGL,A,income,Interest Expense,2025-03-31,14640000000.0
+VOGL,A,income,Interest Expense,2026-03-31,6130000000.0
+VOGL,A,income,Net Income,2023-03-31,-2668700000.0
+VOGL,A,income,Net Income,2024-03-31,-1174200000.0
+VOGL,A,income,Net Income,2025-03-31,19400000000.0
+VOGL,A,income,Net Income,2026-03-31,540000000.0
+VOGL,A,income,Net Income Common Stockholders,2023-03-31,-2668700000.0
+VOGL,A,income,Net Income Common Stockholders,2024-03-31,-1174200000.0
+VOGL,A,income,Net Income Common Stockholders,2025-03-31,19400000000.0
+VOGL,A,income,Net Income Common Stockholders,2026-03-31,540000000.0
+VOGL,A,income,Operating Income,2023-03-31,-2377400000.0
+VOGL,A,income,Operating Income,2024-03-31,-867700000.0
+VOGL,A,income,Operating Income,2025-03-31,15990000000.0
+VOGL,A,income,Operating Income,2026-03-31,-1770000000.0
+VOGL,A,income,Pretax Income,2023-03-31,-2668700000.0
+VOGL,A,income,Pretax Income,2024-03-31,-1174200000.0
+VOGL,A,income,Pretax Income,2025-03-31,22530000000.0
+VOGL,A,income,Pretax Income,2026-03-31,3120000000.0
+VOGL,A,income,Total Revenue,2023-03-31,5337200000.0
+VOGL,A,income,Total Revenue,2024-03-31,6157500000.0
+VOGL,A,income,Total Revenue,2025-03-31,110430000000.0
+VOGL,A,income,Total Revenue,2026-03-31,95820000000.0
+VOGL,Q,income,Basic EPS,2025-06-30,-0.263821
+VOGL,Q,income,Basic EPS,2025-09-30,-0.233085
+VOGL,Q,income,Basic EPS,2026-06-30,2.42
+VOGL,Q,income,Basic EPS,2026-09-30,1.91
+VOGL,Q,income,Diluted EPS,2025-06-30,-0.263821
+VOGL,Q,income,Diluted EPS,2025-09-30,-0.233085
+VOGL,Q,income,Diluted EPS,2026-06-30,2.42
+VOGL,Q,income,Diluted EPS,2026-09-30,1.91
+VOGL,Q,income,EBITDA,2025-06-30,1610000000.0
+VOGL,Q,income,EBITDA,2025-09-30,2840000000.0
+VOGL,Q,income,EBITDA,2026-06-30,-2170000000.0
+VOGL,Q,income,EBITDA,2026-09-30,8440000000.0
+VOGL,Q,income,Interest Expense,2025-06-30,1670000000.0
+VOGL,Q,income,Interest Expense,2025-09-30,1710000000.0
+VOGL,Q,income,Interest Expense,2026-06-30,1100000000.0
+VOGL,Q,income,Interest Expense,2026-09-30,690000000.0
+VOGL,Q,income,Net Income,2025-06-30,-1030000000.0
+VOGL,Q,income,Net Income,2025-09-30,-910000000.0
+VOGL,Q,income,Net Income,2026-06-30,9450000000.0
+VOGL,Q,income,Net Income,2026-09-30,7460000000.0
+VOGL,Q,income,Net Income Common Stockholders,2025-06-30,-1030000000.0
+VOGL,Q,income,Net Income Common Stockholders,2025-09-30,-910000000.0
+VOGL,Q,income,Net Income Common Stockholders,2026-06-30,9450000000.0
+VOGL,Q,income,Net Income Common Stockholders,2026-09-30,7460000000.0
+VOGL,Q,income,Operating Income,2025-06-30,-1590000000.0
+VOGL,Q,income,Operating Income,2025-09-30,820000000.0
+VOGL,Q,income,Operating Income,2026-06-30,730000000.0
+VOGL,Q,income,Operating Income,2026-09-30,7040000000.0
+VOGL,Q,income,Pretax Income,2025-06-30,-60000000.0
+VOGL,Q,income,Pretax Income,2025-09-30,1130000000.0
+VOGL,Q,income,Pretax Income,2026-06-30,-3270000000.0
+VOGL,Q,income,Pretax Income,2026-09-30,7750000000.0
+VOGL,Q,income,Total Revenue,2025-06-30,23030000000.0
+VOGL,Q,income,Total Revenue,2025-09-30,23300000000.0
+VOGL,Q,income,Total Revenue,2026-06-30,25070000000.0
+VOGL,Q,income,Total Revenue,2026-09-30,24860000000.0

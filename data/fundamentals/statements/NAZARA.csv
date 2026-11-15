@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+NAZARA,A,balance,Cash And Cash Equivalents,2023-03-31,1421200000.0
+NAZARA,A,balance,Cash And Cash Equivalents,2024-03-31,5670200000.0
+NAZARA,A,balance,Cash And Cash Equivalents,2025-03-31,2988500000.0
+NAZARA,A,balance,Cash And Cash Equivalents,2026-03-31,1746400000.0
+NAZARA,A,balance,Ordinary Shares Number,2023-03-31,264696368.0
+NAZARA,A,balance,Ordinary Shares Number,2024-03-31,306166560.0
+NAZARA,A,balance,Ordinary Shares Number,2025-03-31,350465024.0
+NAZARA,A,balance,Ordinary Shares Number,2026-03-31,370465024.0
+NAZARA,A,balance,Stockholders Equity,2023-03-31,11048900000.0
+NAZARA,A,balance,Stockholders Equity,2024-03-31,19986000000.0
+NAZARA,A,balance,Stockholders Equity,2025-03-31,28630500000.0
+NAZARA,A,balance,Stockholders Equity,2026-03-31,34734900000.0
+NAZARA,A,balance,Total Assets,2023-03-31,17017800000.0
+NAZARA,A,balance,Total Assets,2024-03-31,27617800000.0
+NAZARA,A,balance,Total Assets,2025-03-31,44354700000.0
+NAZARA,A,balance,Total Assets,2026-03-31,43711800000.0
+NAZARA,A,balance,Total Debt,2023-03-31,381400000.0
+NAZARA,A,balance,Total Debt,2024-03-31,277000000.0
+NAZARA,A,balance,Total Debt,2025-03-31,2188600000.0
+NAZARA,A,balance,Total Debt,2026-03-31,2149300000.0
+NAZARA,A,cashflow,Capital Expenditure,2023-03-31,-82700000.0
+NAZARA,A,cashflow,Capital Expenditure,2024-03-31,-268500000.0
+NAZARA,A,cashflow,Capital Expenditure,2025-03-31,-1477800000.0
+NAZARA,A,cashflow,Capital Expenditure,2026-03-31,-1127200000.0
+NAZARA,A,cashflow,Free Cash Flow,2023-03-31,-1800000.0
+NAZARA,A,cashflow,Free Cash Flow,2024-03-31,639400000.0
+NAZARA,A,cashflow,Free Cash Flow,2025-03-31,-822800000.0
+NAZARA,A,cashflow,Free Cash Flow,2026-03-31,359100000.0
+NAZARA,A,cashflow,Operating Cash Flow,2023-03-31,80900000.0
+NAZARA,A,cashflow,Operating Cash Flow,2024-03-31,907900000.0
+NAZARA,A,cashflow,Operating Cash Flow,2025-03-31,655000000.0
+NAZARA,A,cashflow,Operating Cash Flow,2026-03-31,1486300000.0
+NAZARA,A,income,Basic EPS,2023-03-31,1.495
+NAZARA,A,income,Basic EPS,2024-03-31,2.04
+NAZARA,A,income,Basic EPS,2025-03-31,2.37
+NAZARA,A,income,Basic EPS,2026-03-31,2.62
+NAZARA,A,income,Diluted EPS,2023-03-31,1.49
+NAZARA,A,income,Diluted EPS,2024-03-31,2.04
+NAZARA,A,income,Diluted EPS,2025-03-31,2.37
+NAZARA,A,income,Diluted EPS,2026-03-31,2.62
+NAZARA,A,income,EBITDA,2023-03-31,1506700000.0
+NAZARA,A,income,EBITDA,2024-03-31,1772300000.0
+NAZARA,A,income,EBITDA,2025-03-31,2055000000.0
+NAZARA,A,income,EBITDA,2026-03-31,2983200000.0
+NAZARA,A,income,Interest Expense,2023-03-31,47200000.0
+NAZARA,A,income,Interest Expense,2024-03-31,68000000.0
+NAZARA,A,income,Interest Expense,2025-03-31,99400000.0
+NAZARA,A,income,Interest Expense,2026-03-31,224900000.0
+NAZARA,A,income,Net Income,2023-03-31,393900000.0
+NAZARA,A,income,Net Income,2024-03-31,565700000.0
+NAZARA,A,income,Net Income,2025-03-31,758200000.0
+NAZARA,A,income,Net Income,2026-03-31,958500000.0
+NAZARA,A,income,Net Income Common Stockholders,2023-03-31,393900000.0
+NAZARA,A,income,Net Income Common Stockholders,2024-03-31,565700000.0
+NAZARA,A,income,Net Income Common Stockholders,2025-03-31,758200000.0
+NAZARA,A,income,Net Income Common Stockholders,2026-03-31,958500000.0
+NAZARA,A,income,Operating Income,2023-03-31,567900000.0
+NAZARA,A,income,Operating Income,2024-03-31,771800000.0
+NAZARA,A,income,Operating Income,2025-03-31,370200000.0
+NAZARA,A,income,Operating Income,2026-03-31,290000000.0
+NAZARA,A,income,Pretax Income,2023-03-31,888000000.0
+NAZARA,A,income,Pretax Income,2024-03-31,1034400000.0
+NAZARA,A,income,Pretax Income,2025-03-31,778700000.0
+NAZARA,A,income,Pretax Income,2026-03-31,452700000.0
+NAZARA,A,income,Total Revenue,2023-03-31,10910200000.0
+NAZARA,A,income,Total Revenue,2024-03-31,11382800000.0
+NAZARA,A,income,Total Revenue,2025-03-31,16239100000.0
+NAZARA,A,income,Total Revenue,2026-03-31,18289800000.0
+NAZARA,Q,income,Basic EPS,2025-09-30,-0.85
+NAZARA,Q,income,Basic EPS,2025-12-31,0.27
+NAZARA,Q,income,Basic EPS,2026-03-31,1.27
+NAZARA,Q,income,Basic EPS,2026-06-30,-2.16
+NAZARA,Q,income,Basic EPS,2026-09-30,0.95
+NAZARA,Q,income,Diluted EPS,2025-09-30,-0.85
+NAZARA,Q,income,Diluted EPS,2025-12-31,0.27
+NAZARA,Q,income,Diluted EPS,2026-03-31,1.27
+NAZARA,Q,income,Diluted EPS,2026-06-30,-2.16
+NAZARA,Q,income,Diluted EPS,2026-09-30,0.95
+NAZARA,Q,income,EBITDA,2025-09-30,258800000.0
+NAZARA,Q,income,EBITDA,2025-12-31,779500000.0
+NAZARA,Q,income,EBITDA,2026-03-31,942100000.0
+NAZARA,Q,income,EBITDA,2026-06-30,-289600000.0
+NAZARA,Q,income,EBITDA,2026-09-30,1031400000.0
+NAZARA,Q,income,Interest Expense,2025-09-30,67700000.0
+NAZARA,Q,income,Interest Expense,2025-12-31,43400000.0
+NAZARA,Q,income,Interest Expense,2026-03-31,62300000.0
+NAZARA,Q,income,Interest Expense,2026-06-30,35600000.0
+NAZARA,Q,income,Interest Expense,2026-09-30,38000000.0
+NAZARA,Q,income,Net Income,2025-09-30,-293500000.0
+NAZARA,Q,income,Net Income,2025-12-31,98400000.0
+NAZARA,Q,income,Net Income,2026-03-31,469600000.0
+NAZARA,Q,income,Net Income,2026-06-30,-799200000.0
+NAZARA,Q,income,Net Income,2026-09-30,362800000.0
+NAZARA,Q,income,Net Income Common Stockholders,2025-09-30,-293500000.0
+NAZARA,Q,income,Net Income Common Stockholders,2025-12-31,98400000.0
+NAZARA,Q,income,Net Income Common Stockholders,2026-03-31,469600000.0
+NAZARA,Q,income,Net Income Common Stockholders,2026-06-30,-799200000.0
+NAZARA,Q,income,Net Income Common Stockholders,2026-09-30,362800000.0
+NAZARA,Q,income,Operating Income,2025-09-30,11800000.0
+NAZARA,Q,income,Operating Income,2025-12-31,69600000.0
+NAZARA,Q,income,Operating Income,2026-03-31,321000000.0
+NAZARA,Q,income,Operating Income,2026-06-30,-12300000.0
+NAZARA,Q,income,Operating Income,2026-09-30,460100000.0
+NAZARA,Q,income,Pretax Income,2025-09-30,-417100000.0
+NAZARA,Q,income,Pretax Income,2025-12-31,139100000.0
+NAZARA,Q,income,Pretax Income,2026-03-31,424600000.0
+NAZARA,Q,income,Pretax Income,2026-06-30,-802300000.0
+NAZARA,Q,income,Pretax Income,2026-09-30,257800000.0
+NAZARA,Q,income,Total Revenue,2025-09-30,5264600000.0
+NAZARA,Q,income,Total Revenue,2025-12-31,4059700000.0
+NAZARA,Q,income,Total Revenue,2026-03-31,3977800000.0
+NAZARA,Q,income,Total Revenue,2026-06-30,4287700000.0
+NAZARA,Q,income,Total Revenue,2026-09-30,8031500000.0

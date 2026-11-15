@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+ANTHEM,A,balance,Cash And Cash Equivalents,2023-03-31,3422360000.0
+ANTHEM,A,balance,Cash And Cash Equivalents,2024-03-31,1838600000.0
+ANTHEM,A,balance,Cash And Cash Equivalents,2025-03-31,1714450000.0
+ANTHEM,A,balance,Cash And Cash Equivalents,2026-03-31,2729090000.0
+ANTHEM,A,balance,Net Debt,2024-03-31,486660000.0
+ANTHEM,A,balance,Ordinary Shares Number,2023-03-31,561610051.0
+ANTHEM,A,balance,Ordinary Shares Number,2024-03-31,561610051.0
+ANTHEM,A,balance,Ordinary Shares Number,2025-03-31,561610051.0
+ANTHEM,A,balance,Ordinary Shares Number,2026-03-31,561713851.0
+ANTHEM,A,balance,Stockholders Equity,2023-03-31,17406680000.0
+ANTHEM,A,balance,Stockholders Equity,2024-03-31,19246550000.0
+ANTHEM,A,balance,Stockholders Equity,2025-03-31,24098640000.0
+ANTHEM,A,balance,Stockholders Equity,2026-03-31,30425160000.0
+ANTHEM,A,balance,Total Assets,2023-03-31,20144580000.0
+ANTHEM,A,balance,Total Assets,2024-03-31,23981140000.0
+ANTHEM,A,balance,Total Assets,2025-03-31,28075830000.0
+ANTHEM,A,balance,Total Assets,2026-03-31,34292900000.0
+ANTHEM,A,balance,Total Debt,2023-03-31,1261510000.0
+ANTHEM,A,balance,Total Debt,2024-03-31,2385170000.0
+ANTHEM,A,balance,Total Debt,2025-03-31,1133170000.0
+ANTHEM,A,balance,Total Debt,2026-03-31,539240000.0
+ANTHEM,A,cashflow,Capital Expenditure,2023-03-31,-1945460000.0
+ANTHEM,A,cashflow,Capital Expenditure,2024-03-31,-2971850000.0
+ANTHEM,A,cashflow,Capital Expenditure,2025-03-31,-2612080000.0
+ANTHEM,A,cashflow,Capital Expenditure,2026-03-31,-2111690000.0
+ANTHEM,A,cashflow,Free Cash Flow,2023-03-31,1114390000.0
+ANTHEM,A,cashflow,Free Cash Flow,2024-03-31,-1570340000.0
+ANTHEM,A,cashflow,Free Cash Flow,2025-03-31,93430000.0
+ANTHEM,A,cashflow,Free Cash Flow,2026-03-31,6333160000.0
+ANTHEM,A,cashflow,Operating Cash Flow,2023-03-31,3059850000.0
+ANTHEM,A,cashflow,Operating Cash Flow,2024-03-31,1401510000.0
+ANTHEM,A,cashflow,Operating Cash Flow,2025-03-31,2705510000.0
+ANTHEM,A,cashflow,Operating Cash Flow,2026-03-31,8444850000.0
+ANTHEM,A,income,Basic EPS,2023-03-31,6.858585
+ANTHEM,A,income,Basic EPS,2024-03-31,6.540303
+ANTHEM,A,income,Basic EPS,2025-03-31,8.035113
+ANTHEM,A,income,Basic EPS,2026-03-31,10.55
+ANTHEM,A,income,Diluted EPS,2023-03-31,6.858585
+ANTHEM,A,income,Diluted EPS,2024-03-31,6.540303
+ANTHEM,A,income,Diluted EPS,2025-03-31,8.035113
+ANTHEM,A,income,Diluted EPS,2026-03-31,10.43
+ANTHEM,A,income,EBITDA,2023-03-31,5692720000.0
+ANTHEM,A,income,EBITDA,2024-03-31,5684180000.0
+ANTHEM,A,income,EBITDA,2025-03-31,7562550000.0
+ANTHEM,A,income,EBITDA,2026-03-31,9648510000.0
+ANTHEM,A,income,Interest Expense,2023-03-31,82010000.0
+ANTHEM,A,income,Interest Expense,2024-03-31,92760000.0
+ANTHEM,A,income,Interest Expense,2025-03-31,100160000.0
+ANTHEM,A,income,Interest Expense,2026-03-31,65410000.0
+ANTHEM,A,income,Net Income,2023-03-31,3851850000.0
+ANTHEM,A,income,Net Income,2024-03-31,3673100000.0
+ANTHEM,A,income,Net Income,2025-03-31,4512600000.0
+ANTHEM,A,income,Net Income,2026-03-31,5917920000.0
+ANTHEM,A,income,Net Income Common Stockholders,2023-03-31,3851850000.0
+ANTHEM,A,income,Net Income Common Stockholders,2024-03-31,3673100000.0
+ANTHEM,A,income,Net Income Common Stockholders,2025-03-31,4512600000.0
+ANTHEM,A,income,Net Income Common Stockholders,2026-03-31,5917920000.0
+ANTHEM,A,income,Operating Income,2023-03-31,3716990000.0
+ANTHEM,A,income,Operating Income,2024-03-31,4246290000.0
+ANTHEM,A,income,Operating Income,2025-03-31,5921470000.0
+ANTHEM,A,income,Operating Income,2026-03-31,7052580000.0
+ANTHEM,A,income,Pretax Income,2023-03-31,4972970000.0
+ANTHEM,A,income,Pretax Income,2024-03-31,4773180000.0
+ANTHEM,A,income,Pretax Income,2025-03-31,6568680000.0
+ANTHEM,A,income,Pretax Income,2026-03-31,8242400000.0
+ANTHEM,A,income,Total Revenue,2023-03-31,10569240000.0
+ANTHEM,A,income,Total Revenue,2024-03-31,14193700000.0
+ANTHEM,A,income,Total Revenue,2025-03-31,18445530000.0
+ANTHEM,A,income,Total Revenue,2026-03-31,21243330000.0
+ANTHEM,Q,income,Basic EPS,2025-09-30,3.09
+ANTHEM,Q,income,Basic EPS,2025-12-31,1.65
+ANTHEM,Q,income,Basic EPS,2026-03-31,3.38
+ANTHEM,Q,income,Basic EPS,2026-06-30,2.13
+ANTHEM,Q,income,Basic EPS,2026-09-30,3.75
+ANTHEM,Q,income,Diluted EPS,2025-09-30,3.06
+ANTHEM,Q,income,Diluted EPS,2025-12-31,1.64
+ANTHEM,Q,income,Diluted EPS,2026-03-31,3.34
+ANTHEM,Q,income,Diluted EPS,2026-06-30,2.11
+ANTHEM,Q,income,Diluted EPS,2026-09-30,3.72
+ANTHEM,Q,income,EBITDA,2025-09-30,2661330000.0
+ANTHEM,Q,income,EBITDA,2025-12-31,1653590000.0
+ANTHEM,Q,income,EBITDA,2026-03-31,3194070000.0
+ANTHEM,Q,income,EBITDA,2026-06-30,1754550000.0
+ANTHEM,Q,income,EBITDA,2026-09-30,3303940000.0
+ANTHEM,Q,income,Interest Expense,2025-09-30,30310000.0
+ANTHEM,Q,income,Interest Expense,2025-12-31,3520000.0
+ANTHEM,Q,income,Interest Expense,2026-03-31,19000000.0
+ANTHEM,Q,income,Interest Expense,2026-06-30,8870000.0
+ANTHEM,Q,income,Interest Expense,2026-09-30,33100000.0
+ANTHEM,Q,income,Net Income,2025-09-30,1734280000.0
+ANTHEM,Q,income,Net Income,2025-12-31,928170000.0
+ANTHEM,Q,income,Net Income,2026-03-31,1897580000.0
+ANTHEM,Q,income,Net Income,2026-06-30,1199410000.0
+ANTHEM,Q,income,Net Income,2026-09-30,2114630000.0
+ANTHEM,Q,income,Net Income Common Stockholders,2025-09-30,1734280000.0
+ANTHEM,Q,income,Net Income Common Stockholders,2025-12-31,928170000.0
+ANTHEM,Q,income,Net Income Common Stockholders,2026-03-31,1897580000.0
+ANTHEM,Q,income,Net Income Common Stockholders,2026-06-30,1199410000.0
+ANTHEM,Q,income,Net Income Common Stockholders,2026-09-30,2114630000.0
+ANTHEM,Q,income,Operating Income,2025-09-30,1844040000.0
+ANTHEM,Q,income,Operating Income,2025-12-31,1226670000.0
+ANTHEM,Q,income,Operating Income,2026-03-31,2276240000.0
+ANTHEM,Q,income,Operating Income,2026-06-30,1205800000.0
+ANTHEM,Q,income,Operating Income,2026-09-30,2407850000.0
+ANTHEM,Q,income,Pretax Income,2025-09-30,2296030000.0
+ANTHEM,Q,income,Pretax Income,2025-12-31,1304740000.0
+ANTHEM,Q,income,Pretax Income,2026-03-31,2779160000.0
+ANTHEM,Q,income,Pretax Income,2026-06-30,1445810000.0
+ANTHEM,Q,income,Pretax Income,2026-09-30,2963730000.0
+ANTHEM,Q,income,Total Revenue,2025-09-30,5500270000.0
+ANTHEM,Q,income,Total Revenue,2025-12-31,4231530000.0
+ANTHEM,Q,income,Total Revenue,2026-03-31,6109430000.0
+ANTHEM,Q,income,Total Revenue,2026-06-30,4182180000.0
+ANTHEM,Q,income,Total Revenue,2026-09-30,5940320000.0

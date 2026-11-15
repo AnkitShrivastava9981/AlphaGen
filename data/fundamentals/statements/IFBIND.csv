@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+IFBIND,A,balance,Cash And Cash Equivalents,2023-03-31,760200000.0
+IFBIND,A,balance,Cash And Cash Equivalents,2024-03-31,1038900000.0
+IFBIND,A,balance,Cash And Cash Equivalents,2025-03-31,1092600000.0
+IFBIND,A,balance,Cash And Cash Equivalents,2026-03-31,1205800000.0
+IFBIND,A,balance,Net Debt,2022-03-31,1682600000.0
+IFBIND,A,balance,Net Debt,2023-03-31,1280700000.0
+IFBIND,A,balance,Ordinary Shares Number,2023-03-31,40518796.0
+IFBIND,A,balance,Ordinary Shares Number,2024-03-31,40518796.0
+IFBIND,A,balance,Ordinary Shares Number,2025-03-31,40518796.0
+IFBIND,A,balance,Ordinary Shares Number,2026-03-31,40518796.0
+IFBIND,A,balance,Stockholders Equity,2023-03-31,6674700000.0
+IFBIND,A,balance,Stockholders Equity,2024-03-31,7176100000.0
+IFBIND,A,balance,Stockholders Equity,2025-03-31,8419900000.0
+IFBIND,A,balance,Stockholders Equity,2026-03-31,9948600000.0
+IFBIND,A,balance,Total Assets,2023-03-31,21067900000.0
+IFBIND,A,balance,Total Assets,2024-03-31,21797900000.0
+IFBIND,A,balance,Total Assets,2025-03-31,23576200000.0
+IFBIND,A,balance,Total Assets,2026-03-31,24837300000.0
+IFBIND,A,balance,Total Debt,2023-03-31,3529600000.0
+IFBIND,A,balance,Total Debt,2024-03-31,1641400000.0
+IFBIND,A,balance,Total Debt,2025-03-31,2500800000.0
+IFBIND,A,balance,Total Debt,2026-03-31,1559000000.0
+IFBIND,A,cashflow,Capital Expenditure,2023-03-31,-666100000.0
+IFBIND,A,cashflow,Capital Expenditure,2024-03-31,-651100000.0
+IFBIND,A,cashflow,Capital Expenditure,2025-03-31,-1066800000.0
+IFBIND,A,cashflow,Capital Expenditure,2026-03-31,-1093300000.0
+IFBIND,A,cashflow,Free Cash Flow,2023-03-31,389200000.0
+IFBIND,A,cashflow,Free Cash Flow,2024-03-31,2854900000.0
+IFBIND,A,cashflow,Free Cash Flow,2025-03-31,113200000.0
+IFBIND,A,cashflow,Free Cash Flow,2026-03-31,1896900000.0
+IFBIND,A,cashflow,Operating Cash Flow,2023-03-31,1055300000.0
+IFBIND,A,cashflow,Operating Cash Flow,2024-03-31,3506000000.0
+IFBIND,A,cashflow,Operating Cash Flow,2025-03-31,1180000000.0
+IFBIND,A,cashflow,Operating Cash Flow,2026-03-31,2990200000.0
+IFBIND,A,income,Basic EPS,2023-03-31,3.69
+IFBIND,A,income,Basic EPS,2024-03-31,12.43
+IFBIND,A,income,Basic EPS,2025-03-31,29.35
+IFBIND,A,income,Basic EPS,2026-03-31,35.43
+IFBIND,A,income,Diluted EPS,2023-03-31,3.69
+IFBIND,A,income,Diluted EPS,2024-03-31,12.43
+IFBIND,A,income,Diluted EPS,2025-03-31,29.35
+IFBIND,A,income,Diluted EPS,2026-03-31,35.43
+IFBIND,A,income,EBITDA,2023-03-31,1826400000.0
+IFBIND,A,income,EBITDA,2024-03-31,2245900000.0
+IFBIND,A,income,EBITDA,2025-03-31,3184800000.0
+IFBIND,A,income,EBITDA,2026-03-31,3352400000.0
+IFBIND,A,income,Interest Expense,2023-03-31,289600000.0
+IFBIND,A,income,Interest Expense,2024-03-31,272100000.0
+IFBIND,A,income,Interest Expense,2025-03-31,231600000.0
+IFBIND,A,income,Interest Expense,2026-03-31,207000000.0
+IFBIND,A,income,Net Income,2023-03-31,149400000.0
+IFBIND,A,income,Net Income,2024-03-31,503600000.0
+IFBIND,A,income,Net Income,2025-03-31,1189100000.0
+IFBIND,A,income,Net Income,2026-03-31,1435600000.0
+IFBIND,A,income,Net Income Common Stockholders,2023-03-31,149400000.0
+IFBIND,A,income,Net Income Common Stockholders,2024-03-31,503600000.0
+IFBIND,A,income,Net Income Common Stockholders,2025-03-31,1189100000.0
+IFBIND,A,income,Net Income Common Stockholders,2026-03-31,1435600000.0
+IFBIND,A,income,Operating Income,2023-03-31,487800000.0
+IFBIND,A,income,Operating Income,2024-03-31,982600000.0
+IFBIND,A,income,Operating Income,2025-03-31,1788700000.0
+IFBIND,A,income,Operating Income,2026-03-31,2041000000.0
+IFBIND,A,income,Pretax Income,2023-03-31,321800000.0
+IFBIND,A,income,Pretax Income,2024-03-31,729900000.0
+IFBIND,A,income,Pretax Income,2025-03-31,1634500000.0
+IFBIND,A,income,Pretax Income,2026-03-31,1924500000.0
+IFBIND,A,income,Total Revenue,2023-03-31,40936900000.0
+IFBIND,A,income,Total Revenue,2024-03-31,43271700000.0
+IFBIND,A,income,Total Revenue,2025-03-31,49657800000.0
+IFBIND,A,income,Total Revenue,2026-03-31,54886500000.0
+IFBIND,Q,income,Basic EPS,2025-06-30,6.46
+IFBIND,Q,income,Basic EPS,2025-12-31,5.91
+IFBIND,Q,income,Basic EPS,2026-03-31,10.53
+IFBIND,Q,income,Basic EPS,2026-06-30,10.62
+IFBIND,Q,income,Basic EPS,2026-09-30,9.47
+IFBIND,Q,income,Diluted EPS,2025-06-30,6.46
+IFBIND,Q,income,Diluted EPS,2025-12-31,5.91
+IFBIND,Q,income,Diluted EPS,2026-03-31,10.53
+IFBIND,Q,income,Diluted EPS,2026-06-30,10.62
+IFBIND,Q,income,Diluted EPS,2026-09-30,9.47
+IFBIND,Q,income,EBITDA,2025-06-30,671700000.0
+IFBIND,Q,income,EBITDA,2025-12-31,633900000.0
+IFBIND,Q,income,EBITDA,2026-03-31,868500000.0
+IFBIND,Q,income,EBITDA,2026-06-30,903800000.0
+IFBIND,Q,income,EBITDA,2026-09-30,870500000.0
+IFBIND,Q,income,Interest Expense,2025-06-30,13900000.0
+IFBIND,Q,income,Interest Expense,2025-12-31,4600000.0
+IFBIND,Q,income,Interest Expense,2026-03-31,9500000.0
+IFBIND,Q,income,Interest Expense,2026-06-30,2500000.0
+IFBIND,Q,income,Interest Expense,2026-09-30,2000000.0
+IFBIND,Q,income,Net Income,2025-06-30,261600000.0
+IFBIND,Q,income,Net Income,2025-12-31,239400000.0
+IFBIND,Q,income,Net Income,2026-03-31,426700000.0
+IFBIND,Q,income,Net Income,2026-06-30,430500000.0
+IFBIND,Q,income,Net Income,2026-09-30,383400000.0
+IFBIND,Q,income,Net Income Common Stockholders,2025-06-30,261600000.0
+IFBIND,Q,income,Net Income Common Stockholders,2025-12-31,239400000.0
+IFBIND,Q,income,Net Income Common Stockholders,2026-03-31,426700000.0
+IFBIND,Q,income,Net Income Common Stockholders,2026-06-30,430500000.0
+IFBIND,Q,income,Net Income Common Stockholders,2026-09-30,383400000.0
+IFBIND,Q,income,Operating Income,2025-06-30,324700000.0
+IFBIND,Q,income,Operating Income,2025-12-31,450900000.0
+IFBIND,Q,income,Operating Income,2026-03-31,485800000.0
+IFBIND,Q,income,Operating Income,2026-06-30,559200000.0
+IFBIND,Q,income,Operating Income,2026-09-30,575200000.0
+IFBIND,Q,income,Pretax Income,2025-06-30,350400000.0
+IFBIND,Q,income,Pretax Income,2025-12-31,315800000.0
+IFBIND,Q,income,Pretax Income,2026-03-31,557900000.0
+IFBIND,Q,income,Pretax Income,2026-06-30,572000000.0
+IFBIND,Q,income,Pretax Income,2026-09-30,536700000.0
+IFBIND,Q,income,Total Revenue,2025-06-30,13383100000.0
+IFBIND,Q,income,Total Revenue,2025-12-31,14125400000.0
+IFBIND,Q,income,Total Revenue,2026-03-31,14982000000.0
+IFBIND,Q,income,Total Revenue,2026-06-30,15847400000.0
+IFBIND,Q,income,Total Revenue,2026-09-30,15757800000.0

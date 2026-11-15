@@ -1,0 +1,76 @@
+symbol,freq,statement,item,period_end,value
+GROWW,A,balance,Cash And Cash Equivalents,2026-03-31,11654670000.0
+GROWW,A,balance,Ordinary Shares Number,2023-03-31,6173596631.0
+GROWW,A,balance,Ordinary Shares Number,2024-03-31,6173596631.0
+GROWW,A,balance,Ordinary Shares Number,2025-03-31,6173596631.0
+GROWW,A,balance,Ordinary Shares Number,2026-03-31,6191576922.0
+GROWW,A,balance,Stockholders Equity,2026-03-31,96513550000.0
+GROWW,A,balance,Total Assets,2026-03-31,185409230000.0
+GROWW,A,balance,Total Debt,2026-03-31,2922250000.0
+GROWW,A,cashflow,Capital Expenditure,2026-03-31,-120790000.0
+GROWW,A,cashflow,Free Cash Flow,2026-03-31,-326820000.0
+GROWW,A,cashflow,Operating Cash Flow,2026-03-31,-206030000.0
+GROWW,A,income,Basic EPS,2023-03-31,0.741323
+GROWW,A,income,Basic EPS,2024-03-31,-1.303844
+GROWW,A,income,Basic EPS,2025-03-31,3.34
+GROWW,A,income,Basic EPS,2026-03-31,3.47
+GROWW,A,income,Diluted EPS,2023-03-31,0.741323
+GROWW,A,income,Diluted EPS,2024-03-31,-1.303844
+GROWW,A,income,Diluted EPS,2025-03-31,3.19
+GROWW,A,income,Diluted EPS,2026-03-31,3.4
+GROWW,A,income,EBITDA,2025-03-31,25288350000.0
+GROWW,A,income,EBITDA,2026-03-31,29128070000.0
+GROWW,A,income,Interest Expense,2025-03-31,404530000.0
+GROWW,A,income,Interest Expense,2026-03-31,435240000.0
+GROWW,A,income,Net Income,2026-03-31,20830000000.0
+GROWW,A,income,Net Income Common Stockholders,2026-03-31,20830000000.0
+GROWW,A,income,Operating Income,2025-03-31,21036680000.0
+GROWW,A,income,Operating Income,2026-03-31,24647130000.0
+GROWW,A,income,Pretax Income,2026-03-31,28214110000.0
+GROWW,A,income,Total Revenue,2025-03-31,35817370000.0
+GROWW,A,income,Total Revenue,2026-03-31,42703780000.0
+GROWW,Q,income,Basic EPS,2025-09-30,0.763477
+GROWW,Q,income,Basic EPS,2025-12-31,0.89
+GROWW,Q,income,Basic EPS,2026-03-31,1.11
+GROWW,Q,income,Basic EPS,2026-06-30,1.19
+GROWW,Q,income,Basic EPS,2026-09-30,1.17
+GROWW,Q,income,Diluted EPS,2025-09-30,0.763477
+GROWW,Q,income,Diluted EPS,2025-12-31,0.87
+GROWW,Q,income,Diluted EPS,2026-03-31,1.09
+GROWW,Q,income,Diluted EPS,2026-06-30,1.17
+GROWW,Q,income,Diluted EPS,2026-09-30,1.15
+GROWW,Q,income,EBITDA,2025-09-30,6555110000.0
+GROWW,Q,income,EBITDA,2025-12-31,7648230000.0
+GROWW,Q,income,EBITDA,2026-03-31,9681530000.0
+GROWW,Q,income,EBITDA,2026-06-30,10172100000.0
+GROWW,Q,income,EBITDA,2026-09-30,10067700000.0
+GROWW,Q,income,Interest Expense,2025-09-30,110300000.0
+GROWW,Q,income,Interest Expense,2025-12-31,104960000.0
+GROWW,Q,income,Interest Expense,2026-03-31,80020000.0
+GROWW,Q,income,Interest Expense,2026-06-30,73100000.0
+GROWW,Q,income,Interest Expense,2026-09-30,47100000.0
+GROWW,Q,income,Net Income,2025-09-30,4713400000.0
+GROWW,Q,income,Net Income,2025-12-31,5469330000.0
+GROWW,Q,income,Net Income,2026-03-31,6863540000.0
+GROWW,Q,income,Net Income,2026-06-30,7350400000.0
+GROWW,Q,income,Net Income,2026-09-30,7256500000.0
+GROWW,Q,income,Net Income Common Stockholders,2025-09-30,4713400000.0
+GROWW,Q,income,Net Income Common Stockholders,2025-12-31,5469330000.0
+GROWW,Q,income,Net Income Common Stockholders,2026-03-31,6863540000.0
+GROWW,Q,income,Net Income Common Stockholders,2026-06-30,7350400000.0
+GROWW,Q,income,Net Income Common Stockholders,2026-09-30,7256500000.0
+GROWW,Q,income,Operating Income,2025-09-30,5971700000.0
+GROWW,Q,income,Operating Income,2025-12-31,7110130000.0
+GROWW,Q,income,Operating Income,2026-03-31,9141900000.0
+GROWW,Q,income,Operating Income,2026-06-30,9530500000.0
+GROWW,Q,income,Operating Income,2026-09-30,9503100000.0
+GROWW,Q,income,Pretax Income,2025-09-30,6376800000.0
+GROWW,Q,income,Pretax Income,2025-12-31,7448520000.0
+GROWW,Q,income,Pretax Income,2026-03-31,9356960000.0
+GROWW,Q,income,Pretax Income,2026-06-30,9922700000.0
+GROWW,Q,income,Pretax Income,2026-09-30,9838600000.0
+GROWW,Q,income,Total Revenue,2025-09-30,10187400000.0
+GROWW,Q,income,Total Revenue,2025-12-31,12160720000.0
+GROWW,Q,income,Total Revenue,2026-03-31,15053670000.0
+GROWW,Q,income,Total Revenue,2026-06-30,15014200000.0
+GROWW,Q,income,Total Revenue,2026-09-30,15015300000.0

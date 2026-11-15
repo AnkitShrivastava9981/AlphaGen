@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+BIRET,A,balance,Cash And Cash Equivalents,2023-03-31,2096550000.0
+BIRET,A,balance,Cash And Cash Equivalents,2024-03-31,3784070000.0
+BIRET,A,balance,Cash And Cash Equivalents,2025-03-31,5746490000.0
+BIRET,A,balance,Cash And Cash Equivalents,2026-03-31,6742180000.0
+BIRET,A,balance,Net Debt,2023-03-31,52423830000.0
+BIRET,A,balance,Net Debt,2024-03-31,116778890000.0
+BIRET,A,balance,Net Debt,2025-03-31,84838760000.0
+BIRET,A,balance,Net Debt,2026-03-31,157585640000.0
+BIRET,A,balance,Ordinary Shares Number,2023-03-31,335087073.0
+BIRET,A,balance,Ordinary Shares Number,2024-03-31,439085222.0
+BIRET,A,balance,Ordinary Shares Number,2025-03-31,607752448.0
+BIRET,A,balance,Ordinary Shares Number,2026-03-31,749385513.0
+BIRET,A,balance,Stockholders Equity,2023-03-31,83337380000.0
+BIRET,A,balance,Stockholders Equity,2024-03-31,101241590000.0
+BIRET,A,balance,Stockholders Equity,2025-03-31,140299200000.0
+BIRET,A,balance,Stockholders Equity,2026-03-31,175259070000.0
+BIRET,A,balance,Total Assets,2023-03-31,146406980000.0
+BIRET,A,balance,Total Assets,2024-03-31,255385330000.0
+BIRET,A,balance,Total Assets,2025-03-31,265877760000.0
+BIRET,A,balance,Total Assets,2026-03-31,394156240000.0
+BIRET,A,balance,Total Debt,2023-03-31,55083700000.0
+BIRET,A,balance,Total Debt,2024-03-31,121126360000.0
+BIRET,A,balance,Total Debt,2025-03-31,90832880000.0
+BIRET,A,balance,Total Debt,2026-03-31,165826220000.0
+BIRET,A,cashflow,Capital Expenditure,2023-03-31,-1220240000.0
+BIRET,A,cashflow,Capital Expenditure,2024-03-31,-1684840000.0
+BIRET,A,cashflow,Capital Expenditure,2025-03-31,-2777590000.0
+BIRET,A,cashflow,Capital Expenditure,2026-03-31,-2907040000.0
+BIRET,A,cashflow,Free Cash Flow,2023-03-31,8310930000.0
+BIRET,A,cashflow,Free Cash Flow,2024-03-31,11136170000.0
+BIRET,A,cashflow,Free Cash Flow,2025-03-31,15632710000.0
+BIRET,A,cashflow,Free Cash Flow,2026-03-31,19947200000.0
+BIRET,A,cashflow,Operating Cash Flow,2023-03-31,9531170000.0
+BIRET,A,cashflow,Operating Cash Flow,2024-03-31,12821010000.0
+BIRET,A,cashflow,Operating Cash Flow,2025-03-31,18410300000.0
+BIRET,A,cashflow,Operating Cash Flow,2026-03-31,22854240000.0
+BIRET,A,income,Basic EPS,2023-03-31,3.92
+BIRET,A,income,Basic EPS,2024-03-31,3.92
+BIRET,A,income,Basic EPS,2025-03-31,3.63
+BIRET,A,income,Basic EPS,2026-03-31,7.29
+BIRET,A,income,Diluted EPS,2023-03-31,3.92
+BIRET,A,income,Diluted EPS,2024-03-31,3.92
+BIRET,A,income,Diluted EPS,2025-03-31,3.63
+BIRET,A,income,Diluted EPS,2026-03-31,7.29
+BIRET,A,income,EBITDA,2023-03-31,8480490000.0
+BIRET,A,income,EBITDA,2024-03-31,13176650000.0
+BIRET,A,income,EBITDA,2025-03-31,17575720000.0
+BIRET,A,income,EBITDA,2026-03-31,22026020000.0
+BIRET,A,income,Interest Expense,2023-03-31,4324570000.0
+BIRET,A,income,Interest Expense,2024-03-31,8522450000.0
+BIRET,A,income,Interest Expense,2025-03-31,10781770000.0
+BIRET,A,income,Interest Expense,2026-03-31,9747810000.0
+BIRET,A,income,Net Income,2023-03-31,1312320000.0
+BIRET,A,income,Net Income,2024-03-31,121100000.0
+BIRET,A,income,Net Income,2025-03-31,1847600000.0
+BIRET,A,income,Net Income,2026-03-31,4812300000.0
+BIRET,A,income,Net Income Common Stockholders,2023-03-31,1312320000.0
+BIRET,A,income,Net Income Common Stockholders,2024-03-31,121100000.0
+BIRET,A,income,Net Income Common Stockholders,2025-03-31,1847600000.0
+BIRET,A,income,Net Income Common Stockholders,2026-03-31,4812300000.0
+BIRET,A,income,Operating Income,2023-03-31,5442780000.0
+BIRET,A,income,Operating Income,2024-03-31,8509450000.0
+BIRET,A,income,Operating Income,2025-03-31,13184080000.0
+BIRET,A,income,Operating Income,2026-03-31,16929120000.0
+BIRET,A,income,Pretax Income,2023-03-31,1403900000.0
+BIRET,A,income,Pretax Income,2024-03-31,542110000.0
+BIRET,A,income,Pretax Income,2025-03-31,2495020000.0
+BIRET,A,income,Pretax Income,2026-03-31,7584190000.0
+BIRET,A,income,Total Revenue,2023-03-31,11969990000.0
+BIRET,A,income,Total Revenue,2024-03-31,17870680000.0
+BIRET,A,income,Total Revenue,2025-03-31,23899980000.0
+BIRET,A,income,Total Revenue,2026-03-31,29711440000.0
+BIRET,Q,income,Basic EPS,2025-06-30,2.05
+BIRET,Q,income,Basic EPS,2025-12-31,2.71
+BIRET,Q,income,Basic EPS,2026-06-30,2.22
+BIRET,Q,income,Basic EPS,2026-09-30,2.89
+BIRET,Q,income,Diluted EPS,2025-06-30,2.05
+BIRET,Q,income,Diluted EPS,2025-12-31,2.71
+BIRET,Q,income,Diluted EPS,2026-06-30,2.22
+BIRET,Q,income,Diluted EPS,2026-09-30,2.89
+BIRET,Q,income,EBITDA,2025-06-30,4622500000.0
+BIRET,Q,income,EBITDA,2025-12-31,5283660000.0
+BIRET,Q,income,EBITDA,2026-03-31,7237760000.0
+BIRET,Q,income,EBITDA,2026-06-30,7581360000.0
+BIRET,Q,income,EBITDA,2026-09-30,6997350000.0
+BIRET,Q,income,Interest Expense,2025-06-30,2047480000.0
+BIRET,Q,income,Interest Expense,2025-12-31,2123700000.0
+BIRET,Q,income,Interest Expense,2026-03-31,3554400000.0
+BIRET,Q,income,Interest Expense,2026-06-30,3378110000.0
+BIRET,Q,income,Interest Expense,2026-09-30,3167240000.0
+BIRET,Q,income,Net Income,2025-06-30,1245590000.0
+BIRET,Q,income,Net Income,2025-12-31,1803220000.0
+BIRET,Q,income,Net Income,2026-03-31,368890000.0
+BIRET,Q,income,Net Income,2026-06-30,1798050000.0
+BIRET,Q,income,Net Income,2026-09-30,2400830000.0
+BIRET,Q,income,Net Income Common Stockholders,2025-06-30,1245590000.0
+BIRET,Q,income,Net Income Common Stockholders,2025-12-31,1803220000.0
+BIRET,Q,income,Net Income Common Stockholders,2026-03-31,368890000.0
+BIRET,Q,income,Net Income Common Stockholders,2026-06-30,1798050000.0
+BIRET,Q,income,Net Income Common Stockholders,2026-09-30,2400830000.0
+BIRET,Q,income,Operating Income,2025-06-30,3609990000.0
+BIRET,Q,income,Operating Income,2025-12-31,3916620000.0
+BIRET,Q,income,Operating Income,2026-03-31,5663030000.0
+BIRET,Q,income,Operating Income,2026-06-30,5706000000.0
+BIRET,Q,income,Operating Income,2026-09-30,5939620000.0
+BIRET,Q,income,Pretax Income,2025-06-30,1527380000.0
+BIRET,Q,income,Pretax Income,2025-12-31,2032230000.0
+BIRET,Q,income,Pretax Income,2026-03-31,2233850000.0
+BIRET,Q,income,Pretax Income,2026-06-30,2783480000.0
+BIRET,Q,income,Pretax Income,2026-09-30,2381300000.0
+BIRET,Q,income,Total Revenue,2025-09-30,6719370000.0
+BIRET,Q,income,Total Revenue,2025-12-31,6904370000.0
+BIRET,Q,income,Total Revenue,2026-03-31,9684590000.0
+BIRET,Q,income,Total Revenue,2026-06-30,9738260000.0
+BIRET,Q,income,Total Revenue,2026-09-30,9963650000.0

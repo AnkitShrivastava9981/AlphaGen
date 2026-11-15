@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KEC,A,balance,Cash And Cash Equivalents,2023-03-31,2736700000.0
+KEC,A,balance,Cash And Cash Equivalents,2024-03-31,2036000000.0
+KEC,A,balance,Cash And Cash Equivalents,2025-03-31,5422100000.0
+KEC,A,balance,Cash And Cash Equivalents,2026-03-31,4085200000.0
+KEC,A,balance,Net Debt,2023-03-31,29207800000.0
+KEC,A,balance,Net Debt,2024-03-31,35846800000.0
+KEC,A,balance,Net Debt,2025-03-31,31588900000.0
+KEC,A,balance,Net Debt,2026-03-31,46947100000.0
+KEC,A,balance,Ordinary Shares Number,2023-03-31,257088370.0
+KEC,A,balance,Ordinary Shares Number,2024-03-31,257088370.0
+KEC,A,balance,Ordinary Shares Number,2025-03-31,266200000.0
+KEC,A,balance,Ordinary Shares Number,2026-03-31,266200000.0
+KEC,A,balance,Stockholders Equity,2023-03-31,37714300000.0
+KEC,A,balance,Stockholders Equity,2024-03-31,40957000000.0
+KEC,A,balance,Stockholders Equity,2025-03-31,53474500000.0
+KEC,A,balance,Stockholders Equity,2026-03-31,61596900000.0
+KEC,A,balance,Total Assets,2023-03-31,172785900000.0
+KEC,A,balance,Total Assets,2024-03-31,190314700000.0
+KEC,A,balance,Total Assets,2025-03-31,221799200000.0
+KEC,A,balance,Total Assets,2026-03-31,251580600000.0
+KEC,A,balance,Total Debt,2023-03-31,33833700000.0
+KEC,A,balance,Total Debt,2024-03-31,39609900000.0
+KEC,A,balance,Total Debt,2025-03-31,39574800000.0
+KEC,A,balance,Total Debt,2026-03-31,53777600000.0
+KEC,A,cashflow,Capital Expenditure,2023-03-31,-1782900000.0
+KEC,A,cashflow,Capital Expenditure,2024-03-31,-2373800000.0
+KEC,A,cashflow,Capital Expenditure,2025-03-31,-1825200000.0
+KEC,A,cashflow,Capital Expenditure,2026-03-31,-3286800000.0
+KEC,A,cashflow,Free Cash Flow,2023-03-31,4354500000.0
+KEC,A,cashflow,Free Cash Flow,2024-03-31,737500000.0
+KEC,A,cashflow,Free Cash Flow,2025-03-31,2365500000.0
+KEC,A,cashflow,Free Cash Flow,2026-03-31,-7428100000.0
+KEC,A,cashflow,Operating Cash Flow,2023-03-31,6137400000.0
+KEC,A,cashflow,Operating Cash Flow,2024-03-31,3111300000.0
+KEC,A,cashflow,Operating Cash Flow,2025-03-31,4190700000.0
+KEC,A,cashflow,Operating Cash Flow,2026-03-31,-4141300000.0
+KEC,A,income,Basic EPS,2023-03-31,6.85
+KEC,A,income,Basic EPS,2024-03-31,13.49
+KEC,A,income,Basic EPS,2025-03-31,21.8
+KEC,A,income,Basic EPS,2026-03-31,22.75
+KEC,A,income,Diluted EPS,2023-03-31,6.85
+KEC,A,income,Diluted EPS,2024-03-31,13.49
+KEC,A,income,Diluted EPS,2025-03-31,21.8
+KEC,A,income,Diluted EPS,2026-03-31,22.75
+KEC,A,income,EBITDA,2023-03-31,8565000000.0
+KEC,A,income,EBITDA,2024-03-31,12618200000.0
+KEC,A,income,EBITDA,2025-03-31,15643600000.0
+KEC,A,income,EBITDA,2026-03-31,16403500000.0
+KEC,A,income,Interest Expense,2023-03-31,5340400000.0
+KEC,A,income,Interest Expense,2024-03-31,6499700000.0
+KEC,A,income,Interest Expense,2025-03-31,6531900000.0
+KEC,A,income,Interest Expense,2026-03-31,6538300000.0
+KEC,A,income,Net Income,2023-03-31,1760300000.0
+KEC,A,income,Net Income,2024-03-31,3467800000.0
+KEC,A,income,Net Income,2025-03-31,5707400000.0
+KEC,A,income,Net Income,2026-03-31,6055900000.0
+KEC,A,income,Net Income Common Stockholders,2023-03-31,1760300000.0
+KEC,A,income,Net Income Common Stockholders,2024-03-31,3467800000.0
+KEC,A,income,Net Income Common Stockholders,2025-03-31,5707400000.0
+KEC,A,income,Net Income Common Stockholders,2026-03-31,6055900000.0
+KEC,A,income,Operating Income,2023-03-31,7865500000.0
+KEC,A,income,Operating Income,2024-03-31,11907800000.0
+KEC,A,income,Operating Income,2025-03-31,15453800000.0
+KEC,A,income,Operating Income,2026-03-31,17503900000.0
+KEC,A,income,Pretax Income,2023-03-31,1609800000.0
+KEC,A,income,Pretax Income,2024-03-31,4264900000.0
+KEC,A,income,Pretax Income,2025-03-31,7274900000.0
+KEC,A,income,Pretax Income,2026-03-31,7891400000.0
+KEC,A,income,Total Revenue,2023-03-31,169968000000.0
+KEC,A,income,Total Revenue,2024-03-31,195953400000.0
+KEC,A,income,Total Revenue,2025-03-31,215365900000.0
+KEC,A,income,Total Revenue,2026-03-31,233013200000.0
+KEC,Q,income,Basic EPS,2025-09-30,6.04
+KEC,Q,income,Basic EPS,2025-12-31,4.79
+KEC,Q,income,Basic EPS,2026-03-31,7.24
+KEC,Q,income,Basic EPS,2026-06-30,2.73
+KEC,Q,income,Basic EPS,2026-09-30,1.12
+KEC,Q,income,Diluted EPS,2025-09-30,6.04
+KEC,Q,income,Diluted EPS,2025-12-31,4.79
+KEC,Q,income,Diluted EPS,2026-03-31,7.24
+KEC,Q,income,Diluted EPS,2026-06-30,2.73
+KEC,Q,income,Diluted EPS,2026-09-30,1.12
+KEC,Q,income,EBITDA,2025-09-30,4350400000.0
+KEC,Q,income,EBITDA,2025-12-31,3814400000.0
+KEC,Q,income,EBITDA,2026-03-31,4781600000.0
+KEC,Q,income,EBITDA,2026-06-30,3047500000.0
+KEC,Q,income,EBITDA,2026-09-30,2845500000.0
+KEC,Q,income,Interest Expense,2025-09-30,1714900000.0
+KEC,Q,income,Interest Expense,2025-12-31,1711400000.0
+KEC,Q,income,Interest Expense,2026-03-31,1698500000.0
+KEC,Q,income,Interest Expense,2026-06-30,1640300000.0
+KEC,Q,income,Interest Expense,2026-09-30,1906600000.0
+KEC,Q,income,Net Income,2025-09-30,1607500000.0
+KEC,Q,income,Net Income,2025-12-31,1274600000.0
+KEC,Q,income,Net Income,2026-03-31,1927900000.0
+KEC,Q,income,Net Income,2026-06-30,726200000.0
+KEC,Q,income,Net Income,2026-09-30,297400000.0
+KEC,Q,income,Net Income Common Stockholders,2025-09-30,1607500000.0
+KEC,Q,income,Net Income Common Stockholders,2025-12-31,1274600000.0
+KEC,Q,income,Net Income Common Stockholders,2026-03-31,1927900000.0
+KEC,Q,income,Net Income Common Stockholders,2026-06-30,726200000.0
+KEC,Q,income,Net Income Common Stockholders,2026-09-30,297400000.0
+KEC,Q,income,Operating Income,2025-09-30,3798400000.0
+KEC,Q,income,Operating Income,2025-12-31,3796200000.0
+KEC,Q,income,Operating Income,2026-03-31,3974900000.0
+KEC,Q,income,Operating Income,2026-06-30,2399900000.0
+KEC,Q,income,Operating Income,2026-09-30,2182700000.0
+KEC,Q,income,Pretax Income,2025-09-30,2129800000.0
+KEC,Q,income,Pretax Income,2025-12-31,1599300000.0
+KEC,Q,income,Pretax Income,2026-03-31,2577300000.0
+KEC,Q,income,Pretax Income,2026-06-30,899000000.0
+KEC,Q,income,Pretax Income,2026-09-30,408800000.0
+KEC,Q,income,Total Revenue,2025-09-30,60915600000.0
+KEC,Q,income,Total Revenue,2025-12-31,60013500000.0
+KEC,Q,income,Total Revenue,2026-03-31,63897500000.0
+KEC,Q,income,Total Revenue,2026-06-30,50235400000.0
+KEC,Q,income,Total Revenue,2026-09-30,54677100000.0

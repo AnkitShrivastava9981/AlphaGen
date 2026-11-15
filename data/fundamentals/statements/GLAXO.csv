@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+GLAXO,A,balance,Cash And Cash Equivalents,2023-03-31,349409000.0
+GLAXO,A,balance,Cash And Cash Equivalents,2024-03-31,641712000.0
+GLAXO,A,balance,Cash And Cash Equivalents,2025-03-31,5388477000.0
+GLAXO,A,balance,Cash And Cash Equivalents,2026-03-31,11020506000.0
+GLAXO,A,balance,Ordinary Shares Number,2023-03-31,169406034.0
+GLAXO,A,balance,Ordinary Shares Number,2024-03-31,169406034.0
+GLAXO,A,balance,Ordinary Shares Number,2025-03-31,169406034.0
+GLAXO,A,balance,Ordinary Shares Number,2026-03-31,169406034.0
+GLAXO,A,balance,Stockholders Equity,2023-03-31,17412730000.0
+GLAXO,A,balance,Stockholders Equity,2024-03-31,17776397000.0
+GLAXO,A,balance,Stockholders Equity,2025-03-31,19513107000.0
+GLAXO,A,balance,Stockholders Equity,2026-03-31,22674132000.0
+GLAXO,A,balance,Total Assets,2023-03-31,33265848000.0
+GLAXO,A,balance,Total Assets,2024-03-31,35566175000.0
+GLAXO,A,balance,Total Assets,2025-03-31,41080655000.0
+GLAXO,A,balance,Total Assets,2026-03-31,43238664000.0
+GLAXO,A,balance,Total Debt,2023-03-31,155392000.0
+GLAXO,A,balance,Total Debt,2024-03-31,186650000.0
+GLAXO,A,balance,Total Debt,2025-03-31,99512000.0
+GLAXO,A,balance,Total Debt,2026-03-31,332722000.0
+GLAXO,A,cashflow,Capital Expenditure,2023-03-31,-440391000.0
+GLAXO,A,cashflow,Capital Expenditure,2024-03-31,-312215000.0
+GLAXO,A,cashflow,Capital Expenditure,2025-03-31,-247216000.0
+GLAXO,A,cashflow,Capital Expenditure,2026-03-31,-552792000.0
+GLAXO,A,cashflow,Free Cash Flow,2023-03-31,4401863000.0
+GLAXO,A,cashflow,Free Cash Flow,2024-03-31,5507940000.0
+GLAXO,A,cashflow,Free Cash Flow,2025-03-31,12651758000.0
+GLAXO,A,cashflow,Free Cash Flow,2026-03-31,8480204000.0
+GLAXO,A,cashflow,Operating Cash Flow,2023-03-31,4842254000.0
+GLAXO,A,cashflow,Operating Cash Flow,2024-03-31,5820155000.0
+GLAXO,A,cashflow,Operating Cash Flow,2025-03-31,12898974000.0
+GLAXO,A,cashflow,Operating Cash Flow,2026-03-31,9032996000.0
+GLAXO,A,income,Basic EPS,2023-03-31,36.05
+GLAXO,A,income,Basic EPS,2024-03-31,34.83
+GLAXO,A,income,Basic EPS,2025-03-31,54.76
+GLAXO,A,income,Basic EPS,2026-03-31,61.15
+GLAXO,A,income,Diluted EPS,2023-03-31,36.05
+GLAXO,A,income,Diluted EPS,2024-03-31,34.83
+GLAXO,A,income,Diluted EPS,2025-03-31,54.76
+GLAXO,A,income,Diluted EPS,2026-03-31,61.15
+GLAXO,A,income,EBITDA,2023-03-31,9039794000.0
+GLAXO,A,income,EBITDA,2024-03-31,8876662000.0
+GLAXO,A,income,EBITDA,2025-03-31,13279846000.0
+GLAXO,A,income,EBITDA,2026-03-31,14751894000.0
+GLAXO,A,income,Interest Expense,2023-03-31,18122000.0
+GLAXO,A,income,Interest Expense,2024-03-31,17987000.0
+GLAXO,A,income,Interest Expense,2025-03-31,13137000.0
+GLAXO,A,income,Interest Expense,2026-03-31,27323000.0
+GLAXO,A,income,Net Income,2023-03-31,6106868000.0
+GLAXO,A,income,Net Income,2024-03-31,5899610000.0
+GLAXO,A,income,Net Income,2025-03-31,9275829000.0
+GLAXO,A,income,Net Income,2026-03-31,10359824000.0
+GLAXO,A,income,Net Income Common Stockholders,2023-03-31,6106868000.0
+GLAXO,A,income,Net Income Common Stockholders,2024-03-31,5899610000.0
+GLAXO,A,income,Net Income Common Stockholders,2025-03-31,9275829000.0
+GLAXO,A,income,Net Income Common Stockholders,2026-03-31,10359824000.0
+GLAXO,A,income,Operating Income,2023-03-31,7484264000.0
+GLAXO,A,income,Operating Income,2024-03-31,8384856000.0
+GLAXO,A,income,Operating Income,2025-03-31,11143497000.0
+GLAXO,A,income,Operating Income,2026-03-31,12475698000.0
+GLAXO,A,income,Pretax Income,2023-03-31,8364000000.0
+GLAXO,A,income,Pretax Income,2024-03-31,8161879000.0
+GLAXO,A,income,Pretax Income,2025-03-31,12598784000.0
+GLAXO,A,income,Pretax Income,2026-03-31,14060130000.0
+GLAXO,A,income,Total Revenue,2023-03-31,32263787000.0
+GLAXO,A,income,Total Revenue,2024-03-31,34417708000.0
+GLAXO,A,income,Total Revenue,2025-03-31,37260347000.0
+GLAXO,A,income,Total Revenue,2026-03-31,38075535000.0
+GLAXO,Q,income,Basic EPS,2025-09-30,15.07
+GLAXO,Q,income,Basic EPS,2025-12-31,17.45
+GLAXO,Q,income,Basic EPS,2026-03-31,16.4
+GLAXO,Q,income,Basic EPS,2026-06-30,14.0
+GLAXO,Q,income,Basic EPS,2026-09-30,19.83
+GLAXO,Q,income,Diluted EPS,2025-09-30,15.07
+GLAXO,Q,income,Diluted EPS,2025-12-31,17.45
+GLAXO,Q,income,Diluted EPS,2026-03-31,16.4
+GLAXO,Q,income,Diluted EPS,2026-06-30,14.0
+GLAXO,Q,income,Diluted EPS,2026-09-30,19.83
+GLAXO,Q,income,EBITDA,2025-06-30,2949200000.0
+GLAXO,Q,income,EBITDA,2025-12-31,4214400000.0
+GLAXO,Q,income,EBITDA,2026-03-31,3868800000.0
+GLAXO,Q,income,EBITDA,2026-06-30,3392600000.0
+GLAXO,Q,income,EBITDA,2026-09-30,4748500000.0
+GLAXO,Q,income,Interest Expense,2025-06-30,4200000.0
+GLAXO,Q,income,Interest Expense,2025-12-31,11900000.0
+GLAXO,Q,income,Interest Expense,2026-03-31,6100000.0
+GLAXO,Q,income,Interest Expense,2026-06-30,9700000.0
+GLAXO,Q,income,Interest Expense,2026-09-30,4900000.0
+GLAXO,Q,income,Net Income,2025-06-30,2050100000.0
+GLAXO,Q,income,Net Income,2025-12-31,2956200000.0
+GLAXO,Q,income,Net Income,2026-03-31,2778600000.0
+GLAXO,Q,income,Net Income,2026-06-30,2371800000.0
+GLAXO,Q,income,Net Income,2026-09-30,3358800000.0
+GLAXO,Q,income,Net Income Common Stockholders,2025-06-30,2050100000.0
+GLAXO,Q,income,Net Income Common Stockholders,2025-12-31,2956200000.0
+GLAXO,Q,income,Net Income Common Stockholders,2026-03-31,2778600000.0
+GLAXO,Q,income,Net Income Common Stockholders,2026-06-30,2371800000.0
+GLAXO,Q,income,Net Income Common Stockholders,2026-09-30,3358800000.0
+GLAXO,Q,income,Operating Income,2025-06-30,2356800000.0
+GLAXO,Q,income,Operating Income,2025-12-31,3510200000.0
+GLAXO,Q,income,Operating Income,2026-03-31,3377600000.0
+GLAXO,Q,income,Operating Income,2026-06-30,2796600000.0
+GLAXO,Q,income,Operating Income,2026-09-30,3870500000.0
+GLAXO,Q,income,Pretax Income,2025-06-30,2789800000.0
+GLAXO,Q,income,Pretax Income,2025-12-31,3999300000.0
+GLAXO,Q,income,Pretax Income,2026-03-31,3731000000.0
+GLAXO,Q,income,Pretax Income,2026-06-30,3224500000.0
+GLAXO,Q,income,Pretax Income,2026-09-30,4593400000.0
+GLAXO,Q,income,Total Revenue,2025-06-30,8051700000.0
+GLAXO,Q,income,Total Revenue,2025-12-31,10412600000.0
+GLAXO,Q,income,Total Revenue,2026-03-31,9953000000.0
+GLAXO,Q,income,Total Revenue,2026-06-30,9384400000.0
+GLAXO,Q,income,Total Revenue,2026-09-30,11835700000.0

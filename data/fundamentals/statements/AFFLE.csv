@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+AFFLE,A,balance,Cash And Cash Equivalents,2023-03-31,1713870000.0
+AFFLE,A,balance,Cash And Cash Equivalents,2024-03-31,8051010000.0
+AFFLE,A,balance,Cash And Cash Equivalents,2025-03-31,10474810000.0
+AFFLE,A,balance,Cash And Cash Equivalents,2026-03-31,12074350000.0
+AFFLE,A,balance,Net Debt,2022-03-31,151860000.0
+AFFLE,A,balance,Ordinary Shares Number,2023-03-31,133251060.0
+AFFLE,A,balance,Ordinary Shares Number,2024-03-31,140104422.0
+AFFLE,A,balance,Ordinary Shares Number,2025-03-31,140352968.0
+AFFLE,A,balance,Ordinary Shares Number,2026-03-31,140601627.0
+AFFLE,A,balance,Stockholders Equity,2023-03-31,14650510000.0
+AFFLE,A,balance,Stockholders Equity,2024-03-31,24980400000.0
+AFFLE,A,balance,Stockholders Equity,2025-03-31,29464570000.0
+AFFLE,A,balance,Stockholders Equity,2026-03-31,36522130000.0
+AFFLE,A,balance,Total Assets,2023-03-31,20106910000.0
+AFFLE,A,balance,Total Assets,2024-03-31,32830430000.0
+AFFLE,A,balance,Total Assets,2025-03-31,36217700000.0
+AFFLE,A,balance,Total Assets,2026-03-31,44214920000.0
+AFFLE,A,balance,Total Debt,2023-03-31,1056260000.0
+AFFLE,A,balance,Total Debt,2024-03-31,1826300000.0
+AFFLE,A,balance,Total Debt,2025-03-31,820950000.0
+AFFLE,A,balance,Total Debt,2026-03-31,148090000.0
+AFFLE,A,cashflow,Capital Expenditure,2023-03-31,-921740000.0
+AFFLE,A,cashflow,Capital Expenditure,2024-03-31,-1156300000.0
+AFFLE,A,cashflow,Capital Expenditure,2025-03-31,-1599020000.0
+AFFLE,A,cashflow,Capital Expenditure,2026-03-31,-2111000000.0
+AFFLE,A,cashflow,Free Cash Flow,2023-03-31,1681290000.0
+AFFLE,A,cashflow,Free Cash Flow,2024-03-31,1466460000.0
+AFFLE,A,cashflow,Free Cash Flow,2025-03-31,2660890000.0
+AFFLE,A,cashflow,Free Cash Flow,2026-03-31,2912490000.0
+AFFLE,A,cashflow,Operating Cash Flow,2023-03-31,2603030000.0
+AFFLE,A,cashflow,Operating Cash Flow,2024-03-31,2622760000.0
+AFFLE,A,cashflow,Operating Cash Flow,2025-03-31,4259910000.0
+AFFLE,A,cashflow,Operating Cash Flow,2026-03-31,5023490000.0
+AFFLE,A,income,Basic EPS,2023-03-31,18.363916
+AFFLE,A,income,Basic EPS,2024-03-31,21.91
+AFFLE,A,income,Basic EPS,2025-03-31,27.23
+AFFLE,A,income,Basic EPS,2026-03-31,32.38
+AFFLE,A,income,Diluted EPS,2023-03-31,18.363916
+AFFLE,A,income,Diluted EPS,2024-03-31,21.91
+AFFLE,A,income,Diluted EPS,2025-03-31,27.19
+AFFLE,A,income,Diluted EPS,2026-03-31,32.32
+AFFLE,A,income,EBITDA,2023-03-31,3370930000.0
+AFFLE,A,income,EBITDA,2024-03-31,4124510000.0
+AFFLE,A,income,EBITDA,2025-03-31,5736720000.0
+AFFLE,A,income,EBITDA,2026-03-31,6862370000.0
+AFFLE,A,income,Interest Expense,2023-03-31,61240000.0
+AFFLE,A,income,Interest Expense,2024-03-31,141290000.0
+AFFLE,A,income,Interest Expense,2025-03-31,93370000.0
+AFFLE,A,income,Interest Expense,2026-03-31,31940000.0
+AFFLE,A,income,Net Income,2023-03-31,2445890000.0
+AFFLE,A,income,Net Income,2024-03-31,2972690000.0
+AFFLE,A,income,Net Income,2025-03-31,3818690000.0
+AFFLE,A,income,Net Income,2026-03-31,4548510000.0
+AFFLE,A,income,Net Income Common Stockholders,2023-03-31,2445890000.0
+AFFLE,A,income,Net Income Common Stockholders,2024-03-31,2972690000.0
+AFFLE,A,income,Net Income Common Stockholders,2025-03-31,3818690000.0
+AFFLE,A,income,Net Income Common Stockholders,2026-03-31,4548510000.0
+AFFLE,A,income,Operating Income,2023-03-31,2394710000.0
+AFFLE,A,income,Operating Income,2024-03-31,2889470000.0
+AFFLE,A,income,Operating Income,2025-03-31,3891840000.0
+AFFLE,A,income,Operating Income,2026-03-31,5038160000.0
+AFFLE,A,income,Pretax Income,2023-03-31,2815510000.0
+AFFLE,A,income,Pretax Income,2024-03-31,3267960000.0
+AFFLE,A,income,Pretax Income,2025-03-31,4676370000.0
+AFFLE,A,income,Pretax Income,2026-03-31,5586670000.0
+AFFLE,A,income,Total Revenue,2023-03-31,14334440000.0
+AFFLE,A,income,Total Revenue,2024-03-31,18420780000.0
+AFFLE,A,income,Total Revenue,2025-03-31,22654990000.0
+AFFLE,A,income,Total Revenue,2026-03-31,27086100000.0
+AFFLE,Q,income,Basic EPS,2025-06-30,7.52
+AFFLE,Q,income,Basic EPS,2025-12-31,8.5
+AFFLE,Q,income,Basic EPS,2026-03-31,8.51
+AFFLE,Q,income,Basic EPS,2026-06-30,9.13
+AFFLE,Q,income,Basic EPS,2026-09-30,9.23
+AFFLE,Q,income,Diluted EPS,2025-06-30,7.5
+AFFLE,Q,income,Diluted EPS,2025-12-31,8.49
+AFFLE,Q,income,Diluted EPS,2026-03-31,8.49
+AFFLE,Q,income,Diluted EPS,2026-06-30,9.02
+AFFLE,Q,income,Diluted EPS,2026-09-30,9.08
+AFFLE,Q,income,EBITDA,2025-06-30,1568900000.0
+AFFLE,Q,income,EBITDA,2025-12-31,1805770000.0
+AFFLE,Q,income,EBITDA,2026-03-31,1824520000.0
+AFFLE,Q,income,EBITDA,2026-06-30,1926650000.0
+AFFLE,Q,income,EBITDA,2026-09-30,2014920000.0
+AFFLE,Q,income,Interest Expense,2025-06-30,18280000.0
+AFFLE,Q,income,Interest Expense,2025-12-31,12590000.0
+AFFLE,Q,income,Interest Expense,2026-03-31,10080000.0
+AFFLE,Q,income,Interest Expense,2026-06-30,6720000.0
+AFFLE,Q,income,Interest Expense,2026-09-30,8230000.0
+AFFLE,Q,income,Net Income,2025-06-30,1055000000.0
+AFFLE,Q,income,Net Income,2025-12-31,1193240000.0
+AFFLE,Q,income,Net Income,2026-03-31,1195140000.0
+AFFLE,Q,income,Net Income,2026-06-30,1284390000.0
+AFFLE,Q,income,Net Income,2026-09-30,1297990000.0
+AFFLE,Q,income,Net Income Common Stockholders,2025-06-30,1055000000.0
+AFFLE,Q,income,Net Income Common Stockholders,2025-12-31,1193240000.0
+AFFLE,Q,income,Net Income Common Stockholders,2026-03-31,1195140000.0
+AFFLE,Q,income,Net Income Common Stockholders,2026-06-30,1284390000.0
+AFFLE,Q,income,Net Income Common Stockholders,2026-09-30,1297990000.0
+AFFLE,Q,income,Operating Income,2025-06-30,1138530000.0
+AFFLE,Q,income,Operating Income,2025-12-31,1298520000.0
+AFFLE,Q,income,Operating Income,2026-03-31,1277490000.0
+AFFLE,Q,income,Operating Income,2026-06-30,1334180000.0
+AFFLE,Q,income,Operating Income,2026-09-30,1402310000.0
+AFFLE,Q,income,Pretax Income,2025-06-30,1291950000.0
+AFFLE,Q,income,Pretax Income,2025-12-31,1461240000.0
+AFFLE,Q,income,Pretax Income,2026-03-31,1480140000.0
+AFFLE,Q,income,Pretax Income,2026-06-30,1577870000.0
+AFFLE,Q,income,Pretax Income,2026-09-30,1594550000.0
+AFFLE,Q,income,Total Revenue,2025-06-30,6207400000.0
+AFFLE,Q,income,Total Revenue,2025-12-31,7174740000.0
+AFFLE,Q,income,Total Revenue,2026-03-31,7243770000.0
+AFFLE,Q,income,Total Revenue,2026-06-30,7471640000.0
+AFFLE,Q,income,Total Revenue,2026-09-30,7835930000.0

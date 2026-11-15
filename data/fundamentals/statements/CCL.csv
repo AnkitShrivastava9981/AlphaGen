@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CCL,A,balance,Cash And Cash Equivalents,2023-03-31,825992000.0
+CCL,A,balance,Cash And Cash Equivalents,2024-03-31,1690851000.0
+CCL,A,balance,Cash And Cash Equivalents,2025-03-31,969427000.0
+CCL,A,balance,Cash And Cash Equivalents,2026-03-31,2165155000.0
+CCL,A,balance,Net Debt,2023-03-31,8335006000.0
+CCL,A,balance,Net Debt,2024-03-31,14517543000.0
+CCL,A,balance,Net Debt,2025-03-31,17156657000.0
+CCL,A,balance,Net Debt,2026-03-31,10742322000.0
+CCL,A,balance,Ordinary Shares Number,2023-03-31,133027920.0
+CCL,A,balance,Ordinary Shares Number,2024-03-31,133027920.0
+CCL,A,balance,Ordinary Shares Number,2025-03-31,133176724.0
+CCL,A,balance,Ordinary Shares Number,2026-03-31,133198356.0
+CCL,A,balance,Stockholders Equity,2023-03-31,14972945000.0
+CCL,A,balance,Stockholders Equity,2024-03-31,16738127000.0
+CCL,A,balance,Stockholders Equity,2025-03-31,19672280000.0
+CCL,A,balance,Stockholders Equity,2026-03-31,23445549000.0
+CCL,A,balance,Total Assets,2023-03-31,25969330000.0
+CCL,A,balance,Total Assets,2024-03-31,35359120000.0
+CCL,A,balance,Total Assets,2025-03-31,42409770000.0
+CCL,A,balance,Total Assets,2026-03-31,43262909000.0
+CCL,A,balance,Total Debt,2023-03-31,9196041000.0
+CCL,A,balance,Total Debt,2024-03-31,16213284000.0
+CCL,A,balance,Total Debt,2025-03-31,18130974000.0
+CCL,A,balance,Total Debt,2026-03-31,13243603000.0
+CCL,A,cashflow,Capital Expenditure,2023-03-31,-3322638000.0
+CCL,A,cashflow,Capital Expenditure,2024-03-31,-5132712000.0
+CCL,A,cashflow,Capital Expenditure,2025-03-31,-4179546000.0
+CCL,A,cashflow,Capital Expenditure,2026-03-31,-697965000.0
+CCL,A,cashflow,Free Cash Flow,2023-03-31,-1589830000.0
+CCL,A,cashflow,Free Cash Flow,2024-03-31,-4578932000.0
+CCL,A,cashflow,Free Cash Flow,2025-03-31,-1282639000.0
+CCL,A,cashflow,Free Cash Flow,2026-03-31,7884889000.0
+CCL,A,cashflow,Operating Cash Flow,2023-03-31,1732808000.0
+CCL,A,cashflow,Operating Cash Flow,2024-03-31,553780000.0
+CCL,A,cashflow,Operating Cash Flow,2025-03-31,2896907000.0
+CCL,A,cashflow,Operating Cash Flow,2026-03-31,8582854000.0
+CCL,A,income,Basic EPS,2023-03-31,21.35
+CCL,A,income,Basic EPS,2024-03-31,18.8
+CCL,A,income,Basic EPS,2025-03-31,23.31
+CCL,A,income,Basic EPS,2026-03-31,29.15
+CCL,A,income,Diluted EPS,2023-03-31,21.35
+CCL,A,income,Diluted EPS,2024-03-31,18.76
+CCL,A,income,Diluted EPS,2025-03-31,23.26
+CCL,A,income,Diluted EPS,2026-03-31,29.1
+CCL,A,income,EBITDA,2023-03-31,3999701000.0
+CCL,A,income,EBITDA,2024-03-31,4489467000.0
+CCL,A,income,EBITDA,2025-03-31,5592830000.0
+CCL,A,income,EBITDA,2026-03-31,7345860000.0
+CCL,A,income,Interest Expense,2023-03-31,312630000.0
+CCL,A,income,Interest Expense,2024-03-31,750370000.0
+CCL,A,income,Interest Expense,2025-03-31,1085685000.0
+CCL,A,income,Interest Expense,2026-03-31,1219613000.0
+CCL,A,income,Net Income,2023-03-31,2839637000.0
+CCL,A,income,Net Income,2024-03-31,2500777000.0
+CCL,A,income,Net Income,2025-03-31,3103365000.0
+CCL,A,income,Net Income,2026-03-31,3881060000.0
+CCL,A,income,Net Income Common Stockholders,2023-03-31,2839637000.0
+CCL,A,income,Net Income Common Stockholders,2024-03-31,2500777000.0
+CCL,A,income,Net Income Common Stockholders,2025-03-31,3103365000.0
+CCL,A,income,Net Income Common Stockholders,2026-03-31,3881060000.0
+CCL,A,income,Operating Income,2023-03-31,3227990000.0
+CCL,A,income,Operating Income,2024-03-31,3304691000.0
+CCL,A,income,Operating Income,2025-03-31,4365051000.0
+CCL,A,income,Operating Income,2026-03-31,5060245000.0
+CCL,A,income,Pretax Income,2023-03-31,3050026000.0
+CCL,A,income,Pretax Income,2024-03-31,2762377000.0
+CCL,A,income,Pretax Income,2025-03-31,3522533000.0
+CCL,A,income,Pretax Income,2026-03-31,4606982000.0
+CCL,A,income,Total Revenue,2023-03-31,20712160000.0
+CCL,A,income,Total Revenue,2024-03-31,26537008000.0
+CCL,A,income,Total Revenue,2025-03-31,31057498000.0
+CCL,A,income,Total Revenue,2026-03-31,44573734000.0
+CCL,Q,income,Basic EPS,2025-06-30,5.45
+CCL,Q,income,Basic EPS,2025-12-31,7.53
+CCL,Q,income,Basic EPS,2026-03-31,8.6
+CCL,Q,income,Basic EPS,2026-06-30,8.77
+CCL,Q,income,Basic EPS,2026-09-30,9.77
+CCL,Q,income,Diluted EPS,2025-06-30,5.44
+CCL,Q,income,Diluted EPS,2025-12-31,7.52
+CCL,Q,income,Diluted EPS,2026-03-31,8.59
+CCL,Q,income,Diluted EPS,2026-06-30,8.76
+CCL,Q,income,Diluted EPS,2026-09-30,9.75
+CCL,Q,income,EBITDA,2025-06-30,1614346000.0
+CCL,Q,income,EBITDA,2025-12-31,1875645000.0
+CCL,Q,income,EBITDA,2026-03-31,1937660000.0
+CCL,Q,income,EBITDA,2026-06-30,1966927000.0
+CCL,Q,income,EBITDA,2026-09-30,2173161000.0
+CCL,Q,income,Interest Expense,2025-06-30,336906000.0
+CCL,Q,income,Interest Expense,2025-12-31,322387000.0
+CCL,Q,income,Interest Expense,2026-03-31,301950000.0
+CCL,Q,income,Interest Expense,2026-06-30,286662000.0
+CCL,Q,income,Interest Expense,2026-09-30,259808000.0
+CCL,Q,income,Net Income,2025-06-30,724486000.0
+CCL,Q,income,Net Income,2025-12-31,1002678000.0
+CCL,Q,income,Net Income,2026-03-31,1145250000.0
+CCL,Q,income,Net Income,2026-06-30,1168805000.0
+CCL,Q,income,Net Income,2026-09-30,1301097000.0
+CCL,Q,income,Net Income Common Stockholders,2025-06-30,724486000.0
+CCL,Q,income,Net Income Common Stockholders,2025-12-31,1002678000.0
+CCL,Q,income,Net Income Common Stockholders,2026-03-31,1145250000.0
+CCL,Q,income,Net Income Common Stockholders,2026-06-30,1168805000.0
+CCL,Q,income,Net Income Common Stockholders,2026-09-30,1301097000.0
+CCL,Q,income,Operating Income,2025-06-30,1254805000.0
+CCL,Q,income,Operating Income,2025-12-31,1459121000.0
+CCL,Q,income,Operating Income,2026-03-31,1513904000.0
+CCL,Q,income,Operating Income,2026-06-30,1545409000.0
+CCL,Q,income,Operating Income,2026-09-30,1716137000.0
+CCL,Q,income,Pretax Income,2025-06-30,941898000.0
+CCL,Q,income,Pretax Income,2025-12-31,1162747000.0
+CCL,Q,income,Pretax Income,2026-03-31,1231413000.0
+CCL,Q,income,Pretax Income,2026-06-30,1290175000.0
+CCL,Q,income,Pretax Income,2026-09-30,1508629000.0
+CCL,Q,income,Total Revenue,2025-06-30,10556389000.0
+CCL,Q,income,Total Revenue,2025-12-31,10505646000.0
+CCL,Q,income,Total Revenue,2026-03-31,12244438000.0
+CCL,Q,income,Total Revenue,2026-06-30,12004462000.0
+CCL,Q,income,Total Revenue,2026-09-30,12107624000.0

@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+GESHIP,A,balance,Cash And Cash Equivalents,2023-03-31,26783600000.0
+GESHIP,A,balance,Cash And Cash Equivalents,2024-03-31,32878800000.0
+GESHIP,A,balance,Cash And Cash Equivalents,2025-03-31,41119600000.0
+GESHIP,A,balance,Cash And Cash Equivalents,2026-03-31,43369000000.0
+GESHIP,A,balance,Net Debt,2022-03-31,30671400000.0
+GESHIP,A,balance,Net Debt,2023-03-31,9446800000.0
+GESHIP,A,balance,Ordinary Shares Number,2023-03-31,142767161.0
+GESHIP,A,balance,Ordinary Shares Number,2024-03-31,142767161.0
+GESHIP,A,balance,Ordinary Shares Number,2025-03-31,142767161.0
+GESHIP,A,balance,Ordinary Shares Number,2026-03-31,142767161.0
+GESHIP,A,balance,Stockholders Equity,2023-03-31,102753600000.0
+GESHIP,A,balance,Stockholders Equity,2024-03-31,123974500000.0
+GESHIP,A,balance,Stockholders Equity,2025-03-31,142591600000.0
+GESHIP,A,balance,Stockholders Equity,2026-03-31,169624900000.0
+GESHIP,A,balance,Total Assets,2023-03-31,152091200000.0
+GESHIP,A,balance,Total Assets,2024-03-31,168078600000.0
+GESHIP,A,balance,Total Assets,2025-03-31,176556600000.0
+GESHIP,A,balance,Total Assets,2026-03-31,194601600000.0
+GESHIP,A,balance,Total Debt,2023-03-31,36493900000.0
+GESHIP,A,balance,Total Debt,2024-03-31,30483000000.0
+GESHIP,A,balance,Total Debt,2025-03-31,21630100000.0
+GESHIP,A,balance,Total Debt,2026-03-31,10871500000.0
+GESHIP,A,cashflow,Capital Expenditure,2023-03-31,-4653000000.0
+GESHIP,A,cashflow,Capital Expenditure,2024-03-31,-8452000000.0
+GESHIP,A,cashflow,Capital Expenditure,2025-03-31,-11753500000.0
+GESHIP,A,cashflow,Capital Expenditure,2026-03-31,-23724600000.0
+GESHIP,A,cashflow,Free Cash Flow,2023-03-31,25092800000.0
+GESHIP,A,cashflow,Free Cash Flow,2024-03-31,19628500000.0
+GESHIP,A,cashflow,Free Cash Flow,2025-03-31,14720100000.0
+GESHIP,A,cashflow,Free Cash Flow,2026-03-31,4814100000.0
+GESHIP,A,cashflow,Operating Cash Flow,2023-03-31,29745800000.0
+GESHIP,A,cashflow,Operating Cash Flow,2024-03-31,28080500000.0
+GESHIP,A,cashflow,Operating Cash Flow,2025-03-31,26473600000.0
+GESHIP,A,cashflow,Operating Cash Flow,2026-03-31,28538700000.0
+GESHIP,A,income,Basic EPS,2023-03-31,180.36
+GESHIP,A,income,Basic EPS,2024-03-31,183.11
+GESHIP,A,income,Basic EPS,2025-03-31,164.2
+GESHIP,A,income,Basic EPS,2026-03-31,206.11
+GESHIP,A,income,Diluted EPS,2023-03-31,180.0
+GESHIP,A,income,Diluted EPS,2024-03-31,182.74
+GESHIP,A,income,Diluted EPS,2025-03-31,163.87
+GESHIP,A,income,Diluted EPS,2026-03-31,205.69
+GESHIP,A,income,EBITDA,2023-03-31,35434500000.0
+GESHIP,A,income,EBITDA,2024-03-31,36660300000.0
+GESHIP,A,income,EBITDA,2025-03-31,34929600000.0
+GESHIP,A,income,EBITDA,2026-03-31,40406600000.0
+GESHIP,A,income,Interest Expense,2023-03-31,2778600000.0
+GESHIP,A,income,Interest Expense,2024-03-31,2455800000.0
+GESHIP,A,income,Interest Expense,2025-03-31,2180400000.0
+GESHIP,A,income,Interest Expense,2026-03-31,1258100000.0
+GESHIP,A,income,Net Income,2023-03-31,25750100000.0
+GESHIP,A,income,Net Income,2024-03-31,26141800000.0
+GESHIP,A,income,Net Income,2025-03-31,23442600000.0
+GESHIP,A,income,Net Income,2026-03-31,29425200000.0
+GESHIP,A,income,Net Income Common Stockholders,2023-03-31,25750100000.0
+GESHIP,A,income,Net Income Common Stockholders,2024-03-31,26141800000.0
+GESHIP,A,income,Net Income Common Stockholders,2025-03-31,23442600000.0
+GESHIP,A,income,Net Income Common Stockholders,2026-03-31,29425200000.0
+GESHIP,A,income,Operating Income,2023-03-31,23848000000.0
+GESHIP,A,income,Operating Income,2024-03-31,21067500000.0
+GESHIP,A,income,Operating Income,2025-03-31,18417300000.0
+GESHIP,A,income,Operating Income,2026-03-31,19771800000.0
+GESHIP,A,income,Pretax Income,2023-03-31,25535400000.0
+GESHIP,A,income,Pretax Income,2024-03-31,26943800000.0
+GESHIP,A,income,Pretax Income,2025-03-31,24616900000.0
+GESHIP,A,income,Pretax Income,2026-03-31,30257900000.0
+GESHIP,A,income,Total Revenue,2023-03-31,56602700000.0
+GESHIP,A,income,Total Revenue,2024-03-31,51756200000.0
+GESHIP,A,income,Total Revenue,2025-03-31,52860100000.0
+GESHIP,A,income,Total Revenue,2026-03-31,53849300000.0
+GESHIP,Q,income,Basic EPS,2025-09-30,40.72
+GESHIP,Q,income,Basic EPS,2025-12-31,56.91
+GESHIP,Q,income,Basic EPS,2026-03-31,73.13
+GESHIP,Q,income,Basic EPS,2026-06-30,91.68
+GESHIP,Q,income,Basic EPS,2026-09-30,89.11
+GESHIP,Q,income,Diluted EPS,2025-09-30,40.64
+GESHIP,Q,income,Diluted EPS,2025-12-31,56.8
+GESHIP,Q,income,Diluted EPS,2026-03-31,72.98
+GESHIP,Q,income,Diluted EPS,2026-06-30,91.49
+GESHIP,Q,income,Diluted EPS,2026-09-30,88.93
+GESHIP,Q,income,EBITDA,2025-09-30,6443200000.0
+GESHIP,Q,income,EBITDA,2025-12-31,8714900000.0
+GESHIP,Q,income,EBITDA,2026-03-31,10655100000.0
+GESHIP,Q,income,EBITDA,2026-06-30,13847200000.0
+GESHIP,Q,income,EBITDA,2026-09-30,13138200000.0
+GESHIP,Q,income,Interest Expense,2025-09-30,436400000.0
+GESHIP,Q,income,Interest Expense,2025-12-31,249500000.0
+GESHIP,Q,income,Interest Expense,2026-03-31,229000000.0
+GESHIP,Q,income,Interest Expense,2026-06-30,199400000.0
+GESHIP,Q,income,Interest Expense,2026-09-30,179500000.0
+GESHIP,Q,income,Net Income,2025-09-30,5814100000.0
+GESHIP,Q,income,Net Income,2025-12-31,8125200000.0
+GESHIP,Q,income,Net Income,2026-03-31,10440900000.0
+GESHIP,Q,income,Net Income,2026-06-30,13088400000.0
+GESHIP,Q,income,Net Income,2026-09-30,12692300000.0
+GESHIP,Q,income,Net Income Common Stockholders,2025-09-30,5814100000.0
+GESHIP,Q,income,Net Income Common Stockholders,2025-12-31,8125200000.0
+GESHIP,Q,income,Net Income Common Stockholders,2026-03-31,10440900000.0
+GESHIP,Q,income,Net Income Common Stockholders,2026-06-30,13088400000.0
+GESHIP,Q,income,Net Income Common Stockholders,2026-09-30,12692300000.0
+GESHIP,Q,income,Operating Income,2025-09-30,4313200000.0
+GESHIP,Q,income,Operating Income,2025-12-31,5553100000.0
+GESHIP,Q,income,Operating Income,2026-03-31,5609100000.0
+GESHIP,Q,income,Operating Income,2026-06-30,10915400000.0
+GESHIP,Q,income,Operating Income,2026-09-30,8457700000.0
+GESHIP,Q,income,Pretax Income,2025-09-30,6006800000.0
+GESHIP,Q,income,Pretax Income,2025-12-31,8465400000.0
+GESHIP,Q,income,Pretax Income,2026-03-31,10426100000.0
+GESHIP,Q,income,Pretax Income,2026-06-30,13647800000.0
+GESHIP,Q,income,Pretax Income,2026-09-30,12958700000.0
+GESHIP,Q,income,Total Revenue,2025-09-30,12417800000.0
+GESHIP,Q,income,Total Revenue,2025-12-31,14544400000.0
+GESHIP,Q,income,Total Revenue,2026-03-31,15114000000.0
+GESHIP,Q,income,Total Revenue,2026-06-30,20053600000.0
+GESHIP,Q,income,Total Revenue,2026-09-30,18244200000.0

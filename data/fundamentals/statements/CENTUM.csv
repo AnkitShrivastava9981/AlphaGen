@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CENTUM,A,balance,Cash And Cash Equivalents,2023-03-31,352710000.0
+CENTUM,A,balance,Cash And Cash Equivalents,2024-03-31,481210000.0
+CENTUM,A,balance,Cash And Cash Equivalents,2025-03-31,342080000.0
+CENTUM,A,balance,Cash And Cash Equivalents,2026-03-31,374320000.0
+CENTUM,A,balance,Net Debt,2023-03-31,2256170000.0
+CENTUM,A,balance,Net Debt,2024-03-31,1393860000.0
+CENTUM,A,balance,Net Debt,2025-03-31,1086930000.0
+CENTUM,A,balance,Net Debt,2026-03-31,840640000.0
+CENTUM,A,balance,Ordinary Shares Number,2023-03-31,12884781.0
+CENTUM,A,balance,Ordinary Shares Number,2024-03-31,12888434.0
+CENTUM,A,balance,Ordinary Shares Number,2025-03-31,14707152.0
+CENTUM,A,balance,Ordinary Shares Number,2026-03-31,14740983.0
+CENTUM,A,balance,Stockholders Equity,2023-03-31,2107170000.0
+CENTUM,A,balance,Stockholders Equity,2024-03-31,2032720000.0
+CENTUM,A,balance,Stockholders Equity,2025-03-31,4052230000.0
+CENTUM,A,balance,Stockholders Equity,2026-03-31,3432100000.0
+CENTUM,A,balance,Total Assets,2023-03-31,10726980000.0
+CENTUM,A,balance,Total Assets,2024-03-31,10638040000.0
+CENTUM,A,balance,Total Assets,2025-03-31,12394460000.0
+CENTUM,A,balance,Total Assets,2026-03-31,13027120000.0
+CENTUM,A,balance,Total Debt,2023-03-31,3062250000.0
+CENTUM,A,balance,Total Debt,2024-03-31,2400840000.0
+CENTUM,A,balance,Total Debt,2025-03-31,1854610000.0
+CENTUM,A,balance,Total Debt,2026-03-31,1229800000.0
+CENTUM,A,cashflow,Capital Expenditure,2023-03-31,-217560000.0
+CENTUM,A,cashflow,Capital Expenditure,2024-03-31,-330420000.0
+CENTUM,A,cashflow,Capital Expenditure,2025-03-31,-185810000.0
+CENTUM,A,cashflow,Capital Expenditure,2026-03-31,-403760000.0
+CENTUM,A,cashflow,Free Cash Flow,2023-03-31,491760000.0
+CENTUM,A,cashflow,Free Cash Flow,2024-03-31,1687640000.0
+CENTUM,A,cashflow,Free Cash Flow,2025-03-31,-479320000.0
+CENTUM,A,cashflow,Free Cash Flow,2026-03-31,200210000.0
+CENTUM,A,cashflow,Operating Cash Flow,2023-03-31,709320000.0
+CENTUM,A,cashflow,Operating Cash Flow,2024-03-31,2018060000.0
+CENTUM,A,cashflow,Operating Cash Flow,2025-03-31,-293510000.0
+CENTUM,A,cashflow,Operating Cash Flow,2026-03-31,603970000.0
+CENTUM,A,income,Basic EPS,2023-03-31,7.62
+CENTUM,A,income,Basic EPS,2024-03-31,1.38
+CENTUM,A,income,Basic EPS,2025-03-31,1.89
+CENTUM,A,income,Basic EPS,2026-03-31,-31.62
+CENTUM,A,income,Diluted EPS,2023-03-31,7.55
+CENTUM,A,income,Diluted EPS,2024-03-31,1.36
+CENTUM,A,income,Diluted EPS,2025-03-31,1.88
+CENTUM,A,income,Diluted EPS,2026-03-31,-31.62
+CENTUM,A,income,EBITDA,2023-03-31,741560000.0
+CENTUM,A,income,EBITDA,2024-03-31,792400000.0
+CENTUM,A,income,EBITDA,2025-03-31,1002430000.0
+CENTUM,A,income,EBITDA,2026-03-31,1454020000.0
+CENTUM,A,income,Interest Expense,2023-03-31,181940000.0
+CENTUM,A,income,Interest Expense,2024-03-31,260880000.0
+CENTUM,A,income,Interest Expense,2025-03-31,142370000.0
+CENTUM,A,income,Interest Expense,2026-03-31,110550000.0
+CENTUM,A,income,Net Income,2023-03-31,98160000.0
+CENTUM,A,income,Net Income,2024-03-31,17750000.0
+CENTUM,A,income,Net Income,2025-03-31,24560000.0
+CENTUM,A,income,Net Income,2026-03-31,-466540000.0
+CENTUM,A,income,Net Income Common Stockholders,2023-03-31,98160000.0
+CENTUM,A,income,Net Income Common Stockholders,2024-03-31,17750000.0
+CENTUM,A,income,Net Income Common Stockholders,2025-03-31,24560000.0
+CENTUM,A,income,Net Income Common Stockholders,2026-03-31,-466540000.0
+CENTUM,A,income,Operating Income,2023-03-31,461810000.0
+CENTUM,A,income,Operating Income,2024-03-31,499880000.0
+CENTUM,A,income,Operating Income,2025-03-31,811120000.0
+CENTUM,A,income,Operating Income,2026-03-31,1272470000.0
+CENTUM,A,income,Pretax Income,2023-03-31,121360000.0
+CENTUM,A,income,Pretax Income,2024-03-31,78780000.0
+CENTUM,A,income,Pretax Income,2025-03-31,664950000.0
+CENTUM,A,income,Pretax Income,2026-03-31,1148420000.0
+CENTUM,A,income,Total Revenue,2023-03-31,8841960000.0
+CENTUM,A,income,Total Revenue,2024-03-31,10482460000.0
+CENTUM,A,income,Total Revenue,2025-03-31,7383520000.0
+CENTUM,A,income,Total Revenue,2026-03-31,9503180000.0
+CENTUM,Q,income,Basic EPS,2025-09-30,2.85
+CENTUM,Q,income,Basic EPS,2025-12-31,-41.56
+CENTUM,Q,income,Basic EPS,2026-03-31,3.35
+CENTUM,Q,income,Basic EPS,2026-06-30,71.47
+CENTUM,Q,income,Basic EPS,2026-09-30,15.53
+CENTUM,Q,income,Diluted EPS,2025-09-30,2.85
+CENTUM,Q,income,Diluted EPS,2025-12-31,-41.56
+CENTUM,Q,income,Diluted EPS,2026-03-31,3.35
+CENTUM,Q,income,Diluted EPS,2026-06-30,71.47
+CENTUM,Q,income,Diluted EPS,2026-09-30,15.53
+CENTUM,Q,income,EBITDA,2025-09-30,371060000.0
+CENTUM,Q,income,EBITDA,2025-12-31,-229790000.0
+CENTUM,Q,income,EBITDA,2026-03-31,561650000.0
+CENTUM,Q,income,EBITDA,2026-06-30,258670000.0
+CENTUM,Q,income,EBITDA,2026-09-30,612930000.0
+CENTUM,Q,income,Interest Expense,2025-09-30,124780000.0
+CENTUM,Q,income,Interest Expense,2025-12-31,69080000.0
+CENTUM,Q,income,Interest Expense,2026-03-31,49640000.0
+CENTUM,Q,income,Interest Expense,2026-06-30,44180000.0
+CENTUM,Q,income,Interest Expense,2026-09-30,247340000.0
+CENTUM,Q,income,Net Income,2025-09-30,40920000.0
+CENTUM,Q,income,Net Income,2025-12-31,-617500000.0
+CENTUM,Q,income,Net Income,2026-03-31,16400000.0
+CENTUM,Q,income,Net Income,2026-06-30,1055000000.0
+CENTUM,Q,income,Net Income,2026-09-30,229270000.0
+CENTUM,Q,income,Net Income Common Stockholders,2025-09-30,40920000.0
+CENTUM,Q,income,Net Income Common Stockholders,2025-12-31,-617500000.0
+CENTUM,Q,income,Net Income Common Stockholders,2026-03-31,16400000.0
+CENTUM,Q,income,Net Income Common Stockholders,2026-06-30,1055000000.0
+CENTUM,Q,income,Net Income Common Stockholders,2026-09-30,229270000.0
+CENTUM,Q,income,Operating Income,2025-09-30,294830000.0
+CENTUM,Q,income,Operating Income,2025-12-31,221160000.0
+CENTUM,Q,income,Operating Income,2026-03-31,437130000.0
+CENTUM,Q,income,Operating Income,2026-06-30,180610000.0
+CENTUM,Q,income,Operating Income,2026-09-30,532560000.0
+CENTUM,Q,income,Pretax Income,2025-09-30,196180000.0
+CENTUM,Q,income,Pretax Income,2025-12-31,-392290000.0
+CENTUM,Q,income,Pretax Income,2026-03-31,462090000.0
+CENTUM,Q,income,Pretax Income,2026-06-30,159520000.0
+CENTUM,Q,income,Pretax Income,2026-09-30,308480000.0
+CENTUM,Q,income,Total Revenue,2025-09-30,1967450000.0
+CENTUM,Q,income,Total Revenue,2025-12-31,3239990000.0
+CENTUM,Q,income,Total Revenue,2026-03-31,3388570000.0
+CENTUM,Q,income,Total Revenue,2026-06-30,2034660000.0
+CENTUM,Q,income,Total Revenue,2026-09-30,3118190000.0

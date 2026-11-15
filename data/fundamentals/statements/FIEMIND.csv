@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+FIEMIND,A,balance,Cash And Cash Equivalents,2023-03-31,1830169000.0
+FIEMIND,A,balance,Cash And Cash Equivalents,2024-03-31,2060263000.0
+FIEMIND,A,balance,Cash And Cash Equivalents,2025-03-31,2983145000.0
+FIEMIND,A,balance,Cash And Cash Equivalents,2026-03-31,2794105000.0
+FIEMIND,A,balance,Ordinary Shares Number,2023-03-31,26319660.0
+FIEMIND,A,balance,Ordinary Shares Number,2024-03-31,26319660.0
+FIEMIND,A,balance,Ordinary Shares Number,2025-03-31,26319660.0
+FIEMIND,A,balance,Ordinary Shares Number,2026-03-31,26319660.0
+FIEMIND,A,balance,Stockholders Equity,2023-03-31,7611654000.0
+FIEMIND,A,balance,Stockholders Equity,2024-03-31,8869167000.0
+FIEMIND,A,balance,Stockholders Equity,2025-03-31,10381905000.0
+FIEMIND,A,balance,Stockholders Equity,2026-03-31,12150114000.0
+FIEMIND,A,balance,Total Assets,2023-03-31,10530248000.0
+FIEMIND,A,balance,Total Assets,2024-03-31,12184533000.0
+FIEMIND,A,balance,Total Assets,2025-03-31,14237631000.0
+FIEMIND,A,balance,Total Assets,2026-03-31,17005358000.0
+FIEMIND,A,balance,Total Debt,2023-03-31,238273000.0
+FIEMIND,A,balance,Total Debt,2024-03-31,231145000.0
+FIEMIND,A,balance,Total Debt,2025-03-31,220911000.0
+FIEMIND,A,balance,Total Debt,2026-03-31,655509000.0
+FIEMIND,A,cashflow,Capital Expenditure,2023-03-31,-551717000.0
+FIEMIND,A,cashflow,Capital Expenditure,2024-03-31,-842899000.0
+FIEMIND,A,cashflow,Capital Expenditure,2025-03-31,-1295625000.0
+FIEMIND,A,cashflow,Capital Expenditure,2026-03-31,-1295788000.0
+FIEMIND,A,cashflow,Free Cash Flow,2023-03-31,757152000.0
+FIEMIND,A,cashflow,Free Cash Flow,2024-03-31,505913000.0
+FIEMIND,A,cashflow,Free Cash Flow,2025-03-31,1034964000.0
+FIEMIND,A,cashflow,Free Cash Flow,2026-03-31,317033000.0
+FIEMIND,A,cashflow,Operating Cash Flow,2023-03-31,1308869000.0
+FIEMIND,A,cashflow,Operating Cash Flow,2024-03-31,1348812000.0
+FIEMIND,A,cashflow,Operating Cash Flow,2025-03-31,2330589000.0
+FIEMIND,A,cashflow,Operating Cash Flow,2026-03-31,1612821000.0
+FIEMIND,A,income,Basic EPS,2023-03-31,53.13
+FIEMIND,A,income,Basic EPS,2024-03-31,62.96
+FIEMIND,A,income,Basic EPS,2025-03-31,77.86
+FIEMIND,A,income,Basic EPS,2026-03-31,97.11
+FIEMIND,A,income,Diluted EPS,2023-03-31,53.13
+FIEMIND,A,income,Diluted EPS,2024-03-31,62.96
+FIEMIND,A,income,Diluted EPS,2025-03-31,77.86
+FIEMIND,A,income,Diluted EPS,2026-03-31,97.11
+FIEMIND,A,income,EBITDA,2023-03-31,2592865000.0
+FIEMIND,A,income,EBITDA,2024-03-31,2846352000.0
+FIEMIND,A,income,EBITDA,2025-03-31,3420629000.0
+FIEMIND,A,income,EBITDA,2026-03-31,4167035000.0
+FIEMIND,A,income,Interest Expense,2023-03-31,72782000.0
+FIEMIND,A,income,Interest Expense,2024-03-31,29219000.0
+FIEMIND,A,income,Interest Expense,2025-03-31,15433000.0
+FIEMIND,A,income,Interest Expense,2026-03-31,27868000.0
+FIEMIND,A,income,Net Income,2023-03-31,1398318000.0
+FIEMIND,A,income,Net Income,2024-03-31,1657051000.0
+FIEMIND,A,income,Net Income,2025-03-31,2049198000.0
+FIEMIND,A,income,Net Income,2026-03-31,2555844000.0
+FIEMIND,A,income,Net Income Common Stockholders,2023-03-31,1398318000.0
+FIEMIND,A,income,Net Income Common Stockholders,2024-03-31,1657051000.0
+FIEMIND,A,income,Net Income Common Stockholders,2025-03-31,2049198000.0
+FIEMIND,A,income,Net Income Common Stockholders,2026-03-31,2555844000.0
+FIEMIND,A,income,Operating Income,2023-03-31,1841635000.0
+FIEMIND,A,income,Operating Income,2024-03-31,2070056000.0
+FIEMIND,A,income,Operating Income,2025-03-31,2563442000.0
+FIEMIND,A,income,Operating Income,2026-03-31,3251780000.0
+FIEMIND,A,income,Pretax Income,2023-03-31,1886181000.0
+FIEMIND,A,income,Pretax Income,2024-03-31,2230612000.0
+FIEMIND,A,income,Pretax Income,2025-03-31,2762579000.0
+FIEMIND,A,income,Pretax Income,2026-03-31,3414285000.0
+FIEMIND,A,income,Total Revenue,2023-03-31,18340426000.0
+FIEMIND,A,income,Total Revenue,2024-03-31,20152852000.0
+FIEMIND,A,income,Total Revenue,2025-03-31,24053678000.0
+FIEMIND,A,income,Total Revenue,2026-03-31,27921396000.0
+FIEMIND,Q,income,Basic EPS,2025-06-30,21.85
+FIEMIND,Q,income,Basic EPS,2025-09-30,24.19
+FIEMIND,Q,income,Basic EPS,2025-12-31,24.08
+FIEMIND,Q,income,Basic EPS,2026-03-31,26.99
+FIEMIND,Q,income,Basic EPS,2026-06-30,24.65
+FIEMIND,Q,income,Diluted EPS,2025-06-30,21.85
+FIEMIND,Q,income,Diluted EPS,2025-09-30,24.19
+FIEMIND,Q,income,Diluted EPS,2025-12-31,24.08
+FIEMIND,Q,income,Diluted EPS,2026-03-31,26.99
+FIEMIND,Q,income,Diluted EPS,2026-06-30,24.65
+FIEMIND,Q,income,EBITDA,2025-06-30,953464000.0
+FIEMIND,Q,income,EBITDA,2025-09-30,1045399000.0
+FIEMIND,Q,income,EBITDA,2025-12-31,1026679000.0
+FIEMIND,Q,income,EBITDA,2026-03-31,1141492000.0
+FIEMIND,Q,income,EBITDA,2026-06-30,1086968000.0
+FIEMIND,Q,income,Interest Expense,2025-06-30,3700000.0
+FIEMIND,Q,income,Interest Expense,2025-09-30,3712000.0
+FIEMIND,Q,income,Interest Expense,2025-12-31,3715000.0
+FIEMIND,Q,income,Interest Expense,2026-03-31,16741000.0
+FIEMIND,Q,income,Interest Expense,2026-06-30,11109000.0
+FIEMIND,Q,income,Net Income,2025-06-30,575199000.0
+FIEMIND,Q,income,Net Income,2025-09-30,636689000.0
+FIEMIND,Q,income,Net Income,2025-12-31,633668000.0
+FIEMIND,Q,income,Net Income,2026-03-31,710288000.0
+FIEMIND,Q,income,Net Income,2026-06-30,648829000.0
+FIEMIND,Q,income,Net Income Common Stockholders,2025-06-30,575199000.0
+FIEMIND,Q,income,Net Income Common Stockholders,2025-09-30,636689000.0
+FIEMIND,Q,income,Net Income Common Stockholders,2025-12-31,633668000.0
+FIEMIND,Q,income,Net Income Common Stockholders,2026-03-31,710288000.0
+FIEMIND,Q,income,Net Income Common Stockholders,2026-06-30,648829000.0
+FIEMIND,Q,income,Operating Income,2025-06-30,722756000.0
+FIEMIND,Q,income,Operating Income,2025-09-30,796583000.0
+FIEMIND,Q,income,Operating Income,2025-12-31,796127000.0
+FIEMIND,Q,income,Operating Income,2026-03-31,918800000.0
+FIEMIND,Q,income,Operating Income,2026-06-30,846202000.0
+FIEMIND,Q,income,Pretax Income,2025-06-30,777692000.0
+FIEMIND,Q,income,Pretax Income,2025-09-30,848330000.0
+FIEMIND,Q,income,Pretax Income,2025-12-31,841827000.0
+FIEMIND,Q,income,Pretax Income,2026-03-31,946436000.0
+FIEMIND,Q,income,Pretax Income,2026-06-30,883162000.0
+FIEMIND,Q,income,Total Revenue,2025-06-30,6496387000.0
+FIEMIND,Q,income,Total Revenue,2025-09-30,7120192000.0
+FIEMIND,Q,income,Total Revenue,2025-12-31,6858720000.0
+FIEMIND,Q,income,Total Revenue,2026-03-31,7446098000.0
+FIEMIND,Q,income,Total Revenue,2026-06-30,7699051000.0

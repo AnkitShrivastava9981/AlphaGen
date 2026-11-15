@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PFOCUS,A,balance,Cash And Cash Equivalents,2023-03-31,1532200000.0
+PFOCUS,A,balance,Cash And Cash Equivalents,2024-03-31,1385400000.0
+PFOCUS,A,balance,Cash And Cash Equivalents,2025-03-31,2141300000.0
+PFOCUS,A,balance,Cash And Cash Equivalents,2026-03-31,6882900000.0
+PFOCUS,A,balance,Net Debt,2023-03-31,37325100000.0
+PFOCUS,A,balance,Net Debt,2024-03-31,37915100000.0
+PFOCUS,A,balance,Net Debt,2025-03-31,38787100000.0
+PFOCUS,A,balance,Net Debt,2026-03-31,42524500000.0
+PFOCUS,A,balance,Ordinary Shares Number,2023-03-31,299536644.0
+PFOCUS,A,balance,Ordinary Shares Number,2024-03-31,299848644.0
+PFOCUS,A,balance,Ordinary Shares Number,2025-03-31,299986976.0
+PFOCUS,A,balance,Ordinary Shares Number,2026-03-31,775990547.0
+PFOCUS,A,balance,Stockholders Equity,2023-03-31,251800000.0
+PFOCUS,A,balance,Stockholders Equity,2024-03-31,5160200000.0
+PFOCUS,A,balance,Stockholders Equity,2025-03-31,7589400000.0
+PFOCUS,A,balance,Stockholders Equity,2026-03-31,20885300000.0
+PFOCUS,A,balance,Total Assets,2023-03-31,67844700000.0
+PFOCUS,A,balance,Total Assets,2024-03-31,71267500000.0
+PFOCUS,A,balance,Total Assets,2025-03-31,85256700000.0
+PFOCUS,A,balance,Total Assets,2026-03-31,106494500000.0
+PFOCUS,A,balance,Total Debt,2023-03-31,48915100000.0
+PFOCUS,A,balance,Total Debt,2024-03-31,48594800000.0
+PFOCUS,A,balance,Total Debt,2025-03-31,48790400000.0
+PFOCUS,A,balance,Total Debt,2026-03-31,57167300000.0
+PFOCUS,A,cashflow,Capital Expenditure,2023-03-31,-3603400000.0
+PFOCUS,A,cashflow,Capital Expenditure,2024-03-31,-3051600000.0
+PFOCUS,A,cashflow,Capital Expenditure,2025-03-31,-3655000000.0
+PFOCUS,A,cashflow,Capital Expenditure,2026-03-31,-5319100000.0
+PFOCUS,A,cashflow,Free Cash Flow,2023-03-31,-1063000000.0
+PFOCUS,A,cashflow,Free Cash Flow,2024-03-31,-3376600000.0
+PFOCUS,A,cashflow,Free Cash Flow,2025-03-31,-662800000.0
+PFOCUS,A,cashflow,Free Cash Flow,2026-03-31,4921500000.0
+PFOCUS,A,cashflow,Operating Cash Flow,2023-03-31,2540400000.0
+PFOCUS,A,cashflow,Operating Cash Flow,2024-03-31,-325000000.0
+PFOCUS,A,cashflow,Operating Cash Flow,2025-03-31,2992200000.0
+PFOCUS,A,cashflow,Operating Cash Flow,2026-03-31,10240600000.0
+PFOCUS,A,income,Basic EPS,2023-03-31,6.49
+PFOCUS,A,income,Basic EPS,2024-03-31,-13.5
+PFOCUS,A,income,Basic EPS,2025-03-31,-12.57
+PFOCUS,A,income,Basic EPS,2026-03-31,3.94
+PFOCUS,A,income,Diluted EPS,2023-03-31,6.38
+PFOCUS,A,income,Diluted EPS,2024-03-31,-13.5
+PFOCUS,A,income,Diluted EPS,2025-03-31,-12.57
+PFOCUS,A,income,Diluted EPS,2026-03-31,3.92
+PFOCUS,A,income,EBITDA,2023-03-31,11674500000.0
+PFOCUS,A,income,EBITDA,2024-03-31,4416600000.0
+PFOCUS,A,income,EBITDA,2025-03-31,5776100000.0
+PFOCUS,A,income,EBITDA,2026-03-31,14416800000.0
+PFOCUS,A,income,Interest Expense,2023-03-31,3946500000.0
+PFOCUS,A,income,Interest Expense,2024-03-31,5300100000.0
+PFOCUS,A,income,Interest Expense,2025-03-31,4830500000.0
+PFOCUS,A,income,Interest Expense,2026-03-31,4498700000.0
+PFOCUS,A,income,Net Income,2023-03-31,1472900000.0
+PFOCUS,A,income,Net Income,2024-03-31,-4045400000.0
+PFOCUS,A,income,Net Income,2025-03-31,-3771100000.0
+PFOCUS,A,income,Net Income,2026-03-31,2187400000.0
+PFOCUS,A,income,Net Income Common Stockholders,2023-03-31,1472900000.0
+PFOCUS,A,income,Net Income Common Stockholders,2024-03-31,-4045400000.0
+PFOCUS,A,income,Net Income Common Stockholders,2025-03-31,-3771100000.0
+PFOCUS,A,income,Net Income Common Stockholders,2026-03-31,2187400000.0
+PFOCUS,A,income,Operating Income,2023-03-31,5133800000.0
+PFOCUS,A,income,Operating Income,2024-03-31,-2428100000.0
+PFOCUS,A,income,Operating Income,2025-03-31,2822500000.0
+PFOCUS,A,income,Operating Income,2026-03-31,7666800000.0
+PFOCUS,A,income,Pretax Income,2023-03-31,3061400000.0
+PFOCUS,A,income,Pretax Income,2024-03-31,-5867000000.0
+PFOCUS,A,income,Pretax Income,2025-03-31,-4107400000.0
+PFOCUS,A,income,Pretax Income,2026-03-31,3342700000.0
+PFOCUS,A,income,Total Revenue,2023-03-31,46281100000.0
+PFOCUS,A,income,Total Revenue,2024-03-31,39300500000.0
+PFOCUS,A,income,Total Revenue,2025-03-31,35379100000.0
+PFOCUS,A,income,Total Revenue,2026-03-31,45873200000.0
+PFOCUS,Q,income,Basic EPS,2025-06-30,1.995625
+PFOCUS,Q,income,Basic EPS,2025-09-30,0.1
+PFOCUS,Q,income,Basic EPS,2025-12-31,1.15
+PFOCUS,Q,income,Basic EPS,2026-03-31,1.06
+PFOCUS,Q,income,Basic EPS,2026-06-30,-0.53
+PFOCUS,Q,income,Diluted EPS,2025-06-30,1.995625
+PFOCUS,Q,income,Diluted EPS,2025-09-30,0.1
+PFOCUS,Q,income,Diluted EPS,2025-12-31,1.15
+PFOCUS,Q,income,Diluted EPS,2026-03-31,1.06
+PFOCUS,Q,income,Diluted EPS,2026-06-30,-0.53
+PFOCUS,Q,income,EBITDA,2025-06-30,4112638000.0
+PFOCUS,Q,income,EBITDA,2025-09-30,2648839000.0
+PFOCUS,Q,income,EBITDA,2025-12-31,3827160000.0
+PFOCUS,Q,income,EBITDA,2026-03-31,4474952000.0
+PFOCUS,Q,income,EBITDA,2026-06-30,2727282000.0
+PFOCUS,Q,income,Interest Expense,2025-06-30,1138482000.0
+PFOCUS,Q,income,Interest Expense,2025-09-30,1197382000.0
+PFOCUS,Q,income,Interest Expense,2025-12-31,1328923000.0
+PFOCUS,Q,income,Interest Expense,2026-03-31,1480564000.0
+PFOCUS,Q,income,Interest Expense,2026-06-30,1263430000.0
+PFOCUS,Q,income,Net Income,2025-06-30,618518000.0
+PFOCUS,Q,income,Net Income,2025-09-30,35988000.0
+PFOCUS,Q,income,Net Income,2025-12-31,709516000.0
+PFOCUS,Q,income,Net Income,2026-03-31,823538000.0
+PFOCUS,Q,income,Net Income,2026-06-30,-413260000.0
+PFOCUS,Q,income,Net Income Common Stockholders,2025-06-30,618518000.0
+PFOCUS,Q,income,Net Income Common Stockholders,2025-09-30,35988000.0
+PFOCUS,Q,income,Net Income Common Stockholders,2025-12-31,709516000.0
+PFOCUS,Q,income,Net Income Common Stockholders,2026-03-31,823538000.0
+PFOCUS,Q,income,Net Income Common Stockholders,2026-06-30,-413260000.0
+PFOCUS,Q,income,Operating Income,2025-06-30,1109768000.0
+PFOCUS,Q,income,Operating Income,2025-09-30,1567184000.0
+PFOCUS,Q,income,Operating Income,2025-12-31,2273308000.0
+PFOCUS,Q,income,Operating Income,2026-03-31,2707507000.0
+PFOCUS,Q,income,Operating Income,2026-06-30,1223771000.0
+PFOCUS,Q,income,Pretax Income,2025-06-30,1641129000.0
+PFOCUS,Q,income,Pretax Income,2025-09-30,57996000.0
+PFOCUS,Q,income,Pretax Income,2025-12-31,826584000.0
+PFOCUS,Q,income,Pretax Income,2026-03-31,817101000.0
+PFOCUS,Q,income,Pretax Income,2026-06-30,-327344000.0
+PFOCUS,Q,income,Total Revenue,2025-06-30,9768214000.0
+PFOCUS,Q,income,Total Revenue,2025-09-30,10428932000.0
+PFOCUS,Q,income,Total Revenue,2025-12-31,11921344000.0
+PFOCUS,Q,income,Total Revenue,2026-03-31,13754747000.0
+PFOCUS,Q,income,Total Revenue,2026-06-30,12560842000.0

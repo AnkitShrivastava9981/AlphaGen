@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+IOC,A,balance,Cash And Cash Equivalents,2023-03-31,9963500000.0
+IOC,A,balance,Cash And Cash Equivalents,2024-03-31,12465900000.0
+IOC,A,balance,Cash And Cash Equivalents,2025-03-31,6363500000.0
+IOC,A,balance,Cash And Cash Equivalents,2026-03-31,18330800000.0
+IOC,A,balance,Net Debt,2023-03-31,1391184700000.0
+IOC,A,balance,Net Debt,2024-03-31,1222069800000.0
+IOC,A,balance,Net Debt,2025-03-31,1419236900000.0
+IOC,A,balance,Net Debt,2026-03-31,1182560500000.0
+IOC,A,balance,Ordinary Shares Number,2023-03-31,13771560699.0
+IOC,A,balance,Ordinary Shares Number,2024-03-31,13771560699.0
+IOC,A,balance,Ordinary Shares Number,2025-03-31,13771560699.0
+IOC,A,balance,Ordinary Shares Number,2026-03-31,13771560699.0
+IOC,A,balance,Stockholders Equity,2023-03-31,1397202400000.0
+IOC,A,balance,Stockholders Equity,2024-03-31,1834162700000.0
+IOC,A,balance,Stockholders Equity,2025-03-31,1864873200000.0
+IOC,A,balance,Stockholders Equity,2026-03-31,2195179700000.0
+IOC,A,balance,Total Assets,2023-03-31,4417184800000.0
+IOC,A,balance,Total Assets,2024-03-31,4823620000000.0
+IOC,A,balance,Total Assets,2025-03-31,5071996600000.0
+IOC,A,balance,Total Assets,2026-03-31,5289549600000.0
+IOC,A,balance,Total Debt,2023-03-31,1489770800000.0
+IOC,A,balance,Total Debt,2024-03-31,1326275600000.0
+IOC,A,balance,Total Debt,2025-03-31,1522707000000.0
+IOC,A,balance,Total Debt,2026-03-31,1318223900000.0
+IOC,A,cashflow,Capital Expenditure,2023-03-31,-328495300000.0
+IOC,A,cashflow,Capital Expenditure,2024-03-31,-371753500000.0
+IOC,A,cashflow,Capital Expenditure,2025-03-31,-349673300000.0
+IOC,A,cashflow,Capital Expenditure,2026-03-31,-283627300000.0
+IOC,A,cashflow,Free Cash Flow,2023-03-31,-32058100000.0
+IOC,A,cashflow,Free Cash Flow,2024-03-31,339710600000.0
+IOC,A,cashflow,Free Cash Flow,2025-03-31,-5149300000.0
+IOC,A,cashflow,Free Cash Flow,2026-03-31,477793500000.0
+IOC,A,cashflow,Operating Cash Flow,2023-03-31,296437200000.0
+IOC,A,cashflow,Operating Cash Flow,2024-03-31,711464100000.0
+IOC,A,cashflow,Operating Cash Flow,2025-03-31,344524000000.0
+IOC,A,cashflow,Operating Cash Flow,2026-03-31,761420800000.0
+IOC,A,income,Basic EPS,2023-03-31,7.11
+IOC,A,income,Basic EPS,2024-03-31,30.3
+IOC,A,income,Basic EPS,2025-03-31,9.87
+IOC,A,income,Basic EPS,2026-03-31,30.57
+IOC,A,income,Diluted EPS,2023-03-31,7.11
+IOC,A,income,Diluted EPS,2024-03-31,30.3
+IOC,A,income,Diluted EPS,2025-03-31,9.87
+IOC,A,income,Diluted EPS,2026-03-31,30.57
+IOC,A,income,EBITDA,2023-03-31,348659400000.0
+IOC,A,income,EBITDA,2024-03-31,807377200000.0
+IOC,A,income,EBITDA,2025-03-31,422790500000.0
+IOC,A,income,EBITDA,2026-03-31,836546500000.0
+IOC,A,income,Interest Expense,2023-03-31,66472000000.0
+IOC,A,income,Interest Expense,2024-03-31,75838200000.0
+IOC,A,income,Interest Expense,2025-03-31,84382600000.0
+IOC,A,income,Interest Expense,2026-03-31,77623300000.0
+IOC,A,income,Net Income,2023-03-31,97921200000.0
+IOC,A,income,Net Income,2024-03-31,417296900000.0
+IOC,A,income,Net Income,2025-03-31,135978400000.0
+IOC,A,income,Net Income,2026-03-31,420962600000.0
+IOC,A,income,Net Income Common Stockholders,2023-03-31,97921200000.0
+IOC,A,income,Net Income Common Stockholders,2024-03-31,417296900000.0
+IOC,A,income,Net Income Common Stockholders,2025-03-31,135978400000.0
+IOC,A,income,Net Income Common Stockholders,2026-03-31,420962600000.0
+IOC,A,income,Operating Income,2023-03-31,259135600000.0
+IOC,A,income,Operating Income,2024-03-31,613447200000.0
+IOC,A,income,Operating Income,2025-03-31,218420100000.0
+IOC,A,income,Operating Income,2026-03-31,682538900000.0
+IOC,A,income,Pretax Income,2023-03-31,150376900000.0
+IOC,A,income,Pretax Income,2024-03-31,572877900000.0
+IOC,A,income,Pretax Income,2025-03-31,170634500000.0
+IOC,A,income,Pretax Income,2026-03-31,574720800000.0
+IOC,A,income,Total Revenue,2023-03-31,8275473300000.0
+IOC,A,income,Total Revenue,2024-03-31,7728420600000.0
+IOC,A,income,Total Revenue,2025-03-31,7545679400000.0
+IOC,A,income,Total Revenue,2026-03-31,7739928000000.0
+IOC,Q,income,Basic EPS,2025-06-30,4.95
+IOC,Q,income,Basic EPS,2025-12-31,9.44
+IOC,Q,income,Basic EPS,2026-03-31,10.5
+IOC,Q,income,Basic EPS,2026-06-30,-1.18
+IOC,Q,income,Basic EPS,2026-09-30,15.54
+IOC,Q,income,Diluted EPS,2025-06-30,4.95
+IOC,Q,income,Diluted EPS,2025-12-31,9.44
+IOC,Q,income,Diluted EPS,2026-03-31,10.5
+IOC,Q,income,Diluted EPS,2026-06-30,-1.18
+IOC,Q,income,Diluted EPS,2026-09-30,15.54
+IOC,Q,income,EBITDA,2025-06-30,108205300000.0
+IOC,Q,income,EBITDA,2025-12-31,199148700000.0
+IOC,Q,income,EBITDA,2026-03-31,216711600000.0
+IOC,Q,income,EBITDA,2026-06-30,7969400000.0
+IOC,Q,income,EBITDA,2026-09-30,306898400000.0
+IOC,Q,income,Interest Expense,2025-06-30,20700500000.0
+IOC,Q,income,Interest Expense,2025-12-31,20880200000.0
+IOC,Q,income,Interest Expense,2026-03-31,18801200000.0
+IOC,Q,income,Interest Expense,2026-06-30,17295300000.0
+IOC,Q,income,Interest Expense,2026-09-30,24993100000.0
+IOC,Q,income,Net Income,2025-06-30,68137100000.0
+IOC,Q,income,Net Income,2025-12-31,130069200000.0
+IOC,Q,income,Net Income,2026-03-31,144580800000.0
+IOC,Q,income,Net Income,2026-06-30,-16307400000.0
+IOC,Q,income,Net Income,2026-09-30,214078700000.0
+IOC,Q,income,Net Income Common Stockholders,2025-06-30,68137100000.0
+IOC,Q,income,Net Income Common Stockholders,2025-12-31,130069200000.0
+IOC,Q,income,Net Income Common Stockholders,2026-03-31,144580800000.0
+IOC,Q,income,Net Income Common Stockholders,2026-06-30,-16307400000.0
+IOC,Q,income,Net Income Common Stockholders,2026-09-30,214078700000.0
+IOC,Q,income,Operating Income,2025-06-30,90893100000.0
+IOC,Q,income,Operating Income,2025-12-31,187516000000.0
+IOC,Q,income,Operating Income,2026-03-31,199098700000.0
+IOC,Q,income,Operating Income,2026-06-30,-2776000000.0
+IOC,Q,income,Operating Income,2026-09-30,297156700000.0
+IOC,Q,income,Pretax Income,2025-06-30,87504800000.0
+IOC,Q,income,Pretax Income,2025-12-31,178268500000.0
+IOC,Q,income,Pretax Income,2026-03-31,197910400000.0
+IOC,Q,income,Pretax Income,2026-06-30,-9325900000.0
+IOC,Q,income,Pretax Income,2026-09-30,281905300000.0
+IOC,Q,income,Total Revenue,2025-06-30,1923406500000.0
+IOC,Q,income,Total Revenue,2025-12-31,2051573700000.0
+IOC,Q,income,Total Revenue,2026-03-31,2082892600000.0
+IOC,Q,income,Total Revenue,2026-06-30,2664072800000.0
+IOC,Q,income,Total Revenue,2026-09-30,2539668900000.0

@@ -1,0 +1,112 @@
+symbol,freq,statement,item,period_end,value
+UTIAMC,A,balance,Cash And Cash Equivalents,2023-03-31,2094500000.0
+UTIAMC,A,balance,Cash And Cash Equivalents,2024-03-31,1509000000.0
+UTIAMC,A,balance,Cash And Cash Equivalents,2025-03-31,2567900000.0
+UTIAMC,A,balance,Cash And Cash Equivalents,2026-03-31,355700000.0
+UTIAMC,A,balance,Ordinary Shares Number,2023-03-31,126983695.0
+UTIAMC,A,balance,Ordinary Shares Number,2024-03-31,127256174.0
+UTIAMC,A,balance,Ordinary Shares Number,2025-03-31,127977071.0
+UTIAMC,A,balance,Ordinary Shares Number,2026-03-31,128520036.0
+UTIAMC,A,balance,Stockholders Equity,2023-03-31,38678400000.0
+UTIAMC,A,balance,Stockholders Equity,2024-03-31,43881700000.0
+UTIAMC,A,balance,Stockholders Equity,2025-03-31,45991300000.0
+UTIAMC,A,balance,Stockholders Equity,2026-03-31,45046300000.0
+UTIAMC,A,balance,Total Assets,2023-03-31,41782700000.0
+UTIAMC,A,balance,Total Assets,2024-03-31,53410200000.0
+UTIAMC,A,balance,Total Assets,2025-03-31,56584100000.0
+UTIAMC,A,balance,Total Assets,2026-03-31,50433800000.0
+UTIAMC,A,balance,Total Debt,2025-03-31,0.0
+UTIAMC,A,balance,Total Debt,2026-03-31,1409300000.0
+UTIAMC,A,cashflow,Capital Expenditure,2023-03-31,-1089400000.0
+UTIAMC,A,cashflow,Capital Expenditure,2024-03-31,-1465900000.0
+UTIAMC,A,cashflow,Capital Expenditure,2025-03-31,-698200000.0
+UTIAMC,A,cashflow,Capital Expenditure,2026-03-31,-682100000.0
+UTIAMC,A,cashflow,Free Cash Flow,2023-03-31,2864900000.0
+UTIAMC,A,cashflow,Free Cash Flow,2024-03-31,1785300000.0
+UTIAMC,A,cashflow,Free Cash Flow,2025-03-31,4665300000.0
+UTIAMC,A,cashflow,Free Cash Flow,2026-03-31,3383200000.0
+UTIAMC,A,cashflow,Operating Cash Flow,2023-03-31,3954300000.0
+UTIAMC,A,cashflow,Operating Cash Flow,2024-03-31,3251200000.0
+UTIAMC,A,cashflow,Operating Cash Flow,2025-03-31,5363500000.0
+UTIAMC,A,cashflow,Operating Cash Flow,2026-03-31,4065300000.0
+UTIAMC,A,income,Basic EPS,2023-03-31,34.45
+UTIAMC,A,income,Basic EPS,2024-03-31,60.26
+UTIAMC,A,income,Basic EPS,2025-03-31,57.35
+UTIAMC,A,income,Basic EPS,2026-03-31,31.51
+UTIAMC,A,income,Diluted EPS,2023-03-31,34.44
+UTIAMC,A,income,Diluted EPS,2024-03-31,60.22
+UTIAMC,A,income,Diluted EPS,2025-03-31,57.11
+UTIAMC,A,income,Diluted EPS,2026-03-31,31.41
+UTIAMC,A,income,EBITDA,2023-03-31,6357800000.0
+UTIAMC,A,income,EBITDA,2024-03-31,10409700000.0
+UTIAMC,A,income,EBITDA,2025-03-31,11111800000.0
+UTIAMC,A,income,EBITDA,2026-03-31,7171500000.0
+UTIAMC,A,income,Interest Expense,2023-03-31,102200000.0
+UTIAMC,A,income,Interest Expense,2024-03-31,118700000.0
+UTIAMC,A,income,Interest Expense,2025-03-31,134700000.0
+UTIAMC,A,income,Interest Expense,2026-03-31,146900000.0
+UTIAMC,A,income,Net Income,2023-03-31,4373600000.0
+UTIAMC,A,income,Net Income,2024-03-31,7656800000.0
+UTIAMC,A,income,Net Income,2025-03-31,7314900000.0
+UTIAMC,A,income,Net Income,2026-03-31,4041200000.0
+UTIAMC,A,income,Net Income Common Stockholders,2023-03-31,4373600000.0
+UTIAMC,A,income,Net Income Common Stockholders,2024-03-31,7656800000.0
+UTIAMC,A,income,Net Income Common Stockholders,2025-03-31,7314900000.0
+UTIAMC,A,income,Net Income Common Stockholders,2026-03-31,4041200000.0
+UTIAMC,A,income,Operating Income,2023-03-31,4372800000.0
+UTIAMC,A,income,Operating Income,2024-03-31,4378100000.0
+UTIAMC,A,income,Operating Income,2025-03-31,6514300000.0
+UTIAMC,A,income,Operating Income,2026-03-31,6059500000.0
+UTIAMC,A,income,Pretax Income,2023-03-31,5856200000.0
+UTIAMC,A,income,Pretax Income,2024-03-31,9868400000.0
+UTIAMC,A,income,Pretax Income,2025-03-31,10521700000.0
+UTIAMC,A,income,Pretax Income,2026-03-31,6516000000.0
+UTIAMC,A,income,Total Revenue,2023-03-31,11313700000.0
+UTIAMC,A,income,Total Revenue,2024-03-31,11820600000.0
+UTIAMC,A,income,Total Revenue,2025-03-31,14453100000.0
+UTIAMC,A,income,Total Revenue,2026-03-31,15389200000.0
+UTIAMC,Q,income,Basic EPS,2025-06-30,18.5
+UTIAMC,Q,income,Basic EPS,2025-12-31,9.43
+UTIAMC,Q,income,Basic EPS,2026-03-31,-5.19
+UTIAMC,Q,income,Basic EPS,2026-06-30,22.86
+UTIAMC,Q,income,Basic EPS,2026-09-30,10.29
+UTIAMC,Q,income,Diluted EPS,2025-06-30,18.42
+UTIAMC,Q,income,Diluted EPS,2025-12-31,9.39
+UTIAMC,Q,income,Diluted EPS,2026-03-31,-5.19
+UTIAMC,Q,income,Diluted EPS,2026-06-30,22.84
+UTIAMC,Q,income,Diluted EPS,2026-09-30,10.29
+UTIAMC,Q,income,EBITDA,2025-06-30,3416700000.0
+UTIAMC,Q,income,EBITDA,2025-12-31,1942700000.0
+UTIAMC,Q,income,EBITDA,2026-03-31,-3900000.0
+UTIAMC,Q,income,EBITDA,2026-06-30,3842900000.0
+UTIAMC,Q,income,EBITDA,2026-09-30,1915800000.0
+UTIAMC,Q,income,Interest Expense,2025-06-30,33800000.0
+UTIAMC,Q,income,Interest Expense,2025-12-31,33300000.0
+UTIAMC,Q,income,Interest Expense,2026-03-31,31900000.0
+UTIAMC,Q,income,Interest Expense,2026-06-30,32800000.0
+UTIAMC,Q,income,Interest Expense,2026-09-30,32700000.0
+UTIAMC,Q,income,Net Income,2025-06-30,2368500000.0
+UTIAMC,Q,income,Net Income,2025-12-31,1209700000.0
+UTIAMC,Q,income,Net Income,2026-03-31,-667100000.0
+UTIAMC,Q,income,Net Income,2026-06-30,2938600000.0
+UTIAMC,Q,income,Net Income,2026-09-30,1323100000.0
+UTIAMC,Q,income,Net Income Common Stockholders,2025-06-30,2368500000.0
+UTIAMC,Q,income,Net Income Common Stockholders,2025-12-31,1209700000.0
+UTIAMC,Q,income,Net Income Common Stockholders,2026-03-31,-667100000.0
+UTIAMC,Q,income,Net Income Common Stockholders,2026-06-30,2938600000.0
+UTIAMC,Q,income,Net Income Common Stockholders,2026-09-30,1323100000.0
+UTIAMC,Q,income,Operating Income,2025-06-30,1600800000.0
+UTIAMC,Q,income,Operating Income,2025-12-31,1672500000.0
+UTIAMC,Q,income,Operating Income,2026-03-31,1340700000.0
+UTIAMC,Q,income,Operating Income,2026-06-30,1647300000.0
+UTIAMC,Q,income,Operating Income,2026-09-30,1768500000.0
+UTIAMC,Q,income,Pretax Income,2025-06-30,3260200000.0
+UTIAMC,Q,income,Pretax Income,2025-12-31,1782700000.0
+UTIAMC,Q,income,Pretax Income,2026-03-31,-168000000.0
+UTIAMC,Q,income,Pretax Income,2026-06-30,3679400000.0
+UTIAMC,Q,income,Pretax Income,2026-09-30,1752000000.0
+UTIAMC,Q,income,Total Revenue,2025-06-30,3792900000.0
+UTIAMC,Q,income,Total Revenue,2025-12-31,3947400000.0
+UTIAMC,Q,income,Total Revenue,2026-03-31,3748800000.0
+UTIAMC,Q,income,Total Revenue,2026-06-30,3787400000.0
+UTIAMC,Q,income,Total Revenue,2026-09-30,3984000000.0

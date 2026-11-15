@@ -1,0 +1,87 @@
+symbol,freq,statement,item,period_end,value
+ICICIGI,A,balance,Cash And Cash Equivalents,2023-03-31,2031293000.0
+ICICIGI,A,balance,Cash And Cash Equivalents,2024-03-31,3345800000.0
+ICICIGI,A,balance,Cash And Cash Equivalents,2025-03-31,875700000.0
+ICICIGI,A,balance,Cash And Cash Equivalents,2026-03-31,9867800000.0
+ICICIGI,A,balance,Net Debt,2022-03-31,570773000.0
+ICICIGI,A,balance,Ordinary Shares Number,2023-03-31,491125103.0
+ICICIGI,A,balance,Ordinary Shares Number,2024-03-31,492685295.0
+ICICIGI,A,balance,Ordinary Shares Number,2025-03-31,495726477.0
+ICICIGI,A,balance,Ordinary Shares Number,2026-03-31,498494992.0
+ICICIGI,A,balance,Stockholders Equity,2023-03-31,104439435000.0
+ICICIGI,A,balance,Stockholders Equity,2024-03-31,122050000000.0
+ICICIGI,A,balance,Stockholders Equity,2025-03-31,144851700000.0
+ICICIGI,A,balance,Stockholders Equity,2026-03-31,166338900000.0
+ICICIGI,A,balance,Total Assets,2023-03-31,550862045000.0
+ICICIGI,A,balance,Total Assets,2024-03-31,633082900000.0
+ICICIGI,A,balance,Total Assets,2025-03-31,691450300000.0
+ICICIGI,A,balance,Total Assets,2026-03-31,761109400000.0
+ICICIGI,A,balance,Total Debt,2022-03-31,2550000000.0
+ICICIGI,A,balance,Total Debt,2023-03-31,350000000.0
+ICICIGI,A,balance,Total Debt,2024-03-31,350000000.0
+ICICIGI,A,cashflow,Capital Expenditure,2023-03-31,-1209125000.0
+ICICIGI,A,cashflow,Capital Expenditure,2024-03-31,-1904400000.0
+ICICIGI,A,cashflow,Capital Expenditure,2025-03-31,-2311500000.0
+ICICIGI,A,cashflow,Capital Expenditure,2026-03-31,-2433400000.0
+ICICIGI,A,cashflow,Free Cash Flow,2023-03-31,21692215000.0
+ICICIGI,A,cashflow,Free Cash Flow,2024-03-31,22163300000.0
+ICICIGI,A,cashflow,Free Cash Flow,2025-03-31,9161600000.0
+ICICIGI,A,cashflow,Free Cash Flow,2026-03-31,23786300000.0
+ICICIGI,A,income,Basic EPS,2023-03-31,35.21
+ICICIGI,A,income,Basic EPS,2024-03-31,39.03
+ICICIGI,A,income,Basic EPS,2025-03-31,50.74
+ICICIGI,A,income,Basic EPS,2026-03-31,55.74
+ICICIGI,A,income,Diluted EPS,2023-03-31,35.16
+ICICIGI,A,income,Diluted EPS,2024-03-31,38.78
+ICICIGI,A,income,Diluted EPS,2025-03-31,50.25
+ICICIGI,A,income,Diluted EPS,2026-03-31,55.24
+ICICIGI,A,income,Interest Expense,2023-03-31,806232000.0
+ICICIGI,A,income,Interest Expense,2024-03-31,941400000.0
+ICICIGI,A,income,Interest Expense,2025-03-31,1013200000.0
+ICICIGI,A,income,Interest Expense,2026-03-31,910400000.0
+ICICIGI,A,income,Net Income,2023-03-31,17290519000.0
+ICICIGI,A,income,Net Income,2024-03-31,19185900000.0
+ICICIGI,A,income,Net Income,2025-03-31,25082900000.0
+ICICIGI,A,income,Net Income,2026-03-31,27719400000.0
+ICICIGI,A,income,Net Income Common Stockholders,2023-03-31,17290519000.0
+ICICIGI,A,income,Net Income Common Stockholders,2024-03-31,19185900000.0
+ICICIGI,A,income,Net Income Common Stockholders,2025-03-31,25082900000.0
+ICICIGI,A,income,Net Income Common Stockholders,2026-03-31,27719400000.0
+ICICIGI,A,income,Pretax Income,2023-03-31,21125334000.0
+ICICIGI,A,income,Pretax Income,2024-03-31,25551800000.0
+ICICIGI,A,income,Pretax Income,2025-03-31,33213100000.0
+ICICIGI,A,income,Pretax Income,2026-03-31,36589300000.0
+ICICIGI,A,income,Total Revenue,2023-03-31,185704485000.0
+ICICIGI,A,income,Total Revenue,2024-03-31,217681400000.0
+ICICIGI,A,income,Total Revenue,2025-03-31,249005800000.0
+ICICIGI,A,income,Total Revenue,2026-03-31,281408200000.0
+ICICIGI,Q,income,Basic EPS,2025-06-30,15.06
+ICICIGI,Q,income,Basic EPS,2025-12-31,13.25
+ICICIGI,Q,income,Basic EPS,2026-03-31,10.97
+ICICIGI,Q,income,Basic EPS,2026-06-30,8.08
+ICICIGI,Q,income,Basic EPS,2026-09-30,18.95
+ICICIGI,Q,income,Diluted EPS,2025-06-30,14.92
+ICICIGI,Q,income,Diluted EPS,2025-12-31,13.14
+ICICIGI,Q,income,Diluted EPS,2026-03-31,10.89
+ICICIGI,Q,income,Diluted EPS,2026-06-30,8.03
+ICICIGI,Q,income,Diluted EPS,2026-09-30,18.95
+ICICIGI,Q,income,Net Income,2025-06-30,7470800000.0
+ICICIGI,Q,income,Net Income,2025-12-31,6587600000.0
+ICICIGI,Q,income,Net Income,2026-03-31,5465600000.0
+ICICIGI,Q,income,Net Income,2026-06-30,4031700000.0
+ICICIGI,Q,income,Net Income,2026-09-30,9464000000.0
+ICICIGI,Q,income,Net Income Common Stockholders,2025-06-30,7470800000.0
+ICICIGI,Q,income,Net Income Common Stockholders,2025-12-31,6587600000.0
+ICICIGI,Q,income,Net Income Common Stockholders,2026-03-31,5465600000.0
+ICICIGI,Q,income,Net Income Common Stockholders,2026-06-30,4031700000.0
+ICICIGI,Q,income,Net Income Common Stockholders,2026-09-30,9464000000.0
+ICICIGI,Q,income,Pretax Income,2025-06-30,9937100000.0
+ICICIGI,Q,income,Pretax Income,2025-12-31,8697500000.0
+ICICIGI,Q,income,Pretax Income,2026-03-31,7182000000.0
+ICICIGI,Q,income,Pretax Income,2026-06-30,5357000000.0
+ICICIGI,Q,income,Pretax Income,2026-09-30,12474100000.0
+ICICIGI,Q,income,Total Revenue,2025-06-30,64240300000.0
+ICICIGI,Q,income,Total Revenue,2025-12-31,69047400000.0
+ICICIGI,Q,income,Total Revenue,2026-03-31,67757900000.0
+ICICIGI,Q,income,Total Revenue,2026-06-30,71241900000.0
+ICICIGI,Q,income,Total Revenue,2026-09-30,82047400000.0

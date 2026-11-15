@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PTC,A,balance,Cash And Cash Equivalents,2023-03-31,9660100000.0
+PTC,A,balance,Cash And Cash Equivalents,2024-03-31,8600200000.0
+PTC,A,balance,Cash And Cash Equivalents,2025-03-31,17098200000.0
+PTC,A,balance,Cash And Cash Equivalents,2026-03-31,2753400000.0
+PTC,A,balance,Net Debt,2023-03-31,55546000000.0
+PTC,A,balance,Net Debt,2024-03-31,34449200000.0
+PTC,A,balance,Net Debt,2025-03-31,12357700000.0
+PTC,A,balance,Net Debt,2026-03-31,14818300000.0
+PTC,A,balance,Ordinary Shares Number,2023-03-31,296008321.0
+PTC,A,balance,Ordinary Shares Number,2024-03-31,296008321.0
+PTC,A,balance,Ordinary Shares Number,2025-03-31,296008321.0
+PTC,A,balance,Ordinary Shares Number,2026-03-31,296008321.0
+PTC,A,balance,Stockholders Equity,2023-03-31,50187400000.0
+PTC,A,balance,Stockholders Equity,2024-03-31,51419200000.0
+PTC,A,balance,Stockholders Equity,2025-03-31,58051100000.0
+PTC,A,balance,Stockholders Equity,2026-03-31,59807700000.0
+PTC,A,balance,Total Assets,2023-03-31,166296000000.0
+PTC,A,balance,Total Assets,2024-03-31,151229500000.0
+PTC,A,balance,Total Assets,2025-03-31,129158800000.0
+PTC,A,balance,Total Assets,2026-03-31,126307100000.0
+PTC,A,balance,Total Debt,2023-03-31,65460000000.0
+PTC,A,balance,Total Debt,2024-03-31,43271000000.0
+PTC,A,balance,Total Debt,2025-03-31,29624300000.0
+PTC,A,balance,Total Debt,2026-03-31,17688200000.0
+PTC,A,cashflow,Capital Expenditure,2023-03-31,-18000000.0
+PTC,A,cashflow,Capital Expenditure,2024-03-31,-28600000.0
+PTC,A,cashflow,Capital Expenditure,2025-03-31,-54700000.0
+PTC,A,cashflow,Capital Expenditure,2026-03-31,-42500000.0
+PTC,A,cashflow,Free Cash Flow,2023-03-31,35733000000.0
+PTC,A,cashflow,Free Cash Flow,2024-03-31,24476800000.0
+PTC,A,cashflow,Free Cash Flow,2025-03-31,18583900000.0
+PTC,A,cashflow,Free Cash Flow,2026-03-31,28127500000.0
+PTC,A,cashflow,Operating Cash Flow,2023-03-31,35751000000.0
+PTC,A,cashflow,Operating Cash Flow,2024-03-31,24505400000.0
+PTC,A,cashflow,Operating Cash Flow,2025-03-31,18638600000.0
+PTC,A,cashflow,Operating Cash Flow,2026-03-31,28170000000.0
+PTC,A,income,Basic EPS,2023-03-31,15.05
+PTC,A,income,Basic EPS,2024-03-31,16.11
+PTC,A,income,Basic EPS,2025-03-31,30.41
+PTC,A,income,Basic EPS,2026-03-31,20.46
+PTC,A,income,Diluted EPS,2023-03-31,15.05
+PTC,A,income,Diluted EPS,2024-03-31,16.11
+PTC,A,income,Diluted EPS,2025-03-31,30.41
+PTC,A,income,Diluted EPS,2026-03-31,20.46
+PTC,A,income,EBITDA,2023-03-31,11254200000.0
+PTC,A,income,EBITDA,2024-03-31,10869800000.0
+PTC,A,income,EBITDA,2025-03-31,14746300000.0
+PTC,A,income,EBITDA,2026-03-31,11623500000.0
+PTC,A,income,Interest Expense,2023-03-31,4623800000.0
+PTC,A,income,Interest Expense,2024-03-31,4231800000.0
+PTC,A,income,Interest Expense,2025-03-31,3485700000.0
+PTC,A,income,Interest Expense,2026-03-31,2263700000.0
+PTC,A,income,Net Income,2023-03-31,4456000000.0
+PTC,A,income,Net Income,2024-03-31,4768800000.0
+PTC,A,income,Net Income,2025-03-31,9002500000.0
+PTC,A,income,Net Income,2026-03-31,6056300000.0
+PTC,A,income,Net Income Common Stockholders,2023-03-31,4456000000.0
+PTC,A,income,Net Income Common Stockholders,2024-03-31,4768800000.0
+PTC,A,income,Net Income Common Stockholders,2025-03-31,9002500000.0
+PTC,A,income,Net Income Common Stockholders,2026-03-31,6056300000.0
+PTC,A,income,Operating Income,2023-03-31,11518600000.0
+PTC,A,income,Operating Income,2024-03-31,11736800000.0
+PTC,A,income,Operating Income,2025-03-31,8265100000.0
+PTC,A,income,Operating Income,2026-03-31,6971600000.0
+PTC,A,income,Pretax Income,2023-03-31,6531000000.0
+PTC,A,income,Pretax Income,2024-03-31,6537900000.0
+PTC,A,income,Pretax Income,2025-03-31,11167500000.0
+PTC,A,income,Pretax Income,2026-03-31,9256400000.0
+PTC,A,income,Total Revenue,2023-03-31,153042500000.0
+PTC,A,income,Total Revenue,2024-03-31,164985900000.0
+PTC,A,income,Total Revenue,2025-03-31,155962100000.0
+PTC,A,income,Total Revenue,2026-03-31,166657300000.0
+PTC,Q,income,Basic EPS,2025-09-30,6.46
+PTC,Q,income,Basic EPS,2025-12-31,3.85
+PTC,Q,income,Basic EPS,2026-03-31,3.56
+PTC,Q,income,Basic EPS,2026-06-30,3.31
+PTC,Q,income,Basic EPS,2026-09-30,4.85
+PTC,Q,income,Diluted EPS,2025-09-30,6.46
+PTC,Q,income,Diluted EPS,2025-12-31,3.85
+PTC,Q,income,Diluted EPS,2026-03-31,3.56
+PTC,Q,income,Diluted EPS,2026-06-30,3.31
+PTC,Q,income,Diluted EPS,2026-09-30,4.85
+PTC,Q,income,EBITDA,2025-09-30,3595900000.0
+PTC,Q,income,EBITDA,2025-12-31,2390000000.0
+PTC,Q,income,EBITDA,2026-03-31,2195500000.0
+PTC,Q,income,EBITDA,2026-06-30,2084200000.0
+PTC,Q,income,EBITDA,2026-09-30,2153100000.0
+PTC,Q,income,Interest Expense,2025-09-30,589200000.0
+PTC,Q,income,Interest Expense,2025-12-31,613500000.0
+PTC,Q,income,Interest Expense,2026-03-31,529900000.0
+PTC,Q,income,Interest Expense,2026-06-30,550400000.0
+PTC,Q,income,Interest Expense,2026-09-30,417000000.0
+PTC,Q,income,Net Income,2025-09-30,1911900000.0
+PTC,Q,income,Net Income,2025-12-31,1140500000.0
+PTC,Q,income,Net Income,2026-03-31,1053400000.0
+PTC,Q,income,Net Income,2026-06-30,979900000.0
+PTC,Q,income,Net Income,2026-09-30,1436800000.0
+PTC,Q,income,Net Income Common Stockholders,2025-09-30,1911900000.0
+PTC,Q,income,Net Income Common Stockholders,2025-12-31,1140500000.0
+PTC,Q,income,Net Income Common Stockholders,2026-03-31,1053400000.0
+PTC,Q,income,Net Income Common Stockholders,2026-06-30,979900000.0
+PTC,Q,income,Net Income Common Stockholders,2026-09-30,1436800000.0
+PTC,Q,income,Operating Income,2025-09-30,2159200000.0
+PTC,Q,income,Operating Income,2025-12-31,1587100000.0
+PTC,Q,income,Operating Income,2026-03-31,1423800000.0
+PTC,Q,income,Operating Income,2026-06-30,1443700000.0
+PTC,Q,income,Operating Income,2026-09-30,1914700000.0
+PTC,Q,income,Pretax Income,2025-09-30,2980600000.0
+PTC,Q,income,Pretax Income,2025-12-31,1749900000.0
+PTC,Q,income,Pretax Income,2026-03-31,1638500000.0
+PTC,Q,income,Pretax Income,2026-06-30,1509600000.0
+PTC,Q,income,Pretax Income,2026-09-30,1711000000.0
+PTC,Q,income,Total Revenue,2025-09-30,54211500000.0
+PTC,Q,income,Total Revenue,2025-12-31,33637300000.0
+PTC,Q,income,Total Revenue,2026-03-31,38599700000.0
+PTC,Q,income,Total Revenue,2026-06-30,47306600000.0
+PTC,Q,income,Total Revenue,2026-09-30,57625300000.0

@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+E2E,A,balance,Cash And Cash Equivalents,2023-03-31,163131000.0
+E2E,A,balance,Cash And Cash Equivalents,2024-03-31,77714000.0
+E2E,A,balance,Cash And Cash Equivalents,2025-03-31,4636812000.0
+E2E,A,balance,Cash And Cash Equivalents,2026-03-31,3215710000.0
+E2E,A,balance,Net Debt,2024-03-31,953067000.0
+E2E,A,balance,Ordinary Shares Number,2023-03-31,144751260.0
+E2E,A,balance,Ordinary Shares Number,2024-03-31,144751260.0
+E2E,A,balance,Ordinary Shares Number,2025-03-31,199401080.0
+E2E,A,balance,Ordinary Shares Number,2026-03-31,205390390.0
+E2E,A,balance,Stockholders Equity,2023-03-31,494001000.0
+E2E,A,balance,Stockholders Equity,2024-03-31,708512000.0
+E2E,A,balance,Stockholders Equity,2025-03-31,15927738000.0
+E2E,A,balance,Stockholders Equity,2026-03-31,16850518000.0
+E2E,A,balance,Total Assets,2023-03-31,684073000.0
+E2E,A,balance,Total Assets,2024-03-31,2552356000.0
+E2E,A,balance,Total Assets,2025-03-31,25807416000.0
+E2E,A,balance,Total Assets,2026-03-31,23281028000.0
+E2E,A,balance,Total Debt,2023-03-31,58879000.0
+E2E,A,balance,Total Debt,2024-03-31,1440290000.0
+E2E,A,balance,Total Debt,2025-03-31,729646000.0
+E2E,A,balance,Total Debt,2026-03-31,1590875000.0
+E2E,A,cashflow,Capital Expenditure,2023-03-31,-189401000.0
+E2E,A,cashflow,Capital Expenditure,2024-03-31,-1455339000.0
+E2E,A,cashflow,Capital Expenditure,2025-03-31,-1259303000.0
+E2E,A,cashflow,Capital Expenditure,2026-03-31,-12624503000.0
+E2E,A,cashflow,Free Cash Flow,2023-03-31,165892000.0
+E2E,A,cashflow,Free Cash Flow,2024-03-31,-1026706000.0
+E2E,A,cashflow,Free Cash Flow,2025-03-31,-374640000.0
+E2E,A,cashflow,Free Cash Flow,2026-03-31,-11403935000.0
+E2E,A,cashflow,Operating Cash Flow,2023-03-31,355293000.0
+E2E,A,cashflow,Operating Cash Flow,2024-03-31,428633000.0
+E2E,A,cashflow,Operating Cash Flow,2025-03-31,884663000.0
+E2E,A,cashflow,Operating Cash Flow,2026-03-31,1220568000.0
+E2E,A,income,Basic EPS,2023-03-31,0.685
+E2E,A,income,Basic EPS,2024-03-31,1.511
+E2E,A,income,Basic EPS,2025-03-31,2.828
+E2E,A,income,Basic EPS,2026-03-31,-0.775
+E2E,A,income,Diluted EPS,2023-03-31,0.677
+E2E,A,income,Diluted EPS,2024-03-31,1.47
+E2E,A,income,Diluted EPS,2025-03-31,2.721
+E2E,A,income,Diluted EPS,2026-03-31,-0.775
+E2E,A,income,EBITDA,2023-03-31,337966000.0
+E2E,A,income,EBITDA,2024-03-31,495522000.0
+E2E,A,income,EBITDA,2025-03-31,1358067000.0
+E2E,A,income,EBITDA,2026-03-31,1598634000.0
+E2E,A,income,Interest Expense,2023-03-31,4488000.0
+E2E,A,income,Interest Expense,2024-03-31,35901000.0
+E2E,A,income,Interest Expense,2025-03-31,129392000.0
+E2E,A,income,Interest Expense,2026-03-31,118360000.0
+E2E,A,income,Net Income,2023-03-31,99099000.0
+E2E,A,income,Net Income,2024-03-31,218669000.0
+E2E,A,income,Net Income,2025-03-31,474943000.0
+E2E,A,income,Net Income,2026-03-31,-155659000.0
+E2E,A,income,Net Income Common Stockholders,2023-03-31,99099000.0
+E2E,A,income,Net Income Common Stockholders,2024-03-31,218669000.0
+E2E,A,income,Net Income Common Stockholders,2025-03-31,474943000.0
+E2E,A,income,Net Income Common Stockholders,2026-03-31,-155659000.0
+E2E,A,income,Operating Income,2023-03-31,129683000.0
+E2E,A,income,Operating Income,2024-03-31,327210000.0
+E2E,A,income,Operating Income,2025-03-31,373362000.0
+E2E,A,income,Operating Income,2026-03-31,-424234000.0
+E2E,A,income,Pretax Income,2023-03-31,132362000.0
+E2E,A,income,Pretax Income,2024-03-31,302142000.0
+E2E,A,income,Pretax Income,2025-03-31,627914000.0
+E2E,A,income,Pretax Income,2026-03-31,-211995000.0
+E2E,A,income,Total Revenue,2023-03-31,662018000.0
+E2E,A,income,Total Revenue,2024-03-31,944636000.0
+E2E,A,income,Total Revenue,2025-03-31,1639608000.0
+E2E,A,income,Total Revenue,2026-03-31,2455801000.0
+E2E,Q,income,Basic EPS,2025-09-30,-0.67
+E2E,Q,income,Basic EPS,2025-12-31,-0.285
+E2E,Q,income,Basic EPS,2026-03-31,0.321
+E2E,Q,income,Basic EPS,2026-06-30,2.14
+E2E,Q,income,Basic EPS,2026-09-30,3.54
+E2E,Q,income,Diluted EPS,2025-09-30,-0.67
+E2E,Q,income,Diluted EPS,2025-12-31,-0.285
+E2E,Q,income,Diluted EPS,2026-03-31,0.315
+E2E,Q,income,Diluted EPS,2026-06-30,2.1
+E2E,Q,income,Diluted EPS,2026-09-30,3.48
+E2E,Q,income,EBITDA,2025-09-30,263038000.0
+E2E,Q,income,EBITDA,2025-12-31,448699000.0
+E2E,Q,income,EBITDA,2026-03-31,635850000.0
+E2E,Q,income,EBITDA,2026-06-30,1293223000.0
+E2E,Q,income,EBITDA,2026-09-30,1813901000.0
+E2E,Q,income,Interest Expense,2025-09-30,19970000.0
+E2E,Q,income,Interest Expense,2025-12-31,47333000.0
+E2E,Q,income,Interest Expense,2026-03-31,36804000.0
+E2E,Q,income,Interest Expense,2026-06-30,100515000.0
+E2E,Q,income,Interest Expense,2026-09-30,102957000.0
+E2E,Q,income,Net Income,2025-09-30,-134608000.0
+E2E,Q,income,Net Income,2025-12-31,-56991000.0
+E2E,Q,income,Net Income,2026-03-31,64356000.0
+E2E,Q,income,Net Income,2026-06-30,438821000.0
+E2E,Q,income,Net Income,2026-09-30,727047000.0
+E2E,Q,income,Net Income Common Stockholders,2025-09-30,-134608000.0
+E2E,Q,income,Net Income Common Stockholders,2025-12-31,-56991000.0
+E2E,Q,income,Net Income Common Stockholders,2026-03-31,64356000.0
+E2E,Q,income,Net Income Common Stockholders,2026-06-30,438821000.0
+E2E,Q,income,Net Income Common Stockholders,2026-09-30,727047000.0
+E2E,Q,income,Operating Income,2025-09-30,-247983000.0
+E2E,Q,income,Operating Income,2025-12-31,-80034000.0
+E2E,Q,income,Operating Income,2026-03-31,67558000.0
+E2E,Q,income,Operating Income,2026-06-30,572578000.0
+E2E,Q,income,Operating Income,2026-09-30,974931000.0
+E2E,Q,income,Pretax Income,2025-09-30,-184920000.0
+E2E,Q,income,Pretax Income,2025-12-31,-75120000.0
+E2E,Q,income,Pretax Income,2026-03-31,85582000.0
+E2E,Q,income,Pretax Income,2026-06-30,586264000.0
+E2E,Q,income,Pretax Income,2026-09-30,971261000.0
+E2E,Q,income,Total Revenue,2025-09-30,438049000.0
+E2E,Q,income,Total Revenue,2025-12-31,700223000.0
+E2E,Q,income,Total Revenue,2026-03-31,956427000.0
+E2E,Q,income,Total Revenue,2026-06-30,1567599000.0
+E2E,Q,income,Total Revenue,2026-09-30,2237643000.0

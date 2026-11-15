@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+AKUMS,A,balance,Cash And Cash Equivalents,2023-03-31,516080000.0
+AKUMS,A,balance,Cash And Cash Equivalents,2024-03-31,1110500000.0
+AKUMS,A,balance,Cash And Cash Equivalents,2025-03-31,1011910000.0
+AKUMS,A,balance,Cash And Cash Equivalents,2026-03-31,3858980000.0
+AKUMS,A,balance,Net Debt,2022-03-31,3028140000.0
+AKUMS,A,balance,Net Debt,2023-03-31,4853650000.0
+AKUMS,A,balance,Net Debt,2024-03-31,3805050000.0
+AKUMS,A,balance,Ordinary Shares Number,2023-03-31,153102066.0
+AKUMS,A,balance,Ordinary Shares Number,2024-03-31,153102066.0
+AKUMS,A,balance,Ordinary Shares Number,2025-03-31,153102058.0
+AKUMS,A,balance,Ordinary Shares Number,2026-03-31,153102058.0
+AKUMS,A,balance,Stockholders Equity,2023-03-31,7171890000.0
+AKUMS,A,balance,Stockholders Equity,2024-03-31,7094980000.0
+AKUMS,A,balance,Stockholders Equity,2025-03-31,30470140000.0
+AKUMS,A,balance,Stockholders Equity,2026-03-31,33133480000.0
+AKUMS,A,balance,Total Assets,2023-03-31,32665270000.0
+AKUMS,A,balance,Total Assets,2024-03-31,35163650000.0
+AKUMS,A,balance,Total Assets,2025-03-31,41134420000.0
+AKUMS,A,balance,Total Assets,2026-03-31,54469650000.0
+AKUMS,A,balance,Total Debt,2023-03-31,6190940000.0
+AKUMS,A,balance,Total Debt,2024-03-31,5652250000.0
+AKUMS,A,balance,Total Debt,2025-03-31,882120000.0
+AKUMS,A,balance,Total Debt,2026-03-31,1917380000.0
+AKUMS,A,cashflow,Capital Expenditure,2023-03-31,-3287930000.0
+AKUMS,A,cashflow,Capital Expenditure,2024-03-31,-3114080000.0
+AKUMS,A,cashflow,Capital Expenditure,2025-03-31,-2723120000.0
+AKUMS,A,cashflow,Capital Expenditure,2026-03-31,-2305290000.0
+AKUMS,A,cashflow,Free Cash Flow,2023-03-31,-1521620000.0
+AKUMS,A,cashflow,Free Cash Flow,2024-03-31,1868510000.0
+AKUMS,A,cashflow,Free Cash Flow,2025-03-31,1928840000.0
+AKUMS,A,cashflow,Free Cash Flow,2026-03-31,9506730000.0
+AKUMS,A,cashflow,Operating Cash Flow,2023-03-31,1766310000.0
+AKUMS,A,cashflow,Operating Cash Flow,2024-03-31,4982590000.0
+AKUMS,A,cashflow,Operating Cash Flow,2025-03-31,4651960000.0
+AKUMS,A,cashflow,Operating Cash Flow,2026-03-31,11812020000.0
+AKUMS,A,income,Basic EPS,2023-03-31,6.026596
+AKUMS,A,income,Basic EPS,2024-03-31,-0.28
+AKUMS,A,income,Basic EPS,2025-03-31,22.6
+AKUMS,A,income,Basic EPS,2026-03-31,16.67
+AKUMS,A,income,Diluted EPS,2023-03-31,6.026596
+AKUMS,A,income,Diluted EPS,2024-03-31,-0.28
+AKUMS,A,income,Diluted EPS,2025-03-31,22.6
+AKUMS,A,income,Diluted EPS,2026-03-31,16.67
+AKUMS,A,income,EBITDA,2023-03-31,3090790000.0
+AKUMS,A,income,EBITDA,2024-03-31,1306130000.0
+AKUMS,A,income,EBITDA,2025-03-31,5291060000.0
+AKUMS,A,income,EBITDA,2026-03-31,6252740000.0
+AKUMS,A,income,Interest Expense,2023-03-31,459730000.0
+AKUMS,A,income,Interest Expense,2024-03-31,502510000.0
+AKUMS,A,income,Interest Expense,2025-03-31,304070000.0
+AKUMS,A,income,Interest Expense,2026-03-31,886220000.0
+AKUMS,A,income,Net Income,2023-03-31,948550000.0
+AKUMS,A,income,Net Income,2024-03-31,-40350000.0
+AKUMS,A,income,Net Income,2025-03-31,3381760000.0
+AKUMS,A,income,Net Income,2026-03-31,2551880000.0
+AKUMS,A,income,Net Income Common Stockholders,2023-03-31,948550000.0
+AKUMS,A,income,Net Income Common Stockholders,2024-03-31,-40350000.0
+AKUMS,A,income,Net Income Common Stockholders,2025-03-31,3381760000.0
+AKUMS,A,income,Net Income Common Stockholders,2026-03-31,2551880000.0
+AKUMS,A,income,Operating Income,2023-03-31,1913140000.0
+AKUMS,A,income,Operating Income,2024-03-31,3598990000.0
+AKUMS,A,income,Operating Income,2025-03-31,3106510000.0
+AKUMS,A,income,Operating Income,2026-03-31,3739710000.0
+AKUMS,A,income,Pretax Income,2023-03-31,1502970000.0
+AKUMS,A,income,Pretax Income,2024-03-31,-452780000.0
+AKUMS,A,income,Pretax Income,2025-03-31,3452530000.0
+AKUMS,A,income,Pretax Income,2026-03-31,3821010000.0
+AKUMS,A,income,Total Revenue,2023-03-31,34747640000.0
+AKUMS,A,income,Total Revenue,2024-03-31,40196820000.0
+AKUMS,A,income,Total Revenue,2025-03-31,40710930000.0
+AKUMS,A,income,Total Revenue,2026-03-31,42513080000.0
+AKUMS,Q,income,Basic EPS,2025-09-30,2.66
+AKUMS,Q,income,Basic EPS,2025-12-31,4.33
+AKUMS,Q,income,Basic EPS,2026-03-31,5.53
+AKUMS,Q,income,Basic EPS,2026-06-30,6.53
+AKUMS,Q,income,Basic EPS,2026-09-30,7.37
+AKUMS,Q,income,Diluted EPS,2025-09-30,2.66
+AKUMS,Q,income,Diluted EPS,2025-12-31,4.33
+AKUMS,Q,income,Diluted EPS,2026-03-31,5.53
+AKUMS,Q,income,Diluted EPS,2026-06-30,6.53
+AKUMS,Q,income,Diluted EPS,2026-09-30,7.37
+AKUMS,Q,income,EBITDA,2025-09-30,1234370000.0
+AKUMS,Q,income,EBITDA,2025-12-31,1629570000.0
+AKUMS,Q,income,EBITDA,2026-03-31,1852260000.0
+AKUMS,Q,income,EBITDA,2026-06-30,2050580000.0
+AKUMS,Q,income,EBITDA,2026-09-30,2181710000.0
+AKUMS,Q,income,Interest Expense,2025-09-30,199000000.0
+AKUMS,Q,income,Interest Expense,2025-12-31,237420000.0
+AKUMS,Q,income,Interest Expense,2026-03-31,238920000.0
+AKUMS,Q,income,Interest Expense,2026-06-30,247560000.0
+AKUMS,Q,income,Interest Expense,2026-09-30,202150000.0
+AKUMS,Q,income,Net Income,2025-09-30,407830000.0
+AKUMS,Q,income,Net Income,2025-12-31,663170000.0
+AKUMS,Q,income,Net Income,2026-03-31,846130000.0
+AKUMS,Q,income,Net Income,2026-06-30,1000100000.0
+AKUMS,Q,income,Net Income,2026-09-30,1128510000.0
+AKUMS,Q,income,Net Income Common Stockholders,2025-09-30,407830000.0
+AKUMS,Q,income,Net Income Common Stockholders,2025-12-31,663170000.0
+AKUMS,Q,income,Net Income Common Stockholders,2026-03-31,846130000.0
+AKUMS,Q,income,Net Income Common Stockholders,2026-06-30,1000100000.0
+AKUMS,Q,income,Net Income Common Stockholders,2026-09-30,1128510000.0
+AKUMS,Q,income,Operating Income,2025-09-30,566120000.0
+AKUMS,Q,income,Operating Income,2025-12-31,1072080000.0
+AKUMS,Q,income,Operating Income,2026-03-31,1116030000.0
+AKUMS,Q,income,Operating Income,2026-06-30,1336130000.0
+AKUMS,Q,income,Operating Income,2026-09-30,1515160000.0
+AKUMS,Q,income,Pretax Income,2025-09-30,656730000.0
+AKUMS,Q,income,Pretax Income,2025-12-31,995660000.0
+AKUMS,Q,income,Pretax Income,2026-03-31,1212160000.0
+AKUMS,Q,income,Pretax Income,2026-06-30,1392370000.0
+AKUMS,Q,income,Pretax Income,2026-09-30,1547440000.0
+AKUMS,Q,income,Total Revenue,2025-09-30,10175300000.0
+AKUMS,Q,income,Total Revenue,2025-12-31,11595870000.0
+AKUMS,Q,income,Total Revenue,2026-03-31,11578680000.0
+AKUMS,Q,income,Total Revenue,2026-06-30,11666290000.0
+AKUMS,Q,income,Total Revenue,2026-09-30,13423870000.0

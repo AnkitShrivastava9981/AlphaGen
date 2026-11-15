@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+HCG,A,balance,Cash And Cash Equivalents,2023-03-31,1746190000.0
+HCG,A,balance,Cash And Cash Equivalents,2024-03-31,2726130000.0
+HCG,A,balance,Cash And Cash Equivalents,2025-03-31,2358710000.0
+HCG,A,balance,Cash And Cash Equivalents,2026-03-31,5360480000.0
+HCG,A,balance,Net Debt,2023-03-31,2247160000.0
+HCG,A,balance,Net Debt,2024-03-31,4001440000.0
+HCG,A,balance,Net Debt,2025-03-31,7663600000.0
+HCG,A,balance,Net Debt,2026-03-31,3743570000.0
+HCG,A,balance,Ordinary Shares Number,2023-03-31,139975908.0
+HCG,A,balance,Ordinary Shares Number,2024-03-31,140150606.0
+HCG,A,balance,Ordinary Shares Number,2025-03-31,140277065.0
+HCG,A,balance,Ordinary Shares Number,2026-03-31,149302203.0
+HCG,A,balance,Stockholders Equity,2023-03-31,8605220000.0
+HCG,A,balance,Stockholders Equity,2024-03-31,8257800000.0
+HCG,A,balance,Stockholders Equity,2025-03-31,9224440000.0
+HCG,A,balance,Stockholders Equity,2026-03-31,13319700000.0
+HCG,A,balance,Total Assets,2023-03-31,23160170000.0
+HCG,A,balance,Total Assets,2024-03-31,27074980000.0
+HCG,A,balance,Total Assets,2025-03-31,35432360000.0
+HCG,A,balance,Total Assets,2026-03-31,39225300000.0
+HCG,A,balance,Total Debt,2023-03-31,9011980000.0
+HCG,A,balance,Total Debt,2024-03-31,12743600000.0
+HCG,A,balance,Total Debt,2025-03-31,18372210000.0
+HCG,A,balance,Total Debt,2026-03-31,17353520000.0
+HCG,A,cashflow,Capital Expenditure,2023-03-31,-1332370000.0
+HCG,A,cashflow,Capital Expenditure,2024-03-31,-1856800000.0
+HCG,A,cashflow,Capital Expenditure,2025-03-31,-2088670000.0
+HCG,A,cashflow,Capital Expenditure,2026-03-31,-2920990000.0
+HCG,A,cashflow,Free Cash Flow,2023-03-31,1183540000.0
+HCG,A,cashflow,Free Cash Flow,2024-03-31,988990000.0
+HCG,A,cashflow,Free Cash Flow,2025-03-31,1082420000.0
+HCG,A,cashflow,Free Cash Flow,2026-03-31,549880000.0
+HCG,A,cashflow,Operating Cash Flow,2023-03-31,2515910000.0
+HCG,A,cashflow,Operating Cash Flow,2024-03-31,2845790000.0
+HCG,A,cashflow,Operating Cash Flow,2025-03-31,3171090000.0
+HCG,A,cashflow,Operating Cash Flow,2026-03-31,3470870000.0
+HCG,A,income,Basic EPS,2023-03-31,2.097039
+HCG,A,income,Basic EPS,2024-03-31,3.438746
+HCG,A,income,Basic EPS,2025-03-31,3.17
+HCG,A,income,Basic EPS,2026-03-31,0.97
+HCG,A,income,Diluted EPS,2023-03-31,2.0871
+HCG,A,income,Diluted EPS,2024-03-31,3.40893
+HCG,A,income,Diluted EPS,2025-03-31,3.12
+HCG,A,income,Diluted EPS,2026-03-31,0.96
+HCG,A,income,EBITDA,2023-03-31,3027480000.0
+HCG,A,income,EBITDA,2024-03-31,3427790000.0
+HCG,A,income,EBITDA,2025-03-31,4147670000.0
+HCG,A,income,EBITDA,2026-03-31,4388720000.0
+HCG,A,income,Interest Expense,2023-03-31,943950000.0
+HCG,A,income,Interest Expense,2024-03-31,1006940000.0
+HCG,A,income,Interest Expense,2025-03-31,1464590000.0
+HCG,A,income,Interest Expense,2026-03-31,1677910000.0
+HCG,A,income,Net Income,2023-03-31,293490000.0
+HCG,A,income,Net Income,2024-03-31,481550000.0
+HCG,A,income,Net Income,2025-03-31,444100000.0
+HCG,A,income,Net Income,2026-03-31,137550000.0
+HCG,A,income,Net Income Common Stockholders,2023-03-31,293490000.0
+HCG,A,income,Net Income Common Stockholders,2024-03-31,481550000.0
+HCG,A,income,Net Income Common Stockholders,2025-03-31,444100000.0
+HCG,A,income,Net Income Common Stockholders,2026-03-31,137550000.0
+HCG,A,income,Operating Income,2023-03-31,1682500000.0
+HCG,A,income,Operating Income,2024-03-31,1574360000.0
+HCG,A,income,Operating Income,2025-03-31,1867310000.0
+HCG,A,income,Operating Income,2026-03-31,2216090000.0
+HCG,A,income,Pretax Income,2023-03-31,448800000.0
+HCG,A,income,Pretax Income,2024-03-31,677290000.0
+HCG,A,income,Pretax Income,2025-03-31,569640000.0
+HCG,A,income,Pretax Income,2026-03-31,269100000.0
+HCG,A,income,Total Revenue,2023-03-31,16760470000.0
+HCG,A,income,Total Revenue,2024-03-31,18899080000.0
+HCG,A,income,Total Revenue,2025-03-31,22008440000.0
+HCG,A,income,Total Revenue,2026-03-31,25221990000.0
+HCG,Q,income,Basic EPS,2025-09-30,1.15
+HCG,Q,income,Basic EPS,2025-12-31,-0.675823
+HCG,Q,income,Basic EPS,2026-03-31,0.15
+HCG,Q,income,Basic EPS,2026-06-30,0.92
+HCG,Q,income,Basic EPS,2026-09-30,0.32
+HCG,Q,income,Diluted EPS,2025-09-30,1.15
+HCG,Q,income,Diluted EPS,2025-12-31,-0.675823
+HCG,Q,income,Diluted EPS,2026-03-31,0.15
+HCG,Q,income,Diluted EPS,2026-06-30,0.92
+HCG,Q,income,Diluted EPS,2026-09-30,0.32
+HCG,Q,income,EBITDA,2025-09-30,1262400000.0
+HCG,Q,income,EBITDA,2025-12-31,993600000.0
+HCG,Q,income,EBITDA,2026-03-31,1067600000.0
+HCG,Q,income,EBITDA,2026-06-30,1353200000.0
+HCG,Q,income,EBITDA,2026-09-30,1247100000.0
+HCG,Q,income,Interest Expense,2025-09-30,436200000.0
+HCG,Q,income,Interest Expense,2025-12-31,447800000.0
+HCG,Q,income,Interest Expense,2026-03-31,427000000.0
+HCG,Q,income,Interest Expense,2026-06-30,398700000.0
+HCG,Q,income,Interest Expense,2026-09-30,384200000.0
+HCG,Q,income,Net Income,2025-09-30,162700000.0
+HCG,Q,income,Net Income,2025-12-31,-94300000.0
+HCG,Q,income,Net Income,2026-03-31,21700000.0
+HCG,Q,income,Net Income,2026-06-30,137700000.0
+HCG,Q,income,Net Income,2026-09-30,47900000.0
+HCG,Q,income,Net Income Common Stockholders,2025-09-30,162700000.0
+HCG,Q,income,Net Income Common Stockholders,2025-12-31,-94300000.0
+HCG,Q,income,Net Income Common Stockholders,2026-03-31,21700000.0
+HCG,Q,income,Net Income Common Stockholders,2026-06-30,137700000.0
+HCG,Q,income,Net Income Common Stockholders,2026-09-30,47900000.0
+HCG,Q,income,Operating Income,2025-09-30,605100000.0
+HCG,Q,income,Operating Income,2025-12-31,489600000.0
+HCG,Q,income,Operating Income,2026-03-31,622700000.0
+HCG,Q,income,Operating Income,2026-06-30,518400000.0
+HCG,Q,income,Operating Income,2026-09-30,655900000.0
+HCG,Q,income,Pretax Income,2025-09-30,198200000.0
+HCG,Q,income,Pretax Income,2025-12-31,-60700000.0
+HCG,Q,income,Pretax Income,2026-03-31,12500000.0
+HCG,Q,income,Pretax Income,2026-06-30,250300000.0
+HCG,Q,income,Pretax Income,2026-09-30,184900000.0
+HCG,Q,income,Total Revenue,2025-09-30,6451600000.0
+HCG,Q,income,Total Revenue,2025-12-31,6311800000.0
+HCG,Q,income,Total Revenue,2026-03-31,6502900000.0
+HCG,Q,income,Total Revenue,2026-06-30,6933900000.0
+HCG,Q,income,Total Revenue,2026-09-30,7301600000.0

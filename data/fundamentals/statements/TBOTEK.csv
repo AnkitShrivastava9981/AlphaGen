@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+TBOTEK,A,balance,Cash And Cash Equivalents,2023-03-31,5175090000.0
+TBOTEK,A,balance,Cash And Cash Equivalents,2024-03-31,7195460000.0
+TBOTEK,A,balance,Cash And Cash Equivalents,2025-03-31,9616070000.0
+TBOTEK,A,balance,Cash And Cash Equivalents,2026-03-31,10193460000.0
+TBOTEK,A,balance,Ordinary Shares Number,2023-03-31,108587787.0
+TBOTEK,A,balance,Ordinary Shares Number,2024-03-31,108587787.0
+TBOTEK,A,balance,Ordinary Shares Number,2025-03-31,106301497.0
+TBOTEK,A,balance,Ordinary Shares Number,2026-03-31,106783982.0
+TBOTEK,A,balance,Stockholders Equity,2023-03-31,3402860000.0
+TBOTEK,A,balance,Stockholders Equity,2024-03-31,5448070000.0
+TBOTEK,A,balance,Stockholders Equity,2025-03-31,11950570000.0
+TBOTEK,A,balance,Stockholders Equity,2026-03-31,15506610000.0
+TBOTEK,A,balance,Total Assets,2023-03-31,25579250000.0
+TBOTEK,A,balance,Total Assets,2024-03-31,48574290000.0
+TBOTEK,A,balance,Total Assets,2025-03-31,62143270000.0
+TBOTEK,A,balance,Total Assets,2026-03-31,93088830000.0
+TBOTEK,A,balance,Total Debt,2023-03-31,706240000.0
+TBOTEK,A,balance,Total Debt,2024-03-31,2104610000.0
+TBOTEK,A,balance,Total Debt,2025-03-31,2141710000.0
+TBOTEK,A,balance,Total Debt,2026-03-31,7561390000.0
+TBOTEK,A,cashflow,Capital Expenditure,2023-03-31,-70220000.0
+TBOTEK,A,cashflow,Capital Expenditure,2024-03-31,-386960000.0
+TBOTEK,A,cashflow,Capital Expenditure,2025-03-31,-531780000.0
+TBOTEK,A,cashflow,Capital Expenditure,2026-03-31,-667620000.0
+TBOTEK,A,cashflow,Free Cash Flow,2023-03-31,2303750000.0
+TBOTEK,A,cashflow,Free Cash Flow,2024-03-31,1878020000.0
+TBOTEK,A,cashflow,Free Cash Flow,2025-03-31,2356250000.0
+TBOTEK,A,cashflow,Free Cash Flow,2026-03-31,-875360000.0
+TBOTEK,A,cashflow,Operating Cash Flow,2023-03-31,2373970000.0
+TBOTEK,A,cashflow,Operating Cash Flow,2024-03-31,2264980000.0
+TBOTEK,A,cashflow,Operating Cash Flow,2025-03-31,2888030000.0
+TBOTEK,A,cashflow,Operating Cash Flow,2026-03-31,-207740000.0
+TBOTEK,A,income,Basic EPS,2023-03-31,13.284275
+TBOTEK,A,income,Basic EPS,2024-03-31,18.615998
+TBOTEK,A,income,Basic EPS,2025-03-31,21.73
+TBOTEK,A,income,Basic EPS,2026-03-31,22.88
+TBOTEK,A,income,Diluted EPS,2023-03-31,13.284275
+TBOTEK,A,income,Diluted EPS,2024-03-31,18.615998
+TBOTEK,A,income,Diluted EPS,2025-03-31,21.48
+TBOTEK,A,income,Diluted EPS,2026-03-31,22.76
+TBOTEK,A,income,EBITDA,2023-03-31,2059190000.0
+TBOTEK,A,income,EBITDA,2024-03-31,2737240000.0
+TBOTEK,A,income,EBITDA,2025-03-31,3497310000.0
+TBOTEK,A,income,EBITDA,2026-03-31,4233170000.0
+TBOTEK,A,income,Interest Expense,2023-03-31,71670000.0
+TBOTEK,A,income,Interest Expense,2024-03-31,106490000.0
+TBOTEK,A,income,Interest Expense,2025-03-31,232770000.0
+TBOTEK,A,income,Interest Expense,2026-03-31,435790000.0
+TBOTEK,A,income,Net Income,2023-03-31,1442510000.0
+TBOTEK,A,income,Net Income,2024-03-31,2021470000.0
+TBOTEK,A,income,Net Income,2025-03-31,2298910000.0
+TBOTEK,A,income,Net Income,2026-03-31,2443060000.0
+TBOTEK,A,income,Net Income Common Stockholders,2023-03-31,1442510000.0
+TBOTEK,A,income,Net Income Common Stockholders,2024-03-31,2021470000.0
+TBOTEK,A,income,Net Income Common Stockholders,2025-03-31,2298910000.0
+TBOTEK,A,income,Net Income Common Stockholders,2026-03-31,2443060000.0
+TBOTEK,A,income,Operating Income,2023-03-31,1914060000.0
+TBOTEK,A,income,Operating Income,2024-03-31,2559580000.0
+TBOTEK,A,income,Operating Income,2025-03-31,3057340000.0
+TBOTEK,A,income,Operating Income,2026-03-31,3462820000.0
+TBOTEK,A,income,Pretax Income,2023-03-31,1741950000.0
+TBOTEK,A,income,Pretax Income,2024-03-31,2269120000.0
+TBOTEK,A,income,Pretax Income,2025-03-31,2745720000.0
+TBOTEK,A,income,Pretax Income,2026-03-31,2933100000.0
+TBOTEK,A,income,Total Revenue,2023-03-31,9827670000.0
+TBOTEK,A,income,Total Revenue,2024-03-31,12809090000.0
+TBOTEK,A,income,Total Revenue,2025-03-31,16140390000.0
+TBOTEK,A,income,Total Revenue,2026-03-31,25120990000.0
+TBOTEK,Q,income,Basic EPS,2025-06-30,5.9
+TBOTEK,Q,income,Basic EPS,2025-12-31,5.03
+TBOTEK,Q,income,Basic EPS,2026-03-31,5.62
+TBOTEK,Q,income,Basic EPS,2026-06-30,7.77
+TBOTEK,Q,income,Basic EPS,2026-09-30,7.08
+TBOTEK,Q,income,Diluted EPS,2025-06-30,5.85
+TBOTEK,Q,income,Diluted EPS,2025-12-31,4.99
+TBOTEK,Q,income,Diluted EPS,2026-03-31,5.59
+TBOTEK,Q,income,Diluted EPS,2026-06-30,7.74
+TBOTEK,Q,income,Diluted EPS,2026-09-30,7.05
+TBOTEK,Q,income,EBITDA,2025-06-30,945400000.0
+TBOTEK,Q,income,EBITDA,2025-12-31,1074010000.0
+TBOTEK,Q,income,EBITDA,2026-03-31,1181290000.0
+TBOTEK,Q,income,EBITDA,2026-06-30,1509100000.0
+TBOTEK,Q,income,EBITDA,2026-09-30,1423370000.0
+TBOTEK,Q,income,Interest Expense,2025-06-30,52640000.0
+TBOTEK,Q,income,Interest Expense,2025-12-31,148930000.0
+TBOTEK,Q,income,Interest Expense,2026-03-31,145500000.0
+TBOTEK,Q,income,Interest Expense,2026-06-30,145780000.0
+TBOTEK,Q,income,Interest Expense,2026-09-30,169620000.0
+TBOTEK,Q,income,Net Income,2025-06-30,629680000.0
+TBOTEK,Q,income,Net Income,2025-12-31,536920000.0
+TBOTEK,Q,income,Net Income,2026-03-31,600990000.0
+TBOTEK,Q,income,Net Income,2026-06-30,833580000.0
+TBOTEK,Q,income,Net Income,2026-09-30,759940000.0
+TBOTEK,Q,income,Net Income Common Stockholders,2025-06-30,629680000.0
+TBOTEK,Q,income,Net Income Common Stockholders,2025-12-31,536920000.0
+TBOTEK,Q,income,Net Income Common Stockholders,2026-03-31,600990000.0
+TBOTEK,Q,income,Net Income Common Stockholders,2026-06-30,833580000.0
+TBOTEK,Q,income,Net Income Common Stockholders,2026-09-30,759940000.0
+TBOTEK,Q,income,Operating Income,2025-06-30,633040000.0
+TBOTEK,Q,income,Operating Income,2025-12-31,807920000.0
+TBOTEK,Q,income,Operating Income,2026-03-31,754370000.0
+TBOTEK,Q,income,Operating Income,2026-06-30,1104760000.0
+TBOTEK,Q,income,Operating Income,2026-09-30,1107480000.0
+TBOTEK,Q,income,Pretax Income,2025-06-30,753120000.0
+TBOTEK,Q,income,Pretax Income,2025-12-31,660980000.0
+TBOTEK,Q,income,Pretax Income,2026-03-31,736740000.0
+TBOTEK,Q,income,Pretax Income,2026-06-30,1032930000.0
+TBOTEK,Q,income,Pretax Income,2026-09-30,915380000.0
+TBOTEK,Q,income,Total Revenue,2025-06-30,5112780000.0
+TBOTEK,Q,income,Total Revenue,2025-12-31,7843320000.0
+TBOTEK,Q,income,Total Revenue,2026-03-31,8143600000.0
+TBOTEK,Q,income,Total Revenue,2026-06-30,9257800000.0
+TBOTEK,Q,income,Total Revenue,2026-09-30,8656260000.0

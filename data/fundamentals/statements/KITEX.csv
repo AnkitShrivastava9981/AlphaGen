@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+KITEX,A,balance,Cash And Cash Equivalents,2023-03-31,455233000.0
+KITEX,A,balance,Cash And Cash Equivalents,2024-03-31,498126000.0
+KITEX,A,balance,Cash And Cash Equivalents,2025-03-31,393966000.0
+KITEX,A,balance,Cash And Cash Equivalents,2026-03-31,1143893000.0
+KITEX,A,balance,Net Debt,2024-03-31,6313841000.0
+KITEX,A,balance,Net Debt,2025-03-31,10431002000.0
+KITEX,A,balance,Net Debt,2026-03-31,10849878000.0
+KITEX,A,balance,Ordinary Shares Number,2023-03-31,199500000.0
+KITEX,A,balance,Ordinary Shares Number,2024-03-31,199500000.0
+KITEX,A,balance,Ordinary Shares Number,2025-03-31,199500000.0
+KITEX,A,balance,Ordinary Shares Number,2026-03-31,199500000.0
+KITEX,A,balance,Stockholders Equity,2023-03-31,8583289000.0
+KITEX,A,balance,Stockholders Equity,2024-03-31,9045867000.0
+KITEX,A,balance,Stockholders Equity,2025-03-31,10329902000.0
+KITEX,A,balance,Stockholders Equity,2026-03-31,10298263000.0
+KITEX,A,balance,Total Assets,2023-03-31,11339863000.0
+KITEX,A,balance,Total Assets,2024-03-31,19251197000.0
+KITEX,A,balance,Total Assets,2025-03-31,25866181000.0
+KITEX,A,balance,Total Assets,2026-03-31,30420650000.0
+KITEX,A,balance,Total Debt,2023-03-31,250000000.0
+KITEX,A,balance,Total Debt,2024-03-31,6811967000.0
+KITEX,A,balance,Total Debt,2025-03-31,10824968000.0
+KITEX,A,balance,Total Debt,2026-03-31,11993771000.0
+KITEX,A,cashflow,Capital Expenditure,2023-03-31,-4160244000.0
+KITEX,A,cashflow,Capital Expenditure,2024-03-31,-6170087000.0
+KITEX,A,cashflow,Capital Expenditure,2025-03-31,-5051496000.0
+KITEX,A,cashflow,Capital Expenditure,2026-03-31,-3279184000.0
+KITEX,A,cashflow,Free Cash Flow,2023-03-31,-1206947000.0
+KITEX,A,cashflow,Free Cash Flow,2024-03-31,-6552641000.0
+KITEX,A,cashflow,Free Cash Flow,2025-03-31,-4508671000.0
+KITEX,A,cashflow,Free Cash Flow,2026-03-31,178649000.0
+KITEX,A,cashflow,Operating Cash Flow,2023-03-31,2953297000.0
+KITEX,A,cashflow,Operating Cash Flow,2024-03-31,-382554000.0
+KITEX,A,cashflow,Operating Cash Flow,2025-03-31,542825000.0
+KITEX,A,cashflow,Operating Cash Flow,2026-03-31,3457833000.0
+KITEX,A,income,Basic EPS,2023-03-31,2.883333
+KITEX,A,income,Basic EPS,2024-03-31,2.82
+KITEX,A,income,Basic EPS,2025-03-31,6.95
+KITEX,A,income,Basic EPS,2026-03-31,0.3
+KITEX,A,income,Diluted EPS,2023-03-31,2.883333
+KITEX,A,income,Diluted EPS,2024-03-31,2.82
+KITEX,A,income,Diluted EPS,2025-03-31,6.95
+KITEX,A,income,Diluted EPS,2026-03-31,0.3
+KITEX,A,income,EBITDA,2023-03-31,1046088000.0
+KITEX,A,income,EBITDA,2024-03-31,1141537000.0
+KITEX,A,income,EBITDA,2025-03-31,2183793000.0
+KITEX,A,income,EBITDA,2026-03-31,966831000.0
+KITEX,A,income,Interest Expense,2023-03-31,41439000.0
+KITEX,A,income,Interest Expense,2024-03-31,67217000.0
+KITEX,A,income,Interest Expense,2025-03-31,130921000.0
+KITEX,A,income,Interest Expense,2026-03-31,437011000.0
+KITEX,A,income,Net Income,2023-03-31,575540000.0
+KITEX,A,income,Net Income,2024-03-31,563311000.0
+KITEX,A,income,Net Income,2025-03-31,1387327000.0
+KITEX,A,income,Net Income,2026-03-31,59087000.0
+KITEX,A,income,Net Income Common Stockholders,2023-03-31,575540000.0
+KITEX,A,income,Net Income Common Stockholders,2024-03-31,563311000.0
+KITEX,A,income,Net Income Common Stockholders,2025-03-31,1387327000.0
+KITEX,A,income,Net Income Common Stockholders,2026-03-31,59087000.0
+KITEX,A,income,Operating Income,2023-03-31,552370000.0
+KITEX,A,income,Operating Income,2024-03-31,820088000.0
+KITEX,A,income,Operating Income,2025-03-31,1874753000.0
+KITEX,A,income,Operating Income,2026-03-31,74079000.0
+KITEX,A,income,Pretax Income,2023-03-31,792552000.0
+KITEX,A,income,Pretax Income,2024-03-31,867246000.0
+KITEX,A,income,Pretax Income,2025-03-31,1895422000.0
+KITEX,A,income,Pretax Income,2026-03-31,84016000.0
+KITEX,A,income,Total Revenue,2023-03-31,5283587000.0
+KITEX,A,income,Total Revenue,2024-03-31,5766527000.0
+KITEX,A,income,Total Revenue,2025-03-31,9095843000.0
+KITEX,A,income,Total Revenue,2026-03-31,6262306000.0
+KITEX,Q,income,Basic EPS,2025-09-30,-0.08
+KITEX,Q,income,Basic EPS,2025-12-31,-0.47
+KITEX,Q,income,Basic EPS,2026-03-31,-0.2
+KITEX,Q,income,Basic EPS,2026-06-30,-0.45
+KITEX,Q,income,Basic EPS,2026-09-30,0.84
+KITEX,Q,income,Diluted EPS,2025-09-30,-0.08
+KITEX,Q,income,Diluted EPS,2025-12-31,-0.47
+KITEX,Q,income,Diluted EPS,2026-03-31,-0.2
+KITEX,Q,income,Diluted EPS,2026-06-30,-0.45
+KITEX,Q,income,Diluted EPS,2026-09-30,0.84
+KITEX,Q,income,EBITDA,2025-09-30,139298000.0
+KITEX,Q,income,EBITDA,2025-12-31,134757000.0
+KITEX,Q,income,EBITDA,2026-03-31,358704000.0
+KITEX,Q,income,EBITDA,2026-06-30,178330000.0
+KITEX,Q,income,EBITDA,2026-09-30,547703000.0
+KITEX,Q,income,Interest Expense,2025-09-30,82448000.0
+KITEX,Q,income,Interest Expense,2025-12-31,126778000.0
+KITEX,Q,income,Interest Expense,2026-03-31,207617000.0
+KITEX,Q,income,Interest Expense,2026-06-30,136060000.0
+KITEX,Q,income,Interest Expense,2026-09-30,140979000.0
+KITEX,Q,income,Net Income,2025-09-30,-15498000.0
+KITEX,Q,income,Net Income,2025-12-31,-93888000.0
+KITEX,Q,income,Net Income,2026-03-31,-39138000.0
+KITEX,Q,income,Net Income,2026-06-30,-191146000.0
+KITEX,Q,income,Net Income,2026-09-30,167451000.0
+KITEX,Q,income,Net Income Common Stockholders,2025-09-30,-15498000.0
+KITEX,Q,income,Net Income Common Stockholders,2025-12-31,-93888000.0
+KITEX,Q,income,Net Income Common Stockholders,2026-03-31,-39138000.0
+KITEX,Q,income,Net Income Common Stockholders,2026-06-30,-191146000.0
+KITEX,Q,income,Net Income Common Stockholders,2026-09-30,167451000.0
+KITEX,Q,income,Operating Income,2025-09-30,-239434000.0
+KITEX,Q,income,Operating Income,2025-12-31,-47042000.0
+KITEX,Q,income,Operating Income,2026-03-31,-185709000.0
+KITEX,Q,income,Operating Income,2026-06-30,-73906000.0
+KITEX,Q,income,Operating Income,2026-09-30,264645000.0
+KITEX,Q,income,Pretax Income,2025-09-30,-22967000.0
+KITEX,Q,income,Pretax Income,2025-12-31,-123889000.0
+KITEX,Q,income,Pretax Income,2026-03-31,-51294000.0
+KITEX,Q,income,Pretax Income,2026-06-30,-133523000.0
+KITEX,Q,income,Pretax Income,2026-09-30,221512000.0
+KITEX,Q,income,Total Revenue,2025-09-30,1221017000.0
+KITEX,Q,income,Total Revenue,2025-12-31,1819897000.0
+KITEX,Q,income,Total Revenue,2026-03-31,1661656000.0
+KITEX,Q,income,Total Revenue,2026-06-30,1584255000.0
+KITEX,Q,income,Total Revenue,2026-09-30,2030358000.0

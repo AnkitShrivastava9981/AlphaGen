@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CHALET,A,balance,Cash And Cash Equivalents,2023-03-31,444540000.0
+CHALET,A,balance,Cash And Cash Equivalents,2024-03-31,823340000.0
+CHALET,A,balance,Cash And Cash Equivalents,2025-03-31,1092430000.0
+CHALET,A,balance,Cash And Cash Equivalents,2026-03-31,1639930000.0
+CHALET,A,balance,Net Debt,2023-03-31,25635240000.0
+CHALET,A,balance,Net Debt,2024-03-31,26676460000.0
+CHALET,A,balance,Net Debt,2025-03-31,24450520000.0
+CHALET,A,balance,Net Debt,2026-03-31,21599550000.0
+CHALET,A,balance,Ordinary Shares Number,2023-03-31,205024864.0
+CHALET,A,balance,Ordinary Shares Number,2024-03-31,205474008.0
+CHALET,A,balance,Ordinary Shares Number,2025-03-31,218455415.0
+CHALET,A,balance,Ordinary Shares Number,2026-03-31,218994127.0
+CHALET,A,balance,Stockholders Equity,2023-03-31,15419390000.0
+CHALET,A,balance,Stockholders Equity,2024-03-31,18513420000.0
+CHALET,A,balance,Stockholders Equity,2025-03-31,30462470000.0
+CHALET,A,balance,Stockholders Equity,2026-03-31,36977930000.0
+CHALET,A,balance,Total Assets,2023-03-31,49307750000.0
+CHALET,A,balance,Total Assets,2024-03-31,57495470000.0
+CHALET,A,balance,Total Assets,2025-03-31,70634570000.0
+CHALET,A,balance,Total Assets,2026-03-31,73086320000.0
+CHALET,A,balance,Total Debt,2023-03-31,26671250000.0
+CHALET,A,balance,Total Debt,2024-03-31,28048360000.0
+CHALET,A,balance,Total Debt,2025-03-31,26040370000.0
+CHALET,A,balance,Total Debt,2026-03-31,23676780000.0
+CHALET,A,cashflow,Capital Expenditure,2023-03-31,-1748170000.0
+CHALET,A,cashflow,Capital Expenditure,2024-03-31,-4362450000.0
+CHALET,A,cashflow,Capital Expenditure,2025-03-31,-9691200000.0
+CHALET,A,cashflow,Capital Expenditure,2026-03-31,-3383570000.0
+CHALET,A,cashflow,Free Cash Flow,2023-03-31,3020670000.0
+CHALET,A,cashflow,Free Cash Flow,2024-03-31,2531920000.0
+CHALET,A,cashflow,Free Cash Flow,2025-03-31,-187350000.0
+CHALET,A,cashflow,Free Cash Flow,2026-03-31,7285060000.0
+CHALET,A,cashflow,Operating Cash Flow,2023-03-31,4768840000.0
+CHALET,A,cashflow,Operating Cash Flow,2024-03-31,6894370000.0
+CHALET,A,cashflow,Operating Cash Flow,2025-03-31,9503850000.0
+CHALET,A,cashflow,Operating Cash Flow,2026-03-31,10668630000.0
+CHALET,A,income,Basic EPS,2023-03-31,8.94
+CHALET,A,income,Basic EPS,2024-03-31,13.54
+CHALET,A,income,Basic EPS,2025-03-31,6.53
+CHALET,A,income,Basic EPS,2026-03-31,29.5
+CHALET,A,income,Diluted EPS,2023-03-31,8.94
+CHALET,A,income,Diluted EPS,2024-03-31,13.53
+CHALET,A,income,Diluted EPS,2025-03-31,6.52
+CHALET,A,income,Diluted EPS,2026-03-31,29.46
+CHALET,A,income,EBITDA,2023-03-31,5439810000.0
+CHALET,A,income,EBITDA,2024-03-31,6043270000.0
+CHALET,A,income,EBITDA,2025-03-31,7721460000.0
+CHALET,A,income,EBITDA,2026-03-31,12289430000.0
+CHALET,A,income,Interest Expense,2023-03-31,1538430000.0
+CHALET,A,income,Interest Expense,2024-03-31,1966040000.0
+CHALET,A,income,Interest Expense,2025-03-31,1590390000.0
+CHALET,A,income,Interest Expense,2026-03-31,1803380000.0
+CHALET,A,income,Net Income,2023-03-31,1833320000.0
+CHALET,A,income,Net Income,2024-03-31,2781650000.0
+CHALET,A,income,Net Income,2025-03-31,1425650000.0
+CHALET,A,income,Net Income,2026-03-31,6451090000.0
+CHALET,A,income,Net Income Common Stockholders,2023-03-31,1833320000.0
+CHALET,A,income,Net Income Common Stockholders,2024-03-31,2781650000.0
+CHALET,A,income,Net Income Common Stockholders,2025-03-31,1425650000.0
+CHALET,A,income,Net Income Common Stockholders,2026-03-31,6451090000.0
+CHALET,A,income,Operating Income,2023-03-31,3439160000.0
+CHALET,A,income,Operating Income,2024-03-31,4547630000.0
+CHALET,A,income,Operating Income,2025-03-31,5652760000.0
+CHALET,A,income,Operating Income,2026-03-31,9678570000.0
+CHALET,A,income,Pretax Income,2023-03-31,2728290000.0
+CHALET,A,income,Pretax Income,2024-03-31,2693530000.0
+CHALET,A,income,Pretax Income,2025-03-31,4343110000.0
+CHALET,A,income,Pretax Income,2026-03-31,8186530000.0
+CHALET,A,income,Total Revenue,2023-03-31,11284670000.0
+CHALET,A,income,Total Revenue,2024-03-31,14172520000.0
+CHALET,A,income,Total Revenue,2025-03-31,17178250000.0
+CHALET,A,income,Total Revenue,2026-03-31,27697530000.0
+CHALET,Q,income,Basic EPS,2025-06-30,9.3
+CHALET,Q,income,Basic EPS,2025-12-31,5.67
+CHALET,Q,income,Basic EPS,2026-03-31,7.45
+CHALET,Q,income,Basic EPS,2026-06-30,3.93
+CHALET,Q,income,Basic EPS,2026-09-30,9.88
+CHALET,Q,income,Diluted EPS,2025-06-30,9.28
+CHALET,Q,income,Diluted EPS,2025-12-31,5.66
+CHALET,Q,income,Diluted EPS,2026-03-31,7.44
+CHALET,Q,income,Diluted EPS,2026-06-30,3.93
+CHALET,Q,income,Diluted EPS,2026-09-30,9.87
+CHALET,Q,income,EBITDA,2025-06-30,3710650000.0
+CHALET,Q,income,EBITDA,2025-12-31,2716120000.0
+CHALET,Q,income,EBITDA,2026-03-31,2786320000.0
+CHALET,Q,income,EBITDA,2026-06-30,2332090000.0
+CHALET,Q,income,EBITDA,2026-09-30,2269670000.0
+CHALET,Q,income,Interest Expense,2025-06-30,485440000.0
+CHALET,Q,income,Interest Expense,2025-12-31,459150000.0
+CHALET,Q,income,Interest Expense,2026-03-31,406000000.0
+CHALET,Q,income,Interest Expense,2026-06-30,394580000.0
+CHALET,Q,income,Interest Expense,2026-09-30,417330000.0
+CHALET,Q,income,Net Income,2025-06-30,2031500000.0
+CHALET,Q,income,Net Income,2025-12-31,1240910000.0
+CHALET,Q,income,Net Income,2026-03-31,1630250000.0
+CHALET,Q,income,Net Income,2026-06-30,861250000.0
+CHALET,Q,income,Net Income,2026-09-30,2162870000.0
+CHALET,Q,income,Net Income Common Stockholders,2025-06-30,2031500000.0
+CHALET,Q,income,Net Income Common Stockholders,2025-12-31,1240910000.0
+CHALET,Q,income,Net Income Common Stockholders,2026-03-31,1630250000.0
+CHALET,Q,income,Net Income Common Stockholders,2026-06-30,861250000.0
+CHALET,Q,income,Net Income Common Stockholders,2026-09-30,2162870000.0
+CHALET,Q,income,Operating Income,2025-06-30,3033690000.0
+CHALET,Q,income,Operating Income,2025-12-31,2066370000.0
+CHALET,Q,income,Operating Income,2026-03-31,2056220000.0
+CHALET,Q,income,Operating Income,2026-06-30,1727970000.0
+CHALET,Q,income,Operating Income,2026-09-30,1564220000.0
+CHALET,Q,income,Pretax Income,2025-06-30,2686120000.0
+CHALET,Q,income,Pretax Income,2025-12-31,1672360000.0
+CHALET,Q,income,Pretax Income,2026-03-31,1778600000.0
+CHALET,Q,income,Pretax Income,2026-06-30,1325310000.0
+CHALET,Q,income,Pretax Income,2026-09-30,1241080000.0
+CHALET,Q,income,Total Revenue,2025-06-30,8945510000.0
+CHALET,Q,income,Total Revenue,2025-12-31,5816760000.0
+CHALET,Q,income,Total Revenue,2026-03-31,5582170000.0
+CHALET,Q,income,Total Revenue,2026-06-30,5122730000.0
+CHALET,Q,income,Total Revenue,2026-09-30,5019960000.0

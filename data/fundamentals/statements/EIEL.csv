@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EIEL,A,balance,Cash And Cash Equivalents,2023-03-31,23768000.0
+EIEL,A,balance,Cash And Cash Equivalents,2024-03-31,8674000.0
+EIEL,A,balance,Cash And Cash Equivalents,2025-03-31,1623711000.0
+EIEL,A,balance,Cash And Cash Equivalents,2026-03-31,519643000.0
+EIEL,A,balance,Net Debt,2023-03-31,621674000.0
+EIEL,A,balance,Net Debt,2024-03-31,2334902000.0
+EIEL,A,balance,Net Debt,2025-03-31,717440000.0
+EIEL,A,balance,Net Debt,2026-03-31,3703323000.0
+EIEL,A,balance,Ordinary Shares Number,2023-03-31,175530000.0
+EIEL,A,balance,Ordinary Shares Number,2024-03-31,175530000.0
+EIEL,A,balance,Ordinary Shares Number,2025-03-31,175530000.0
+EIEL,A,balance,Ordinary Shares Number,2026-03-31,175530000.0
+EIEL,A,balance,Stockholders Equity,2023-03-31,1265140000.0
+EIEL,A,balance,Stockholders Equity,2024-03-31,2921837000.0
+EIEL,A,balance,Stockholders Equity,2025-03-31,9945106000.0
+EIEL,A,balance,Stockholders Equity,2026-03-31,12327072000.0
+EIEL,A,balance,Total Assets,2023-03-31,3475849000.0
+EIEL,A,balance,Total Assets,2024-03-31,7611918000.0
+EIEL,A,balance,Total Assets,2025-03-31,14983438000.0
+EIEL,A,balance,Total Assets,2026-03-31,20422288000.0
+EIEL,A,balance,Total Debt,2023-03-31,645442000.0
+EIEL,A,balance,Total Debt,2024-03-31,2343576000.0
+EIEL,A,balance,Total Debt,2025-03-31,2341151000.0
+EIEL,A,balance,Total Debt,2026-03-31,4222966000.0
+EIEL,A,cashflow,Capital Expenditure,2023-03-31,-107578000.0
+EIEL,A,cashflow,Capital Expenditure,2024-03-31,-334089000.0
+EIEL,A,cashflow,Capital Expenditure,2025-03-31,-466257000.0
+EIEL,A,cashflow,Capital Expenditure,2026-03-31,-1820948000.0
+EIEL,A,cashflow,Free Cash Flow,2023-03-31,903304000.0
+EIEL,A,cashflow,Free Cash Flow,2024-03-31,-1355793000.0
+EIEL,A,cashflow,Free Cash Flow,2025-03-31,-1052050000.0
+EIEL,A,cashflow,Free Cash Flow,2026-03-31,-2451865000.0
+EIEL,A,cashflow,Operating Cash Flow,2023-03-31,1010882000.0
+EIEL,A,cashflow,Operating Cash Flow,2024-03-31,-1021704000.0
+EIEL,A,cashflow,Operating Cash Flow,2025-03-31,-585793000.0
+EIEL,A,cashflow,Operating Cash Flow,2026-03-31,-630917000.0
+EIEL,A,income,Basic EPS,2023-03-31,3.13212
+EIEL,A,income,Basic EPS,2024-03-31,6.177349
+EIEL,A,income,Basic EPS,2025-03-31,11.76
+EIEL,A,income,Basic EPS,2026-03-31,10.42
+EIEL,A,income,Diluted EPS,2023-03-31,3.13212
+EIEL,A,income,Diluted EPS,2024-03-31,6.177349
+EIEL,A,income,Diluted EPS,2025-03-31,11.76
+EIEL,A,income,Diluted EPS,2026-03-31,10.41
+EIEL,A,income,EBITDA,2023-03-31,825540000.0
+EIEL,A,income,EBITDA,2024-03-31,1701746000.0
+EIEL,A,income,EBITDA,2025-03-31,2795628000.0
+EIEL,A,income,EBITDA,2026-03-31,3016738000.0
+EIEL,A,income,Interest Expense,2023-03-31,56611000.0
+EIEL,A,income,Interest Expense,2024-03-31,171037000.0
+EIEL,A,income,Interest Expense,2025-03-31,295672000.0
+EIEL,A,income,Interest Expense,2026-03-31,272480000.0
+EIEL,A,income,Net Income,2023-03-31,549781000.0
+EIEL,A,income,Net Income,2024-03-31,1084310000.0
+EIEL,A,income,Net Income,2025-03-31,1763027000.0
+EIEL,A,income,Net Income,2026-03-31,1829461000.0
+EIEL,A,income,Net Income Common Stockholders,2023-03-31,549781000.0
+EIEL,A,income,Net Income Common Stockholders,2024-03-31,1084310000.0
+EIEL,A,income,Net Income Common Stockholders,2025-03-31,1763027000.0
+EIEL,A,income,Net Income Common Stockholders,2026-03-31,1829461000.0
+EIEL,A,income,Operating Income,2023-03-31,795607000.0
+EIEL,A,income,Operating Income,2024-03-31,1615233000.0
+EIEL,A,income,Operating Income,2025-03-31,2529346000.0
+EIEL,A,income,Operating Income,2026-03-31,2392287000.0
+EIEL,A,income,Pretax Income,2023-03-31,745888000.0
+EIEL,A,income,Pretax Income,2024-03-31,1469865000.0
+EIEL,A,income,Pretax Income,2025-03-31,2405512000.0
+EIEL,A,income,Pretax Income,2026-03-31,2496242000.0
+EIEL,A,income,Total Revenue,2023-03-31,3381020000.0
+EIEL,A,income,Total Revenue,2024-03-31,7289150000.0
+EIEL,A,income,Total Revenue,2025-03-31,10545009000.0
+EIEL,A,income,Total Revenue,2026-03-31,11182321000.0
+EIEL,Q,income,Basic EPS,2025-03-31,4.89
+EIEL,Q,income,Basic EPS,2025-06-30,2.39
+EIEL,Q,income,Basic EPS,2025-12-31,2.3
+EIEL,Q,income,Basic EPS,2026-03-31,2.96
+EIEL,Q,income,Basic EPS,2026-06-30,2.27
+EIEL,Q,income,Diluted EPS,2025-03-31,4.89
+EIEL,Q,income,Diluted EPS,2025-06-30,2.39
+EIEL,Q,income,Diluted EPS,2025-12-31,2.3
+EIEL,Q,income,Diluted EPS,2026-03-31,2.96
+EIEL,Q,income,Diluted EPS,2026-06-30,2.27
+EIEL,Q,income,EBITDA,2025-03-31,1101817000.0
+EIEL,Q,income,EBITDA,2025-06-30,675342000.0
+EIEL,Q,income,EBITDA,2025-12-31,762327000.0
+EIEL,Q,income,EBITDA,2026-03-31,912382000.0
+EIEL,Q,income,EBITDA,2026-06-30,816949000.0
+EIEL,Q,income,Interest Expense,2025-03-31,80823000.0
+EIEL,Q,income,Interest Expense,2025-06-30,70485000.0
+EIEL,Q,income,Interest Expense,2025-12-31,99966000.0
+EIEL,Q,income,Interest Expense,2026-03-31,115895000.0
+EIEL,Q,income,Interest Expense,2026-06-30,144594000.0
+EIEL,Q,income,Net Income,2025-03-31,732417000.0
+EIEL,Q,income,Net Income,2025-06-30,418962000.0
+EIEL,Q,income,Net Income,2025-12-31,404095000.0
+EIEL,Q,income,Net Income,2026-03-31,519236000.0
+EIEL,Q,income,Net Income,2026-06-30,398266000.0
+EIEL,Q,income,Net Income Common Stockholders,2025-03-31,732417000.0
+EIEL,Q,income,Net Income Common Stockholders,2025-06-30,418962000.0
+EIEL,Q,income,Net Income Common Stockholders,2025-12-31,404095000.0
+EIEL,Q,income,Net Income Common Stockholders,2026-03-31,519236000.0
+EIEL,Q,income,Net Income Common Stockholders,2026-06-30,398266000.0
+EIEL,Q,income,Operating Income,2025-03-31,967057000.0
+EIEL,Q,income,Operating Income,2025-06-30,609652000.0
+EIEL,Q,income,Operating Income,2025-12-31,597634000.0
+EIEL,Q,income,Operating Income,2026-03-31,713142000.0
+EIEL,Q,income,Operating Income,2026-06-30,669805000.0
+EIEL,Q,income,Pretax Income,2025-03-31,993749000.0
+EIEL,Q,income,Pretax Income,2025-06-30,572392000.0
+EIEL,Q,income,Pretax Income,2025-12-31,582517000.0
+EIEL,Q,income,Pretax Income,2026-03-31,710534000.0
+EIEL,Q,income,Pretax Income,2026-06-30,585299000.0
+EIEL,Q,income,Total Revenue,2025-03-31,3929163000.0
+EIEL,Q,income,Total Revenue,2025-06-30,2409202000.0
+EIEL,Q,income,Total Revenue,2025-12-31,2500178000.0
+EIEL,Q,income,Total Revenue,2026-03-31,4273137000.0
+EIEL,Q,income,Total Revenue,2026-06-30,3591835000.0

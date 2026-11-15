@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KRBL,A,balance,Cash And Cash Equivalents,2023-03-31,287200000.0
+KRBL,A,balance,Cash And Cash Equivalents,2024-03-31,248100000.0
+KRBL,A,balance,Cash And Cash Equivalents,2025-03-31,1540900000.0
+KRBL,A,balance,Cash And Cash Equivalents,2026-03-31,1100800000.0
+KRBL,A,balance,Net Debt,2023-03-31,1726400000.0
+KRBL,A,balance,Net Debt,2024-03-31,4822400000.0
+KRBL,A,balance,Net Debt,2025-03-31,2224800000.0
+KRBL,A,balance,Net Debt,2026-03-31,199500000.0
+KRBL,A,balance,Ordinary Shares Number,2023-03-31,235389892.0
+KRBL,A,balance,Ordinary Shares Number,2024-03-31,228889892.0
+KRBL,A,balance,Ordinary Shares Number,2025-03-31,228889892.0
+KRBL,A,balance,Ordinary Shares Number,2026-03-31,228889892.0
+KRBL,A,balance,Stockholders Equity,2023-03-31,46926200000.0
+KRBL,A,balance,Stockholders Equity,2024-03-31,48579100000.0
+KRBL,A,balance,Stockholders Equity,2025-03-31,52403100000.0
+KRBL,A,balance,Stockholders Equity,2026-03-31,58064900000.0
+KRBL,A,balance,Total Assets,2023-03-31,55909000000.0
+KRBL,A,balance,Total Assets,2024-03-31,59270300000.0
+KRBL,A,balance,Total Assets,2025-03-31,62259500000.0
+KRBL,A,balance,Total Assets,2026-03-31,65979200000.0
+KRBL,A,balance,Total Debt,2023-03-31,2500000000.0
+KRBL,A,balance,Total Debt,2024-03-31,5445700000.0
+KRBL,A,balance,Total Debt,2025-03-31,4066800000.0
+KRBL,A,balance,Total Debt,2026-03-31,1697900000.0
+KRBL,A,cashflow,Capital Expenditure,2023-03-31,-593100000.0
+KRBL,A,cashflow,Capital Expenditure,2024-03-31,-830400000.0
+KRBL,A,cashflow,Capital Expenditure,2025-03-31,-963000000.0
+KRBL,A,cashflow,Capital Expenditure,2026-03-31,-679000000.0
+KRBL,A,cashflow,Free Cash Flow,2023-03-31,-4194100000.0
+KRBL,A,cashflow,Free Cash Flow,2024-03-31,1407600000.0
+KRBL,A,cashflow,Free Cash Flow,2025-03-31,8644500000.0
+KRBL,A,cashflow,Free Cash Flow,2026-03-31,8646300000.0
+KRBL,A,cashflow,Operating Cash Flow,2023-03-31,-3601000000.0
+KRBL,A,cashflow,Operating Cash Flow,2024-03-31,2238000000.0
+KRBL,A,cashflow,Operating Cash Flow,2025-03-31,9607500000.0
+KRBL,A,cashflow,Operating Cash Flow,2026-03-31,9325300000.0
+KRBL,A,income,Basic EPS,2023-03-31,29.78
+KRBL,A,income,Basic EPS,2024-03-31,25.69
+KRBL,A,income,Basic EPS,2025-03-31,20.8
+KRBL,A,income,Basic EPS,2026-03-31,28.31
+KRBL,A,income,Diluted EPS,2023-03-31,29.78
+KRBL,A,income,Diluted EPS,2024-03-31,25.69
+KRBL,A,income,Diluted EPS,2025-03-31,20.8
+KRBL,A,income,Diluted EPS,2026-03-31,28.31
+KRBL,A,income,EBITDA,2023-03-31,10303700000.0
+KRBL,A,income,EBITDA,2024-03-31,8982400000.0
+KRBL,A,income,EBITDA,2025-03-31,7346600000.0
+KRBL,A,income,EBITDA,2026-03-31,9715600000.0
+KRBL,A,income,Interest Expense,2023-03-31,135400000.0
+KRBL,A,income,Interest Expense,2024-03-31,230900000.0
+KRBL,A,income,Interest Expense,2025-03-31,135500000.0
+KRBL,A,income,Interest Expense,2026-03-31,73700000.0
+KRBL,A,income,Net Income,2023-03-31,7009800000.0
+KRBL,A,income,Net Income,2024-03-31,5958600000.0
+KRBL,A,income,Net Income,2025-03-31,4760500000.0
+KRBL,A,income,Net Income,2026-03-31,6480400000.0
+KRBL,A,income,Net Income Common Stockholders,2023-03-31,7009800000.0
+KRBL,A,income,Net Income Common Stockholders,2024-03-31,5958600000.0
+KRBL,A,income,Net Income Common Stockholders,2025-03-31,4760500000.0
+KRBL,A,income,Net Income Common Stockholders,2026-03-31,6480400000.0
+KRBL,A,income,Operating Income,2023-03-31,8721800000.0
+KRBL,A,income,Operating Income,2024-03-31,7267300000.0
+KRBL,A,income,Operating Income,2025-03-31,6372900000.0
+KRBL,A,income,Operating Income,2026-03-31,8188100000.0
+KRBL,A,income,Pretax Income,2023-03-31,9411800000.0
+KRBL,A,income,Pretax Income,2024-03-31,7957800000.0
+KRBL,A,income,Pretax Income,2025-03-31,6400100000.0
+KRBL,A,income,Pretax Income,2026-03-31,8729500000.0
+KRBL,A,income,Total Revenue,2023-03-31,53409200000.0
+KRBL,A,income,Total Revenue,2024-03-31,53645400000.0
+KRBL,A,income,Total Revenue,2025-03-31,55728500000.0
+KRBL,A,income,Total Revenue,2026-03-31,60733800000.0
+KRBL,Q,income,Basic EPS,2025-09-30,7.52
+KRBL,Q,income,Basic EPS,2025-12-31,7.43
+KRBL,Q,income,Basic EPS,2026-03-31,6.79
+KRBL,Q,income,Basic EPS,2026-06-30,11.39
+KRBL,Q,income,Basic EPS,2026-09-30,11.31
+KRBL,Q,income,Diluted EPS,2025-09-30,7.52
+KRBL,Q,income,Diluted EPS,2025-12-31,7.43
+KRBL,Q,income,Diluted EPS,2026-03-31,6.79
+KRBL,Q,income,Diluted EPS,2026-06-30,11.39
+KRBL,Q,income,Diluted EPS,2026-09-30,11.31
+KRBL,Q,income,EBITDA,2025-09-30,2565900000.0
+KRBL,Q,income,EBITDA,2025-12-31,2534100000.0
+KRBL,Q,income,EBITDA,2026-03-31,2374400000.0
+KRBL,Q,income,EBITDA,2026-06-30,3719400000.0
+KRBL,Q,income,EBITDA,2026-09-30,3733000000.0
+KRBL,Q,income,Interest Expense,2025-09-30,11200000.0
+KRBL,Q,income,Interest Expense,2025-12-31,14500000.0
+KRBL,Q,income,Interest Expense,2026-03-31,42900000.0
+KRBL,Q,income,Interest Expense,2026-06-30,7800000.0
+KRBL,Q,income,Interest Expense,2026-09-30,6600000.0
+KRBL,Q,income,Net Income,2025-09-30,1721100000.0
+KRBL,Q,income,Net Income,2025-12-31,1699700000.0
+KRBL,Q,income,Net Income,2026-03-31,1553800000.0
+KRBL,Q,income,Net Income,2026-06-30,2607400000.0
+KRBL,Q,income,Net Income,2026-09-30,2589300000.0
+KRBL,Q,income,Net Income Common Stockholders,2025-09-30,1721100000.0
+KRBL,Q,income,Net Income Common Stockholders,2025-12-31,1699700000.0
+KRBL,Q,income,Net Income Common Stockholders,2026-03-31,1553800000.0
+KRBL,Q,income,Net Income Common Stockholders,2026-06-30,2607400000.0
+KRBL,Q,income,Net Income Common Stockholders,2026-09-30,2589300000.0
+KRBL,Q,income,Operating Income,2025-09-30,2035000000.0
+KRBL,Q,income,Operating Income,2025-12-31,2055200000.0
+KRBL,Q,income,Operating Income,2026-03-31,2062000000.0
+KRBL,Q,income,Operating Income,2026-06-30,2841000000.0
+KRBL,Q,income,Operating Income,2026-09-30,3085800000.0
+KRBL,Q,income,Pretax Income,2025-09-30,2325200000.0
+KRBL,Q,income,Pretax Income,2025-12-31,2286900000.0
+KRBL,Q,income,Pretax Income,2026-03-31,2101900000.0
+KRBL,Q,income,Pretax Income,2026-06-30,3476800000.0
+KRBL,Q,income,Pretax Income,2026-09-30,3490400000.0
+KRBL,Q,income,Total Revenue,2025-09-30,15110800000.0
+KRBL,Q,income,Total Revenue,2025-12-31,14769300000.0
+KRBL,Q,income,Total Revenue,2026-03-31,15255000000.0
+KRBL,Q,income,Total Revenue,2026-06-30,14958600000.0
+KRBL,Q,income,Total Revenue,2026-09-30,17273600000.0

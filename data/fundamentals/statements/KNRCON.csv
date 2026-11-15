@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KNRCON,A,balance,Cash And Cash Equivalents,2023-03-31,1909753000.0
+KNRCON,A,balance,Cash And Cash Equivalents,2024-03-31,3563801000.0
+KNRCON,A,balance,Cash And Cash Equivalents,2025-03-31,1033301000.0
+KNRCON,A,balance,Cash And Cash Equivalents,2026-03-31,1864259000.0
+KNRCON,A,balance,Net Debt,2023-03-31,4554249000.0
+KNRCON,A,balance,Net Debt,2024-03-31,9018405000.0
+KNRCON,A,balance,Net Debt,2025-03-31,17433022000.0
+KNRCON,A,balance,Net Debt,2026-03-31,22511709000.0
+KNRCON,A,balance,Ordinary Shares Number,2023-03-31,281234600.0
+KNRCON,A,balance,Ordinary Shares Number,2024-03-31,281234600.0
+KNRCON,A,balance,Ordinary Shares Number,2025-03-31,281234600.0
+KNRCON,A,balance,Ordinary Shares Number,2026-03-31,281234600.0
+KNRCON,A,balance,Stockholders Equity,2023-03-31,27791999000.0
+KNRCON,A,balance,Stockholders Equity,2024-03-31,35541476000.0
+KNRCON,A,balance,Stockholders Equity,2025-03-31,45411785000.0
+KNRCON,A,balance,Stockholders Equity,2026-03-31,49719895000.0
+KNRCON,A,balance,Total Assets,2023-03-31,43420080000.0
+KNRCON,A,balance,Total Assets,2024-03-31,58037875000.0
+KNRCON,A,balance,Total Assets,2025-03-31,71313604000.0
+KNRCON,A,balance,Total Assets,2026-03-31,81215526000.0
+KNRCON,A,balance,Total Debt,2023-03-31,6520609000.0
+KNRCON,A,balance,Total Debt,2024-03-31,12624371000.0
+KNRCON,A,balance,Total Debt,2025-03-31,18494748000.0
+KNRCON,A,balance,Total Debt,2026-03-31,24442490000.0
+KNRCON,A,cashflow,Capital Expenditure,2023-03-31,-1537707000.0
+KNRCON,A,cashflow,Capital Expenditure,2024-03-31,-828617000.0
+KNRCON,A,cashflow,Capital Expenditure,2025-03-31,-279754000.0
+KNRCON,A,cashflow,Capital Expenditure,2026-03-31,-136951000.0
+KNRCON,A,cashflow,Free Cash Flow,2023-03-31,10403642000.0
+KNRCON,A,cashflow,Free Cash Flow,2024-03-31,-3799846000.0
+KNRCON,A,cashflow,Free Cash Flow,2025-03-31,-5945564000.0
+KNRCON,A,cashflow,Free Cash Flow,2026-03-31,-1627413000.0
+KNRCON,A,cashflow,Operating Cash Flow,2023-03-31,11941349000.0
+KNRCON,A,cashflow,Operating Cash Flow,2024-03-31,-2971229000.0
+KNRCON,A,cashflow,Operating Cash Flow,2025-03-31,-5665810000.0
+KNRCON,A,cashflow,Operating Cash Flow,2026-03-31,-1490462000.0
+KNRCON,A,income,Basic EPS,2023-03-31,16.29
+KNRCON,A,income,Basic EPS,2024-03-31,27.64
+KNRCON,A,income,Basic EPS,2025-03-31,35.62
+KNRCON,A,income,Basic EPS,2026-03-31,15.54
+KNRCON,A,income,Diluted EPS,2023-03-31,16.29
+KNRCON,A,income,Diluted EPS,2024-03-31,27.64
+KNRCON,A,income,Diluted EPS,2025-03-31,35.62
+KNRCON,A,income,Diluted EPS,2026-03-31,15.54
+KNRCON,A,income,EBITDA,2023-03-31,10042378000.0
+KNRCON,A,income,EBITDA,2024-03-31,11924466000.0
+KNRCON,A,income,EBITDA,2025-03-31,17731443000.0
+KNRCON,A,income,EBITDA,2026-03-31,7886114000.0
+KNRCON,A,income,Interest Expense,2023-03-31,1422899000.0
+KNRCON,A,income,Interest Expense,2024-03-31,1056740000.0
+KNRCON,A,income,Interest Expense,2025-03-31,1993428000.0
+KNRCON,A,income,Interest Expense,2026-03-31,2063410000.0
+KNRCON,A,income,Net Income,2023-03-31,4580142000.0
+KNRCON,A,income,Net Income,2024-03-31,7773988000.0
+KNRCON,A,income,Net Income,2025-03-31,10018741000.0
+KNRCON,A,income,Net Income,2026-03-31,4370761000.0
+KNRCON,A,income,Net Income Common Stockholders,2023-03-31,4580142000.0
+KNRCON,A,income,Net Income Common Stockholders,2024-03-31,7773988000.0
+KNRCON,A,income,Net Income Common Stockholders,2025-03-31,10018741000.0
+KNRCON,A,income,Net Income Common Stockholders,2026-03-31,4370761000.0
+KNRCON,A,income,Operating Income,2023-03-31,7411339000.0
+KNRCON,A,income,Operating Income,2024-03-31,8909324000.0
+KNRCON,A,income,Operating Income,2025-03-31,14161801000.0
+KNRCON,A,income,Operating Income,2026-03-31,6742070000.0
+KNRCON,A,income,Pretax Income,2023-03-31,6812470000.0
+KNRCON,A,income,Pretax Income,2024-03-31,9299413000.0
+KNRCON,A,income,Pretax Income,2025-03-31,12595820000.0
+KNRCON,A,income,Pretax Income,2026-03-31,5228107000.0
+KNRCON,A,income,Total Revenue,2023-03-31,37778437000.0
+KNRCON,A,income,Total Revenue,2024-03-31,44294864000.0
+KNRCON,A,income,Total Revenue,2025-03-31,32159274000.0
+KNRCON,A,income,Total Revenue,2026-03-31,20619640000.0
+KNRCON,Q,income,Basic EPS,2025-06-30,4.39
+KNRCON,Q,income,Basic EPS,2025-09-30,3.72
+KNRCON,Q,income,Basic EPS,2025-12-31,3.66
+KNRCON,Q,income,Basic EPS,2026-03-31,3.78
+KNRCON,Q,income,Basic EPS,2026-06-30,2.87
+KNRCON,Q,income,Diluted EPS,2025-06-30,4.39
+KNRCON,Q,income,Diluted EPS,2025-09-30,3.72
+KNRCON,Q,income,Diluted EPS,2025-12-31,3.66
+KNRCON,Q,income,Diluted EPS,2026-03-31,3.78
+KNRCON,Q,income,Diluted EPS,2026-06-30,2.87
+KNRCON,Q,income,EBITDA,2025-06-30,2081921000.0
+KNRCON,Q,income,EBITDA,2025-09-30,2000390000.0
+KNRCON,Q,income,EBITDA,2025-12-31,1802555000.0
+KNRCON,Q,income,EBITDA,2026-03-31,1880857000.0
+KNRCON,Q,income,EBITDA,2026-06-30,2216150000.0
+KNRCON,Q,income,Interest Expense,2025-06-30,483503000.0
+KNRCON,Q,income,Interest Expense,2025-09-30,527309000.0
+KNRCON,Q,income,Interest Expense,2025-12-31,548491000.0
+KNRCON,Q,income,Interest Expense,2026-03-31,557989000.0
+KNRCON,Q,income,Interest Expense,2026-06-30,530006000.0
+KNRCON,Q,income,Net Income,2025-06-30,1234075000.0
+KNRCON,Q,income,Net Income,2025-09-30,1046593000.0
+KNRCON,Q,income,Net Income,2025-12-31,1028023000.0
+KNRCON,Q,income,Net Income,2026-03-31,1062070000.0
+KNRCON,Q,income,Net Income,2026-06-30,808083000.0
+KNRCON,Q,income,Net Income Common Stockholders,2025-06-30,1234075000.0
+KNRCON,Q,income,Net Income Common Stockholders,2025-09-30,1046593000.0
+KNRCON,Q,income,Net Income Common Stockholders,2025-12-31,1028023000.0
+KNRCON,Q,income,Net Income Common Stockholders,2026-03-31,1062070000.0
+KNRCON,Q,income,Net Income Common Stockholders,2026-06-30,808083000.0
+KNRCON,Q,income,Operating Income,2025-06-30,1675341000.0
+KNRCON,Q,income,Operating Income,2025-09-30,1774756000.0
+KNRCON,Q,income,Operating Income,2025-12-31,1516983000.0
+KNRCON,Q,income,Operating Income,2026-03-31,1551856000.0
+KNRCON,Q,income,Operating Income,2026-06-30,857339000.0
+KNRCON,Q,income,Pretax Income,2025-06-30,1444229000.0
+KNRCON,Q,income,Pretax Income,2025-09-30,1322216000.0
+KNRCON,Q,income,Pretax Income,2025-12-31,1103968000.0
+KNRCON,Q,income,Pretax Income,2026-03-31,1183421000.0
+KNRCON,Q,income,Pretax Income,2026-06-30,1579104000.0
+KNRCON,Q,income,Total Revenue,2025-06-30,6127228000.0
+KNRCON,Q,income,Total Revenue,2025-09-30,6465048000.0
+KNRCON,Q,income,Total Revenue,2025-12-31,7431951000.0
+KNRCON,Q,income,Total Revenue,2026-03-31,6955904000.0
+KNRCON,Q,income,Total Revenue,2026-06-30,5879447000.0

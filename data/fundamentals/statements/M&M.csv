@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+M&M,A,balance,Cash And Cash Equivalents,2023-03-31,34934100000.0
+M&M,A,balance,Cash And Cash Equivalents,2024-03-31,45301000000.0
+M&M,A,balance,Cash And Cash Equivalents,2025-03-31,49238900000.0
+M&M,A,balance,Cash And Cash Equivalents,2026-03-31,42922400000.0
+M&M,A,balance,Net Debt,2023-03-31,852736000000.0
+M&M,A,balance,Net Debt,2024-03-31,986731300000.0
+M&M,A,balance,Net Debt,2025-03-31,1162490600000.0
+M&M,A,balance,Net Debt,2026-03-31,1253222600000.0
+M&M,A,balance,Ordinary Shares Number,2023-03-31,1243528831.0
+M&M,A,balance,Ordinary Shares Number,2024-03-31,1114775772.0
+M&M,A,balance,Ordinary Shares Number,2025-03-31,1199506049.0
+M&M,A,balance,Ordinary Shares Number,2026-03-31,1200472788.0
+M&M,A,balance,Stockholders Equity,2023-03-31,563657900000.0
+M&M,A,balance,Stockholders Equity,2024-03-31,661905500000.0
+M&M,A,balance,Stockholders Equity,2025-03-31,770388600000.0
+M&M,A,balance,Stockholders Equity,2026-03-31,930963500000.0
+M&M,A,balance,Total Assets,2023-03-31,2058917700000.0
+M&M,A,balance,Total Assets,2024-03-31,2363007300000.0
+M&M,A,balance,Total Assets,2025-03-31,2775862700000.0
+M&M,A,balance,Total Assets,2026-03-31,3176346400000.0
+M&M,A,balance,Total Debt,2023-03-31,922468500000.0
+M&M,A,balance,Total Debt,2024-03-31,1066255200000.0
+M&M,A,balance,Total Debt,2025-03-31,1249493100000.0
+M&M,A,balance,Total Debt,2026-03-31,1339631500000.0
+M&M,A,cashflow,Capital Expenditure,2023-03-31,-63045700000.0
+M&M,A,cashflow,Capital Expenditure,2024-03-31,-99459900000.0
+M&M,A,cashflow,Capital Expenditure,2025-03-31,-103919500000.0
+M&M,A,cashflow,Capital Expenditure,2026-03-31,-96054500000.0
+M&M,A,cashflow,Free Cash Flow,2023-03-31,-133785900000.0
+M&M,A,cashflow,Free Cash Flow,2024-03-31,-155759400000.0
+M&M,A,cashflow,Free Cash Flow,2025-03-31,-72161400000.0
+M&M,A,cashflow,Free Cash Flow,2026-03-31,20519100000.0
+M&M,A,cashflow,Operating Cash Flow,2023-03-31,-70740200000.0
+M&M,A,cashflow,Operating Cash Flow,2024-03-31,-56299500000.0
+M&M,A,cashflow,Operating Cash Flow,2025-03-31,31758100000.0
+M&M,A,cashflow,Operating Cash Flow,2026-03-31,116573600000.0
+M&M,A,income,Basic EPS,2023-03-31,92.41
+M&M,A,income,Basic EPS,2024-03-31,101.14
+M&M,A,income,Basic EPS,2025-03-31,115.91
+M&M,A,income,Basic EPS,2026-03-31,153.1
+M&M,A,income,Diluted EPS,2023-03-31,91.96
+M&M,A,income,Diluted EPS,2024-03-31,100.7
+M&M,A,income,Diluted EPS,2025-03-31,115.06
+M&M,A,income,Diluted EPS,2026-03-31,152.18
+M&M,A,income,EBITDA,2023-03-31,240884200000.0
+M&M,A,income,EBITDA,2024-03-31,278480400000.0
+M&M,A,income,EBITDA,2025-03-31,334915900000.0
+M&M,A,income,EBITDA,2026-03-31,412284200000.0
+M&M,A,income,Interest Expense,2023-03-31,56994900000.0
+M&M,A,income,Interest Expense,2024-03-31,73339900000.0
+M&M,A,income,Interest Expense,2025-03-31,88537900000.0
+M&M,A,income,Interest Expense,2026-03-31,93538600000.0
+M&M,A,income,Net Income,2023-03-31,102815000000.0
+M&M,A,income,Net Income,2024-03-31,112686400000.0
+M&M,A,income,Net Income,2025-03-31,129291000000.0
+M&M,A,income,Net Income,2026-03-31,170988500000.0
+M&M,A,income,Net Income Common Stockholders,2023-03-31,102815000000.0
+M&M,A,income,Net Income Common Stockholders,2024-03-31,112686400000.0
+M&M,A,income,Net Income Common Stockholders,2025-03-31,129291000000.0
+M&M,A,income,Net Income Common Stockholders,2026-03-31,170988500000.0
+M&M,A,income,Operating Income,2023-03-31,159886100000.0
+M&M,A,income,Operating Income,2024-03-31,196098400000.0
+M&M,A,income,Operating Income,2025-03-31,245772500000.0
+M&M,A,income,Operating Income,2026-03-31,300286000000.0
+M&M,A,income,Pretax Income,2023-03-31,140602300000.0
+M&M,A,income,Pretax Income,2024-03-31,159777900000.0
+M&M,A,income,Pretax Income,2025-03-31,190796200000.0
+M&M,A,income,Pretax Income,2026-03-31,251847600000.0
+M&M,A,income,Total Revenue,2023-03-31,1190403800000.0
+M&M,A,income,Total Revenue,2024-03-31,1358030300000.0
+M&M,A,income,Total Revenue,2025-03-31,1556452600000.0
+M&M,A,income,Total Revenue,2026-03-31,1930979500000.0
+M&M,Q,income,Basic EPS,2025-06-30,36.58
+M&M,Q,income,Basic EPS,2025-12-31,41.85
+M&M,Q,income,Basic EPS,2026-03-31,41.77
+M&M,Q,income,Basic EPS,2026-06-30,48.8
+M&M,Q,income,Basic EPS,2026-09-30,41.04
+M&M,Q,income,Diluted EPS,2025-06-30,36.43
+M&M,Q,income,Diluted EPS,2025-12-31,41.69
+M&M,Q,income,Diluted EPS,2026-03-31,41.48
+M&M,Q,income,Diluted EPS,2026-06-30,48.59
+M&M,Q,income,Diluted EPS,2026-09-30,40.9
+M&M,Q,income,EBITDA,2025-06-30,96228600000.0
+M&M,Q,income,EBITDA,2025-12-31,111368100000.0
+M&M,Q,income,EBITDA,2026-03-31,112641100000.0
+M&M,Q,income,EBITDA,2026-06-30,119484700000.0
+M&M,Q,income,EBITDA,2026-09-30,118785100000.0
+M&M,Q,income,Interest Expense,2025-06-30,24311900000.0
+M&M,Q,income,Interest Expense,2025-12-31,24053000000.0
+M&M,Q,income,Interest Expense,2026-03-31,24073300000.0
+M&M,Q,income,Interest Expense,2026-06-30,25599100000.0
+M&M,Q,income,Interest Expense,2026-09-30,26819300000.0
+M&M,Q,income,Net Income,2025-06-30,40833200000.0
+M&M,Q,income,Net Income,2025-12-31,46746400000.0
+M&M,Q,income,Net Income,2026-03-31,46675700000.0
+M&M,Q,income,Net Income,2026-06-30,54545400000.0
+M&M,Q,income,Net Income,2026-09-30,45878800000.0
+M&M,Q,income,Net Income Common Stockholders,2025-06-30,40833200000.0
+M&M,Q,income,Net Income Common Stockholders,2025-12-31,46746400000.0
+M&M,Q,income,Net Income Common Stockholders,2026-03-31,46675700000.0
+M&M,Q,income,Net Income Common Stockholders,2026-06-30,54545400000.0
+M&M,Q,income,Net Income Common Stockholders,2026-09-30,45878800000.0
+M&M,Q,income,Operating Income,2025-06-30,67715900000.0
+M&M,Q,income,Operating Income,2025-12-31,74776900000.0
+M&M,Q,income,Operating Income,2026-03-31,80935900000.0
+M&M,Q,income,Operating Income,2026-06-30,84125400000.0
+M&M,Q,income,Operating Income,2026-09-30,84065800000.0
+M&M,Q,income,Pretax Income,2025-06-30,56441100000.0
+M&M,Q,income,Pretax Income,2025-12-31,65686200000.0
+M&M,Q,income,Pretax Income,2026-03-31,69141000000.0
+M&M,Q,income,Pretax Income,2026-06-30,76280900000.0
+M&M,Q,income,Pretax Income,2026-09-30,73647000000.0
+M&M,Q,income,Total Revenue,2025-06-30,454358800000.0
+M&M,Q,income,Total Revenue,2025-12-31,515799500000.0
+M&M,Q,income,Total Revenue,2026-03-31,548915500000.0
+M&M,Q,income,Total Revenue,2026-06-30,575334400000.0
+M&M,Q,income,Total Revenue,2026-09-30,575149800000.0

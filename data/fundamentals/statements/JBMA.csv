@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+JBMA,A,balance,Cash And Cash Equivalents,2023-03-31,290341000.0
+JBMA,A,balance,Cash And Cash Equivalents,2024-03-31,386892000.0
+JBMA,A,balance,Cash And Cash Equivalents,2025-03-31,1007193000.0
+JBMA,A,balance,Cash And Cash Equivalents,2026-03-31,908228000.0
+JBMA,A,balance,Net Debt,2023-03-31,16472851000.0
+JBMA,A,balance,Net Debt,2024-03-31,20624750000.0
+JBMA,A,balance,Net Debt,2025-03-31,25057564000.0
+JBMA,A,balance,Net Debt,2026-03-31,30320828000.0
+JBMA,A,balance,Ordinary Shares Number,2023-03-31,236494264.0
+JBMA,A,balance,Ordinary Shares Number,2024-03-31,236494264.0
+JBMA,A,balance,Ordinary Shares Number,2025-03-31,236494264.0
+JBMA,A,balance,Ordinary Shares Number,2026-03-31,236494264.0
+JBMA,A,balance,Stockholders Equity,2023-03-31,10297596000.0
+JBMA,A,balance,Stockholders Equity,2024-03-31,11676715000.0
+JBMA,A,balance,Stockholders Equity,2025-03-31,13506369000.0
+JBMA,A,balance,Stockholders Equity,2026-03-31,15382707000.0
+JBMA,A,balance,Total Assets,2023-03-31,35401151000.0
+JBMA,A,balance,Total Assets,2024-03-31,48648040000.0
+JBMA,A,balance,Total Assets,2025-03-31,58496954000.0
+JBMA,A,balance,Total Assets,2026-03-31,73695506000.0
+JBMA,A,balance,Total Debt,2023-03-31,17032281000.0
+JBMA,A,balance,Total Debt,2024-03-31,21268415000.0
+JBMA,A,balance,Total Debt,2025-03-31,26302700000.0
+JBMA,A,balance,Total Debt,2026-03-31,31454732000.0
+JBMA,A,cashflow,Capital Expenditure,2023-03-31,-6267265000.0
+JBMA,A,cashflow,Capital Expenditure,2024-03-31,-2276053000.0
+JBMA,A,cashflow,Capital Expenditure,2025-03-31,-1221197000.0
+JBMA,A,cashflow,Capital Expenditure,2026-03-31,-3020642000.0
+JBMA,A,cashflow,Free Cash Flow,2023-03-31,-1425793000.0
+JBMA,A,cashflow,Free Cash Flow,2024-03-31,-228078000.0
+JBMA,A,cashflow,Free Cash Flow,2025-03-31,2718052000.0
+JBMA,A,cashflow,Free Cash Flow,2026-03-31,-3619206000.0
+JBMA,A,cashflow,Operating Cash Flow,2023-03-31,4841472000.0
+JBMA,A,cashflow,Operating Cash Flow,2024-03-31,2047975000.0
+JBMA,A,cashflow,Operating Cash Flow,2025-03-31,3939249000.0
+JBMA,A,cashflow,Operating Cash Flow,2026-03-31,-598564000.0
+JBMA,A,income,Basic EPS,2023-03-31,5.26
+JBMA,A,income,Basic EPS,2024-03-31,7.56
+JBMA,A,income,Basic EPS,2025-03-31,8.54
+JBMA,A,income,Basic EPS,2026-03-31,9.25
+JBMA,A,income,Diluted EPS,2023-03-31,5.26
+JBMA,A,income,Diluted EPS,2024-03-31,7.56
+JBMA,A,income,Diluted EPS,2025-03-31,8.54
+JBMA,A,income,Diluted EPS,2026-03-31,9.25
+JBMA,A,income,EBITDA,2023-03-31,4206685000.0
+JBMA,A,income,EBITDA,2024-03-31,5981160000.0
+JBMA,A,income,EBITDA,2025-03-31,6867430000.0
+JBMA,A,income,EBITDA,2026-03-31,7984761000.0
+JBMA,A,income,Interest Expense,2023-03-31,1208219000.0
+JBMA,A,income,Interest Expense,2024-03-31,1805425000.0
+JBMA,A,income,Interest Expense,2025-03-31,2388208000.0
+JBMA,A,income,Interest Expense,2026-03-31,3143334000.0
+JBMA,A,income,Net Income,2023-03-31,1243834000.0
+JBMA,A,income,Net Income,2024-03-31,1788265000.0
+JBMA,A,income,Net Income,2025-03-31,2019115000.0
+JBMA,A,income,Net Income,2026-03-31,2187752000.0
+JBMA,A,income,Net Income Common Stockholders,2023-03-31,1243834000.0
+JBMA,A,income,Net Income Common Stockholders,2024-03-31,1788265000.0
+JBMA,A,income,Net Income Common Stockholders,2025-03-31,2019115000.0
+JBMA,A,income,Net Income Common Stockholders,2026-03-31,2187752000.0
+JBMA,A,income,Operating Income,2023-03-31,2746541000.0
+JBMA,A,income,Operating Income,2024-03-31,4146951000.0
+JBMA,A,income,Operating Income,2025-03-31,5074022000.0
+JBMA,A,income,Operating Income,2026-03-31,5387391000.0
+JBMA,A,income,Pretax Income,2023-03-31,1695317000.0
+JBMA,A,income,Pretax Income,2024-03-31,2460988000.0
+JBMA,A,income,Pretax Income,2025-03-31,2731877000.0
+JBMA,A,income,Pretax Income,2026-03-31,3102751000.0
+JBMA,A,income,Total Revenue,2023-03-31,35288614000.0
+JBMA,A,income,Total Revenue,2024-03-31,47231860000.0
+JBMA,A,income,Total Revenue,2025-03-31,51959271000.0
+JBMA,A,income,Total Revenue,2026-03-31,58115342000.0
+JBMA,Q,income,Basic EPS,2025-06-30,1.56
+JBMA,Q,income,Basic EPS,2025-12-31,2.33
+JBMA,Q,income,Basic EPS,2026-03-31,3.14
+JBMA,Q,income,Basic EPS,2026-06-30,1.78
+JBMA,Q,income,Basic EPS,2026-09-30,2.49
+JBMA,Q,income,Diluted EPS,2025-06-30,1.56
+JBMA,Q,income,Diluted EPS,2025-12-31,2.33
+JBMA,Q,income,Diluted EPS,2026-03-31,3.14
+JBMA,Q,income,Diluted EPS,2026-06-30,1.78
+JBMA,Q,income,Diluted EPS,2026-09-30,2.49
+JBMA,Q,income,EBITDA,2025-06-30,1602900000.0
+JBMA,Q,income,EBITDA,2025-12-31,1937000000.0
+JBMA,Q,income,EBITDA,2026-03-31,2593000000.0
+JBMA,Q,income,EBITDA,2026-06-30,1869400000.0
+JBMA,Q,income,EBITDA,2026-09-30,1926100000.0
+JBMA,Q,income,Interest Expense,2025-06-30,657700000.0
+JBMA,Q,income,Interest Expense,2025-12-31,738200000.0
+JBMA,Q,income,Interest Expense,2026-03-31,1082200000.0
+JBMA,Q,income,Interest Expense,2026-06-30,828800000.0
+JBMA,Q,income,Interest Expense,2026-09-30,730600000.0
+JBMA,Q,income,Net Income,2025-06-30,368000000.0
+JBMA,Q,income,Net Income,2025-12-31,551100000.0
+JBMA,Q,income,Net Income,2026-03-31,742400000.0
+JBMA,Q,income,Net Income,2026-06-30,422000000.0
+JBMA,Q,income,Net Income,2026-09-30,586400000.0
+JBMA,Q,income,Net Income Common Stockholders,2025-06-30,368000000.0
+JBMA,Q,income,Net Income Common Stockholders,2025-12-31,551100000.0
+JBMA,Q,income,Net Income Common Stockholders,2026-03-31,742400000.0
+JBMA,Q,income,Net Income Common Stockholders,2026-06-30,422000000.0
+JBMA,Q,income,Net Income Common Stockholders,2026-09-30,586400000.0
+JBMA,Q,income,Operating Income,2025-06-30,955300000.0
+JBMA,Q,income,Operating Income,2025-12-31,1307200000.0
+JBMA,Q,income,Operating Income,2026-03-31,1931400000.0
+JBMA,Q,income,Operating Income,2026-06-30,1193500000.0
+JBMA,Q,income,Operating Income,2026-09-30,1457300000.0
+JBMA,Q,income,Pretax Income,2025-06-30,505500000.0
+JBMA,Q,income,Pretax Income,2025-12-31,774500000.0
+JBMA,Q,income,Pretax Income,2026-03-31,1078900000.0
+JBMA,Q,income,Pretax Income,2026-06-30,600200000.0
+JBMA,Q,income,Pretax Income,2026-09-30,741800000.0
+JBMA,Q,income,Total Revenue,2025-06-30,12538800000.0
+JBMA,Q,income,Total Revenue,2025-12-31,16139800000.0
+JBMA,Q,income,Total Revenue,2026-03-31,18522700000.0
+JBMA,Q,income,Total Revenue,2026-06-30,14424500000.0
+JBMA,Q,income,Total Revenue,2026-09-30,16563700000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+PAYTM,A,balance,Cash And Cash Equivalents,2023-03-31,33120000000.0
+PAYTM,A,balance,Cash And Cash Equivalents,2024-03-31,42772000000.0
+PAYTM,A,balance,Cash And Cash Equivalents,2025-03-31,20770000000.0
+PAYTM,A,balance,Cash And Cash Equivalents,2026-03-31,32850000000.0
+PAYTM,A,balance,Ordinary Shares Number,2023-03-31,633788217.0
+PAYTM,A,balance,Ordinary Shares Number,2024-03-31,635413773.0
+PAYTM,A,balance,Ordinary Shares Number,2025-03-31,637845483.0
+PAYTM,A,balance,Ordinary Shares Number,2026-03-31,637845483.0
+PAYTM,A,balance,Stockholders Equity,2023-03-31,130156000000.0
+PAYTM,A,balance,Stockholders Equity,2024-03-31,133266000000.0
+PAYTM,A,balance,Stockholders Equity,2025-03-31,150270000000.0
+PAYTM,A,balance,Stockholders Equity,2026-03-31,160260000000.0
+PAYTM,A,balance,Total Assets,2023-03-31,179658000000.0
+PAYTM,A,balance,Total Assets,2024-03-31,186928000000.0
+PAYTM,A,balance,Total Assets,2025-03-31,214480000000.0
+PAYTM,A,balance,Total Assets,2026-03-31,239150000000.0
+PAYTM,A,balance,Total Debt,2023-03-31,2233000000.0
+PAYTM,A,balance,Total Debt,2024-03-31,1766000000.0
+PAYTM,A,balance,Total Debt,2025-03-31,1600000000.0
+PAYTM,A,balance,Total Debt,2026-03-31,1720000000.0
+PAYTM,A,cashflow,Capital Expenditure,2023-03-31,-7052000000.0
+PAYTM,A,cashflow,Capital Expenditure,2024-03-31,-8217000000.0
+PAYTM,A,cashflow,Capital Expenditure,2025-03-31,-3220000000.0
+PAYTM,A,cashflow,Capital Expenditure,2026-03-31,-4790000000.0
+PAYTM,A,cashflow,Free Cash Flow,2023-03-31,-2896000000.0
+PAYTM,A,cashflow,Free Cash Flow,2024-03-31,-1709000000.0
+PAYTM,A,cashflow,Free Cash Flow,2025-03-31,-4430000000.0
+PAYTM,A,cashflow,Free Cash Flow,2026-03-31,-12220000000.0
+PAYTM,A,cashflow,Operating Cash Flow,2023-03-31,4156000000.0
+PAYTM,A,cashflow,Operating Cash Flow,2024-03-31,6508000000.0
+PAYTM,A,cashflow,Operating Cash Flow,2025-03-31,-1210000000.0
+PAYTM,A,cashflow,Operating Cash Flow,2026-03-31,-7430000000.0
+PAYTM,A,income,Basic EPS,2023-03-31,-27.0
+PAYTM,A,income,Basic EPS,2024-03-31,-22.33
+PAYTM,A,income,Basic EPS,2025-03-31,-10.35
+PAYTM,A,income,Basic EPS,2026-03-31,8.66
+PAYTM,A,income,Diluted EPS,2023-03-31,-27.0
+PAYTM,A,income,Diluted EPS,2024-03-31,-22.33
+PAYTM,A,income,Diluted EPS,2025-03-31,-10.35
+PAYTM,A,income,Diluted EPS,2026-03-31,8.55
+PAYTM,A,income,EBITDA,2023-03-31,-12343000000.0
+PAYTM,A,income,EBITDA,2024-03-31,-6304000000.0
+PAYTM,A,income,EBITDA,2025-03-31,440000000.0
+PAYTM,A,income,EBITDA,2026-03-31,11680000000.0
+PAYTM,A,income,Interest Expense,2023-03-31,233000000.0
+PAYTM,A,income,Interest Expense,2024-03-31,243000000.0
+PAYTM,A,income,Interest Expense,2025-03-31,160000000.0
+PAYTM,A,income,Interest Expense,2026-03-31,180000000.0
+PAYTM,A,income,Net Income,2023-03-31,-17759000000.0
+PAYTM,A,income,Net Income,2024-03-31,-14170000000.0
+PAYTM,A,income,Net Income,2025-03-31,-6590000000.0
+PAYTM,A,income,Net Income,2026-03-31,5530000000.0
+PAYTM,A,income,Net Income Common Stockholders,2023-03-31,-17759000000.0
+PAYTM,A,income,Net Income Common Stockholders,2024-03-31,-14170000000.0
+PAYTM,A,income,Net Income Common Stockholders,2025-03-31,-6590000000.0
+PAYTM,A,income,Net Income Common Stockholders,2026-03-31,5530000000.0
+PAYTM,A,income,Operating Income,2023-03-31,-20913000000.0
+PAYTM,A,income,Operating Income,2024-03-31,-16282000000.0
+PAYTM,A,income,Operating Income,2025-03-31,-18040000000.0
+PAYTM,A,income,Operating Income,2026-03-31,2900000000.0
+PAYTM,A,income,Pretax Income,2023-03-31,-17429000000.0
+PAYTM,A,income,Pretax Income,2024-03-31,-13904000000.0
+PAYTM,A,income,Pretax Income,2025-03-31,-6450000000.0
+PAYTM,A,income,Pretax Income,2026-03-31,5820000000.0
+PAYTM,A,income,Total Revenue,2023-03-31,79044000000.0
+PAYTM,A,income,Total Revenue,2024-03-31,98699000000.0
+PAYTM,A,income,Total Revenue,2025-03-31,67410000000.0
+PAYTM,A,income,Total Revenue,2026-03-31,81920000000.0
+PAYTM,Q,income,Basic EPS,2025-06-30,1.92
+PAYTM,Q,income,Basic EPS,2025-12-31,3.52
+PAYTM,Q,income,Basic EPS,2026-03-31,2.87
+PAYTM,Q,income,Basic EPS,2026-06-30,3.44
+PAYTM,Q,income,Basic EPS,2026-09-30,3.534521
+PAYTM,Q,income,Diluted EPS,2025-06-30,1.89
+PAYTM,Q,income,Diluted EPS,2025-12-31,3.46
+PAYTM,Q,income,Diluted EPS,2026-03-31,2.83
+PAYTM,Q,income,Diluted EPS,2026-06-30,3.4
+PAYTM,Q,income,Diluted EPS,2026-09-30,3.47
+PAYTM,Q,income,EBITDA,2025-06-30,2960000000.0
+PAYTM,Q,income,EBITDA,2025-12-31,3670000000.0
+PAYTM,Q,income,EBITDA,2026-03-31,3310000000.0
+PAYTM,Q,income,EBITDA,2026-06-30,3850000000.0
+PAYTM,Q,income,EBITDA,2026-09-30,4450000000.0
+PAYTM,Q,income,Interest Expense,2025-06-30,40000000.0
+PAYTM,Q,income,Interest Expense,2025-12-31,40000000.0
+PAYTM,Q,income,Interest Expense,2026-03-31,50000000.0
+PAYTM,Q,income,Interest Expense,2026-06-30,70000000.0
+PAYTM,Q,income,Interest Expense,2026-09-30,70000000.0
+PAYTM,Q,income,Net Income,2025-06-30,1230000000.0
+PAYTM,Q,income,Net Income,2025-12-31,2250000000.0
+PAYTM,Q,income,Net Income,2026-03-31,1840000000.0
+PAYTM,Q,income,Net Income,2026-06-30,2200000000.0
+PAYTM,Q,income,Net Income,2026-09-30,2260000000.0
+PAYTM,Q,income,Net Income Common Stockholders,2025-06-30,1230000000.0
+PAYTM,Q,income,Net Income Common Stockholders,2025-12-31,2250000000.0
+PAYTM,Q,income,Net Income Common Stockholders,2026-03-31,1840000000.0
+PAYTM,Q,income,Net Income Common Stockholders,2026-06-30,2200000000.0
+PAYTM,Q,income,Net Income Common Stockholders,2026-09-30,2260000000.0
+PAYTM,Q,income,Operating Income,2025-06-30,-940000000.0
+PAYTM,Q,income,Operating Income,2025-12-31,230000000.0
+PAYTM,Q,income,Operating Income,2026-03-31,0.0
+PAYTM,Q,income,Operating Income,2026-06-30,720000000.0
+PAYTM,Q,income,Operating Income,2026-09-30,1240000000.0
+PAYTM,Q,income,Pretax Income,2025-06-30,1260000000.0
+PAYTM,Q,income,Pretax Income,2025-12-31,2300000000.0
+PAYTM,Q,income,Pretax Income,2026-03-31,1940000000.0
+PAYTM,Q,income,Pretax Income,2026-06-30,2470000000.0
+PAYTM,Q,income,Pretax Income,2026-09-30,2920000000.0
+PAYTM,Q,income,Total Revenue,2025-06-30,19180000000.0
+PAYTM,Q,income,Total Revenue,2025-12-31,21940000000.0
+PAYTM,Q,income,Total Revenue,2026-03-31,22640000000.0
+PAYTM,Q,income,Total Revenue,2026-06-30,24480000000.0
+PAYTM,Q,income,Total Revenue,2026-09-30,26480000000.0

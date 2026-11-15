@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+JIOFIN,A,balance,Cash And Cash Equivalents,2023-03-31,565700000.0
+JIOFIN,A,balance,Cash And Cash Equivalents,2024-03-31,671800000.0
+JIOFIN,A,balance,Cash And Cash Equivalents,2025-03-31,3523200000.0
+JIOFIN,A,balance,Cash And Cash Equivalents,2026-03-31,6650400000.0
+JIOFIN,A,balance,Net Debt,2023-03-31,6862000000.0
+JIOFIN,A,balance,Net Debt,2025-03-31,36176800000.0
+JIOFIN,A,balance,Net Debt,2026-03-31,211033200000.0
+JIOFIN,A,balance,Ordinary Shares Number,2023-03-31,6353284188.0
+JIOFIN,A,balance,Ordinary Shares Number,2024-03-31,6353284188.0
+JIOFIN,A,balance,Ordinary Shares Number,2025-03-31,6353141623.0
+JIOFIN,A,balance,Ordinary Shares Number,2026-03-31,6353141623.0
+JIOFIN,A,balance,Stockholders Equity,2023-03-31,1141203400000.0
+JIOFIN,A,balance,Stockholders Equity,2024-03-31,1391476600000.0
+JIOFIN,A,balance,Stockholders Equity,2025-03-31,1234964700000.0
+JIOFIN,A,balance,Stockholders Equity,2026-03-31,1338535900000.0
+JIOFIN,A,balance,Total Assets,2023-03-31,1149297400000.0
+JIOFIN,A,balance,Total Assets,2024-03-31,1448629900000.0
+JIOFIN,A,balance,Total Assets,2025-03-31,1335099400000.0
+JIOFIN,A,balance,Total Assets,2026-03-31,1634970800000.0
+JIOFIN,A,balance,Total Debt,2023-03-31,7427700000.0
+JIOFIN,A,balance,Total Debt,2024-03-31,0.0
+JIOFIN,A,balance,Total Debt,2025-03-31,39700000000.0
+JIOFIN,A,balance,Total Debt,2026-03-31,217683600000.0
+JIOFIN,A,cashflow,Capital Expenditure,2024-03-31,-7900000.0
+JIOFIN,A,cashflow,Capital Expenditure,2025-03-31,-418000000.0
+JIOFIN,A,cashflow,Capital Expenditure,2026-03-31,-1054600000.0
+JIOFIN,A,cashflow,Free Cash Flow,2023-03-31,20549000000.0
+JIOFIN,A,cashflow,Free Cash Flow,2024-03-31,-6783600000.0
+JIOFIN,A,cashflow,Free Cash Flow,2025-03-31,-101305300000.0
+JIOFIN,A,cashflow,Free Cash Flow,2026-03-31,-155441000000.0
+JIOFIN,A,cashflow,Operating Cash Flow,2023-03-31,20549000000.0
+JIOFIN,A,cashflow,Operating Cash Flow,2024-03-31,-6775700000.0
+JIOFIN,A,cashflow,Operating Cash Flow,2025-03-31,-100887300000.0
+JIOFIN,A,cashflow,Operating Cash Flow,2026-03-31,-154386400000.0
+JIOFIN,A,income,Basic EPS,2023-03-31,0.049187
+JIOFIN,A,income,Basic EPS,2024-03-31,2.53
+JIOFIN,A,income,Basic EPS,2025-03-31,2.54
+JIOFIN,A,income,Basic EPS,2026-03-31,2.46
+JIOFIN,A,income,Diluted EPS,2023-03-31,0.049187
+JIOFIN,A,income,Diluted EPS,2024-03-31,2.53
+JIOFIN,A,income,Diluted EPS,2025-03-31,2.54
+JIOFIN,A,income,Diluted EPS,2026-03-31,2.46
+JIOFIN,A,income,EBITDA,2023-03-31,493400000.0
+JIOFIN,A,income,EBITDA,2024-03-31,19876800000.0
+JIOFIN,A,income,EBITDA,2025-03-31,19770800000.0
+JIOFIN,A,income,EBITDA,2026-03-31,26861900000.0
+JIOFIN,A,income,Interest Expense,2023-03-31,0.0
+JIOFIN,A,income,Interest Expense,2024-03-31,102700000.0
+JIOFIN,A,income,Interest Expense,2025-03-31,76500000.0
+JIOFIN,A,income,Interest Expense,2026-03-31,7450900000.0
+JIOFIN,A,income,Net Income,2023-03-31,312500000.0
+JIOFIN,A,income,Net Income,2024-03-31,16045500000.0
+JIOFIN,A,income,Net Income,2025-03-31,16125900000.0
+JIOFIN,A,income,Net Income,2026-03-31,15609000000.0
+JIOFIN,A,income,Net Income Common Stockholders,2023-03-31,312500000.0
+JIOFIN,A,income,Net Income Common Stockholders,2024-03-31,16045500000.0
+JIOFIN,A,income,Net Income Common Stockholders,2025-03-31,16125900000.0
+JIOFIN,A,income,Net Income Common Stockholders,2026-03-31,15609000000.0
+JIOFIN,A,income,Operating Income,2023-03-31,438400000.0
+JIOFIN,A,income,Operating Income,2024-03-31,9113500000.0
+JIOFIN,A,income,Operating Income,2025-03-31,11819900000.0
+JIOFIN,A,income,Operating Income,2026-03-31,22909700000.0
+JIOFIN,A,income,Pretax Income,2023-03-31,493400000.0
+JIOFIN,A,income,Pretax Income,2024-03-31,19558900000.0
+JIOFIN,A,income,Pretax Income,2025-03-31,19469100000.0
+JIOFIN,A,income,Pretax Income,2026-03-31,19116600000.0
+JIOFIN,A,income,Total Revenue,2023-03-31,211900000.0
+JIOFIN,A,income,Total Revenue,2024-03-31,11706000000.0
+JIOFIN,A,income,Total Revenue,2025-03-31,13473900000.0
+JIOFIN,A,income,Total Revenue,2026-03-31,31853100000.0
+JIOFIN,Q,income,Basic EPS,2025-06-30,0.51
+JIOFIN,Q,income,Basic EPS,2025-12-31,0.42
+JIOFIN,Q,income,Basic EPS,2026-03-31,0.43
+JIOFIN,Q,income,Basic EPS,2026-06-30,1.27
+JIOFIN,Q,income,Basic EPS,2026-09-30,0.51
+JIOFIN,Q,income,Diluted EPS,2025-06-30,0.51
+JIOFIN,Q,income,Diluted EPS,2025-12-31,0.42
+JIOFIN,Q,income,Diluted EPS,2026-03-31,0.43
+JIOFIN,Q,income,Diluted EPS,2026-06-30,1.27
+JIOFIN,Q,income,Diluted EPS,2026-09-30,0.51
+JIOFIN,Q,income,EBITDA,2025-06-30,5239000000.0
+JIOFIN,Q,income,EBITDA,2025-12-31,5910200000.0
+JIOFIN,Q,income,EBITDA,2026-03-31,6446300000.0
+JIOFIN,Q,income,EBITDA,2026-06-30,13974600000.0
+JIOFIN,Q,income,EBITDA,2026-09-30,10785000000.0
+JIOFIN,Q,income,Interest Expense,2025-06-30,988000000.0
+JIOFIN,Q,income,Interest Expense,2025-12-31,2123800000.0
+JIOFIN,Q,income,Interest Expense,2026-03-31,2980900000.0
+JIOFIN,Q,income,Interest Expense,2026-06-30,4183300000.0
+JIOFIN,Q,income,Interest Expense,2026-09-30,5777300000.0
+JIOFIN,Q,income,Net Income,2025-06-30,3246600000.0
+JIOFIN,Q,income,Net Income,2025-12-31,2689800000.0
+JIOFIN,Q,income,Net Income,2026-03-31,2722200000.0
+JIOFIN,Q,income,Net Income,2026-06-30,8302500000.0
+JIOFIN,Q,income,Net Income,2026-09-30,3404400000.0
+JIOFIN,Q,income,Net Income Common Stockholders,2025-06-30,3246600000.0
+JIOFIN,Q,income,Net Income Common Stockholders,2025-12-31,2689800000.0
+JIOFIN,Q,income,Net Income Common Stockholders,2026-03-31,2722200000.0
+JIOFIN,Q,income,Net Income Common Stockholders,2026-06-30,8302500000.0
+JIOFIN,Q,income,Net Income Common Stockholders,2026-09-30,3404400000.0
+JIOFIN,Q,income,Operating Income,2025-06-30,4507500000.0
+JIOFIN,Q,income,Operating Income,2025-12-31,5473600000.0
+JIOFIN,Q,income,Operating Income,2026-03-31,5966100000.0
+JIOFIN,Q,income,Operating Income,2026-06-30,14069900000.0
+JIOFIN,Q,income,Operating Income,2026-09-30,11109400000.0
+JIOFIN,Q,income,Pretax Income,2025-06-30,4189700000.0
+JIOFIN,Q,income,Pretax Income,2025-12-31,3710900000.0
+JIOFIN,Q,income,Pretax Income,2026-03-31,3385300000.0
+JIOFIN,Q,income,Pretax Income,2026-06-30,9696800000.0
+JIOFIN,Q,income,Pretax Income,2026-09-30,4894600000.0
+JIOFIN,Q,income,Total Revenue,2025-06-30,4164400000.0
+JIOFIN,Q,income,Total Revenue,2025-12-31,6863700000.0
+JIOFIN,Q,income,Total Revenue,2026-03-31,8638600000.0
+JIOFIN,Q,income,Total Revenue,2026-06-30,17947100000.0
+JIOFIN,Q,income,Total Revenue,2026-09-30,15347700000.0

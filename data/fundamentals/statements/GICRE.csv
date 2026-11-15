@@ -1,0 +1,86 @@
+symbol,freq,statement,item,period_end,value
+GICRE,A,balance,Cash And Cash Equivalents,2023-03-31,237024424000.0
+GICRE,A,balance,Cash And Cash Equivalents,2024-03-31,248551800000.0
+GICRE,A,balance,Cash And Cash Equivalents,2025-03-31,252807000000.0
+GICRE,A,balance,Cash And Cash Equivalents,2026-03-31,284888800000.0
+GICRE,A,balance,Ordinary Shares Number,2023-03-31,1754400000.0
+GICRE,A,balance,Ordinary Shares Number,2024-03-31,1754400000.0
+GICRE,A,balance,Ordinary Shares Number,2025-03-31,1754400000.0
+GICRE,A,balance,Ordinary Shares Number,2026-03-31,1754400000.0
+GICRE,A,balance,Stockholders Equity,2023-03-31,451847377000.0
+GICRE,A,balance,Stockholders Equity,2024-03-31,552565500000.0
+GICRE,A,balance,Stockholders Equity,2025-03-31,614997000000.0
+GICRE,A,balance,Stockholders Equity,2026-03-31,704808200000.0
+GICRE,A,balance,Total Assets,2023-03-31,1627307402000.0
+GICRE,A,balance,Total Assets,2024-03-31,1844523200000.0
+GICRE,A,balance,Total Assets,2025-03-31,1947694300000.0
+GICRE,A,balance,Total Assets,2026-03-31,2057328000000.0
+GICRE,A,cashflow,Capital Expenditure,2023-03-31,-1340661000.0
+GICRE,A,cashflow,Capital Expenditure,2024-03-31,-56800000.0
+GICRE,A,cashflow,Capital Expenditure,2025-03-31,-254100000.0
+GICRE,A,cashflow,Capital Expenditure,2026-03-31,-137600000.0
+GICRE,A,cashflow,Free Cash Flow,2023-03-31,115881755000.0
+GICRE,A,cashflow,Free Cash Flow,2024-03-31,-2174100000.0
+GICRE,A,cashflow,Free Cash Flow,2025-03-31,19507800000.0
+GICRE,A,cashflow,Free Cash Flow,2026-03-31,4526700000.0
+GICRE,A,cashflow,Operating Cash Flow,2022-03-31,90507806000.0
+GICRE,A,cashflow,Operating Cash Flow,2023-03-31,117222416000.0
+GICRE,A,cashflow,Operating Cash Flow,2024-03-31,111444521000.0
+GICRE,A,income,Basic EPS,2023-03-31,39.37
+GICRE,A,income,Basic EPS,2024-03-31,38.11
+GICRE,A,income,Basic EPS,2025-03-31,42.36
+GICRE,A,income,Basic EPS,2026-03-31,55.08
+GICRE,A,income,Diluted EPS,2023-03-31,39.37
+GICRE,A,income,Diluted EPS,2024-03-31,38.11
+GICRE,A,income,Diluted EPS,2025-03-31,42.36
+GICRE,A,income,Diluted EPS,2026-03-31,55.08
+GICRE,A,income,Interest Expense,2023-03-31,807499000.0
+GICRE,A,income,Interest Expense,2024-03-31,838100000.0
+GICRE,A,income,Interest Expense,2025-03-31,707800000.0
+GICRE,A,income,Interest Expense,2026-03-31,626400000.0
+GICRE,A,income,Net Income,2023-03-31,69073065000.0
+GICRE,A,income,Net Income,2024-03-31,66858300000.0
+GICRE,A,income,Net Income,2025-03-31,74318500000.0
+GICRE,A,income,Net Income,2026-03-31,96623800000.0
+GICRE,A,income,Net Income Common Stockholders,2023-03-31,69073065000.0
+GICRE,A,income,Net Income Common Stockholders,2024-03-31,66858300000.0
+GICRE,A,income,Net Income Common Stockholders,2025-03-31,74318500000.0
+GICRE,A,income,Net Income Common Stockholders,2026-03-31,96623800000.0
+GICRE,A,income,Pretax Income,2023-03-31,80311773000.0
+GICRE,A,income,Pretax Income,2024-03-31,79249100000.0
+GICRE,A,income,Pretax Income,2025-03-31,91046500000.0
+GICRE,A,income,Pretax Income,2026-03-31,114467000000.0
+GICRE,A,income,Total Revenue,2023-03-31,483421876000.0
+GICRE,A,income,Total Revenue,2024-03-31,465495600000.0
+GICRE,A,income,Total Revenue,2025-03-31,507023400000.0
+GICRE,A,income,Total Revenue,2026-03-31,548130200000.0
+GICRE,Q,income,Basic EPS,2025-09-30,16.38
+GICRE,Q,income,Basic EPS,2025-12-31,9.84
+GICRE,Q,income,Basic EPS,2026-03-31,14.44
+GICRE,Q,income,Basic EPS,2026-06-30,9.94
+GICRE,Q,income,Basic EPS,2026-09-30,16.9
+GICRE,Q,income,Diluted EPS,2025-09-30,16.38
+GICRE,Q,income,Diluted EPS,2025-12-31,9.84
+GICRE,Q,income,Diluted EPS,2026-03-31,14.44
+GICRE,Q,income,Diluted EPS,2026-06-30,9.94
+GICRE,Q,income,Diluted EPS,2026-09-30,16.9
+GICRE,Q,income,Net Income,2025-09-30,28735400000.0
+GICRE,Q,income,Net Income,2025-12-31,17256600000.0
+GICRE,Q,income,Net Income,2026-03-31,25325900000.0
+GICRE,Q,income,Net Income,2026-06-30,17436700000.0
+GICRE,Q,income,Net Income,2026-09-30,29656900000.0
+GICRE,Q,income,Net Income Common Stockholders,2025-09-30,28735400000.0
+GICRE,Q,income,Net Income Common Stockholders,2025-12-31,17256600000.0
+GICRE,Q,income,Net Income Common Stockholders,2026-03-31,25325900000.0
+GICRE,Q,income,Net Income Common Stockholders,2026-06-30,17436700000.0
+GICRE,Q,income,Net Income Common Stockholders,2026-09-30,29656900000.0
+GICRE,Q,income,Pretax Income,2025-09-30,33151000000.0
+GICRE,Q,income,Pretax Income,2025-12-31,23603200000.0
+GICRE,Q,income,Pretax Income,2026-03-31,31076100000.0
+GICRE,Q,income,Pretax Income,2026-06-30,21917800000.0
+GICRE,Q,income,Pretax Income,2026-09-30,35984800000.0
+GICRE,Q,income,Total Revenue,2025-09-30,131066000000.0
+GICRE,Q,income,Total Revenue,2025-12-31,126693700000.0
+GICRE,Q,income,Total Revenue,2026-03-31,134586300000.0
+GICRE,Q,income,Total Revenue,2026-06-30,144714600000.0
+GICRE,Q,income,Total Revenue,2026-09-30,150732800000.0

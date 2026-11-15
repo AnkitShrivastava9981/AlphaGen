@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+GMDCLTD,A,balance,Cash And Cash Equivalents,2023-03-31,510744000.0
+GMDCLTD,A,balance,Cash And Cash Equivalents,2024-03-31,507600000.0
+GMDCLTD,A,balance,Cash And Cash Equivalents,2025-03-31,1188600000.0
+GMDCLTD,A,balance,Cash And Cash Equivalents,2026-03-31,943100000.0
+GMDCLTD,A,balance,Net Debt,2025-03-31,39300000.0
+GMDCLTD,A,balance,Net Debt,2026-03-31,2142400000.0
+GMDCLTD,A,balance,Ordinary Shares Number,2023-03-31,318000000.0
+GMDCLTD,A,balance,Ordinary Shares Number,2024-03-31,318000000.0
+GMDCLTD,A,balance,Ordinary Shares Number,2025-03-31,318000000.0
+GMDCLTD,A,balance,Ordinary Shares Number,2026-03-31,318000000.0
+GMDCLTD,A,balance,Stockholders Equity,2023-03-31,57851691000.0
+GMDCLTD,A,balance,Stockholders Equity,2024-03-31,60997400000.0
+GMDCLTD,A,balance,Stockholders Equity,2025-03-31,64415400000.0
+GMDCLTD,A,balance,Stockholders Equity,2026-03-31,70727400000.0
+GMDCLTD,A,balance,Total Assets,2023-03-31,69511821000.0
+GMDCLTD,A,balance,Total Assets,2024-03-31,73671400000.0
+GMDCLTD,A,balance,Total Assets,2025-03-31,77491900000.0
+GMDCLTD,A,balance,Total Assets,2026-03-31,89829800000.0
+GMDCLTD,A,balance,Total Debt,2023-03-31,20678000.0
+GMDCLTD,A,balance,Total Debt,2024-03-31,28200000.0
+GMDCLTD,A,balance,Total Debt,2025-03-31,1264400000.0
+GMDCLTD,A,balance,Total Debt,2026-03-31,3165100000.0
+GMDCLTD,A,cashflow,Capital Expenditure,2023-03-31,-249694000.0
+GMDCLTD,A,cashflow,Capital Expenditure,2024-03-31,-4786400000.0
+GMDCLTD,A,cashflow,Capital Expenditure,2025-03-31,-6440200000.0
+GMDCLTD,A,cashflow,Capital Expenditure,2026-03-31,-10340300000.0
+GMDCLTD,A,cashflow,Free Cash Flow,2023-03-31,9077061000.0
+GMDCLTD,A,cashflow,Free Cash Flow,2024-03-31,-3685700000.0
+GMDCLTD,A,cashflow,Free Cash Flow,2025-03-31,4215600000.0
+GMDCLTD,A,cashflow,Free Cash Flow,2026-03-31,-2903100000.0
+GMDCLTD,A,cashflow,Operating Cash Flow,2023-03-31,9326755000.0
+GMDCLTD,A,cashflow,Operating Cash Flow,2024-03-31,1100700000.0
+GMDCLTD,A,cashflow,Operating Cash Flow,2025-03-31,10655800000.0
+GMDCLTD,A,cashflow,Operating Cash Flow,2026-03-31,7437200000.0
+GMDCLTD,A,income,Basic EPS,2023-03-31,37.88
+GMDCLTD,A,income,Basic EPS,2024-03-31,18.78
+GMDCLTD,A,income,Basic EPS,2025-03-31,21.38
+GMDCLTD,A,income,Basic EPS,2026-03-31,30.08
+GMDCLTD,A,income,Diluted EPS,2023-03-31,37.88
+GMDCLTD,A,income,Diluted EPS,2024-03-31,18.78
+GMDCLTD,A,income,Diluted EPS,2025-03-31,21.38
+GMDCLTD,A,income,Diluted EPS,2026-03-31,30.08
+GMDCLTD,A,income,EBITDA,2023-03-31,17303809000.0
+GMDCLTD,A,income,EBITDA,2024-03-31,8804900000.0
+GMDCLTD,A,income,EBITDA,2025-03-31,9862600000.0
+GMDCLTD,A,income,EBITDA,2026-03-31,13895900000.0
+GMDCLTD,A,income,Interest Expense,2023-03-31,23848000.0
+GMDCLTD,A,income,Interest Expense,2024-03-31,25900000.0
+GMDCLTD,A,income,Interest Expense,2025-03-31,21800000.0
+GMDCLTD,A,income,Interest Expense,2026-03-31,71400000.0
+GMDCLTD,A,income,Net Income,2023-03-31,12044468000.0
+GMDCLTD,A,income,Net Income,2024-03-31,5973600000.0
+GMDCLTD,A,income,Net Income,2025-03-31,6798500000.0
+GMDCLTD,A,income,Net Income,2026-03-31,9566700000.0
+GMDCLTD,A,income,Net Income Common Stockholders,2023-03-31,12044468000.0
+GMDCLTD,A,income,Net Income Common Stockholders,2024-03-31,5973600000.0
+GMDCLTD,A,income,Net Income Common Stockholders,2025-03-31,6798500000.0
+GMDCLTD,A,income,Net Income Common Stockholders,2026-03-31,9566700000.0
+GMDCLTD,A,income,Operating Income,2023-03-31,12606881000.0
+GMDCLTD,A,income,Operating Income,2024-03-31,5364900000.0
+GMDCLTD,A,income,Operating Income,2025-03-31,5657700000.0
+GMDCLTD,A,income,Operating Income,2026-03-31,4342800000.0
+GMDCLTD,A,income,Pretax Income,2023-03-31,16466951000.0
+GMDCLTD,A,income,Pretax Income,2024-03-31,7981200000.0
+GMDCLTD,A,income,Pretax Income,2025-03-31,8887100000.0
+GMDCLTD,A,income,Pretax Income,2026-03-31,12677400000.0
+GMDCLTD,A,income,Total Revenue,2023-03-31,34978799000.0
+GMDCLTD,A,income,Total Revenue,2024-03-31,24628800000.0
+GMDCLTD,A,income,Total Revenue,2025-03-31,28508400000.0
+GMDCLTD,A,income,Total Revenue,2026-03-31,26533800000.0
+GMDCLTD,Q,income,Basic EPS,2025-09-30,14.65
+GMDCLTD,Q,income,Basic EPS,2025-12-31,4.18
+GMDCLTD,Q,income,Basic EPS,2026-03-31,6.1
+GMDCLTD,Q,income,Basic EPS,2026-06-30,5.14
+GMDCLTD,Q,income,Basic EPS,2026-09-30,5.37
+GMDCLTD,Q,income,Diluted EPS,2025-09-30,14.65
+GMDCLTD,Q,income,Diluted EPS,2025-12-31,4.18
+GMDCLTD,Q,income,Diluted EPS,2026-03-31,6.1
+GMDCLTD,Q,income,Diluted EPS,2026-06-30,5.14
+GMDCLTD,Q,income,Diluted EPS,2026-09-30,5.37
+GMDCLTD,Q,income,EBITDA,2025-09-30,6302700000.0
+GMDCLTD,Q,income,EBITDA,2025-12-31,1799400000.0
+GMDCLTD,Q,income,EBITDA,2026-03-31,2400200000.0
+GMDCLTD,Q,income,EBITDA,2026-06-30,2338600000.0
+GMDCLTD,Q,income,EBITDA,2026-09-30,2412000000.0
+GMDCLTD,Q,income,Interest Expense,2025-09-30,5700000.0
+GMDCLTD,Q,income,Interest Expense,2025-12-31,6000000.0
+GMDCLTD,Q,income,Interest Expense,2026-03-31,53700000.0
+GMDCLTD,Q,income,Interest Expense,2026-06-30,66100000.0
+GMDCLTD,Q,income,Interest Expense,2026-09-30,66000000.0
+GMDCLTD,Q,income,Net Income,2025-09-30,4657500000.0
+GMDCLTD,Q,income,Net Income,2025-12-31,1330600000.0
+GMDCLTD,Q,income,Net Income,2026-03-31,1940900000.0
+GMDCLTD,Q,income,Net Income,2026-06-30,1634300000.0
+GMDCLTD,Q,income,Net Income,2026-09-30,1707900000.0
+GMDCLTD,Q,income,Net Income Common Stockholders,2025-09-30,4657500000.0
+GMDCLTD,Q,income,Net Income Common Stockholders,2025-12-31,1330600000.0
+GMDCLTD,Q,income,Net Income Common Stockholders,2026-03-31,1940900000.0
+GMDCLTD,Q,income,Net Income Common Stockholders,2026-06-30,1634300000.0
+GMDCLTD,Q,income,Net Income Common Stockholders,2026-09-30,1707900000.0
+GMDCLTD,Q,income,Operating Income,2025-09-30,476600000.0
+GMDCLTD,Q,income,Operating Income,2025-12-31,787300000.0
+GMDCLTD,Q,income,Operating Income,2026-03-31,554400000.0
+GMDCLTD,Q,income,Operating Income,2026-06-30,1577100000.0
+GMDCLTD,Q,income,Operating Income,2026-09-30,1573900000.0
+GMDCLTD,Q,income,Pretax Income,2025-09-30,6297000000.0
+GMDCLTD,Q,income,Pretax Income,2025-12-31,1793400000.0
+GMDCLTD,Q,income,Pretax Income,2026-03-31,2346500000.0
+GMDCLTD,Q,income,Pretax Income,2026-06-30,2272500000.0
+GMDCLTD,Q,income,Pretax Income,2026-09-30,2346000000.0
+GMDCLTD,Q,income,Total Revenue,2025-09-30,5275800000.0
+GMDCLTD,Q,income,Total Revenue,2025-12-31,5791500000.0
+GMDCLTD,Q,income,Total Revenue,2026-03-31,8140500000.0
+GMDCLTD,Q,income,Total Revenue,2026-06-30,9066400000.0
+GMDCLTD,Q,income,Total Revenue,2026-09-30,9029700000.0

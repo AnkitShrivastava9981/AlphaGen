@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SHAILY,A,balance,Cash And Cash Equivalents,2023-03-31,191376000.0
+SHAILY,A,balance,Cash And Cash Equivalents,2024-03-31,222174000.0
+SHAILY,A,balance,Cash And Cash Equivalents,2025-03-31,190839000.0
+SHAILY,A,balance,Cash And Cash Equivalents,2026-03-31,207932000.0
+SHAILY,A,balance,Net Debt,2023-03-31,1676781000.0
+SHAILY,A,balance,Net Debt,2024-03-31,1861345000.0
+SHAILY,A,balance,Net Debt,2025-03-31,1685930000.0
+SHAILY,A,balance,Net Debt,2026-03-31,1532401000.0
+SHAILY,A,balance,Ordinary Shares Number,2023-03-31,45867510.0
+SHAILY,A,balance,Ordinary Shares Number,2024-03-31,45867510.0
+SHAILY,A,balance,Ordinary Shares Number,2025-03-31,45955093.0
+SHAILY,A,balance,Ordinary Shares Number,2026-03-31,45955093.0
+SHAILY,A,balance,Stockholders Equity,2023-03-31,4013981000.0
+SHAILY,A,balance,Stockholders Equity,2024-03-31,4591728000.0
+SHAILY,A,balance,Stockholders Equity,2025-03-31,5476877000.0
+SHAILY,A,balance,Stockholders Equity,2026-03-31,7166748000.0
+SHAILY,A,balance,Total Assets,2023-03-31,6926773000.0
+SHAILY,A,balance,Total Assets,2024-03-31,7824566000.0
+SHAILY,A,balance,Total Assets,2025-03-31,9326200000.0
+SHAILY,A,balance,Total Assets,2026-03-31,11467362000.0
+SHAILY,A,balance,Total Debt,2023-03-31,1879753000.0
+SHAILY,A,balance,Total Debt,2024-03-31,2090574000.0
+SHAILY,A,balance,Total Debt,2025-03-31,1882194000.0
+SHAILY,A,balance,Total Debt,2026-03-31,1774129000.0
+SHAILY,A,cashflow,Capital Expenditure,2023-03-31,-1116400000.0
+SHAILY,A,cashflow,Capital Expenditure,2024-03-31,-950657000.0
+SHAILY,A,cashflow,Capital Expenditure,2025-03-31,-722210000.0
+SHAILY,A,cashflow,Capital Expenditure,2026-03-31,-1855869000.0
+SHAILY,A,cashflow,Free Cash Flow,2023-03-31,-216587000.0
+SHAILY,A,cashflow,Free Cash Flow,2024-03-31,-28010000.0
+SHAILY,A,cashflow,Free Cash Flow,2025-03-31,378436000.0
+SHAILY,A,cashflow,Free Cash Flow,2026-03-31,401354000.0
+SHAILY,A,cashflow,Operating Cash Flow,2023-03-31,899813000.0
+SHAILY,A,cashflow,Operating Cash Flow,2024-03-31,922647000.0
+SHAILY,A,cashflow,Operating Cash Flow,2025-03-31,1100646000.0
+SHAILY,A,cashflow,Operating Cash Flow,2026-03-31,2257223000.0
+SHAILY,A,income,Basic EPS,2023-03-31,7.66
+SHAILY,A,income,Basic EPS,2024-03-31,12.49
+SHAILY,A,income,Basic EPS,2025-03-31,20.29
+SHAILY,A,income,Basic EPS,2026-03-31,36.97
+SHAILY,A,income,Diluted EPS,2023-03-31,7.66
+SHAILY,A,income,Diluted EPS,2024-03-31,12.49
+SHAILY,A,income,Diluted EPS,2025-03-31,20.23
+SHAILY,A,income,Diluted EPS,2026-03-31,36.83
+SHAILY,A,income,EBITDA,2023-03-31,963951000.0
+SHAILY,A,income,EBITDA,2024-03-31,1234322000.0
+SHAILY,A,income,EBITDA,2025-03-31,1783780000.0
+SHAILY,A,income,EBITDA,2026-03-31,2877017000.0
+SHAILY,A,income,Interest Expense,2023-03-31,178823000.0
+SHAILY,A,income,Interest Expense,2024-03-31,178963000.0
+SHAILY,A,income,Interest Expense,2025-03-31,169462000.0
+SHAILY,A,income,Interest Expense,2026-03-31,158689000.0
+SHAILY,A,income,Net Income,2023-03-31,351496000.0
+SHAILY,A,income,Net Income,2024-03-31,572906000.0
+SHAILY,A,income,Net Income,2025-03-31,931190000.0
+SHAILY,A,income,Net Income,2026-03-31,1699121000.0
+SHAILY,A,income,Net Income Common Stockholders,2023-03-31,351496000.0
+SHAILY,A,income,Net Income Common Stockholders,2024-03-31,572906000.0
+SHAILY,A,income,Net Income Common Stockholders,2025-03-31,931190000.0
+SHAILY,A,income,Net Income Common Stockholders,2026-03-31,1699121000.0
+SHAILY,A,income,Operating Income,2023-03-31,627541000.0
+SHAILY,A,income,Operating Income,2024-03-31,823183000.0
+SHAILY,A,income,Operating Income,2025-03-31,1347905000.0
+SHAILY,A,income,Operating Income,2026-03-31,2317360000.0
+SHAILY,A,income,Pretax Income,2023-03-31,452072000.0
+SHAILY,A,income,Pretax Income,2024-03-31,698471000.0
+SHAILY,A,income,Pretax Income,2025-03-31,1192753000.0
+SHAILY,A,income,Pretax Income,2026-03-31,2226136000.0
+SHAILY,A,income,Total Revenue,2023-03-31,6053338000.0
+SHAILY,A,income,Total Revenue,2024-03-31,6415322000.0
+SHAILY,A,income,Total Revenue,2025-03-31,7823341000.0
+SHAILY,A,income,Total Revenue,2026-03-31,9808342000.0
+SHAILY,Q,income,Basic EPS,2025-09-30,11.15
+SHAILY,Q,income,Basic EPS,2025-12-31,8.13
+SHAILY,Q,income,Basic EPS,2026-03-31,8.74
+SHAILY,Q,income,Basic EPS,2026-06-30,10.44
+SHAILY,Q,income,Basic EPS,2026-09-30,13.32
+SHAILY,Q,income,Diluted EPS,2025-09-30,11.12
+SHAILY,Q,income,Diluted EPS,2025-12-31,8.11
+SHAILY,Q,income,Diluted EPS,2026-03-31,8.68
+SHAILY,Q,income,Diluted EPS,2026-06-30,10.41
+SHAILY,Q,income,Diluted EPS,2026-09-30,13.27
+SHAILY,Q,income,EBITDA,2025-09-30,816000000.0
+SHAILY,Q,income,EBITDA,2025-12-31,664088000.0
+SHAILY,Q,income,EBITDA,2026-03-31,692892000.0
+SHAILY,Q,income,EBITDA,2026-06-30,833000000.0
+SHAILY,Q,income,EBITDA,2026-09-30,1018600000.0
+SHAILY,Q,income,Interest Expense,2025-09-30,39100000.0
+SHAILY,Q,income,Interest Expense,2025-12-31,43810000.0
+SHAILY,Q,income,Interest Expense,2026-03-31,37002000.0
+SHAILY,Q,income,Interest Expense,2026-06-30,33200000.0
+SHAILY,Q,income,Interest Expense,2026-09-30,30100000.0
+SHAILY,Q,income,Net Income,2025-09-30,512500000.0
+SHAILY,Q,income,Net Income,2025-12-31,373806000.0
+SHAILY,Q,income,Net Income,2026-03-31,401573000.0
+SHAILY,Q,income,Net Income,2026-06-30,480100000.0
+SHAILY,Q,income,Net Income,2026-09-30,612700000.0
+SHAILY,Q,income,Net Income Common Stockholders,2025-09-30,512500000.0
+SHAILY,Q,income,Net Income Common Stockholders,2025-12-31,373806000.0
+SHAILY,Q,income,Net Income Common Stockholders,2026-03-31,401573000.0
+SHAILY,Q,income,Net Income Common Stockholders,2026-06-30,480100000.0
+SHAILY,Q,income,Net Income Common Stockholders,2026-09-30,612700000.0
+SHAILY,Q,income,Operating Income,2025-09-30,673200000.0
+SHAILY,Q,income,Operating Income,2025-12-31,538224000.0
+SHAILY,Q,income,Operating Income,2026-03-31,523487000.0
+SHAILY,Q,income,Operating Income,2026-06-30,690100000.0
+SHAILY,Q,income,Operating Income,2026-09-30,828500000.0
+SHAILY,Q,income,Pretax Income,2025-09-30,656900000.0
+SHAILY,Q,income,Pretax Income,2025-12-31,495124000.0
+SHAILY,Q,income,Pretax Income,2026-03-31,523229000.0
+SHAILY,Q,income,Pretax Income,2026-06-30,659400000.0
+SHAILY,Q,income,Pretax Income,2026-09-30,845600000.0
+SHAILY,Q,income,Total Revenue,2025-09-30,2566500000.0
+SHAILY,Q,income,Total Revenue,2025-12-31,2504994000.0
+SHAILY,Q,income,Total Revenue,2026-03-31,2368215000.0
+SHAILY,Q,income,Total Revenue,2026-06-30,2806700000.0
+SHAILY,Q,income,Total Revenue,2026-09-30,3195300000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+PRAJIND,A,balance,Cash And Cash Equivalents,2023-03-31,985814000.0
+PRAJIND,A,balance,Cash And Cash Equivalents,2024-03-31,1684158000.0
+PRAJIND,A,balance,Cash And Cash Equivalents,2025-03-31,1259191000.0
+PRAJIND,A,balance,Cash And Cash Equivalents,2026-03-31,1423696000.0
+PRAJIND,A,balance,Ordinary Shares Number,2023-03-31,183713088.0
+PRAJIND,A,balance,Ordinary Shares Number,2024-03-31,183813088.0
+PRAJIND,A,balance,Ordinary Shares Number,2025-03-31,183813088.0
+PRAJIND,A,balance,Ordinary Shares Number,2026-03-31,183813088.0
+PRAJIND,A,balance,Stockholders Equity,2023-03-31,10779984000.0
+PRAJIND,A,balance,Stockholders Equity,2024-03-31,12744699000.0
+PRAJIND,A,balance,Stockholders Equity,2025-03-31,13817671000.0
+PRAJIND,A,balance,Stockholders Equity,2026-03-31,13091260000.0
+PRAJIND,A,balance,Total Assets,2023-03-31,26186668000.0
+PRAJIND,A,balance,Total Assets,2024-03-31,28954415000.0
+PRAJIND,A,balance,Total Assets,2025-03-31,31603727000.0
+PRAJIND,A,balance,Total Assets,2026-03-31,30558943000.0
+PRAJIND,A,balance,Total Debt,2023-03-31,421449000.0
+PRAJIND,A,balance,Total Debt,2024-03-31,1693323000.0
+PRAJIND,A,balance,Total Debt,2025-03-31,1948808000.0
+PRAJIND,A,balance,Total Debt,2026-03-31,1730449000.0
+PRAJIND,A,cashflow,Capital Expenditure,2023-03-31,-353136000.0
+PRAJIND,A,cashflow,Capital Expenditure,2024-03-31,-892738000.0
+PRAJIND,A,cashflow,Capital Expenditure,2025-03-31,-870388000.0
+PRAJIND,A,cashflow,Capital Expenditure,2026-03-31,-443760000.0
+PRAJIND,A,cashflow,Free Cash Flow,2023-03-31,1268185000.0
+PRAJIND,A,cashflow,Free Cash Flow,2024-03-31,1101112000.0
+PRAJIND,A,cashflow,Free Cash Flow,2025-03-31,-440750000.0
+PRAJIND,A,cashflow,Free Cash Flow,2026-03-31,1557181000.0
+PRAJIND,A,cashflow,Operating Cash Flow,2023-03-31,1621321000.0
+PRAJIND,A,cashflow,Operating Cash Flow,2024-03-31,1993850000.0
+PRAJIND,A,cashflow,Operating Cash Flow,2025-03-31,429638000.0
+PRAJIND,A,cashflow,Operating Cash Flow,2026-03-31,2000941000.0
+PRAJIND,A,income,Basic EPS,2023-03-31,13.05
+PRAJIND,A,income,Basic EPS,2024-03-31,15.42
+PRAJIND,A,income,Basic EPS,2025-03-31,11.91
+PRAJIND,A,income,Basic EPS,2026-03-31,1.3
+PRAJIND,A,income,Diluted EPS,2023-03-31,13.05
+PRAJIND,A,income,Diluted EPS,2024-03-31,15.42
+PRAJIND,A,income,Diluted EPS,2025-03-31,11.91
+PRAJIND,A,income,Diluted EPS,2026-03-31,1.3
+PRAJIND,A,income,EBITDA,2023-03-31,3536009000.0
+PRAJIND,A,income,EBITDA,2024-03-31,4313050000.0
+PRAJIND,A,income,EBITDA,2025-03-31,4034448000.0
+PRAJIND,A,income,EBITDA,2026-03-31,1757463000.0
+PRAJIND,A,income,Interest Expense,2023-03-31,46289000.0
+PRAJIND,A,income,Interest Expense,2024-03-31,97883000.0
+PRAJIND,A,income,Interest Expense,2025-03-31,184504000.0
+PRAJIND,A,income,Interest Expense,2026-03-31,202652000.0
+PRAJIND,A,income,Net Income,2023-03-31,2397941000.0
+PRAJIND,A,income,Net Income,2024-03-31,2833560000.0
+PRAJIND,A,income,Net Income,2025-03-31,2189101000.0
+PRAJIND,A,income,Net Income,2026-03-31,238416000.0
+PRAJIND,A,income,Net Income Common Stockholders,2023-03-31,2397941000.0
+PRAJIND,A,income,Net Income Common Stockholders,2024-03-31,2833560000.0
+PRAJIND,A,income,Net Income Common Stockholders,2025-03-31,2189101000.0
+PRAJIND,A,income,Net Income Common Stockholders,2026-03-31,238416000.0
+PRAJIND,A,income,Operating Income,2023-03-31,3104592000.0
+PRAJIND,A,income,Operating Income,2024-03-31,3512926000.0
+PRAJIND,A,income,Operating Income,2025-03-31,2558200000.0
+PRAJIND,A,income,Operating Income,2026-03-31,726930000.0
+PRAJIND,A,income,Pretax Income,2023-03-31,3187249000.0
+PRAJIND,A,income,Pretax Income,2024-03-31,3774608000.0
+PRAJIND,A,income,Pretax Income,2025-03-31,2985535000.0
+PRAJIND,A,income,Pretax Income,2026-03-31,499166000.0
+PRAJIND,A,income,Total Revenue,2023-03-31,34627998000.0
+PRAJIND,A,income,Total Revenue,2024-03-31,34174386000.0
+PRAJIND,A,income,Total Revenue,2025-03-31,31888032000.0
+PRAJIND,A,income,Total Revenue,2026-03-31,31363804000.0
+PRAJIND,Q,income,Basic EPS,2025-06-30,0.29
+PRAJIND,Q,income,Basic EPS,2025-12-31,-0.67
+PRAJIND,Q,income,Basic EPS,2026-03-31,0.631
+PRAJIND,Q,income,Basic EPS,2026-06-30,0.63
+PRAJIND,Q,income,Basic EPS,2026-09-30,1.26
+PRAJIND,Q,income,Diluted EPS,2025-06-30,0.29
+PRAJIND,Q,income,Diluted EPS,2025-12-31,-0.67
+PRAJIND,Q,income,Diluted EPS,2026-03-31,0.631
+PRAJIND,Q,income,Diluted EPS,2026-06-30,0.63
+PRAJIND,Q,income,Diluted EPS,2026-09-30,1.26
+PRAJIND,Q,income,EBITDA,2025-09-30,612773000.0
+PRAJIND,Q,income,EBITDA,2025-12-31,187413000.0
+PRAJIND,Q,income,EBITDA,2026-03-31,558099000.0
+PRAJIND,Q,income,EBITDA,2026-06-30,500317000.0
+PRAJIND,Q,income,EBITDA,2026-09-30,645522000.0
+PRAJIND,Q,income,Interest Expense,2025-09-30,49612000.0
+PRAJIND,Q,income,Interest Expense,2025-12-31,50190000.0
+PRAJIND,Q,income,Interest Expense,2026-03-31,51872000.0
+PRAJIND,Q,income,Interest Expense,2026-06-30,37307000.0
+PRAJIND,Q,income,Interest Expense,2026-09-30,34003000.0
+PRAJIND,Q,income,Net Income,2025-06-30,53388000.0
+PRAJIND,Q,income,Net Income,2025-12-31,-123857000.0
+PRAJIND,Q,income,Net Income,2026-03-31,116051000.0
+PRAJIND,Q,income,Net Income,2026-06-30,116066000.0
+PRAJIND,Q,income,Net Income,2026-09-30,231582000.0
+PRAJIND,Q,income,Net Income Common Stockholders,2025-06-30,53388000.0
+PRAJIND,Q,income,Net Income Common Stockholders,2025-12-31,-123857000.0
+PRAJIND,Q,income,Net Income Common Stockholders,2026-03-31,116051000.0
+PRAJIND,Q,income,Net Income Common Stockholders,2026-06-30,116066000.0
+PRAJIND,Q,income,Net Income Common Stockholders,2026-09-30,231582000.0
+PRAJIND,Q,income,Operating Income,2025-09-30,291591000.0
+PRAJIND,Q,income,Operating Income,2025-12-31,207442000.0
+PRAJIND,Q,income,Operating Income,2026-03-31,-38067000.0
+PRAJIND,Q,income,Operating Income,2026-06-30,47695000.0
+PRAJIND,Q,income,Operating Income,2026-09-30,273504000.0
+PRAJIND,Q,income,Pretax Income,2025-06-30,96090000.0
+PRAJIND,Q,income,Pretax Income,2025-12-31,-128355000.0
+PRAJIND,Q,income,Pretax Income,2026-03-31,235346000.0
+PRAJIND,Q,income,Pretax Income,2026-06-30,210483000.0
+PRAJIND,Q,income,Pretax Income,2026-09-30,361246000.0
+PRAJIND,Q,income,Total Revenue,2025-06-30,6402019000.0
+PRAJIND,Q,income,Total Revenue,2025-12-31,8414886000.0
+PRAJIND,Q,income,Total Revenue,2026-03-31,8445587000.0
+PRAJIND,Q,income,Total Revenue,2026-06-30,4158211000.0
+PRAJIND,Q,income,Total Revenue,2026-09-30,8489929000.0

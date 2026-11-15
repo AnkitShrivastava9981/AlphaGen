@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+MRPL,A,balance,Cash And Cash Equivalents,2023-03-31,68010000.0
+MRPL,A,balance,Cash And Cash Equivalents,2024-03-31,97280000.0
+MRPL,A,balance,Cash And Cash Equivalents,2025-03-31,100990000.0
+MRPL,A,balance,Cash And Cash Equivalents,2026-03-31,5644820000.0
+MRPL,A,balance,Net Debt,2023-03-31,167005660000.0
+MRPL,A,balance,Net Debt,2024-03-31,124420150000.0
+MRPL,A,balance,Net Debt,2025-03-31,128565120000.0
+MRPL,A,balance,Net Debt,2026-03-31,137692150000.0
+MRPL,A,balance,Ordinary Shares Number,2023-03-31,1752598777.0
+MRPL,A,balance,Ordinary Shares Number,2024-03-31,1752598777.0
+MRPL,A,balance,Ordinary Shares Number,2025-03-31,1752598777.0
+MRPL,A,balance,Ordinary Shares Number,2026-03-31,1752598777.0
+MRPL,A,balance,Stockholders Equity,2023-03-31,98645290000.0
+MRPL,A,balance,Stockholders Equity,2024-03-31,132825160000.0
+MRPL,A,balance,Stockholders Equity,2025-03-31,129696470000.0
+MRPL,A,balance,Stockholders Equity,2026-03-31,141968690000.0
+MRPL,A,balance,Total Assets,2023-03-31,352005070000.0
+MRPL,A,balance,Total Assets,2024-03-31,354300330000.0
+MRPL,A,balance,Total Assets,2025-03-31,344348660000.0
+MRPL,A,balance,Total Assets,2026-03-31,444812390000.0
+MRPL,A,balance,Total Debt,2023-03-31,169390370000.0
+MRPL,A,balance,Total Debt,2024-03-31,126870270000.0
+MRPL,A,balance,Total Debt,2025-03-31,131433900000.0
+MRPL,A,balance,Total Debt,2026-03-31,153410260000.0
+MRPL,A,cashflow,Capital Expenditure,2023-03-31,-7027760000.0
+MRPL,A,cashflow,Capital Expenditure,2024-03-31,-15560430000.0
+MRPL,A,cashflow,Capital Expenditure,2025-03-31,-9902860000.0
+MRPL,A,cashflow,Capital Expenditure,2026-03-31,-14122680000.0
+MRPL,A,cashflow,Free Cash Flow,2023-03-31,56616000000.0
+MRPL,A,cashflow,Free Cash Flow,2024-03-31,54947390000.0
+MRPL,A,cashflow,Free Cash Flow,2025-03-31,8876130000.0
+MRPL,A,cashflow,Free Cash Flow,2026-03-31,11189320000.0
+MRPL,A,cashflow,Operating Cash Flow,2023-03-31,63643760000.0
+MRPL,A,cashflow,Operating Cash Flow,2024-03-31,70507820000.0
+MRPL,A,cashflow,Operating Cash Flow,2025-03-31,18778990000.0
+MRPL,A,cashflow,Operating Cash Flow,2026-03-31,25312000000.0
+MRPL,A,income,Basic EPS,2023-03-31,15.15
+MRPL,A,income,Basic EPS,2024-03-31,20.52
+MRPL,A,income,Basic EPS,2025-03-31,0.32
+MRPL,A,income,Basic EPS,2026-03-31,10.98
+MRPL,A,income,Diluted EPS,2023-03-31,15.15
+MRPL,A,income,Diluted EPS,2024-03-31,20.52
+MRPL,A,income,Diluted EPS,2025-03-31,0.32
+MRPL,A,income,Diluted EPS,2026-03-31,10.98
+MRPL,A,income,EBITDA,2023-03-31,65131590000.0
+MRPL,A,income,EBITDA,2024-03-31,78611020000.0
+MRPL,A,income,EBITDA,2025-03-31,24283620000.0
+MRPL,A,income,EBITDA,2026-03-31,63655770000.0
+MRPL,A,income,Interest Expense,2023-03-31,10705650000.0
+MRPL,A,income,Interest Expense,2024-03-31,10812810000.0
+MRPL,A,income,Interest Expense,2025-03-31,9624580000.0
+MRPL,A,income,Interest Expense,2026-03-31,8308090000.0
+MRPL,A,income,Net Income,2023-03-31,26554070000.0
+MRPL,A,income,Net Income,2024-03-31,35970600000.0
+MRPL,A,income,Net Income,2025-03-31,562050000.0
+MRPL,A,income,Net Income,2026-03-31,19245820000.0
+MRPL,A,income,Net Income Common Stockholders,2023-03-31,26554070000.0
+MRPL,A,income,Net Income Common Stockholders,2024-03-31,35970600000.0
+MRPL,A,income,Net Income Common Stockholders,2025-03-31,562050000.0
+MRPL,A,income,Net Income Common Stockholders,2026-03-31,19245820000.0
+MRPL,A,income,Operating Income,2023-03-31,68013210000.0
+MRPL,A,income,Operating Income,2024-03-31,67738150000.0
+MRPL,A,income,Operating Income,2025-03-31,12336040000.0
+MRPL,A,income,Operating Income,2026-03-31,59742640000.0
+MRPL,A,income,Pretax Income,2023-03-31,42558950000.0
+MRPL,A,income,Pretax Income,2024-03-31,55225360000.0
+MRPL,A,income,Pretax Income,2025-03-31,1188890000.0
+MRPL,A,income,Pretax Income,2026-03-31,40148940000.0
+MRPL,A,income,Total Revenue,2023-03-31,1089755610000.0
+MRPL,A,income,Total Revenue,2024-03-31,903730830000.0
+MRPL,A,income,Total Revenue,2025-03-31,946455170000.0
+MRPL,A,income,Total Revenue,2026-03-31,886273720000.0
+MRPL,Q,income,Basic EPS,2025-06-30,-1.54
+MRPL,Q,income,Basic EPS,2025-12-31,8.28
+MRPL,Q,income,Basic EPS,2026-03-31,0.67
+MRPL,Q,income,Basic EPS,2026-06-30,5.4
+MRPL,Q,income,Basic EPS,2026-09-30,10.85
+MRPL,Q,income,Diluted EPS,2025-06-30,-1.54
+MRPL,Q,income,Diluted EPS,2025-12-31,8.28
+MRPL,Q,income,Diluted EPS,2026-03-31,0.67
+MRPL,Q,income,Diluted EPS,2026-06-30,5.4
+MRPL,Q,income,Diluted EPS,2026-09-30,10.85
+MRPL,Q,income,EBITDA,2025-06-30,-1444100000.0
+MRPL,Q,income,EBITDA,2025-12-31,24389700000.0
+MRPL,Q,income,EBITDA,2026-03-31,14450000000.0
+MRPL,Q,income,EBITDA,2026-06-30,14899800000.0
+MRPL,Q,income,EBITDA,2026-09-30,28226500000.0
+MRPL,Q,income,Interest Expense,2025-03-31,1996380000.0
+MRPL,Q,income,Interest Expense,2026-09-30,2838500000.0
+MRPL,Q,income,Net Income,2025-06-30,-2706600000.0
+MRPL,Q,income,Net Income,2025-12-31,14508900000.0
+MRPL,Q,income,Net Income,2026-03-31,1169600000.0
+MRPL,Q,income,Net Income,2026-06-30,9456800000.0
+MRPL,Q,income,Net Income,2026-09-30,19007600000.0
+MRPL,Q,income,Net Income Common Stockholders,2025-06-30,-2706600000.0
+MRPL,Q,income,Net Income Common Stockholders,2025-12-31,14508900000.0
+MRPL,Q,income,Net Income Common Stockholders,2026-03-31,1169600000.0
+MRPL,Q,income,Net Income Common Stockholders,2026-06-30,9456800000.0
+MRPL,Q,income,Net Income Common Stockholders,2026-09-30,19007600000.0
+MRPL,Q,income,Operating Income,2025-09-30,11175200000.0
+MRPL,Q,income,Operating Income,2025-12-31,23939000000.0
+MRPL,Q,income,Operating Income,2026-03-31,13880700000.0
+MRPL,Q,income,Operating Income,2026-06-30,9164700000.0
+MRPL,Q,income,Operating Income,2026-09-30,28720300000.0
+MRPL,Q,income,Pretax Income,2025-06-30,-4015900000.0
+MRPL,Q,income,Pretax Income,2025-12-31,22200100000.0
+MRPL,Q,income,Pretax Income,2026-03-31,12331300000.0
+MRPL,Q,income,Pretax Income,2026-06-30,12456700000.0
+MRPL,Q,income,Pretax Income,2026-09-30,25388000000.0
+MRPL,Q,income,Total Revenue,2025-09-30,226489700000.0
+MRPL,Q,income,Total Revenue,2025-12-31,247116500000.0
+MRPL,Q,income,Total Revenue,2026-03-31,239496900000.0
+MRPL,Q,income,Total Revenue,2026-06-30,382541900000.0
+MRPL,Q,income,Total Revenue,2026-09-30,325162400000.0

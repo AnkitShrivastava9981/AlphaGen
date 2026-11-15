@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+BSOFT,A,balance,Cash And Cash Equivalents,2023-03-31,4668820000.0
+BSOFT,A,balance,Cash And Cash Equivalents,2024-03-31,3925700000.0
+BSOFT,A,balance,Cash And Cash Equivalents,2025-03-31,3270840000.0
+BSOFT,A,balance,Cash And Cash Equivalents,2026-03-31,4260340000.0
+BSOFT,A,balance,Ordinary Shares Number,2023-03-31,274658947.0
+BSOFT,A,balance,Ordinary Shares Number,2024-03-31,275895221.0
+BSOFT,A,balance,Ordinary Shares Number,2025-03-31,277847193.0
+BSOFT,A,balance,Ordinary Shares Number,2026-03-31,279486288.0
+BSOFT,A,balance,Stockholders Equity,2023-03-31,24482930000.0
+BSOFT,A,balance,Stockholders Equity,2024-03-31,30441250000.0
+BSOFT,A,balance,Stockholders Equity,2025-03-31,34782280000.0
+BSOFT,A,balance,Stockholders Equity,2026-03-31,41130660000.0
+BSOFT,A,balance,Total Assets,2023-03-31,31872680000.0
+BSOFT,A,balance,Total Assets,2024-03-31,39256490000.0
+BSOFT,A,balance,Total Assets,2025-03-31,44623900000.0
+BSOFT,A,balance,Total Assets,2026-03-31,52662530000.0
+BSOFT,A,balance,Total Debt,2023-03-31,1018310000.0
+BSOFT,A,balance,Total Debt,2024-03-31,931770000.0
+BSOFT,A,balance,Total Debt,2025-03-31,1509970000.0
+BSOFT,A,balance,Total Debt,2026-03-31,1407410000.0
+BSOFT,A,cashflow,Capital Expenditure,2023-03-31,-577380000.0
+BSOFT,A,cashflow,Capital Expenditure,2024-03-31,-262170000.0
+BSOFT,A,cashflow,Capital Expenditure,2025-03-31,-485880000.0
+BSOFT,A,cashflow,Capital Expenditure,2026-03-31,-443590000.0
+BSOFT,A,cashflow,Free Cash Flow,2023-03-31,5031860000.0
+BSOFT,A,cashflow,Free Cash Flow,2024-03-31,6920140000.0
+BSOFT,A,cashflow,Free Cash Flow,2025-03-31,5389330000.0
+BSOFT,A,cashflow,Free Cash Flow,2026-03-31,4365820000.0
+BSOFT,A,cashflow,Operating Cash Flow,2023-03-31,5609240000.0
+BSOFT,A,cashflow,Operating Cash Flow,2024-03-31,7182310000.0
+BSOFT,A,cashflow,Operating Cash Flow,2025-03-31,5875210000.0
+BSOFT,A,cashflow,Operating Cash Flow,2026-03-31,4809410000.0
+BSOFT,A,income,Basic EPS,2023-03-31,11.96
+BSOFT,A,income,Basic EPS,2024-03-31,22.54
+BSOFT,A,income,Basic EPS,2025-03-31,18.64
+BSOFT,A,income,Basic EPS,2026-03-31,18.54
+BSOFT,A,income,Diluted EPS,2023-03-31,11.92
+BSOFT,A,income,Diluted EPS,2024-03-31,22.25
+BSOFT,A,income,Diluted EPS,2025-03-31,18.48
+BSOFT,A,income,Diluted EPS,2026-03-31,18.5
+BSOFT,A,income,EBITDA,2023-03-31,5432760000.0
+BSOFT,A,income,EBITDA,2024-03-31,9397270000.0
+BSOFT,A,income,EBITDA,2025-03-31,8059810000.0
+BSOFT,A,income,EBITDA,2026-03-31,8901650000.0
+BSOFT,A,income,Interest Expense,2023-03-31,185890000.0
+BSOFT,A,income,Interest Expense,2024-03-31,199420000.0
+BSOFT,A,income,Interest Expense,2025-03-31,234380000.0
+BSOFT,A,income,Interest Expense,2026-03-31,196020000.0
+BSOFT,A,income,Net Income,2023-03-31,3315840000.0
+BSOFT,A,income,Net Income,2024-03-31,6237600000.0
+BSOFT,A,income,Net Income,2025-03-31,5167600000.0
+BSOFT,A,income,Net Income,2026-03-31,5183570000.0
+BSOFT,A,income,Net Income Common Stockholders,2023-03-31,3315840000.0
+BSOFT,A,income,Net Income Common Stockholders,2024-03-31,6237600000.0
+BSOFT,A,income,Net Income Common Stockholders,2025-03-31,5167600000.0
+BSOFT,A,income,Net Income Common Stockholders,2026-03-31,5183570000.0
+BSOFT,A,income,Operating Income,2023-03-31,4745340000.0
+BSOFT,A,income,Operating Income,2024-03-31,9237120000.0
+BSOFT,A,income,Operating Income,2025-03-31,6240660000.0
+BSOFT,A,income,Operating Income,2026-03-31,8027280000.0
+BSOFT,A,income,Pretax Income,2023-03-31,4424220000.0
+BSOFT,A,income,Pretax Income,2024-03-31,8347590000.0
+BSOFT,A,income,Pretax Income,2025-03-31,6968340000.0
+BSOFT,A,income,Pretax Income,2026-03-31,7902380000.0
+BSOFT,A,income,Total Revenue,2023-03-31,47947690000.0
+BSOFT,A,income,Total Revenue,2024-03-31,52781450000.0
+BSOFT,A,income,Total Revenue,2025-03-31,53752390000.0
+BSOFT,A,income,Total Revenue,2026-03-31,53099580000.0
+BSOFT,Q,income,Basic EPS,2025-06-30,3.81
+BSOFT,Q,income,Basic EPS,2025-12-31,4.28
+BSOFT,Q,income,Basic EPS,2026-03-31,6.27
+BSOFT,Q,income,Basic EPS,2026-06-30,5.72
+BSOFT,Q,income,Basic EPS,2026-09-30,5.67
+BSOFT,Q,income,Diluted EPS,2025-06-30,3.78
+BSOFT,Q,income,Diluted EPS,2025-12-31,4.26
+BSOFT,Q,income,Diluted EPS,2026-03-31,6.24
+BSOFT,Q,income,Diluted EPS,2026-06-30,5.7
+BSOFT,Q,income,Diluted EPS,2026-09-30,5.65
+BSOFT,Q,income,EBITDA,2025-06-30,1919070000.0
+BSOFT,Q,income,EBITDA,2025-12-31,2175210000.0
+BSOFT,Q,income,EBITDA,2026-03-31,2454410000.0
+BSOFT,Q,income,EBITDA,2026-06-30,2517870000.0
+BSOFT,Q,income,EBITDA,2026-09-30,2577910000.0
+BSOFT,Q,income,Interest Expense,2025-09-30,50970000.0
+BSOFT,Q,income,Interest Expense,2025-12-31,56870000.0
+BSOFT,Q,income,Interest Expense,2026-03-31,38560000.0
+BSOFT,Q,income,Interest Expense,2026-06-30,42960000.0
+BSOFT,Q,income,Interest Expense,2026-09-30,77370000.0
+BSOFT,Q,income,Net Income,2025-06-30,1064340000.0
+BSOFT,Q,income,Net Income,2025-12-31,1198890000.0
+BSOFT,Q,income,Net Income,2026-03-31,1759320000.0
+BSOFT,Q,income,Net Income,2026-06-30,1609970000.0
+BSOFT,Q,income,Net Income,2026-09-30,1596460000.0
+BSOFT,Q,income,Net Income Common Stockholders,2025-06-30,1064340000.0
+BSOFT,Q,income,Net Income Common Stockholders,2025-12-31,1198890000.0
+BSOFT,Q,income,Net Income Common Stockholders,2026-03-31,1759320000.0
+BSOFT,Q,income,Net Income Common Stockholders,2026-06-30,1609970000.0
+BSOFT,Q,income,Net Income Common Stockholders,2026-09-30,1596460000.0
+BSOFT,Q,income,Operating Income,2025-09-30,1930900000.0
+BSOFT,Q,income,Operating Income,2025-12-31,2247220000.0
+BSOFT,Q,income,Operating Income,2026-03-31,2298770000.0
+BSOFT,Q,income,Operating Income,2026-06-30,2034430000.0
+BSOFT,Q,income,Operating Income,2026-09-30,1902580000.0
+BSOFT,Q,income,Pretax Income,2025-06-30,1661730000.0
+BSOFT,Q,income,Pretax Income,2025-12-31,1917570000.0
+BSOFT,Q,income,Pretax Income,2026-03-31,2222840000.0
+BSOFT,Q,income,Pretax Income,2026-06-30,2281740000.0
+BSOFT,Q,income,Pretax Income,2026-09-30,2249980000.0
+BSOFT,Q,income,Total Revenue,2025-06-30,12848980000.0
+BSOFT,Q,income,Total Revenue,2025-12-31,13475320000.0
+BSOFT,Q,income,Total Revenue,2026-03-31,13486250000.0
+BSOFT,Q,income,Total Revenue,2026-06-30,13793960000.0
+BSOFT,Q,income,Total Revenue,2026-09-30,14162000000.0

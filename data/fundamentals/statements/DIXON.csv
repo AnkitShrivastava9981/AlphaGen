@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+DIXON,A,balance,Cash And Cash Equivalents,2023-03-31,2145600000.0
+DIXON,A,balance,Cash And Cash Equivalents,2024-03-31,1980000000.0
+DIXON,A,balance,Cash And Cash Equivalents,2025-03-31,2283800000.0
+DIXON,A,balance,Cash And Cash Equivalents,2026-03-31,8695900000.0
+DIXON,A,balance,Net Debt,2022-03-31,2818200000.0
+DIXON,A,balance,Ordinary Shares Number,2023-03-31,59560165.0
+DIXON,A,balance,Ordinary Shares Number,2024-03-31,59821595.0
+DIXON,A,balance,Ordinary Shares Number,2025-03-31,60236688.0
+DIXON,A,balance,Ordinary Shares Number,2026-03-31,60801893.0
+DIXON,A,balance,Stockholders Equity,2023-03-31,12849100000.0
+DIXON,A,balance,Stockholders Equity,2024-03-31,16948500000.0
+DIXON,A,balance,Stockholders Equity,2025-03-31,30102000000.0
+DIXON,A,balance,Stockholders Equity,2026-03-31,46766700000.0
+DIXON,A,balance,Total Assets,2023-03-31,46794300000.0
+DIXON,A,balance,Total Assets,2024-03-31,69914500000.0
+DIXON,A,balance,Total Assets,2025-03-31,167668700000.0
+DIXON,A,balance,Total Assets,2026-03-31,191616400000.0
+DIXON,A,balance,Total Debt,2023-03-31,4530900000.0
+DIXON,A,balance,Total Debt,2024-03-31,4889800000.0
+DIXON,A,balance,Total Debt,2025-03-31,6709600000.0
+DIXON,A,balance,Total Debt,2026-03-31,9942200000.0
+DIXON,A,cashflow,Capital Expenditure,2023-03-31,-4612000000.0
+DIXON,A,cashflow,Capital Expenditure,2024-03-31,-5844300000.0
+DIXON,A,cashflow,Capital Expenditure,2025-03-31,-9393500000.0
+DIXON,A,cashflow,Capital Expenditure,2026-03-31,-10675100000.0
+DIXON,A,cashflow,Free Cash Flow,2023-03-31,2645500000.0
+DIXON,A,cashflow,Free Cash Flow,2024-03-31,-1200000.0
+DIXON,A,cashflow,Free Cash Flow,2025-03-31,2104000000.0
+DIXON,A,cashflow,Free Cash Flow,2026-03-31,7147800000.0
+DIXON,A,cashflow,Operating Cash Flow,2023-03-31,7257500000.0
+DIXON,A,cashflow,Operating Cash Flow,2024-03-31,5843100000.0
+DIXON,A,cashflow,Operating Cash Flow,2025-03-31,11497500000.0
+DIXON,A,cashflow,Operating Cash Flow,2026-03-31,17822900000.0
+DIXON,A,income,Basic EPS,2023-03-31,43.000905
+DIXON,A,income,Basic EPS,2024-03-31,61.638924
+DIXON,A,income,Basic EPS,2025-03-31,182.825025
+DIXON,A,income,Basic EPS,2026-03-31,237.624287
+DIXON,A,income,Diluted EPS,2023-03-31,42.69113
+DIXON,A,income,Diluted EPS,2024-03-31,61.268603
+DIXON,A,income,Diluted EPS,2025-03-31,180.055645
+DIXON,A,income,Diluted EPS,2026-03-31,235.670738
+DIXON,A,income,EBITDA,2023-03-31,5157500000.0
+DIXON,A,income,EBITDA,2024-03-31,7270700000.0
+DIXON,A,income,EBITDA,2025-03-31,19949500000.0
+DIXON,A,income,EBITDA,2026-03-31,25966500000.0
+DIXON,A,income,Interest Expense,2023-03-31,563400000.0
+DIXON,A,income,Interest Expense,2024-03-31,713600000.0
+DIXON,A,income,Interest Expense,2025-03-31,1441300000.0
+DIXON,A,income,Interest Expense,2026-03-31,1331100000.0
+DIXON,A,income,Net Income,2023-03-31,2555200000.0
+DIXON,A,income,Net Income,2024-03-31,3677500000.0
+DIXON,A,income,Net Income,2025-03-31,10955400000.0
+DIXON,A,income,Net Income,2026-03-31,14386400000.0
+DIXON,A,income,Net Income Common Stockholders,2023-03-31,2555200000.0
+DIXON,A,income,Net Income Common Stockholders,2024-03-31,3677500000.0
+DIXON,A,income,Net Income Common Stockholders,2025-03-31,10955400000.0
+DIXON,A,income,Net Income Common Stockholders,2026-03-31,14386400000.0
+DIXON,A,income,Operating Income,2023-03-31,4072700000.0
+DIXON,A,income,Operating Income,2024-03-31,5421400000.0
+DIXON,A,income,Operating Income,2025-03-31,12675400000.0
+DIXON,A,income,Operating Income,2026-03-31,14743900000.0
+DIXON,A,income,Pretax Income,2023-03-31,3447800000.0
+DIXON,A,income,Pretax Income,2024-03-31,4938300000.0
+DIXON,A,income,Pretax Income,2025-03-31,15698000000.0
+DIXON,A,income,Pretax Income,2026-03-31,20705600000.0
+DIXON,A,income,Total Revenue,2023-03-31,121733500000.0
+DIXON,A,income,Total Revenue,2024-03-31,176139100000.0
+DIXON,A,income,Total Revenue,2025-03-31,385932900000.0
+DIXON,A,income,Total Revenue,2026-03-31,485373900000.0
+DIXON,Q,income,Basic EPS,2025-06-30,46.47
+DIXON,Q,income,Basic EPS,2025-12-31,53.06
+DIXON,Q,income,Basic EPS,2026-03-31,49.22
+DIXON,Q,income,Basic EPS,2026-06-30,118.0
+DIXON,Q,income,Basic EPS,2026-09-30,67.44
+DIXON,Q,income,Diluted EPS,2025-06-30,46.3
+DIXON,Q,income,Diluted EPS,2025-12-31,52.62
+DIXON,Q,income,Diluted EPS,2026-03-31,48.81
+DIXON,Q,income,Diluted EPS,2026-06-30,117.87
+DIXON,Q,income,Diluted EPS,2026-09-30,67.37
+DIXON,Q,income,EBITDA,2025-06-30,4908100000.0
+DIXON,Q,income,EBITDA,2025-12-31,5535900000.0
+DIXON,Q,income,EBITDA,2026-03-31,4984000000.0
+DIXON,Q,income,EBITDA,2026-06-30,10000500000.0
+DIXON,Q,income,EBITDA,2026-09-30,6683600000.0
+DIXON,Q,income,Interest Expense,2025-06-30,325900000.0
+DIXON,Q,income,Interest Expense,2025-12-31,428700000.0
+DIXON,Q,income,Interest Expense,2026-03-31,236600000.0
+DIXON,Q,income,Interest Expense,2026-06-30,241200000.0
+DIXON,Q,income,Interest Expense,2026-09-30,259500000.0
+DIXON,Q,income,Net Income,2025-06-30,2249700000.0
+DIXON,Q,income,Net Income,2025-12-31,2872600000.0
+DIXON,Q,income,Net Income,2026-03-31,2564100000.0
+DIXON,Q,income,Net Income,2026-06-30,6634200000.0
+DIXON,Q,income,Net Income,2026-09-30,3436600000.0
+DIXON,Q,income,Net Income Common Stockholders,2025-06-30,2249700000.0
+DIXON,Q,income,Net Income Common Stockholders,2025-12-31,2872600000.0
+DIXON,Q,income,Net Income Common Stockholders,2026-03-31,2564100000.0
+DIXON,Q,income,Net Income Common Stockholders,2026-06-30,6634200000.0
+DIXON,Q,income,Net Income Common Stockholders,2026-09-30,3436600000.0
+DIXON,Q,income,Operating Income,2025-06-30,3896700000.0
+DIXON,Q,income,Operating Income,2025-12-31,3154200000.0
+DIXON,Q,income,Operating Income,2026-03-31,3034000000.0
+DIXON,Q,income,Operating Income,2026-06-30,3561700000.0
+DIXON,Q,income,Operating Income,2026-09-30,4867600000.0
+DIXON,Q,income,Pretax Income,2025-06-30,3655200000.0
+DIXON,Q,income,Pretax Income,2025-12-31,4116900000.0
+DIXON,Q,income,Pretax Income,2026-03-31,3697600000.0
+DIXON,Q,income,Pretax Income,2026-06-30,8689800000.0
+DIXON,Q,income,Pretax Income,2026-09-30,5323500000.0
+DIXON,Q,income,Total Revenue,2025-06-30,128356600000.0
+DIXON,Q,income,Total Revenue,2025-12-31,106715900000.0
+DIXON,Q,income,Total Revenue,2026-03-31,105105100000.0
+DIXON,Q,income,Total Revenue,2026-06-30,155476600000.0
+DIXON,Q,income,Total Revenue,2026-09-30,217936400000.0

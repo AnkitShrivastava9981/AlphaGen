@@ -1,0 +1,112 @@
+symbol,freq,statement,item,period_end,value
+ITC,A,balance,Cash And Cash Equivalents,2023-03-31,4633500000.0
+ITC,A,balance,Cash And Cash Equivalents,2024-03-31,6258900000.0
+ITC,A,balance,Cash And Cash Equivalents,2025-03-31,6200000000.0
+ITC,A,balance,Cash And Cash Equivalents,2026-03-31,6434600000.0
+ITC,A,balance,Net Debt,2026-03-31,15430600000.0
+ITC,A,balance,Ordinary Shares Number,2023-03-31,12428017741.0
+ITC,A,balance,Ordinary Shares Number,2024-03-31,12484721471.0
+ITC,A,balance,Ordinary Shares Number,2025-03-31,12514119781.0
+ITC,A,balance,Ordinary Shares Number,2026-03-31,12529468231.0
+ITC,A,balance,Stockholders Equity,2023-03-31,691552600000.0
+ITC,A,balance,Stockholders Equity,2024-03-31,745070000000.0
+ITC,A,balance,Stockholders Equity,2025-03-31,700300500000.0
+ITC,A,balance,Stockholders Equity,2026-03-31,725073000000.0
+ITC,A,balance,Total Assets,2023-03-31,858829800000.0
+ITC,A,balance,Total Assets,2024-03-31,918261600000.0
+ITC,A,balance,Total Assets,2025-03-31,880906800000.0
+ITC,A,balance,Total Assets,2026-03-31,937923800000.0
+ITC,A,balance,Total Debt,2023-03-31,3063400000.0
+ITC,A,balance,Total Debt,2024-03-31,3037300000.0
+ITC,A,balance,Total Debt,2025-03-31,2848400000.0
+ITC,A,balance,Total Debt,2026-03-31,23993600000.0
+ITC,A,cashflow,Capital Expenditure,2023-03-31,-27429900000.0
+ITC,A,cashflow,Capital Expenditure,2024-03-31,-35625300000.0
+ITC,A,cashflow,Capital Expenditure,2025-03-31,-22787000000.0
+ITC,A,cashflow,Capital Expenditure,2026-03-31,-21828900000.0
+ITC,A,cashflow,Free Cash Flow,2023-03-31,161345600000.0
+ITC,A,cashflow,Free Cash Flow,2024-03-31,136163300000.0
+ITC,A,cashflow,Free Cash Flow,2025-03-31,153483400000.0
+ITC,A,cashflow,Free Cash Flow,2026-03-31,162814200000.0
+ITC,A,cashflow,Operating Cash Flow,2023-03-31,188775500000.0
+ITC,A,cashflow,Operating Cash Flow,2024-03-31,171788600000.0
+ITC,A,cashflow,Operating Cash Flow,2025-03-31,176270400000.0
+ITC,A,cashflow,Operating Cash Flow,2026-03-31,184643100000.0
+ITC,A,income,Basic EPS,2023-03-31,15.5
+ITC,A,income,Basic EPS,2024-03-31,16.42
+ITC,A,income,Basic EPS,2025-03-31,27.79
+ITC,A,income,Basic EPS,2026-03-31,16.52
+ITC,A,income,Diluted EPS,2023-03-31,15.46
+ITC,A,income,Diluted EPS,2024-03-31,16.38
+ITC,A,income,Diluted EPS,2025-03-31,27.75
+ITC,A,income,Diluted EPS,2026-03-31,16.51
+ITC,A,income,EBITDA,2023-03-31,277673300000.0
+ITC,A,income,EBITDA,2024-03-31,282557800000.0
+ITC,A,income,EBITDA,2025-03-31,289225800000.0
+ITC,A,income,EBITDA,2026-03-31,298290900000.0
+ITC,A,income,Interest Expense,2023-03-31,432000000.0
+ITC,A,income,Interest Expense,2024-03-31,391100000.0
+ITC,A,income,Interest Expense,2025-03-31,450600000.0
+ITC,A,income,Interest Expense,2026-03-31,851700000.0
+ITC,A,income,Net Income,2023-03-31,191916600000.0
+ITC,A,income,Net Income,2024-03-31,204587800000.0
+ITC,A,income,Net Income,2025-03-31,347466300000.0
+ITC,A,income,Net Income,2026-03-31,206894700000.0
+ITC,A,income,Net Income Common Stockholders,2023-03-31,191916600000.0
+ITC,A,income,Net Income Common Stockholders,2024-03-31,204587800000.0
+ITC,A,income,Net Income Common Stockholders,2025-03-31,347466300000.0
+ITC,A,income,Net Income Common Stockholders,2026-03-31,206894700000.0
+ITC,A,income,Operating Income,2023-03-31,238967000000.0
+ITC,A,income,Operating Income,2024-03-31,236694800000.0
+ITC,A,income,Operating Income,2025-03-31,241931300000.0
+ITC,A,income,Operating Income,2026-03-31,255955400000.0
+ITC,A,income,Pretax Income,2023-03-31,259151200000.0
+ITC,A,income,Pretax Income,2024-03-31,264002800000.0
+ITC,A,income,Pretax Income,2025-03-31,269269400000.0
+ITC,A,income,Pretax Income,2026-03-31,280333900000.0
+ITC,A,income,Total Revenue,2023-03-31,702452200000.0
+ITC,A,income,Total Revenue,2024-03-31,673910400000.0
+ITC,A,income,Total Revenue,2025-03-31,746533200000.0
+ITC,A,income,Total Revenue,2026-03-31,782132800000.0
+ITC,Q,income,Basic EPS,2025-06-30,4.19
+ITC,Q,income,Basic EPS,2025-12-31,3.94
+ITC,Q,income,Basic EPS,2026-03-31,4.3
+ITC,Q,income,Basic EPS,2026-06-30,3.51
+ITC,Q,income,Basic EPS,2026-09-30,3.32
+ITC,Q,income,Diluted EPS,2025-06-30,4.18
+ITC,Q,income,Diluted EPS,2025-12-31,3.94
+ITC,Q,income,Diluted EPS,2026-03-31,4.3
+ITC,Q,income,Diluted EPS,2026-06-30,3.51
+ITC,Q,income,Diluted EPS,2026-09-30,3.32
+ITC,Q,income,EBITDA,2025-06-30,75674400000.0
+ITC,Q,income,EBITDA,2025-12-31,72043700000.0
+ITC,Q,income,EBITDA,2026-03-31,76237500000.0
+ITC,Q,income,EBITDA,2026-06-30,63283600000.0
+ITC,Q,income,EBITDA,2026-09-30,62234900000.0
+ITC,Q,income,Interest Expense,2025-06-30,164700000.0
+ITC,Q,income,Interest Expense,2025-12-31,194700000.0
+ITC,Q,income,Interest Expense,2026-03-31,291800000.0
+ITC,Q,income,Interest Expense,2026-06-30,397800000.0
+ITC,Q,income,Interest Expense,2026-09-30,382700000.0
+ITC,Q,income,Net Income,2025-06-30,52442000000.0
+ITC,Q,income,Net Income,2025-12-31,49311900000.0
+ITC,Q,income,Net Income,2026-03-31,53879700000.0
+ITC,Q,income,Net Income,2026-06-30,43941300000.0
+ITC,Q,income,Net Income,2026-09-30,41684000000.0
+ITC,Q,income,Net Income Common Stockholders,2026-06-30,43941300000.0
+ITC,Q,income,Net Income Common Stockholders,2026-09-30,41684000000.0
+ITC,Q,income,Operating Income,2025-06-30,63935100000.0
+ITC,Q,income,Operating Income,2025-12-31,64517000000.0
+ITC,Q,income,Operating Income,2026-03-31,65022800000.0
+ITC,Q,income,Operating Income,2026-06-30,47531300000.0
+ITC,Q,income,Operating Income,2026-09-30,51542300000.0
+ITC,Q,income,Pretax Income,2025-06-30,71280100000.0
+ITC,Q,income,Pretax Income,2025-12-31,67540800000.0
+ITC,Q,income,Pretax Income,2026-03-31,71726200000.0
+ITC,Q,income,Pretax Income,2026-06-30,58608500000.0
+ITC,Q,income,Pretax Income,2026-09-30,56946200000.0
+ITC,Q,income,Total Revenue,2025-06-30,213729300000.0
+ITC,Q,income,Total Revenue,2025-12-31,199182400000.0
+ITC,Q,income,Total Revenue,2026-03-31,176288900000.0
+ITC,Q,income,Total Revenue,2026-06-30,190008900000.0
+ITC,Q,income,Total Revenue,2026-09-30,201212400000.0

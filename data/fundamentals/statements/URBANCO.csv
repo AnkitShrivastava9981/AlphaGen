@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+URBANCO,A,balance,Cash And Cash Equivalents,2023-03-31,622200000.0
+URBANCO,A,balance,Cash And Cash Equivalents,2024-03-31,421580000.0
+URBANCO,A,balance,Cash And Cash Equivalents,2025-03-31,611000000.0
+URBANCO,A,balance,Cash And Cash Equivalents,2026-03-31,1196900000.0
+URBANCO,A,balance,Ordinary Shares Number,2023-03-31,1435901931.0
+URBANCO,A,balance,Ordinary Shares Number,2024-03-31,1435901931.0
+URBANCO,A,balance,Ordinary Shares Number,2025-03-31,1435901931.0
+URBANCO,A,balance,Ordinary Shares Number,2026-03-31,1462180603.0
+URBANCO,A,balance,Stockholders Equity,2023-03-31,13394620000.0
+URBANCO,A,balance,Stockholders Equity,2024-03-31,12926410000.0
+URBANCO,A,balance,Stockholders Equity,2025-03-31,17958200000.0
+URBANCO,A,balance,Stockholders Equity,2026-03-31,21435900000.0
+URBANCO,A,balance,Total Assets,2023-03-31,16312200000.0
+URBANCO,A,balance,Total Assets,2024-03-31,16386460000.0
+URBANCO,A,balance,Total Assets,2025-03-31,22006400000.0
+URBANCO,A,balance,Total Assets,2026-03-31,27023100000.0
+URBANCO,A,balance,Total Debt,2023-03-31,1017340000.0
+URBANCO,A,balance,Total Debt,2024-03-31,1041190000.0
+URBANCO,A,balance,Total Debt,2025-03-31,1199000000.0
+URBANCO,A,balance,Total Debt,2026-03-31,1357900000.0
+URBANCO,A,cashflow,Capital Expenditure,2023-03-31,-150470000.0
+URBANCO,A,cashflow,Capital Expenditure,2024-03-31,-89820000.0
+URBANCO,A,cashflow,Capital Expenditure,2025-03-31,-121400000.0
+URBANCO,A,cashflow,Capital Expenditure,2026-03-31,-408400000.0
+URBANCO,A,cashflow,Free Cash Flow,2023-03-31,-2528450000.0
+URBANCO,A,cashflow,Free Cash Flow,2024-03-31,-945570000.0
+URBANCO,A,cashflow,Free Cash Flow,2025-03-31,424200000.0
+URBANCO,A,cashflow,Free Cash Flow,2026-03-31,-1394700000.0
+URBANCO,A,cashflow,Operating Cash Flow,2023-03-31,-2377980000.0
+URBANCO,A,cashflow,Operating Cash Flow,2024-03-31,-855750000.0
+URBANCO,A,cashflow,Operating Cash Flow,2025-03-31,545600000.0
+URBANCO,A,cashflow,Operating Cash Flow,2026-03-31,-986300000.0
+URBANCO,A,income,Basic EPS,2023-03-31,-2.176221
+URBANCO,A,income,Basic EPS,2024-03-31,-0.646089
+URBANCO,A,income,Basic EPS,2025-03-31,1.669752
+URBANCO,A,income,Basic EPS,2026-03-31,-1.57
+URBANCO,A,income,Diluted EPS,2023-03-31,-2.176221
+URBANCO,A,income,Diluted EPS,2024-03-31,-0.646089
+URBANCO,A,income,Diluted EPS,2025-03-31,1.669752
+URBANCO,A,income,Diluted EPS,2026-03-31,-1.57
+URBANCO,A,income,EBITDA,2023-03-31,-2745990000.0
+URBANCO,A,income,EBITDA,2024-03-31,-467280000.0
+URBANCO,A,income,EBITDA,2025-03-31,760200000.0
+URBANCO,A,income,EBITDA,2026-03-31,-1173900000.0
+URBANCO,A,income,Interest Expense,2023-03-31,71920000.0
+URBANCO,A,income,Interest Expense,2024-03-31,92000000.0
+URBANCO,A,income,Interest Expense,2025-03-31,104700000.0
+URBANCO,A,income,Interest Expense,2026-03-31,120000000.0
+URBANCO,A,income,Net Income,2023-03-31,-3124840000.0
+URBANCO,A,income,Net Income,2024-03-31,-927720000.0
+URBANCO,A,income,Net Income,2025-03-31,2397600000.0
+URBANCO,A,income,Net Income,2026-03-31,-2348100000.0
+URBANCO,A,income,Net Income Common Stockholders,2023-03-31,-3124840000.0
+URBANCO,A,income,Net Income Common Stockholders,2024-03-31,-927720000.0
+URBANCO,A,income,Net Income Common Stockholders,2025-03-31,2397600000.0
+URBANCO,A,income,Net Income Common Stockholders,2026-03-31,-2348100000.0
+URBANCO,A,income,Operating Income,2023-03-31,-3936910000.0
+URBANCO,A,income,Operating Income,2024-03-31,-1815160000.0
+URBANCO,A,income,Operating Income,2025-03-31,-622100000.0
+URBANCO,A,income,Operating Income,2026-03-31,-2364200000.0
+URBANCO,A,income,Pretax Income,2023-03-31,-3124420000.0
+URBANCO,A,income,Pretax Income,2024-03-31,-927270000.0
+URBANCO,A,income,Pretax Income,2025-03-31,285500000.0
+URBANCO,A,income,Pretax Income,2026-03-31,-1746000000.0
+URBANCO,A,income,Total Revenue,2023-03-31,6365970000.0
+URBANCO,A,income,Total Revenue,2024-03-31,8280180000.0
+URBANCO,A,income,Total Revenue,2025-03-31,11444700000.0
+URBANCO,A,income,Total Revenue,2026-03-31,15555400000.0
+URBANCO,Q,income,Basic EPS,2025-06-30,0.048332
+URBANCO,Q,income,Basic EPS,2025-12-31,-0.14
+URBANCO,Q,income,Basic EPS,2026-03-31,-1.08
+URBANCO,Q,income,Basic EPS,2026-06-30,-0.6
+URBANCO,Q,income,Basic EPS,2026-09-30,-1.2
+URBANCO,Q,income,Diluted EPS,2025-06-30,0.048332
+URBANCO,Q,income,Diluted EPS,2025-12-31,-0.14
+URBANCO,Q,income,Diluted EPS,2026-03-31,-1.08
+URBANCO,Q,income,Diluted EPS,2026-06-30,-0.6
+URBANCO,Q,income,Diluted EPS,2026-09-30,-1.2
+URBANCO,Q,income,EBITDA,2025-06-30,178240000.0
+URBANCO,Q,income,EBITDA,2025-12-31,-62100000.0
+URBANCO,Q,income,EBITDA,2026-03-31,-830100000.0
+URBANCO,Q,income,EBITDA,2026-06-30,-648500000.0
+URBANCO,Q,income,EBITDA,2026-09-30,-1545500000.0
+URBANCO,Q,income,Interest Expense,2025-06-30,26800000.0
+URBANCO,Q,income,Interest Expense,2025-12-31,31100000.0
+URBANCO,Q,income,Interest Expense,2026-03-31,32800000.0
+URBANCO,Q,income,Interest Expense,2026-06-30,31100000.0
+URBANCO,Q,income,Interest Expense,2026-09-30,32800000.0
+URBANCO,Q,income,Net Income,2025-06-30,69400000.0
+URBANCO,Q,income,Net Income,2025-12-31,-212600000.0
+URBANCO,Q,income,Net Income,2026-03-31,-1611600000.0
+URBANCO,Q,income,Net Income,2026-06-30,-921200000.0
+URBANCO,Q,income,Net Income,2026-09-30,-1824800000.0
+URBANCO,Q,income,Net Income Common Stockholders,2025-06-30,69400000.0
+URBANCO,Q,income,Net Income Common Stockholders,2025-12-31,-212600000.0
+URBANCO,Q,income,Net Income Common Stockholders,2026-03-31,-1611600000.0
+URBANCO,Q,income,Net Income Common Stockholders,2026-06-30,-921200000.0
+URBANCO,Q,income,Net Income Common Stockholders,2026-09-30,-1824800000.0
+URBANCO,Q,income,Operating Income,2025-09-30,-616100000.0
+URBANCO,Q,income,Operating Income,2025-12-31,-470400000.0
+URBANCO,Q,income,Operating Income,2026-03-31,-1280100000.0
+URBANCO,Q,income,Operating Income,2026-06-30,-1084300000.0
+URBANCO,Q,income,Operating Income,2026-09-30,-2051000000.0
+URBANCO,Q,income,Pretax Income,2025-06-30,56400000.0
+URBANCO,Q,income,Pretax Income,2025-12-31,-210500000.0
+URBANCO,Q,income,Pretax Income,2026-03-31,-998600000.0
+URBANCO,Q,income,Pretax Income,2026-06-30,-837500000.0
+URBANCO,Q,income,Pretax Income,2026-09-30,-1752900000.0
+URBANCO,Q,income,Total Revenue,2025-06-30,3672700000.0
+URBANCO,Q,income,Total Revenue,2025-12-31,3826800000.0
+URBANCO,Q,income,Total Revenue,2026-03-31,4255600000.0
+URBANCO,Q,income,Total Revenue,2026-06-30,5283400000.0
+URBANCO,Q,income,Total Revenue,2026-09-30,5372900000.0

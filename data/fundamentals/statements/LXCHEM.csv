@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+LXCHEM,A,balance,Cash And Cash Equivalents,2023-03-31,810140000.0
+LXCHEM,A,balance,Cash And Cash Equivalents,2024-03-31,1111390000.0
+LXCHEM,A,balance,Cash And Cash Equivalents,2025-03-31,416370000.0
+LXCHEM,A,balance,Cash And Cash Equivalents,2026-03-31,601380000.0
+LXCHEM,A,balance,Net Debt,2023-03-31,3159570000.0
+LXCHEM,A,balance,Net Debt,2024-03-31,246070000.0
+LXCHEM,A,balance,Net Debt,2025-03-31,2115340000.0
+LXCHEM,A,balance,Net Debt,2026-03-31,4806850000.0
+LXCHEM,A,balance,Ordinary Shares Number,2023-03-31,265176208.0
+LXCHEM,A,balance,Ordinary Shares Number,2024-03-31,275780785.0
+LXCHEM,A,balance,Ordinary Shares Number,2025-03-31,277023813.0
+LXCHEM,A,balance,Ordinary Shares Number,2026-03-31,277147873.0
+LXCHEM,A,balance,Stockholders Equity,2023-03-31,14117700000.0
+LXCHEM,A,balance,Stockholders Equity,2024-03-31,17976210000.0
+LXCHEM,A,balance,Stockholders Equity,2025-03-31,19066750000.0
+LXCHEM,A,balance,Stockholders Equity,2026-03-31,19855950000.0
+LXCHEM,A,balance,Total Assets,2023-03-31,24122010000.0
+LXCHEM,A,balance,Total Assets,2024-03-31,28272210000.0
+LXCHEM,A,balance,Total Assets,2025-03-31,30445830000.0
+LXCHEM,A,balance,Total Assets,2026-03-31,34457830000.0
+LXCHEM,A,balance,Total Debt,2023-03-31,4057190000.0
+LXCHEM,A,balance,Total Debt,2024-03-31,1427840000.0
+LXCHEM,A,balance,Total Debt,2025-03-31,2575580000.0
+LXCHEM,A,balance,Total Debt,2026-03-31,5430250000.0
+LXCHEM,A,cashflow,Capital Expenditure,2023-03-31,-4758930000.0
+LXCHEM,A,cashflow,Capital Expenditure,2024-03-31,-2476670000.0
+LXCHEM,A,cashflow,Capital Expenditure,2025-03-31,-3941110000.0
+LXCHEM,A,cashflow,Capital Expenditure,2026-03-31,-6024540000.0
+LXCHEM,A,cashflow,Free Cash Flow,2023-03-31,-2768360000.0
+LXCHEM,A,cashflow,Free Cash Flow,2024-03-31,3136180000.0
+LXCHEM,A,cashflow,Free Cash Flow,2025-03-31,-2861520000.0
+LXCHEM,A,cashflow,Free Cash Flow,2026-03-31,-4275570000.0
+LXCHEM,A,cashflow,Operating Cash Flow,2023-03-31,1990570000.0
+LXCHEM,A,cashflow,Operating Cash Flow,2024-03-31,5612850000.0
+LXCHEM,A,cashflow,Operating Cash Flow,2025-03-31,1079590000.0
+LXCHEM,A,cashflow,Operating Cash Flow,2026-03-31,1748970000.0
+LXCHEM,A,income,Basic EPS,2023-03-31,4.7
+LXCHEM,A,income,Basic EPS,2024-03-31,4.46
+LXCHEM,A,income,Basic EPS,2025-03-31,4.1
+LXCHEM,A,income,Basic EPS,2026-03-31,2.87
+LXCHEM,A,income,Diluted EPS,2023-03-31,4.67
+LXCHEM,A,income,Diluted EPS,2024-03-31,4.43
+LXCHEM,A,income,Diluted EPS,2025-03-31,4.07
+LXCHEM,A,income,Diluted EPS,2026-03-31,2.86
+LXCHEM,A,income,EBITDA,2023-03-31,2564630000.0
+LXCHEM,A,income,EBITDA,2024-03-31,2844780000.0
+LXCHEM,A,income,EBITDA,2025-03-31,3048010000.0
+LXCHEM,A,income,EBITDA,2026-03-31,1865150000.0
+LXCHEM,A,income,Interest Expense,2023-03-31,110250000.0
+LXCHEM,A,income,Interest Expense,2024-03-31,60750000.0
+LXCHEM,A,income,Interest Expense,2025-03-31,202530000.0
+LXCHEM,A,income,Interest Expense,2026-03-31,219090000.0
+LXCHEM,A,income,Net Income,2023-03-31,1245720000.0
+LXCHEM,A,income,Net Income,2024-03-31,1205350000.0
+LXCHEM,A,income,Net Income,2025-03-31,1135040000.0
+LXCHEM,A,income,Net Income,2026-03-31,793620000.0
+LXCHEM,A,income,Net Income Common Stockholders,2023-03-31,1245720000.0
+LXCHEM,A,income,Net Income Common Stockholders,2024-03-31,1205350000.0
+LXCHEM,A,income,Net Income Common Stockholders,2025-03-31,1135040000.0
+LXCHEM,A,income,Net Income Common Stockholders,2026-03-31,793620000.0
+LXCHEM,A,income,Operating Income,2023-03-31,1836920000.0
+LXCHEM,A,income,Operating Income,2024-03-31,1448960000.0
+LXCHEM,A,income,Operating Income,2025-03-31,1746620000.0
+LXCHEM,A,income,Operating Income,2026-03-31,1110240000.0
+LXCHEM,A,income,Pretax Income,2023-03-31,1729130000.0
+LXCHEM,A,income,Pretax Income,2024-03-31,1707950000.0
+LXCHEM,A,income,Pretax Income,2025-03-31,1605230000.0
+LXCHEM,A,income,Pretax Income,2026-03-31,879710000.0
+LXCHEM,A,income,Total Revenue,2023-03-31,27868210000.0
+LXCHEM,A,income,Total Revenue,2024-03-31,28360750000.0
+LXCHEM,A,income,Total Revenue,2025-03-31,29770320000.0
+LXCHEM,A,income,Total Revenue,2026-03-31,27706790000.0
+LXCHEM,Q,income,Basic EPS,2025-03-31,0.79
+LXCHEM,Q,income,Basic EPS,2025-06-30,0.77
+LXCHEM,Q,income,Basic EPS,2025-12-31,0.92
+LXCHEM,Q,income,Basic EPS,2026-03-31,-0.77
+LXCHEM,Q,income,Basic EPS,2026-06-30,2.44
+LXCHEM,Q,income,Diluted EPS,2025-03-31,0.79
+LXCHEM,Q,income,Diluted EPS,2025-06-30,0.76
+LXCHEM,Q,income,Diluted EPS,2025-12-31,0.92
+LXCHEM,Q,income,Diluted EPS,2026-03-31,-0.77
+LXCHEM,Q,income,Diluted EPS,2026-06-30,2.44
+LXCHEM,Q,income,EBITDA,2025-03-31,600910000.0
+LXCHEM,Q,income,EBITDA,2025-06-30,362600000.0
+LXCHEM,Q,income,EBITDA,2025-12-31,530760000.0
+LXCHEM,Q,income,EBITDA,2026-03-31,563450000.0
+LXCHEM,Q,income,EBITDA,2026-06-30,1177670000.0
+LXCHEM,Q,income,Interest Expense,2025-03-31,73390000.0
+LXCHEM,Q,income,Interest Expense,2025-06-30,49210000.0
+LXCHEM,Q,income,Interest Expense,2025-12-31,67960000.0
+LXCHEM,Q,income,Interest Expense,2026-03-31,46750000.0
+LXCHEM,Q,income,Interest Expense,2026-06-30,42960000.0
+LXCHEM,Q,income,Net Income,2025-03-31,217590000.0
+LXCHEM,Q,income,Net Income,2025-06-30,213910000.0
+LXCHEM,Q,income,Net Income,2025-12-31,254050000.0
+LXCHEM,Q,income,Net Income,2026-03-31,215510000.0
+LXCHEM,Q,income,Net Income,2026-06-30,677160000.0
+LXCHEM,Q,income,Net Income Common Stockholders,2025-03-31,217590000.0
+LXCHEM,Q,income,Net Income Common Stockholders,2025-06-30,213910000.0
+LXCHEM,Q,income,Net Income Common Stockholders,2025-12-31,254050000.0
+LXCHEM,Q,income,Net Income Common Stockholders,2026-03-31,215510000.0
+LXCHEM,Q,income,Net Income Common Stockholders,2026-06-30,677160000.0
+LXCHEM,Q,income,Operating Income,2025-03-31,194830000.0
+LXCHEM,Q,income,Operating Income,2025-06-30,136040000.0
+LXCHEM,Q,income,Operating Income,2025-12-31,294560000.0
+LXCHEM,Q,income,Operating Income,2026-03-31,344330000.0
+LXCHEM,Q,income,Operating Income,2026-06-30,926140000.0
+LXCHEM,Q,income,Pretax Income,2025-03-31,132400000.0
+LXCHEM,Q,income,Pretax Income,2025-06-30,141900000.0
+LXCHEM,Q,income,Pretax Income,2025-12-31,258100000.0
+LXCHEM,Q,income,Pretax Income,2026-03-31,324720000.0
+LXCHEM,Q,income,Pretax Income,2026-06-30,917570000.0
+LXCHEM,Q,income,Total Revenue,2025-03-31,7096870000.0
+LXCHEM,Q,income,Total Revenue,2025-06-30,6929300000.0
+LXCHEM,Q,income,Total Revenue,2025-12-31,7186820000.0
+LXCHEM,Q,income,Total Revenue,2026-03-31,7353100000.0
+LXCHEM,Q,income,Total Revenue,2026-06-30,9683380000.0

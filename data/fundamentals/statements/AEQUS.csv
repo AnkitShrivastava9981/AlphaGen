@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+AEQUS,A,balance,Cash And Cash Equivalents,2023-03-31,512870000.0
+AEQUS,A,balance,Cash And Cash Equivalents,2024-03-31,792740000.0
+AEQUS,A,balance,Cash And Cash Equivalents,2025-03-31,609430000.0
+AEQUS,A,balance,Cash And Cash Equivalents,2026-03-31,3014890000.0
+AEQUS,A,balance,Net Debt,2023-03-31,2948520000.0
+AEQUS,A,balance,Net Debt,2024-03-31,2126070000.0
+AEQUS,A,balance,Net Debt,2025-03-31,3761190000.0
+AEQUS,A,balance,Net Debt,2026-03-31,1020890000.0
+AEQUS,A,balance,Ordinary Shares Number,2023-03-31,654854135.0
+AEQUS,A,balance,Ordinary Shares Number,2024-03-31,654854135.0
+AEQUS,A,balance,Ordinary Shares Number,2025-03-31,654854135.0
+AEQUS,A,balance,Ordinary Shares Number,2026-03-31,654854135.0
+AEQUS,A,balance,Stockholders Equity,2023-03-31,2786080000.0
+AEQUS,A,balance,Stockholders Equity,2024-03-31,8165610000.0
+AEQUS,A,balance,Stockholders Equity,2025-03-31,7169190000.0
+AEQUS,A,balance,Stockholders Equity,2026-03-31,14864850000.0
+AEQUS,A,balance,Total Assets,2023-03-31,13216910000.0
+AEQUS,A,balance,Total Assets,2024-03-31,18229830000.0
+AEQUS,A,balance,Total Assets,2025-03-31,18598400000.0
+AEQUS,A,balance,Total Assets,2026-03-31,26904700000.0
+AEQUS,A,balance,Total Debt,2023-03-31,7359250000.0
+AEQUS,A,balance,Total Debt,2024-03-31,6989310000.0
+AEQUS,A,balance,Total Debt,2025-03-31,7850470000.0
+AEQUS,A,balance,Total Debt,2026-03-31,7009310000.0
+AEQUS,A,cashflow,Capital Expenditure,2023-03-31,-856100000.0
+AEQUS,A,cashflow,Capital Expenditure,2024-03-31,-1818070000.0
+AEQUS,A,cashflow,Capital Expenditure,2025-03-31,-2651620000.0
+AEQUS,A,cashflow,Capital Expenditure,2026-03-31,-3425510000.0
+AEQUS,A,cashflow,Free Cash Flow,2023-03-31,-757990000.0
+AEQUS,A,cashflow,Free Cash Flow,2024-03-31,-2009150000.0
+AEQUS,A,cashflow,Free Cash Flow,2025-03-31,-2390210000.0
+AEQUS,A,cashflow,Free Cash Flow,2026-03-31,-4413020000.0
+AEQUS,A,cashflow,Operating Cash Flow,2023-03-31,98110000.0
+AEQUS,A,cashflow,Operating Cash Flow,2024-03-31,-191080000.0
+AEQUS,A,cashflow,Operating Cash Flow,2025-03-31,261410000.0
+AEQUS,A,cashflow,Operating Cash Flow,2026-03-31,-987510000.0
+AEQUS,A,income,Basic EPS,2023-03-31,-1.50913
+AEQUS,A,income,Basic EPS,2024-03-31,-0.165503
+AEQUS,A,income,Basic EPS,2025-03-31,-1.562882
+AEQUS,A,income,Basic EPS,2026-03-31,-1.87
+AEQUS,A,income,Diluted EPS,2023-03-31,-1.50913
+AEQUS,A,income,Diluted EPS,2024-03-31,-0.165503
+AEQUS,A,income,Diluted EPS,2025-03-31,-1.562882
+AEQUS,A,income,Diluted EPS,2026-03-31,-1.87
+AEQUS,A,income,EBITDA,2023-03-31,448700000.0
+AEQUS,A,income,EBITDA,2024-03-31,1634860000.0
+AEQUS,A,income,EBITDA,2025-03-31,610320000.0
+AEQUS,A,income,EBITDA,2026-03-31,1335290000.0
+AEQUS,A,income,Interest Expense,2023-03-31,480310000.0
+AEQUS,A,income,Interest Expense,2024-03-31,579820000.0
+AEQUS,A,income,Interest Expense,2025-03-31,517050000.0
+AEQUS,A,income,Interest Expense,2026-03-31,673740000.0
+AEQUS,A,income,Net Income,2023-03-31,-988260000.0
+AEQUS,A,income,Net Income,2024-03-31,-108380000.0
+AEQUS,A,income,Net Income,2025-03-31,-1023460000.0
+AEQUS,A,income,Net Income,2026-03-31,-1132500000.0
+AEQUS,A,income,Net Income Common Stockholders,2023-03-31,-988260000.0
+AEQUS,A,income,Net Income Common Stockholders,2024-03-31,-108380000.0
+AEQUS,A,income,Net Income Common Stockholders,2025-03-31,-1023460000.0
+AEQUS,A,income,Net Income Common Stockholders,2026-03-31,-1132500000.0
+AEQUS,A,income,Operating Income,2023-03-31,-588920000.0
+AEQUS,A,income,Operating Income,2024-03-31,209880000.0
+AEQUS,A,income,Operating Income,2025-03-31,-144350000.0
+AEQUS,A,income,Operating Income,2026-03-31,-448520000.0
+AEQUS,A,income,Pretax Income,2023-03-31,-1026770000.0
+AEQUS,A,income,Pretax Income,2024-03-31,-21810000.0
+AEQUS,A,income,Pretax Income,2025-03-31,-940790000.0
+AEQUS,A,income,Pretax Income,2026-03-31,-715360000.0
+AEQUS,A,income,Total Revenue,2023-03-31,7914720000.0
+AEQUS,A,income,Total Revenue,2024-03-31,9411920000.0
+AEQUS,A,income,Total Revenue,2025-03-31,8979630000.0
+AEQUS,A,income,Total Revenue,2026-03-31,11980690000.0
+AEQUS,Q,income,Basic EPS,2025-09-30,-0.314467
+AEQUS,Q,income,Basic EPS,2025-12-31,-0.7
+AEQUS,Q,income,Basic EPS,2026-03-31,-0.89
+AEQUS,Q,income,Basic EPS,2026-06-30,-0.81
+AEQUS,Q,income,Basic EPS,2026-09-30,-0.8
+AEQUS,Q,income,Diluted EPS,2025-09-30,-0.314467
+AEQUS,Q,income,Diluted EPS,2025-12-31,-0.7
+AEQUS,Q,income,Diluted EPS,2026-03-31,-0.89
+AEQUS,Q,income,Diluted EPS,2026-06-30,-0.81
+AEQUS,Q,income,Diluted EPS,2026-09-30,-0.8
+AEQUS,Q,income,EBITDA,2025-09-30,463480000.0
+AEQUS,Q,income,EBITDA,2025-12-31,228310000.0
+AEQUS,Q,income,EBITDA,2026-03-31,480590000.0
+AEQUS,Q,income,EBITDA,2026-06-30,243880000.0
+AEQUS,Q,income,EBITDA,2026-09-30,262790000.0
+AEQUS,Q,income,Interest Expense,2025-09-30,256980000.0
+AEQUS,Q,income,Interest Expense,2025-12-31,207660000.0
+AEQUS,Q,income,Interest Expense,2026-03-31,358380000.0
+AEQUS,Q,income,Interest Expense,2026-06-30,188510000.0
+AEQUS,Q,income,Interest Expense,2026-09-30,205980000.0
+AEQUS,Q,income,Net Income,2025-09-30,-205930000.0
+AEQUS,Q,income,Net Income,2025-12-31,-426820000.0
+AEQUS,Q,income,Net Income,2026-03-31,-537210000.0
+AEQUS,Q,income,Net Income,2026-06-30,-532280000.0
+AEQUS,Q,income,Net Income,2026-09-30,-523920000.0
+AEQUS,Q,income,Net Income Common Stockholders,2025-09-30,-205930000.0
+AEQUS,Q,income,Net Income Common Stockholders,2025-12-31,-426820000.0
+AEQUS,Q,income,Net Income Common Stockholders,2026-03-31,-537210000.0
+AEQUS,Q,income,Net Income Common Stockholders,2026-06-30,-532280000.0
+AEQUS,Q,income,Net Income Common Stockholders,2026-09-30,-523920000.0
+AEQUS,Q,income,Operating Income,2025-09-30,-41880000.0
+AEQUS,Q,income,Operating Income,2025-12-31,-59990000.0
+AEQUS,Q,income,Operating Income,2026-03-31,-426480000.0
+AEQUS,Q,income,Operating Income,2026-06-30,-306150000.0
+AEQUS,Q,income,Operating Income,2026-09-30,-327280000.0
+AEQUS,Q,income,Pretax Income,2025-09-30,-119530000.0
+AEQUS,Q,income,Pretax Income,2025-12-31,-329720000.0
+AEQUS,Q,income,Pretax Income,2026-03-31,-332770000.0
+AEQUS,Q,income,Pretax Income,2026-06-30,-398050000.0
+AEQUS,Q,income,Pretax Income,2026-09-30,-408510000.0
+AEQUS,Q,income,Total Revenue,2025-09-30,2815900000.0
+AEQUS,Q,income,Total Revenue,2025-12-31,3261730000.0
+AEQUS,Q,income,Total Revenue,2026-03-31,3671030000.0
+AEQUS,Q,income,Total Revenue,2026-06-30,3955450000.0
+AEQUS,Q,income,Total Revenue,2026-09-30,4090790000.0

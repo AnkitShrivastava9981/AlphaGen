@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+MSUMI,A,balance,Cash And Cash Equivalents,2023-03-31,361000000.0
+MSUMI,A,balance,Cash And Cash Equivalents,2024-03-31,1670000000.0
+MSUMI,A,balance,Cash And Cash Equivalents,2025-03-31,143000000.0
+MSUMI,A,balance,Cash And Cash Equivalents,2026-03-31,662000000.0
+MSUMI,A,balance,Net Debt,2023-03-31,457000000.0
+MSUMI,A,balance,Ordinary Shares Number,2023-03-31,6631661898.0
+MSUMI,A,balance,Ordinary Shares Number,2024-03-31,6631661898.0
+MSUMI,A,balance,Ordinary Shares Number,2025-03-31,6631661898.0
+MSUMI,A,balance,Ordinary Shares Number,2026-03-31,6631661898.0
+MSUMI,A,balance,Stockholders Equity,2023-03-31,13305000000.0
+MSUMI,A,balance,Stockholders Equity,2024-03-31,16768000000.0
+MSUMI,A,balance,Stockholders Equity,2025-03-31,16983000000.0
+MSUMI,A,balance,Stockholders Equity,2026-03-31,21617000000.0
+MSUMI,A,balance,Total Assets,2023-03-31,28977000000.0
+MSUMI,A,balance,Total Assets,2024-03-31,31389000000.0
+MSUMI,A,balance,Total Assets,2025-03-31,37288000000.0
+MSUMI,A,balance,Total Assets,2026-03-31,47457000000.0
+MSUMI,A,balance,Total Debt,2023-03-31,3726000000.0
+MSUMI,A,balance,Total Debt,2024-03-31,2591000000.0
+MSUMI,A,balance,Total Debt,2025-03-31,2692000000.0
+MSUMI,A,balance,Total Debt,2026-03-31,2332000000.0
+MSUMI,A,cashflow,Capital Expenditure,2023-03-31,-1986000000.0
+MSUMI,A,cashflow,Capital Expenditure,2024-03-31,-111290000.0
+MSUMI,A,cashflow,Capital Expenditure,2025-03-31,-1718000000.0
+MSUMI,A,cashflow,Capital Expenditure,2026-03-31,-2014000000.0
+MSUMI,A,cashflow,Free Cash Flow,2023-03-31,250000000.0
+MSUMI,A,cashflow,Free Cash Flow,2024-03-31,679850000.0
+MSUMI,A,cashflow,Free Cash Flow,2025-03-31,1930000000.0
+MSUMI,A,cashflow,Free Cash Flow,2026-03-31,5599000000.0
+MSUMI,A,cashflow,Operating Cash Flow,2023-03-31,2236000000.0
+MSUMI,A,cashflow,Operating Cash Flow,2024-03-31,791140000.0
+MSUMI,A,cashflow,Operating Cash Flow,2025-03-31,3648000000.0
+MSUMI,A,cashflow,Operating Cash Flow,2026-03-31,7613000000.0
+MSUMI,A,income,Basic EPS,2023-03-31,0.733333
+MSUMI,A,income,Basic EPS,2024-03-31,0.96
+MSUMI,A,income,Basic EPS,2025-03-31,0.91
+MSUMI,A,income,Basic EPS,2026-03-31,0.94
+MSUMI,A,income,Diluted EPS,2023-03-31,0.733333
+MSUMI,A,income,Diluted EPS,2024-03-31,0.96
+MSUMI,A,income,Diluted EPS,2025-03-31,0.91
+MSUMI,A,income,Diluted EPS,2026-03-31,0.94
+MSUMI,A,income,EBITDA,2023-03-31,8034000000.0
+MSUMI,A,income,EBITDA,2024-03-31,10196000000.0
+MSUMI,A,income,EBITDA,2025-03-31,10087000000.0
+MSUMI,A,income,EBITDA,2026-03-31,10635000000.0
+MSUMI,A,income,Interest Expense,2023-03-31,275000000.0
+MSUMI,A,income,Interest Expense,2024-03-31,268000000.0
+MSUMI,A,income,Interest Expense,2025-03-31,243000000.0
+MSUMI,A,income,Interest Expense,2026-03-31,255000000.0
+MSUMI,A,income,Net Income,2023-03-31,4870000000.0
+MSUMI,A,income,Net Income,2024-03-31,6383000000.0
+MSUMI,A,income,Net Income,2025-03-31,6059000000.0
+MSUMI,A,income,Net Income,2026-03-31,6252000000.0
+MSUMI,A,income,Net Income Common Stockholders,2023-03-31,4870000000.0
+MSUMI,A,income,Net Income Common Stockholders,2024-03-31,6383000000.0
+MSUMI,A,income,Net Income Common Stockholders,2025-03-31,6059000000.0
+MSUMI,A,income,Net Income Common Stockholders,2026-03-31,6252000000.0
+MSUMI,A,income,Operating Income,2023-03-31,6630000000.0
+MSUMI,A,income,Operating Income,2024-03-31,8393000000.0
+MSUMI,A,income,Operating Income,2025-03-31,8002000000.0
+MSUMI,A,income,Operating Income,2026-03-31,8400000000.0
+MSUMI,A,income,Pretax Income,2023-03-31,6522000000.0
+MSUMI,A,income,Pretax Income,2024-03-31,8455000000.0
+MSUMI,A,income,Pretax Income,2025-03-31,8055000000.0
+MSUMI,A,income,Pretax Income,2026-03-31,8219000000.0
+MSUMI,A,income,Total Revenue,2023-03-31,70226000000.0
+MSUMI,A,income,Total Revenue,2024-03-31,82740000000.0
+MSUMI,A,income,Total Revenue,2025-03-31,92716000000.0
+MSUMI,A,income,Total Revenue,2026-03-31,114287000000.0
+MSUMI,Q,income,Basic EPS,2025-06-30,0.22
+MSUMI,Q,income,Basic EPS,2025-12-31,0.23
+MSUMI,Q,income,Basic EPS,2026-03-31,0.25
+MSUMI,Q,income,Basic EPS,2026-06-30,0.22
+MSUMI,Q,income,Basic EPS,2026-09-30,0.34
+MSUMI,Q,income,Diluted EPS,2025-06-30,0.22
+MSUMI,Q,income,Diluted EPS,2025-12-31,0.23
+MSUMI,Q,income,Diluted EPS,2026-03-31,0.25
+MSUMI,Q,income,Diluted EPS,2026-06-30,0.22
+MSUMI,Q,income,Diluted EPS,2026-09-30,0.34
+MSUMI,Q,income,EBITDA,2025-06-30,2451100000.0
+MSUMI,Q,income,EBITDA,2025-12-31,2632700000.0
+MSUMI,Q,income,EBITDA,2026-03-31,2753800000.0
+MSUMI,Q,income,EBITDA,2026-06-30,2636300000.0
+MSUMI,Q,income,EBITDA,2026-09-30,3747200000.0
+MSUMI,Q,income,Interest Expense,2025-06-30,63000000.0
+MSUMI,Q,income,Interest Expense,2025-12-31,72300000.0
+MSUMI,Q,income,Interest Expense,2026-03-31,63500000.0
+MSUMI,Q,income,Interest Expense,2026-06-30,81100000.0
+MSUMI,Q,income,Interest Expense,2026-09-30,145200000.0
+MSUMI,Q,income,Net Income,2025-06-30,1431000000.0
+MSUMI,Q,income,Net Income,2025-12-31,1494400000.0
+MSUMI,Q,income,Net Income,2026-03-31,1673000000.0
+MSUMI,Q,income,Net Income,2026-06-30,1453200000.0
+MSUMI,Q,income,Net Income,2026-09-30,2233700000.0
+MSUMI,Q,income,Net Income Common Stockholders,2025-06-30,1431000000.0
+MSUMI,Q,income,Net Income Common Stockholders,2025-12-31,1494400000.0
+MSUMI,Q,income,Net Income Common Stockholders,2026-03-31,1673000000.0
+MSUMI,Q,income,Net Income Common Stockholders,2026-06-30,1453200000.0
+MSUMI,Q,income,Net Income Common Stockholders,2026-09-30,2233700000.0
+MSUMI,Q,income,Operating Income,2025-06-30,1950700000.0
+MSUMI,Q,income,Operating Income,2025-12-31,2058200000.0
+MSUMI,Q,income,Operating Income,2026-03-31,2167400000.0
+MSUMI,Q,income,Operating Income,2026-06-30,1981100000.0
+MSUMI,Q,income,Operating Income,2026-09-30,3127100000.0
+MSUMI,Q,income,Pretax Income,2025-06-30,1896300000.0
+MSUMI,Q,income,Pretax Income,2025-12-31,1995400000.0
+MSUMI,Q,income,Pretax Income,2026-03-31,2117100000.0
+MSUMI,Q,income,Pretax Income,2026-06-30,1953800000.0
+MSUMI,Q,income,Pretax Income,2026-09-30,2993300000.0
+MSUMI,Q,income,Total Revenue,2025-06-30,24808400000.0
+MSUMI,Q,income,Total Revenue,2025-12-31,28658400000.0
+MSUMI,Q,income,Total Revenue,2026-03-31,33281800000.0
+MSUMI,Q,income,Total Revenue,2026-06-30,33838500000.0
+MSUMI,Q,income,Total Revenue,2026-09-30,40410600000.0

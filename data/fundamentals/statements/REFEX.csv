@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+REFEX,A,balance,Cash And Cash Equivalents,2023-03-31,101789000.0
+REFEX,A,balance,Cash And Cash Equivalents,2024-03-31,4614000.0
+REFEX,A,balance,Cash And Cash Equivalents,2025-03-31,2814924000.0
+REFEX,A,balance,Cash And Cash Equivalents,2026-03-31,1837030000.0
+REFEX,A,balance,Net Debt,2022-03-31,141420000.0
+REFEX,A,balance,Net Debt,2023-03-31,716513000.0
+REFEX,A,balance,Net Debt,2024-03-31,1166999000.0
+REFEX,A,balance,Ordinary Shares Number,2023-03-31,110535120.0
+REFEX,A,balance,Ordinary Shares Number,2024-03-31,115681390.0
+REFEX,A,balance,Ordinary Shares Number,2025-03-31,129182273.0
+REFEX,A,balance,Ordinary Shares Number,2026-03-31,137199391.0
+REFEX,A,balance,Stockholders Equity,2023-03-31,3143937000.0
+REFEX,A,balance,Stockholders Equity,2024-03-31,4655751000.0
+REFEX,A,balance,Stockholders Equity,2025-03-31,12127940000.0
+REFEX,A,balance,Stockholders Equity,2026-03-31,15041525000.0
+REFEX,A,balance,Total Assets,2023-03-31,7523010000.0
+REFEX,A,balance,Total Assets,2024-03-31,7979790000.0
+REFEX,A,balance,Total Assets,2025-03-31,17991897000.0
+REFEX,A,balance,Total Assets,2026-03-31,28426992000.0
+REFEX,A,balance,Total Debt,2023-03-31,1494224000.0
+REFEX,A,balance,Total Debt,2024-03-31,2145621000.0
+REFEX,A,balance,Total Debt,2025-03-31,2860608000.0
+REFEX,A,balance,Total Debt,2026-03-31,2250444000.0
+REFEX,A,cashflow,Capital Expenditure,2023-03-31,-719893000.0
+REFEX,A,cashflow,Capital Expenditure,2024-03-31,-507188000.0
+REFEX,A,cashflow,Capital Expenditure,2025-03-31,-2205955000.0
+REFEX,A,cashflow,Capital Expenditure,2026-03-31,-1996700000.0
+REFEX,A,cashflow,Free Cash Flow,2023-03-31,-443740000.0
+REFEX,A,cashflow,Free Cash Flow,2024-03-31,-478703000.0
+REFEX,A,cashflow,Free Cash Flow,2025-03-31,-4690987000.0
+REFEX,A,cashflow,Free Cash Flow,2026-03-31,-925290000.0
+REFEX,A,cashflow,Operating Cash Flow,2023-03-31,276153000.0
+REFEX,A,cashflow,Operating Cash Flow,2024-03-31,28485000.0
+REFEX,A,cashflow,Operating Cash Flow,2025-03-31,-2485032000.0
+REFEX,A,cashflow,Operating Cash Flow,2026-03-31,1071410000.0
+REFEX,A,income,Basic EPS,2023-03-31,10.78
+REFEX,A,income,Basic EPS,2024-03-31,8.4
+REFEX,A,income,Basic EPS,2025-03-31,12.96
+REFEX,A,income,Basic EPS,2026-03-31,15.28
+REFEX,A,income,Diluted EPS,2023-03-31,10.77
+REFEX,A,income,Diluted EPS,2024-03-31,8.36
+REFEX,A,income,Diluted EPS,2025-03-31,12.33
+REFEX,A,income,Diluted EPS,2026-03-31,15.07
+REFEX,A,income,EBITDA,2023-03-31,1725208000.0
+REFEX,A,income,EBITDA,2024-03-31,1520755000.0
+REFEX,A,income,EBITDA,2025-03-31,2736434000.0
+REFEX,A,income,EBITDA,2026-03-31,4195428000.0
+REFEX,A,income,Interest Expense,2023-03-31,92442000.0
+REFEX,A,income,Interest Expense,2024-03-31,171984000.0
+REFEX,A,income,Interest Expense,2025-03-31,126467000.0
+REFEX,A,income,Interest Expense,2026-03-31,292224000.0
+REFEX,A,income,Net Income,2023-03-31,1160608000.0
+REFEX,A,income,Net Income,2024-03-31,938695000.0
+REFEX,A,income,Net Income,2025-03-31,1587782000.0
+REFEX,A,income,Net Income,2026-03-31,2033531000.0
+REFEX,A,income,Net Income Common Stockholders,2023-03-31,1160608000.0
+REFEX,A,income,Net Income Common Stockholders,2024-03-31,938695000.0
+REFEX,A,income,Net Income Common Stockholders,2025-03-31,1587782000.0
+REFEX,A,income,Net Income Common Stockholders,2026-03-31,2033531000.0
+REFEX,A,income,Operating Income,2023-03-31,1686339000.0
+REFEX,A,income,Operating Income,2024-03-31,1385982000.0
+REFEX,A,income,Operating Income,2025-03-31,1975937000.0
+REFEX,A,income,Operating Income,2026-03-31,3464882000.0
+REFEX,A,income,Pretax Income,2023-03-31,1563862000.0
+REFEX,A,income,Pretax Income,2024-03-31,1213319000.0
+REFEX,A,income,Pretax Income,2025-03-31,2284328000.0
+REFEX,A,income,Pretax Income,2026-03-31,3304304000.0
+REFEX,A,income,Total Revenue,2023-03-31,16179049000.0
+REFEX,A,income,Total Revenue,2024-03-31,13771046000.0
+REFEX,A,income,Total Revenue,2025-03-31,22518437000.0
+REFEX,A,income,Total Revenue,2026-03-31,22754370000.0
+REFEX,Q,income,Basic EPS,2025-06-30,1.64
+REFEX,Q,income,Basic EPS,2025-12-31,3.94
+REFEX,Q,income,Basic EPS,2026-03-31,6.62
+REFEX,Q,income,Basic EPS,2026-06-30,4.65
+REFEX,Q,income,Basic EPS,2026-09-30,3.69
+REFEX,Q,income,Diluted EPS,2025-09-30,2.65
+REFEX,Q,income,Diluted EPS,2025-12-31,3.89
+REFEX,Q,income,Diluted EPS,2026-03-31,6.54
+REFEX,Q,income,Diluted EPS,2026-06-30,4.59
+REFEX,Q,income,Diluted EPS,2026-09-30,3.64
+REFEX,Q,income,EBITDA,2025-09-30,762233000.0
+REFEX,Q,income,EBITDA,2025-12-31,955610000.0
+REFEX,Q,income,EBITDA,2026-03-31,1581276000.0
+REFEX,Q,income,EBITDA,2026-06-30,1134699000.0
+REFEX,Q,income,EBITDA,2026-09-30,1039927000.0
+REFEX,Q,income,Interest Expense,2025-06-30,61686000.0
+REFEX,Q,income,Interest Expense,2025-12-31,91423000.0
+REFEX,Q,income,Interest Expense,2026-03-31,101494000.0
+REFEX,Q,income,Interest Expense,2026-06-30,129206000.0
+REFEX,Q,income,Interest Expense,2026-09-30,169247000.0
+REFEX,Q,income,Net Income,2025-06-30,211722000.0
+REFEX,Q,income,Net Income,2025-12-31,539199000.0
+REFEX,Q,income,Net Income,2026-03-31,908199000.0
+REFEX,Q,income,Net Income,2026-06-30,637973000.0
+REFEX,Q,income,Net Income,2026-09-30,500938000.0
+REFEX,Q,income,Net Income Common Stockholders,2025-06-30,211722000.0
+REFEX,Q,income,Net Income Common Stockholders,2025-12-31,539199000.0
+REFEX,Q,income,Net Income Common Stockholders,2026-03-31,908199000.0
+REFEX,Q,income,Net Income Common Stockholders,2026-06-30,637973000.0
+REFEX,Q,income,Net Income Common Stockholders,2026-09-30,500938000.0
+REFEX,Q,income,Operating Income,2025-09-30,660757000.0
+REFEX,Q,income,Operating Income,2025-12-31,847224000.0
+REFEX,Q,income,Operating Income,2026-03-31,1541905000.0
+REFEX,Q,income,Operating Income,2026-06-30,1011200000.0
+REFEX,Q,income,Operating Income,2026-09-30,955499000.0
+REFEX,Q,income,Pretax Income,2025-09-30,646558000.0
+REFEX,Q,income,Pretax Income,2025-12-31,813790000.0
+REFEX,Q,income,Pretax Income,2026-03-31,1479782000.0
+REFEX,Q,income,Pretax Income,2026-06-30,1005493000.0
+REFEX,Q,income,Pretax Income,2026-09-30,806693000.0
+REFEX,Q,income,Total Revenue,2025-09-30,4146934000.0
+REFEX,Q,income,Total Revenue,2025-12-31,5760122000.0
+REFEX,Q,income,Total Revenue,2026-03-31,9341661000.0
+REFEX,Q,income,Total Revenue,2026-06-30,9163051000.0
+REFEX,Q,income,Total Revenue,2026-09-30,7613171000.0

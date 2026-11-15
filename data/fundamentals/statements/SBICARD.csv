@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+SBICARD,A,balance,Cash And Cash Equivalents,2023-03-31,10160400000.0
+SBICARD,A,balance,Cash And Cash Equivalents,2024-03-31,25084300000.0
+SBICARD,A,balance,Cash And Cash Equivalents,2025-03-31,25599100000.0
+SBICARD,A,balance,Cash And Cash Equivalents,2026-03-31,21330300000.0
+SBICARD,A,balance,Net Debt,2023-03-31,300935800000.0
+SBICARD,A,balance,Net Debt,2024-03-31,373826500000.0
+SBICARD,A,balance,Net Debt,2025-03-31,423867000000.0
+SBICARD,A,balance,Net Debt,2026-03-31,419307000000.0
+SBICARD,A,balance,Ordinary Shares Number,2023-03-31,946074389.0
+SBICARD,A,balance,Ordinary Shares Number,2024-03-31,950968519.0
+SBICARD,A,balance,Ordinary Shares Number,2025-03-31,951356954.0
+SBICARD,A,balance,Ordinary Shares Number,2026-03-31,951600251.0
+SBICARD,A,balance,Stockholders Equity,2023-03-31,98300500000.0
+SBICARD,A,balance,Stockholders Equity,2024-03-31,120840300000.0
+SBICARD,A,balance,Stockholders Equity,2025-03-31,137817200000.0
+SBICARD,A,balance,Stockholders Equity,2026-03-31,157255000000.0
+SBICARD,A,balance,Total Assets,2023-03-31,455455600000.0
+SBICARD,A,balance,Total Assets,2024-03-31,581712300000.0
+SBICARD,A,balance,Total Assets,2025-03-31,655458000000.0
+SBICARD,A,balance,Total Assets,2026-03-31,663277900000.0
+SBICARD,A,balance,Total Debt,2023-03-31,315310900000.0
+SBICARD,A,balance,Total Debt,2024-03-31,403147000000.0
+SBICARD,A,balance,Total Debt,2025-03-31,451706800000.0
+SBICARD,A,balance,Total Debt,2026-03-31,442302700000.0
+SBICARD,A,cashflow,Capital Expenditure,2023-03-31,-934000000.0
+SBICARD,A,cashflow,Capital Expenditure,2024-03-31,-744900000.0
+SBICARD,A,cashflow,Capital Expenditure,2025-03-31,-557600000.0
+SBICARD,A,cashflow,Capital Expenditure,2026-03-31,-336400000.0
+SBICARD,A,cashflow,Free Cash Flow,2023-03-31,-67639100000.0
+SBICARD,A,cashflow,Free Cash Flow,2024-03-31,-57278700000.0
+SBICARD,A,cashflow,Free Cash Flow,2025-03-31,-21962200000.0
+SBICARD,A,cashflow,Free Cash Flow,2026-03-31,4593900000.0
+SBICARD,A,cashflow,Operating Cash Flow,2023-03-31,-66705100000.0
+SBICARD,A,cashflow,Operating Cash Flow,2024-03-31,-56533800000.0
+SBICARD,A,cashflow,Operating Cash Flow,2025-03-31,-21404600000.0
+SBICARD,A,cashflow,Operating Cash Flow,2026-03-31,4930300000.0
+SBICARD,A,income,Basic EPS,2023-03-31,23.92
+SBICARD,A,income,Basic EPS,2024-03-31,25.39
+SBICARD,A,income,Basic EPS,2025-03-31,20.15
+SBICARD,A,income,Basic EPS,2026-03-31,22.77
+SBICARD,A,income,Diluted EPS,2023-03-31,23.8
+SBICARD,A,income,Diluted EPS,2024-03-31,25.37
+SBICARD,A,income,Diluted EPS,2025-03-31,20.14
+SBICARD,A,income,Diluted EPS,2026-03-31,22.77
+SBICARD,A,income,Interest Expense,2023-03-31,16438600000.0
+SBICARD,A,income,Interest Expense,2024-03-31,25893200000.0
+SBICARD,A,income,Interest Expense,2025-03-31,31784000000.0
+SBICARD,A,income,Interest Expense,2026-03-31,30715800000.0
+SBICARD,A,income,Net Income,2023-03-31,22584700000.0
+SBICARD,A,income,Net Income,2024-03-31,24078800000.0
+SBICARD,A,income,Net Income,2025-03-31,19164100000.0
+SBICARD,A,income,Net Income,2026-03-31,21667100000.0
+SBICARD,A,income,Net Income Common Stockholders,2023-03-31,22584700000.0
+SBICARD,A,income,Net Income Common Stockholders,2024-03-31,24078800000.0
+SBICARD,A,income,Net Income Common Stockholders,2025-03-31,19164100000.0
+SBICARD,A,income,Net Income Common Stockholders,2026-03-31,21667100000.0
+SBICARD,A,income,Pretax Income,2023-03-31,30305700000.0
+SBICARD,A,income,Pretax Income,2024-03-31,32318000000.0
+SBICARD,A,income,Pretax Income,2025-03-31,25806800000.0
+SBICARD,A,income,Pretax Income,2026-03-31,29131900000.0
+SBICARD,A,income,Total Revenue,2023-03-31,106776300000.0
+SBICARD,A,income,Total Revenue,2024-03-31,127512000000.0
+SBICARD,A,income,Total Revenue,2025-03-31,142678500000.0
+SBICARD,A,income,Total Revenue,2026-03-31,156269300000.0
+SBICARD,Q,income,Basic EPS,2025-06-30,5.84
+SBICARD,Q,income,Basic EPS,2025-12-31,5.85
+SBICARD,Q,income,Basic EPS,2026-03-31,6.4
+SBICARD,Q,income,Basic EPS,2026-06-30,6.98
+SBICARD,Q,income,Basic EPS,2026-09-30,8.17
+SBICARD,Q,income,Diluted EPS,2025-06-30,5.84
+SBICARD,Q,income,Diluted EPS,2025-12-31,5.85
+SBICARD,Q,income,Diluted EPS,2026-03-31,6.4
+SBICARD,Q,income,Diluted EPS,2026-06-30,6.98
+SBICARD,Q,income,Diluted EPS,2026-09-30,8.17
+SBICARD,Q,income,Interest Expense,2025-06-30,8128200000.0
+SBICARD,Q,income,Interest Expense,2025-12-31,7850700000.0
+SBICARD,Q,income,Interest Expense,2026-03-31,7136200000.0
+SBICARD,Q,income,Interest Expense,2026-06-30,7445300000.0
+SBICARD,Q,income,Interest Expense,2026-09-30,7872700000.0
+SBICARD,Q,income,Net Income,2025-06-30,5559600000.0
+SBICARD,Q,income,Net Income,2025-12-31,5566400000.0
+SBICARD,Q,income,Net Income,2026-03-31,6093000000.0
+SBICARD,Q,income,Net Income,2026-06-30,6644400000.0
+SBICARD,Q,income,Net Income,2026-09-30,7776000000.0
+SBICARD,Q,income,Net Income Common Stockholders,2025-06-30,5559600000.0
+SBICARD,Q,income,Net Income Common Stockholders,2025-12-31,5566400000.0
+SBICARD,Q,income,Net Income Common Stockholders,2026-03-31,6093000000.0
+SBICARD,Q,income,Net Income Common Stockholders,2026-06-30,6644400000.0
+SBICARD,Q,income,Net Income Common Stockholders,2026-09-30,7776000000.0
+SBICARD,Q,income,Pretax Income,2025-06-30,7483600000.0
+SBICARD,Q,income,Pretax Income,2025-12-31,7491100000.0
+SBICARD,Q,income,Pretax Income,2026-03-31,8159100000.0
+SBICARD,Q,income,Pretax Income,2026-06-30,8931300000.0
+SBICARD,Q,income,Pretax Income,2026-09-30,10457200000.0
+SBICARD,Q,income,Total Revenue,2025-06-30,40350800000.0
+SBICARD,Q,income,Total Revenue,2025-12-31,42217000000.0
+SBICARD,Q,income,Total Revenue,2026-03-31,40639800000.0
+SBICARD,Q,income,Total Revenue,2026-06-30,40639300000.0
+SBICARD,Q,income,Total Revenue,2026-09-30,41801700000.0

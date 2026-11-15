@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+VOLTAMP,A,balance,Cash And Cash Equivalents,2023-03-31,177207000.0
+VOLTAMP,A,balance,Cash And Cash Equivalents,2024-03-31,292249000.0
+VOLTAMP,A,balance,Cash And Cash Equivalents,2025-03-31,386015000.0
+VOLTAMP,A,balance,Cash And Cash Equivalents,2026-03-31,731008000.0
+VOLTAMP,A,balance,Ordinary Shares Number,2023-03-31,10117120.0
+VOLTAMP,A,balance,Ordinary Shares Number,2024-03-31,10117120.0
+VOLTAMP,A,balance,Ordinary Shares Number,2025-03-31,10117120.0
+VOLTAMP,A,balance,Ordinary Shares Number,2026-03-31,10117120.0
+VOLTAMP,A,balance,Stockholders Equity,2023-03-31,11072261000.0
+VOLTAMP,A,balance,Stockholders Equity,2024-03-31,13536130000.0
+VOLTAMP,A,balance,Stockholders Equity,2025-03-31,15876201000.0
+VOLTAMP,A,balance,Stockholders Equity,2026-03-31,17918041000.0
+VOLTAMP,A,balance,Total Assets,2023-03-31,12225148000.0
+VOLTAMP,A,balance,Total Assets,2024-03-31,15210766000.0
+VOLTAMP,A,balance,Total Assets,2025-03-31,17756610000.0
+VOLTAMP,A,balance,Total Assets,2026-03-31,20179640000.0
+VOLTAMP,A,balance,Total Debt,2023-03-31,0.0
+VOLTAMP,A,balance,Total Debt,2024-03-31,32143000.0
+VOLTAMP,A,balance,Total Debt,2025-03-31,21276000.0
+VOLTAMP,A,balance,Total Debt,2026-03-31,5427000.0
+VOLTAMP,A,cashflow,Capital Expenditure,2023-03-31,-81591000.0
+VOLTAMP,A,cashflow,Capital Expenditure,2024-03-31,-193443000.0
+VOLTAMP,A,cashflow,Capital Expenditure,2025-03-31,-602553000.0
+VOLTAMP,A,cashflow,Capital Expenditure,2026-03-31,-1250584000.0
+VOLTAMP,A,cashflow,Free Cash Flow,2023-03-31,1597900000.0
+VOLTAMP,A,cashflow,Free Cash Flow,2024-03-31,1969332000.0
+VOLTAMP,A,cashflow,Free Cash Flow,2025-03-31,1589500000.0
+VOLTAMP,A,cashflow,Free Cash Flow,2026-03-31,146531000.0
+VOLTAMP,A,cashflow,Operating Cash Flow,2023-03-31,1679491000.0
+VOLTAMP,A,cashflow,Operating Cash Flow,2024-03-31,2162775000.0
+VOLTAMP,A,cashflow,Operating Cash Flow,2025-03-31,2192053000.0
+VOLTAMP,A,cashflow,Operating Cash Flow,2026-03-31,1397115000.0
+VOLTAMP,A,income,Basic EPS,2023-03-31,197.63
+VOLTAMP,A,income,Basic EPS,2024-03-31,303.8
+VOLTAMP,A,income,Basic EPS,2025-03-31,321.65
+VOLTAMP,A,income,Basic EPS,2026-03-31,301.85
+VOLTAMP,A,income,Diluted EPS,2023-03-31,197.63
+VOLTAMP,A,income,Diluted EPS,2024-03-31,303.8
+VOLTAMP,A,income,Diluted EPS,2025-03-31,321.65
+VOLTAMP,A,income,Diluted EPS,2026-03-31,301.85
+VOLTAMP,A,income,EBITDA,2023-03-31,2709518000.0
+VOLTAMP,A,income,EBITDA,2024-03-31,4113278000.0
+VOLTAMP,A,income,EBITDA,2025-03-31,4509172000.0
+VOLTAMP,A,income,EBITDA,2026-03-31,4218518000.0
+VOLTAMP,A,income,Interest Expense,2023-03-31,8904000.0
+VOLTAMP,A,income,Interest Expense,2024-03-31,20816000.0
+VOLTAMP,A,income,Interest Expense,2025-03-31,14460000.0
+VOLTAMP,A,income,Interest Expense,2026-03-31,14494000.0
+VOLTAMP,A,income,Net Income,2023-03-31,1999428000.0
+VOLTAMP,A,income,Net Income,2024-03-31,3073607000.0
+VOLTAMP,A,income,Net Income,2025-03-31,3254132000.0
+VOLTAMP,A,income,Net Income,2026-03-31,3053842000.0
+VOLTAMP,A,income,Net Income Common Stockholders,2023-03-31,1999428000.0
+VOLTAMP,A,income,Net Income Common Stockholders,2024-03-31,3073607000.0
+VOLTAMP,A,income,Net Income Common Stockholders,2025-03-31,3254132000.0
+VOLTAMP,A,income,Net Income Common Stockholders,2026-03-31,3053842000.0
+VOLTAMP,A,income,Operating Income,2023-03-31,2244199000.0
+VOLTAMP,A,income,Operating Income,2024-03-31,3140508000.0
+VOLTAMP,A,income,Operating Income,2025-03-31,3564628000.0
+VOLTAMP,A,income,Operating Income,2026-03-31,3432805000.0
+VOLTAMP,A,income,Pretax Income,2023-03-31,2603679000.0
+VOLTAMP,A,income,Pretax Income,2024-03-31,3978765000.0
+VOLTAMP,A,income,Pretax Income,2025-03-31,4363031000.0
+VOLTAMP,A,income,Pretax Income,2026-03-31,4057979000.0
+VOLTAMP,A,income,Total Revenue,2023-03-31,13761670000.0
+VOLTAMP,A,income,Total Revenue,2024-03-31,16094237000.0
+VOLTAMP,A,income,Total Revenue,2025-03-31,19247263000.0
+VOLTAMP,A,income,Total Revenue,2026-03-31,21456582000.0
+VOLTAMP,Q,income,Basic EPS,2025-09-30,77.94
+VOLTAMP,Q,income,Basic EPS,2025-12-31,97.94
+VOLTAMP,Q,income,Basic EPS,2026-03-31,47.35
+VOLTAMP,Q,income,Basic EPS,2026-06-30,90.17
+VOLTAMP,Q,income,Basic EPS,2026-09-30,84.1
+VOLTAMP,Q,income,Diluted EPS,2025-09-30,77.94
+VOLTAMP,Q,income,Diluted EPS,2025-12-31,97.94
+VOLTAMP,Q,income,Diluted EPS,2026-03-31,47.35
+VOLTAMP,Q,income,Diluted EPS,2026-06-30,90.17
+VOLTAMP,Q,income,Diluted EPS,2026-09-30,84.1
+VOLTAMP,Q,income,EBITDA,2025-09-30,1083255000.0
+VOLTAMP,Q,income,EBITDA,2025-12-31,1338911000.0
+VOLTAMP,Q,income,EBITDA,2026-03-31,713023000.0
+VOLTAMP,Q,income,EBITDA,2026-06-30,1219113000.0
+VOLTAMP,Q,income,EBITDA,2026-09-30,1137128000.0
+VOLTAMP,Q,income,Interest Expense,2025-09-30,5967000.0
+VOLTAMP,Q,income,Interest Expense,2025-12-31,2219000.0
+VOLTAMP,Q,income,Interest Expense,2026-03-31,3161000.0
+VOLTAMP,Q,income,Interest Expense,2026-06-30,4508000.0
+VOLTAMP,Q,income,Interest Expense,2026-09-30,4344000.0
+VOLTAMP,Q,income,Net Income,2025-09-30,788502000.0
+VOLTAMP,Q,income,Net Income,2025-12-31,990826000.0
+VOLTAMP,Q,income,Net Income,2026-03-31,479027000.0
+VOLTAMP,Q,income,Net Income,2026-06-30,912228000.0
+VOLTAMP,Q,income,Net Income,2026-09-30,850828000.0
+VOLTAMP,Q,income,Net Income Common Stockholders,2025-09-30,788502000.0
+VOLTAMP,Q,income,Net Income Common Stockholders,2025-12-31,990826000.0
+VOLTAMP,Q,income,Net Income Common Stockholders,2026-03-31,479027000.0
+VOLTAMP,Q,income,Net Income Common Stockholders,2026-06-30,912228000.0
+VOLTAMP,Q,income,Net Income Common Stockholders,2026-09-30,850828000.0
+VOLTAMP,Q,income,Operating Income,2025-09-30,900285000.0
+VOLTAMP,Q,income,Operating Income,2025-12-31,1039604000.0
+VOLTAMP,Q,income,Operating Income,2026-03-31,774532000.0
+VOLTAMP,Q,income,Operating Income,2026-06-30,767378000.0
+VOLTAMP,Q,income,Operating Income,2026-09-30,1020035000.0
+VOLTAMP,Q,income,Pretax Income,2025-09-30,1041945000.0
+VOLTAMP,Q,income,Pretax Income,2025-12-31,1298801000.0
+VOLTAMP,Q,income,Pretax Income,2026-03-31,670782000.0
+VOLTAMP,Q,income,Pretax Income,2026-06-30,1178956000.0
+VOLTAMP,Q,income,Pretax Income,2026-09-30,1094956000.0
+VOLTAMP,Q,income,Total Revenue,2025-09-30,4825625000.0
+VOLTAMP,Q,income,Total Revenue,2025-12-31,6303232000.0
+VOLTAMP,Q,income,Total Revenue,2026-03-31,6172259000.0
+VOLTAMP,Q,income,Total Revenue,2026-06-30,5437849000.0
+VOLTAMP,Q,income,Total Revenue,2026-09-30,6841919000.0

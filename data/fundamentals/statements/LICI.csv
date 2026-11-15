@@ -1,0 +1,84 @@
+symbol,freq,statement,item,period_end,value
+LICI,A,balance,Cash And Cash Equivalents,2023-03-31,309023300000.0
+LICI,A,balance,Cash And Cash Equivalents,2024-03-31,361653100000.0
+LICI,A,balance,Cash And Cash Equivalents,2025-03-31,544536300000.0
+LICI,A,balance,Cash And Cash Equivalents,2026-03-31,633451200000.0
+LICI,A,balance,Ordinary Shares Number,2023-03-31,12649995402.0
+LICI,A,balance,Ordinary Shares Number,2024-03-31,12649995402.0
+LICI,A,balance,Ordinary Shares Number,2025-03-31,12649995402.0
+LICI,A,balance,Ordinary Shares Number,2026-03-31,12649995402.0
+LICI,A,balance,Stockholders Equity,2023-03-31,462328700000.0
+LICI,A,balance,Stockholders Equity,2024-03-31,827468700000.0
+LICI,A,balance,Stockholders Equity,2025-03-31,1272263900000.0
+LICI,A,balance,Stockholders Equity,2026-03-31,1766053400000.0
+LICI,A,balance,Total Assets,2023-03-31,45784913600000.0
+LICI,A,balance,Total Assets,2024-03-31,53160474200000.0
+LICI,A,balance,Total Assets,2025-03-31,56605684600000.0
+LICI,A,balance,Total Assets,2026-03-31,59485564000000.0
+LICI,A,balance,Total Debt,2022-03-31,12885000.0
+LICI,A,cashflow,Capital Expenditure,2023-03-31,-8864700000.0
+LICI,A,cashflow,Capital Expenditure,2024-03-31,-7677700000.0
+LICI,A,cashflow,Capital Expenditure,2025-03-31,-7767300000.0
+LICI,A,cashflow,Capital Expenditure,2026-03-31,-11157800000.0
+LICI,A,cashflow,Free Cash Flow,2023-03-31,536320400000.0
+LICI,A,cashflow,Free Cash Flow,2024-03-31,257801700000.0
+LICI,A,cashflow,Free Cash Flow,2025-03-31,-104973000000.0
+LICI,A,cashflow,Free Cash Flow,2026-03-31,-273272600000.0
+LICI,A,income,Basic EPS,2023-03-31,28.455
+LICI,A,income,Basic EPS,2024-03-31,32.345
+LICI,A,income,Basic EPS,2025-03-31,38.2
+LICI,A,income,Basic EPS,2026-03-31,45.42
+LICI,A,income,Diluted EPS,2023-03-31,28.455
+LICI,A,income,Diluted EPS,2024-03-31,32.345
+LICI,A,income,Diluted EPS,2025-03-31,38.2
+LICI,A,income,Diluted EPS,2026-03-31,45.42
+LICI,A,income,Interest Expense,2023-03-31,774300000.0
+LICI,A,income,Interest Expense,2024-03-31,1278800000.0
+LICI,A,income,Interest Expense,2025-03-31,1426500000.0
+LICI,A,income,Interest Expense,2026-03-31,1333100000.0
+LICI,A,income,Net Income,2023-03-31,359966500000.0
+LICI,A,income,Net Income,2024-03-31,409158500000.0
+LICI,A,income,Net Income,2025-03-31,483203300000.0
+LICI,A,income,Net Income,2026-03-31,574531500000.0
+LICI,A,income,Net Income Common Stockholders,2023-03-31,359966500000.0
+LICI,A,income,Net Income Common Stockholders,2024-03-31,409158500000.0
+LICI,A,income,Net Income Common Stockholders,2025-03-31,483203300000.0
+LICI,A,income,Net Income Common Stockholders,2026-03-31,574531500000.0
+LICI,A,income,Pretax Income,2023-03-31,360809400000.0
+LICI,A,income,Pretax Income,2024-03-31,410566000000.0
+LICI,A,income,Pretax Income,2025-03-31,483506100000.0
+LICI,A,income,Pretax Income,2026-03-31,575238800000.0
+LICI,A,income,Total Revenue,2023-03-31,7852170800000.0
+LICI,A,income,Total Revenue,2024-03-31,8490308700000.0
+LICI,A,income,Total Revenue,2025-03-31,8911252600000.0
+LICI,A,income,Total Revenue,2026-03-31,9688246800000.0
+LICI,Q,income,Basic EPS,2025-09-30,7.98
+LICI,Q,income,Basic EPS,2025-12-31,10.22
+LICI,Q,income,Basic EPS,2026-03-31,18.55
+LICI,Q,income,Basic EPS,2026-06-30,10.74
+LICI,Q,income,Basic EPS,2026-09-30,9.58
+LICI,Q,income,Diluted EPS,2025-09-30,7.98
+LICI,Q,income,Diluted EPS,2025-12-31,10.22
+LICI,Q,income,Diluted EPS,2026-03-31,18.55
+LICI,Q,income,Diluted EPS,2026-06-30,10.74
+LICI,Q,income,Diluted EPS,2026-09-30,9.58
+LICI,Q,income,Net Income,2025-06-30,109570500000.0
+LICI,Q,income,Net Income,2025-12-31,129304400000.0
+LICI,Q,income,Net Income,2026-03-31,234671800000.0
+LICI,Q,income,Net Income,2026-06-30,135842500000.0
+LICI,Q,income,Net Income,2026-09-30,121147800000.0
+LICI,Q,income,Net Income Common Stockholders,2025-06-30,109570500000.0
+LICI,Q,income,Net Income Common Stockholders,2025-12-31,129304400000.0
+LICI,Q,income,Net Income Common Stockholders,2026-03-31,234671800000.0
+LICI,Q,income,Net Income Common Stockholders,2026-06-30,135842500000.0
+LICI,Q,income,Net Income Common Stockholders,2026-09-30,121147800000.0
+LICI,Q,income,Pretax Income,2025-06-30,109857700000.0
+LICI,Q,income,Pretax Income,2025-12-31,128797400000.0
+LICI,Q,income,Pretax Income,2026-03-31,234566900000.0
+LICI,Q,income,Pretax Income,2026-06-30,136863900000.0
+LICI,Q,income,Pretax Income,2026-09-30,121745600000.0
+LICI,Q,income,Total Revenue,2025-06-30,2250327900000.0
+LICI,Q,income,Total Revenue,2025-12-31,2362025600000.0
+LICI,Q,income,Total Revenue,2026-03-31,2766683900000.0
+LICI,Q,income,Total Revenue,2026-06-30,2398668100000.0
+LICI,Q,income,Total Revenue,2026-09-30,2654910700000.0

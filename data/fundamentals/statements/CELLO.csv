@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+CELLO,A,balance,Cash And Cash Equivalents,2023-03-31,306167000.0
+CELLO,A,balance,Cash And Cash Equivalents,2024-03-31,321780000.0
+CELLO,A,balance,Cash And Cash Equivalents,2025-03-31,516948000.0
+CELLO,A,balance,Cash And Cash Equivalents,2026-03-31,1263763000.0
+CELLO,A,balance,Net Debt,2022-03-31,4162080000.0
+CELLO,A,balance,Net Debt,2023-03-31,2954491000.0
+CELLO,A,balance,Net Debt,2024-03-31,3305646000.0
+CELLO,A,balance,Ordinary Shares Number,2023-03-31,212231034.0
+CELLO,A,balance,Ordinary Shares Number,2024-03-31,212231034.0
+CELLO,A,balance,Ordinary Shares Number,2025-03-31,220885034.0
+CELLO,A,balance,Ordinary Shares Number,2026-03-31,220885034.0
+CELLO,A,balance,Stockholders Equity,2023-03-31,3364495000.0
+CELLO,A,balance,Stockholders Equity,2024-03-31,11492176000.0
+CELLO,A,balance,Stockholders Equity,2025-03-31,24084915000.0
+CELLO,A,balance,Stockholders Equity,2026-03-31,27009486000.0
+CELLO,A,balance,Total Assets,2023-03-31,15516939000.0
+CELLO,A,balance,Total Assets,2024-03-31,19717839000.0
+CELLO,A,balance,Total Assets,2025-03-31,26418172000.0
+CELLO,A,balance,Total Assets,2026-03-31,30031783000.0
+CELLO,A,balance,Total Debt,2023-03-31,3351069000.0
+CELLO,A,balance,Total Debt,2024-03-31,3707121000.0
+CELLO,A,balance,Total Debt,2025-03-31,52896000.0
+CELLO,A,balance,Total Debt,2026-03-31,381135000.0
+CELLO,A,cashflow,Capital Expenditure,2023-03-31,-1142536000.0
+CELLO,A,cashflow,Capital Expenditure,2024-03-31,-2640084000.0
+CELLO,A,cashflow,Capital Expenditure,2025-03-31,-1671814000.0
+CELLO,A,cashflow,Capital Expenditure,2026-03-31,-2193292000.0
+CELLO,A,cashflow,Free Cash Flow,2023-03-31,1130962000.0
+CELLO,A,cashflow,Free Cash Flow,2024-03-31,-328271000.0
+CELLO,A,cashflow,Free Cash Flow,2025-03-31,945453000.0
+CELLO,A,cashflow,Free Cash Flow,2026-03-31,357334000.0
+CELLO,A,cashflow,Operating Cash Flow,2023-03-31,2273498000.0
+CELLO,A,cashflow,Operating Cash Flow,2024-03-31,2311813000.0
+CELLO,A,cashflow,Operating Cash Flow,2025-03-31,2617267000.0
+CELLO,A,cashflow,Operating Cash Flow,2026-03-31,2550626000.0
+CELLO,A,income,Basic EPS,2023-03-31,12.539509
+CELLO,A,income,Basic EPS,2024-03-31,15.6
+CELLO,A,income,Basic EPS,2025-03-31,16.16
+CELLO,A,income,Basic EPS,2026-03-31,14.7
+CELLO,A,income,Diluted EPS,2023-03-31,12.539509
+CELLO,A,income,Diluted EPS,2024-03-31,15.6
+CELLO,A,income,Diluted EPS,2025-03-31,16.16
+CELLO,A,income,Diluted EPS,2026-03-31,14.7
+CELLO,A,income,EBITDA,2023-03-31,4372663000.0
+CELLO,A,income,EBITDA,2024-03-31,5343014000.0
+CELLO,A,income,EBITDA,2025-03-31,5547385000.0
+CELLO,A,income,EBITDA,2026-03-31,5189574000.0
+CELLO,A,income,Interest Expense,2023-03-31,17560000.0
+CELLO,A,income,Interest Expense,2024-03-31,25533000.0
+CELLO,A,income,Interest Expense,2025-03-31,14523000.0
+CELLO,A,income,Interest Expense,2026-03-31,15293000.0
+CELLO,A,income,Net Income,2023-03-31,2661273000.0
+CELLO,A,income,Net Income,2024-03-31,3310626000.0
+CELLO,A,income,Net Income,2025-03-31,3645671000.0
+CELLO,A,income,Net Income,2026-03-31,3315064000.0
+CELLO,A,income,Net Income Common Stockholders,2023-03-31,2661273000.0
+CELLO,A,income,Net Income Common Stockholders,2024-03-31,3310626000.0
+CELLO,A,income,Net Income Common Stockholders,2025-03-31,3645671000.0
+CELLO,A,income,Net Income Common Stockholders,2026-03-31,3315064000.0
+CELLO,A,income,Operating Income,2023-03-31,3860386000.0
+CELLO,A,income,Operating Income,2024-03-31,4529595000.0
+CELLO,A,income,Operating Income,2025-03-31,4487981000.0
+CELLO,A,income,Operating Income,2026-03-31,3944738000.0
+CELLO,A,income,Pretax Income,2023-03-31,3851849000.0
+CELLO,A,income,Pretax Income,2024-03-31,4750021000.0
+CELLO,A,income,Pretax Income,2025-03-31,4912875000.0
+CELLO,A,income,Pretax Income,2026-03-31,4396980000.0
+CELLO,A,income,Total Revenue,2023-03-31,17864814000.0
+CELLO,A,income,Total Revenue,2024-03-31,20002641000.0
+CELLO,A,income,Total Revenue,2025-03-31,21363883000.0
+CELLO,A,income,Total Revenue,2026-03-31,23237079000.0
+CELLO,Q,income,Basic EPS,2025-09-30,4.05
+CELLO,Q,income,Basic EPS,2025-12-31,2.88
+CELLO,Q,income,Basic EPS,2026-03-31,4.0
+CELLO,Q,income,Basic EPS,2026-06-30,3.25
+CELLO,Q,income,Basic EPS,2026-09-30,3.63
+CELLO,Q,income,Diluted EPS,2025-09-30,4.05
+CELLO,Q,income,Diluted EPS,2025-12-31,2.88
+CELLO,Q,income,Diluted EPS,2026-03-31,4.0
+CELLO,Q,income,Diluted EPS,2026-06-30,3.25
+CELLO,Q,income,Diluted EPS,2026-09-30,3.63
+CELLO,Q,income,EBITDA,2025-09-30,1412594000.0
+CELLO,Q,income,EBITDA,2025-12-31,1148437000.0
+CELLO,Q,income,EBITDA,2026-03-31,1365556000.0
+CELLO,Q,income,EBITDA,2026-06-30,1171157000.0
+CELLO,Q,income,EBITDA,2026-09-30,1350401000.0
+CELLO,Q,income,Interest Expense,2025-09-30,4803000.0
+CELLO,Q,income,Interest Expense,2025-12-31,5551000.0
+CELLO,Q,income,Interest Expense,2026-03-31,3782000.0
+CELLO,Q,income,Interest Expense,2026-06-30,5720000.0
+CELLO,Q,income,Interest Expense,2026-09-30,5255000.0
+CELLO,Q,income,Net Income,2025-09-30,913275000.0
+CELLO,Q,income,Net Income,2025-12-31,636387000.0
+CELLO,Q,income,Net Income,2026-03-31,901225000.0
+CELLO,Q,income,Net Income,2026-06-30,734022000.0
+CELLO,Q,income,Net Income,2026-09-30,819119000.0
+CELLO,Q,income,Net Income Common Stockholders,2025-09-30,913275000.0
+CELLO,Q,income,Net Income Common Stockholders,2025-12-31,636387000.0
+CELLO,Q,income,Net Income Common Stockholders,2026-03-31,901225000.0
+CELLO,Q,income,Net Income Common Stockholders,2026-06-30,734022000.0
+CELLO,Q,income,Net Income Common Stockholders,2026-09-30,819119000.0
+CELLO,Q,income,Operating Income,2025-09-30,1081568000.0
+CELLO,Q,income,Operating Income,2025-12-31,857896000.0
+CELLO,Q,income,Operating Income,2026-03-31,1092504000.0
+CELLO,Q,income,Operating Income,2026-06-30,771720000.0
+CELLO,Q,income,Operating Income,2026-09-30,977036000.0
+CELLO,Q,income,Pretax Income,2025-09-30,1212763000.0
+CELLO,Q,income,Pretax Income,2025-12-31,943868000.0
+CELLO,Q,income,Pretax Income,2026-03-31,1164887000.0
+CELLO,Q,income,Pretax Income,2026-06-30,946942000.0
+CELLO,Q,income,Pretax Income,2026-09-30,1104105000.0
+CELLO,Q,income,Total Revenue,2025-09-30,5874411000.0
+CELLO,Q,income,Total Revenue,2025-12-31,5536645000.0
+CELLO,Q,income,Total Revenue,2026-03-31,6535922000.0
+CELLO,Q,income,Total Revenue,2026-06-30,5267157000.0
+CELLO,Q,income,Total Revenue,2026-09-30,6331982000.0

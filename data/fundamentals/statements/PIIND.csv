@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+PIIND,A,balance,Cash And Cash Equivalents,2023-03-31,8727000000.0
+PIIND,A,balance,Cash And Cash Equivalents,2024-03-31,8865000000.0
+PIIND,A,balance,Cash And Cash Equivalents,2025-03-31,5923000000.0
+PIIND,A,balance,Cash And Cash Equivalents,2026-03-31,2833000000.0
+PIIND,A,balance,Ordinary Shares Number,2023-03-31,151675526.0
+PIIND,A,balance,Ordinary Shares Number,2024-03-31,151692454.0
+PIIND,A,balance,Ordinary Shares Number,2025-03-31,151703229.0
+PIIND,A,balance,Ordinary Shares Number,2026-03-31,151706142.0
+PIIND,A,balance,Stockholders Equity,2023-03-31,71985000000.0
+PIIND,A,balance,Stockholders Equity,2024-03-31,87310000000.0
+PIIND,A,balance,Stockholders Equity,2025-03-31,101570000000.0
+PIIND,A,balance,Stockholders Equity,2026-03-31,112305000000.0
+PIIND,A,balance,Total Assets,2023-03-31,84797000000.0
+PIIND,A,balance,Total Assets,2024-03-31,107640000000.0
+PIIND,A,balance,Total Assets,2025-03-31,122767000000.0
+PIIND,A,balance,Total Assets,2026-03-31,134437000000.0
+PIIND,A,balance,Total Debt,2023-03-31,465000000.0
+PIIND,A,balance,Total Debt,2024-03-31,1906000000.0
+PIIND,A,balance,Total Debt,2025-03-31,1841000000.0
+PIIND,A,balance,Total Debt,2026-03-31,3423000000.0
+PIIND,A,cashflow,Capital Expenditure,2023-03-31,-3263000000.0
+PIIND,A,cashflow,Capital Expenditure,2024-03-31,-6204000000.0
+PIIND,A,cashflow,Capital Expenditure,2025-03-31,-8500000000.0
+PIIND,A,cashflow,Capital Expenditure,2026-03-31,-11178000000.0
+PIIND,A,cashflow,Free Cash Flow,2023-03-31,11751000000.0
+PIIND,A,cashflow,Free Cash Flow,2024-03-31,14155000000.0
+PIIND,A,cashflow,Free Cash Flow,2025-03-31,5629000000.0
+PIIND,A,cashflow,Free Cash Flow,2026-03-31,-6438000000.0
+PIIND,A,cashflow,Operating Cash Flow,2023-03-31,15014000000.0
+PIIND,A,cashflow,Operating Cash Flow,2024-03-31,20359000000.0
+PIIND,A,cashflow,Operating Cash Flow,2025-03-31,14129000000.0
+PIIND,A,cashflow,Operating Cash Flow,2026-03-31,4740000000.0
+PIIND,A,income,Basic EPS,2023-03-31,81.06
+PIIND,A,income,Basic EPS,2024-03-31,110.85
+PIIND,A,income,Basic EPS,2025-03-31,109.44
+PIIND,A,income,Basic EPS,2026-03-31,87.06
+PIIND,A,income,Diluted EPS,2023-03-31,81.04
+PIIND,A,income,Diluted EPS,2024-03-31,110.83
+PIIND,A,income,Diluted EPS,2025-03-31,109.42
+PIIND,A,income,Diluted EPS,2026-03-31,87.06
+PIIND,A,income,EBITDA,2023-03-31,17079000000.0
+PIIND,A,income,EBITDA,2024-03-31,22329000000.0
+PIIND,A,income,EBITDA,2025-03-31,25275000000.0
+PIIND,A,income,EBITDA,2026-03-31,21191000000.0
+PIIND,A,income,Interest Expense,2023-03-31,371000000.0
+PIIND,A,income,Interest Expense,2024-03-31,300000000.0
+PIIND,A,income,Interest Expense,2025-03-31,330000000.0
+PIIND,A,income,Interest Expense,2026-03-31,164000000.0
+PIIND,A,income,Net Income,2023-03-31,12295000000.0
+PIIND,A,income,Net Income,2024-03-31,16815000000.0
+PIIND,A,income,Net Income,2025-03-31,16602000000.0
+PIIND,A,income,Net Income,2026-03-31,13208000000.0
+PIIND,A,income,Net Income Common Stockholders,2023-03-31,12295000000.0
+PIIND,A,income,Net Income Common Stockholders,2024-03-31,16815000000.0
+PIIND,A,income,Net Income Common Stockholders,2025-03-31,16602000000.0
+PIIND,A,income,Net Income Common Stockholders,2026-03-31,13208000000.0
+PIIND,A,income,Operating Income,2023-03-31,13312000000.0
+PIIND,A,income,Operating Income,2024-03-31,17406000000.0
+PIIND,A,income,Operating Income,2025-03-31,19348000000.0
+PIIND,A,income,Operating Income,2026-03-31,13618000000.0
+PIIND,A,income,Pretax Income,2023-03-31,14443000000.0
+PIIND,A,income,Pretax Income,2024-03-31,18947000000.0
+PIIND,A,income,Pretax Income,2025-03-31,21420000000.0
+PIIND,A,income,Pretax Income,2026-03-31,16961000000.0
+PIIND,A,income,Total Revenue,2023-03-31,64582000000.0
+PIIND,A,income,Total Revenue,2024-03-31,76116000000.0
+PIIND,A,income,Total Revenue,2025-03-31,79034000000.0
+PIIND,A,income,Total Revenue,2026-03-31,66699000000.0
+PIIND,Q,income,Basic EPS,2025-09-30,26.98
+PIIND,Q,income,Basic EPS,2025-12-31,20.52
+PIIND,Q,income,Basic EPS,2026-03-31,13.2
+PIIND,Q,income,Basic EPS,2026-06-30,16.1
+PIIND,Q,income,Basic EPS,2026-09-30,8.05
+PIIND,Q,income,Diluted EPS,2025-09-30,26.98
+PIIND,Q,income,Diluted EPS,2025-12-31,20.52
+PIIND,Q,income,Diluted EPS,2026-03-31,13.2
+PIIND,Q,income,Diluted EPS,2026-06-30,16.1
+PIIND,Q,income,Diluted EPS,2026-09-30,8.05
+PIIND,Q,income,EBITDA,2025-09-30,6259000000.0
+PIIND,Q,income,EBITDA,2025-12-31,4745000000.0
+PIIND,Q,income,EBITDA,2026-03-31,4109000000.0
+PIIND,Q,income,EBITDA,2026-06-30,4334000000.0
+PIIND,Q,income,EBITDA,2026-09-30,2973000000.0
+PIIND,Q,income,Interest Expense,2025-09-30,26000000.0
+PIIND,Q,income,Interest Expense,2025-12-31,62000000.0
+PIIND,Q,income,Interest Expense,2026-03-31,37000000.0
+PIIND,Q,income,Interest Expense,2026-06-30,79000000.0
+PIIND,Q,income,Interest Expense,2026-09-30,84000000.0
+PIIND,Q,income,Net Income,2025-09-30,4093000000.0
+PIIND,Q,income,Net Income,2025-12-31,3113000000.0
+PIIND,Q,income,Net Income,2026-03-31,2002000000.0
+PIIND,Q,income,Net Income,2026-06-30,2442000000.0
+PIIND,Q,income,Net Income,2026-09-30,1222000000.0
+PIIND,Q,income,Net Income Common Stockholders,2025-09-30,4093000000.0
+PIIND,Q,income,Net Income Common Stockholders,2025-12-31,3113000000.0
+PIIND,Q,income,Net Income Common Stockholders,2026-03-31,2002000000.0
+PIIND,Q,income,Net Income Common Stockholders,2026-06-30,2442000000.0
+PIIND,Q,income,Net Income Common Stockholders,2026-09-30,1222000000.0
+PIIND,Q,income,Operating Income,2025-09-30,4506000000.0
+PIIND,Q,income,Operating Income,2025-12-31,2054000000.0
+PIIND,Q,income,Operating Income,2026-03-31,2385000000.0
+PIIND,Q,income,Operating Income,2026-06-30,2689000000.0
+PIIND,Q,income,Operating Income,2026-09-30,1342000000.0
+PIIND,Q,income,Pretax Income,2025-09-30,5253000000.0
+PIIND,Q,income,Pretax Income,2025-12-31,3629000000.0
+PIIND,Q,income,Pretax Income,2026-03-31,3005000000.0
+PIIND,Q,income,Pretax Income,2026-06-30,3218000000.0
+PIIND,Q,income,Pretax Income,2026-09-30,1840000000.0
+PIIND,Q,income,Total Revenue,2025-09-30,18723000000.0
+PIIND,Q,income,Total Revenue,2025-12-31,13757000000.0
+PIIND,Q,income,Total Revenue,2026-03-31,15652000000.0
+PIIND,Q,income,Total Revenue,2026-06-30,17023000000.0
+PIIND,Q,income,Total Revenue,2026-09-30,17018000000.0

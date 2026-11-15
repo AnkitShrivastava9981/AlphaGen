@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+RADICO,A,balance,Cash And Cash Equivalents,2023-03-31,1220719000.0
+RADICO,A,balance,Cash And Cash Equivalents,2024-03-31,862477000.0
+RADICO,A,balance,Cash And Cash Equivalents,2025-03-31,401693000.0
+RADICO,A,balance,Cash And Cash Equivalents,2026-03-31,702582000.0
+RADICO,A,balance,Net Debt,2023-03-31,5746865000.0
+RADICO,A,balance,Net Debt,2024-03-31,8631079000.0
+RADICO,A,balance,Net Debt,2025-03-31,9426411000.0
+RADICO,A,balance,Net Debt,2026-03-31,5619315000.0
+RADICO,A,balance,Ordinary Shares Number,2023-03-31,133673765.0
+RADICO,A,balance,Ordinary Shares Number,2024-03-31,133715325.0
+RADICO,A,balance,Ordinary Shares Number,2025-03-31,133807500.0
+RADICO,A,balance,Ordinary Shares Number,2026-03-31,133897933.0
+RADICO,A,balance,Stockholders Equity,2023-03-31,22078953000.0
+RADICO,A,balance,Stockholders Equity,2024-03-31,24396183000.0
+RADICO,A,balance,Stockholders Equity,2025-03-31,27537100000.0
+RADICO,A,balance,Stockholders Equity,2026-03-31,33157316000.0
+RADICO,A,balance,Total Assets,2023-03-31,37190875000.0
+RADICO,A,balance,Total Assets,2024-03-31,40949834000.0
+RADICO,A,balance,Total Assets,2025-03-31,46389561000.0
+RADICO,A,balance,Total Assets,2026-03-31,49715338000.0
+RADICO,A,balance,Total Debt,2023-03-31,7536362000.0
+RADICO,A,balance,Total Debt,2024-03-31,10306193000.0
+RADICO,A,balance,Total Debt,2025-03-31,11025691000.0
+RADICO,A,balance,Total Debt,2026-03-31,7988163000.0
+RADICO,A,cashflow,Capital Expenditure,2023-03-31,-7336749000.0
+RADICO,A,cashflow,Capital Expenditure,2024-03-31,-2392216000.0
+RADICO,A,cashflow,Capital Expenditure,2025-03-31,-1809472000.0
+RADICO,A,cashflow,Capital Expenditure,2026-03-31,-2445914000.0
+RADICO,A,cashflow,Free Cash Flow,2023-03-31,-4950293000.0
+RADICO,A,cashflow,Free Cash Flow,2024-03-31,-731487000.0
+RADICO,A,cashflow,Free Cash Flow,2025-03-31,1819139000.0
+RADICO,A,cashflow,Free Cash Flow,2026-03-31,4980439000.0
+RADICO,A,cashflow,Operating Cash Flow,2023-03-31,2386456000.0
+RADICO,A,cashflow,Operating Cash Flow,2024-03-31,1660729000.0
+RADICO,A,cashflow,Operating Cash Flow,2025-03-31,3628611000.0
+RADICO,A,cashflow,Operating Cash Flow,2026-03-31,7426353000.0
+RADICO,A,income,Basic EPS,2023-03-31,16.48
+RADICO,A,income,Basic EPS,2024-03-31,19.61
+RADICO,A,income,Basic EPS,2025-03-31,25.84
+RADICO,A,income,Basic EPS,2026-03-31,45.16
+RADICO,A,income,Diluted EPS,2023-03-31,16.48
+RADICO,A,income,Diluted EPS,2024-03-31,19.61
+RADICO,A,income,Diluted EPS,2025-03-31,25.82
+RADICO,A,income,Diluted EPS,2026-03-31,45.12
+RADICO,A,income,EBITDA,2023-03-31,3829910000.0
+RADICO,A,income,EBITDA,2024-03-31,5209821000.0
+RADICO,A,income,EBITDA,2025-03-31,6781445000.0
+RADICO,A,income,EBITDA,2026-03-31,10218693000.0
+RADICO,A,income,Interest Expense,2023-03-31,213741000.0
+RADICO,A,income,Interest Expense,2024-03-31,587539000.0
+RADICO,A,income,Interest Expense,2025-03-31,729641000.0
+RADICO,A,income,Interest Expense,2026-03-31,636121000.0
+RADICO,A,income,Net Income,2023-03-31,2203513000.0
+RADICO,A,income,Net Income,2024-03-31,2621746000.0
+RADICO,A,income,Net Income,2025-03-31,3456113000.0
+RADICO,A,income,Net Income,2026-03-31,6044786000.0
+RADICO,A,income,Net Income Common Stockholders,2023-03-31,2203513000.0
+RADICO,A,income,Net Income Common Stockholders,2024-03-31,2621746000.0
+RADICO,A,income,Net Income Common Stockholders,2025-03-31,3456113000.0
+RADICO,A,income,Net Income Common Stockholders,2026-03-31,6044786000.0
+RADICO,A,income,Operating Income,2023-03-31,2831408000.0
+RADICO,A,income,Operating Income,2024-03-31,3946050000.0
+RADICO,A,income,Operating Income,2025-03-31,5300539000.0
+RADICO,A,income,Operating Income,2026-03-31,8560949000.0
+RADICO,A,income,Pretax Income,2023-03-31,2907167000.0
+RADICO,A,income,Pretax Income,2024-03-31,3484628000.0
+RADICO,A,income,Pretax Income,2025-03-31,4650431000.0
+RADICO,A,income,Pretax Income,2026-03-31,8052339000.0
+RADICO,A,income,Total Revenue,2023-03-31,31044181000.0
+RADICO,A,income,Total Revenue,2024-03-31,40982107000.0
+RADICO,A,income,Total Revenue,2025-03-31,48095741000.0
+RADICO,A,income,Total Revenue,2026-03-31,60036274000.0
+RADICO,Q,income,Basic EPS,2025-06-30,9.75
+RADICO,Q,income,Basic EPS,2025-12-31,11.57
+RADICO,Q,income,Basic EPS,2026-03-31,13.41
+RADICO,Q,income,Basic EPS,2026-06-30,17.15
+RADICO,Q,income,Basic EPS,2026-09-30,17.34
+RADICO,Q,income,Diluted EPS,2025-06-30,9.74
+RADICO,Q,income,Diluted EPS,2025-12-31,11.56
+RADICO,Q,income,Diluted EPS,2026-03-31,13.41
+RADICO,Q,income,Diluted EPS,2026-06-30,17.14
+RADICO,Q,income,Diluted EPS,2026-09-30,17.33
+RADICO,Q,income,EBITDA,2025-06-30,2269998000.0
+RADICO,Q,income,EBITDA,2025-12-31,2600733000.0
+RADICO,Q,income,EBITDA,2026-03-31,2946146000.0
+RADICO,Q,income,EBITDA,2026-06-30,3578721000.0
+RADICO,Q,income,EBITDA,2026-09-30,3637789000.0
+RADICO,Q,income,Interest Expense,2025-06-30,159335000.0
+RADICO,Q,income,Interest Expense,2025-12-31,164209000.0
+RADICO,Q,income,Interest Expense,2026-03-31,153983000.0
+RADICO,Q,income,Interest Expense,2026-06-30,116525000.0
+RADICO,Q,income,Interest Expense,2026-09-30,114169000.0
+RADICO,Q,income,Net Income,2025-06-30,1305214000.0
+RADICO,Q,income,Net Income,2025-12-31,1549330000.0
+RADICO,Q,income,Net Income,2026-03-31,1794643000.0
+RADICO,Q,income,Net Income,2026-06-30,2296014000.0
+RADICO,Q,income,Net Income,2026-09-30,2323469000.0
+RADICO,Q,income,Net Income Common Stockholders,2025-06-30,1305214000.0
+RADICO,Q,income,Net Income Common Stockholders,2025-12-31,1549330000.0
+RADICO,Q,income,Net Income Common Stockholders,2026-03-31,1794643000.0
+RADICO,Q,income,Net Income Common Stockholders,2026-06-30,2296014000.0
+RADICO,Q,income,Net Income Common Stockholders,2026-09-30,2323469000.0
+RADICO,Q,income,Operating Income,2025-06-30,1959113000.0
+RADICO,Q,income,Operating Income,2025-12-31,2299918000.0
+RADICO,Q,income,Operating Income,2026-03-31,2423029000.0
+RADICO,Q,income,Operating Income,2026-06-30,3076985000.0
+RADICO,Q,income,Operating Income,2026-09-30,3140862000.0
+RADICO,Q,income,Pretax Income,2025-06-30,1748070000.0
+RADICO,Q,income,Pretax Income,2025-12-31,2064630000.0
+RADICO,Q,income,Pretax Income,2026-03-31,2370234000.0
+RADICO,Q,income,Pretax Income,2026-06-30,3049849000.0
+RADICO,Q,income,Pretax Income,2026-09-30,3091868000.0
+RADICO,Q,income,Total Revenue,2025-06-30,15060406000.0
+RADICO,Q,income,Total Revenue,2025-12-31,15467455000.0
+RADICO,Q,income,Total Revenue,2026-03-31,15037127000.0
+RADICO,Q,income,Total Revenue,2026-06-30,16836905000.0
+RADICO,Q,income,Total Revenue,2026-09-30,17451037000.0

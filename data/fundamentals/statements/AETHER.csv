@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+AETHER,A,balance,Cash And Cash Equivalents,2023-03-31,709080000.0
+AETHER,A,balance,Cash And Cash Equivalents,2024-03-31,53660000.0
+AETHER,A,balance,Cash And Cash Equivalents,2025-03-31,173710000.0
+AETHER,A,balance,Cash And Cash Equivalents,2026-03-31,56630000.0
+AETHER,A,balance,Net Debt,2022-03-31,2817580000.0
+AETHER,A,balance,Net Debt,2024-03-31,1633330000.0
+AETHER,A,balance,Net Debt,2025-03-31,1651580000.0
+AETHER,A,balance,Net Debt,2026-03-31,4359990000.0
+AETHER,A,balance,Ordinary Shares Number,2023-03-31,124510721.0
+AETHER,A,balance,Ordinary Shares Number,2024-03-31,132550273.0
+AETHER,A,balance,Ordinary Shares Number,2025-03-31,132590241.0
+AETHER,A,balance,Ordinary Shares Number,2026-03-31,132679824.0
+AETHER,A,balance,Stockholders Equity,2023-03-31,12446060000.0
+AETHER,A,balance,Stockholders Equity,2024-03-31,20633200000.0
+AETHER,A,balance,Stockholders Equity,2025-03-31,22258850000.0
+AETHER,A,balance,Stockholders Equity,2026-03-31,24558880000.0
+AETHER,A,balance,Total Assets,2023-03-31,13799160000.0
+AETHER,A,balance,Total Assets,2024-03-31,24007440000.0
+AETHER,A,balance,Total Assets,2025-03-31,26442200000.0
+AETHER,A,balance,Total Assets,2026-03-31,32014260000.0
+AETHER,A,balance,Total Debt,2023-03-31,157150000.0
+AETHER,A,balance,Total Debt,2024-03-31,1830820000.0
+AETHER,A,balance,Total Debt,2025-03-31,1998700000.0
+AETHER,A,balance,Total Debt,2026-03-31,4579370000.0
+AETHER,A,cashflow,Capital Expenditure,2023-03-31,-4014200000.0
+AETHER,A,cashflow,Capital Expenditure,2024-03-31,-4277440000.0
+AETHER,A,cashflow,Capital Expenditure,2025-03-31,-4523080000.0
+AETHER,A,cashflow,Capital Expenditure,2026-03-31,-6233160000.0
+AETHER,A,cashflow,Free Cash Flow,2023-03-31,-4079790000.0
+AETHER,A,cashflow,Free Cash Flow,2024-03-31,-4442020000.0
+AETHER,A,cashflow,Free Cash Flow,2025-03-31,-3522870000.0
+AETHER,A,cashflow,Free Cash Flow,2026-03-31,-4809340000.0
+AETHER,A,cashflow,Operating Cash Flow,2023-03-31,-65590000.0
+AETHER,A,cashflow,Operating Cash Flow,2024-03-31,-164580000.0
+AETHER,A,cashflow,Operating Cash Flow,2025-03-31,1000210000.0
+AETHER,A,cashflow,Operating Cash Flow,2026-03-31,1423820000.0
+AETHER,A,income,Basic EPS,2023-03-31,10.47
+AETHER,A,income,Basic EPS,2024-03-31,6.31
+AETHER,A,income,Basic EPS,2025-03-31,11.95
+AETHER,A,income,Basic EPS,2026-03-31,16.55
+AETHER,A,income,Diluted EPS,2023-03-31,10.47
+AETHER,A,income,Diluted EPS,2024-03-31,6.31
+AETHER,A,income,Diluted EPS,2025-03-31,11.94
+AETHER,A,income,Diluted EPS,2026-03-31,16.54
+AETHER,A,income,EBITDA,2023-03-31,2019560000.0
+AETHER,A,income,EBITDA,2024-03-31,1572630000.0
+AETHER,A,income,EBITDA,2025-03-31,2705940000.0
+AETHER,A,income,EBITDA,2026-03-31,3748170000.0
+AETHER,A,income,Interest Expense,2023-03-31,42350000.0
+AETHER,A,income,Interest Expense,2024-03-31,80860000.0
+AETHER,A,income,Interest Expense,2025-03-31,125960000.0
+AETHER,A,income,Interest Expense,2026-03-31,173170000.0
+AETHER,A,income,Net Income,2023-03-31,1304150000.0
+AETHER,A,income,Net Income,2024-03-31,824900000.0
+AETHER,A,income,Net Income,2025-03-31,1584180000.0
+AETHER,A,income,Net Income,2026-03-31,2194630000.0
+AETHER,A,income,Net Income Common Stockholders,2023-03-31,1304150000.0
+AETHER,A,income,Net Income Common Stockholders,2024-03-31,824900000.0
+AETHER,A,income,Net Income Common Stockholders,2025-03-31,1584180000.0
+AETHER,A,income,Net Income Common Stockholders,2026-03-31,2194630000.0
+AETHER,A,income,Operating Income,2023-03-31,1630030000.0
+AETHER,A,income,Operating Income,2024-03-31,925820000.0
+AETHER,A,income,Operating Income,2025-03-31,1980250000.0
+AETHER,A,income,Operating Income,2026-03-31,2713960000.0
+AETHER,A,income,Pretax Income,2023-03-31,1744760000.0
+AETHER,A,income,Pretax Income,2024-03-31,1095120000.0
+AETHER,A,income,Pretax Income,2025-03-31,2129840000.0
+AETHER,A,income,Pretax Income,2026-03-31,2910850000.0
+AETHER,A,income,Total Revenue,2023-03-31,6510740000.0
+AETHER,A,income,Total Revenue,2024-03-31,5981730000.0
+AETHER,A,income,Total Revenue,2025-03-31,8386900000.0
+AETHER,A,income,Total Revenue,2026-03-31,11318140000.0
+AETHER,Q,income,Basic EPS,2025-09-30,4.07
+AETHER,Q,income,Basic EPS,2025-12-31,4.86
+AETHER,Q,income,Basic EPS,2026-03-31,4.07
+AETHER,Q,income,Basic EPS,2026-06-30,4.77
+AETHER,Q,income,Basic EPS,2026-09-30,5.12
+AETHER,Q,income,Diluted EPS,2025-09-30,4.07
+AETHER,Q,income,Diluted EPS,2025-12-31,4.86
+AETHER,Q,income,Diluted EPS,2026-03-31,4.07
+AETHER,Q,income,Diluted EPS,2026-06-30,4.76
+AETHER,Q,income,Diluted EPS,2026-09-30,5.11
+AETHER,Q,income,EBITDA,2025-09-30,940210000.0
+AETHER,Q,income,EBITDA,2025-12-31,1083660000.0
+AETHER,Q,income,EBITDA,2026-03-31,925700000.0
+AETHER,Q,income,EBITDA,2026-06-30,1104530000.0
+AETHER,Q,income,EBITDA,2026-09-30,1155200000.0
+AETHER,Q,income,Interest Expense,2025-09-30,32280000.0
+AETHER,Q,income,Interest Expense,2025-12-31,39210000.0
+AETHER,Q,income,Interest Expense,2026-03-31,61370000.0
+AETHER,Q,income,Interest Expense,2026-06-30,55820000.0
+AETHER,Q,income,Interest Expense,2026-09-30,53110000.0
+AETHER,Q,income,Net Income,2025-09-30,539560000.0
+AETHER,Q,income,Net Income,2025-12-31,644790000.0
+AETHER,Q,income,Net Income,2026-03-31,540070000.0
+AETHER,Q,income,Net Income,2026-06-30,627490000.0
+AETHER,Q,income,Net Income,2026-09-30,679960000.0
+AETHER,Q,income,Net Income Common Stockholders,2025-09-30,539560000.0
+AETHER,Q,income,Net Income Common Stockholders,2025-12-31,644790000.0
+AETHER,Q,income,Net Income Common Stockholders,2026-03-31,540070000.0
+AETHER,Q,income,Net Income Common Stockholders,2026-06-30,627490000.0
+AETHER,Q,income,Net Income Common Stockholders,2026-09-30,679960000.0
+AETHER,Q,income,Operating Income,2025-09-30,714840000.0
+AETHER,Q,income,Operating Income,2025-12-31,933250000.0
+AETHER,Q,income,Operating Income,2026-03-31,642610000.0
+AETHER,Q,income,Operating Income,2026-06-30,813460000.0
+AETHER,Q,income,Operating Income,2026-09-30,887530000.0
+AETHER,Q,income,Pretax Income,2025-09-30,742680000.0
+AETHER,Q,income,Pretax Income,2025-12-31,871740000.0
+AETHER,Q,income,Pretax Income,2026-03-31,680160000.0
+AETHER,Q,income,Pretax Income,2026-06-30,834530000.0
+AETHER,Q,income,Pretax Income,2026-09-30,885170000.0
+AETHER,Q,income,Total Revenue,2025-09-30,2801000000.0
+AETHER,Q,income,Total Revenue,2025-12-31,3171210000.0
+AETHER,Q,income,Total Revenue,2026-03-31,3051220000.0
+AETHER,Q,income,Total Revenue,2026-06-30,3265570000.0
+AETHER,Q,income,Total Revenue,2026-09-30,3472190000.0

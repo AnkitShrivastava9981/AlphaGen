@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+QUESS,A,balance,Cash And Cash Equivalents,2023-03-31,4375740000.0
+QUESS,A,balance,Cash And Cash Equivalents,2024-03-31,5201250000.0
+QUESS,A,balance,Cash And Cash Equivalents,2025-03-31,2491180000.0
+QUESS,A,balance,Cash And Cash Equivalents,2026-03-31,1781280000.0
+QUESS,A,balance,Net Debt,2022-03-31,935070000.0
+QUESS,A,balance,Net Debt,2023-03-31,935070000.0
+QUESS,A,balance,Ordinary Shares Number,2023-03-31,148229488.0
+QUESS,A,balance,Ordinary Shares Number,2024-03-31,148509384.0
+QUESS,A,balance,Ordinary Shares Number,2025-03-31,148918541.0
+QUESS,A,balance,Ordinary Shares Number,2026-03-31,149331454.0
+QUESS,A,balance,Stockholders Equity,2023-03-31,25687510000.0
+QUESS,A,balance,Stockholders Equity,2024-03-31,27989930000.0
+QUESS,A,balance,Stockholders Equity,2025-03-31,10848510000.0
+QUESS,A,balance,Stockholders Equity,2026-03-31,11664640000.0
+QUESS,A,balance,Total Assets,2023-03-31,61187710000.0
+QUESS,A,balance,Total Assets,2024-03-31,62550430000.0
+QUESS,A,balance,Total Assets,2025-03-31,28118280000.0
+QUESS,A,balance,Total Assets,2026-03-31,30391120000.0
+QUESS,A,balance,Total Debt,2023-03-31,10113340000.0
+QUESS,A,balance,Total Debt,2024-03-31,8381140000.0
+QUESS,A,balance,Total Debt,2025-03-31,1128860000.0
+QUESS,A,balance,Total Debt,2026-03-31,1244830000.0
+QUESS,A,cashflow,Capital Expenditure,2023-03-31,-1040130000.0
+QUESS,A,cashflow,Capital Expenditure,2024-03-31,-1033000000.0
+QUESS,A,cashflow,Capital Expenditure,2025-03-31,-17010000.0
+QUESS,A,cashflow,Capital Expenditure,2026-03-31,-86590000.0
+QUESS,A,cashflow,Free Cash Flow,2023-03-31,3622440000.0
+QUESS,A,cashflow,Free Cash Flow,2024-03-31,4259720000.0
+QUESS,A,cashflow,Free Cash Flow,2025-03-31,3787760000.0
+QUESS,A,cashflow,Free Cash Flow,2026-03-31,2214010000.0
+QUESS,A,cashflow,Operating Cash Flow,2023-03-31,4662570000.0
+QUESS,A,cashflow,Operating Cash Flow,2024-03-31,5292720000.0
+QUESS,A,cashflow,Operating Cash Flow,2025-03-31,3804770000.0
+QUESS,A,cashflow,Operating Cash Flow,2026-03-31,2300600000.0
+QUESS,A,income,Basic EPS,2023-03-31,15.16
+QUESS,A,income,Basic EPS,2024-03-31,18.72
+QUESS,A,income,Basic EPS,2025-03-31,3.08
+QUESS,A,income,Basic EPS,2026-03-31,14.87
+QUESS,A,income,Diluted EPS,2023-03-31,15.04
+QUESS,A,income,Diluted EPS,2024-03-31,18.61
+QUESS,A,income,Diluted EPS,2025-03-31,3.07
+QUESS,A,income,Diluted EPS,2026-03-31,14.85
+QUESS,A,income,EBITDA,2023-03-31,6638850000.0
+QUESS,A,income,EBITDA,2024-03-31,4707630000.0
+QUESS,A,income,EBITDA,2025-03-31,1210810000.0
+QUESS,A,income,EBITDA,2026-03-31,3201310000.0
+QUESS,A,income,Interest Expense,2023-03-31,1049090000.0
+QUESS,A,income,Interest Expense,2024-03-31,546460000.0
+QUESS,A,income,Interest Expense,2025-03-31,380740000.0
+QUESS,A,income,Interest Expense,2026-03-31,484930000.0
+QUESS,A,income,Net Income,2023-03-31,2244170000.0
+QUESS,A,income,Net Income,2024-03-31,2778550000.0
+QUESS,A,income,Net Income,2025-03-31,458020000.0
+QUESS,A,income,Net Income,2026-03-31,2216230000.0
+QUESS,A,income,Net Income Common Stockholders,2023-03-31,2244170000.0
+QUESS,A,income,Net Income Common Stockholders,2024-03-31,2778550000.0
+QUESS,A,income,Net Income Common Stockholders,2025-03-31,458020000.0
+QUESS,A,income,Net Income Common Stockholders,2026-03-31,2216230000.0
+QUESS,A,income,Operating Income,2023-03-31,3149940000.0
+QUESS,A,income,Operating Income,2024-03-31,1963460000.0
+QUESS,A,income,Operating Income,2025-03-31,2812850000.0
+QUESS,A,income,Operating Income,2026-03-31,2840770000.0
+QUESS,A,income,Pretax Income,2023-03-31,2843640000.0
+QUESS,A,income,Pretax Income,2024-03-31,1329220000.0
+QUESS,A,income,Pretax Income,2025-03-31,417970000.0
+QUESS,A,income,Pretax Income,2026-03-31,2298000000.0
+QUESS,A,income,Total Revenue,2023-03-31,171583870000.0
+QUESS,A,income,Total Revenue,2024-03-31,136950900000.0
+QUESS,A,income,Total Revenue,2025-03-31,149671990000.0
+QUESS,A,income,Total Revenue,2026-03-31,153051870000.0
+QUESS,Q,income,Basic EPS,2025-03-31,-6.42
+QUESS,Q,income,Basic EPS,2025-06-30,3.42
+QUESS,Q,income,Basic EPS,2025-12-31,3.69
+QUESS,Q,income,Basic EPS,2026-03-31,4.3
+QUESS,Q,income,Basic EPS,2026-06-30,5.5
+QUESS,Q,income,Diluted EPS,2025-03-31,-6.42
+QUESS,Q,income,Diluted EPS,2025-06-30,3.41
+QUESS,Q,income,Diluted EPS,2025-12-31,3.68
+QUESS,Q,income,Diluted EPS,2026-03-31,4.29
+QUESS,Q,income,Diluted EPS,2026-06-30,5.45
+QUESS,Q,income,EBITDA,2025-03-31,-796880000.0
+QUESS,Q,income,EBITDA,2025-06-30,726120000.0
+QUESS,Q,income,EBITDA,2025-12-31,743680000.0
+QUESS,Q,income,EBITDA,2026-03-31,931430000.0
+QUESS,Q,income,EBITDA,2026-06-30,1100860000.0
+QUESS,Q,income,Interest Expense,2025-03-31,90500000.0
+QUESS,Q,income,Interest Expense,2025-06-30,98860000.0
+QUESS,Q,income,Interest Expense,2025-12-31,127630000.0
+QUESS,Q,income,Interest Expense,2026-03-31,135170000.0
+QUESS,Q,income,Interest Expense,2026-06-30,143950000.0
+QUESS,Q,income,Net Income,2025-03-31,-954930000.0
+QUESS,Q,income,Net Income,2025-06-30,509090000.0
+QUESS,Q,income,Net Income,2025-12-31,549820000.0
+QUESS,Q,income,Net Income,2026-03-31,641350000.0
+QUESS,Q,income,Net Income,2026-06-30,818990000.0
+QUESS,Q,income,Net Income Common Stockholders,2025-03-31,-954930000.0
+QUESS,Q,income,Net Income Common Stockholders,2025-06-30,509090000.0
+QUESS,Q,income,Net Income Common Stockholders,2025-12-31,549820000.0
+QUESS,Q,income,Net Income Common Stockholders,2026-03-31,641350000.0
+QUESS,Q,income,Net Income Common Stockholders,2026-06-30,818990000.0
+QUESS,Q,income,Operating Income,2025-03-31,571850000.0
+QUESS,Q,income,Operating Income,2025-06-30,592480000.0
+QUESS,Q,income,Operating Income,2025-12-31,691140000.0
+QUESS,Q,income,Operating Income,2026-03-31,757590000.0
+QUESS,Q,income,Operating Income,2026-06-30,747310000.0
+QUESS,Q,income,Pretax Income,2025-03-31,-989120000.0
+QUESS,Q,income,Pretax Income,2025-06-30,522320000.0
+QUESS,Q,income,Pretax Income,2025-12-31,510870000.0
+QUESS,Q,income,Pretax Income,2026-03-31,690180000.0
+QUESS,Q,income,Pretax Income,2026-06-30,858830000.0
+QUESS,Q,income,Total Revenue,2025-03-31,36564210000.0
+QUESS,Q,income,Total Revenue,2025-06-30,36514180000.0
+QUESS,Q,income,Total Revenue,2025-12-31,39297080000.0
+QUESS,Q,income,Total Revenue,2026-03-31,38924530000.0
+QUESS,Q,income,Total Revenue,2026-06-30,41816850000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+BLUEJET,A,balance,Cash And Cash Equivalents,2023-03-31,654380000.0
+BLUEJET,A,balance,Cash And Cash Equivalents,2024-03-31,409540000.0
+BLUEJET,A,balance,Cash And Cash Equivalents,2025-03-31,329790000.0
+BLUEJET,A,balance,Cash And Cash Equivalents,2026-03-31,608570000.0
+BLUEJET,A,balance,Ordinary Shares Number,2023-03-31,173465425.0
+BLUEJET,A,balance,Ordinary Shares Number,2024-03-31,173465425.0
+BLUEJET,A,balance,Ordinary Shares Number,2025-03-31,173465425.0
+BLUEJET,A,balance,Ordinary Shares Number,2026-03-31,173465425.0
+BLUEJET,A,balance,Stockholders Equity,2023-03-31,6814860000.0
+BLUEJET,A,balance,Stockholders Equity,2024-03-31,8452230000.0
+BLUEJET,A,balance,Stockholders Equity,2025-03-31,11331110000.0
+BLUEJET,A,balance,Stockholders Equity,2026-03-31,13599120000.0
+BLUEJET,A,balance,Total Assets,2023-03-31,8620650000.0
+BLUEJET,A,balance,Total Assets,2024-03-31,10588470000.0
+BLUEJET,A,balance,Total Assets,2025-03-31,14175310000.0
+BLUEJET,A,balance,Total Assets,2026-03-31,16411580000.0
+BLUEJET,A,balance,Total Debt,2023-03-31,34400000.0
+BLUEJET,A,balance,Total Debt,2024-03-31,16130000.0
+BLUEJET,A,balance,Total Debt,2025-03-31,199860000.0
+BLUEJET,A,balance,Total Debt,2026-03-31,421840000.0
+BLUEJET,A,cashflow,Capital Expenditure,2023-03-31,-592710000.0
+BLUEJET,A,cashflow,Capital Expenditure,2024-03-31,-1742980000.0
+BLUEJET,A,cashflow,Capital Expenditure,2025-03-31,-798800000.0
+BLUEJET,A,cashflow,Capital Expenditure,2026-03-31,-2194630000.0
+BLUEJET,A,cashflow,Free Cash Flow,2023-03-31,822850000.0
+BLUEJET,A,cashflow,Free Cash Flow,2024-03-31,669590000.0
+BLUEJET,A,cashflow,Free Cash Flow,2025-03-31,-341160000.0
+BLUEJET,A,cashflow,Free Cash Flow,2026-03-31,1146830000.0
+BLUEJET,A,cashflow,Operating Cash Flow,2023-03-31,1415560000.0
+BLUEJET,A,cashflow,Operating Cash Flow,2024-03-31,2412570000.0
+BLUEJET,A,cashflow,Operating Cash Flow,2025-03-31,457640000.0
+BLUEJET,A,cashflow,Operating Cash Flow,2026-03-31,3341460000.0
+BLUEJET,A,income,Basic EPS,2023-03-31,9.225297
+BLUEJET,A,income,Basic EPS,2024-03-31,9.44
+BLUEJET,A,income,Basic EPS,2025-03-31,17.59
+BLUEJET,A,income,Basic EPS,2026-03-31,14.29
+BLUEJET,A,income,Diluted EPS,2023-03-31,9.225297
+BLUEJET,A,income,Diluted EPS,2024-03-31,9.44
+BLUEJET,A,income,Diluted EPS,2025-03-31,17.59
+BLUEJET,A,income,Diluted EPS,2026-03-31,14.29
+BLUEJET,A,income,EBITDA,2023-03-31,2430420000.0
+BLUEJET,A,income,EBITDA,2024-03-31,2483450000.0
+BLUEJET,A,income,EBITDA,2025-03-31,4239840000.0
+BLUEJET,A,income,EBITDA,2026-03-31,3627520000.0
+BLUEJET,A,income,Interest Expense,2023-03-31,13570000.0
+BLUEJET,A,income,Interest Expense,2024-03-31,1590000.0
+BLUEJET,A,income,Interest Expense,2025-03-31,960000.0
+BLUEJET,A,income,Interest Expense,2026-03-31,62380000.0
+BLUEJET,A,income,Net Income,2023-03-31,1600270000.0
+BLUEJET,A,income,Net Income,2024-03-31,1637510000.0
+BLUEJET,A,income,Net Income,2025-03-31,3052030000.0
+BLUEJET,A,income,Net Income,2026-03-31,2478160000.0
+BLUEJET,A,income,Net Income Common Stockholders,2023-03-31,1600270000.0
+BLUEJET,A,income,Net Income Common Stockholders,2024-03-31,1637510000.0
+BLUEJET,A,income,Net Income Common Stockholders,2025-03-31,3052030000.0
+BLUEJET,A,income,Net Income Common Stockholders,2026-03-31,2478160000.0
+BLUEJET,A,income,Operating Income,2023-03-31,1940140000.0
+BLUEJET,A,income,Operating Income,2024-03-31,2025290000.0
+BLUEJET,A,income,Operating Income,2025-03-31,3599410000.0
+BLUEJET,A,income,Operating Income,2026-03-31,2700970000.0
+BLUEJET,A,income,Pretax Income,2023-03-31,2166110000.0
+BLUEJET,A,income,Pretax Income,2024-03-31,2200950000.0
+BLUEJET,A,income,Pretax Income,2025-03-31,4060990000.0
+BLUEJET,A,income,Pretax Income,2026-03-31,3325120000.0
+BLUEJET,A,income,Total Revenue,2023-03-31,7205300000.0
+BLUEJET,A,income,Total Revenue,2024-03-31,7103160000.0
+BLUEJET,A,income,Total Revenue,2025-03-31,10260950000.0
+BLUEJET,A,income,Total Revenue,2026-03-31,9444330000.0
+BLUEJET,Q,income,Basic EPS,2025-06-30,5.26
+BLUEJET,Q,income,Basic EPS,2025-12-31,2.32
+BLUEJET,Q,income,Basic EPS,2026-03-31,3.71
+BLUEJET,Q,income,Basic EPS,2026-06-30,4.51
+BLUEJET,Q,income,Basic EPS,2026-09-30,5.46
+BLUEJET,Q,income,Diluted EPS,2025-06-30,5.26
+BLUEJET,Q,income,Diluted EPS,2025-12-31,2.32
+BLUEJET,Q,income,Diluted EPS,2026-03-31,3.71
+BLUEJET,Q,income,Diluted EPS,2026-06-30,4.51
+BLUEJET,Q,income,Diluted EPS,2026-09-30,5.46
+BLUEJET,Q,income,EBITDA,2025-06-30,1292480000.0
+BLUEJET,Q,income,EBITDA,2025-12-31,600990000.0
+BLUEJET,Q,income,EBITDA,2026-03-31,941870000.0
+BLUEJET,Q,income,EBITDA,2026-06-30,1133120000.0
+BLUEJET,Q,income,EBITDA,2026-09-30,1449580000.0
+BLUEJET,Q,income,Interest Expense,2025-06-30,6900000.0
+BLUEJET,Q,income,Interest Expense,2025-12-31,3390000.0
+BLUEJET,Q,income,Interest Expense,2026-03-31,5830000.0
+BLUEJET,Q,income,Interest Expense,2026-06-30,6600000.0
+BLUEJET,Q,income,Interest Expense,2026-09-30,6410000.0
+BLUEJET,Q,income,Net Income,2025-06-30,911700000.0
+BLUEJET,Q,income,Net Income,2025-12-31,401660000.0
+BLUEJET,Q,income,Net Income,2026-03-31,643440000.0
+BLUEJET,Q,income,Net Income,2026-06-30,782640000.0
+BLUEJET,Q,income,Net Income,2026-09-30,1025170000.0
+BLUEJET,Q,income,Net Income Common Stockholders,2025-06-30,911700000.0
+BLUEJET,Q,income,Net Income Common Stockholders,2025-12-31,401660000.0
+BLUEJET,Q,income,Net Income Common Stockholders,2026-03-31,643440000.0
+BLUEJET,Q,income,Net Income Common Stockholders,2026-06-30,782640000.0
+BLUEJET,Q,income,Net Income Common Stockholders,2026-09-30,1025170000.0
+BLUEJET,Q,income,Operating Income,2025-06-30,1152960000.0
+BLUEJET,Q,income,Operating Income,2025-12-31,409070000.0
+BLUEJET,Q,income,Operating Income,2026-03-31,648120000.0
+BLUEJET,Q,income,Operating Income,2026-06-30,913690000.0
+BLUEJET,Q,income,Operating Income,2026-09-30,1118270000.0
+BLUEJET,Q,income,Pretax Income,2025-06-30,1228600000.0
+BLUEJET,Q,income,Pretax Income,2025-12-31,537770000.0
+BLUEJET,Q,income,Pretax Income,2026-03-31,871490000.0
+BLUEJET,Q,income,Pretax Income,2026-06-30,1059460000.0
+BLUEJET,Q,income,Pretax Income,2026-09-30,1373940000.0
+BLUEJET,Q,income,Total Revenue,2025-06-30,3547580000.0
+BLUEJET,Q,income,Total Revenue,2025-12-31,1924140000.0
+BLUEJET,Q,income,Total Revenue,2026-03-31,2346680000.0
+BLUEJET,Q,income,Total Revenue,2026-06-30,2931130000.0
+BLUEJET,Q,income,Total Revenue,2026-09-30,3757440000.0

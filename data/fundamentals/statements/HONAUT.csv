@@ -1,0 +1,111 @@
+symbol,freq,statement,item,period_end,value
+HONAUT,A,balance,Cash And Cash Equivalents,2023-03-31,4809000000.0
+HONAUT,A,balance,Cash And Cash Equivalents,2024-03-31,28224000000.0
+HONAUT,A,balance,Cash And Cash Equivalents,2025-03-31,31304000000.0
+HONAUT,A,balance,Cash And Cash Equivalents,2026-03-31,5647000000.0
+HONAUT,A,balance,Ordinary Shares Number,2023-03-31,8841523.0
+HONAUT,A,balance,Ordinary Shares Number,2024-03-31,8841523.0
+HONAUT,A,balance,Ordinary Shares Number,2025-03-31,8841523.0
+HONAUT,A,balance,Ordinary Shares Number,2026-03-31,8841523.0
+HONAUT,A,balance,Stockholders Equity,2023-03-31,31885000000.0
+HONAUT,A,balance,Stockholders Equity,2024-03-31,36062000000.0
+HONAUT,A,balance,Stockholders Equity,2025-03-31,40382000000.0
+HONAUT,A,balance,Stockholders Equity,2026-03-31,44627000000.0
+HONAUT,A,balance,Total Assets,2023-03-31,44505000000.0
+HONAUT,A,balance,Total Assets,2024-03-31,48951000000.0
+HONAUT,A,balance,Total Assets,2025-03-31,56046000000.0
+HONAUT,A,balance,Total Assets,2026-03-31,62290000000.0
+HONAUT,A,balance,Total Debt,2023-03-31,363000000.0
+HONAUT,A,balance,Total Debt,2024-03-31,596000000.0
+HONAUT,A,balance,Total Debt,2025-03-31,1009000000.0
+HONAUT,A,balance,Total Debt,2026-03-31,1105000000.0
+HONAUT,A,cashflow,Capital Expenditure,2023-03-31,-281000000.0
+HONAUT,A,cashflow,Capital Expenditure,2024-03-31,-320000000.0
+HONAUT,A,cashflow,Capital Expenditure,2025-03-31,-279000000.0
+HONAUT,A,cashflow,Capital Expenditure,2026-03-31,-330000000.0
+HONAUT,A,cashflow,Free Cash Flow,2023-03-31,3818000000.0
+HONAUT,A,cashflow,Free Cash Flow,2024-03-31,4067000000.0
+HONAUT,A,cashflow,Free Cash Flow,2025-03-31,3984000000.0
+HONAUT,A,cashflow,Free Cash Flow,2026-03-31,4596000000.0
+HONAUT,A,cashflow,Operating Cash Flow,2023-03-31,4099000000.0
+HONAUT,A,cashflow,Operating Cash Flow,2024-03-31,4387000000.0
+HONAUT,A,cashflow,Operating Cash Flow,2025-03-31,4263000000.0
+HONAUT,A,cashflow,Operating Cash Flow,2026-03-31,4926000000.0
+HONAUT,A,income,Basic EPS,2023-03-31,495.4
+HONAUT,A,income,Basic EPS,2024-03-31,567.13
+HONAUT,A,income,Basic EPS,2025-03-31,592.15
+HONAUT,A,income,Basic EPS,2026-03-31,593.81
+HONAUT,A,income,Diluted EPS,2023-03-31,495.4
+HONAUT,A,income,Diluted EPS,2024-03-31,567.13
+HONAUT,A,income,Diluted EPS,2025-03-31,592.15
+HONAUT,A,income,Diluted EPS,2026-03-31,593.81
+HONAUT,A,income,EBITDA,2023-03-31,6472000000.0
+HONAUT,A,income,EBITDA,2024-03-31,7322000000.0
+HONAUT,A,income,EBITDA,2025-03-31,7667000000.0
+HONAUT,A,income,EBITDA,2026-03-31,7722000000.0
+HONAUT,A,income,Interest Expense,2023-03-31,40000000.0
+HONAUT,A,income,Interest Expense,2024-03-31,36000000.0
+HONAUT,A,income,Interest Expense,2025-03-31,67000000.0
+HONAUT,A,income,Interest Expense,2026-03-31,97000000.0
+HONAUT,A,income,Net Income,2023-03-31,4380000000.0
+HONAUT,A,income,Net Income,2024-03-31,5014000000.0
+HONAUT,A,income,Net Income,2025-03-31,5236000000.0
+HONAUT,A,income,Net Income,2026-03-31,5250000000.0
+HONAUT,A,income,Net Income Common Stockholders,2023-03-31,4380000000.0
+HONAUT,A,income,Net Income Common Stockholders,2024-03-31,5014000000.0
+HONAUT,A,income,Net Income Common Stockholders,2025-03-31,5236000000.0
+HONAUT,A,income,Net Income Common Stockholders,2026-03-31,5250000000.0
+HONAUT,A,income,Operating Income,2023-03-31,4872000000.0
+HONAUT,A,income,Operating Income,2024-03-31,5588000000.0
+HONAUT,A,income,Operating Income,2025-03-31,5677000000.0
+HONAUT,A,income,Operating Income,2026-03-31,5891000000.0
+HONAUT,A,income,Pretax Income,2023-03-31,5913000000.0
+HONAUT,A,income,Pretax Income,2024-03-31,6749000000.0
+HONAUT,A,income,Pretax Income,2025-03-31,7056000000.0
+HONAUT,A,income,Pretax Income,2026-03-31,7088000000.0
+HONAUT,A,income,Total Revenue,2023-03-31,34319000000.0
+HONAUT,A,income,Total Revenue,2024-03-31,40548000000.0
+HONAUT,A,income,Total Revenue,2025-03-31,41817000000.0
+HONAUT,A,income,Total Revenue,2026-03-31,46785000000.0
+HONAUT,Q,income,Basic EPS,2026-06-30,170.45
+HONAUT,Q,income,Basic EPS,2026-09-30,151.17
+HONAUT,Q,income,Diluted EPS,2025-06-30,140.95
+HONAUT,Q,income,Diluted EPS,2025-12-31,137.08
+HONAUT,Q,income,Diluted EPS,2026-03-31,180.6
+HONAUT,Q,income,Diluted EPS,2026-06-30,170.45
+HONAUT,Q,income,Diluted EPS,2026-09-30,151.17
+HONAUT,Q,income,EBITDA,2025-06-30,1833000000.0
+HONAUT,Q,income,EBITDA,2025-12-31,1817000000.0
+HONAUT,Q,income,EBITDA,2026-03-31,2314000000.0
+HONAUT,Q,income,EBITDA,2026-06-30,2189000000.0
+HONAUT,Q,income,EBITDA,2026-09-30,1970000000.0
+HONAUT,Q,income,Interest Expense,2025-06-30,19000000.0
+HONAUT,Q,income,Interest Expense,2025-12-31,41000000.0
+HONAUT,Q,income,Interest Expense,2026-03-31,14000000.0
+HONAUT,Q,income,Interest Expense,2026-06-30,23000000.0
+HONAUT,Q,income,Interest Expense,2026-09-30,17000000.0
+HONAUT,Q,income,Net Income,2025-06-30,1246000000.0
+HONAUT,Q,income,Net Income,2025-12-31,1212000000.0
+HONAUT,Q,income,Net Income,2026-03-31,1597000000.0
+HONAUT,Q,income,Net Income,2026-06-30,1507000000.0
+HONAUT,Q,income,Net Income,2026-09-30,1337000000.0
+HONAUT,Q,income,Net Income Common Stockholders,2025-06-30,1246000000.0
+HONAUT,Q,income,Net Income Common Stockholders,2025-12-31,1212000000.0
+HONAUT,Q,income,Net Income Common Stockholders,2026-03-31,1597000000.0
+HONAUT,Q,income,Net Income Common Stockholders,2026-06-30,1507000000.0
+HONAUT,Q,income,Net Income Common Stockholders,2026-09-30,1337000000.0
+HONAUT,Q,income,Operating Income,2025-06-30,1281000000.0
+HONAUT,Q,income,Operating Income,2025-12-31,1349000000.0
+HONAUT,Q,income,Operating Income,2026-03-31,1701000000.0
+HONAUT,Q,income,Operating Income,2026-06-30,1590000000.0
+HONAUT,Q,income,Operating Income,2026-09-30,1405000000.0
+HONAUT,Q,income,Pretax Income,2025-06-30,1680000000.0
+HONAUT,Q,income,Pretax Income,2025-12-31,1649000000.0
+HONAUT,Q,income,Pretax Income,2026-03-31,2153000000.0
+HONAUT,Q,income,Pretax Income,2026-06-30,2031000000.0
+HONAUT,Q,income,Pretax Income,2026-09-30,1808000000.0
+HONAUT,Q,income,Total Revenue,2025-06-30,11831000000.0
+HONAUT,Q,income,Total Revenue,2025-12-31,11687000000.0
+HONAUT,Q,income,Total Revenue,2026-03-31,11807000000.0
+HONAUT,Q,income,Total Revenue,2026-06-30,12044000000.0
+HONAUT,Q,income,Total Revenue,2026-09-30,12239000000.0

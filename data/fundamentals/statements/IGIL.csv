@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+IGIL,A,balance,Cash And Cash Equivalents,2022-12-31,340330000.0
+IGIL,A,balance,Cash And Cash Equivalents,2023-12-31,1914330000.0
+IGIL,A,balance,Cash And Cash Equivalents,2024-12-31,1394880000.0
+IGIL,A,balance,Cash And Cash Equivalents,2025-12-31,983790000.0
+IGIL,A,balance,Ordinary Shares Number,2022-12-31,432159696.0
+IGIL,A,balance,Ordinary Shares Number,2023-12-31,432159696.0
+IGIL,A,balance,Ordinary Shares Number,2024-12-31,432159696.0
+IGIL,A,balance,Ordinary Shares Number,2025-12-31,432159696.0
+IGIL,A,balance,Stockholders Equity,2022-12-31,3390730000.0
+IGIL,A,balance,Stockholders Equity,2023-12-31,-6044100000.0
+IGIL,A,balance,Stockholders Equity,2024-12-31,10627490000.0
+IGIL,A,balance,Stockholders Equity,2025-12-31,14097210000.0
+IGIL,A,balance,Total Assets,2022-12-31,4090340000.0
+IGIL,A,balance,Total Assets,2023-12-31,10309670000.0
+IGIL,A,balance,Total Assets,2024-12-31,15040620000.0
+IGIL,A,balance,Total Assets,2025-12-31,17550840000.0
+IGIL,A,balance,Total Debt,2022-12-31,267050000.0
+IGIL,A,balance,Total Debt,2023-12-31,1505850000.0
+IGIL,A,balance,Total Debt,2024-12-31,1450510000.0
+IGIL,A,balance,Total Debt,2025-12-31,1426030000.0
+IGIL,A,cashflow,Capital Expenditure,2022-12-31,-111390000.0
+IGIL,A,cashflow,Capital Expenditure,2023-12-31,-550130000.0
+IGIL,A,cashflow,Capital Expenditure,2024-12-31,-395210000.0
+IGIL,A,cashflow,Capital Expenditure,2025-12-31,-631550000.0
+IGIL,A,cashflow,Free Cash Flow,2022-12-31,1830290000.0
+IGIL,A,cashflow,Free Cash Flow,2023-12-31,2475480000.0
+IGIL,A,cashflow,Free Cash Flow,2024-12-31,3538580000.0
+IGIL,A,cashflow,Free Cash Flow,2025-12-31,4387440000.0
+IGIL,A,cashflow,Operating Cash Flow,2022-12-31,1941680000.0
+IGIL,A,cashflow,Operating Cash Flow,2023-12-31,3025610000.0
+IGIL,A,cashflow,Operating Cash Flow,2024-12-31,3933790000.0
+IGIL,A,cashflow,Operating Cash Flow,2025-12-31,5018990000.0
+IGIL,A,income,Basic EPS,2022-12-31,5.594182
+IGIL,A,income,Basic EPS,2023-12-31,7.655596
+IGIL,A,income,Basic EPS,2024-12-31,10.74
+IGIL,A,income,Basic EPS,2025-12-31,10.74
+IGIL,A,income,Diluted EPS,2022-12-31,5.594182
+IGIL,A,income,Diluted EPS,2023-12-31,7.655596
+IGIL,A,income,Diluted EPS,2024-12-31,10.28
+IGIL,A,income,Diluted EPS,2025-12-31,10.28
+IGIL,A,income,EBITDA,2022-12-31,3435200000.0
+IGIL,A,income,EBITDA,2023-12-31,5077100000.0
+IGIL,A,income,EBITDA,2024-12-31,6350430000.0
+IGIL,A,income,EBITDA,2025-12-31,6363870000.0
+IGIL,A,income,Interest Expense,2022-12-31,26340000.0
+IGIL,A,income,Interest Expense,2023-12-31,104230000.0
+IGIL,A,income,Interest Expense,2024-12-31,82650000.0
+IGIL,A,income,Interest Expense,2025-12-31,82650000.0
+IGIL,A,income,Net Income,2022-12-31,2417580000.0
+IGIL,A,income,Net Income,2023-12-31,3308440000.0
+IGIL,A,income,Net Income,2024-12-31,4272900000.0
+IGIL,A,income,Net Income,2025-12-31,4272900000.0
+IGIL,A,income,Net Income Common Stockholders,2022-12-31,2417580000.0
+IGIL,A,income,Net Income Common Stockholders,2023-12-31,3308440000.0
+IGIL,A,income,Net Income Common Stockholders,2024-12-31,4272900000.0
+IGIL,A,income,Net Income Common Stockholders,2025-12-31,4272900000.0
+IGIL,A,income,Operating Income,2022-12-31,3239560000.0
+IGIL,A,income,Operating Income,2023-12-31,4586490000.0
+IGIL,A,income,Operating Income,2024-12-31,5730500000.0
+IGIL,A,income,Operating Income,2025-12-31,5582530000.0
+IGIL,A,income,Pretax Income,2022-12-31,3293610000.0
+IGIL,A,income,Pretax Income,2023-12-31,4554280000.0
+IGIL,A,income,Pretax Income,2024-12-31,5853200000.0
+IGIL,A,income,Pretax Income,2025-12-31,5853200000.0
+IGIL,A,income,Total Revenue,2022-12-31,4840410000.0
+IGIL,A,income,Total Revenue,2023-12-31,8880100000.0
+IGIL,A,income,Total Revenue,2024-12-31,10421590000.0
+IGIL,A,income,Total Revenue,2025-12-31,10531600000.0
+IGIL,Q,income,Basic EPS,2025-03-31,3.26
+IGIL,Q,income,Basic EPS,2025-09-30,3.0
+IGIL,Q,income,Basic EPS,2025-12-31,3.26
+IGIL,Q,income,Basic EPS,2026-03-31,4.16
+IGIL,Q,income,Basic EPS,2026-06-30,3.84
+IGIL,Q,income,Diluted EPS,2025-03-31,3.13
+IGIL,Q,income,Diluted EPS,2025-09-30,2.91
+IGIL,Q,income,Diluted EPS,2025-12-31,3.13
+IGIL,Q,income,Diluted EPS,2026-03-31,4.02
+IGIL,Q,income,Diluted EPS,2026-06-30,3.71
+IGIL,Q,income,EBITDA,2025-09-30,1776390000.0
+IGIL,Q,income,EBITDA,2025-12-31,1941320000.0
+IGIL,Q,income,EBITDA,2026-03-31,2411750000.0
+IGIL,Q,income,EBITDA,2026-06-30,2256850000.0
+IGIL,Q,income,EBITDA,2026-09-30,2477260000.0
+IGIL,Q,income,Interest Expense,2025-09-30,21540000.0
+IGIL,Q,income,Interest Expense,2025-12-31,26590000.0
+IGIL,Q,income,Interest Expense,2026-03-31,26360000.0
+IGIL,Q,income,Interest Expense,2026-06-30,28790000.0
+IGIL,Q,income,Interest Expense,2026-09-30,21090000.0
+IGIL,Q,income,Net Income,2025-09-30,1297930000.0
+IGIL,Q,income,Net Income,2025-12-31,1407260000.0
+IGIL,Q,income,Net Income,2026-03-31,1795960000.0
+IGIL,Q,income,Net Income,2026-06-30,1657360000.0
+IGIL,Q,income,Net Income,2026-09-30,1858440000.0
+IGIL,Q,income,Net Income Common Stockholders,2025-09-30,1297930000.0
+IGIL,Q,income,Net Income Common Stockholders,2025-12-31,1407260000.0
+IGIL,Q,income,Net Income Common Stockholders,2026-03-31,1795960000.0
+IGIL,Q,income,Net Income Common Stockholders,2026-06-30,1657360000.0
+IGIL,Q,income,Net Income Common Stockholders,2026-09-30,1858440000.0
+IGIL,Q,income,Operating Income,2025-09-30,1651680000.0
+IGIL,Q,income,Operating Income,2025-12-31,1856600000.0
+IGIL,Q,income,Operating Income,2026-03-31,2229400000.0
+IGIL,Q,income,Operating Income,2026-06-30,2098450000.0
+IGIL,Q,income,Operating Income,2026-09-30,2289170000.0
+IGIL,Q,income,Pretax Income,2025-09-30,1754850000.0
+IGIL,Q,income,Pretax Income,2025-12-31,1914730000.0
+IGIL,Q,income,Pretax Income,2026-03-31,2385390000.0
+IGIL,Q,income,Pretax Income,2026-06-30,2228060000.0
+IGIL,Q,income,Pretax Income,2026-09-30,2456170000.0
+IGIL,Q,income,Total Revenue,2025-09-30,3037370000.0
+IGIL,Q,income,Total Revenue,2025-12-31,3047430000.0
+IGIL,Q,income,Total Revenue,2026-03-31,3685620000.0
+IGIL,Q,income,Total Revenue,2026-06-30,3707760000.0
+IGIL,Q,income,Total Revenue,2026-09-30,3980240000.0

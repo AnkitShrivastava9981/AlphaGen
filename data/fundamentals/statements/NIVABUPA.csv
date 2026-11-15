@@ -1,0 +1,93 @@
+symbol,freq,statement,item,period_end,value
+NIVABUPA,A,balance,Cash And Cash Equivalents,2023-03-31,1018600000.0
+NIVABUPA,A,balance,Cash And Cash Equivalents,2024-03-31,1428200000.0
+NIVABUPA,A,balance,Cash And Cash Equivalents,2025-03-31,2203500000.0
+NIVABUPA,A,balance,Cash And Cash Equivalents,2026-03-31,1586600000.0
+NIVABUPA,A,balance,Net Debt,2023-03-31,1481400000.0
+NIVABUPA,A,balance,Net Debt,2024-03-31,1071800000.0
+NIVABUPA,A,balance,Net Debt,2025-03-31,296500000.0
+NIVABUPA,A,balance,Net Debt,2026-03-31,913400000.0
+NIVABUPA,A,balance,Ordinary Shares Number,2023-03-31,1827026398.0
+NIVABUPA,A,balance,Ordinary Shares Number,2024-03-31,1827026398.0
+NIVABUPA,A,balance,Ordinary Shares Number,2025-03-31,1827026398.0
+NIVABUPA,A,balance,Ordinary Shares Number,2026-03-31,1847456771.0
+NIVABUPA,A,balance,Stockholders Equity,2023-03-31,28553980000.0
+NIVABUPA,A,balance,Stockholders Equity,2024-03-31,39145500000.0
+NIVABUPA,A,balance,Stockholders Equity,2025-03-31,30570900000.0
+NIVABUPA,A,balance,Stockholders Equity,2026-03-31,31986400000.0
+NIVABUPA,A,balance,Total Assets,2023-03-31,38765650000.0
+NIVABUPA,A,balance,Total Assets,2024-03-31,61918500000.0
+NIVABUPA,A,balance,Total Assets,2025-03-31,97601600000.0
+NIVABUPA,A,balance,Total Assets,2026-03-31,112758600000.0
+NIVABUPA,A,balance,Total Debt,2023-03-31,2500000000.0
+NIVABUPA,A,balance,Total Debt,2024-03-31,2500000000.0
+NIVABUPA,A,balance,Total Debt,2025-03-31,2500000000.0
+NIVABUPA,A,balance,Total Debt,2026-03-31,2500000000.0
+NIVABUPA,A,cashflow,Capital Expenditure,2023-03-31,-377920000.0
+NIVABUPA,A,cashflow,Capital Expenditure,2024-03-31,-329500000.0
+NIVABUPA,A,cashflow,Capital Expenditure,2025-03-31,-414200000.0
+NIVABUPA,A,cashflow,Capital Expenditure,2026-03-31,-486300000.0
+NIVABUPA,A,cashflow,Free Cash Flow,2023-03-31,5547190000.0
+NIVABUPA,A,cashflow,Free Cash Flow,2024-03-31,7797000000.0
+NIVABUPA,A,cashflow,Free Cash Flow,2025-03-31,16129600000.0
+NIVABUPA,A,cashflow,Free Cash Flow,2026-03-31,8562300000.0
+NIVABUPA,A,income,Basic EPS,2023-03-31,0.068636
+NIVABUPA,A,income,Basic EPS,2024-03-31,0.447996
+NIVABUPA,A,income,Basic EPS,2025-03-31,1.22
+NIVABUPA,A,income,Basic EPS,2026-03-31,0.71
+NIVABUPA,A,income,Diluted EPS,2023-03-31,0.068636
+NIVABUPA,A,income,Diluted EPS,2024-03-31,0.447996
+NIVABUPA,A,income,Diluted EPS,2025-03-31,1.2
+NIVABUPA,A,income,Diluted EPS,2026-03-31,0.71
+NIVABUPA,A,income,Interest Expense,2023-03-31,451330000.0
+NIVABUPA,A,income,Interest Expense,2024-03-31,532200000.0
+NIVABUPA,A,income,Interest Expense,2025-03-31,636600000.0
+NIVABUPA,A,income,Interest Expense,2026-03-31,557200000.0
+NIVABUPA,A,income,Net Income,2023-03-31,125400000.0
+NIVABUPA,A,income,Net Income,2024-03-31,818500000.0
+NIVABUPA,A,income,Net Income,2025-03-31,2135200000.0
+NIVABUPA,A,income,Net Income,2026-03-31,1307800000.0
+NIVABUPA,A,income,Net Income Common Stockholders,2023-03-31,125400000.0
+NIVABUPA,A,income,Net Income Common Stockholders,2024-03-31,818500000.0
+NIVABUPA,A,income,Net Income Common Stockholders,2025-03-31,2135200000.0
+NIVABUPA,A,income,Net Income Common Stockholders,2026-03-31,1307800000.0
+NIVABUPA,A,income,Pretax Income,2023-03-31,125400000.0
+NIVABUPA,A,income,Pretax Income,2024-03-31,818500000.0
+NIVABUPA,A,income,Pretax Income,2025-03-31,2135200000.0
+NIVABUPA,A,income,Pretax Income,2026-03-31,1268100000.0
+NIVABUPA,A,income,Total Revenue,2023-03-31,27985230000.0
+NIVABUPA,A,income,Total Revenue,2024-03-31,44272400000.0
+NIVABUPA,A,income,Total Revenue,2025-03-31,56907700000.0
+NIVABUPA,A,income,Total Revenue,2026-03-31,71056000000.0
+NIVABUPA,Q,income,Basic EPS,2025-09-30,0.33
+NIVABUPA,Q,income,Basic EPS,2025-12-31,-0.47
+NIVABUPA,Q,income,Basic EPS,2026-03-31,1.87
+NIVABUPA,Q,income,Basic EPS,2026-06-30,0.75
+NIVABUPA,Q,income,Basic EPS,2026-09-30,0.73
+NIVABUPA,Q,income,Diluted EPS,2025-09-30,0.33
+NIVABUPA,Q,income,Diluted EPS,2025-12-31,-0.47
+NIVABUPA,Q,income,Diluted EPS,2026-03-31,1.87
+NIVABUPA,Q,income,Diluted EPS,2026-06-30,0.74
+NIVABUPA,Q,income,Diluted EPS,2026-09-30,0.73
+NIVABUPA,Q,income,Interest Expense,2025-09-30,92600000.0
+NIVABUPA,Q,income,Interest Expense,2026-09-30,92900000.0
+NIVABUPA,Q,income,Net Income,2025-09-30,605200000.0
+NIVABUPA,Q,income,Net Income,2025-12-31,-876400000.0
+NIVABUPA,Q,income,Net Income,2026-03-31,3451300000.0
+NIVABUPA,Q,income,Net Income,2026-06-30,1378000000.0
+NIVABUPA,Q,income,Net Income,2026-09-30,1356400000.0
+NIVABUPA,Q,income,Net Income Common Stockholders,2025-09-30,605200000.0
+NIVABUPA,Q,income,Net Income Common Stockholders,2025-12-31,-876400000.0
+NIVABUPA,Q,income,Net Income Common Stockholders,2026-03-31,3451300000.0
+NIVABUPA,Q,income,Net Income Common Stockholders,2026-06-30,1378000000.0
+NIVABUPA,Q,income,Net Income Common Stockholders,2026-09-30,1356400000.0
+NIVABUPA,Q,income,Pretax Income,2025-09-30,817400000.0
+NIVABUPA,Q,income,Pretax Income,2025-12-31,-876400000.0
+NIVABUPA,Q,income,Pretax Income,2026-03-31,3411600000.0
+NIVABUPA,Q,income,Pretax Income,2026-06-30,1837400000.0
+NIVABUPA,Q,income,Pretax Income,2026-09-30,1815300000.0
+NIVABUPA,Q,income,Total Revenue,2025-09-30,20298800000.0
+NIVABUPA,Q,income,Total Revenue,2025-12-31,16110300000.0
+NIVABUPA,Q,income,Total Revenue,2026-03-31,21385600000.0
+NIVABUPA,Q,income,Total Revenue,2026-06-30,24712600000.0
+NIVABUPA,Q,income,Total Revenue,2026-09-30,25337700000.0

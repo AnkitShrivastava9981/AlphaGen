@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+RELAXO,A,balance,Cash And Cash Equivalents,2023-03-31,102700000.0
+RELAXO,A,balance,Cash And Cash Equivalents,2024-03-31,403500000.0
+RELAXO,A,balance,Cash And Cash Equivalents,2025-03-31,223700000.0
+RELAXO,A,balance,Cash And Cash Equivalents,2026-03-31,176900000.0
+RELAXO,A,balance,Net Debt,2022-03-31,129000000.0
+RELAXO,A,balance,Ordinary Shares Number,2023-03-31,248938586.0
+RELAXO,A,balance,Ordinary Shares Number,2024-03-31,248938586.0
+RELAXO,A,balance,Ordinary Shares Number,2025-03-31,248938586.0
+RELAXO,A,balance,Ordinary Shares Number,2026-03-31,248938586.0
+RELAXO,A,balance,Stockholders Equity,2023-03-31,18550500000.0
+RELAXO,A,balance,Stockholders Equity,2024-03-31,20011100000.0
+RELAXO,A,balance,Stockholders Equity,2025-03-31,20980700000.0
+RELAXO,A,balance,Stockholders Equity,2026-03-31,22063600000.0
+RELAXO,A,balance,Total Assets,2023-03-31,24947900000.0
+RELAXO,A,balance,Total Assets,2024-03-31,27139100000.0
+RELAXO,A,balance,Total Assets,2025-03-31,27624700000.0
+RELAXO,A,balance,Total Assets,2026-03-31,29489400000.0
+RELAXO,A,balance,Total Debt,2023-03-31,1640800000.0
+RELAXO,A,balance,Total Debt,2024-03-31,2049700000.0
+RELAXO,A,balance,Total Debt,2025-03-31,2125200000.0
+RELAXO,A,balance,Total Debt,2026-03-31,2326500000.0
+RELAXO,A,cashflow,Capital Expenditure,2023-03-31,-1851900000.0
+RELAXO,A,cashflow,Capital Expenditure,2024-03-31,-2493900000.0
+RELAXO,A,cashflow,Capital Expenditure,2025-03-31,-1158300000.0
+RELAXO,A,cashflow,Capital Expenditure,2026-03-31,-1371200000.0
+RELAXO,A,cashflow,Free Cash Flow,2023-03-31,2148800000.0
+RELAXO,A,cashflow,Free Cash Flow,2024-03-31,-142700000.0
+RELAXO,A,cashflow,Free Cash Flow,2025-03-31,2901800000.0
+RELAXO,A,cashflow,Free Cash Flow,2026-03-31,2111300000.0
+RELAXO,A,cashflow,Operating Cash Flow,2023-03-31,4000700000.0
+RELAXO,A,cashflow,Operating Cash Flow,2024-03-31,2351200000.0
+RELAXO,A,cashflow,Operating Cash Flow,2025-03-31,4060100000.0
+RELAXO,A,cashflow,Operating Cash Flow,2026-03-31,3482500000.0
+RELAXO,A,income,Basic EPS,2023-03-31,6.21
+RELAXO,A,income,Basic EPS,2024-03-31,8.05
+RELAXO,A,income,Basic EPS,2025-03-31,6.84
+RELAXO,A,income,Basic EPS,2026-03-31,7.2
+RELAXO,A,income,Diluted EPS,2023-03-31,6.21
+RELAXO,A,income,Diluted EPS,2024-03-31,8.05
+RELAXO,A,income,Diluted EPS,2025-03-31,6.84
+RELAXO,A,income,Diluted EPS,2026-03-31,7.2
+RELAXO,A,income,EBITDA,2023-03-31,3542000000.0
+RELAXO,A,income,EBITDA,2024-03-31,4354500000.0
+RELAXO,A,income,EBITDA,2025-03-31,4088400000.0
+RELAXO,A,income,EBITDA,2026-03-31,4201200000.0
+RELAXO,A,income,Interest Expense,2023-03-31,190900000.0
+RELAXO,A,income,Interest Expense,2024-03-31,186900000.0
+RELAXO,A,income,Interest Expense,2025-03-31,205400000.0
+RELAXO,A,income,Interest Expense,2026-03-31,214600000.0
+RELAXO,A,income,Net Income,2023-03-31,1544700000.0
+RELAXO,A,income,Net Income,2024-03-31,2004700000.0
+RELAXO,A,income,Net Income,2025-03-31,1703300000.0
+RELAXO,A,income,Net Income,2026-03-31,1792700000.0
+RELAXO,A,income,Net Income Common Stockholders,2023-03-31,1544700000.0
+RELAXO,A,income,Net Income Common Stockholders,2024-03-31,2004700000.0
+RELAXO,A,income,Net Income Common Stockholders,2025-03-31,1703300000.0
+RELAXO,A,income,Net Income Common Stockholders,2026-03-31,1792700000.0
+RELAXO,A,income,Operating Income,2023-03-31,2157700000.0
+RELAXO,A,income,Operating Income,2024-03-31,2591000000.0
+RELAXO,A,income,Operating Income,2025-03-31,2276700000.0
+RELAXO,A,income,Operating Income,2026-03-31,2257100000.0
+RELAXO,A,income,Pretax Income,2023-03-31,2100100000.0
+RELAXO,A,income,Pretax Income,2024-03-31,2692700000.0
+RELAXO,A,income,Pretax Income,2025-03-31,2298700000.0
+RELAXO,A,income,Pretax Income,2026-03-31,2414600000.0
+RELAXO,A,income,Total Revenue,2023-03-31,27641400000.0
+RELAXO,A,income,Total Revenue,2024-03-31,28936000000.0
+RELAXO,A,income,Total Revenue,2025-03-31,27761500000.0
+RELAXO,A,income,Total Revenue,2026-03-31,26902100000.0
+RELAXO,Q,income,Basic EPS,2025-06-30,1.96
+RELAXO,Q,income,Basic EPS,2025-09-30,1.46
+RELAXO,Q,income,Basic EPS,2025-12-31,1.06
+RELAXO,Q,income,Basic EPS,2026-03-31,2.72
+RELAXO,Q,income,Basic EPS,2026-06-30,2.21
+RELAXO,Q,income,Diluted EPS,2025-06-30,1.96
+RELAXO,Q,income,Diluted EPS,2025-09-30,1.46
+RELAXO,Q,income,Diluted EPS,2025-12-31,1.06
+RELAXO,Q,income,Diluted EPS,2026-03-31,2.72
+RELAXO,Q,income,Diluted EPS,2026-06-30,2.21
+RELAXO,Q,income,EBITDA,2025-06-30,1107700000.0
+RELAXO,Q,income,EBITDA,2025-09-30,934200000.0
+RELAXO,Q,income,EBITDA,2025-12-31,803500000.0
+RELAXO,Q,income,EBITDA,2026-03-31,1356400000.0
+RELAXO,Q,income,EBITDA,2026-06-30,1211900000.0
+RELAXO,Q,income,Interest Expense,2025-06-30,52100000.0
+RELAXO,Q,income,Interest Expense,2025-09-30,52100000.0
+RELAXO,Q,income,Interest Expense,2025-12-31,52900000.0
+RELAXO,Q,income,Interest Expense,2026-03-31,58100000.0
+RELAXO,Q,income,Interest Expense,2026-06-30,59000000.0
+RELAXO,Q,income,Net Income,2025-06-30,489000000.0
+RELAXO,Q,income,Net Income,2025-09-30,361600000.0
+RELAXO,Q,income,Net Income,2025-12-31,265400000.0
+RELAXO,Q,income,Net Income,2026-03-31,676700000.0
+RELAXO,Q,income,Net Income,2026-06-30,549400000.0
+RELAXO,Q,income,Net Income Common Stockholders,2025-06-30,489000000.0
+RELAXO,Q,income,Net Income Common Stockholders,2025-09-30,361600000.0
+RELAXO,Q,income,Net Income Common Stockholders,2025-12-31,265400000.0
+RELAXO,Q,income,Net Income Common Stockholders,2026-03-31,676700000.0
+RELAXO,Q,income,Net Income Common Stockholders,2026-06-30,549400000.0
+RELAXO,Q,income,Operating Income,2025-06-30,598000000.0
+RELAXO,Q,income,Operating Income,2025-09-30,418000000.0
+RELAXO,Q,income,Operating Income,2025-12-31,302500000.0
+RELAXO,Q,income,Operating Income,2026-03-31,849300000.0
+RELAXO,Q,income,Operating Income,2026-06-30,680200000.0
+RELAXO,Q,income,Pretax Income,2025-06-30,659100000.0
+RELAXO,Q,income,Pretax Income,2025-09-30,488500000.0
+RELAXO,Q,income,Pretax Income,2025-12-31,359200000.0
+RELAXO,Q,income,Pretax Income,2026-03-31,907800000.0
+RELAXO,Q,income,Pretax Income,2026-06-30,750800000.0
+RELAXO,Q,income,Total Revenue,2025-06-30,6544900000.0
+RELAXO,Q,income,Total Revenue,2025-09-30,6285400000.0
+RELAXO,Q,income,Total Revenue,2025-12-31,6680300000.0
+RELAXO,Q,income,Total Revenue,2026-03-31,7511000000.0
+RELAXO,Q,income,Total Revenue,2026-06-30,7050500000.0

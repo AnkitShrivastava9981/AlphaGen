@@ -1,0 +1,99 @@
+symbol,freq,statement,item,period_end,value
+RBLBANK,A,balance,Cash And Cash Equivalents,2023-03-31,85271866000.0
+RBLBANK,A,balance,Cash And Cash Equivalents,2024-03-31,144234246000.0
+RBLBANK,A,balance,Cash And Cash Equivalents,2025-03-31,125663800000.0
+RBLBANK,A,balance,Cash And Cash Equivalents,2026-03-31,230658590000.0
+RBLBANK,A,balance,Net Debt,2023-03-31,34592763000.0
+RBLBANK,A,balance,Net Debt,2024-03-31,4838472000.0
+RBLBANK,A,balance,Net Debt,2025-03-31,19488040000.0
+RBLBANK,A,balance,Ordinary Shares Number,2023-03-31,599568063.0
+RBLBANK,A,balance,Ordinary Shares Number,2024-03-31,605099885.0
+RBLBANK,A,balance,Ordinary Shares Number,2025-03-31,607876059.0
+RBLBANK,A,balance,Ordinary Shares Number,2026-03-31,618111404.0
+RBLBANK,A,balance,Stockholders Equity,2023-03-31,135256587000.0
+RBLBANK,A,balance,Stockholders Equity,2024-03-31,148374374000.0
+RBLBANK,A,balance,Stockholders Equity,2025-03-31,156695300000.0
+RBLBANK,A,balance,Stockholders Equity,2026-03-31,167242424000.0
+RBLBANK,A,balance,Total Assets,2023-03-31,1158057114000.0
+RBLBANK,A,balance,Total Assets,2024-03-31,1384539197000.0
+RBLBANK,A,balance,Total Assets,2025-03-31,1467721100000.0
+RBLBANK,A,balance,Total Assets,2026-03-31,1807469329000.0
+RBLBANK,A,balance,Total Debt,2023-03-31,119864629000.0
+RBLBANK,A,balance,Total Debt,2024-03-31,149072718000.0
+RBLBANK,A,balance,Total Debt,2025-03-31,145151870000.0
+RBLBANK,A,balance,Total Debt,2026-03-31,177509316000.0
+RBLBANK,A,cashflow,Capital Expenditure,2023-03-31,-2443305000.0
+RBLBANK,A,cashflow,Capital Expenditure,2024-03-31,-2036300000.0
+RBLBANK,A,cashflow,Capital Expenditure,2025-03-31,-2883350000.0
+RBLBANK,A,cashflow,Capital Expenditure,2026-03-31,-2345591000.0
+RBLBANK,A,cashflow,Free Cash Flow,2023-03-31,-112755770000.0
+RBLBANK,A,cashflow,Free Cash Flow,2024-03-31,47513448000.0
+RBLBANK,A,cashflow,Free Cash Flow,2025-03-31,-11169240000.0
+RBLBANK,A,cashflow,Free Cash Flow,2026-03-31,73435947000.0
+RBLBANK,A,cashflow,Operating Cash Flow,2023-03-31,-110312465000.0
+RBLBANK,A,cashflow,Operating Cash Flow,2024-03-31,49549800000.0
+RBLBANK,A,cashflow,Operating Cash Flow,2025-03-31,-8285890000.0
+RBLBANK,A,cashflow,Operating Cash Flow,2026-03-31,75781538000.0
+RBLBANK,A,income,Basic EPS,2023-03-31,15.34
+RBLBANK,A,income,Basic EPS,2024-03-31,20.94
+RBLBANK,A,income,Basic EPS,2025-03-31,11.81
+RBLBANK,A,income,Basic EPS,2026-03-31,14.34
+RBLBANK,A,income,Diluted EPS,2023-03-31,15.27
+RBLBANK,A,income,Diluted EPS,2024-03-31,20.54
+RBLBANK,A,income,Diluted EPS,2025-03-31,11.76
+RBLBANK,A,income,Diluted EPS,2026-03-31,14.09
+RBLBANK,A,income,Interest Expense,2023-03-31,46786233000.0
+RBLBANK,A,income,Interest Expense,2024-03-31,63500467000.0
+RBLBANK,A,income,Interest Expense,2025-03-31,75761862000.0
+RBLBANK,A,income,Interest Expense,2026-03-31,79746607000.0
+RBLBANK,A,income,Net Income,2023-03-31,9195444000.0
+RBLBANK,A,income,Net Income,2024-03-31,12598913000.0
+RBLBANK,A,income,Net Income,2025-03-31,7170670000.0
+RBLBANK,A,income,Net Income,2026-03-31,8790435000.0
+RBLBANK,A,income,Net Income Common Stockholders,2023-03-31,9195444000.0
+RBLBANK,A,income,Net Income Common Stockholders,2024-03-31,12598900000.0
+RBLBANK,A,income,Net Income Common Stockholders,2025-03-31,7170670000.0
+RBLBANK,A,income,Net Income Common Stockholders,2026-03-31,8790435000.0
+RBLBANK,A,income,Pretax Income,2023-03-31,12211400000.0
+RBLBANK,A,income,Pretax Income,2024-03-31,13487115000.0
+RBLBANK,A,income,Pretax Income,2025-03-31,6957921000.0
+RBLBANK,A,income,Pretax Income,2026-03-31,11059949000.0
+RBLBANK,A,income,Total Revenue,2023-03-31,74377883000.0
+RBLBANK,A,income,Total Revenue,2024-03-31,91037000000.0
+RBLBANK,A,income,Total Revenue,2025-03-31,104069942000.0
+RBLBANK,A,income,Total Revenue,2026-03-31,104951962000.0
+RBLBANK,Q,income,Basic EPS,2025-06-30,3.52
+RBLBANK,Q,income,Basic EPS,2025-12-31,3.71
+RBLBANK,Q,income,Basic EPS,2026-03-31,3.96
+RBLBANK,Q,income,Basic EPS,2026-06-30,3.12
+RBLBANK,Q,income,Basic EPS,2026-09-30,3.22
+RBLBANK,Q,income,Diluted EPS,2025-06-30,3.49
+RBLBANK,Q,income,Diluted EPS,2025-12-31,3.65
+RBLBANK,Q,income,Diluted EPS,2026-03-31,3.9
+RBLBANK,Q,income,Diluted EPS,2026-06-30,3.08
+RBLBANK,Q,income,Diluted EPS,2026-09-30,3.19
+RBLBANK,Q,income,Interest Expense,2025-06-30,19604300000.0
+RBLBANK,Q,income,Interest Expense,2025-12-31,20090700000.0
+RBLBANK,Q,income,Interest Expense,2026-03-31,20488000000.0
+RBLBANK,Q,income,Interest Expense,2026-06-30,21849900000.0
+RBLBANK,Q,income,Interest Expense,2026-09-30,21907200000.0
+RBLBANK,Q,income,Net Income,2025-06-30,2142200000.0
+RBLBANK,Q,income,Net Income,2025-12-31,2279500000.0
+RBLBANK,Q,income,Net Income,2026-03-31,2444200000.0
+RBLBANK,Q,income,Net Income,2026-06-30,2342300000.0
+RBLBANK,Q,income,Net Income,2026-09-30,4983600000.0
+RBLBANK,Q,income,Net Income Common Stockholders,2025-06-30,2142200000.0
+RBLBANK,Q,income,Net Income Common Stockholders,2025-12-31,2279500000.0
+RBLBANK,Q,income,Net Income Common Stockholders,2026-03-31,2444200000.0
+RBLBANK,Q,income,Net Income Common Stockholders,2026-06-30,2342300000.0
+RBLBANK,Q,income,Net Income Common Stockholders,2026-09-30,4983600000.0
+RBLBANK,Q,income,Pretax Income,2025-06-30,2774700000.0
+RBLBANK,Q,income,Pretax Income,2025-12-31,2892300000.0
+RBLBANK,Q,income,Pretax Income,2026-03-31,2941300000.0
+RBLBANK,Q,income,Pretax Income,2026-06-30,3097100000.0
+RBLBANK,Q,income,Pretax Income,2026-09-30,6500800000.0
+RBLBANK,Q,income,Total Revenue,2025-06-30,25521400000.0
+RBLBANK,Q,income,Total Revenue,2025-12-31,27093400000.0
+RBLBANK,Q,income,Total Revenue,2026-03-31,27425600000.0
+RBLBANK,Q,income,Total Revenue,2026-06-30,25772900000.0
+RBLBANK,Q,income,Total Revenue,2026-09-30,32109300000.0

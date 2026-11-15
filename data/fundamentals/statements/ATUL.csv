@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ATUL,A,balance,Cash And Cash Equivalents,2023-03-31,380500000.0
+ATUL,A,balance,Cash And Cash Equivalents,2024-03-31,602600000.0
+ATUL,A,balance,Cash And Cash Equivalents,2025-03-31,513700000.0
+ATUL,A,balance,Cash And Cash Equivalents,2026-03-31,850600000.0
+ATUL,A,balance,Net Debt,2023-03-31,89300000.0
+ATUL,A,balance,Net Debt,2024-03-31,1715900000.0
+ATUL,A,balance,Net Debt,2025-03-31,1463200000.0
+ATUL,A,balance,Net Debt,2026-03-31,947000000.0
+ATUL,A,balance,Ordinary Shares Number,2023-03-31,29513755.0
+ATUL,A,balance,Ordinary Shares Number,2024-03-31,29441755.0
+ATUL,A,balance,Ordinary Shares Number,2025-03-31,29441755.0
+ATUL,A,balance,Ordinary Shares Number,2026-03-31,29441755.0
+ATUL,A,balance,Stockholders Equity,2023-03-31,46713800000.0
+ATUL,A,balance,Stockholders Equity,2024-03-31,51143400000.0
+ATUL,A,balance,Stockholders Equity,2025-03-31,55985500000.0
+ATUL,A,balance,Stockholders Equity,2026-03-31,62219600000.0
+ATUL,A,balance,Total Assets,2023-03-31,57679800000.0
+ATUL,A,balance,Total Assets,2024-03-31,64762800000.0
+ATUL,A,balance,Total Assets,2025-03-31,70009900000.0
+ATUL,A,balance,Total Assets,2026-03-31,79004900000.0
+ATUL,A,balance,Total Debt,2023-03-31,522400000.0
+ATUL,A,balance,Total Debt,2024-03-31,2365500000.0
+ATUL,A,balance,Total Debt,2025-03-31,2017300000.0
+ATUL,A,balance,Total Debt,2026-03-31,1830200000.0
+ATUL,A,cashflow,Capital Expenditure,2023-03-31,-8746800000.0
+ATUL,A,cashflow,Capital Expenditure,2024-03-31,-5038800000.0
+ATUL,A,cashflow,Capital Expenditure,2025-03-31,-2701800000.0
+ATUL,A,cashflow,Capital Expenditure,2026-03-31,-1748700000.0
+ATUL,A,cashflow,Free Cash Flow,2023-03-31,-1679900000.0
+ATUL,A,cashflow,Free Cash Flow,2024-03-31,1635800000.0
+ATUL,A,cashflow,Free Cash Flow,2025-03-31,3329500000.0
+ATUL,A,cashflow,Free Cash Flow,2026-03-31,8479000000.0
+ATUL,A,cashflow,Operating Cash Flow,2023-03-31,7066900000.0
+ATUL,A,cashflow,Operating Cash Flow,2024-03-31,6674600000.0
+ATUL,A,cashflow,Operating Cash Flow,2025-03-31,6031300000.0
+ATUL,A,cashflow,Operating Cash Flow,2026-03-31,10227700000.0
+ATUL,A,income,Basic EPS,2023-03-31,174.15
+ATUL,A,income,Basic EPS,2024-03-31,109.54
+ATUL,A,income,Basic EPS,2025-03-31,164.37
+ATUL,A,income,Basic EPS,2026-03-31,230.25
+ATUL,A,income,Diluted EPS,2023-03-31,174.15
+ATUL,A,income,Diluted EPS,2024-03-31,109.54
+ATUL,A,income,Diluted EPS,2025-03-31,164.37
+ATUL,A,income,Diluted EPS,2026-03-31,230.25
+ATUL,A,income,EBITDA,2023-03-31,8933200000.0
+ATUL,A,income,EBITDA,2024-03-31,7043000000.0
+ATUL,A,income,EBITDA,2025-03-31,10328300000.0
+ATUL,A,income,EBITDA,2026-03-31,12388000000.0
+ATUL,A,income,Interest Expense,2023-03-31,76700000.0
+ATUL,A,income,Interest Expense,2024-03-31,108000000.0
+ATUL,A,income,Interest Expense,2025-03-31,235200000.0
+ATUL,A,income,Interest Expense,2026-03-31,161700000.0
+ATUL,A,income,Net Income,2023-03-31,5140900000.0
+ATUL,A,income,Net Income,2024-03-31,3230200000.0
+ATUL,A,income,Net Income,2025-03-31,4839300000.0
+ATUL,A,income,Net Income,2026-03-31,6779000000.0
+ATUL,A,income,Net Income Common Stockholders,2023-03-31,5140900000.0
+ATUL,A,income,Net Income Common Stockholders,2024-03-31,3230200000.0
+ATUL,A,income,Net Income Common Stockholders,2025-03-31,4839300000.0
+ATUL,A,income,Net Income Common Stockholders,2026-03-31,6779000000.0
+ATUL,A,income,Operating Income,2023-03-31,6147000000.0
+ATUL,A,income,Operating Income,2024-03-31,3980900000.0
+ATUL,A,income,Operating Income,2025-03-31,6024900000.0
+ATUL,A,income,Operating Income,2026-03-31,7159200000.0
+ATUL,A,income,Pretax Income,2023-03-31,6878400000.0
+ATUL,A,income,Pretax Income,2024-03-31,4506200000.0
+ATUL,A,income,Pretax Income,2025-03-31,6924900000.0
+ATUL,A,income,Pretax Income,2026-03-31,9005000000.0
+ATUL,A,income,Total Revenue,2023-03-31,53663700000.0
+ATUL,A,income,Total Revenue,2024-03-31,46680200000.0
+ATUL,A,income,Total Revenue,2025-03-31,55100100000.0
+ATUL,A,income,Total Revenue,2026-03-31,62031100000.0
+ATUL,Q,income,Basic EPS,2025-06-30,43.4
+ATUL,Q,income,Basic EPS,2025-12-31,54.6
+ATUL,Q,income,Basic EPS,2026-03-31,71.38
+ATUL,Q,income,Basic EPS,2026-06-30,83.32
+ATUL,Q,income,Basic EPS,2026-09-30,52.89
+ATUL,Q,income,Diluted EPS,2025-06-30,43.4
+ATUL,Q,income,Diluted EPS,2025-12-31,54.6
+ATUL,Q,income,Diluted EPS,2026-03-31,71.38
+ATUL,Q,income,Diluted EPS,2026-06-30,83.32
+ATUL,Q,income,Diluted EPS,2026-09-30,52.89
+ATUL,Q,income,EBITDA,2025-06-30,2636100000.0
+ATUL,Q,income,EBITDA,2025-12-31,2869800000.0
+ATUL,Q,income,EBITDA,2026-03-31,3722100000.0
+ATUL,Q,income,EBITDA,2026-06-30,4289400000.0
+ATUL,Q,income,EBITDA,2026-09-30,2965100000.0
+ATUL,Q,income,Interest Expense,2025-06-30,45400000.0
+ATUL,Q,income,Interest Expense,2025-12-31,37000000.0
+ATUL,Q,income,Interest Expense,2026-03-31,43000000.0
+ATUL,Q,income,Interest Expense,2026-06-30,40200000.0
+ATUL,Q,income,Interest Expense,2026-09-30,39900000.0
+ATUL,Q,income,Net Income,2025-06-30,1277700000.0
+ATUL,Q,income,Net Income,2025-12-31,1607400000.0
+ATUL,Q,income,Net Income,2026-03-31,2101500000.0
+ATUL,Q,income,Net Income,2026-06-30,2453000000.0
+ATUL,Q,income,Net Income,2026-09-30,1557200000.0
+ATUL,Q,income,Net Income Common Stockholders,2025-06-30,1277700000.0
+ATUL,Q,income,Net Income Common Stockholders,2025-12-31,1607400000.0
+ATUL,Q,income,Net Income Common Stockholders,2026-03-31,2101500000.0
+ATUL,Q,income,Net Income Common Stockholders,2026-06-30,2453000000.0
+ATUL,Q,income,Net Income Common Stockholders,2026-09-30,1557200000.0
+ATUL,Q,income,Operating Income,2025-06-30,1534600000.0
+ATUL,Q,income,Operating Income,2025-12-31,1672600000.0
+ATUL,Q,income,Operating Income,2026-03-31,2015500000.0
+ATUL,Q,income,Operating Income,2026-06-30,3154500000.0
+ATUL,Q,income,Operating Income,2026-09-30,1685000000.0
+ATUL,Q,income,Pretax Income,2025-06-30,1770300000.0
+ATUL,Q,income,Pretax Income,2025-12-31,2034800000.0
+ATUL,Q,income,Pretax Income,2026-03-31,2887100000.0
+ATUL,Q,income,Pretax Income,2026-06-30,3468300000.0
+ATUL,Q,income,Pretax Income,2026-09-30,2143800000.0
+ATUL,Q,income,Total Revenue,2025-06-30,14780000000.0
+ATUL,Q,income,Total Revenue,2025-12-31,15736200000.0
+ATUL,Q,income,Total Revenue,2026-03-31,16700000000.0
+ATUL,Q,income,Total Revenue,2026-06-30,18479500000.0
+ATUL,Q,income,Total Revenue,2026-09-30,18770400000.0

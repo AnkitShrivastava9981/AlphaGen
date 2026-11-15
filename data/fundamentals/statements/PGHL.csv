@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+PGHL,A,balance,Cash And Cash Equivalents,2022-06-30,3194000000.0
+PGHL,A,balance,Cash And Cash Equivalents,2023-06-30,4350500000.0
+PGHL,A,balance,Cash And Cash Equivalents,2024-06-30,2385000000.0
+PGHL,A,balance,Cash And Cash Equivalents,2026-03-31,1772400000.0
+PGHL,A,balance,Ordinary Shares Number,2022-06-30,16599382.0
+PGHL,A,balance,Ordinary Shares Number,2023-06-30,16599382.0
+PGHL,A,balance,Ordinary Shares Number,2024-06-30,16599382.0
+PGHL,A,balance,Ordinary Shares Number,2026-03-31,16599382.0
+PGHL,A,balance,Stockholders Equity,2022-06-30,6164900000.0
+PGHL,A,balance,Stockholders Equity,2023-06-30,7508900000.0
+PGHL,A,balance,Stockholders Equity,2024-06-30,5382400000.0
+PGHL,A,balance,Stockholders Equity,2026-03-31,5245500000.0
+PGHL,A,balance,Total Assets,2022-06-30,8881200000.0
+PGHL,A,balance,Total Assets,2023-06-30,11011900000.0
+PGHL,A,balance,Total Assets,2024-06-30,7943600000.0
+PGHL,A,balance,Total Assets,2026-03-31,8413500000.0
+PGHL,A,balance,Total Debt,2022-06-30,28300000.0
+PGHL,A,balance,Total Debt,2023-06-30,120000000.0
+PGHL,A,balance,Total Debt,2024-06-30,95600000.0
+PGHL,A,balance,Total Debt,2026-03-31,92900000.0
+PGHL,A,cashflow,Capital Expenditure,2022-06-30,-379200000.0
+PGHL,A,cashflow,Capital Expenditure,2023-06-30,-424800000.0
+PGHL,A,cashflow,Capital Expenditure,2024-06-30,-217300000.0
+PGHL,A,cashflow,Capital Expenditure,2026-03-31,-155100000.0
+PGHL,A,cashflow,Free Cash Flow,2022-06-30,1316000000.0
+PGHL,A,cashflow,Free Cash Flow,2023-06-30,1935200000.0
+PGHL,A,cashflow,Free Cash Flow,2024-06-30,2065600000.0
+PGHL,A,cashflow,Free Cash Flow,2026-03-31,3222800000.0
+PGHL,A,cashflow,Operating Cash Flow,2022-06-30,1695200000.0
+PGHL,A,cashflow,Operating Cash Flow,2023-06-30,2360000000.0
+PGHL,A,cashflow,Operating Cash Flow,2024-06-30,2282900000.0
+PGHL,A,cashflow,Operating Cash Flow,2026-03-31,3377900000.0
+PGHL,A,income,Basic EPS,2022-06-30,116.0
+PGHL,A,income,Basic EPS,2023-06-30,138.0
+PGHL,A,income,Basic EPS,2024-06-30,121.0
+PGHL,A,income,Basic EPS,2026-03-31,197.0
+PGHL,A,income,Diluted EPS,2022-06-30,116.0
+PGHL,A,income,Diluted EPS,2023-06-30,138.0
+PGHL,A,income,Diluted EPS,2024-06-30,121.0
+PGHL,A,income,Diluted EPS,2026-03-31,197.0
+PGHL,A,income,EBITDA,2022-06-30,2808700000.0
+PGHL,A,income,EBITDA,2023-06-30,3430700000.0
+PGHL,A,income,EBITDA,2024-06-30,3014400000.0
+PGHL,A,income,EBITDA,2026-03-31,4740000000.0
+PGHL,A,income,Interest Expense,2022-06-30,4200000.0
+PGHL,A,income,Interest Expense,2023-06-30,7700000.0
+PGHL,A,income,Interest Expense,2024-06-30,7200000.0
+PGHL,A,income,Interest Expense,2026-03-31,5500000.0
+PGHL,A,income,Net Income,2022-06-30,1925200000.0
+PGHL,A,income,Net Income,2023-06-30,2294700000.0
+PGHL,A,income,Net Income,2024-06-30,2009800000.0
+PGHL,A,income,Net Income,2026-03-31,3269100000.0
+PGHL,A,income,Net Income Common Stockholders,2022-06-30,1925200000.0
+PGHL,A,income,Net Income Common Stockholders,2023-06-30,2294700000.0
+PGHL,A,income,Net Income Common Stockholders,2024-06-30,2009800000.0
+PGHL,A,income,Net Income Common Stockholders,2026-03-31,3269100000.0
+PGHL,A,income,Operating Income,2022-06-30,2478100000.0
+PGHL,A,income,Operating Income,2023-06-30,2958500000.0
+PGHL,A,income,Operating Income,2024-06-30,2791100000.0
+PGHL,A,income,Operating Income,2026-03-31,4349400000.0
+PGHL,A,income,Pretax Income,2022-06-30,2533700000.0
+PGHL,A,income,Pretax Income,2023-06-30,3142000000.0
+PGHL,A,income,Pretax Income,2024-06-30,2733200000.0
+PGHL,A,income,Pretax Income,2026-03-31,4498600000.0
+PGHL,A,income,Total Revenue,2022-06-30,10920400000.0
+PGHL,A,income,Total Revenue,2023-06-30,12058600000.0
+PGHL,A,income,Total Revenue,2024-06-30,11294900000.0
+PGHL,A,income,Total Revenue,2026-03-31,13851200000.0
+PGHL,Q,income,Basic EPS,2025-09-30,53.54
+PGHL,Q,income,Basic EPS,2025-12-31,46.74
+PGHL,Q,income,Basic EPS,2026-03-31,56.99
+PGHL,Q,income,Basic EPS,2026-06-30,57.92
+PGHL,Q,income,Basic EPS,2026-09-30,67.18
+PGHL,Q,income,Diluted EPS,2025-09-30,53.54
+PGHL,Q,income,Diluted EPS,2025-12-31,46.74
+PGHL,Q,income,Diluted EPS,2026-03-31,56.99
+PGHL,Q,income,Diluted EPS,2026-06-30,57.92
+PGHL,Q,income,Diluted EPS,2026-09-30,67.18
+PGHL,Q,income,EBITDA,2025-09-30,1252200000.0
+PGHL,Q,income,EBITDA,2025-12-31,1148200000.0
+PGHL,Q,income,EBITDA,2026-03-31,1395900000.0
+PGHL,Q,income,EBITDA,2026-06-30,1352800000.0
+PGHL,Q,income,EBITDA,2026-09-30,1562600000.0
+PGHL,Q,income,Interest Expense,2025-09-30,1200000.0
+PGHL,Q,income,Interest Expense,2025-12-31,1000000.0
+PGHL,Q,income,Interest Expense,2026-03-31,2100000.0
+PGHL,Q,income,Interest Expense,2026-06-30,1400000.0
+PGHL,Q,income,Interest Expense,2026-09-30,1300000.0
+PGHL,Q,income,Net Income,2025-09-30,885400000.0
+PGHL,Q,income,Net Income,2025-12-31,775900000.0
+PGHL,Q,income,Net Income,2026-03-31,946000000.0
+PGHL,Q,income,Net Income,2026-06-30,961500000.0
+PGHL,Q,income,Net Income,2026-09-30,1115100000.0
+PGHL,Q,income,Net Income Common Stockholders,2025-09-30,885400000.0
+PGHL,Q,income,Net Income Common Stockholders,2025-12-31,775900000.0
+PGHL,Q,income,Net Income Common Stockholders,2026-03-31,946000000.0
+PGHL,Q,income,Net Income Common Stockholders,2026-06-30,961500000.0
+PGHL,Q,income,Net Income Common Stockholders,2026-09-30,1115100000.0
+PGHL,Q,income,Operating Income,2025-09-30,1141900000.0
+PGHL,Q,income,Operating Income,2025-12-31,1045600000.0
+PGHL,Q,income,Operating Income,2026-03-31,1294200000.0
+PGHL,Q,income,Operating Income,2026-06-30,935800000.0
+PGHL,Q,income,Operating Income,2026-09-30,1462900000.0
+PGHL,Q,income,Pretax Income,2025-09-30,1190200000.0
+PGHL,Q,income,Pretax Income,2025-12-31,1088200000.0
+PGHL,Q,income,Pretax Income,2026-03-31,1332100000.0
+PGHL,Q,income,Pretax Income,2026-06-30,1291200000.0
+PGHL,Q,income,Pretax Income,2026-09-30,1500500000.0
+PGHL,Q,income,Total Revenue,2025-09-30,3249200000.0
+PGHL,Q,income,Total Revenue,2025-12-31,3738600000.0
+PGHL,Q,income,Total Revenue,2026-03-31,3704500000.0
+PGHL,Q,income,Total Revenue,2026-06-30,3637100000.0
+PGHL,Q,income,Total Revenue,2026-09-30,3824900000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SYRMA,A,balance,Cash And Cash Equivalents,2023-03-31,464900000.0
+SYRMA,A,balance,Cash And Cash Equivalents,2024-03-31,783840000.0
+SYRMA,A,balance,Cash And Cash Equivalents,2025-03-31,808570000.0
+SYRMA,A,balance,Cash And Cash Equivalents,2026-03-31,1922810000.0
+SYRMA,A,balance,Net Debt,2023-03-31,3003480000.0
+SYRMA,A,balance,Net Debt,2024-03-31,4979260000.0
+SYRMA,A,balance,Net Debt,2025-03-31,5303180000.0
+SYRMA,A,balance,Net Debt,2026-03-31,1608360000.0
+SYRMA,A,balance,Ordinary Shares Number,2023-03-31,176777842.0
+SYRMA,A,balance,Ordinary Shares Number,2024-03-31,177427081.0
+SYRMA,A,balance,Ordinary Shares Number,2025-03-31,178047112.0
+SYRMA,A,balance,Ordinary Shares Number,2026-03-31,192624977.0
+SYRMA,A,balance,Stockholders Equity,2023-03-31,15402780000.0
+SYRMA,A,balance,Stockholders Equity,2024-03-31,16126080000.0
+SYRMA,A,balance,Stockholders Equity,2025-03-31,17499640000.0
+SYRMA,A,balance,Stockholders Equity,2026-03-31,28621880000.0
+SYRMA,A,balance,Total Assets,2023-03-31,25425550000.0
+SYRMA,A,balance,Total Assets,2024-03-31,36894260000.0
+SYRMA,A,balance,Total Assets,2025-03-31,42046710000.0
+SYRMA,A,balance,Total Assets,2026-03-31,57700070000.0
+SYRMA,A,balance,Total Debt,2023-03-31,3747240000.0
+SYRMA,A,balance,Total Debt,2024-03-31,6298880000.0
+SYRMA,A,balance,Total Debt,2025-03-31,6646010000.0
+SYRMA,A,balance,Total Debt,2026-03-31,3998920000.0
+SYRMA,A,cashflow,Capital Expenditure,2023-03-31,-1183960000.0
+SYRMA,A,cashflow,Capital Expenditure,2024-03-31,-3376540000.0
+SYRMA,A,cashflow,Capital Expenditure,2025-03-31,-2451510000.0
+SYRMA,A,cashflow,Capital Expenditure,2026-03-31,-1917590000.0
+SYRMA,A,cashflow,Free Cash Flow,2023-03-31,-1886720000.0
+SYRMA,A,cashflow,Free Cash Flow,2024-03-31,-4467850000.0
+SYRMA,A,cashflow,Free Cash Flow,2025-03-31,-686880000.0
+SYRMA,A,cashflow,Free Cash Flow,2026-03-31,978060000.0
+SYRMA,A,cashflow,Operating Cash Flow,2023-03-31,-702760000.0
+SYRMA,A,cashflow,Operating Cash Flow,2024-03-31,-1091310000.0
+SYRMA,A,cashflow,Operating Cash Flow,2025-03-31,1764630000.0
+SYRMA,A,cashflow,Operating Cash Flow,2026-03-31,2895650000.0
+SYRMA,A,income,Basic EPS,2023-03-31,6.749715
+SYRMA,A,income,Basic EPS,2024-03-31,6.06
+SYRMA,A,income,Basic EPS,2025-03-31,9.55
+SYRMA,A,income,Basic EPS,2026-03-31,16.94
+SYRMA,A,income,Diluted EPS,2023-03-31,6.749715
+SYRMA,A,income,Diluted EPS,2024-03-31,6.02
+SYRMA,A,income,Diluted EPS,2025-03-31,9.52
+SYRMA,A,income,Diluted EPS,2026-03-31,16.92
+SYRMA,A,income,EBITDA,2023-03-31,2303950000.0
+SYRMA,A,income,EBITDA,2024-03-31,2552700000.0
+SYRMA,A,income,EBITDA,2025-03-31,3662050000.0
+SYRMA,A,income,EBITDA,2026-03-31,5729430000.0
+SYRMA,A,income,Interest Expense,2023-03-31,204650000.0
+SYRMA,A,income,Interest Expense,2024-03-31,373440000.0
+SYRMA,A,income,Interest Expense,2025-03-31,540610000.0
+SYRMA,A,income,Interest Expense,2026-03-31,434580000.0
+SYRMA,A,income,Net Income,2023-03-31,1193200000.0
+SYRMA,A,income,Net Income,2024-03-31,1073280000.0
+SYRMA,A,income,Net Income,2025-03-31,1698710000.0
+SYRMA,A,income,Net Income,2026-03-31,3177800000.0
+SYRMA,A,income,Net Income Common Stockholders,2023-03-31,1193200000.0
+SYRMA,A,income,Net Income Common Stockholders,2024-03-31,1073280000.0
+SYRMA,A,income,Net Income Common Stockholders,2025-03-31,1698710000.0
+SYRMA,A,income,Net Income Common Stockholders,2026-03-31,3177800000.0
+SYRMA,A,income,Operating Income,2023-03-31,1623260000.0
+SYRMA,A,income,Operating Income,2024-03-31,1514040000.0
+SYRMA,A,income,Operating Income,2025-03-31,2489210000.0
+SYRMA,A,income,Operating Income,2026-03-31,4982430000.0
+SYRMA,A,income,Pretax Income,2023-03-31,1787310000.0
+SYRMA,A,income,Pretax Income,2024-03-31,1664410000.0
+SYRMA,A,income,Pretax Income,2025-03-31,2370750000.0
+SYRMA,A,income,Pretax Income,2026-03-31,4453760000.0
+SYRMA,A,income,Total Revenue,2023-03-31,20098240000.0
+SYRMA,A,income,Total Revenue,2024-03-31,31302650000.0
+SYRMA,A,income,Total Revenue,2025-03-31,37159890000.0
+SYRMA,A,income,Total Revenue,2026-03-31,47046570000.0
+SYRMA,Q,income,Basic EPS,2025-09-30,3.44
+SYRMA,Q,income,Basic EPS,2025-12-31,5.33
+SYRMA,Q,income,Basic EPS,2026-03-31,5.29
+SYRMA,Q,income,Basic EPS,2026-06-30,5.19
+SYRMA,Q,income,Basic EPS,2026-09-30,6.08
+SYRMA,Q,income,Diluted EPS,2025-09-30,3.43
+SYRMA,Q,income,Diluted EPS,2025-12-31,5.33
+SYRMA,Q,income,Diluted EPS,2026-03-31,5.28
+SYRMA,Q,income,Diluted EPS,2026-06-30,5.19
+SYRMA,Q,income,Diluted EPS,2026-09-30,6.08
+SYRMA,Q,income,EBITDA,2025-09-30,1239800000.0
+SYRMA,Q,income,EBITDA,2025-12-31,1663130000.0
+SYRMA,Q,income,EBITDA,2026-03-31,1847930000.0
+SYRMA,Q,income,EBITDA,2026-06-30,1766450000.0
+SYRMA,Q,income,EBITDA,2026-09-30,2031450000.0
+SYRMA,Q,income,Interest Expense,2025-09-30,126310000.0
+SYRMA,Q,income,Interest Expense,2025-12-31,76820000.0
+SYRMA,Q,income,Interest Expense,2026-03-31,130150000.0
+SYRMA,Q,income,Interest Expense,2026-06-30,133370000.0
+SYRMA,Q,income,Interest Expense,2026-09-30,152560000.0
+SYRMA,Q,income,Net Income,2025-09-30,640600000.0
+SYRMA,Q,income,Net Income,2025-12-31,1027860000.0
+SYRMA,Q,income,Net Income,2026-03-31,1011940000.0
+SYRMA,Q,income,Net Income,2026-06-30,1000740000.0
+SYRMA,Q,income,Net Income,2026-09-30,1172600000.0
+SYRMA,Q,income,Net Income Common Stockholders,2025-09-30,640600000.0
+SYRMA,Q,income,Net Income Common Stockholders,2025-12-31,1027860000.0
+SYRMA,Q,income,Net Income Common Stockholders,2026-03-31,1011940000.0
+SYRMA,Q,income,Net Income Common Stockholders,2026-06-30,1000740000.0
+SYRMA,Q,income,Net Income Common Stockholders,2026-09-30,1172600000.0
+SYRMA,Q,income,Operating Income,2025-09-30,933910000.0
+SYRMA,Q,income,Operating Income,2025-12-31,1391170000.0
+SYRMA,Q,income,Operating Income,2026-03-31,1527520000.0
+SYRMA,Q,income,Operating Income,2026-06-30,1390930000.0
+SYRMA,Q,income,Operating Income,2026-09-30,1705980000.0
+SYRMA,Q,income,Pretax Income,2025-09-30,895000000.0
+SYRMA,Q,income,Pretax Income,2025-12-31,1383480000.0
+SYRMA,Q,income,Pretax Income,2026-03-31,1503810000.0
+SYRMA,Q,income,Pretax Income,2026-06-30,1408200000.0
+SYRMA,Q,income,Pretax Income,2026-09-30,1652100000.0
+SYRMA,Q,income,Total Revenue,2025-09-30,11458870000.0
+SYRMA,Q,income,Total Revenue,2025-12-31,12641800000.0
+SYRMA,Q,income,Total Revenue,2026-03-31,14650120000.0
+SYRMA,Q,income,Total Revenue,2026-06-30,15886180000.0
+SYRMA,Q,income,Total Revenue,2026-09-30,19836800000.0

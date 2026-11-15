@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+GLAND,A,balance,Cash And Cash Equivalents,2023-03-31,19088950000.0
+GLAND,A,balance,Cash And Cash Equivalents,2024-03-31,3570880000.0
+GLAND,A,balance,Cash And Cash Equivalents,2025-03-31,25561940000.0
+GLAND,A,balance,Cash And Cash Equivalents,2026-03-31,33590800000.0
+GLAND,A,balance,Ordinary Shares Number,2023-03-31,164700823.0
+GLAND,A,balance,Ordinary Shares Number,2024-03-31,164710523.0
+GLAND,A,balance,Ordinary Shares Number,2025-03-31,164756423.0
+GLAND,A,balance,Ordinary Shares Number,2026-03-31,164756423.0
+GLAND,A,balance,Stockholders Equity,2023-03-31,79587220000.0
+GLAND,A,balance,Stockholders Equity,2024-03-31,87238430000.0
+GLAND,A,balance,Stockholders Equity,2025-03-31,91507410000.0
+GLAND,A,balance,Stockholders Equity,2026-03-31,103579500000.0
+GLAND,A,balance,Total Assets,2023-03-31,87775350000.0
+GLAND,A,balance,Total Assets,2024-03-31,106612460000.0
+GLAND,A,balance,Total Assets,2025-03-31,112249200000.0
+GLAND,A,balance,Total Assets,2026-03-31,125108480000.0
+GLAND,A,balance,Total Debt,2023-03-31,44530000.0
+GLAND,A,balance,Total Debt,2024-03-31,3721660000.0
+GLAND,A,balance,Total Debt,2025-03-31,3137330000.0
+GLAND,A,balance,Total Debt,2026-03-31,2835900000.0
+GLAND,A,cashflow,Capital Expenditure,2023-03-31,-2231190000.0
+GLAND,A,cashflow,Capital Expenditure,2024-03-31,-3982560000.0
+GLAND,A,cashflow,Capital Expenditure,2025-03-31,-3941660000.0
+GLAND,A,cashflow,Capital Expenditure,2026-03-31,-4944290000.0
+GLAND,A,cashflow,Free Cash Flow,2023-03-31,1408490000.0
+GLAND,A,cashflow,Free Cash Flow,2024-03-31,5985410000.0
+GLAND,A,cashflow,Free Cash Flow,2025-03-31,5205640000.0
+GLAND,A,cashflow,Free Cash Flow,2026-03-31,5369580000.0
+GLAND,A,cashflow,Operating Cash Flow,2023-03-31,3639680000.0
+GLAND,A,cashflow,Operating Cash Flow,2024-03-31,9967970000.0
+GLAND,A,cashflow,Operating Cash Flow,2025-03-31,9147300000.0
+GLAND,A,cashflow,Operating Cash Flow,2026-03-31,10313870000.0
+GLAND,A,income,Basic EPS,2023-03-31,47.44
+GLAND,A,income,Basic EPS,2024-03-31,46.9
+GLAND,A,income,Basic EPS,2025-03-31,42.4
+GLAND,A,income,Basic EPS,2026-03-31,62.35
+GLAND,A,income,Diluted EPS,2023-03-31,47.43
+GLAND,A,income,Diluted EPS,2024-03-31,46.89
+GLAND,A,income,Diluted EPS,2025-03-31,42.4
+GLAND,A,income,Diluted EPS,2026-03-31,62.28
+GLAND,A,income,EBITDA,2023-03-31,12076050000.0
+GLAND,A,income,EBITDA,2024-03-31,14988980000.0
+GLAND,A,income,EBITDA,2025-03-31,14779310000.0
+GLAND,A,income,EBITDA,2026-03-31,19178050000.0
+GLAND,A,income,Interest Expense,2023-03-31,62870000.0
+GLAND,A,income,Interest Expense,2024-03-31,217900000.0
+GLAND,A,income,Interest Expense,2025-03-31,373990000.0
+GLAND,A,income,Interest Expense,2026-03-31,295580000.0
+GLAND,A,income,Net Income,2023-03-31,7810430000.0
+GLAND,A,income,Net Income,2024-03-31,7724600000.0
+GLAND,A,income,Net Income,2025-03-31,6985260000.0
+GLAND,A,income,Net Income,2026-03-31,10273160000.0
+GLAND,A,income,Net Income Common Stockholders,2023-03-31,7810430000.0
+GLAND,A,income,Net Income Common Stockholders,2024-03-31,7724600000.0
+GLAND,A,income,Net Income Common Stockholders,2025-03-31,6985260000.0
+GLAND,A,income,Net Income Common Stockholders,2026-03-31,10273160000.0
+GLAND,A,income,Operating Income,2023-03-31,8701140000.0
+GLAND,A,income,Operating Income,2024-03-31,9960920000.0
+GLAND,A,income,Operating Income,2025-03-31,8900020000.0
+GLAND,A,income,Operating Income,2026-03-31,12066240000.0
+GLAND,A,income,Pretax Income,2023-03-31,10545820000.0
+GLAND,A,income,Pretax Income,2024-03-31,11325420000.0
+GLAND,A,income,Pretax Income,2025-03-31,10626580000.0
+GLAND,A,income,Pretax Income,2026-03-31,14645800000.0
+GLAND,A,income,Total Revenue,2023-03-31,35918590000.0
+GLAND,A,income,Total Revenue,2024-03-31,56417320000.0
+GLAND,A,income,Total Revenue,2025-03-31,55836260000.0
+GLAND,A,income,Total Revenue,2026-03-31,64029020000.0
+GLAND,Q,income,Basic EPS,2025-06-30,13.08
+GLAND,Q,income,Basic EPS,2025-12-31,15.87
+GLAND,Q,income,Basic EPS,2026-03-31,22.26
+GLAND,Q,income,Basic EPS,2026-06-30,19.23
+GLAND,Q,income,Basic EPS,2026-09-30,17.62
+GLAND,Q,income,Diluted EPS,2025-06-30,13.08
+GLAND,Q,income,Diluted EPS,2025-12-31,15.87
+GLAND,Q,income,Diluted EPS,2026-03-31,22.23
+GLAND,Q,income,Diluted EPS,2026-06-30,19.22
+GLAND,Q,income,Diluted EPS,2026-09-30,17.62
+GLAND,Q,income,EBITDA,2025-06-30,4252890000.0
+GLAND,Q,income,EBITDA,2025-12-31,4737030000.0
+GLAND,Q,income,EBITDA,2026-03-31,6244860000.0
+GLAND,Q,income,EBITDA,2026-06-30,5505950000.0
+GLAND,Q,income,EBITDA,2026-09-30,5530920000.0
+GLAND,Q,income,Interest Expense,2025-06-30,114960000.0
+GLAND,Q,income,Interest Expense,2025-12-31,39300000.0
+GLAND,Q,income,Interest Expense,2026-03-31,100300000.0
+GLAND,Q,income,Interest Expense,2026-06-30,43610000.0
+GLAND,Q,income,Interest Expense,2026-09-30,71380000.0
+GLAND,Q,income,Net Income,2025-06-30,2154820000.0
+GLAND,Q,income,Net Income,2025-12-31,2614750000.0
+GLAND,Q,income,Net Income,2026-03-31,3666750000.0
+GLAND,Q,income,Net Income,2026-06-30,3169590000.0
+GLAND,Q,income,Net Income,2026-09-30,2907560000.0
+GLAND,Q,income,Net Income Common Stockholders,2025-06-30,2154820000.0
+GLAND,Q,income,Net Income Common Stockholders,2025-12-31,2614750000.0
+GLAND,Q,income,Net Income Common Stockholders,2026-03-31,3666750000.0
+GLAND,Q,income,Net Income Common Stockholders,2026-06-30,3169590000.0
+GLAND,Q,income,Net Income Common Stockholders,2026-09-30,2907560000.0
+GLAND,Q,income,Operating Income,2025-06-30,2667100000.0
+GLAND,Q,income,Operating Income,2025-12-31,3272310000.0
+GLAND,Q,income,Operating Income,2026-03-31,4043600000.0
+GLAND,Q,income,Operating Income,2026-06-30,3781090000.0
+GLAND,Q,income,Operating Income,2026-09-30,3690320000.0
+GLAND,Q,income,Pretax Income,2025-06-30,3127410000.0
+GLAND,Q,income,Pretax Income,2025-12-31,3621280000.0
+GLAND,Q,income,Pretax Income,2026-03-31,5057960000.0
+GLAND,Q,income,Pretax Income,2026-06-30,4349760000.0
+GLAND,Q,income,Pretax Income,2026-09-30,4309420000.0
+GLAND,Q,income,Total Revenue,2025-06-30,15056220000.0
+GLAND,Q,income,Total Revenue,2025-12-31,16953630000.0
+GLAND,Q,income,Total Revenue,2026-03-31,17427900000.0
+GLAND,Q,income,Total Revenue,2026-06-30,18002710000.0
+GLAND,Q,income,Total Revenue,2026-09-30,18335880000.0

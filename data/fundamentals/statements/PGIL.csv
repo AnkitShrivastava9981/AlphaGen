@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PGIL,A,balance,Cash And Cash Equivalents,2023-03-31,2561450000.0
+PGIL,A,balance,Cash And Cash Equivalents,2024-03-31,3279529000.0
+PGIL,A,balance,Cash And Cash Equivalents,2025-03-31,5100081000.0
+PGIL,A,balance,Cash And Cash Equivalents,2026-03-31,7044115000.0
+PGIL,A,balance,Net Debt,2022-03-31,4472911000.0
+PGIL,A,balance,Net Debt,2023-03-31,1922393000.0
+PGIL,A,balance,Net Debt,2024-03-31,1171963000.0
+PGIL,A,balance,Net Debt,2025-03-31,415409000.0
+PGIL,A,balance,Ordinary Shares Number,2023-03-31,86655748.0
+PGIL,A,balance,Ordinary Shares Number,2024-03-31,87167048.0
+PGIL,A,balance,Ordinary Shares Number,2025-03-31,91870334.0
+PGIL,A,balance,Ordinary Shares Number,2026-03-31,92292034.0
+PGIL,A,balance,Stockholders Equity,2023-03-31,7224656000.0
+PGIL,A,balance,Stockholders Equity,2024-03-31,8020273000.0
+PGIL,A,balance,Stockholders Equity,2025-03-31,11556995000.0
+PGIL,A,balance,Stockholders Equity,2026-03-31,14598148000.0
+PGIL,A,balance,Total Assets,2023-03-31,17806419000.0
+PGIL,A,balance,Total Assets,2024-03-31,19854628000.0
+PGIL,A,balance,Total Assets,2025-03-31,25957993000.0
+PGIL,A,balance,Total Assets,2026-03-31,32447003000.0
+PGIL,A,balance,Total Debt,2023-03-31,5577188000.0
+PGIL,A,balance,Total Debt,2024-03-31,5883856000.0
+PGIL,A,balance,Total Debt,2025-03-31,7729828000.0
+PGIL,A,balance,Total Debt,2026-03-31,9428482000.0
+PGIL,A,cashflow,Capital Expenditure,2023-03-31,-882281000.0
+PGIL,A,cashflow,Capital Expenditure,2024-03-31,-1292683000.0
+PGIL,A,cashflow,Capital Expenditure,2025-03-31,-1191057000.0
+PGIL,A,cashflow,Capital Expenditure,2026-03-31,-1913172000.0
+PGIL,A,cashflow,Free Cash Flow,2023-03-31,2765346000.0
+PGIL,A,cashflow,Free Cash Flow,2024-03-31,2228175000.0
+PGIL,A,cashflow,Free Cash Flow,2025-03-31,572811000.0
+PGIL,A,cashflow,Free Cash Flow,2026-03-31,2070191000.0
+PGIL,A,cashflow,Operating Cash Flow,2023-03-31,3647627000.0
+PGIL,A,cashflow,Operating Cash Flow,2024-03-31,3520858000.0
+PGIL,A,cashflow,Operating Cash Flow,2025-03-31,1763868000.0
+PGIL,A,cashflow,Operating Cash Flow,2026-03-31,3983363000.0
+PGIL,A,income,Basic EPS,2023-03-31,17.225
+PGIL,A,income,Basic EPS,2024-03-31,20.13
+PGIL,A,income,Basic EPS,2025-03-31,27.48
+PGIL,A,income,Basic EPS,2026-03-31,30.17
+PGIL,A,income,Diluted EPS,2023-03-31,17.2
+PGIL,A,income,Diluted EPS,2024-03-31,20.025
+PGIL,A,income,Diluted EPS,2025-03-31,26.435
+PGIL,A,income,Diluted EPS,2026-03-31,30.08
+PGIL,A,income,EBITDA,2023-03-31,2652804000.0
+PGIL,A,income,EBITDA,2024-03-31,3172146000.0
+PGIL,A,income,EBITDA,2025-03-31,3967791000.0
+PGIL,A,income,EBITDA,2026-03-31,4589159000.0
+PGIL,A,income,Interest Expense,2023-03-31,386548000.0
+PGIL,A,income,Interest Expense,2024-03-31,609570000.0
+PGIL,A,income,Interest Expense,2025-03-31,542311000.0
+PGIL,A,income,Interest Expense,2026-03-31,623404000.0
+PGIL,A,income,Net Income,2023-03-31,1492544000.0
+PGIL,A,income,Net Income,2024-03-31,1748338000.0
+PGIL,A,income,Net Income,2025-03-31,2483317000.0
+PGIL,A,income,Net Income,2026-03-31,2776538000.0
+PGIL,A,income,Net Income Common Stockholders,2023-03-31,1492544000.0
+PGIL,A,income,Net Income Common Stockholders,2024-03-31,1748338000.0
+PGIL,A,income,Net Income Common Stockholders,2025-03-31,2483317000.0
+PGIL,A,income,Net Income Common Stockholders,2026-03-31,2776538000.0
+PGIL,A,income,Operating Income,2023-03-31,2966462000.0
+PGIL,A,income,Operating Income,2024-03-31,3016542000.0
+PGIL,A,income,Operating Income,2025-03-31,3489156000.0
+PGIL,A,income,Operating Income,2026-03-31,3993271000.0
+PGIL,A,income,Pretax Income,2023-03-31,1758492000.0
+PGIL,A,income,Pretax Income,2024-03-31,1920597000.0
+PGIL,A,income,Pretax Income,2025-03-31,2673329000.0
+PGIL,A,income,Pretax Income,2026-03-31,3093038000.0
+PGIL,A,income,Total Revenue,2023-03-31,30505233000.0
+PGIL,A,income,Total Revenue,2024-03-31,33802685000.0
+PGIL,A,income,Total Revenue,2025-03-31,44150182000.0
+PGIL,A,income,Total Revenue,2026-03-31,49440459000.0
+PGIL,Q,income,Basic EPS,2025-09-30,7.98
+PGIL,Q,income,Basic EPS,2025-12-31,5.785
+PGIL,Q,income,Basic EPS,2026-03-31,9.025
+PGIL,Q,income,Basic EPS,2026-06-30,10.885
+PGIL,Q,income,Basic EPS,2026-09-30,13.62
+PGIL,Q,income,Diluted EPS,2025-09-30,7.92
+PGIL,Q,income,Diluted EPS,2025-12-31,5.765
+PGIL,Q,income,Diluted EPS,2026-03-31,9.0
+PGIL,Q,income,Diluted EPS,2026-06-30,10.855
+PGIL,Q,income,Diluted EPS,2026-09-30,13.5
+PGIL,Q,income,EBITDA,2025-09-30,1291915000.0
+PGIL,Q,income,EBITDA,2025-12-31,1030536000.0
+PGIL,Q,income,EBITDA,2026-03-31,1441567000.0
+PGIL,Q,income,EBITDA,2026-06-30,1718125000.0
+PGIL,Q,income,EBITDA,2026-09-30,1898593000.0
+PGIL,Q,income,Interest Expense,2025-09-30,274313000.0
+PGIL,Q,income,Interest Expense,2025-12-31,221386000.0
+PGIL,Q,income,Interest Expense,2026-03-31,263018000.0
+PGIL,Q,income,Interest Expense,2026-06-30,265784000.0
+PGIL,Q,income,Interest Expense,2026-09-30,287939000.0
+PGIL,Q,income,Net Income,2025-09-30,733160000.0
+PGIL,Q,income,Net Income,2025-12-31,532564000.0
+PGIL,Q,income,Net Income,2026-03-31,832590000.0
+PGIL,Q,income,Net Income,2026-06-30,1005069000.0
+PGIL,Q,income,Net Income,2026-09-30,1257801000.0
+PGIL,Q,income,Net Income Common Stockholders,2025-09-30,733160000.0
+PGIL,Q,income,Net Income Common Stockholders,2025-12-31,532564000.0
+PGIL,Q,income,Net Income Common Stockholders,2026-03-31,832590000.0
+PGIL,Q,income,Net Income Common Stockholders,2026-06-30,1005069000.0
+PGIL,Q,income,Net Income Common Stockholders,2026-09-30,1257801000.0
+PGIL,Q,income,Operating Income,2025-09-30,986406000.0
+PGIL,Q,income,Operating Income,2025-12-31,735889000.0
+PGIL,Q,income,Operating Income,2026-03-31,1116971000.0
+PGIL,Q,income,Operating Income,2026-06-30,1381585000.0
+PGIL,Q,income,Operating Income,2026-09-30,1555514000.0
+PGIL,Q,income,Pretax Income,2025-09-30,793748000.0
+PGIL,Q,income,Pretax Income,2025-12-31,585526000.0
+PGIL,Q,income,Pretax Income,2026-03-31,950477000.0
+PGIL,Q,income,Pretax Income,2026-06-30,1195660000.0
+PGIL,Q,income,Pretax Income,2026-09-30,1347700000.0
+PGIL,Q,income,Total Revenue,2025-09-30,13129300000.0
+PGIL,Q,income,Total Revenue,2025-12-31,11701757000.0
+PGIL,Q,income,Total Revenue,2026-03-31,13135750000.0
+PGIL,Q,income,Total Revenue,2026-06-30,15282611000.0
+PGIL,Q,income,Total Revenue,2026-09-30,18015338000.0

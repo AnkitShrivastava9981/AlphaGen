@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SKIPPER,A,balance,Cash And Cash Equivalents,2023-03-31,21140000.0
+SKIPPER,A,balance,Cash And Cash Equivalents,2024-03-31,18400000.0
+SKIPPER,A,balance,Cash And Cash Equivalents,2025-03-31,57350000.0
+SKIPPER,A,balance,Cash And Cash Equivalents,2026-03-31,29360000.0
+SKIPPER,A,balance,Net Debt,2023-03-31,4796950000.0
+SKIPPER,A,balance,Net Debt,2024-03-31,5742150000.0
+SKIPPER,A,balance,Net Debt,2025-03-31,6900140000.0
+SKIPPER,A,balance,Net Debt,2026-03-31,9107700000.0
+SKIPPER,A,balance,Ordinary Shares Number,2023-03-31,105110898.0
+SKIPPER,A,balance,Ordinary Shares Number,2024-03-31,112937233.0
+SKIPPER,A,balance,Ordinary Shares Number,2025-03-31,113047121.0
+SKIPPER,A,balance,Ordinary Shares Number,2026-03-31,112937233.0
+SKIPPER,A,balance,Stockholders Equity,2023-03-31,7674130000.0
+SKIPPER,A,balance,Stockholders Equity,2024-03-31,8976200000.0
+SKIPPER,A,balance,Stockholders Equity,2025-03-31,11931030000.0
+SKIPPER,A,balance,Stockholders Equity,2026-03-31,14912290000.0
+SKIPPER,A,balance,Total Assets,2023-03-31,22226410000.0
+SKIPPER,A,balance,Total Assets,2024-03-31,31447140000.0
+SKIPPER,A,balance,Total Assets,2025-03-31,33971900000.0
+SKIPPER,A,balance,Total Assets,2026-03-31,45333040000.0
+SKIPPER,A,balance,Total Debt,2023-03-31,4939030000.0
+SKIPPER,A,balance,Total Debt,2024-03-31,5924920000.0
+SKIPPER,A,balance,Total Debt,2025-03-31,7395590000.0
+SKIPPER,A,balance,Total Debt,2026-03-31,9477870000.0
+SKIPPER,A,cashflow,Capital Expenditure,2023-03-31,-849270000.0
+SKIPPER,A,cashflow,Capital Expenditure,2024-03-31,-1019870000.0
+SKIPPER,A,cashflow,Capital Expenditure,2025-03-31,-2379010000.0
+SKIPPER,A,cashflow,Capital Expenditure,2026-03-31,-3663840000.0
+SKIPPER,A,cashflow,Free Cash Flow,2023-03-31,1992640000.0
+SKIPPER,A,cashflow,Free Cash Flow,2024-03-31,971690000.0
+SKIPPER,A,cashflow,Free Cash Flow,2025-03-31,-846270000.0
+SKIPPER,A,cashflow,Free Cash Flow,2026-03-31,-890030000.0
+SKIPPER,A,cashflow,Operating Cash Flow,2023-03-31,2841910000.0
+SKIPPER,A,cashflow,Operating Cash Flow,2024-03-31,1991560000.0
+SKIPPER,A,cashflow,Operating Cash Flow,2025-03-31,1532740000.0
+SKIPPER,A,cashflow,Operating Cash Flow,2026-03-31,2773810000.0
+SKIPPER,A,income,Basic EPS,2023-03-31,3.33
+SKIPPER,A,income,Basic EPS,2024-03-31,7.66
+SKIPPER,A,income,Basic EPS,2025-03-31,13.86
+SKIPPER,A,income,Basic EPS,2026-03-31,18.88
+SKIPPER,A,income,Diluted EPS,2023-03-31,3.33
+SKIPPER,A,income,Diluted EPS,2024-03-31,7.14
+SKIPPER,A,income,Diluted EPS,2025-03-31,13.85
+SKIPPER,A,income,Diluted EPS,2026-03-31,18.88
+SKIPPER,A,income,EBITDA,2023-03-31,1800660000.0
+SKIPPER,A,income,EBITDA,2024-03-31,3108020000.0
+SKIPPER,A,income,EBITDA,2025-03-31,4467310000.0
+SKIPPER,A,income,EBITDA,2026-03-31,5384850000.0
+SKIPPER,A,income,Interest Expense,2023-03-31,833520000.0
+SKIPPER,A,income,Interest Expense,2024-03-31,1297770000.0
+SKIPPER,A,income,Interest Expense,2025-03-31,1847850000.0
+SKIPPER,A,income,Interest Expense,2026-03-31,1772120000.0
+SKIPPER,A,income,Net Income,2023-03-31,355660000.0
+SKIPPER,A,income,Net Income,2024-03-31,816650000.0
+SKIPPER,A,income,Net Income,2025-03-31,1493460000.0
+SKIPPER,A,income,Net Income,2026-03-31,2131270000.0
+SKIPPER,A,income,Net Income Common Stockholders,2023-03-31,355660000.0
+SKIPPER,A,income,Net Income Common Stockholders,2024-03-31,816650000.0
+SKIPPER,A,income,Net Income Common Stockholders,2025-03-31,1493460000.0
+SKIPPER,A,income,Net Income Common Stockholders,2026-03-31,2131270000.0
+SKIPPER,A,income,Operating Income,2023-03-31,1800750000.0
+SKIPPER,A,income,Operating Income,2024-03-31,2721090000.0
+SKIPPER,A,income,Operating Income,2025-03-31,4023810000.0
+SKIPPER,A,income,Operating Income,2026-03-31,4792770000.0
+SKIPPER,A,income,Pretax Income,2023-03-31,499340000.0
+SKIPPER,A,income,Pretax Income,2024-03-31,1284950000.0
+SKIPPER,A,income,Pretax Income,2025-03-31,1986500000.0
+SKIPPER,A,income,Pretax Income,2026-03-31,2814740000.0
+SKIPPER,A,income,Total Revenue,2023-03-31,19620460000.0
+SKIPPER,A,income,Total Revenue,2024-03-31,31368500000.0
+SKIPPER,A,income,Total Revenue,2025-03-31,44689460000.0
+SKIPPER,A,income,Total Revenue,2026-03-31,53774150000.0
+SKIPPER,Q,income,Basic EPS,2025-09-30,3.28
+SKIPPER,Q,income,Basic EPS,2025-12-31,4.63
+SKIPPER,Q,income,Basic EPS,2026-03-31,6.96
+SKIPPER,Q,income,Basic EPS,2026-06-30,5.03
+SKIPPER,Q,income,Basic EPS,2026-09-30,4.87
+SKIPPER,Q,income,Diluted EPS,2025-09-30,3.28
+SKIPPER,Q,income,Diluted EPS,2025-12-31,4.63
+SKIPPER,Q,income,Diluted EPS,2026-03-31,6.96
+SKIPPER,Q,income,Diluted EPS,2026-06-30,5.03
+SKIPPER,Q,income,Diluted EPS,2026-09-30,4.87
+SKIPPER,Q,income,EBITDA,2025-09-30,1242200000.0
+SKIPPER,Q,income,EBITDA,2025-12-31,1456770000.0
+SKIPPER,Q,income,EBITDA,2026-03-31,1774050000.0
+SKIPPER,Q,income,EBITDA,2026-06-30,1448670000.0
+SKIPPER,Q,income,EBITDA,2026-09-30,1470200000.0
+SKIPPER,Q,income,Interest Expense,2025-09-30,535640000.0
+SKIPPER,Q,income,Interest Expense,2025-12-31,560620000.0
+SKIPPER,Q,income,Interest Expense,2026-03-31,544800000.0
+SKIPPER,Q,income,Interest Expense,2026-06-30,466940000.0
+SKIPPER,Q,income,Interest Expense,2026-09-30,440030000.0
+SKIPPER,Q,income,Net Income,2025-09-30,370290000.0
+SKIPPER,Q,income,Net Income,2025-12-31,527860000.0
+SKIPPER,Q,income,Net Income,2026-03-31,780570000.0
+SKIPPER,Q,income,Net Income,2026-06-30,568140000.0
+SKIPPER,Q,income,Net Income,2026-09-30,580440000.0
+SKIPPER,Q,income,Net Income Common Stockholders,2025-09-30,370290000.0
+SKIPPER,Q,income,Net Income Common Stockholders,2025-12-31,527860000.0
+SKIPPER,Q,income,Net Income Common Stockholders,2026-03-31,780570000.0
+SKIPPER,Q,income,Net Income Common Stockholders,2026-06-30,568140000.0
+SKIPPER,Q,income,Net Income Common Stockholders,2026-09-30,580440000.0
+SKIPPER,Q,income,Operating Income,2025-09-30,1116870000.0
+SKIPPER,Q,income,Operating Income,2025-12-31,1198310000.0
+SKIPPER,Q,income,Operating Income,2026-03-31,1518820000.0
+SKIPPER,Q,income,Operating Income,2026-06-30,1179320000.0
+SKIPPER,Q,income,Operating Income,2026-09-30,1200050000.0
+SKIPPER,Q,income,Pretax Income,2025-09-30,516530000.0
+SKIPPER,Q,income,Pretax Income,2025-12-31,680460000.0
+SKIPPER,Q,income,Pretax Income,2026-03-31,1014010000.0
+SKIPPER,Q,income,Pretax Income,2026-06-30,759920000.0
+SKIPPER,Q,income,Pretax Income,2026-09-30,782110000.0
+SKIPPER,Q,income,Total Revenue,2025-09-30,12617870000.0
+SKIPPER,Q,income,Total Revenue,2025-12-31,13705910000.0
+SKIPPER,Q,income,Total Revenue,2026-03-31,16665820000.0
+SKIPPER,Q,income,Total Revenue,2026-06-30,13098320000.0
+SKIPPER,Q,income,Total Revenue,2026-09-30,13839760000.0

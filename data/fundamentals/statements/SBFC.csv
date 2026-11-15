@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+SBFC,A,balance,Cash And Cash Equivalents,2023-03-31,1838070000.0
+SBFC,A,balance,Cash And Cash Equivalents,2024-03-31,2252110000.0
+SBFC,A,balance,Cash And Cash Equivalents,2025-03-31,2653980000.0
+SBFC,A,balance,Cash And Cash Equivalents,2026-03-31,4810420000.0
+SBFC,A,balance,Net Debt,2023-03-31,35552550000.0
+SBFC,A,balance,Net Debt,2024-03-31,37708100000.0
+SBFC,A,balance,Net Debt,2025-03-31,49989200000.0
+SBFC,A,balance,Net Debt,2026-03-31,66806710000.0
+SBFC,A,balance,Ordinary Shares Number,2023-03-31,1059459789.0
+SBFC,A,balance,Ordinary Shares Number,2024-03-31,1071888986.0
+SBFC,A,balance,Ordinary Shares Number,2025-03-31,1085184588.0
+SBFC,A,balance,Ordinary Shares Number,2026-03-31,1105704729.0
+SBFC,A,balance,Stockholders Equity,2023-03-31,17272680000.0
+SBFC,A,balance,Stockholders Equity,2024-03-31,27780660000.0
+SBFC,A,balance,Stockholders Equity,2025-03-31,31901310000.0
+SBFC,A,balance,Stockholders Equity,2026-03-31,37251520000.0
+SBFC,A,balance,Total Assets,2023-03-31,57464400000.0
+SBFC,A,balance,Total Assets,2024-03-31,70627850000.0
+SBFC,A,balance,Total Assets,2025-03-31,85958120000.0
+SBFC,A,balance,Total Assets,2026-03-31,110854020000.0
+SBFC,A,balance,Total Debt,2023-03-31,37390620000.0
+SBFC,A,balance,Total Debt,2024-03-31,39960210000.0
+SBFC,A,balance,Total Debt,2025-03-31,52643180000.0
+SBFC,A,balance,Total Debt,2026-03-31,71617130000.0
+SBFC,A,cashflow,Capital Expenditure,2023-03-31,-85400000.0
+SBFC,A,cashflow,Capital Expenditure,2024-03-31,-118890000.0
+SBFC,A,cashflow,Capital Expenditure,2025-03-31,-117230000.0
+SBFC,A,cashflow,Capital Expenditure,2026-03-31,-146850000.0
+SBFC,A,cashflow,Free Cash Flow,2023-03-31,-12531320000.0
+SBFC,A,cashflow,Free Cash Flow,2024-03-31,-11670570000.0
+SBFC,A,cashflow,Free Cash Flow,2025-03-31,-14269810000.0
+SBFC,A,cashflow,Free Cash Flow,2026-03-31,-19073830000.0
+SBFC,A,cashflow,Operating Cash Flow,2023-03-31,-12445920000.0
+SBFC,A,cashflow,Operating Cash Flow,2024-03-31,-11551680000.0
+SBFC,A,cashflow,Operating Cash Flow,2025-03-31,-14152580000.0
+SBFC,A,cashflow,Operating Cash Flow,2026-03-31,-18926980000.0
+SBFC,A,income,Basic EPS,2023-03-31,1.406979
+SBFC,A,income,Basic EPS,2024-03-31,2.35
+SBFC,A,income,Basic EPS,2025-03-31,3.2
+SBFC,A,income,Basic EPS,2026-03-31,4.13
+SBFC,A,income,Diluted EPS,2023-03-31,1.406979
+SBFC,A,income,Diluted EPS,2024-03-31,2.3
+SBFC,A,income,Diluted EPS,2025-03-31,3.15
+SBFC,A,income,Diluted EPS,2026-03-31,4.1
+SBFC,A,income,EBITDA,2023-03-31,2190030000.0
+SBFC,A,income,EBITDA,2024-03-31,3369010000.0
+SBFC,A,income,EBITDA,2025-03-31,5452230000.0
+SBFC,A,income,EBITDA,2026-03-31,7185350000.0
+SBFC,A,income,Interest Expense,2023-03-31,49230000.0
+SBFC,A,income,Interest Expense,2024-03-31,73480000.0
+SBFC,A,income,Interest Expense,2025-03-31,698990000.0
+SBFC,A,income,Interest Expense,2026-03-31,948330000.0
+SBFC,A,income,Net Income,2023-03-31,1497360000.0
+SBFC,A,income,Net Income,2024-03-31,2371040000.0
+SBFC,A,income,Net Income,2025-03-31,3451680000.0
+SBFC,A,income,Net Income,2026-03-31,4508330000.0
+SBFC,A,income,Net Income Common Stockholders,2023-03-31,1497360000.0
+SBFC,A,income,Net Income Common Stockholders,2024-03-31,2371040000.0
+SBFC,A,income,Net Income Common Stockholders,2025-03-31,3451680000.0
+SBFC,A,income,Net Income Common Stockholders,2026-03-31,4508330000.0
+SBFC,A,income,Operating Income,2023-03-31,1596380000.0
+SBFC,A,income,Operating Income,2024-03-31,3017070000.0
+SBFC,A,income,Operating Income,2025-03-31,5565820000.0
+SBFC,A,income,Operating Income,2026-03-31,7904820000.0
+SBFC,A,income,Pretax Income,2023-03-31,2013660000.0
+SBFC,A,income,Pretax Income,2024-03-31,3161390000.0
+SBFC,A,income,Pretax Income,2025-03-31,4585160000.0
+SBFC,A,income,Pretax Income,2026-03-31,6035930000.0
+SBFC,A,income,Total Revenue,2023-03-31,6365440000.0
+SBFC,A,income,Total Revenue,2024-03-31,9369720000.0
+SBFC,A,income,Total Revenue,2025-03-31,12373170000.0
+SBFC,A,income,Total Revenue,2026-03-31,16381890000.0
+SBFC,Q,income,Basic EPS,2025-06-30,0.93
+SBFC,Q,income,Basic EPS,2025-12-31,1.08
+SBFC,Q,income,Basic EPS,2026-03-31,1.12
+SBFC,Q,income,Basic EPS,2026-06-30,1.18
+SBFC,Q,income,Basic EPS,2026-09-30,1.25
+SBFC,Q,income,Diluted EPS,2025-06-30,0.91
+SBFC,Q,income,Diluted EPS,2025-12-31,1.06
+SBFC,Q,income,Diluted EPS,2026-03-31,1.11
+SBFC,Q,income,Diluted EPS,2026-06-30,1.17
+SBFC,Q,income,Diluted EPS,2026-09-30,1.25
+SBFC,Q,income,EBITDA,2025-06-30,1581180000.0
+SBFC,Q,income,EBITDA,2025-12-31,1964360000.0
+SBFC,Q,income,EBITDA,2026-03-31,2037420000.0
+SBFC,Q,income,EBITDA,2026-06-30,2181420000.0
+SBFC,Q,income,EBITDA,2026-09-30,2299160000.0
+SBFC,Q,income,Net Income,2025-06-30,1008920000.0
+SBFC,Q,income,Net Income,2025-12-31,1180400000.0
+SBFC,Q,income,Net Income,2026-03-31,1227670000.0
+SBFC,Q,income,Net Income,2026-06-30,1301230000.0
+SBFC,Q,income,Net Income,2026-09-30,1388740000.0
+SBFC,Q,income,Net Income Common Stockholders,2025-06-30,1008920000.0
+SBFC,Q,income,Net Income Common Stockholders,2025-12-31,1180400000.0
+SBFC,Q,income,Net Income Common Stockholders,2026-03-31,1227670000.0
+SBFC,Q,income,Net Income Common Stockholders,2026-06-30,1301230000.0
+SBFC,Q,income,Net Income Common Stockholders,2026-09-30,1388740000.0
+SBFC,Q,income,Operating Income,2025-06-30,1530810000.0
+SBFC,Q,income,Operating Income,2025-12-31,1914500000.0
+SBFC,Q,income,Operating Income,2026-03-31,1987350000.0
+SBFC,Q,income,Operating Income,2026-06-30,2132930000.0
+SBFC,Q,income,Operating Income,2026-09-30,2247880000.0
+SBFC,Q,income,Pretax Income,2025-06-30,1357110000.0
+SBFC,Q,income,Pretax Income,2025-12-31,1578700000.0
+SBFC,Q,income,Pretax Income,2026-03-31,1641290000.0
+SBFC,Q,income,Pretax Income,2026-06-30,1741220000.0
+SBFC,Q,income,Pretax Income,2026-09-30,1857790000.0
+SBFC,Q,income,Total Revenue,2025-06-30,3797200000.0
+SBFC,Q,income,Total Revenue,2025-12-31,4253990000.0
+SBFC,Q,income,Total Revenue,2026-03-31,4499340000.0
+SBFC,Q,income,Total Revenue,2026-06-30,4869540000.0
+SBFC,Q,income,Total Revenue,2026-09-30,5421370000.0

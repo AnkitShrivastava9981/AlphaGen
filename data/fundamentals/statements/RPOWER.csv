@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+RPOWER,A,balance,Cash And Cash Equivalents,2023-03-31,1872800000.0
+RPOWER,A,balance,Cash And Cash Equivalents,2024-03-31,4355700000.0
+RPOWER,A,balance,Cash And Cash Equivalents,2025-03-31,3605900000.0
+RPOWER,A,balance,Cash And Cash Equivalents,2026-03-31,5042500000.0
+RPOWER,A,balance,Net Debt,2023-03-31,210487500000.0
+RPOWER,A,balance,Net Debt,2024-03-31,183302600000.0
+RPOWER,A,balance,Net Debt,2025-03-31,147924900000.0
+RPOWER,A,balance,Net Debt,2026-03-31,143077800000.0
+RPOWER,A,balance,Ordinary Shares Number,2023-03-31,3735205966.0
+RPOWER,A,balance,Ordinary Shares Number,2024-03-31,4016970966.0
+RPOWER,A,balance,Ordinary Shares Number,2025-03-31,4016970966.0
+RPOWER,A,balance,Ordinary Shares Number,2026-03-31,4135770966.0
+RPOWER,A,balance,Stockholders Equity,2023-03-31,115953800000.0
+RPOWER,A,balance,Stockholders Equity,2024-03-31,116138600000.0
+RPOWER,A,balance,Stockholders Equity,2025-03-31,163371800000.0
+RPOWER,A,balance,Stockholders Equity,2026-03-31,160394200000.0
+RPOWER,A,balance,Total Assets,2023-03-31,485354200000.0
+RPOWER,A,balance,Total Assets,2024-03-31,437580100000.0
+RPOWER,A,balance,Total Assets,2025-03-31,412829200000.0
+RPOWER,A,balance,Total Assets,2026-03-31,412925900000.0
+RPOWER,A,balance,Total Debt,2023-03-31,212360300000.0
+RPOWER,A,balance,Total Debt,2024-03-31,187658300000.0
+RPOWER,A,balance,Total Debt,2025-03-31,151530800000.0
+RPOWER,A,balance,Total Debt,2026-03-31,148120300000.0
+RPOWER,A,cashflow,Capital Expenditure,2022-03-31,-1961600000.0
+RPOWER,A,cashflow,Capital Expenditure,2023-03-31,-3844900000.0
+RPOWER,A,cashflow,Capital Expenditure,2026-03-31,-1159300000.0
+RPOWER,A,cashflow,Free Cash Flow,2023-03-31,36392500000.0
+RPOWER,A,cashflow,Free Cash Flow,2024-03-31,31739700000.0
+RPOWER,A,cashflow,Free Cash Flow,2025-03-31,19379200000.0
+RPOWER,A,cashflow,Free Cash Flow,2026-03-31,27084300000.0
+RPOWER,A,cashflow,Operating Cash Flow,2023-03-31,40237400000.0
+RPOWER,A,cashflow,Operating Cash Flow,2024-03-31,31739700000.0
+RPOWER,A,cashflow,Operating Cash Flow,2025-03-31,19379200000.0
+RPOWER,A,cashflow,Operating Cash Flow,2026-03-31,28243600000.0
+RPOWER,A,income,Basic EPS,2023-03-31,-1.353
+RPOWER,A,income,Basic EPS,2024-03-31,-5.458
+RPOWER,A,income,Basic EPS,2025-03-31,7.338
+RPOWER,A,income,Basic EPS,2026-03-31,-0.817
+RPOWER,A,income,Diluted EPS,2023-03-31,-1.353
+RPOWER,A,income,Diluted EPS,2024-03-31,-5.458
+RPOWER,A,income,Diluted EPS,2025-03-31,7.197
+RPOWER,A,income,Diluted EPS,2026-03-31,-0.817
+RPOWER,A,income,EBITDA,2023-03-31,28026100000.0
+RPOWER,A,income,EBITDA,2024-03-31,12567800000.0
+RPOWER,A,income,EBITDA,2025-03-31,58447700000.0
+RPOWER,A,income,EBITDA,2026-03-31,24042700000.0
+RPOWER,A,income,Interest Expense,2023-03-31,18538400000.0
+RPOWER,A,income,Interest Expense,2024-03-31,20281800000.0
+RPOWER,A,income,Interest Expense,2025-03-31,17014600000.0
+RPOWER,A,income,Interest Expense,2026-03-31,15392900000.0
+RPOWER,A,income,Net Income,2023-03-31,-4707700000.0
+RPOWER,A,income,Net Income,2024-03-31,-20683800000.0
+RPOWER,A,income,Net Income,2025-03-31,29478300000.0
+RPOWER,A,income,Net Income,2026-03-31,-3368900000.0
+RPOWER,A,income,Net Income Common Stockholders,2023-03-31,-4707700000.0
+RPOWER,A,income,Net Income Common Stockholders,2024-03-31,-20683800000.0
+RPOWER,A,income,Net Income Common Stockholders,2025-03-31,29478300000.0
+RPOWER,A,income,Net Income Common Stockholders,2026-03-31,-3368900000.0
+RPOWER,A,income,Operating Income,2023-03-31,4883700000.0
+RPOWER,A,income,Operating Income,2024-03-31,-2920600000.0
+RPOWER,A,income,Operating Income,2025-03-31,13720300000.0
+RPOWER,A,income,Operating Income,2026-03-31,12859700000.0
+RPOWER,A,income,Pretax Income,2023-03-31,-2789800000.0
+RPOWER,A,income,Pretax Income,2024-03-31,-20281500000.0
+RPOWER,A,income,Pretax Income,2025-03-31,30472900000.0
+RPOWER,A,income,Pretax Income,2026-03-31,-1448900000.0
+RPOWER,A,income,Total Revenue,2023-03-31,70326000000.0
+RPOWER,A,income,Total Revenue,2024-03-31,74264500000.0
+RPOWER,A,income,Total Revenue,2025-03-31,71532100000.0
+RPOWER,A,income,Total Revenue,2026-03-31,72042300000.0
+RPOWER,Q,income,Basic EPS,2025-06-30,0.109
+RPOWER,Q,income,Basic EPS,2025-09-30,0.211
+RPOWER,Q,income,Basic EPS,2025-12-31,0.061
+RPOWER,Q,income,Basic EPS,2026-03-31,-1.194
+RPOWER,Q,income,Basic EPS,2026-06-30,0.156
+RPOWER,Q,income,Diluted EPS,2025-06-30,0.106
+RPOWER,Q,income,Diluted EPS,2025-09-30,0.205
+RPOWER,Q,income,Diluted EPS,2025-12-31,0.06
+RPOWER,Q,income,Diluted EPS,2026-03-31,-1.194
+RPOWER,Q,income,Diluted EPS,2026-06-30,0.156
+RPOWER,Q,income,EBITDA,2025-06-30,7047700000.0
+RPOWER,Q,income,EBITDA,2025-09-30,7107400000.0
+RPOWER,Q,income,EBITDA,2025-12-31,6812600000.0
+RPOWER,Q,income,EBITDA,2026-03-31,2537600000.0
+RPOWER,Q,income,EBITDA,2026-06-30,7098400000.0
+RPOWER,Q,income,Interest Expense,2025-06-30,4258700000.0
+RPOWER,Q,income,Interest Expense,2025-09-30,3950200000.0
+RPOWER,Q,income,Interest Expense,2025-12-31,3712600000.0
+RPOWER,Q,income,Interest Expense,2026-03-31,4740600000.0
+RPOWER,Q,income,Interest Expense,2026-06-30,3866300000.0
+RPOWER,Q,income,Net Income,2025-06-30,446800000.0
+RPOWER,Q,income,Net Income,2025-09-30,873200000.0
+RPOWER,Q,income,Net Income,2025-12-31,251100000.0
+RPOWER,Q,income,Net Income,2026-03-31,-4940000000.0
+RPOWER,Q,income,Net Income,2026-06-30,647100000.0
+RPOWER,Q,income,Net Income Common Stockholders,2025-06-30,446800000.0
+RPOWER,Q,income,Net Income Common Stockholders,2025-09-30,873200000.0
+RPOWER,Q,income,Net Income Common Stockholders,2025-12-31,251100000.0
+RPOWER,Q,income,Net Income Common Stockholders,2026-03-31,-4940000000.0
+RPOWER,Q,income,Net Income Common Stockholders,2026-06-30,647100000.0
+RPOWER,Q,income,Operating Income,2025-06-30,3584400000.0
+RPOWER,Q,income,Operating Income,2025-09-30,4101500000.0
+RPOWER,Q,income,Operating Income,2025-12-31,3944500000.0
+RPOWER,Q,income,Operating Income,2026-03-31,3710700000.0
+RPOWER,Q,income,Operating Income,2026-06-30,3551300000.0
+RPOWER,Q,income,Pretax Income,2025-06-30,723000000.0
+RPOWER,Q,income,Pretax Income,2025-09-30,1082000000.0
+RPOWER,Q,income,Pretax Income,2025-12-31,1001300000.0
+RPOWER,Q,income,Pretax Income,2026-03-31,-4255200000.0
+RPOWER,Q,income,Pretax Income,2026-06-30,1159300000.0
+RPOWER,Q,income,Total Revenue,2025-06-30,18855800000.0
+RPOWER,Q,income,Total Revenue,2025-09-30,19740300000.0
+RPOWER,Q,income,Total Revenue,2025-12-31,18728400000.0
+RPOWER,Q,income,Total Revenue,2026-03-31,18872600000.0
+RPOWER,Q,income,Total Revenue,2026-06-30,19563200000.0

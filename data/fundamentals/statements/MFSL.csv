@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+MFSL,A,balance,Cash And Cash Equivalents,2023-03-31,12259018000.0
+MFSL,A,balance,Cash And Cash Equivalents,2024-03-31,16968250000.0
+MFSL,A,balance,Cash And Cash Equivalents,2025-03-31,14537501000.0
+MFSL,A,balance,Cash And Cash Equivalents,2026-03-31,24027499000.0
+MFSL,A,balance,Ordinary Shares Number,2023-03-31,345114771.0
+MFSL,A,balance,Ordinary Shares Number,2024-03-31,343625221.0
+MFSL,A,balance,Ordinary Shares Number,2025-03-31,343446614.0
+MFSL,A,balance,Ordinary Shares Number,2026-03-31,343298749.0
+MFSL,A,balance,Stockholders Equity,2023-03-31,35182386000.0
+MFSL,A,balance,Stockholders Equity,2024-03-31,38659257000.0
+MFSL,A,balance,Stockholders Equity,2025-03-31,52745179000.0
+MFSL,A,balance,Stockholders Equity,2026-03-31,52817861000.0
+MFSL,A,balance,Total Assets,2023-03-31,1318237811000.0
+MFSL,A,balance,Total Assets,2024-03-31,1627734686000.0
+MFSL,A,balance,Total Assets,2025-03-31,1901796498000.0
+MFSL,A,balance,Total Assets,2026-03-31,1989355505000.0
+MFSL,A,balance,Total Debt,2023-03-31,8307296000.0
+MFSL,A,balance,Total Debt,2024-03-31,8438522000.0
+MFSL,A,balance,Total Debt,2025-03-31,14421134000.0
+MFSL,A,balance,Total Debt,2026-03-31,23487702000.0
+MFSL,A,cashflow,Capital Expenditure,2023-03-31,-1739313000.0
+MFSL,A,cashflow,Capital Expenditure,2024-03-31,-2228124000.0
+MFSL,A,cashflow,Capital Expenditure,2025-03-31,-2180822000.0
+MFSL,A,cashflow,Capital Expenditure,2026-03-31,-2444351000.0
+MFSL,A,cashflow,Free Cash Flow,2023-03-31,97483546000.0
+MFSL,A,cashflow,Free Cash Flow,2024-03-31,58815496000.0
+MFSL,A,cashflow,Free Cash Flow,2025-03-31,81335224000.0
+MFSL,A,cashflow,Free Cash Flow,2026-03-31,112282604000.0
+MFSL,A,cashflow,Operating Cash Flow,2023-03-31,99222859000.0
+MFSL,A,cashflow,Operating Cash Flow,2024-03-31,61043620000.0
+MFSL,A,cashflow,Operating Cash Flow,2025-03-31,83516046000.0
+MFSL,A,cashflow,Operating Cash Flow,2026-03-31,114726955000.0
+MFSL,A,income,Basic EPS,2023-03-31,10.97
+MFSL,A,income,Basic EPS,2024-03-31,9.9
+MFSL,A,income,Basic EPS,2025-03-31,9.53
+MFSL,A,income,Basic EPS,2026-03-31,2.45
+MFSL,A,income,Diluted EPS,2023-03-31,10.97
+MFSL,A,income,Diluted EPS,2024-03-31,9.9
+MFSL,A,income,Diluted EPS,2025-03-31,9.53
+MFSL,A,income,Diluted EPS,2026-03-31,2.45
+MFSL,A,income,Interest Expense,2023-03-31,1089000.0
+MFSL,A,income,Interest Expense,2024-03-31,288845000.0
+MFSL,A,income,Interest Expense,2025-03-31,332185000.0
+MFSL,A,income,Interest Expense,2026-03-31,368905000.0
+MFSL,A,income,Net Income,2023-03-31,3784860000.0
+MFSL,A,income,Net Income,2024-03-31,3401071000.0
+MFSL,A,income,Net Income,2025-03-31,3272281000.0
+MFSL,A,income,Net Income,2026-03-31,839895000.0
+MFSL,A,income,Net Income Common Stockholders,2023-03-31,3784860000.0
+MFSL,A,income,Net Income Common Stockholders,2024-03-31,3400800000.0
+MFSL,A,income,Net Income Common Stockholders,2025-03-31,3272281000.0
+MFSL,A,income,Net Income Common Stockholders,2026-03-31,839895000.0
+MFSL,A,income,Pretax Income,2023-03-31,5272071000.0
+MFSL,A,income,Pretax Income,2024-03-31,4161076000.0
+MFSL,A,income,Pretax Income,2025-03-31,4501139000.0
+MFSL,A,income,Pretax Income,2026-03-31,1197887000.0
+MFSL,A,income,Total Revenue,2023-03-31,313279828000.0
+MFSL,A,income,Total Revenue,2024-03-31,464943825000.0
+MFSL,A,income,Total Revenue,2025-03-31,463960186000.0
+MFSL,A,income,Total Revenue,2026-03-31,475905134000.0
+MFSL,Q,income,Basic EPS,2025-09-30,0.12
+MFSL,Q,income,Basic EPS,2025-12-31,1.07
+MFSL,Q,income,Basic EPS,2026-03-31,-0.77
+MFSL,Q,income,Basic EPS,2026-06-30,2.78
+MFSL,Q,income,Basic EPS,2026-09-30,2.33
+MFSL,Q,income,Diluted EPS,2025-09-30,0.12
+MFSL,Q,income,Diluted EPS,2025-12-31,1.07
+MFSL,Q,income,Diluted EPS,2026-03-31,-0.77
+MFSL,Q,income,Diluted EPS,2026-06-30,2.78
+MFSL,Q,income,Diluted EPS,2026-09-30,2.33
+MFSL,Q,income,Interest Expense,2025-09-30,357400000.0
+MFSL,Q,income,Interest Expense,2025-12-31,359300000.0
+MFSL,Q,income,Interest Expense,2026-03-31,351300000.0
+MFSL,Q,income,Interest Expense,2026-06-30,399800000.0
+MFSL,Q,income,Interest Expense,2026-09-30,546200000.0
+MFSL,Q,income,Net Income,2025-09-30,41200000.0
+MFSL,Q,income,Net Income,2025-12-31,365600000.0
+MFSL,Q,income,Net Income,2026-03-31,-263500000.0
+MFSL,Q,income,Net Income,2026-06-30,955600000.0
+MFSL,Q,income,Net Income,2026-09-30,799200000.0
+MFSL,Q,income,Net Income Common Stockholders,2025-09-30,41200000.0
+MFSL,Q,income,Net Income Common Stockholders,2025-12-31,365600000.0
+MFSL,Q,income,Net Income Common Stockholders,2026-03-31,-263500000.0
+MFSL,Q,income,Net Income Common Stockholders,2026-06-30,955600000.0
+MFSL,Q,income,Net Income Common Stockholders,2026-09-30,799200000.0
+MFSL,Q,income,Pretax Income,2025-09-30,63000000.0
+MFSL,Q,income,Pretax Income,2025-12-31,500600000.0
+MFSL,Q,income,Pretax Income,2026-03-31,-380700000.0
+MFSL,Q,income,Pretax Income,2026-06-30,1379200000.0
+MFSL,Q,income,Pretax Income,2026-09-30,1087700000.0
+MFSL,Q,income,Total Revenue,2025-09-30,97942200000.0
+MFSL,Q,income,Total Revenue,2025-12-31,142589100000.0
+MFSL,Q,income,Total Revenue,2026-03-31,108012800000.0
+MFSL,Q,income,Total Revenue,2026-06-30,149698400000.0
+MFSL,Q,income,Total Revenue,2026-09-30,116011000000.0

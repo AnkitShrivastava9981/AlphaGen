@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+CUB,A,balance,Cash And Cash Equivalents,2023-03-31,66492749000.0
+CUB,A,balance,Cash And Cash Equivalents,2024-03-31,69435270000.0
+CUB,A,balance,Cash And Cash Equivalents,2025-03-31,52905427000.0
+CUB,A,balance,Cash And Cash Equivalents,2026-03-31,89270692000.0
+CUB,A,balance,Ordinary Shares Number,2023-03-31,987221846.0
+CUB,A,balance,Ordinary Shares Number,2024-03-31,987562538.0
+CUB,A,balance,Ordinary Shares Number,2025-03-31,987980978.0
+CUB,A,balance,Ordinary Shares Number,2026-03-31,990729682.0
+CUB,A,balance,Stockholders Equity,2023-03-31,74572102000.0
+CUB,A,balance,Stockholders Equity,2024-03-31,84014315000.0
+CUB,A,balance,Stockholders Equity,2025-03-31,94666172000.0
+CUB,A,balance,Stockholders Equity,2026-03-31,105648632000.0
+CUB,A,balance,Total Assets,2023-03-31,665945620000.0
+CUB,A,balance,Total Assets,2024-03-31,708258685000.0
+CUB,A,balance,Total Assets,2025-03-31,776232149000.0
+CUB,A,balance,Total Assets,2026-03-31,970243952000.0
+CUB,A,balance,Total Debt,2023-03-31,46880949000.0
+CUB,A,balance,Total Debt,2024-03-31,33721577000.0
+CUB,A,balance,Total Debt,2025-03-31,17904100000.0
+CUB,A,balance,Total Debt,2026-03-31,48267979000.0
+CUB,A,cashflow,Capital Expenditure,2023-03-31,-989817000.0
+CUB,A,cashflow,Capital Expenditure,2024-03-31,-1682966000.0
+CUB,A,cashflow,Capital Expenditure,2025-03-31,-1977846000.0
+CUB,A,cashflow,Capital Expenditure,2026-03-31,-3525443000.0
+CUB,A,cashflow,Free Cash Flow,2023-03-31,6251438000.0
+CUB,A,cashflow,Free Cash Flow,2024-03-31,2679024000.0
+CUB,A,cashflow,Free Cash Flow,2025-03-31,9305184000.0
+CUB,A,cashflow,Free Cash Flow,2026-03-31,4499275000.0
+CUB,A,cashflow,Operating Cash Flow,2023-03-31,7241255000.0
+CUB,A,cashflow,Operating Cash Flow,2024-03-31,4361990000.0
+CUB,A,cashflow,Operating Cash Flow,2025-03-31,11283030000.0
+CUB,A,cashflow,Operating Cash Flow,2026-03-31,8024718000.0
+CUB,A,income,Basic EPS,2023-03-31,9.5025
+CUB,A,income,Basic EPS,2024-03-31,10.29
+CUB,A,income,Basic EPS,2025-03-31,11.3775
+CUB,A,income,Basic EPS,2026-03-31,13.41
+CUB,A,income,Diluted EPS,2023-03-31,9.4275
+CUB,A,income,Diluted EPS,2024-03-31,10.215
+CUB,A,income,Diluted EPS,2025-03-31,11.3025
+CUB,A,income,Diluted EPS,2026-03-31,13.3725
+CUB,A,income,Interest Expense,2023-03-31,25515407000.0
+CUB,A,income,Interest Expense,2024-03-31,31471008000.0
+CUB,A,income,Interest Expense,2025-03-31,35183292000.0
+CUB,A,income,Interest Expense,2026-03-31,40399246000.0
+CUB,A,income,Net Income,2023-03-31,9374795000.0
+CUB,A,income,Net Income,2024-03-31,10157309000.0
+CUB,A,income,Net Income,2025-03-31,11236263000.0
+CUB,A,income,Net Income,2026-03-31,13262310000.0
+CUB,A,income,Net Income Common Stockholders,2023-03-31,9374795000.0
+CUB,A,income,Net Income Common Stockholders,2024-03-31,10157309000.0
+CUB,A,income,Net Income Common Stockholders,2025-03-31,11236263000.0
+CUB,A,income,Net Income Common Stockholders,2026-03-31,13262310000.0
+CUB,A,income,Pretax Income,2023-03-31,11774795000.0
+CUB,A,income,Pretax Income,2024-03-31,12307309000.0
+CUB,A,income,Pretax Income,2025-03-31,14166263000.0
+CUB,A,income,Pretax Income,2026-03-31,16712310000.0
+CUB,A,income,Total Revenue,2023-03-31,29730292000.0
+CUB,A,income,Total Revenue,2024-03-31,28650940000.0
+CUB,A,income,Total Revenue,2025-03-31,32137263000.0
+CUB,A,income,Total Revenue,2026-03-31,38649155000.0
+CUB,Q,income,Basic EPS,2025-09-30,3.32
+CUB,Q,income,Basic EPS,2025-12-31,3.36
+CUB,Q,income,Basic EPS,2026-03-31,3.63
+CUB,Q,income,Basic EPS,2026-06-30,3.86
+CUB,Q,income,Basic EPS,2026-09-30,4.2
+CUB,Q,income,Diluted EPS,2025-09-30,3.31
+CUB,Q,income,Diluted EPS,2025-12-31,3.345
+CUB,Q,income,Diluted EPS,2026-03-31,3.6225
+CUB,Q,income,Diluted EPS,2026-06-30,3.85
+CUB,Q,income,Diluted EPS,2026-09-30,4.19
+CUB,Q,income,Interest Expense,2025-09-30,9865630000.0
+CUB,Q,income,Interest Expense,2025-12-31,10035068000.0
+CUB,Q,income,Interest Expense,2026-03-31,10697843000.0
+CUB,Q,income,Interest Expense,2026-06-30,11648510000.0
+CUB,Q,income,Interest Expense,2026-09-30,12194900000.0
+CUB,Q,income,Net Income,2025-06-30,3059196000.0
+CUB,Q,income,Net Income,2025-12-31,3321609000.0
+CUB,Q,income,Net Income,2026-03-31,3595649000.0
+CUB,Q,income,Net Income,2026-06-30,3825732000.0
+CUB,Q,income,Net Income,2026-09-30,4159121000.0
+CUB,Q,income,Net Income Common Stockholders,2025-06-30,3059196000.0
+CUB,Q,income,Net Income Common Stockholders,2025-12-31,3321609000.0
+CUB,Q,income,Net Income Common Stockholders,2026-03-31,3595649000.0
+CUB,Q,income,Net Income Common Stockholders,2026-06-30,3825732000.0
+CUB,Q,income,Net Income Common Stockholders,2026-09-30,4159121000.0
+CUB,Q,income,Pretax Income,2025-06-30,3809196000.0
+CUB,Q,income,Pretax Income,2025-12-31,4171609000.0
+CUB,Q,income,Pretax Income,2026-03-31,4595649000.0
+CUB,Q,income,Pretax Income,2026-06-30,5025732000.0
+CUB,Q,income,Pretax Income,2026-09-30,5409121000.0
+CUB,Q,income,Total Revenue,2025-09-30,9256964000.0
+CUB,Q,income,Total Revenue,2025-12-31,9975218000.0
+CUB,Q,income,Total Revenue,2026-03-31,10763094000.0
+CUB,Q,income,Total Revenue,2026-06-30,10637234000.0
+CUB,Q,income,Total Revenue,2026-09-30,12229710000.0

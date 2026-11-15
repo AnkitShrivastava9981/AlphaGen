@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+VIJAYA,A,balance,Cash And Cash Equivalents,2023-03-31,241722000.0
+VIJAYA,A,balance,Cash And Cash Equivalents,2024-03-31,222406000.0
+VIJAYA,A,balance,Cash And Cash Equivalents,2025-03-31,127940000.0
+VIJAYA,A,balance,Cash And Cash Equivalents,2026-03-31,396752000.0
+VIJAYA,A,balance,Ordinary Shares Number,2023-03-31,102071175.0
+VIJAYA,A,balance,Ordinary Shares Number,2024-03-31,102345693.0
+VIJAYA,A,balance,Ordinary Shares Number,2025-03-31,102636278.0
+VIJAYA,A,balance,Ordinary Shares Number,2026-03-31,102896728.0
+VIJAYA,A,balance,Stockholders Equity,2023-03-31,5447294000.0
+VIJAYA,A,balance,Stockholders Equity,2024-03-31,6571934000.0
+VIJAYA,A,balance,Stockholders Equity,2025-03-31,7991425000.0
+VIJAYA,A,balance,Stockholders Equity,2026-03-31,9571518000.0
+VIJAYA,A,balance,Total Assets,2023-03-31,8534069000.0
+VIJAYA,A,balance,Total Assets,2024-03-31,9827527000.0
+VIJAYA,A,balance,Total Assets,2025-03-31,12736164000.0
+VIJAYA,A,balance,Total Assets,2026-03-31,15070483000.0
+VIJAYA,A,balance,Total Debt,2023-03-31,2475590000.0
+VIJAYA,A,balance,Total Debt,2024-03-31,2591823000.0
+VIJAYA,A,balance,Total Debt,2025-03-31,3195767000.0
+VIJAYA,A,balance,Total Debt,2026-03-31,4225850000.0
+VIJAYA,A,cashflow,Capital Expenditure,2023-03-31,-1248426000.0
+VIJAYA,A,cashflow,Capital Expenditure,2024-03-31,-879639000.0
+VIJAYA,A,cashflow,Capital Expenditure,2025-03-31,-955525000.0
+VIJAYA,A,cashflow,Capital Expenditure,2026-03-31,-1827154000.0
+VIJAYA,A,cashflow,Free Cash Flow,2023-03-31,397691000.0
+VIJAYA,A,cashflow,Free Cash Flow,2024-03-31,953370000.0
+VIJAYA,A,cashflow,Free Cash Flow,2025-03-31,1289200000.0
+VIJAYA,A,cashflow,Free Cash Flow,2026-03-31,878750000.0
+VIJAYA,A,cashflow,Operating Cash Flow,2023-03-31,1646117000.0
+VIJAYA,A,cashflow,Operating Cash Flow,2024-03-31,1833009000.0
+VIJAYA,A,cashflow,Operating Cash Flow,2025-03-31,2244725000.0
+VIJAYA,A,cashflow,Operating Cash Flow,2026-03-31,2705904000.0
+VIJAYA,A,income,Basic EPS,2023-03-31,8.29
+VIJAYA,A,income,Basic EPS,2024-03-31,11.62
+VIJAYA,A,income,Basic EPS,2025-03-31,13.99
+VIJAYA,A,income,Basic EPS,2026-03-31,16.81
+VIJAYA,A,income,Diluted EPS,2023-03-31,8.26
+VIJAYA,A,income,Diluted EPS,2024-03-31,11.59
+VIJAYA,A,income,Diluted EPS,2025-03-31,13.97
+VIJAYA,A,income,Diluted EPS,2026-03-31,16.79
+VIJAYA,A,income,EBITDA,2023-03-31,1946547000.0
+VIJAYA,A,income,EBITDA,2024-03-31,2376395000.0
+VIJAYA,A,income,EBITDA,2025-03-31,2883071000.0
+VIJAYA,A,income,EBITDA,2026-03-31,3558308000.0
+VIJAYA,A,income,Interest Expense,2023-03-31,194246000.0
+VIJAYA,A,income,Interest Expense,2024-03-31,219624000.0
+VIJAYA,A,income,Interest Expense,2025-03-31,245456000.0
+VIJAYA,A,income,Interest Expense,2026-03-31,313275000.0
+VIJAYA,A,income,Net Income,2023-03-31,846316000.0
+VIJAYA,A,income,Net Income,2024-03-31,1188253000.0
+VIJAYA,A,income,Net Income,2025-03-31,1437935000.0
+VIJAYA,A,income,Net Income,2026-03-31,1729766000.0
+VIJAYA,A,income,Net Income Common Stockholders,2023-03-31,846316000.0
+VIJAYA,A,income,Net Income Common Stockholders,2024-03-31,1188253000.0
+VIJAYA,A,income,Net Income Common Stockholders,2025-03-31,1437935000.0
+VIJAYA,A,income,Net Income Common Stockholders,2026-03-31,1729766000.0
+VIJAYA,A,income,Operating Income,2023-03-31,1204410000.0
+VIJAYA,A,income,Operating Income,2024-03-31,1639027000.0
+VIJAYA,A,income,Operating Income,2025-03-31,2026185000.0
+VIJAYA,A,income,Operating Income,2026-03-31,2451106000.0
+VIJAYA,A,income,Pretax Income,2023-03-31,1135100000.0
+VIJAYA,A,income,Pretax Income,2024-03-31,1586809000.0
+VIJAYA,A,income,Pretax Income,2025-03-31,1931641000.0
+VIJAYA,A,income,Pretax Income,2026-03-31,2326789000.0
+VIJAYA,A,income,Total Revenue,2023-03-31,4590039000.0
+VIJAYA,A,income,Total Revenue,2024-03-31,5475791000.0
+VIJAYA,A,income,Total Revenue,2025-03-31,6809564000.0
+VIJAYA,A,income,Total Revenue,2026-03-31,8138805000.0
+VIJAYA,Q,income,Basic EPS,2025-06-30,3.76
+VIJAYA,Q,income,Basic EPS,2025-12-31,4.2
+VIJAYA,Q,income,Basic EPS,2026-03-31,4.66
+VIJAYA,Q,income,Basic EPS,2026-06-30,5.16
+VIJAYA,Q,income,Basic EPS,2026-09-30,5.78
+VIJAYA,Q,income,Diluted EPS,2025-06-30,3.75
+VIJAYA,Q,income,Diluted EPS,2025-12-31,4.19
+VIJAYA,Q,income,Diluted EPS,2026-03-31,4.65
+VIJAYA,Q,income,Diluted EPS,2026-06-30,5.15
+VIJAYA,Q,income,Diluted EPS,2026-09-30,5.76
+VIJAYA,Q,income,EBITDA,2025-06-30,805821000.0
+VIJAYA,Q,income,EBITDA,2025-12-31,911562000.0
+VIJAYA,Q,income,EBITDA,2026-03-31,979204000.0
+VIJAYA,Q,income,EBITDA,2026-06-30,1070700000.0
+VIJAYA,Q,income,EBITDA,2026-09-30,1176978000.0
+VIJAYA,Q,income,Interest Expense,2025-06-30,74854000.0
+VIJAYA,Q,income,Interest Expense,2025-12-31,85945000.0
+VIJAYA,Q,income,Interest Expense,2026-03-31,93238000.0
+VIJAYA,Q,income,Interest Expense,2026-06-30,110032000.0
+VIJAYA,Q,income,Interest Expense,2026-09-30,113794000.0
+VIJAYA,Q,income,Net Income,2025-06-30,385890000.0
+VIJAYA,Q,income,Net Income,2025-12-31,431753000.0
+VIJAYA,Q,income,Net Income,2026-03-31,479293000.0
+VIJAYA,Q,income,Net Income,2026-06-30,531011000.0
+VIJAYA,Q,income,Net Income,2026-09-30,594735000.0
+VIJAYA,Q,income,Net Income Common Stockholders,2025-06-30,385890000.0
+VIJAYA,Q,income,Net Income Common Stockholders,2025-12-31,431753000.0
+VIJAYA,Q,income,Net Income Common Stockholders,2026-03-31,479293000.0
+VIJAYA,Q,income,Net Income Common Stockholders,2026-06-30,531011000.0
+VIJAYA,Q,income,Net Income Common Stockholders,2026-09-30,594735000.0
+VIJAYA,Q,income,Operating Income,2025-06-30,526436000.0
+VIJAYA,Q,income,Operating Income,2025-12-31,617154000.0
+VIJAYA,Q,income,Operating Income,2026-03-31,711917000.0
+VIJAYA,Q,income,Operating Income,2026-06-30,734174000.0
+VIJAYA,Q,income,Operating Income,2026-09-30,858449000.0
+VIJAYA,Q,income,Pretax Income,2025-06-30,522066000.0
+VIJAYA,Q,income,Pretax Income,2025-12-31,582228000.0
+VIJAYA,Q,income,Pretax Income,2026-03-31,642682000.0
+VIJAYA,Q,income,Pretax Income,2026-06-30,709445000.0
+VIJAYA,Q,income,Pretax Income,2026-09-30,794165000.0
+VIJAYA,Q,income,Total Revenue,2025-06-30,1880531000.0
+VIJAYA,Q,income,Total Revenue,2025-12-31,2052103000.0
+VIJAYA,Q,income,Total Revenue,2026-03-31,2193767000.0
+VIJAYA,Q,income,Total Revenue,2026-06-30,2309819000.0
+VIJAYA,Q,income,Total Revenue,2026-09-30,2553872000.0

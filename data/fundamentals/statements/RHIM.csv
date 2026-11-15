@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+RHIM,A,balance,Cash And Cash Equivalents,2023-03-31,3224196000.0
+RHIM,A,balance,Cash And Cash Equivalents,2024-03-31,500329000.0
+RHIM,A,balance,Cash And Cash Equivalents,2025-03-31,967480000.0
+RHIM,A,balance,Cash And Cash Equivalents,2026-03-31,1575711000.0
+RHIM,A,balance,Net Debt,2023-03-31,11702357000.0
+RHIM,A,balance,Net Debt,2024-03-31,3125518000.0
+RHIM,A,balance,Net Debt,2025-03-31,1490877000.0
+RHIM,A,balance,Net Debt,2026-03-31,1642024000.0
+RHIM,A,balance,Ordinary Shares Number,2023-03-31,187996331.0
+RHIM,A,balance,Ordinary Shares Number,2024-03-31,206501426.0
+RHIM,A,balance,Ordinary Shares Number,2025-03-31,206501426.0
+RHIM,A,balance,Ordinary Shares Number,2026-03-31,206501426.0
+RHIM,A,balance,Stockholders Equity,2023-03-31,28910346000.0
+RHIM,A,balance,Stockholders Equity,2024-03-31,38457208000.0
+RHIM,A,balance,Stockholders Equity,2025-03-31,39986153000.0
+RHIM,A,balance,Stockholders Equity,2026-03-31,35604469000.0
+RHIM,A,balance,Total Assets,2023-03-31,58805474000.0
+RHIM,A,balance,Total Assets,2024-03-31,51155371000.0
+RHIM,A,balance,Total Assets,2025-03-31,51757965000.0
+RHIM,A,balance,Total Assets,2026-03-31,48607176000.0
+RHIM,A,balance,Total Debt,2023-03-31,15893036000.0
+RHIM,A,balance,Total Debt,2024-03-31,4866564000.0
+RHIM,A,balance,Total Debt,2025-03-31,3797402000.0
+RHIM,A,balance,Total Debt,2026-03-31,4484450000.0
+RHIM,A,cashflow,Capital Expenditure,2023-03-31,-451673000.0
+RHIM,A,cashflow,Capital Expenditure,2024-03-31,-821439000.0
+RHIM,A,cashflow,Capital Expenditure,2025-03-31,-1191213000.0
+RHIM,A,cashflow,Capital Expenditure,2026-03-31,-1360902000.0
+RHIM,A,cashflow,Free Cash Flow,2023-03-31,1930968000.0
+RHIM,A,cashflow,Free Cash Flow,2024-03-31,1884559000.0
+RHIM,A,cashflow,Free Cash Flow,2025-03-31,2539619000.0
+RHIM,A,cashflow,Free Cash Flow,2026-03-31,2730052000.0
+RHIM,A,cashflow,Operating Cash Flow,2023-03-31,2382641000.0
+RHIM,A,cashflow,Operating Cash Flow,2024-03-31,2705998000.0
+RHIM,A,cashflow,Operating Cash Flow,2025-03-31,3730832000.0
+RHIM,A,cashflow,Operating Cash Flow,2026-03-31,4090954000.0
+RHIM,A,income,Basic EPS,2023-03-31,-27.85
+RHIM,A,income,Basic EPS,2024-03-31,-4.88
+RHIM,A,income,Basic EPS,2025-03-31,9.81
+RHIM,A,income,Basic EPS,2026-03-31,-18.54
+RHIM,A,income,Diluted EPS,2023-03-31,-27.85
+RHIM,A,income,Diluted EPS,2024-03-31,-4.88
+RHIM,A,income,Diluted EPS,2025-03-31,9.81
+RHIM,A,income,Diluted EPS,2026-03-31,-18.54
+RHIM,A,income,EBITDA,2023-03-31,-2863577000.0
+RHIM,A,income,EBITDA,2024-03-31,2423221000.0
+RHIM,A,income,EBITDA,2025-03-31,5115392000.0
+RHIM,A,income,EBITDA,2026-03-31,-808518000.0
+RHIM,A,income,Interest Expense,2023-03-31,390413000.0
+RHIM,A,income,Interest Expense,2024-03-31,635317000.0
+RHIM,A,income,Interest Expense,2025-03-31,423727000.0
+RHIM,A,income,Interest Expense,2026-03-31,369609000.0
+RHIM,A,income,Net Income,2023-03-31,-4661054000.0
+RHIM,A,income,Net Income,2024-03-31,-1004456000.0
+RHIM,A,income,Net Income,2025-03-31,2025128000.0
+RHIM,A,income,Net Income,2026-03-31,-3829378000.0
+RHIM,A,income,Net Income Common Stockholders,2023-03-31,-4661054000.0
+RHIM,A,income,Net Income Common Stockholders,2024-03-31,-1004456000.0
+RHIM,A,income,Net Income Common Stockholders,2025-03-31,2025128000.0
+RHIM,A,income,Net Income Common Stockholders,2026-03-31,-3829378000.0
+RHIM,A,income,Operating Income,2023-03-31,3186343000.0
+RHIM,A,income,Operating Income,2024-03-31,3962396000.0
+RHIM,A,income,Operating Income,2025-03-31,3126927000.0
+RHIM,A,income,Operating Income,2026-03-31,2701116000.0
+RHIM,A,income,Pretax Income,2023-03-31,-3962996000.0
+RHIM,A,income,Pretax Income,2024-03-31,-155059000.0
+RHIM,A,income,Pretax Income,2025-03-31,2626581000.0
+RHIM,A,income,Pretax Income,2026-03-31,-3197730000.0
+RHIM,A,income,Total Revenue,2023-03-31,26897649000.0
+RHIM,A,income,Total Revenue,2024-03-31,37811040000.0
+RHIM,A,income,Total Revenue,2025-03-31,36241780000.0
+RHIM,A,income,Total Revenue,2026-03-31,39745215000.0
+RHIM,Q,income,Basic EPS,2025-06-30,1.71
+RHIM,Q,income,Basic EPS,2025-09-30,1.85
+RHIM,Q,income,Basic EPS,2025-12-31,2.99
+RHIM,Q,income,Basic EPS,2026-03-31,-25.09
+RHIM,Q,income,Basic EPS,2026-06-30,3.13
+RHIM,Q,income,Diluted EPS,2025-06-30,1.71
+RHIM,Q,income,Diluted EPS,2025-09-30,1.85
+RHIM,Q,income,Diluted EPS,2025-12-31,2.99
+RHIM,Q,income,Diluted EPS,2026-03-31,-25.09
+RHIM,Q,income,Diluted EPS,2026-06-30,3.13
+RHIM,Q,income,EBITDA,2025-06-30,1033347000.0
+RHIM,Q,income,EBITDA,2025-09-30,1105291000.0
+RHIM,Q,income,EBITDA,2025-12-31,1444233000.0
+RHIM,Q,income,EBITDA,2026-03-31,-4440397000.0
+RHIM,Q,income,EBITDA,2026-06-30,1469802000.0
+RHIM,Q,income,Interest Expense,2025-06-30,83261000.0
+RHIM,Q,income,Interest Expense,2025-09-30,94492000.0
+RHIM,Q,income,Interest Expense,2025-12-31,114040000.0
+RHIM,Q,income,Interest Expense,2026-03-31,78188000.0
+RHIM,Q,income,Interest Expense,2026-06-30,98456000.0
+RHIM,Q,income,Net Income,2025-06-30,352679000.0
+RHIM,Q,income,Net Income,2025-09-30,383457000.0
+RHIM,Q,income,Net Income,2025-12-31,615566000.0
+RHIM,Q,income,Net Income,2026-03-31,-5181080000.0
+RHIM,Q,income,Net Income,2026-06-30,646078000.0
+RHIM,Q,income,Net Income Common Stockholders,2025-06-30,352679000.0
+RHIM,Q,income,Net Income Common Stockholders,2025-09-30,383457000.0
+RHIM,Q,income,Net Income Common Stockholders,2025-12-31,615566000.0
+RHIM,Q,income,Net Income Common Stockholders,2026-03-31,-5181080000.0
+RHIM,Q,income,Net Income Common Stockholders,2026-06-30,646078000.0
+RHIM,Q,income,Operating Income,2025-06-30,551504000.0
+RHIM,Q,income,Operating Income,2025-09-30,601228000.0
+RHIM,Q,income,Operating Income,2025-12-31,934034000.0
+RHIM,Q,income,Operating Income,2026-03-31,362013000.0
+RHIM,Q,income,Operating Income,2026-06-30,879693000.0
+RHIM,Q,income,Pretax Income,2025-06-30,479298000.0
+RHIM,Q,income,Pretax Income,2025-09-30,517753000.0
+RHIM,Q,income,Pretax Income,2025-12-31,835497000.0
+RHIM,Q,income,Pretax Income,2026-03-31,-5030278000.0
+RHIM,Q,income,Pretax Income,2026-06-30,874083000.0
+RHIM,Q,income,Total Revenue,2025-06-30,9603156000.0
+RHIM,Q,income,Total Revenue,2025-09-30,10353565000.0
+RHIM,Q,income,Total Revenue,2025-12-31,10920139000.0
+RHIM,Q,income,Total Revenue,2026-03-31,9322590000.0
+RHIM,Q,income,Total Revenue,2026-06-30,10139674000.0

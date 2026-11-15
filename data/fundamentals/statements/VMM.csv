@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+VMM,A,balance,Cash And Cash Equivalents,2023-03-31,454970000.0
+VMM,A,balance,Cash And Cash Equivalents,2024-03-31,860190000.0
+VMM,A,balance,Cash And Cash Equivalents,2025-03-31,3956380000.0
+VMM,A,balance,Cash And Cash Equivalents,2026-03-31,5264820000.0
+VMM,A,balance,Net Debt,2022-03-31,4002540000.0
+VMM,A,balance,Net Debt,2023-03-31,879990000.0
+VMM,A,balance,Ordinary Shares Number,2023-03-31,4508719493.0
+VMM,A,balance,Ordinary Shares Number,2024-03-31,4508719493.0
+VMM,A,balance,Ordinary Shares Number,2025-03-31,4597428223.0
+VMM,A,balance,Ordinary Shares Number,2026-03-31,4673117806.0
+VMM,A,balance,Stockholders Equity,2023-03-31,51560880000.0
+VMM,A,balance,Stockholders Equity,2024-03-31,56218450000.0
+VMM,A,balance,Stockholders Equity,2025-03-31,64013020000.0
+VMM,A,balance,Stockholders Equity,2026-03-31,74132580000.0
+VMM,A,balance,Total Assets,2023-03-31,82889080000.0
+VMM,A,balance,Total Assets,2024-03-31,85060840000.0
+VMM,A,balance,Total Assets,2025-03-31,99930450000.0
+VMM,A,balance,Total Assets,2026-03-31,114494280000.0
+VMM,A,balance,Total Debt,2023-03-31,14616250000.0
+VMM,A,balance,Total Debt,2024-03-31,14833880000.0
+VMM,A,balance,Total Debt,2025-03-31,17293820000.0
+VMM,A,balance,Total Debt,2026-03-31,19879780000.0
+VMM,A,cashflow,Capital Expenditure,2023-03-31,-2224190000.0
+VMM,A,cashflow,Capital Expenditure,2024-03-31,-2493570000.0
+VMM,A,cashflow,Capital Expenditure,2025-03-31,-2638400000.0
+VMM,A,cashflow,Capital Expenditure,2026-03-31,-3248860000.0
+VMM,A,cashflow,Free Cash Flow,2023-03-31,4131150000.0
+VMM,A,cashflow,Free Cash Flow,2024-03-31,5803130000.0
+VMM,A,cashflow,Free Cash Flow,2025-03-31,11352280000.0
+VMM,A,cashflow,Free Cash Flow,2026-03-31,12963800000.0
+VMM,A,cashflow,Operating Cash Flow,2023-03-31,6355340000.0
+VMM,A,cashflow,Operating Cash Flow,2024-03-31,8296700000.0
+VMM,A,cashflow,Operating Cash Flow,2025-03-31,13990680000.0
+VMM,A,cashflow,Operating Cash Flow,2026-03-31,16212660000.0
+VMM,A,income,Basic EPS,2023-03-31,0.712559
+VMM,A,income,Basic EPS,2024-03-31,1.024537
+VMM,A,income,Basic EPS,2025-03-31,1.4
+VMM,A,income,Basic EPS,2026-03-31,1.8
+VMM,A,income,Diluted EPS,2023-03-31,0.712559
+VMM,A,income,Diluted EPS,2024-03-31,1.024537
+VMM,A,income,Diluted EPS,2025-03-31,1.36
+VMM,A,income,Diluted EPS,2026-03-31,1.79
+VMM,A,income,EBITDA,2023-03-31,10512540000.0
+VMM,A,income,EBITDA,2024-03-31,12815070000.0
+VMM,A,income,EBITDA,2025-03-31,15887200000.0
+VMM,A,income,EBITDA,2026-03-31,19698760000.0
+VMM,A,income,Interest Expense,2023-03-31,1592790000.0
+VMM,A,income,Interest Expense,2024-03-31,1432630000.0
+VMM,A,income,Interest Expense,2025-03-31,1491900000.0
+VMM,A,income,Interest Expense,2026-03-31,1714490000.0
+VMM,A,income,Net Income,2023-03-31,3212730000.0
+VMM,A,income,Net Income,2024-03-31,4619350000.0
+VMM,A,income,Net Income,2025-03-31,6319670000.0
+VMM,A,income,Net Income,2026-03-31,8392270000.0
+VMM,A,income,Net Income Common Stockholders,2023-03-31,3212730000.0
+VMM,A,income,Net Income Common Stockholders,2024-03-31,4619350000.0
+VMM,A,income,Net Income Common Stockholders,2025-03-31,6319670000.0
+VMM,A,income,Net Income Common Stockholders,2026-03-31,8392270000.0
+VMM,A,income,Operating Income,2023-03-31,5807050000.0
+VMM,A,income,Operating Income,2024-03-31,7532840000.0
+VMM,A,income,Operating Income,2025-03-31,9714350000.0
+VMM,A,income,Operating Income,2026-03-31,12425690000.0
+VMM,A,income,Pretax Income,2023-03-31,4305310000.0
+VMM,A,income,Pretax Income,2024-03-31,6209510000.0
+VMM,A,income,Pretax Income,2025-03-31,8492930000.0
+VMM,A,income,Pretax Income,2026-03-31,11250040000.0
+VMM,A,income,Total Revenue,2023-03-31,75629920000.0
+VMM,A,income,Total Revenue,2024-03-31,88919450000.0
+VMM,A,income,Total Revenue,2025-03-31,107005980000.0
+VMM,A,income,Total Revenue,2026-03-31,128705760000.0
+VMM,Q,income,Basic EPS,2025-09-30,0.33
+VMM,Q,income,Basic EPS,2025-12-31,0.67
+VMM,Q,income,Basic EPS,2026-03-31,0.36
+VMM,Q,income,Basic EPS,2026-06-30,0.55
+VMM,Q,income,Basic EPS,2026-09-30,0.34
+VMM,Q,income,Diluted EPS,2025-09-30,0.32
+VMM,Q,income,Diluted EPS,2025-12-31,0.66
+VMM,Q,income,Diluted EPS,2026-03-31,0.36
+VMM,Q,income,Diluted EPS,2026-06-30,0.55
+VMM,Q,income,Diluted EPS,2026-09-30,0.34
+VMM,Q,income,EBITDA,2025-09-30,4147300000.0
+VMM,Q,income,EBITDA,2025-12-31,6297230000.0
+VMM,Q,income,EBITDA,2026-03-31,4492710000.0
+VMM,Q,income,EBITDA,2026-06-30,5777700000.0
+VMM,Q,income,EBITDA,2026-09-30,4504300000.0
+VMM,Q,income,Interest Expense,2025-09-30,412300000.0
+VMM,Q,income,Interest Expense,2025-12-31,426950000.0
+VMM,Q,income,Interest Expense,2026-03-31,464190000.0
+VMM,Q,income,Interest Expense,2026-06-30,463300000.0
+VMM,Q,income,Interest Expense,2026-09-30,471900000.0
+VMM,Q,income,Net Income,2025-09-30,1523100000.0
+VMM,Q,income,Net Income,2025-12-31,3129230000.0
+VMM,Q,income,Net Income,2026-03-31,1679190000.0
+VMM,Q,income,Net Income,2026-06-30,2587700000.0
+VMM,Q,income,Net Income,2026-09-30,1578800000.0
+VMM,Q,income,Net Income Common Stockholders,2025-09-30,1523100000.0
+VMM,Q,income,Net Income Common Stockholders,2025-12-31,3129230000.0
+VMM,Q,income,Net Income Common Stockholders,2026-03-31,1679190000.0
+VMM,Q,income,Net Income Common Stockholders,2026-06-30,2587700000.0
+VMM,Q,income,Net Income Common Stockholders,2026-09-30,1578800000.0
+VMM,Q,income,Operating Income,2025-09-30,2254200000.0
+VMM,Q,income,Operating Income,2025-12-31,4374820000.0
+VMM,Q,income,Operating Income,2026-03-31,2472000000.0
+VMM,Q,income,Operating Income,2026-06-30,3591500000.0
+VMM,Q,income,Operating Income,2026-09-30,2201100000.0
+VMM,Q,income,Pretax Income,2025-09-30,2043700000.0
+VMM,Q,income,Pretax Income,2025-12-31,4193800000.0
+VMM,Q,income,Pretax Income,2026-03-31,2252960000.0
+VMM,Q,income,Pretax Income,2026-06-30,3459600000.0
+VMM,Q,income,Pretax Income,2026-09-30,2113100000.0
+VMM,Q,income,Total Revenue,2025-09-30,29814900000.0
+VMM,Q,income,Total Revenue,2025-12-31,36704110000.0
+VMM,Q,income,Total Revenue,2026-03-31,31141030000.0
+VMM,Q,income,Total Revenue,2026-06-30,37270100000.0
+VMM,Q,income,Total Revenue,2026-09-30,33985300000.0

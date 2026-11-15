@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CAMPUS,A,balance,Cash And Cash Equivalents,2023-03-31,239900000.0
+CAMPUS,A,balance,Cash And Cash Equivalents,2024-03-31,215000000.0
+CAMPUS,A,balance,Cash And Cash Equivalents,2025-03-31,174400000.0
+CAMPUS,A,balance,Cash And Cash Equivalents,2026-03-31,39600000.0
+CAMPUS,A,balance,Net Debt,2022-03-31,1739460000.0
+CAMPUS,A,balance,Net Debt,2023-03-31,1567700000.0
+CAMPUS,A,balance,Net Debt,2024-03-31,28000000.0
+CAMPUS,A,balance,Net Debt,2026-03-31,323200000.0
+CAMPUS,A,balance,Ordinary Shares Number,2023-03-31,304686278.0
+CAMPUS,A,balance,Ordinary Shares Number,2024-03-31,305255771.0
+CAMPUS,A,balance,Ordinary Shares Number,2025-03-31,305398359.0
+CAMPUS,A,balance,Ordinary Shares Number,2026-03-31,305593205.0
+CAMPUS,A,balance,Stockholders Equity,2023-03-31,5521200000.0
+CAMPUS,A,balance,Stockholders Equity,2024-03-31,6516600000.0
+CAMPUS,A,balance,Stockholders Equity,2025-03-31,7565100000.0
+CAMPUS,A,balance,Stockholders Equity,2026-03-31,9062500000.0
+CAMPUS,A,balance,Total Assets,2023-03-31,11759200000.0
+CAMPUS,A,balance,Total Assets,2024-03-31,10965800000.0
+CAMPUS,A,balance,Total Assets,2025-03-31,13051700000.0
+CAMPUS,A,balance,Total Assets,2026-03-31,14671900000.0
+CAMPUS,A,balance,Total Debt,2023-03-31,3350000000.0
+CAMPUS,A,balance,Total Debt,2024-03-31,1777600000.0
+CAMPUS,A,balance,Total Debt,2025-03-31,2322700000.0
+CAMPUS,A,balance,Total Debt,2026-03-31,2361600000.0
+CAMPUS,A,cashflow,Capital Expenditure,2023-03-31,-686800000.0
+CAMPUS,A,cashflow,Capital Expenditure,2024-03-31,-453000000.0
+CAMPUS,A,cashflow,Capital Expenditure,2025-03-31,-591800000.0
+CAMPUS,A,cashflow,Capital Expenditure,2026-03-31,-902700000.0
+CAMPUS,A,cashflow,Free Cash Flow,2023-03-31,577900000.0
+CAMPUS,A,cashflow,Free Cash Flow,2024-03-31,2191700000.0
+CAMPUS,A,cashflow,Free Cash Flow,2025-03-31,1760300000.0
+CAMPUS,A,cashflow,Free Cash Flow,2026-03-31,445000000.0
+CAMPUS,A,cashflow,Operating Cash Flow,2023-03-31,1264700000.0
+CAMPUS,A,cashflow,Operating Cash Flow,2024-03-31,2644700000.0
+CAMPUS,A,cashflow,Operating Cash Flow,2025-03-31,2352100000.0
+CAMPUS,A,cashflow,Operating Cash Flow,2026-03-31,1347700000.0
+CAMPUS,A,income,Basic EPS,2023-03-31,3.85
+CAMPUS,A,income,Basic EPS,2024-03-31,2.93
+CAMPUS,A,income,Basic EPS,2025-03-31,3.97
+CAMPUS,A,income,Basic EPS,2026-03-31,4.91
+CAMPUS,A,income,Diluted EPS,2023-03-31,3.84
+CAMPUS,A,income,Diluted EPS,2024-03-31,2.93
+CAMPUS,A,income,Diluted EPS,2025-03-31,3.97
+CAMPUS,A,income,Diluted EPS,2026-03-31,4.91
+CAMPUS,A,income,EBITDA,2023-03-31,2560700000.0
+CAMPUS,A,income,EBITDA,2024-03-31,2153400000.0
+CAMPUS,A,income,EBITDA,2025-03-31,2581900000.0
+CAMPUS,A,income,EBITDA,2026-03-31,3147300000.0
+CAMPUS,A,income,Interest Expense,2023-03-31,284300000.0
+CAMPUS,A,income,Interest Expense,2024-03-31,232000000.0
+CAMPUS,A,income,Interest Expense,2025-03-31,187600000.0
+CAMPUS,A,income,Interest Expense,2026-03-31,242600000.0
+CAMPUS,A,income,Net Income,2023-03-31,1171200000.0
+CAMPUS,A,income,Net Income,2024-03-31,894400000.0
+CAMPUS,A,income,Net Income,2025-03-31,1211800000.0
+CAMPUS,A,income,Net Income,2026-03-31,1500900000.0
+CAMPUS,A,income,Net Income Common Stockholders,2023-03-31,1171200000.0
+CAMPUS,A,income,Net Income Common Stockholders,2024-03-31,894400000.0
+CAMPUS,A,income,Net Income Common Stockholders,2025-03-31,1211800000.0
+CAMPUS,A,income,Net Income Common Stockholders,2026-03-31,1500900000.0
+CAMPUS,A,income,Operating Income,2023-03-31,1826200000.0
+CAMPUS,A,income,Operating Income,2024-03-31,1394300000.0
+CAMPUS,A,income,Operating Income,2025-03-31,1687500000.0
+CAMPUS,A,income,Operating Income,2026-03-31,2039600000.0
+CAMPUS,A,income,Pretax Income,2023-03-31,1566000000.0
+CAMPUS,A,income,Pretax Income,2024-03-31,1200300000.0
+CAMPUS,A,income,Pretax Income,2025-03-31,1639400000.0
+CAMPUS,A,income,Pretax Income,2026-03-31,2021700000.0
+CAMPUS,A,income,Total Revenue,2023-03-31,14842500000.0
+CAMPUS,A,income,Total Revenue,2024-03-31,14482900000.0
+CAMPUS,A,income,Total Revenue,2025-03-31,15929600000.0
+CAMPUS,A,income,Total Revenue,2026-03-31,17741200000.0
+CAMPUS,Q,income,Basic EPS,2025-09-30,0.66
+CAMPUS,Q,income,Basic EPS,2025-12-31,2.08
+CAMPUS,Q,income,Basic EPS,2026-03-31,1.44
+CAMPUS,Q,income,Basic EPS,2026-06-30,0.86
+CAMPUS,Q,income,Basic EPS,2026-09-30,0.79
+CAMPUS,Q,income,Diluted EPS,2025-09-30,0.66
+CAMPUS,Q,income,Diluted EPS,2025-12-31,2.07
+CAMPUS,Q,income,Diluted EPS,2026-03-31,1.44
+CAMPUS,Q,income,Diluted EPS,2026-06-30,0.86
+CAMPUS,Q,income,Diluted EPS,2026-09-30,0.79
+CAMPUS,Q,income,EBITDA,2025-09-30,543300000.0
+CAMPUS,Q,income,EBITDA,2025-12-31,1157600000.0
+CAMPUS,Q,income,EBITDA,2026-03-31,885100000.0
+CAMPUS,Q,income,EBITDA,2026-06-30,627100000.0
+CAMPUS,Q,income,EBITDA,2026-09-30,619300000.0
+CAMPUS,Q,income,Interest Expense,2025-09-30,61900000.0
+CAMPUS,Q,income,Interest Expense,2025-12-31,73000000.0
+CAMPUS,Q,income,Interest Expense,2026-03-31,58600000.0
+CAMPUS,Q,income,Interest Expense,2026-06-30,48100000.0
+CAMPUS,Q,income,Interest Expense,2026-09-30,50800000.0
+CAMPUS,Q,income,Net Income,2025-09-30,200700000.0
+CAMPUS,Q,income,Net Income,2025-12-31,636800000.0
+CAMPUS,Q,income,Net Income,2026-03-31,441400000.0
+CAMPUS,Q,income,Net Income,2026-06-30,261400000.0
+CAMPUS,Q,income,Net Income,2026-09-30,243400000.0
+CAMPUS,Q,income,Net Income Common Stockholders,2025-09-30,200700000.0
+CAMPUS,Q,income,Net Income Common Stockholders,2025-12-31,636800000.0
+CAMPUS,Q,income,Net Income Common Stockholders,2026-03-31,441400000.0
+CAMPUS,Q,income,Net Income Common Stockholders,2026-06-30,261400000.0
+CAMPUS,Q,income,Net Income Common Stockholders,2026-09-30,243400000.0
+CAMPUS,Q,income,Operating Income,2025-09-30,1508200000.0
+CAMPUS,Q,income,Operating Income,2025-12-31,2504700000.0
+CAMPUS,Q,income,Operating Income,2026-03-31,1735600000.0
+CAMPUS,Q,income,Operating Income,2026-06-30,1520800000.0
+CAMPUS,Q,income,Operating Income,2026-09-30,1678200000.0
+CAMPUS,Q,income,Pretax Income,2025-09-30,269500000.0
+CAMPUS,Q,income,Pretax Income,2025-12-31,860600000.0
+CAMPUS,Q,income,Pretax Income,2026-03-31,587800000.0
+CAMPUS,Q,income,Pretax Income,2026-06-30,352900000.0
+CAMPUS,Q,income,Pretax Income,2026-09-30,330000000.0
+CAMPUS,Q,income,Total Revenue,2025-09-30,3866100000.0
+CAMPUS,Q,income,Total Revenue,2025-12-31,5886100000.0
+CAMPUS,Q,income,Total Revenue,2026-03-31,4556300000.0
+CAMPUS,Q,income,Total Revenue,2026-06-30,3852000000.0
+CAMPUS,Q,income,Total Revenue,2026-09-30,4521000000.0

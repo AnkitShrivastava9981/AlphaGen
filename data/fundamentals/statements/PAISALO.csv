@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+PAISALO,A,balance,Cash And Cash Equivalents,2023-03-31,293841000.0
+PAISALO,A,balance,Cash And Cash Equivalents,2024-03-31,109190000.0
+PAISALO,A,balance,Cash And Cash Equivalents,2025-03-31,1006877000.0
+PAISALO,A,balance,Cash And Cash Equivalents,2026-03-31,1469848000.0
+PAISALO,A,balance,Net Debt,2023-03-31,20878041000.0
+PAISALO,A,balance,Net Debt,2024-03-31,26444779000.0
+PAISALO,A,balance,Net Debt,2025-03-31,34587798000.0
+PAISALO,A,balance,Net Debt,2026-03-31,42126896000.0
+PAISALO,A,balance,Ordinary Shares Number,2023-03-31,898043980.0
+PAISALO,A,balance,Ordinary Shares Number,2024-03-31,898043980.0
+PAISALO,A,balance,Ordinary Shares Number,2025-03-31,902118289.0
+PAISALO,A,balance,Ordinary Shares Number,2026-03-31,909521874.0
+PAISALO,A,balance,Stockholders Equity,2023-03-31,11625377000.0
+PAISALO,A,balance,Stockholders Equity,2024-03-31,13294166000.0
+PAISALO,A,balance,Stockholders Equity,2025-03-31,15349806000.0
+PAISALO,A,balance,Stockholders Equity,2026-03-31,17929765000.0
+PAISALO,A,balance,Total Assets,2023-03-31,33538745000.0
+PAISALO,A,balance,Total Assets,2024-03-31,41231845000.0
+PAISALO,A,balance,Total Assets,2025-03-31,52545971000.0
+PAISALO,A,balance,Total Assets,2026-03-31,62997332000.0
+PAISALO,A,balance,Total Debt,2023-03-31,21171882000.0
+PAISALO,A,balance,Total Debt,2024-03-31,26553969000.0
+PAISALO,A,balance,Total Debt,2025-03-31,35594675000.0
+PAISALO,A,balance,Total Debt,2026-03-31,43596744000.0
+PAISALO,A,cashflow,Capital Expenditure,2023-03-31,-62567000.0
+PAISALO,A,cashflow,Capital Expenditure,2024-03-31,-37401000.0
+PAISALO,A,cashflow,Capital Expenditure,2025-03-31,-127788000.0
+PAISALO,A,cashflow,Capital Expenditure,2026-03-31,-152188000.0
+PAISALO,A,cashflow,Free Cash Flow,2023-03-31,-4584274000.0
+PAISALO,A,cashflow,Free Cash Flow,2024-03-31,-5734908000.0
+PAISALO,A,cashflow,Free Cash Flow,2025-03-31,-8543095000.0
+PAISALO,A,cashflow,Free Cash Flow,2026-03-31,-7979804000.0
+PAISALO,A,cashflow,Operating Cash Flow,2023-03-31,-4521707000.0
+PAISALO,A,cashflow,Operating Cash Flow,2024-03-31,-5697507000.0
+PAISALO,A,cashflow,Operating Cash Flow,2025-03-31,-8415307000.0
+PAISALO,A,cashflow,Operating Cash Flow,2026-03-31,-7827616000.0
+PAISALO,A,income,Basic EPS,2023-03-31,2.1
+PAISALO,A,income,Basic EPS,2024-03-31,3.87
+PAISALO,A,income,Basic EPS,2025-03-31,2.23
+PAISALO,A,income,Basic EPS,2026-03-31,2.62
+PAISALO,A,income,Diluted EPS,2023-03-31,2.1
+PAISALO,A,income,Diluted EPS,2024-03-31,3.87
+PAISALO,A,income,Diluted EPS,2025-03-31,2.23
+PAISALO,A,income,Diluted EPS,2026-03-31,2.62
+PAISALO,A,income,EBITDA,2023-03-31,3373472000.0
+PAISALO,A,income,EBITDA,2024-03-31,2445843000.0
+PAISALO,A,income,EBITDA,2025-03-31,2726254000.0
+PAISALO,A,income,EBITDA,2026-03-31,3240005000.0
+PAISALO,A,income,Interest Expense,2023-03-31,2086700000.0
+PAISALO,A,income,Interest Expense,2024-03-31,0.0
+PAISALO,A,income,Interest Expense,2025-03-31,0.0
+PAISALO,A,income,Interest Expense,2026-03-31,0.0
+PAISALO,A,income,Net Income,2023-03-31,936186000.0
+PAISALO,A,income,Net Income,2024-03-31,1789730000.0
+PAISALO,A,income,Net Income,2025-03-31,2001207000.0
+PAISALO,A,income,Net Income,2026-03-31,2372061000.0
+PAISALO,A,income,Net Income Common Stockholders,2023-03-31,936186000.0
+PAISALO,A,income,Net Income Common Stockholders,2024-03-31,1789730000.0
+PAISALO,A,income,Net Income Common Stockholders,2025-03-31,2001207000.0
+PAISALO,A,income,Net Income Common Stockholders,2026-03-31,2372061000.0
+PAISALO,A,income,Operating Income,2024-03-31,2817588000.0
+PAISALO,A,income,Operating Income,2025-03-31,3251920000.0
+PAISALO,A,income,Operating Income,2026-03-31,3836076000.0
+PAISALO,A,income,Pretax Income,2023-03-31,1262372000.0
+PAISALO,A,income,Pretax Income,2024-03-31,2411844000.0
+PAISALO,A,income,Pretax Income,2025-03-31,2683558000.0
+PAISALO,A,income,Pretax Income,2026-03-31,3184096000.0
+PAISALO,A,income,Total Revenue,2023-03-31,2641546000.0
+PAISALO,A,income,Total Revenue,2024-03-31,6566606000.0
+PAISALO,A,income,Total Revenue,2025-03-31,7700900000.0
+PAISALO,A,income,Total Revenue,2026-03-31,9409410000.0
+PAISALO,Q,income,Basic EPS,2025-09-30,0.57
+PAISALO,Q,income,Basic EPS,2025-12-31,0.73
+PAISALO,Q,income,Basic EPS,2026-03-31,0.8
+PAISALO,Q,income,Basic EPS,2026-06-30,0.67
+PAISALO,Q,income,Basic EPS,2026-09-30,0.72
+PAISALO,Q,income,Diluted EPS,2025-09-30,0.57
+PAISALO,Q,income,Diluted EPS,2025-12-31,0.73
+PAISALO,Q,income,Diluted EPS,2026-03-31,0.8
+PAISALO,Q,income,Diluted EPS,2026-06-30,0.67
+PAISALO,Q,income,Diluted EPS,2026-09-30,0.72
+PAISALO,Q,income,EBITDA,2025-09-30,840368000.0
+PAISALO,Q,income,EBITDA,2025-12-31,979629000.0
+PAISALO,Q,income,EBITDA,2026-03-31,1091693000.0
+PAISALO,Q,income,EBITDA,2026-06-30,1014300000.0
+PAISALO,Q,income,EBITDA,2026-09-30,908219000.0
+PAISALO,Q,income,Interest Expense,2025-03-31,-2424802000.0
+PAISALO,Q,income,Net Income,2025-09-30,515437000.0
+PAISALO,Q,income,Net Income,2025-12-31,662615000.0
+PAISALO,Q,income,Net Income,2026-03-31,722300000.0
+PAISALO,Q,income,Net Income,2026-06-30,613140000.0
+PAISALO,Q,income,Net Income,2026-09-30,656413000.0
+PAISALO,Q,income,Net Income Common Stockholders,2025-09-30,515437000.0
+PAISALO,Q,income,Net Income Common Stockholders,2025-12-31,662615000.0
+PAISALO,Q,income,Net Income Common Stockholders,2026-03-31,722300000.0
+PAISALO,Q,income,Net Income Common Stockholders,2026-06-30,613140000.0
+PAISALO,Q,income,Net Income Common Stockholders,2026-09-30,656413000.0
+PAISALO,Q,income,Operating Income,2025-09-30,818567000.0
+PAISALO,Q,income,Operating Income,2025-12-31,948363000.0
+PAISALO,Q,income,Operating Income,2026-03-31,1044351000.0
+PAISALO,Q,income,Operating Income,2026-06-30,971043000.0
+PAISALO,Q,income,Operating Income,2026-09-30,853308000.0
+PAISALO,Q,income,Pretax Income,2025-09-30,690009000.0
+PAISALO,Q,income,Pretax Income,2025-12-31,888034000.0
+PAISALO,Q,income,Pretax Income,2026-03-31,970076000.0
+PAISALO,Q,income,Pretax Income,2026-06-30,822051000.0
+PAISALO,Q,income,Pretax Income,2026-09-30,874304000.0
+PAISALO,Q,income,Total Revenue,2025-09-30,2244701000.0
+PAISALO,Q,income,Total Revenue,2025-12-31,2400372000.0
+PAISALO,Q,income,Total Revenue,2026-03-31,2609219000.0
+PAISALO,Q,income,Total Revenue,2026-06-30,2594549000.0
+PAISALO,Q,income,Total Revenue,2026-09-30,2754502000.0

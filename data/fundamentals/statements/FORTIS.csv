@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+FORTIS,A,balance,Cash And Cash Equivalents,2023-03-31,1410825000.0
+FORTIS,A,balance,Cash And Cash Equivalents,2024-03-31,2352679000.0
+FORTIS,A,balance,Cash And Cash Equivalents,2025-03-31,1397226000.0
+FORTIS,A,balance,Cash And Cash Equivalents,2026-03-31,4069744000.0
+FORTIS,A,balance,Net Debt,2023-03-31,5620680000.0
+FORTIS,A,balance,Net Debt,2024-03-31,6230297000.0
+FORTIS,A,balance,Net Debt,2025-03-31,20555904000.0
+FORTIS,A,balance,Net Debt,2026-03-31,24656801000.0
+FORTIS,A,balance,Ordinary Shares Number,2023-03-31,754958148.0
+FORTIS,A,balance,Ordinary Shares Number,2024-03-31,754958148.0
+FORTIS,A,balance,Ordinary Shares Number,2025-03-31,754958148.0
+FORTIS,A,balance,Ordinary Shares Number,2026-03-31,754958148.0
+FORTIS,A,balance,Stockholders Equity,2023-03-31,72422624000.0
+FORTIS,A,balance,Stockholders Equity,2024-03-31,76628969000.0
+FORTIS,A,balance,Stockholders Equity,2025-03-31,89165154000.0
+FORTIS,A,balance,Stockholders Equity,2026-03-31,98955475000.0
+FORTIS,A,balance,Total Assets,2023-03-31,124336044000.0
+FORTIS,A,balance,Total Assets,2024-03-31,132887802000.0
+FORTIS,A,balance,Total Assets,2025-03-31,136915272000.0
+FORTIS,A,balance,Total Assets,2026-03-31,159662261000.0
+FORTIS,A,balance,Total Debt,2023-03-31,9257215000.0
+FORTIS,A,balance,Total Debt,2024-03-31,11550172000.0
+FORTIS,A,balance,Total Debt,2025-03-31,24751088000.0
+FORTIS,A,balance,Total Debt,2026-03-31,34725836000.0
+FORTIS,A,cashflow,Capital Expenditure,2023-03-31,-4472350000.0
+FORTIS,A,cashflow,Capital Expenditure,2024-03-31,-9424664000.0
+FORTIS,A,cashflow,Capital Expenditure,2025-03-31,-8469378000.0
+FORTIS,A,cashflow,Capital Expenditure,2026-03-31,-9454447000.0
+FORTIS,A,cashflow,Free Cash Flow,2023-03-31,3750120000.0
+FORTIS,A,cashflow,Free Cash Flow,2024-03-31,1576303000.0
+FORTIS,A,cashflow,Free Cash Flow,2025-03-31,5769941000.0
+FORTIS,A,cashflow,Free Cash Flow,2026-03-31,6560023000.0
+FORTIS,A,cashflow,Operating Cash Flow,2023-03-31,8222470000.0
+FORTIS,A,cashflow,Operating Cash Flow,2024-03-31,11000967000.0
+FORTIS,A,cashflow,Operating Cash Flow,2025-03-31,14239319000.0
+FORTIS,A,cashflow,Operating Cash Flow,2026-03-31,16014470000.0
+FORTIS,A,income,Basic EPS,2023-03-31,7.8
+FORTIS,A,income,Basic EPS,2024-03-31,7.93
+FORTIS,A,income,Basic EPS,2025-03-31,10.26
+FORTIS,A,income,Basic EPS,2026-03-31,13.8
+FORTIS,A,income,Diluted EPS,2023-03-31,7.8
+FORTIS,A,income,Diluted EPS,2024-03-31,7.93
+FORTIS,A,income,Diluted EPS,2025-03-31,10.26
+FORTIS,A,income,Diluted EPS,2026-03-31,13.8
+FORTIS,A,income,EBITDA,2023-03-31,12378041000.0
+FORTIS,A,income,EBITDA,2024-03-31,13085113000.0
+FORTIS,A,income,EBITDA,2025-03-31,15474880000.0
+FORTIS,A,income,EBITDA,2026-03-31,20978606000.0
+FORTIS,A,income,Interest Expense,2023-03-31,1083885000.0
+FORTIS,A,income,Interest Expense,2024-03-31,1080475000.0
+FORTIS,A,income,Interest Expense,2025-03-31,1548259000.0
+FORTIS,A,income,Interest Expense,2026-03-31,2825843000.0
+FORTIS,A,income,Net Income,2023-03-31,5887308000.0
+FORTIS,A,income,Net Income,2024-03-31,5988755000.0
+FORTIS,A,income,Net Income,2025-03-31,7742152000.0
+FORTIS,A,income,Net Income,2026-03-31,10417739000.0
+FORTIS,A,income,Net Income Common Stockholders,2023-03-31,5887308000.0
+FORTIS,A,income,Net Income Common Stockholders,2024-03-31,5988755000.0
+FORTIS,A,income,Net Income Common Stockholders,2025-03-31,7742152000.0
+FORTIS,A,income,Net Income Common Stockholders,2026-03-31,10417739000.0
+FORTIS,A,income,Operating Income,2023-03-31,7702411000.0
+FORTIS,A,income,Operating Income,2024-03-31,9122791000.0
+FORTIS,A,income,Operating Income,2025-03-31,11927208000.0
+FORTIS,A,income,Operating Income,2026-03-31,16143896000.0
+FORTIS,A,income,Pretax Income,2023-03-31,8136796000.0
+FORTIS,A,income,Pretax Income,2024-03-31,8579663000.0
+FORTIS,A,income,Pretax Income,2025-03-31,10070473000.0
+FORTIS,A,income,Pretax Income,2026-03-31,13658487000.0
+FORTIS,A,income,Total Revenue,2023-03-31,62131549000.0
+FORTIS,A,income,Total Revenue,2024-03-31,68350867000.0
+FORTIS,A,income,Total Revenue,2025-03-31,77238922000.0
+FORTIS,A,income,Total Revenue,2026-03-31,90480789000.0
+FORTIS,Q,income,Basic EPS,2025-09-30,4.26
+FORTIS,Q,income,Basic EPS,2025-12-31,2.57
+FORTIS,Q,income,Basic EPS,2026-03-31,3.52
+FORTIS,Q,income,Basic EPS,2026-06-30,3.53
+FORTIS,Q,income,Basic EPS,2026-09-30,4.14
+FORTIS,Q,income,Diluted EPS,2025-09-30,4.26
+FORTIS,Q,income,Diluted EPS,2025-12-31,2.57
+FORTIS,Q,income,Diluted EPS,2026-03-31,3.52
+FORTIS,Q,income,Diluted EPS,2026-06-30,3.53
+FORTIS,Q,income,Diluted EPS,2026-09-30,4.14
+FORTIS,Q,income,EBITDA,2025-09-30,6061200000.0
+FORTIS,Q,income,EBITDA,2025-12-31,4715600000.0
+FORTIS,Q,income,EBITDA,2026-03-31,5304500000.0
+FORTIS,Q,income,EBITDA,2026-06-30,5655000000.0
+FORTIS,Q,income,EBITDA,2026-09-30,6389400000.0
+FORTIS,Q,income,Interest Expense,2025-09-30,748800000.0
+FORTIS,Q,income,Interest Expense,2025-12-31,857400000.0
+FORTIS,Q,income,Interest Expense,2026-03-31,842800000.0
+FORTIS,Q,income,Interest Expense,2026-06-30,804400000.0
+FORTIS,Q,income,Interest Expense,2026-09-30,783000000.0
+FORTIS,Q,income,Net Income,2025-09-30,3219200000.0
+FORTIS,Q,income,Net Income,2025-12-31,1937300000.0
+FORTIS,Q,income,Net Income,2026-03-31,2658500000.0
+FORTIS,Q,income,Net Income,2026-06-30,2663900000.0
+FORTIS,Q,income,Net Income,2026-09-30,3123800000.0
+FORTIS,Q,income,Net Income Common Stockholders,2025-09-30,3219200000.0
+FORTIS,Q,income,Net Income Common Stockholders,2025-12-31,1937300000.0
+FORTIS,Q,income,Net Income Common Stockholders,2026-03-31,2658500000.0
+FORTIS,Q,income,Net Income Common Stockholders,2026-06-30,2663900000.0
+FORTIS,Q,income,Net Income Common Stockholders,2026-09-30,3123800000.0
+FORTIS,Q,income,Operating Income,2025-09-30,4504900000.0
+FORTIS,Q,income,Operating Income,2025-12-31,3855100000.0
+FORTIS,Q,income,Operating Income,2026-03-31,4103600000.0
+FORTIS,Q,income,Operating Income,2026-06-30,4152400000.0
+FORTIS,Q,income,Operating Income,2026-09-30,4948600000.0
+FORTIS,Q,income,Pretax Income,2025-09-30,4254000000.0
+FORTIS,Q,income,Pretax Income,2025-12-31,2656800000.0
+FORTIS,Q,income,Pretax Income,2026-03-31,3242000000.0
+FORTIS,Q,income,Pretax Income,2026-06-30,3631800000.0
+FORTIS,Q,income,Pretax Income,2026-09-30,4323100000.0
+FORTIS,Q,income,Total Revenue,2025-09-30,23314400000.0
+FORTIS,Q,income,Total Revenue,2025-12-31,22650100000.0
+FORTIS,Q,income,Total Revenue,2026-03-31,23646700000.0
+FORTIS,Q,income,Total Revenue,2026-06-30,25450300000.0
+FORTIS,Q,income,Total Revenue,2026-09-30,27348300000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PGEL,A,balance,Cash And Cash Equivalents,2023-03-31,86691000.0
+PGEL,A,balance,Cash And Cash Equivalents,2024-03-31,301816000.0
+PGEL,A,balance,Cash And Cash Equivalents,2025-03-31,812105000.0
+PGEL,A,balance,Cash And Cash Equivalents,2026-03-31,315474000.0
+PGEL,A,balance,Net Debt,2023-03-31,5338555000.0
+PGEL,A,balance,Net Debt,2024-03-31,3303800000.0
+PGEL,A,balance,Net Debt,2025-03-31,2207245000.0
+PGEL,A,balance,Net Debt,2026-03-31,4681630000.0
+PGEL,A,balance,Ordinary Shares Number,2023-03-31,227401170.0
+PGEL,A,balance,Ordinary Shares Number,2024-03-31,260258440.0
+PGEL,A,balance,Ordinary Shares Number,2025-03-31,283093614.0
+PGEL,A,balance,Ordinary Shares Number,2026-03-31,285326508.0
+PGEL,A,balance,Stockholders Equity,2023-03-31,3959278000.0
+PGEL,A,balance,Stockholders Equity,2024-03-31,10380815000.0
+PGEL,A,balance,Stockholders Equity,2025-03-31,28282070000.0
+PGEL,A,balance,Stockholders Equity,2026-03-31,30485868000.0
+PGEL,A,balance,Total Assets,2023-03-31,15081653000.0
+PGEL,A,balance,Total Assets,2024-03-31,23079855000.0
+PGEL,A,balance,Total Assets,2025-03-31,51208123000.0
+PGEL,A,balance,Total Assets,2026-03-31,59466750000.0
+PGEL,A,balance,Total Debt,2023-03-31,5769891000.0
+PGEL,A,balance,Total Debt,2024-03-31,4347605000.0
+PGEL,A,balance,Total Debt,2025-03-31,3841611000.0
+PGEL,A,balance,Total Debt,2026-03-31,5965281000.0
+PGEL,A,cashflow,Capital Expenditure,2023-03-31,-1545656000.0
+PGEL,A,cashflow,Capital Expenditure,2024-03-31,-2268143000.0
+PGEL,A,cashflow,Capital Expenditure,2025-03-31,-4882111000.0
+PGEL,A,cashflow,Capital Expenditure,2026-03-31,-7848619000.0
+PGEL,A,cashflow,Free Cash Flow,2023-03-31,-1088277000.0
+PGEL,A,cashflow,Free Cash Flow,2024-03-31,-383548000.0
+PGEL,A,cashflow,Free Cash Flow,2025-03-31,-5647966000.0
+PGEL,A,cashflow,Free Cash Flow,2026-03-31,-7186461000.0
+PGEL,A,cashflow,Operating Cash Flow,2023-03-31,457379000.0
+PGEL,A,cashflow,Operating Cash Flow,2024-03-31,1884595000.0
+PGEL,A,cashflow,Operating Cash Flow,2025-03-31,-765855000.0
+PGEL,A,cashflow,Operating Cash Flow,2026-03-31,662158000.0
+PGEL,A,income,Basic EPS,2023-03-31,3.578
+PGEL,A,income,Basic EPS,2024-03-31,5.47
+PGEL,A,income,Basic EPS,2025-03-31,10.74
+PGEL,A,income,Basic EPS,2026-03-31,6.91
+PGEL,A,income,Diluted EPS,2023-03-31,3.377
+PGEL,A,income,Diluted EPS,2024-03-31,5.41
+PGEL,A,income,Diluted EPS,2025-03-31,10.55
+PGEL,A,income,Diluted EPS,2026-03-31,6.82
+PGEL,A,income,EBITDA,2023-03-31,1615459000.0
+PGEL,A,income,EBITDA,2024-03-31,2748036000.0
+PGEL,A,income,EBITDA,2025-03-31,4677677000.0
+PGEL,A,income,EBITDA,2026-03-31,3811212000.0
+PGEL,A,income,Interest Expense,2023-03-31,290520000.0
+PGEL,A,income,Interest Expense,2024-03-31,337420000.0
+PGEL,A,income,Interest Expense,2025-03-31,374614000.0
+PGEL,A,income,Interest Expense,2026-03-31,410102000.0
+PGEL,A,income,Net Income,2023-03-31,774686000.0
+PGEL,A,income,Net Income,2024-03-31,1349002000.0
+PGEL,A,income,Net Income,2025-03-31,2877963000.0
+PGEL,A,income,Net Income,2026-03-31,1965669000.0
+PGEL,A,income,Net Income Common Stockholders,2023-03-31,774686000.0
+PGEL,A,income,Net Income Common Stockholders,2024-03-31,1349002000.0
+PGEL,A,income,Net Income Common Stockholders,2025-03-31,2877963000.0
+PGEL,A,income,Net Income Common Stockholders,2026-03-31,1965669000.0
+PGEL,A,income,Operating Income,2023-03-31,1495729000.0
+PGEL,A,income,Operating Income,2024-03-31,2114821000.0
+PGEL,A,income,Operating Income,2025-03-31,4029653000.0
+PGEL,A,income,Operating Income,2026-03-31,3384936000.0
+PGEL,A,income,Pretax Income,2023-03-31,975432000.0
+PGEL,A,income,Pretax Income,2024-03-31,1764665000.0
+PGEL,A,income,Pretax Income,2025-03-31,3646921000.0
+PGEL,A,income,Pretax Income,2026-03-31,2519378000.0
+PGEL,A,income,Total Revenue,2023-03-31,21332005000.0
+PGEL,A,income,Total Revenue,2024-03-31,27112401000.0
+PGEL,A,income,Total Revenue,2025-03-31,47964041000.0
+PGEL,A,income,Total Revenue,2026-03-31,51052820000.0
+PGEL,Q,income,Basic EPS,2025-09-30,0.09
+PGEL,Q,income,Basic EPS,2025-12-31,2.18
+PGEL,Q,income,Basic EPS,2026-03-31,2.27
+PGEL,Q,income,Basic EPS,2026-06-30,2.67
+PGEL,Q,income,Basic EPS,2026-09-30,0.47
+PGEL,Q,income,Diluted EPS,2025-09-30,0.09
+PGEL,Q,income,Diluted EPS,2025-12-31,2.14
+PGEL,Q,income,Diluted EPS,2026-03-31,2.27
+PGEL,Q,income,Diluted EPS,2026-06-30,2.65
+PGEL,Q,income,Diluted EPS,2026-09-30,0.47
+PGEL,Q,income,EBITDA,2025-09-30,450622000.0
+PGEL,Q,income,EBITDA,2025-12-31,1261136000.0
+PGEL,Q,income,EBITDA,2026-03-31,1315432000.0
+PGEL,Q,income,EBITDA,2026-06-30,1562294000.0
+PGEL,Q,income,EBITDA,2026-09-30,737033000.0
+PGEL,Q,income,Interest Expense,2025-09-30,167129000.0
+PGEL,Q,income,Interest Expense,2025-12-31,250183000.0
+PGEL,Q,income,Interest Expense,2026-03-31,260100000.0
+PGEL,Q,income,Interest Expense,2026-06-30,352899000.0
+PGEL,Q,income,Interest Expense,2026-09-30,260562000.0
+PGEL,Q,income,Net Income,2025-09-30,27598000.0
+PGEL,Q,income,Net Income,2025-12-31,619588000.0
+PGEL,Q,income,Net Income,2026-03-31,648638000.0
+PGEL,Q,income,Net Income,2026-06-30,762183000.0
+PGEL,Q,income,Net Income,2026-09-30,136651000.0
+PGEL,Q,income,Net Income Common Stockholders,2025-09-30,27598000.0
+PGEL,Q,income,Net Income Common Stockholders,2025-12-31,619588000.0
+PGEL,Q,income,Net Income Common Stockholders,2026-03-31,648638000.0
+PGEL,Q,income,Net Income Common Stockholders,2026-06-30,762183000.0
+PGEL,Q,income,Net Income Common Stockholders,2026-09-30,136651000.0
+PGEL,Q,income,Operating Income,2025-09-30,84490000.0
+PGEL,Q,income,Operating Income,2025-12-31,949035000.0
+PGEL,Q,income,Operating Income,2026-03-31,950370000.0
+PGEL,Q,income,Operating Income,2026-06-30,1216830000.0
+PGEL,Q,income,Operating Income,2026-09-30,316266000.0
+PGEL,Q,income,Pretax Income,2025-09-30,67035000.0
+PGEL,Q,income,Pretax Income,2025-12-31,791168000.0
+PGEL,Q,income,Pretax Income,2026-03-31,818166000.0
+PGEL,Q,income,Pretax Income,2026-06-30,944222000.0
+PGEL,Q,income,Pretax Income,2026-09-30,194987000.0
+PGEL,Q,income,Total Revenue,2025-09-30,6553661000.0
+PGEL,Q,income,Total Revenue,2025-12-31,14121302000.0
+PGEL,Q,income,Total Revenue,2026-03-31,17166752000.0
+PGEL,Q,income,Total Revenue,2026-06-30,20339574000.0
+PGEL,Q,income,Total Revenue,2026-09-30,9338770000.0

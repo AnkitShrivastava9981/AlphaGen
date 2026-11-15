@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+JKTYRE,A,balance,Cash And Cash Equivalents,2023-03-31,1731500000.0
+JKTYRE,A,balance,Cash And Cash Equivalents,2024-03-31,1713200000.0
+JKTYRE,A,balance,Cash And Cash Equivalents,2025-03-31,1865300000.0
+JKTYRE,A,balance,Cash And Cash Equivalents,2026-03-31,2366700000.0
+JKTYRE,A,balance,Net Debt,2023-03-31,46103900000.0
+JKTYRE,A,balance,Net Debt,2024-03-31,43021100000.0
+JKTYRE,A,balance,Net Debt,2025-03-31,46054000000.0
+JKTYRE,A,balance,Net Debt,2026-03-31,45093300000.0
+JKTYRE,A,balance,Ordinary Shares Number,2023-03-31,246230880.0
+JKTYRE,A,balance,Ordinary Shares Number,2024-03-31,260723629.0
+JKTYRE,A,balance,Ordinary Shares Number,2025-03-31,274020027.0
+JKTYRE,A,balance,Ordinary Shares Number,2026-03-31,288289511.0
+JKTYRE,A,balance,Stockholders Equity,2023-03-31,33961600000.0
+JKTYRE,A,balance,Stockholders Equity,2024-03-31,44867100000.0
+JKTYRE,A,balance,Stockholders Equity,2025-03-31,49841500000.0
+JKTYRE,A,balance,Stockholders Equity,2026-03-31,60608200000.0
+JKTYRE,A,balance,Total Assets,2023-03-31,124485600000.0
+JKTYRE,A,balance,Total Assets,2024-03-31,140944900000.0
+JKTYRE,A,balance,Total Assets,2025-03-31,145188700000.0
+JKTYRE,A,balance,Total Assets,2026-03-31,159958600000.0
+JKTYRE,A,balance,Total Debt,2023-03-31,48823500000.0
+JKTYRE,A,balance,Total Debt,2024-03-31,46094800000.0
+JKTYRE,A,balance,Total Debt,2025-03-31,49111500000.0
+JKTYRE,A,balance,Total Debt,2026-03-31,48815400000.0
+JKTYRE,A,cashflow,Capital Expenditure,2023-03-31,-4631800000.0
+JKTYRE,A,cashflow,Capital Expenditure,2024-03-31,-7743000000.0
+JKTYRE,A,cashflow,Capital Expenditure,2025-03-31,-6387400000.0
+JKTYRE,A,cashflow,Capital Expenditure,2026-03-31,-14239700000.0
+JKTYRE,A,cashflow,Free Cash Flow,2023-03-31,7610100000.0
+JKTYRE,A,cashflow,Free Cash Flow,2024-03-31,8398600000.0
+JKTYRE,A,cashflow,Free Cash Flow,2025-03-31,770300000.0
+JKTYRE,A,cashflow,Free Cash Flow,2026-03-31,198700000.0
+JKTYRE,A,cashflow,Operating Cash Flow,2023-03-31,12241900000.0
+JKTYRE,A,cashflow,Operating Cash Flow,2024-03-31,16141600000.0
+JKTYRE,A,cashflow,Operating Cash Flow,2025-03-31,7157700000.0
+JKTYRE,A,cashflow,Operating Cash Flow,2026-03-31,14438400000.0
+JKTYRE,A,income,Basic EPS,2023-03-31,10.64
+JKTYRE,A,income,Basic EPS,2024-03-31,29.84
+JKTYRE,A,income,Basic EPS,2025-03-31,17.88
+JKTYRE,A,income,Basic EPS,2026-03-31,27.24
+JKTYRE,A,income,Diluted EPS,2023-03-31,10.64
+JKTYRE,A,income,Diluted EPS,2024-03-31,29.74
+JKTYRE,A,income,Diluted EPS,2025-03-31,17.86
+JKTYRE,A,income,Diluted EPS,2026-03-31,27.24
+JKTYRE,A,income,EBITDA,2023-03-31,12668300000.0
+JKTYRE,A,income,EBITDA,2024-03-31,20904600000.0
+JKTYRE,A,income,EBITDA,2025-03-31,16402200000.0
+JKTYRE,A,income,EBITDA,2026-03-31,19387000000.0
+JKTYRE,A,income,Interest Expense,2023-03-31,4485200000.0
+JKTYRE,A,income,Interest Expense,2024-03-31,4427900000.0
+JKTYRE,A,income,Interest Expense,2025-03-31,4703000000.0
+JKTYRE,A,income,Interest Expense,2026-03-31,4237600000.0
+JKTYRE,A,income,Net Income,2023-03-31,2624800000.0
+JKTYRE,A,income,Net Income,2024-03-31,7862300000.0
+JKTYRE,A,income,Net Income,2025-03-31,5094300000.0
+JKTYRE,A,income,Net Income,2026-03-31,7760900000.0
+JKTYRE,A,income,Net Income Common Stockholders,2023-03-31,2624800000.0
+JKTYRE,A,income,Net Income Common Stockholders,2024-03-31,7862300000.0
+JKTYRE,A,income,Net Income Common Stockholders,2025-03-31,5094300000.0
+JKTYRE,A,income,Net Income Common Stockholders,2026-03-31,7760900000.0
+JKTYRE,A,income,Operating Income,2023-03-31,8907500000.0
+JKTYRE,A,income,Operating Income,2024-03-31,16540900000.0
+JKTYRE,A,income,Operating Income,2025-03-31,11436200000.0
+JKTYRE,A,income,Operating Income,2026-03-31,15610400000.0
+JKTYRE,A,income,Pretax Income,2023-03-31,4112500000.0
+JKTYRE,A,income,Pretax Income,2024-03-31,12109200000.0
+JKTYRE,A,income,Pretax Income,2025-03-31,7134300000.0
+JKTYRE,A,income,Pretax Income,2026-03-31,10427400000.0
+JKTYRE,A,income,Total Revenue,2023-03-31,145200300000.0
+JKTYRE,A,income,Total Revenue,2024-03-31,148694200000.0
+JKTYRE,A,income,Total Revenue,2025-03-31,145429700000.0
+JKTYRE,A,income,Total Revenue,2026-03-31,161884100000.0
+JKTYRE,Q,income,Basic EPS,2025-09-30,7.96
+JKTYRE,Q,income,Basic EPS,2025-12-31,7.29
+JKTYRE,Q,income,Basic EPS,2026-03-31,6.25
+JKTYRE,Q,income,Basic EPS,2026-06-30,1.55
+JKTYRE,Q,income,Basic EPS,2026-09-30,2.29
+JKTYRE,Q,income,Diluted EPS,2025-09-30,7.96
+JKTYRE,Q,income,Diluted EPS,2025-12-31,7.29
+JKTYRE,Q,income,Diluted EPS,2026-03-31,6.25
+JKTYRE,Q,income,Diluted EPS,2026-06-30,1.55
+JKTYRE,Q,income,Diluted EPS,2026-09-30,2.29
+JKTYRE,Q,income,EBITDA,2025-06-30,4363400000.0
+JKTYRE,Q,income,EBITDA,2025-12-31,4790800000.0
+JKTYRE,Q,income,EBITDA,2026-03-31,4997900000.0
+JKTYRE,Q,income,EBITDA,2026-06-30,2784900000.0
+JKTYRE,Q,income,EBITDA,2026-09-30,3308300000.0
+JKTYRE,Q,income,Interest Expense,2025-06-30,1146900000.0
+JKTYRE,Q,income,Interest Expense,2025-12-31,1055900000.0
+JKTYRE,Q,income,Interest Expense,2026-03-31,1005500000.0
+JKTYRE,Q,income,Interest Expense,2026-06-30,990800000.0
+JKTYRE,Q,income,Interest Expense,2026-09-30,1091500000.0
+JKTYRE,Q,income,Net Income,2025-09-30,2268900000.0
+JKTYRE,Q,income,Net Income,2025-12-31,2077500000.0
+JKTYRE,Q,income,Net Income,2026-03-31,1779900000.0
+JKTYRE,Q,income,Net Income,2026-06-30,440400000.0
+JKTYRE,Q,income,Net Income,2026-09-30,651100000.0
+JKTYRE,Q,income,Net Income Common Stockholders,2025-09-30,2268900000.0
+JKTYRE,Q,income,Net Income Common Stockholders,2025-12-31,2077500000.0
+JKTYRE,Q,income,Net Income Common Stockholders,2026-03-31,1779900000.0
+JKTYRE,Q,income,Net Income Common Stockholders,2026-06-30,440400000.0
+JKTYRE,Q,income,Net Income Common Stockholders,2026-09-30,651100000.0
+JKTYRE,Q,income,Operating Income,2025-06-30,2885500000.0
+JKTYRE,Q,income,Operating Income,2025-12-31,4513800000.0
+JKTYRE,Q,income,Operating Income,2026-03-31,4143400000.0
+JKTYRE,Q,income,Operating Income,2026-06-30,1325700000.0
+JKTYRE,Q,income,Operating Income,2026-09-30,2058000000.0
+JKTYRE,Q,income,Pretax Income,2025-06-30,2080700000.0
+JKTYRE,Q,income,Pretax Income,2025-12-31,2540800000.0
+JKTYRE,Q,income,Pretax Income,2026-03-31,2765100000.0
+JKTYRE,Q,income,Pretax Income,2026-06-30,537600000.0
+JKTYRE,Q,income,Pretax Income,2026-09-30,935700000.0
+JKTYRE,Q,income,Total Revenue,2025-06-30,38689400000.0
+JKTYRE,Q,income,Total Revenue,2025-12-31,42229600000.0
+JKTYRE,Q,income,Total Revenue,2026-03-31,42234400000.0
+JKTYRE,Q,income,Total Revenue,2026-06-30,39462400000.0
+JKTYRE,Q,income,Total Revenue,2026-09-30,48407300000.0

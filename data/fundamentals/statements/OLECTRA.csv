@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+OLECTRA,A,balance,Cash And Cash Equivalents,2023-03-31,63633000.0
+OLECTRA,A,balance,Cash And Cash Equivalents,2024-03-31,68710000.0
+OLECTRA,A,balance,Cash And Cash Equivalents,2025-03-31,56653000.0
+OLECTRA,A,balance,Cash And Cash Equivalents,2026-03-31,96319000.0
+OLECTRA,A,balance,Net Debt,2023-03-31,1273359000.0
+OLECTRA,A,balance,Net Debt,2024-03-31,1138777000.0
+OLECTRA,A,balance,Net Debt,2025-03-31,2491826000.0
+OLECTRA,A,balance,Net Debt,2026-03-31,3706619000.0
+OLECTRA,A,balance,Ordinary Shares Number,2023-03-31,82080737.0
+OLECTRA,A,balance,Ordinary Shares Number,2024-03-31,82080737.0
+OLECTRA,A,balance,Ordinary Shares Number,2025-03-31,82080737.0
+OLECTRA,A,balance,Ordinary Shares Number,2026-03-31,82080737.0
+OLECTRA,A,balance,Stockholders Equity,2023-03-31,8397481000.0
+OLECTRA,A,balance,Stockholders Equity,2024-03-31,9134776000.0
+OLECTRA,A,balance,Stockholders Equity,2025-03-31,10492630000.0
+OLECTRA,A,balance,Stockholders Equity,2026-03-31,12275825000.0
+OLECTRA,A,balance,Total Assets,2023-03-31,15568986000.0
+OLECTRA,A,balance,Total Assets,2024-03-31,15885770000.0
+OLECTRA,A,balance,Total Assets,2025-03-31,21714025000.0
+OLECTRA,A,balance,Total Assets,2026-03-31,25671097000.0
+OLECTRA,A,balance,Total Debt,2023-03-31,1336992000.0
+OLECTRA,A,balance,Total Debt,2024-03-31,1207487000.0
+OLECTRA,A,balance,Total Debt,2025-03-31,2548479000.0
+OLECTRA,A,balance,Total Debt,2026-03-31,3802938000.0
+OLECTRA,A,cashflow,Capital Expenditure,2023-03-31,-645071000.0
+OLECTRA,A,cashflow,Capital Expenditure,2024-03-31,-790360000.0
+OLECTRA,A,cashflow,Capital Expenditure,2025-03-31,-1769793000.0
+OLECTRA,A,cashflow,Capital Expenditure,2026-03-31,-1591014000.0
+OLECTRA,A,cashflow,Free Cash Flow,2023-03-31,-747804000.0
+OLECTRA,A,cashflow,Free Cash Flow,2024-03-31,639626000.0
+OLECTRA,A,cashflow,Free Cash Flow,2025-03-31,-363049000.0
+OLECTRA,A,cashflow,Free Cash Flow,2026-03-31,-553418000.0
+OLECTRA,A,cashflow,Operating Cash Flow,2023-03-31,-102733000.0
+OLECTRA,A,cashflow,Operating Cash Flow,2024-03-31,1429986000.0
+OLECTRA,A,cashflow,Operating Cash Flow,2025-03-31,1406744000.0
+OLECTRA,A,cashflow,Operating Cash Flow,2026-03-31,1037596000.0
+OLECTRA,A,income,Basic EPS,2023-03-31,7.99
+OLECTRA,A,income,Basic EPS,2024-03-31,9.36
+OLECTRA,A,income,Basic EPS,2025-03-31,16.92
+OLECTRA,A,income,Basic EPS,2026-03-31,21.62
+OLECTRA,A,income,Diluted EPS,2023-03-31,7.99
+OLECTRA,A,income,Diluted EPS,2024-03-31,9.36
+OLECTRA,A,income,Diluted EPS,2025-03-31,16.92
+OLECTRA,A,income,Diluted EPS,2026-03-31,21.62
+OLECTRA,A,income,EBITDA,2023-03-31,1414635000.0
+OLECTRA,A,income,EBITDA,2024-03-31,1855074000.0
+OLECTRA,A,income,EBITDA,2025-03-31,2579649000.0
+OLECTRA,A,income,EBITDA,2026-03-31,3286592000.0
+OLECTRA,A,income,Interest Expense,2023-03-31,189171000.0
+OLECTRA,A,income,Interest Expense,2024-03-31,430532000.0
+OLECTRA,A,income,Interest Expense,2025-03-31,327994000.0
+OLECTRA,A,income,Interest Expense,2026-03-31,377255000.0
+OLECTRA,A,income,Net Income,2023-03-31,655945000.0
+OLECTRA,A,income,Net Income,2024-03-31,768334000.0
+OLECTRA,A,income,Net Income,2025-03-31,1388865000.0
+OLECTRA,A,income,Net Income,2026-03-31,1774942000.0
+OLECTRA,A,income,Net Income Common Stockholders,2023-03-31,655945000.0
+OLECTRA,A,income,Net Income Common Stockholders,2024-03-31,768334000.0
+OLECTRA,A,income,Net Income Common Stockholders,2025-03-31,1388865000.0
+OLECTRA,A,income,Net Income Common Stockholders,2026-03-31,1774942000.0
+OLECTRA,A,income,Operating Income,2023-03-31,1196905000.0
+OLECTRA,A,income,Operating Income,2024-03-31,1349334000.0
+OLECTRA,A,income,Operating Income,2025-03-31,2268363000.0
+OLECTRA,A,income,Operating Income,2026-03-31,2854384000.0
+OLECTRA,A,income,Pretax Income,2023-03-31,894329000.0
+OLECTRA,A,income,Pretax Income,2024-03-31,1057776000.0
+OLECTRA,A,income,Pretax Income,2025-03-31,1878838000.0
+OLECTRA,A,income,Pretax Income,2026-03-31,2461428000.0
+OLECTRA,A,income,Total Revenue,2023-03-31,10896329000.0
+OLECTRA,A,income,Total Revenue,2024-03-31,11541354000.0
+OLECTRA,A,income,Total Revenue,2025-03-31,17982229000.0
+OLECTRA,A,income,Total Revenue,2026-03-31,23076801000.0
+OLECTRA,Q,income,Basic EPS,2025-09-30,6.04
+OLECTRA,Q,income,Basic EPS,2025-12-31,5.65
+OLECTRA,Q,income,Basic EPS,2026-03-31,6.76
+OLECTRA,Q,income,Basic EPS,2026-06-30,3.16
+OLECTRA,Q,income,Basic EPS,2026-09-30,6.45
+OLECTRA,Q,income,Diluted EPS,2025-09-30,6.04
+OLECTRA,Q,income,Diluted EPS,2025-12-31,5.65
+OLECTRA,Q,income,Diluted EPS,2026-03-31,6.76
+OLECTRA,Q,income,Diluted EPS,2026-06-30,3.16
+OLECTRA,Q,income,Diluted EPS,2026-09-30,6.45
+OLECTRA,Q,income,EBITDA,2025-09-30,930062000.0
+OLECTRA,Q,income,EBITDA,2025-12-31,971013000.0
+OLECTRA,Q,income,EBITDA,2026-03-31,1062011000.0
+OLECTRA,Q,income,EBITDA,2026-06-30,729010000.0
+OLECTRA,Q,income,EBITDA,2026-09-30,1098882000.0
+OLECTRA,Q,income,Interest Expense,2025-09-30,138277000.0
+OLECTRA,Q,income,Interest Expense,2025-12-31,201506000.0
+OLECTRA,Q,income,Interest Expense,2026-03-31,153738000.0
+OLECTRA,Q,income,Interest Expense,2026-06-30,235934000.0
+OLECTRA,Q,income,Interest Expense,2026-09-30,220450000.0
+OLECTRA,Q,income,Net Income,2025-09-30,495483000.0
+OLECTRA,Q,income,Net Income,2025-12-31,463971000.0
+OLECTRA,Q,income,Net Income,2026-03-31,555211000.0
+OLECTRA,Q,income,Net Income,2026-06-30,259497000.0
+OLECTRA,Q,income,Net Income,2026-09-30,529380000.0
+OLECTRA,Q,income,Net Income Common Stockholders,2025-09-30,495483000.0
+OLECTRA,Q,income,Net Income Common Stockholders,2025-12-31,463971000.0
+OLECTRA,Q,income,Net Income Common Stockholders,2026-03-31,555211000.0
+OLECTRA,Q,income,Net Income Common Stockholders,2026-06-30,259497000.0
+OLECTRA,Q,income,Net Income Common Stockholders,2026-09-30,529380000.0
+OLECTRA,Q,income,Operating Income,2025-09-30,784562000.0
+OLECTRA,Q,income,Operating Income,2025-12-31,803431000.0
+OLECTRA,Q,income,Operating Income,2026-03-31,886247000.0
+OLECTRA,Q,income,Operating Income,2026-06-30,536117000.0
+OLECTRA,Q,income,Operating Income,2026-09-30,766651000.0
+OLECTRA,Q,income,Pretax Income,2025-09-30,684569000.0
+OLECTRA,Q,income,Pretax Income,2025-12-31,640737000.0
+OLECTRA,Q,income,Pretax Income,2026-03-31,798127000.0
+OLECTRA,Q,income,Pretax Income,2026-06-30,346905000.0
+OLECTRA,Q,income,Pretax Income,2026-09-30,727380000.0
+OLECTRA,Q,income,Total Revenue,2025-09-30,6566234000.0
+OLECTRA,Q,income,Total Revenue,2025-12-31,6635999000.0
+OLECTRA,Q,income,Total Revenue,2026-03-31,6447210000.0
+OLECTRA,Q,income,Total Revenue,2026-06-30,5755064000.0
+OLECTRA,Q,income,Total Revenue,2026-09-30,6870114000.0

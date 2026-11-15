@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+AVALON,A,balance,Cash And Cash Equivalents,2023-03-31,4219030000.0
+AVALON,A,balance,Cash And Cash Equivalents,2024-03-31,423400000.0
+AVALON,A,balance,Cash And Cash Equivalents,2025-03-31,688270000.0
+AVALON,A,balance,Cash And Cash Equivalents,2026-03-31,712220000.0
+AVALON,A,balance,Net Debt,2022-03-31,2475120000.0
+AVALON,A,balance,Net Debt,2024-03-31,688270000.0
+AVALON,A,balance,Net Debt,2025-03-31,563690000.0
+AVALON,A,balance,Net Debt,2026-03-31,1022660000.0
+AVALON,A,balance,Ordinary Shares Number,2023-03-31,65292577.0
+AVALON,A,balance,Ordinary Shares Number,2024-03-31,65712692.0
+AVALON,A,balance,Ordinary Shares Number,2025-03-31,66157116.0
+AVALON,A,balance,Ordinary Shares Number,2026-03-31,66766163.0
+AVALON,A,balance,Stockholders Equity,2023-03-31,5370190000.0
+AVALON,A,balance,Stockholders Equity,2024-03-31,5473410000.0
+AVALON,A,balance,Stockholders Equity,2025-03-31,6115470000.0
+AVALON,A,balance,Stockholders Equity,2026-03-31,7217040000.0
+AVALON,A,balance,Total Assets,2023-03-31,11887450000.0
+AVALON,A,balance,Total Assets,2024-03-31,9248880000.0
+AVALON,A,balance,Total Assets,2025-03-31,10398760000.0
+AVALON,A,balance,Total Assets,2026-03-31,12643940000.0
+AVALON,A,balance,Total Debt,2023-03-31,3037010000.0
+AVALON,A,balance,Total Debt,2024-03-31,1556120000.0
+AVALON,A,balance,Total Debt,2025-03-31,1635080000.0
+AVALON,A,balance,Total Debt,2026-03-31,2029840000.0
+AVALON,A,cashflow,Capital Expenditure,2023-03-31,-274240000.0
+AVALON,A,cashflow,Capital Expenditure,2024-03-31,-355200000.0
+AVALON,A,cashflow,Capital Expenditure,2025-03-31,-461790000.0
+AVALON,A,cashflow,Capital Expenditure,2026-03-31,-536440000.0
+AVALON,A,cashflow,Free Cash Flow,2023-03-31,-406610000.0
+AVALON,A,cashflow,Free Cash Flow,2024-03-31,-182310000.0
+AVALON,A,cashflow,Free Cash Flow,2025-03-31,-211230000.0
+AVALON,A,cashflow,Free Cash Flow,2026-03-31,35450000.0
+AVALON,A,cashflow,Operating Cash Flow,2023-03-31,-132370000.0
+AVALON,A,cashflow,Operating Cash Flow,2024-03-31,172890000.0
+AVALON,A,cashflow,Operating Cash Flow,2025-03-31,250560000.0
+AVALON,A,cashflow,Operating Cash Flow,2026-03-31,571890000.0
+AVALON,A,income,Basic EPS,2023-03-31,8.04119
+AVALON,A,income,Basic EPS,2024-03-31,4.29
+AVALON,A,income,Basic EPS,2025-03-31,9.62
+AVALON,A,income,Basic EPS,2026-03-31,16.95
+AVALON,A,income,Diluted EPS,2023-03-31,8.04119
+AVALON,A,income,Diluted EPS,2024-03-31,4.19
+AVALON,A,income,Diluted EPS,2025-03-31,9.48
+AVALON,A,income,Diluted EPS,2026-03-31,16.86
+AVALON,A,income,EBITDA,2023-03-31,1133420000.0
+AVALON,A,income,EBITDA,2024-03-31,710940000.0
+AVALON,A,income,EBITDA,2025-03-31,1277440000.0
+AVALON,A,income,EBITDA,2026-03-31,2005590000.0
+AVALON,A,income,Interest Expense,2023-03-31,209940000.0
+AVALON,A,income,Interest Expense,2024-03-31,101410000.0
+AVALON,A,income,Interest Expense,2025-03-31,124620000.0
+AVALON,A,income,Interest Expense,2026-03-31,133130000.0
+AVALON,A,income,Net Income,2023-03-31,525030000.0
+AVALON,A,income,Net Income,2024-03-31,279850000.0
+AVALON,A,income,Net Income,2025-03-31,634390000.0
+AVALON,A,income,Net Income,2026-03-31,1129460000.0
+AVALON,A,income,Net Income Common Stockholders,2023-03-31,525030000.0
+AVALON,A,income,Net Income Common Stockholders,2024-03-31,279850000.0
+AVALON,A,income,Net Income Common Stockholders,2025-03-31,634390000.0
+AVALON,A,income,Net Income Common Stockholders,2026-03-31,1129460000.0
+AVALON,A,income,Operating Income,2023-03-31,937890000.0
+AVALON,A,income,Operating Income,2024-03-31,414080000.0
+AVALON,A,income,Operating Income,2025-03-31,868090000.0
+AVALON,A,income,Operating Income,2026-03-31,1412120000.0
+AVALON,A,income,Pretax Income,2023-03-31,726930000.0
+AVALON,A,income,Pretax Income,2024-03-31,380550000.0
+AVALON,A,income,Pretax Income,2025-03-31,867130000.0
+AVALON,A,income,Pretax Income,2026-03-31,1536470000.0
+AVALON,A,income,Total Revenue,2023-03-31,9426520000.0
+AVALON,A,income,Total Revenue,2024-03-31,8651400000.0
+AVALON,A,income,Total Revenue,2025-03-31,10959110000.0
+AVALON,A,income,Total Revenue,2026-03-31,15993540000.0
+AVALON,Q,income,Basic EPS,2025-06-30,2.14
+AVALON,Q,income,Basic EPS,2025-09-30,3.75
+AVALON,Q,income,Basic EPS,2025-12-31,4.89
+AVALON,Q,income,Basic EPS,2026-03-31,6.16
+AVALON,Q,income,Basic EPS,2026-06-30,5.22
+AVALON,Q,income,Diluted EPS,2025-06-30,2.12
+AVALON,Q,income,Diluted EPS,2025-09-30,3.73
+AVALON,Q,income,Diluted EPS,2025-12-31,4.86
+AVALON,Q,income,Diluted EPS,2026-03-31,6.14
+AVALON,Q,income,Diluted EPS,2026-06-30,5.2
+AVALON,Q,income,EBITDA,2025-06-30,315420000.0
+AVALON,Q,income,EBITDA,2025-09-30,465260000.0
+AVALON,Q,income,EBITDA,2025-12-31,553990000.0
+AVALON,Q,income,EBITDA,2026-03-31,687850000.0
+AVALON,Q,income,EBITDA,2026-06-30,607750000.0
+AVALON,Q,income,Interest Expense,2025-06-30,37680000.0
+AVALON,Q,income,Interest Expense,2025-09-30,40720000.0
+AVALON,Q,income,Interest Expense,2025-12-31,29590000.0
+AVALON,Q,income,Interest Expense,2026-03-31,42070000.0
+AVALON,Q,income,Interest Expense,2026-06-30,34590000.0
+AVALON,Q,income,Net Income,2025-06-30,142140000.0
+AVALON,Q,income,Net Income,2025-09-30,249790000.0
+AVALON,Q,income,Net Income,2025-12-31,326020000.0
+AVALON,Q,income,Net Income,2026-03-31,411510000.0
+AVALON,Q,income,Net Income,2026-06-30,348690000.0
+AVALON,Q,income,Net Income Common Stockholders,2025-06-30,142140000.0
+AVALON,Q,income,Net Income Common Stockholders,2025-09-30,249790000.0
+AVALON,Q,income,Net Income Common Stockholders,2025-12-31,326020000.0
+AVALON,Q,income,Net Income Common Stockholders,2026-03-31,411510000.0
+AVALON,Q,income,Net Income Common Stockholders,2026-06-30,348690000.0
+AVALON,Q,income,Operating Income,2025-06-30,214180000.0
+AVALON,Q,income,Operating Income,2025-09-30,297450000.0
+AVALON,Q,income,Operating Income,2025-12-31,400180000.0
+AVALON,Q,income,Operating Income,2026-03-31,485510000.0
+AVALON,Q,income,Operating Income,2026-06-30,493810000.0
+AVALON,Q,income,Pretax Income,2025-06-30,193070000.0
+AVALON,Q,income,Pretax Income,2025-09-30,335840000.0
+AVALON,Q,income,Pretax Income,2025-12-31,444920000.0
+AVALON,Q,income,Pretax Income,2026-03-31,562640000.0
+AVALON,Q,income,Pretax Income,2026-06-30,487390000.0
+AVALON,Q,income,Total Revenue,2025-06-30,3233080000.0
+AVALON,Q,income,Total Revenue,2025-09-30,3824640000.0
+AVALON,Q,income,Total Revenue,2025-12-31,4175420000.0
+AVALON,Q,income,Total Revenue,2026-03-31,4798910000.0
+AVALON,Q,income,Total Revenue,2026-06-30,4844140000.0

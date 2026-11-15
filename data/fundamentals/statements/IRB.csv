@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+IRB,A,balance,Cash And Cash Equivalents,2023-03-31,2861350000.0
+IRB,A,balance,Cash And Cash Equivalents,2024-03-31,2268070000.0
+IRB,A,balance,Cash And Cash Equivalents,2025-03-31,18392850000.0
+IRB,A,balance,Cash And Cash Equivalents,2026-03-31,2862660000.0
+IRB,A,balance,Net Debt,2023-03-31,164535510000.0
+IRB,A,balance,Net Debt,2024-03-31,184221900000.0
+IRB,A,balance,Net Debt,2025-03-31,187380360000.0
+IRB,A,balance,Net Debt,2026-03-31,197218360000.0
+IRB,A,balance,Ordinary Shares Number,2023-03-31,12078000000.0
+IRB,A,balance,Ordinary Shares Number,2024-03-31,12078000000.0
+IRB,A,balance,Ordinary Shares Number,2025-03-31,12078000000.0
+IRB,A,balance,Ordinary Shares Number,2026-03-31,12078000000.0
+IRB,A,balance,Stockholders Equity,2023-03-31,133788990000.0
+IRB,A,balance,Stockholders Equity,2024-03-31,137445050000.0
+IRB,A,balance,Stockholders Equity,2025-03-31,198265790000.0
+IRB,A,balance,Stockholders Equity,2026-03-31,209487760000.0
+IRB,A,balance,Total Assets,2023-03-31,427661770000.0
+IRB,A,balance,Total Assets,2024-03-31,449203140000.0
+IRB,A,balance,Total Assets,2025-03-31,538959710000.0
+IRB,A,balance,Total Assets,2026-03-31,540536130000.0
+IRB,A,balance,Total Debt,2023-03-31,167481930000.0
+IRB,A,balance,Total Debt,2024-03-31,186533850000.0
+IRB,A,balance,Total Debt,2025-03-31,205993200000.0
+IRB,A,balance,Total Debt,2026-03-31,200270630000.0
+IRB,A,cashflow,Capital Expenditure,2023-03-31,-4308960000.0
+IRB,A,cashflow,Capital Expenditure,2024-03-31,-2390000000.0
+IRB,A,cashflow,Capital Expenditure,2025-03-31,-1986620000.0
+IRB,A,cashflow,Capital Expenditure,2026-03-31,-7320640000.0
+IRB,A,cashflow,Free Cash Flow,2023-03-31,13332340000.0
+IRB,A,cashflow,Free Cash Flow,2024-03-31,38147850000.0
+IRB,A,cashflow,Free Cash Flow,2025-03-31,17725470000.0
+IRB,A,cashflow,Free Cash Flow,2026-03-31,13659680000.0
+IRB,A,cashflow,Operating Cash Flow,2023-03-31,17641300000.0
+IRB,A,cashflow,Operating Cash Flow,2024-03-31,40537850000.0
+IRB,A,cashflow,Operating Cash Flow,2025-03-31,19712090000.0
+IRB,A,cashflow,Operating Cash Flow,2026-03-31,20980320000.0
+IRB,A,income,Basic EPS,2023-03-31,0.595
+IRB,A,income,Basic EPS,2024-03-31,0.5
+IRB,A,income,Basic EPS,2025-03-31,5.37
+IRB,A,income,Basic EPS,2026-03-31,0.7
+IRB,A,income,Diluted EPS,2023-03-31,0.595
+IRB,A,income,Diluted EPS,2024-03-31,0.5
+IRB,A,income,Diluted EPS,2025-03-31,5.37
+IRB,A,income,Diluted EPS,2026-03-31,0.7
+IRB,A,income,EBITDA,2023-03-31,33523600000.0
+IRB,A,income,EBITDA,2024-03-31,36932320000.0
+IRB,A,income,EBITDA,2025-03-31,95957870000.0
+IRB,A,income,EBITDA,2026-03-31,40411080000.0
+IRB,A,income,Interest Expense,2023-03-31,14432890000.0
+IRB,A,income,Interest Expense,2024-03-31,17468450000.0
+IRB,A,income,Interest Expense,2025-03-31,16967720000.0
+IRB,A,income,Interest Expense,2026-03-31,16512570000.0
+IRB,A,income,Net Income,2023-03-31,7200110000.0
+IRB,A,income,Net Income,2024-03-31,6058160000.0
+IRB,A,income,Net Income,2025-03-31,64806840000.0
+IRB,A,income,Net Income,2026-03-31,8503600000.0
+IRB,A,income,Net Income Common Stockholders,2023-03-31,7200110000.0
+IRB,A,income,Net Income Common Stockholders,2024-03-31,6058160000.0
+IRB,A,income,Net Income Common Stockholders,2025-03-31,64806840000.0
+IRB,A,income,Net Income Common Stockholders,2026-03-31,8503600000.0
+IRB,A,income,Operating Income,2023-03-31,24053740000.0
+IRB,A,income,Operating Income,2024-03-31,23488150000.0
+IRB,A,income,Operating Income,2025-03-31,21737970000.0
+IRB,A,income,Operating Income,2026-03-31,17265930000.0
+IRB,A,income,Pretax Income,2023-03-31,10769510000.0
+IRB,A,income,Pretax Income,2024-03-31,9514380000.0
+IRB,A,income,Pretax Income,2025-03-31,68613900000.0
+IRB,A,income,Pretax Income,2026-03-31,12478150000.0
+IRB,A,income,Total Revenue,2023-03-31,63246440000.0
+IRB,A,income,Total Revenue,2024-03-31,73624540000.0
+IRB,A,income,Total Revenue,2025-03-31,70518040000.0
+IRB,A,income,Total Revenue,2026-03-31,62523500000.0
+IRB,Q,income,Basic EPS,2025-09-30,0.12
+IRB,Q,income,Basic EPS,2025-12-31,0.175
+IRB,Q,income,Basic EPS,2026-03-31,0.25
+IRB,Q,income,Basic EPS,2026-06-30,0.25
+IRB,Q,income,Basic EPS,2026-09-30,0.22
+IRB,Q,income,Diluted EPS,2025-09-30,0.12
+IRB,Q,income,Diluted EPS,2025-12-31,0.175
+IRB,Q,income,Diluted EPS,2026-03-31,0.25
+IRB,Q,income,Diluted EPS,2026-06-30,0.25
+IRB,Q,income,Diluted EPS,2026-09-30,0.22
+IRB,Q,income,EBITDA,2025-09-30,9738830000.0
+IRB,Q,income,EBITDA,2025-12-31,10208320000.0
+IRB,Q,income,EBITDA,2026-03-31,11326850000.0
+IRB,Q,income,EBITDA,2026-06-30,11879490000.0
+IRB,Q,income,EBITDA,2026-09-30,11020190000.0
+IRB,Q,income,Interest Expense,2025-09-30,4509620000.0
+IRB,Q,income,Interest Expense,2025-12-31,4364160000.0
+IRB,Q,income,Interest Expense,2026-03-31,4057710000.0
+IRB,Q,income,Interest Expense,2026-06-30,4380190000.0
+IRB,Q,income,Interest Expense,2026-09-30,3876870000.0
+IRB,Q,income,Net Income,2025-09-30,1408240000.0
+IRB,Q,income,Net Income,2025-12-31,2107900000.0
+IRB,Q,income,Net Income,2026-03-31,2962590000.0
+IRB,Q,income,Net Income,2026-06-30,3062700000.0
+IRB,Q,income,Net Income,2026-09-30,2603150000.0
+IRB,Q,income,Net Income Common Stockholders,2025-09-30,1408240000.0
+IRB,Q,income,Net Income Common Stockholders,2025-12-31,2107900000.0
+IRB,Q,income,Net Income Common Stockholders,2026-03-31,2962590000.0
+IRB,Q,income,Net Income Common Stockholders,2026-06-30,3062700000.0
+IRB,Q,income,Net Income Common Stockholders,2026-09-30,2603150000.0
+IRB,Q,income,Operating Income,2025-09-30,3590790000.0
+IRB,Q,income,Operating Income,2025-12-31,3517400000.0
+IRB,Q,income,Operating Income,2026-03-31,3609340000.0
+IRB,Q,income,Operating Income,2026-06-30,3824490000.0
+IRB,Q,income,Operating Income,2026-09-30,3696410000.0
+IRB,Q,income,Pretax Income,2025-09-30,2608060000.0
+IRB,Q,income,Pretax Income,2025-12-31,2950100000.0
+IRB,Q,income,Pretax Income,2026-03-31,4056090000.0
+IRB,Q,income,Pretax Income,2026-06-30,4165510000.0
+IRB,Q,income,Pretax Income,2026-09-30,3853030000.0
+IRB,Q,income,Total Revenue,2025-09-30,14476060000.0
+IRB,Q,income,Total Revenue,2025-12-31,14898800000.0
+IRB,Q,income,Total Revenue,2026-03-31,15264440000.0
+IRB,Q,income,Total Revenue,2026-06-30,17005440000.0
+IRB,Q,income,Total Revenue,2026-09-30,15411610000.0

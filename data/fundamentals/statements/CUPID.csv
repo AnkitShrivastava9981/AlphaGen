@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+CUPID,A,balance,Cash And Cash Equivalents,2023-03-31,3005000.0
+CUPID,A,balance,Cash And Cash Equivalents,2024-03-31,118975000.0
+CUPID,A,balance,Cash And Cash Equivalents,2025-03-31,591516000.0
+CUPID,A,balance,Cash And Cash Equivalents,2026-03-31,1686674000.0
+CUPID,A,balance,Net Debt,2022-03-31,83996000.0
+CUPID,A,balance,Net Debt,2023-03-31,56744000.0
+CUPID,A,balance,Net Debt,2024-03-31,1610000.0
+CUPID,A,balance,Ordinary Shares Number,2023-03-31,1333800000.0
+CUPID,A,balance,Ordinary Shares Number,2024-03-31,1341774900.0
+CUPID,A,balance,Ordinary Shares Number,2025-03-31,1342335700.0
+CUPID,A,balance,Ordinary Shares Number,2026-03-31,1344660700.0
+CUPID,A,balance,Stockholders Equity,2023-03-31,1671234000.0
+CUPID,A,balance,Stockholders Equity,2024-03-31,3012854000.0
+CUPID,A,balance,Stockholders Equity,2025-03-31,3421923000.0
+CUPID,A,balance,Stockholders Equity,2026-03-31,4508058000.0
+CUPID,A,balance,Total Assets,2023-03-31,1888303000.0
+CUPID,A,balance,Total Assets,2024-03-31,3199380000.0
+CUPID,A,balance,Total Assets,2025-03-31,3717758000.0
+CUPID,A,balance,Total Assets,2026-03-31,5532242000.0
+CUPID,A,balance,Total Debt,2023-03-31,59749000.0
+CUPID,A,balance,Total Debt,2024-03-31,120585000.0
+CUPID,A,balance,Total Debt,2025-03-31,189904000.0
+CUPID,A,balance,Total Debt,2026-03-31,563785000.0
+CUPID,A,cashflow,Capital Expenditure,2023-03-31,-25437000.0
+CUPID,A,cashflow,Capital Expenditure,2024-03-31,-249962000.0
+CUPID,A,cashflow,Capital Expenditure,2025-03-31,-194583000.0
+CUPID,A,cashflow,Capital Expenditure,2026-03-31,-246924000.0
+CUPID,A,cashflow,Free Cash Flow,2023-03-31,301674000.0
+CUPID,A,cashflow,Free Cash Flow,2024-03-31,-171538000.0
+CUPID,A,cashflow,Free Cash Flow,2025-03-31,-305934000.0
+CUPID,A,cashflow,Free Cash Flow,2026-03-31,214274000.0
+CUPID,A,cashflow,Operating Cash Flow,2023-03-31,327111000.0
+CUPID,A,cashflow,Operating Cash Flow,2024-03-31,78424000.0
+CUPID,A,cashflow,Operating Cash Flow,2025-03-31,-111351000.0
+CUPID,A,cashflow,Operating Cash Flow,2026-03-31,461198000.0
+CUPID,A,income,Basic EPS,2023-03-31,0.238
+CUPID,A,income,Basic EPS,2024-03-31,0.298
+CUPID,A,income,Basic EPS,2025-03-31,0.3
+CUPID,A,income,Basic EPS,2026-03-31,0.81
+CUPID,A,income,Diluted EPS,2023-03-31,0.226
+CUPID,A,income,Diluted EPS,2024-03-31,0.296
+CUPID,A,income,Diluted EPS,2025-03-31,0.29
+CUPID,A,income,Diluted EPS,2026-03-31,0.79
+CUPID,A,income,EBITDA,2023-03-31,455734000.0
+CUPID,A,income,EBITDA,2024-03-31,561048000.0
+CUPID,A,income,EBITDA,2025-03-31,612714000.0
+CUPID,A,income,EBITDA,2026-03-31,1500387000.0
+CUPID,A,income,Interest Expense,2023-03-31,2851000.0
+CUPID,A,income,Interest Expense,2024-03-31,5976000.0
+CUPID,A,income,Interest Expense,2025-03-31,19360000.0
+CUPID,A,income,Interest Expense,2026-03-31,24499000.0
+CUPID,A,income,Net Income,2023-03-31,315828000.0
+CUPID,A,income,Net Income,2024-03-31,398548000.0
+CUPID,A,income,Net Income,2025-03-31,408871000.0
+CUPID,A,income,Net Income,2026-03-31,1082333000.0
+CUPID,A,income,Net Income Common Stockholders,2023-03-31,315828000.0
+CUPID,A,income,Net Income Common Stockholders,2024-03-31,398548000.0
+CUPID,A,income,Net Income Common Stockholders,2025-03-31,408871000.0
+CUPID,A,income,Net Income Common Stockholders,2026-03-31,1082333000.0
+CUPID,A,income,Operating Income,2023-03-31,383721000.0
+CUPID,A,income,Operating Income,2024-03-31,477067000.0
+CUPID,A,income,Operating Income,2025-03-31,378974000.0
+CUPID,A,income,Operating Income,2026-03-31,1131713000.0
+CUPID,A,income,Pretax Income,2023-03-31,423190000.0
+CUPID,A,income,Pretax Income,2024-03-31,525818000.0
+CUPID,A,income,Pretax Income,2025-03-31,548596000.0
+CUPID,A,income,Pretax Income,2026-03-31,1424656000.0
+CUPID,A,income,Total Revenue,2023-03-31,1555079000.0
+CUPID,A,income,Total Revenue,2024-03-31,1675516000.0
+CUPID,A,income,Total Revenue,2025-03-31,1806204000.0
+CUPID,A,income,Total Revenue,2026-03-31,3509897000.0
+CUPID,Q,income,Basic EPS,2025-06-30,0.11
+CUPID,Q,income,Basic EPS,2025-09-30,0.18
+CUPID,Q,income,Basic EPS,2025-12-31,0.244
+CUPID,Q,income,Basic EPS,2026-03-31,0.27
+CUPID,Q,income,Basic EPS,2026-06-30,0.33
+CUPID,Q,income,Diluted EPS,2025-06-30,0.1
+CUPID,Q,income,Diluted EPS,2025-09-30,0.178
+CUPID,Q,income,Diluted EPS,2025-12-31,0.244
+CUPID,Q,income,Diluted EPS,2026-03-31,0.26
+CUPID,Q,income,Diluted EPS,2026-06-30,0.32
+CUPID,Q,income,EBITDA,2025-06-30,214161000.0
+CUPID,Q,income,EBITDA,2025-09-30,341954000.0
+CUPID,Q,income,EBITDA,2025-12-31,451873000.0
+CUPID,Q,income,EBITDA,2026-03-31,495975000.0
+CUPID,Q,income,EBITDA,2026-06-30,623258000.0
+CUPID,Q,income,Interest Expense,2025-06-30,6220000.0
+CUPID,Q,income,Interest Expense,2025-09-30,7015000.0
+CUPID,Q,income,Interest Expense,2025-12-31,6114000.0
+CUPID,Q,income,Interest Expense,2026-03-31,8724000.0
+CUPID,Q,income,Interest Expense,2026-06-30,11145000.0
+CUPID,Q,income,Net Income,2025-06-30,150074000.0
+CUPID,Q,income,Net Income,2025-09-30,241298000.0
+CUPID,Q,income,Net Income,2025-12-31,328339000.0
+CUPID,Q,income,Net Income,2026-03-31,362625000.0
+CUPID,Q,income,Net Income,2026-06-30,441488000.0
+CUPID,Q,income,Net Income Common Stockholders,2025-06-30,150074000.0
+CUPID,Q,income,Net Income Common Stockholders,2025-09-30,241298000.0
+CUPID,Q,income,Net Income Common Stockholders,2025-12-31,328339000.0
+CUPID,Q,income,Net Income Common Stockholders,2026-03-31,362625000.0
+CUPID,Q,income,Net Income Common Stockholders,2026-06-30,441488000.0
+CUPID,Q,income,Operating Income,2025-06-30,152315000.0
+CUPID,Q,income,Operating Income,2025-09-30,271081000.0
+CUPID,Q,income,Operating Income,2025-12-31,329988000.0
+CUPID,Q,income,Operating Income,2026-03-31,362421000.0
+CUPID,Q,income,Operating Income,2026-06-30,587680000.0
+CUPID,Q,income,Pretax Income,2025-06-30,195514000.0
+CUPID,Q,income,Pretax Income,2025-09-30,321892000.0
+CUPID,Q,income,Pretax Income,2025-12-31,432737000.0
+CUPID,Q,income,Pretax Income,2026-03-31,474515000.0
+CUPID,Q,income,Pretax Income,2026-06-30,599187000.0
+CUPID,Q,income,Total Revenue,2025-06-30,598049000.0
+CUPID,Q,income,Total Revenue,2025-09-30,844468000.0
+CUPID,Q,income,Total Revenue,2025-12-31,934954000.0
+CUPID,Q,income,Total Revenue,2026-03-31,1199617000.0
+CUPID,Q,income,Total Revenue,2026-06-30,1547150000.0

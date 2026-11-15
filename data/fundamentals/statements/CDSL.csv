@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CDSL,A,balance,Cash And Cash Equivalents,2023-03-31,52724000.0
+CDSL,A,balance,Cash And Cash Equivalents,2024-03-31,118089000.0
+CDSL,A,balance,Cash And Cash Equivalents,2025-03-31,226102000.0
+CDSL,A,balance,Cash And Cash Equivalents,2026-03-31,377764000.0
+CDSL,A,balance,Ordinary Shares Number,2023-03-31,209000000.0
+CDSL,A,balance,Ordinary Shares Number,2024-03-31,209000000.0
+CDSL,A,balance,Ordinary Shares Number,2025-03-31,209000000.0
+CDSL,A,balance,Ordinary Shares Number,2026-03-31,209000000.0
+CDSL,A,balance,Stockholders Equity,2023-03-31,12137299000.0
+CDSL,A,balance,Stockholders Equity,2024-03-31,14633434000.0
+CDSL,A,balance,Stockholders Equity,2025-03-31,17603447000.0
+CDSL,A,balance,Stockholders Equity,2026-03-31,19597825000.0
+CDSL,A,balance,Total Assets,2023-03-31,14571700000.0
+CDSL,A,balance,Total Assets,2024-03-31,17816493000.0
+CDSL,A,balance,Total Assets,2025-03-31,21621375000.0
+CDSL,A,balance,Total Assets,2026-03-31,24190315000.0
+CDSL,A,balance,Total Debt,2023-03-31,23705000.0
+CDSL,A,balance,Total Debt,2024-03-31,13558000.0
+CDSL,A,balance,Total Debt,2025-03-31,29787000.0
+CDSL,A,balance,Total Debt,2026-03-31,21998000.0
+CDSL,A,cashflow,Capital Expenditure,2023-03-31,-2055892000.0
+CDSL,A,cashflow,Capital Expenditure,2024-03-31,-734554000.0
+CDSL,A,cashflow,Capital Expenditure,2025-03-31,-1557533000.0
+CDSL,A,cashflow,Capital Expenditure,2026-03-31,-1206992000.0
+CDSL,A,cashflow,Free Cash Flow,2023-03-31,432358000.0
+CDSL,A,cashflow,Free Cash Flow,2024-03-31,3124855000.0
+CDSL,A,cashflow,Free Cash Flow,2025-03-31,3877192000.0
+CDSL,A,cashflow,Free Cash Flow,2026-03-31,3459225000.0
+CDSL,A,cashflow,Operating Cash Flow,2023-03-31,2488250000.0
+CDSL,A,cashflow,Operating Cash Flow,2024-03-31,3859409000.0
+CDSL,A,cashflow,Operating Cash Flow,2025-03-31,5434725000.0
+CDSL,A,cashflow,Operating Cash Flow,2026-03-31,4666217000.0
+CDSL,A,income,Basic EPS,2023-03-31,13.205
+CDSL,A,income,Basic EPS,2024-03-31,20.05
+CDSL,A,income,Basic EPS,2025-03-31,25.2
+CDSL,A,income,Basic EPS,2026-03-31,21.82
+CDSL,A,income,Diluted EPS,2023-03-31,13.205
+CDSL,A,income,Diluted EPS,2024-03-31,20.05
+CDSL,A,income,Diluted EPS,2025-03-31,25.2
+CDSL,A,income,Diluted EPS,2026-03-31,21.82
+CDSL,A,income,EBITDA,2023-03-31,3847682000.0
+CDSL,A,income,EBITDA,2024-03-31,5833554000.0
+CDSL,A,income,EBITDA,2025-03-31,7439875000.0
+CDSL,A,income,EBITDA,2026-03-31,6753526000.0
+CDSL,A,income,Interest Expense,2023-03-31,1335000.0
+CDSL,A,income,Interest Expense,2024-03-31,1101000.0
+CDSL,A,income,Interest Expense,2025-03-31,1003000.0
+CDSL,A,income,Interest Expense,2026-03-31,1735000.0
+CDSL,A,income,Net Income,2023-03-31,2759390000.0
+CDSL,A,income,Net Income,2024-03-31,4191058000.0
+CDSL,A,income,Net Income,2025-03-31,5266412000.0
+CDSL,A,income,Net Income,2026-03-31,4561318000.0
+CDSL,A,income,Net Income Common Stockholders,2023-03-31,2759390000.0
+CDSL,A,income,Net Income Common Stockholders,2024-03-31,4191058000.0
+CDSL,A,income,Net Income Common Stockholders,2025-03-31,5266412000.0
+CDSL,A,income,Net Income Common Stockholders,2026-03-31,4561318000.0
+CDSL,A,income,Operating Income,2023-03-31,3089577000.0
+CDSL,A,income,Operating Income,2024-03-31,4621728000.0
+CDSL,A,income,Operating Income,2025-03-31,5759145000.0
+CDSL,A,income,Operating Income,2026-03-31,5218073000.0
+CDSL,A,income,Pretax Income,2023-03-31,3651543000.0
+CDSL,A,income,Pretax Income,2024-03-31,5560116000.0
+CDSL,A,income,Pretax Income,2025-03-31,6949029000.0
+CDSL,A,income,Pretax Income,2026-03-31,6089855000.0
+CDSL,A,income,Total Revenue,2023-03-31,5550868000.0
+CDSL,A,income,Total Revenue,2024-03-31,8122566000.0
+CDSL,A,income,Total Revenue,2025-03-31,10822826000.0
+CDSL,A,income,Total Revenue,2026-03-31,11449187000.0
+CDSL,Q,income,Basic EPS,2025-06-30,4.9
+CDSL,Q,income,Basic EPS,2025-12-31,6.38
+CDSL,Q,income,Basic EPS,2026-03-31,3.84
+CDSL,Q,income,Basic EPS,2026-06-30,5.62
+CDSL,Q,income,Basic EPS,2026-09-30,8.32
+CDSL,Q,income,Diluted EPS,2025-06-30,4.9
+CDSL,Q,income,Diluted EPS,2025-12-31,6.38
+CDSL,Q,income,Diluted EPS,2026-03-31,3.84
+CDSL,Q,income,Diluted EPS,2026-06-30,5.62
+CDSL,Q,income,Diluted EPS,2026-09-30,8.32
+CDSL,Q,income,EBITDA,2025-09-30,1988000000.0
+CDSL,Q,income,EBITDA,2025-12-31,1890520000.0
+CDSL,Q,income,EBITDA,2026-03-31,1210761000.0
+CDSL,Q,income,EBITDA,2026-06-30,1858900000.0
+CDSL,Q,income,EBITDA,2026-09-30,2509100000.0
+CDSL,Q,income,Interest Expense,2025-09-30,500000.0
+CDSL,Q,income,Interest Expense,2025-12-31,400000.0
+CDSL,Q,income,Interest Expense,2026-03-31,411000.0
+CDSL,Q,income,Interest Expense,2026-06-30,400000.0
+CDSL,Q,income,Interest Expense,2026-09-30,300000.0
+CDSL,Q,income,Net Income,2025-09-30,1402100000.0
+CDSL,Q,income,Net Income,2025-12-31,1333274000.0
+CDSL,Q,income,Net Income,2026-03-31,802196000.0
+CDSL,Q,income,Net Income,2026-06-30,1175100000.0
+CDSL,Q,income,Net Income,2026-09-30,1738500000.0
+CDSL,Q,income,Net Income Common Stockholders,2025-09-30,1402100000.0
+CDSL,Q,income,Net Income Common Stockholders,2025-12-31,1333274000.0
+CDSL,Q,income,Net Income Common Stockholders,2026-03-31,802196000.0
+CDSL,Q,income,Net Income Common Stockholders,2026-06-30,1175100000.0
+CDSL,Q,income,Net Income Common Stockholders,2026-09-30,1738500000.0
+CDSL,Q,income,Operating Income,2025-09-30,1615200000.0
+CDSL,Q,income,Operating Income,2025-12-31,1439439000.0
+CDSL,Q,income,Operating Income,2026-03-31,989371000.0
+CDSL,Q,income,Operating Income,2026-06-30,1187200000.0
+CDSL,Q,income,Operating Income,2026-09-30,2079900000.0
+CDSL,Q,income,Pretax Income,2025-09-30,1826500000.0
+CDSL,Q,income,Pretax Income,2025-12-31,1719314000.0
+CDSL,Q,income,Pretax Income,2026-03-31,1032210000.0
+CDSL,Q,income,Pretax Income,2026-06-30,1666700000.0
+CDSL,Q,income,Pretax Income,2026-09-30,2303900000.0
+CDSL,Q,income,Total Revenue,2025-09-30,3188800000.0
+CDSL,Q,income,Total Revenue,2025-12-31,3043550000.0
+CDSL,Q,income,Total Revenue,2026-03-31,2628480000.0
+CDSL,Q,income,Total Revenue,2026-06-30,2927600000.0
+CDSL,Q,income,Total Revenue,2026-09-30,3944800000.0

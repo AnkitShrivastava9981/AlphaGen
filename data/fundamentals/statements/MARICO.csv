@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+MARICO,A,balance,Cash And Cash Equivalents,2023-03-31,2070000000.0
+MARICO,A,balance,Cash And Cash Equivalents,2024-03-31,2280000000.0
+MARICO,A,balance,Cash And Cash Equivalents,2025-03-31,3200000000.0
+MARICO,A,balance,Cash And Cash Equivalents,2026-03-31,4040000000.0
+MARICO,A,balance,Net Debt,2022-03-31,690000000.0
+MARICO,A,balance,Net Debt,2023-03-31,2680000000.0
+MARICO,A,balance,Net Debt,2024-03-31,1550000000.0
+MARICO,A,balance,Net Debt,2025-03-31,590000000.0
+MARICO,A,balance,Ordinary Shares Number,2023-03-31,1291877601.0
+MARICO,A,balance,Ordinary Shares Number,2024-03-31,1292711137.0
+MARICO,A,balance,Ordinary Shares Number,2025-03-31,1293906247.0
+MARICO,A,balance,Ordinary Shares Number,2026-03-31,1295647582.0
+MARICO,A,balance,Stockholders Equity,2023-03-31,37990000000.0
+MARICO,A,balance,Stockholders Equity,2024-03-31,38320000000.0
+MARICO,A,balance,Stockholders Equity,2025-03-31,39750000000.0
+MARICO,A,balance,Stockholders Equity,2026-03-31,42100000000.0
+MARICO,A,balance,Total Assets,2023-03-31,69460000000.0
+MARICO,A,balance,Total Assets,2024-03-31,74210000000.0
+MARICO,A,balance,Total Assets,2025-03-31,83320000000.0
+MARICO,A,balance,Total Assets,2026-03-31,100750000000.0
+MARICO,A,balance,Total Debt,2023-03-31,6080000000.0
+MARICO,A,balance,Total Debt,2024-03-31,5280000000.0
+MARICO,A,balance,Total Debt,2025-03-31,5540000000.0
+MARICO,A,balance,Total Debt,2026-03-31,5570000000.0
+MARICO,A,cashflow,Capital Expenditure,2023-03-31,-1820000000.0
+MARICO,A,cashflow,Capital Expenditure,2024-03-31,-1530000000.0
+MARICO,A,cashflow,Capital Expenditure,2025-03-31,-1610000000.0
+MARICO,A,cashflow,Capital Expenditure,2026-03-31,-3190000000.0
+MARICO,A,cashflow,Free Cash Flow,2023-03-31,12370000000.0
+MARICO,A,cashflow,Free Cash Flow,2024-03-31,12340000000.0
+MARICO,A,cashflow,Free Cash Flow,2025-03-31,12020000000.0
+MARICO,A,cashflow,Free Cash Flow,2026-03-31,17650000000.0
+MARICO,A,cashflow,Operating Cash Flow,2023-03-31,14190000000.0
+MARICO,A,cashflow,Operating Cash Flow,2024-03-31,13870000000.0
+MARICO,A,cashflow,Operating Cash Flow,2025-03-31,13630000000.0
+MARICO,A,cashflow,Operating Cash Flow,2026-03-31,20840000000.0
+MARICO,A,income,Basic EPS,2023-03-31,10.08
+MARICO,A,income,Basic EPS,2024-03-31,11.46
+MARICO,A,income,Basic EPS,2025-03-31,12.59
+MARICO,A,income,Basic EPS,2026-03-31,13.62
+MARICO,A,income,Diluted EPS,2023-03-31,10.05
+MARICO,A,income,Diluted EPS,2024-03-31,11.43
+MARICO,A,income,Diluted EPS,2025-03-31,12.56
+MARICO,A,income,Diluted EPS,2026-03-31,13.59
+MARICO,A,income,EBITDA,2023-03-31,19300000000.0
+MARICO,A,income,EBITDA,2024-03-31,21430000000.0
+MARICO,A,income,EBITDA,2025-03-31,23290000000.0
+MARICO,A,income,EBITDA,2026-03-31,25170000000.0
+MARICO,A,income,Interest Expense,2023-03-31,320000000.0
+MARICO,A,income,Interest Expense,2024-03-31,480000000.0
+MARICO,A,income,Interest Expense,2025-03-31,350000000.0
+MARICO,A,income,Interest Expense,2026-03-31,380000000.0
+MARICO,A,income,Net Income,2023-03-31,13020000000.0
+MARICO,A,income,Net Income,2024-03-31,14810000000.0
+MARICO,A,income,Net Income,2025-03-31,16290000000.0
+MARICO,A,income,Net Income,2026-03-31,17620000000.0
+MARICO,A,income,Net Income Common Stockholders,2023-03-31,13020000000.0
+MARICO,A,income,Net Income Common Stockholders,2024-03-31,14810000000.0
+MARICO,A,income,Net Income Common Stockholders,2025-03-31,16290000000.0
+MARICO,A,income,Net Income Common Stockholders,2026-03-31,17620000000.0
+MARICO,A,income,Operating Income,2023-03-31,16560000000.0
+MARICO,A,income,Operating Income,2024-03-31,18680000000.0
+MARICO,A,income,Operating Income,2025-03-31,19630000000.0
+MARICO,A,income,Operating Income,2026-03-31,21260000000.0
+MARICO,A,income,Pretax Income,2023-03-31,17430000000.0
+MARICO,A,income,Pretax Income,2024-03-31,19370000000.0
+MARICO,A,income,Pretax Income,2025-03-31,21160000000.0
+MARICO,A,income,Pretax Income,2026-03-31,22770000000.0
+MARICO,A,income,Total Revenue,2023-03-31,96890000000.0
+MARICO,A,income,Total Revenue,2024-03-31,95730000000.0
+MARICO,A,income,Total Revenue,2025-03-31,107330000000.0
+MARICO,A,income,Total Revenue,2026-03-31,135480000000.0
+MARICO,Q,income,Basic EPS,2025-09-30,3.24
+MARICO,Q,income,Basic EPS,2025-12-31,3.45
+MARICO,Q,income,Basic EPS,2026-03-31,3.04
+MARICO,Q,income,Basic EPS,2026-06-30,4.86
+MARICO,Q,income,Basic EPS,2026-09-30,4.24
+MARICO,Q,income,Diluted EPS,2025-09-30,3.24
+MARICO,Q,income,Diluted EPS,2025-12-31,3.44
+MARICO,Q,income,Diluted EPS,2026-03-31,3.03
+MARICO,Q,income,Diluted EPS,2026-06-30,4.85
+MARICO,Q,income,Diluted EPS,2026-09-30,4.24
+MARICO,Q,income,EBITDA,2025-09-30,6090000000.0
+MARICO,Q,income,EBITDA,2025-12-31,6310000000.0
+MARICO,Q,income,EBITDA,2026-03-31,5810000000.0
+MARICO,Q,income,EBITDA,2026-06-30,8670000000.0
+MARICO,Q,income,EBITDA,2026-09-30,7620000000.0
+MARICO,Q,income,Interest Expense,2025-09-30,120000000.0
+MARICO,Q,income,Interest Expense,2025-12-31,140000000.0
+MARICO,Q,income,Interest Expense,2026-03-31,170000000.0
+MARICO,Q,income,Interest Expense,2026-06-30,210000000.0
+MARICO,Q,income,Interest Expense,2026-09-30,240000000.0
+MARICO,Q,income,Net Income,2025-09-30,4200000000.0
+MARICO,Q,income,Net Income,2025-12-31,4470000000.0
+MARICO,Q,income,Net Income,2026-03-31,3910000000.0
+MARICO,Q,income,Net Income,2026-06-30,6300000000.0
+MARICO,Q,income,Net Income,2026-09-30,5500000000.0
+MARICO,Q,income,Net Income Common Stockholders,2025-09-30,4200000000.0
+MARICO,Q,income,Net Income Common Stockholders,2025-12-31,4470000000.0
+MARICO,Q,income,Net Income Common Stockholders,2026-03-31,3910000000.0
+MARICO,Q,income,Net Income Common Stockholders,2026-06-30,6300000000.0
+MARICO,Q,income,Net Income Common Stockholders,2026-09-30,5500000000.0
+MARICO,Q,income,Operating Income,2025-09-30,5130000000.0
+MARICO,Q,income,Operating Income,2025-12-31,5420000000.0
+MARICO,Q,income,Operating Income,2026-03-31,4610000000.0
+MARICO,Q,income,Operating Income,2026-06-30,7630000000.0
+MARICO,Q,income,Operating Income,2026-09-30,6450000000.0
+MARICO,Q,income,Pretax Income,2025-09-30,5500000000.0
+MARICO,Q,income,Pretax Income,2025-12-31,5670000000.0
+MARICO,Q,income,Pretax Income,2026-03-31,5040000000.0
+MARICO,Q,income,Pretax Income,2026-06-30,7900000000.0
+MARICO,Q,income,Pretax Income,2026-09-30,6740000000.0
+MARICO,Q,income,Total Revenue,2025-09-30,34500000000.0
+MARICO,Q,income,Total Revenue,2025-12-31,35370000000.0
+MARICO,Q,income,Total Revenue,2026-03-31,33330000000.0
+MARICO,Q,income,Total Revenue,2026-06-30,39570000000.0
+MARICO,Q,income,Total Revenue,2026-09-30,38970000000.0

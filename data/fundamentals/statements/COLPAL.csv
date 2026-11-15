@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+COLPAL,A,balance,Cash And Cash Equivalents,2023-03-31,8060568000.0
+COLPAL,A,balance,Cash And Cash Equivalents,2024-03-31,8889900000.0
+COLPAL,A,balance,Cash And Cash Equivalents,2025-03-31,6681000000.0
+COLPAL,A,balance,Cash And Cash Equivalents,2026-03-31,14260400000.0
+COLPAL,A,balance,Ordinary Shares Number,2023-03-31,271985634.0
+COLPAL,A,balance,Ordinary Shares Number,2024-03-31,271985634.0
+COLPAL,A,balance,Ordinary Shares Number,2025-03-31,271985634.0
+COLPAL,A,balance,Ordinary Shares Number,2026-03-31,271985634.0
+COLPAL,A,balance,Stockholders Equity,2023-03-31,17163843000.0
+COLPAL,A,balance,Stockholders Equity,2024-03-31,18743600000.0
+COLPAL,A,balance,Stockholders Equity,2025-03-31,16644700000.0
+COLPAL,A,balance,Stockholders Equity,2026-03-31,15841100000.0
+COLPAL,A,balance,Total Assets,2023-03-31,28829893000.0
+COLPAL,A,balance,Total Assets,2024-03-31,31965300000.0
+COLPAL,A,balance,Total Assets,2025-03-31,30185500000.0
+COLPAL,A,balance,Total Assets,2026-03-31,34082200000.0
+COLPAL,A,balance,Total Debt,2023-03-31,689615000.0
+COLPAL,A,balance,Total Debt,2024-03-31,717500000.0
+COLPAL,A,balance,Total Debt,2025-03-31,608400000.0
+COLPAL,A,balance,Total Debt,2026-03-31,474100000.0
+COLPAL,A,cashflow,Capital Expenditure,2023-03-31,-700894000.0
+COLPAL,A,cashflow,Capital Expenditure,2024-03-31,-755600000.0
+COLPAL,A,cashflow,Capital Expenditure,2025-03-31,-714200000.0
+COLPAL,A,cashflow,Capital Expenditure,2026-03-31,-764600000.0
+COLPAL,A,cashflow,Free Cash Flow,2023-03-31,11061738000.0
+COLPAL,A,cashflow,Free Cash Flow,2024-03-31,11234000000.0
+COLPAL,A,cashflow,Free Cash Flow,2025-03-31,13230400000.0
+COLPAL,A,cashflow,Free Cash Flow,2026-03-31,17298400000.0
+COLPAL,A,cashflow,Operating Cash Flow,2023-03-31,11762632000.0
+COLPAL,A,cashflow,Operating Cash Flow,2024-03-31,11989600000.0
+COLPAL,A,cashflow,Operating Cash Flow,2025-03-31,13944600000.0
+COLPAL,A,cashflow,Operating Cash Flow,2026-03-31,18063000000.0
+COLPAL,A,income,Basic EPS,2023-03-31,38.5
+COLPAL,A,income,Basic EPS,2024-03-31,48.67
+COLPAL,A,income,Basic EPS,2025-03-31,52.83
+COLPAL,A,income,Basic EPS,2026-03-31,48.73
+COLPAL,A,income,Diluted EPS,2023-03-31,38.5
+COLPAL,A,income,Diluted EPS,2024-03-31,48.67
+COLPAL,A,income,Diluted EPS,2025-03-31,52.83
+COLPAL,A,income,Diluted EPS,2026-03-31,48.73
+COLPAL,A,income,EBITDA,2023-03-31,15893902000.0
+COLPAL,A,income,EBITDA,2024-03-31,19578400000.0
+COLPAL,A,income,EBITDA,2025-03-31,20969000000.0
+COLPAL,A,income,EBITDA,2026-03-31,19338100000.0
+COLPAL,A,income,Interest Expense,2023-03-31,49138000.0
+COLPAL,A,income,Interest Expense,2024-03-31,50000000.0
+COLPAL,A,income,Interest Expense,2025-03-31,43200000.0
+COLPAL,A,income,Interest Expense,2026-03-31,37900000.0
+COLPAL,A,income,Net Income,2023-03-31,10471465000.0
+COLPAL,A,income,Net Income,2024-03-31,13236600000.0
+COLPAL,A,income,Net Income,2025-03-31,14368100000.0
+COLPAL,A,income,Net Income,2026-03-31,13253100000.0
+COLPAL,A,income,Net Income Common Stockholders,2023-03-31,10471465000.0
+COLPAL,A,income,Net Income Common Stockholders,2024-03-31,13236600000.0
+COLPAL,A,income,Net Income Common Stockholders,2025-03-31,14368100000.0
+COLPAL,A,income,Net Income Common Stockholders,2026-03-31,13253100000.0
+COLPAL,A,income,Operating Income,2023-03-31,13731587000.0
+COLPAL,A,income,Operating Income,2024-03-31,17296700000.0
+COLPAL,A,income,Operating Income,2025-03-31,17981000000.0
+COLPAL,A,income,Operating Income,2026-03-31,17266800000.0
+COLPAL,A,income,Pretax Income,2023-03-31,14096727000.0
+COLPAL,A,income,Pretax Income,2024-03-31,17813300000.0
+COLPAL,A,income,Pretax Income,2025-03-31,19298400000.0
+COLPAL,A,income,Pretax Income,2026-03-31,17839600000.0
+COLPAL,A,income,Total Revenue,2023-03-31,51878636000.0
+COLPAL,A,income,Total Revenue,2024-03-31,56441800000.0
+COLPAL,A,income,Total Revenue,2025-03-31,59992000000.0
+COLPAL,A,income,Total Revenue,2026-03-31,59835700000.0
+COLPAL,Q,income,Basic EPS,2025-06-30,11.79
+COLPAL,Q,income,Basic EPS,2025-12-31,11.91
+COLPAL,Q,income,Basic EPS,2026-03-31,12.99
+COLPAL,Q,income,Basic EPS,2026-06-30,12.61
+COLPAL,Q,income,Basic EPS,2026-09-30,12.56
+COLPAL,Q,income,Diluted EPS,2025-06-30,11.79
+COLPAL,Q,income,Diluted EPS,2025-12-31,11.91
+COLPAL,Q,income,Diluted EPS,2026-03-31,12.99
+COLPAL,Q,income,Diluted EPS,2026-06-30,12.61
+COLPAL,Q,income,Diluted EPS,2026-09-30,12.56
+COLPAL,Q,income,EBITDA,2025-06-30,4705100000.0
+COLPAL,Q,income,EBITDA,2025-12-31,4729200000.0
+COLPAL,Q,income,EBITDA,2026-03-31,5099200000.0
+COLPAL,Q,income,EBITDA,2026-06-30,5024300000.0
+COLPAL,Q,income,EBITDA,2026-09-30,4951900000.0
+COLPAL,Q,income,Interest Expense,2025-06-30,10200000.0
+COLPAL,Q,income,Interest Expense,2025-12-31,9700000.0
+COLPAL,Q,income,Interest Expense,2026-03-31,8100000.0
+COLPAL,Q,income,Interest Expense,2026-06-30,10300000.0
+COLPAL,Q,income,Interest Expense,2026-09-30,8100000.0
+COLPAL,Q,income,Net Income,2025-06-30,3206200000.0
+COLPAL,Q,income,Net Income,2025-12-31,3238600000.0
+COLPAL,Q,income,Net Income,2026-03-31,3533200000.0
+COLPAL,Q,income,Net Income,2026-06-30,3430800000.0
+COLPAL,Q,income,Net Income,2026-09-30,3415700000.0
+COLPAL,Q,income,Net Income Common Stockholders,2025-06-30,3206200000.0
+COLPAL,Q,income,Net Income Common Stockholders,2025-12-31,3238600000.0
+COLPAL,Q,income,Net Income Common Stockholders,2026-03-31,3533200000.0
+COLPAL,Q,income,Net Income Common Stockholders,2026-06-30,3430800000.0
+COLPAL,Q,income,Net Income Common Stockholders,2026-09-30,3415700000.0
+COLPAL,Q,income,Operating Income,2025-06-30,4150300000.0
+COLPAL,Q,income,Operating Income,2025-12-31,4057800000.0
+COLPAL,Q,income,Operating Income,2026-03-31,4745500000.0
+COLPAL,Q,income,Operating Income,2026-06-30,4437600000.0
+COLPAL,Q,income,Operating Income,2026-09-30,4393200000.0
+COLPAL,Q,income,Pretax Income,2025-06-30,4319500000.0
+COLPAL,Q,income,Pretax Income,2025-12-31,4357000000.0
+COLPAL,Q,income,Pretax Income,2026-03-31,4740300000.0
+COLPAL,Q,income,Pretax Income,2026-06-30,4621900000.0
+COLPAL,Q,income,Pretax Income,2026-09-30,4602200000.0
+COLPAL,Q,income,Total Revenue,2025-06-30,14206400000.0
+COLPAL,Q,income,Total Revenue,2025-12-31,14729200000.0
+COLPAL,Q,income,Total Revenue,2026-03-31,15827700000.0
+COLPAL,Q,income,Total Revenue,2026-06-30,15905600000.0
+COLPAL,Q,income,Total Revenue,2026-09-30,16915700000.0

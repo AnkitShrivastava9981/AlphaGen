@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+RAINBOW,A,balance,Cash And Cash Equivalents,2023-03-31,169650000.0
+RAINBOW,A,balance,Cash And Cash Equivalents,2024-03-31,101190000.0
+RAINBOW,A,balance,Cash And Cash Equivalents,2025-03-31,202550000.0
+RAINBOW,A,balance,Cash And Cash Equivalents,2026-03-31,338940000.0
+RAINBOW,A,balance,Net Debt,2022-03-31,316850000.0
+RAINBOW,A,balance,Ordinary Shares Number,2023-03-31,101501687.0
+RAINBOW,A,balance,Ordinary Shares Number,2024-03-31,101501687.0
+RAINBOW,A,balance,Ordinary Shares Number,2025-03-31,101551673.0
+RAINBOW,A,balance,Ordinary Shares Number,2026-03-31,101440087.0
+RAINBOW,A,balance,Stockholders Equity,2023-03-31,10599100000.0
+RAINBOW,A,balance,Stockholders Equity,2024-03-31,12589280000.0
+RAINBOW,A,balance,Stockholders Equity,2025-03-31,14681930000.0
+RAINBOW,A,balance,Stockholders Equity,2026-03-31,16480740000.0
+RAINBOW,A,balance,Total Assets,2023-03-31,17707220000.0
+RAINBOW,A,balance,Total Assets,2024-03-31,21704000000.0
+RAINBOW,A,balance,Total Assets,2025-03-31,23769860000.0
+RAINBOW,A,balance,Total Assets,2026-03-31,27748420000.0
+RAINBOW,A,balance,Total Debt,2023-03-31,5703220000.0
+RAINBOW,A,balance,Total Debt,2024-03-31,7653060000.0
+RAINBOW,A,balance,Total Debt,2025-03-31,7635810000.0
+RAINBOW,A,balance,Total Debt,2026-03-31,8909840000.0
+RAINBOW,A,cashflow,Capital Expenditure,2023-03-31,-1412960000.0
+RAINBOW,A,cashflow,Capital Expenditure,2024-03-31,-3535760000.0
+RAINBOW,A,cashflow,Capital Expenditure,2025-03-31,-1456700000.0
+RAINBOW,A,cashflow,Capital Expenditure,2026-03-31,-2164550000.0
+RAINBOW,A,cashflow,Free Cash Flow,2023-03-31,1874860000.0
+RAINBOW,A,cashflow,Free Cash Flow,2024-03-31,-321750000.0
+RAINBOW,A,cashflow,Free Cash Flow,2025-03-31,2499880000.0
+RAINBOW,A,cashflow,Free Cash Flow,2026-03-31,2032000000.0
+RAINBOW,A,cashflow,Operating Cash Flow,2023-03-31,3287820000.0
+RAINBOW,A,cashflow,Operating Cash Flow,2024-03-31,3214010000.0
+RAINBOW,A,cashflow,Operating Cash Flow,2025-03-31,3956580000.0
+RAINBOW,A,cashflow,Operating Cash Flow,2026-03-31,4196550000.0
+RAINBOW,A,income,Basic EPS,2023-03-31,20.89
+RAINBOW,A,income,Basic EPS,2024-03-31,21.38
+RAINBOW,A,income,Basic EPS,2025-03-31,23.97
+RAINBOW,A,income,Basic EPS,2026-03-31,27.41
+RAINBOW,A,income,Diluted EPS,2023-03-31,20.89
+RAINBOW,A,income,Diluted EPS,2024-03-31,21.38
+RAINBOW,A,income,Diluted EPS,2025-03-31,23.84
+RAINBOW,A,income,Diluted EPS,2026-03-31,27.41
+RAINBOW,A,income,EBITDA,2023-03-31,4266180000.0
+RAINBOW,A,income,EBITDA,2024-03-31,4659490000.0
+RAINBOW,A,income,EBITDA,2025-03-31,5408960000.0
+RAINBOW,A,income,EBITDA,2026-03-31,5864160000.0
+RAINBOW,A,income,Interest Expense,2023-03-31,545710000.0
+RAINBOW,A,income,Interest Expense,2024-03-31,590540000.0
+RAINBOW,A,income,Interest Expense,2025-03-31,724550000.0
+RAINBOW,A,income,Interest Expense,2026-03-31,776170000.0
+RAINBOW,A,income,Net Income,2023-03-31,2108340000.0
+RAINBOW,A,income,Net Income,2024-03-31,2170010000.0
+RAINBOW,A,income,Net Income,2025-03-31,2434240000.0
+RAINBOW,A,income,Net Income,2026-03-31,2783230000.0
+RAINBOW,A,income,Net Income Common Stockholders,2023-03-31,2108340000.0
+RAINBOW,A,income,Net Income Common Stockholders,2024-03-31,2170010000.0
+RAINBOW,A,income,Net Income Common Stockholders,2025-03-31,2434240000.0
+RAINBOW,A,income,Net Income Common Stockholders,2026-03-31,2783230000.0
+RAINBOW,A,income,Operating Income,2023-03-31,3145960000.0
+RAINBOW,A,income,Operating Income,2024-03-31,3235670000.0
+RAINBOW,A,income,Operating Income,2025-03-31,3560010000.0
+RAINBOW,A,income,Operating Income,2026-03-31,3979200000.0
+RAINBOW,A,income,Pretax Income,2023-03-31,2817790000.0
+RAINBOW,A,income,Pretax Income,2024-03-31,2948130000.0
+RAINBOW,A,income,Pretax Income,2025-03-31,3300010000.0
+RAINBOW,A,income,Pretax Income,2026-03-31,3582290000.0
+RAINBOW,A,income,Total Revenue,2023-03-31,11608010000.0
+RAINBOW,A,income,Total Revenue,2024-03-31,12856890000.0
+RAINBOW,A,income,Total Revenue,2025-03-31,14950080000.0
+RAINBOW,A,income,Total Revenue,2026-03-31,16777090000.0
+RAINBOW,Q,income,Basic EPS,2025-09-30,7.41
+RAINBOW,Q,income,Basic EPS,2025-12-31,7.14
+RAINBOW,Q,income,Basic EPS,2026-03-31,7.59
+RAINBOW,Q,income,Basic EPS,2026-06-30,5.97
+RAINBOW,Q,income,Basic EPS,2026-09-30,8.1
+RAINBOW,Q,income,Diluted EPS,2025-09-30,7.41
+RAINBOW,Q,income,Diluted EPS,2025-12-31,7.14
+RAINBOW,Q,income,Diluted EPS,2026-03-31,7.59
+RAINBOW,Q,income,Diluted EPS,2026-06-30,5.97
+RAINBOW,Q,income,Diluted EPS,2026-09-30,8.1
+RAINBOW,Q,income,EBITDA,2025-09-30,1570600000.0
+RAINBOW,Q,income,EBITDA,2025-12-31,1574890000.0
+RAINBOW,Q,income,EBITDA,2026-03-31,1482280000.0
+RAINBOW,Q,income,EBITDA,2026-06-30,1473550000.0
+RAINBOW,Q,income,EBITDA,2026-09-30,1781060000.0
+RAINBOW,Q,income,Interest Expense,2025-09-30,188490000.0
+RAINBOW,Q,income,Interest Expense,2025-12-31,201950000.0
+RAINBOW,Q,income,Interest Expense,2026-03-31,204950000.0
+RAINBOW,Q,income,Interest Expense,2026-06-30,212050000.0
+RAINBOW,Q,income,Interest Expense,2026-09-30,219960000.0
+RAINBOW,Q,income,Net Income,2025-09-30,752500000.0
+RAINBOW,Q,income,Net Income,2025-12-31,725310000.0
+RAINBOW,Q,income,Net Income,2026-03-31,770430000.0
+RAINBOW,Q,income,Net Income,2026-06-30,605720000.0
+RAINBOW,Q,income,Net Income,2026-09-30,820910000.0
+RAINBOW,Q,income,Net Income Common Stockholders,2025-09-30,752500000.0
+RAINBOW,Q,income,Net Income Common Stockholders,2025-12-31,725310000.0
+RAINBOW,Q,income,Net Income Common Stockholders,2026-03-31,770430000.0
+RAINBOW,Q,income,Net Income Common Stockholders,2026-06-30,605720000.0
+RAINBOW,Q,income,Net Income Common Stockholders,2026-09-30,820910000.0
+RAINBOW,Q,income,Operating Income,2025-09-30,1130240000.0
+RAINBOW,Q,income,Operating Income,2025-12-31,1073760000.0
+RAINBOW,Q,income,Operating Income,2026-03-31,1037610000.0
+RAINBOW,Q,income,Operating Income,2026-06-30,924480000.0
+RAINBOW,Q,income,Operating Income,2026-09-30,1253740000.0
+RAINBOW,Q,income,Pretax Income,2025-09-30,1023700000.0
+RAINBOW,Q,income,Pretax Income,2025-12-31,976940000.0
+RAINBOW,Q,income,Pretax Income,2026-03-31,867910000.0
+RAINBOW,Q,income,Pretax Income,2026-06-30,839530000.0
+RAINBOW,Q,income,Pretax Income,2026-09-30,1115040000.0
+RAINBOW,Q,income,Total Revenue,2025-09-30,4447990000.0
+RAINBOW,Q,income,Total Revenue,2025-12-31,4454480000.0
+RAINBOW,Q,income,Total Revenue,2026-03-31,4599010000.0
+RAINBOW,Q,income,Total Revenue,2026-06-30,4699850000.0
+RAINBOW,Q,income,Total Revenue,2026-09-30,5480230000.0

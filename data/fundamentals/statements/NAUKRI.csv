@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+NAUKRI,A,balance,Cash And Cash Equivalents,2023-03-31,3612950000.0
+NAUKRI,A,balance,Cash And Cash Equivalents,2024-03-31,3318960000.0
+NAUKRI,A,balance,Cash And Cash Equivalents,2025-03-31,2629770000.0
+NAUKRI,A,balance,Cash And Cash Equivalents,2026-03-31,3654170000.0
+NAUKRI,A,balance,Ordinary Shares Number,2023-03-31,645061535.0
+NAUKRI,A,balance,Ordinary Shares Number,2024-03-31,645634995.0
+NAUKRI,A,balance,Ordinary Shares Number,2025-03-31,647171315.0
+NAUKRI,A,balance,Ordinary Shares Number,2026-03-31,647737579.0
+NAUKRI,A,balance,Stockholders Equity,2023-03-31,133980240000.0
+NAUKRI,A,balance,Stockholders Equity,2024-03-31,302622910000.0
+NAUKRI,A,balance,Stockholders Equity,2025-03-31,349030620000.0
+NAUKRI,A,balance,Stockholders Equity,2026-03-31,379131330000.0
+NAUKRI,A,balance,Total Assets,2023-03-31,166602990000.0
+NAUKRI,A,balance,Total Assets,2024-03-31,360908160000.0
+NAUKRI,A,balance,Total Assets,2025-03-31,427713490000.0
+NAUKRI,A,balance,Total Assets,2026-03-31,475594770000.0
+NAUKRI,A,balance,Total Debt,2023-03-31,1076490000.0
+NAUKRI,A,balance,Total Debt,2024-03-31,2463860000.0
+NAUKRI,A,balance,Total Debt,2025-03-31,2673460000.0
+NAUKRI,A,balance,Total Debt,2026-03-31,2585300000.0
+NAUKRI,A,cashflow,Capital Expenditure,2023-03-31,-584750000.0
+NAUKRI,A,cashflow,Capital Expenditure,2024-03-31,-296950000.0
+NAUKRI,A,cashflow,Capital Expenditure,2025-03-31,-830690000.0
+NAUKRI,A,cashflow,Capital Expenditure,2026-03-31,-750370000.0
+NAUKRI,A,cashflow,Free Cash Flow,2023-03-31,4539480000.0
+NAUKRI,A,cashflow,Free Cash Flow,2024-03-31,6726040000.0
+NAUKRI,A,cashflow,Free Cash Flow,2025-03-31,7927660000.0
+NAUKRI,A,cashflow,Free Cash Flow,2026-03-31,10013970000.0
+NAUKRI,A,cashflow,Operating Cash Flow,2023-03-31,5124230000.0
+NAUKRI,A,cashflow,Operating Cash Flow,2024-03-31,7022990000.0
+NAUKRI,A,cashflow,Operating Cash Flow,2025-03-31,8758350000.0
+NAUKRI,A,cashflow,Operating Cash Flow,2026-03-31,10764340000.0
+NAUKRI,A,income,Basic EPS,2023-03-31,-1.668
+NAUKRI,A,income,Basic EPS,2024-03-31,8.92
+NAUKRI,A,income,Basic EPS,2025-03-31,14.88
+NAUKRI,A,income,Basic EPS,2026-03-31,22.39
+NAUKRI,A,income,Diluted EPS,2023-03-31,-1.668
+NAUKRI,A,income,Diluted EPS,2024-03-31,8.88
+NAUKRI,A,income,Diluted EPS,2025-03-31,14.83
+NAUKRI,A,income,Diluted EPS,2026-03-31,22.36
+NAUKRI,A,income,EBITDA,2023-03-31,2209260000.0
+NAUKRI,A,income,EBITDA,2024-03-31,10014100000.0
+NAUKRI,A,income,EBITDA,2025-03-31,20819410000.0
+NAUKRI,A,income,EBITDA,2026-03-31,22713820000.0
+NAUKRI,A,income,Interest Expense,2023-03-31,72990000.0
+NAUKRI,A,income,Interest Expense,2024-03-31,222520000.0
+NAUKRI,A,income,Interest Expense,2025-03-31,242320000.0
+NAUKRI,A,income,Interest Expense,2026-03-31,274110000.0
+NAUKRI,A,income,Net Income,2023-03-31,-1074100000.0
+NAUKRI,A,income,Net Income,2024-03-31,5752080000.0
+NAUKRI,A,income,Net Income,2025-03-31,9621400000.0
+NAUKRI,A,income,Net Income,2026-03-31,14498140000.0
+NAUKRI,A,income,Net Income Common Stockholders,2023-03-31,-1074100000.0
+NAUKRI,A,income,Net Income Common Stockholders,2024-03-31,5752080000.0
+NAUKRI,A,income,Net Income Common Stockholders,2025-03-31,9621400000.0
+NAUKRI,A,income,Net Income Common Stockholders,2026-03-31,14498140000.0
+NAUKRI,A,income,Operating Income,2023-03-31,5063680000.0
+NAUKRI,A,income,Operating Income,2024-03-31,7406260000.0
+NAUKRI,A,income,Operating Income,2025-03-31,8829590000.0
+NAUKRI,A,income,Operating Income,2026-03-31,10656030000.0
+NAUKRI,A,income,Pretax Income,2023-03-31,1406120000.0
+NAUKRI,A,income,Pretax Income,2024-03-31,8780330000.0
+NAUKRI,A,income,Pretax Income,2025-03-31,19446190000.0
+NAUKRI,A,income,Pretax Income,2026-03-31,21213930000.0
+NAUKRI,A,income,Total Revenue,2023-03-31,23456910000.0
+NAUKRI,A,income,Total Revenue,2024-03-31,25363400000.0
+NAUKRI,A,income,Total Revenue,2025-03-31,28495510000.0
+NAUKRI,A,income,Total Revenue,2026-03-31,32847320000.0
+NAUKRI,Q,income,Basic EPS,2025-09-30,4.89
+NAUKRI,Q,income,Basic EPS,2025-12-31,4.2
+NAUKRI,Q,income,Basic EPS,2026-03-31,8.73
+NAUKRI,Q,income,Basic EPS,2026-06-30,6.88
+NAUKRI,Q,income,Basic EPS,2026-09-30,7.4
+NAUKRI,Q,income,Diluted EPS,2025-09-30,4.88
+NAUKRI,Q,income,Diluted EPS,2025-12-31,4.19
+NAUKRI,Q,income,Diluted EPS,2026-03-31,8.72
+NAUKRI,Q,income,Diluted EPS,2026-06-30,6.87
+NAUKRI,Q,income,Diluted EPS,2026-09-30,7.39
+NAUKRI,Q,income,EBITDA,2025-09-30,4667410000.0
+NAUKRI,Q,income,EBITDA,2025-12-31,4301320000.0
+NAUKRI,Q,income,EBITDA,2026-03-31,9059750000.0
+NAUKRI,Q,income,EBITDA,2026-06-30,6722500000.0
+NAUKRI,Q,income,EBITDA,2026-09-30,7864740000.0
+NAUKRI,Q,income,Interest Expense,2025-09-30,69820000.0
+NAUKRI,Q,income,Interest Expense,2025-12-31,67730000.0
+NAUKRI,Q,income,Interest Expense,2026-03-31,70750000.0
+NAUKRI,Q,income,Interest Expense,2026-06-30,62560000.0
+NAUKRI,Q,income,Interest Expense,2026-09-30,58060000.0
+NAUKRI,Q,income,Net Income,2025-09-30,3163950000.0
+NAUKRI,Q,income,Net Income,2025-12-31,2717050000.0
+NAUKRI,Q,income,Net Income,2026-03-31,5657970000.0
+NAUKRI,Q,income,Net Income,2026-06-30,4457290000.0
+NAUKRI,Q,income,Net Income,2026-09-30,4797170000.0
+NAUKRI,Q,income,Net Income Common Stockholders,2025-09-30,3163950000.0
+NAUKRI,Q,income,Net Income Common Stockholders,2025-12-31,2717050000.0
+NAUKRI,Q,income,Net Income Common Stockholders,2026-03-31,5657970000.0
+NAUKRI,Q,income,Net Income Common Stockholders,2026-06-30,4457290000.0
+NAUKRI,Q,income,Net Income Common Stockholders,2026-09-30,4797170000.0
+NAUKRI,Q,income,Operating Income,2025-09-30,2488950000.0
+NAUKRI,Q,income,Operating Income,2025-12-31,2638640000.0
+NAUKRI,Q,income,Operating Income,2026-03-31,3032880000.0
+NAUKRI,Q,income,Operating Income,2026-06-30,3065670000.0
+NAUKRI,Q,income,Operating Income,2026-09-30,3210470000.0
+NAUKRI,Q,income,Pretax Income,2025-09-30,4287750000.0
+NAUKRI,Q,income,Pretax Income,2025-12-31,3928610000.0
+NAUKRI,Q,income,Pretax Income,2026-03-31,8686970000.0
+NAUKRI,Q,income,Pretax Income,2026-06-30,6317010000.0
+NAUKRI,Q,income,Pretax Income,2026-09-30,7477310000.0
+NAUKRI,Q,income,Total Revenue,2025-09-30,8054510000.0
+NAUKRI,Q,income,Total Revenue,2025-12-31,8194140000.0
+NAUKRI,Q,income,Total Revenue,2026-03-31,8690050000.0
+NAUKRI,Q,income,Total Revenue,2026-06-30,8807480000.0
+NAUKRI,Q,income,Total Revenue,2026-09-30,9038760000.0

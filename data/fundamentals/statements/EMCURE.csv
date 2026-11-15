@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EMCURE,A,balance,Cash And Cash Equivalents,2023-03-31,563660000.0
+EMCURE,A,balance,Cash And Cash Equivalents,2024-03-31,1089570000.0
+EMCURE,A,balance,Cash And Cash Equivalents,2025-03-31,1218240000.0
+EMCURE,A,balance,Cash And Cash Equivalents,2026-03-31,1032040000.0
+EMCURE,A,balance,Net Debt,2023-03-31,21385680000.0
+EMCURE,A,balance,Net Debt,2024-03-31,19783540000.0
+EMCURE,A,balance,Net Debt,2025-03-31,6098800000.0
+EMCURE,A,balance,Net Debt,2026-03-31,11008790000.0
+EMCURE,A,balance,Ordinary Shares Number,2023-03-31,189098347.0
+EMCURE,A,balance,Ordinary Shares Number,2024-03-31,189098347.0
+EMCURE,A,balance,Ordinary Shares Number,2025-03-31,189483347.0
+EMCURE,A,balance,Ordinary Shares Number,2026-03-31,189589547.0
+EMCURE,A,balance,Stockholders Equity,2023-03-31,25011260000.0
+EMCURE,A,balance,Stockholders Equity,2024-03-31,29522830000.0
+EMCURE,A,balance,Stockholders Equity,2025-03-31,44461860000.0
+EMCURE,A,balance,Stockholders Equity,2026-03-31,49500320000.0
+EMCURE,A,balance,Total Assets,2023-03-31,66725310000.0
+EMCURE,A,balance,Total Assets,2024-03-31,78061630000.0
+EMCURE,A,balance,Total Assets,2025-03-31,82327230000.0
+EMCURE,A,balance,Total Assets,2026-03-31,96124810000.0
+EMCURE,A,balance,Total Debt,2023-03-31,23343040000.0
+EMCURE,A,balance,Total Debt,2024-03-31,23349710000.0
+EMCURE,A,balance,Total Debt,2025-03-31,10227490000.0
+EMCURE,A,balance,Total Debt,2026-03-31,15212410000.0
+EMCURE,A,cashflow,Capital Expenditure,2023-03-31,-4033640000.0
+EMCURE,A,cashflow,Capital Expenditure,2024-03-31,-3071320000.0
+EMCURE,A,cashflow,Capital Expenditure,2025-03-31,-4069270000.0
+EMCURE,A,cashflow,Capital Expenditure,2026-03-31,-5476870000.0
+EMCURE,A,cashflow,Free Cash Flow,2023-03-31,3434890000.0
+EMCURE,A,cashflow,Free Cash Flow,2024-03-31,7901080000.0
+EMCURE,A,cashflow,Free Cash Flow,2025-03-31,4447780000.0
+EMCURE,A,cashflow,Free Cash Flow,2026-03-31,3958580000.0
+EMCURE,A,cashflow,Operating Cash Flow,2023-03-31,7468530000.0
+EMCURE,A,cashflow,Operating Cash Flow,2024-03-31,10972400000.0
+EMCURE,A,cashflow,Operating Cash Flow,2025-03-31,8517050000.0
+EMCURE,A,cashflow,Operating Cash Flow,2026-03-31,9435450000.0
+EMCURE,A,income,Basic EPS,2023-03-31,29.427009
+EMCURE,A,income,Basic EPS,2024-03-31,27.566646
+EMCURE,A,income,Basic EPS,2025-03-31,36.43
+EMCURE,A,income,Basic EPS,2026-03-31,48.77
+EMCURE,A,income,Diluted EPS,2023-03-31,29.427009
+EMCURE,A,income,Diluted EPS,2024-03-31,27.566646
+EMCURE,A,income,Diluted EPS,2025-03-31,36.43
+EMCURE,A,income,Diluted EPS,2026-03-31,48.77
+EMCURE,A,income,EBITDA,2023-03-31,11702480000.0
+EMCURE,A,income,EBITDA,2024-03-31,12403260000.0
+EMCURE,A,income,EBITDA,2025-03-31,14954850000.0
+EMCURE,A,income,EBITDA,2026-03-31,18256020000.0
+EMCURE,A,income,Interest Expense,2023-03-31,1629150000.0
+EMCURE,A,income,Interest Expense,2024-03-31,2006910000.0
+EMCURE,A,income,Interest Expense,2025-03-31,1400080000.0
+EMCURE,A,income,Interest Expense,2026-03-31,1234130000.0
+EMCURE,A,income,Net Income,2023-03-31,5320190000.0
+EMCURE,A,income,Net Income,2024-03-31,4981830000.0
+EMCURE,A,income,Net Income,2025-03-31,6813320000.0
+EMCURE,A,income,Net Income,2026-03-31,9243610000.0
+EMCURE,A,income,Net Income Common Stockholders,2023-03-31,5320190000.0
+EMCURE,A,income,Net Income Common Stockholders,2024-03-31,4981830000.0
+EMCURE,A,income,Net Income Common Stockholders,2025-03-31,6813320000.0
+EMCURE,A,income,Net Income Common Stockholders,2026-03-31,9243610000.0
+EMCURE,A,income,Operating Income,2023-03-31,9406260000.0
+EMCURE,A,income,Operating Income,2024-03-31,9173160000.0
+EMCURE,A,income,Operating Income,2025-03-31,10847260000.0
+EMCURE,A,income,Operating Income,2026-03-31,13737950000.0
+EMCURE,A,income,Pretax Income,2023-03-31,7472150000.0
+EMCURE,A,income,Pretax Income,2024-03-31,7272280000.0
+EMCURE,A,income,Pretax Income,2025-03-31,9713490000.0
+EMCURE,A,income,Pretax Income,2026-03-31,12871430000.0
+EMCURE,A,income,Total Revenue,2023-03-31,59310760000.0
+EMCURE,A,income,Total Revenue,2024-03-31,65819920000.0
+EMCURE,A,income,Total Revenue,2025-03-31,78082710000.0
+EMCURE,A,income,Total Revenue,2026-03-31,91158880000.0
+EMCURE,Q,income,Basic EPS,2025-09-30,12.85
+EMCURE,Q,income,Basic EPS,2025-12-31,12.16
+EMCURE,Q,income,Basic EPS,2026-03-31,12.84
+EMCURE,Q,income,Basic EPS,2026-06-30,15.5
+EMCURE,Q,income,Basic EPS,2026-09-30,17.16
+EMCURE,Q,income,Diluted EPS,2025-09-30,12.85
+EMCURE,Q,income,Diluted EPS,2025-12-31,12.16
+EMCURE,Q,income,Diluted EPS,2026-03-31,12.84
+EMCURE,Q,income,Diluted EPS,2026-06-30,15.5
+EMCURE,Q,income,Diluted EPS,2026-09-30,17.14
+EMCURE,Q,income,EBITDA,2025-09-30,4786020000.0
+EMCURE,Q,income,EBITDA,2025-12-31,4564470000.0
+EMCURE,Q,income,EBITDA,2026-03-31,4938440000.0
+EMCURE,Q,income,EBITDA,2026-06-30,5345670000.0
+EMCURE,Q,income,EBITDA,2026-09-30,5910910000.0
+EMCURE,Q,income,Interest Expense,2025-09-30,325420000.0
+EMCURE,Q,income,Interest Expense,2025-12-31,379750000.0
+EMCURE,Q,income,Interest Expense,2026-03-31,464010000.0
+EMCURE,Q,income,Interest Expense,2026-06-30,315360000.0
+EMCURE,Q,income,Interest Expense,2026-09-30,355760000.0
+EMCURE,Q,income,Net Income,2025-09-30,2434640000.0
+EMCURE,Q,income,Net Income,2025-12-31,2305410000.0
+EMCURE,Q,income,Net Income,2026-03-31,2434030000.0
+EMCURE,Q,income,Net Income,2026-06-30,2939800000.0
+EMCURE,Q,income,Net Income,2026-09-30,3255650000.0
+EMCURE,Q,income,Net Income Common Stockholders,2025-09-30,2434640000.0
+EMCURE,Q,income,Net Income Common Stockholders,2025-12-31,2305410000.0
+EMCURE,Q,income,Net Income Common Stockholders,2026-03-31,2434030000.0
+EMCURE,Q,income,Net Income Common Stockholders,2026-06-30,2939800000.0
+EMCURE,Q,income,Net Income Common Stockholders,2026-09-30,3255650000.0
+EMCURE,Q,income,Operating Income,2025-09-30,3344820000.0
+EMCURE,Q,income,Operating Income,2025-12-31,3554380000.0
+EMCURE,Q,income,Operating Income,2026-03-31,3792070000.0
+EMCURE,Q,income,Operating Income,2026-06-30,3984920000.0
+EMCURE,Q,income,Operating Income,2026-09-30,4650920000.0
+EMCURE,Q,income,Pretax Income,2025-09-30,3414170000.0
+EMCURE,Q,income,Pretax Income,2025-12-31,3137920000.0
+EMCURE,Q,income,Pretax Income,2026-03-31,3411760000.0
+EMCURE,Q,income,Pretax Income,2026-06-30,3935260000.0
+EMCURE,Q,income,Pretax Income,2026-09-30,4458520000.0
+EMCURE,Q,income,Total Revenue,2025-09-30,22698220000.0
+EMCURE,Q,income,Total Revenue,2025-12-31,23634780000.0
+EMCURE,Q,income,Total Revenue,2026-03-31,24697030000.0
+EMCURE,Q,income,Total Revenue,2026-06-30,25804470000.0
+EMCURE,Q,income,Total Revenue,2026-09-30,28204710000.0

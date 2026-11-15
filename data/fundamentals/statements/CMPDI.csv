@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CMPDI,A,balance,Cash And Cash Equivalents,2023-03-31,3571000000.0
+CMPDI,A,balance,Cash And Cash Equivalents,2024-03-31,2539900000.0
+CMPDI,A,balance,Cash And Cash Equivalents,2025-03-31,2792700000.0
+CMPDI,A,balance,Cash And Cash Equivalents,2026-03-31,4591000000.0
+CMPDI,A,balance,Ordinary Shares Number,2023-03-31,714000000.0
+CMPDI,A,balance,Ordinary Shares Number,2024-03-31,714000000.0
+CMPDI,A,balance,Ordinary Shares Number,2025-03-31,714000000.0
+CMPDI,A,balance,Ordinary Shares Number,2026-03-31,714000000.0
+CMPDI,A,balance,Stockholders Equity,2023-03-31,12176500000.0
+CMPDI,A,balance,Stockholders Equity,2024-03-31,15916100000.0
+CMPDI,A,balance,Stockholders Equity,2025-03-31,20418500000.0
+CMPDI,A,balance,Stockholders Equity,2026-03-31,22832400000.0
+CMPDI,A,balance,Total Assets,2023-03-31,19195300000.0
+CMPDI,A,balance,Total Assets,2024-03-31,21713700000.0
+CMPDI,A,balance,Total Assets,2025-03-31,26828000000.0
+CMPDI,A,balance,Total Assets,2026-03-31,32585100000.0
+CMPDI,A,balance,Total Debt,2023-03-31,17000000.0
+CMPDI,A,balance,Total Debt,2024-03-31,13100000.0
+CMPDI,A,balance,Total Debt,2025-03-31,11500000.0
+CMPDI,A,balance,Total Debt,2026-03-31,14500000.0
+CMPDI,A,cashflow,Capital Expenditure,2023-03-31,-436900000.0
+CMPDI,A,cashflow,Capital Expenditure,2024-03-31,-318700000.0
+CMPDI,A,cashflow,Capital Expenditure,2025-03-31,-419000000.0
+CMPDI,A,cashflow,Capital Expenditure,2026-03-31,-643000000.0
+CMPDI,A,cashflow,Free Cash Flow,2023-03-31,3557200000.0
+CMPDI,A,cashflow,Free Cash Flow,2024-03-31,2143900000.0
+CMPDI,A,cashflow,Free Cash Flow,2025-03-31,6292400000.0
+CMPDI,A,cashflow,Free Cash Flow,2026-03-31,6521200000.0
+CMPDI,A,cashflow,Operating Cash Flow,2023-03-31,3994100000.0
+CMPDI,A,cashflow,Operating Cash Flow,2024-03-31,2462600000.0
+CMPDI,A,cashflow,Operating Cash Flow,2025-03-31,6711400000.0
+CMPDI,A,cashflow,Operating Cash Flow,2026-03-31,7164200000.0
+CMPDI,A,income,Basic EPS,2023-03-31,4.154902
+CMPDI,A,income,Basic EPS,2024-03-31,7.048039
+CMPDI,A,income,Basic EPS,2025-03-31,9.340476
+CMPDI,A,income,Basic EPS,2026-03-31,8.59
+CMPDI,A,income,Diluted EPS,2023-03-31,4.154902
+CMPDI,A,income,Diluted EPS,2024-03-31,7.048039
+CMPDI,A,income,Diluted EPS,2025-03-31,9.340476
+CMPDI,A,income,Diluted EPS,2026-03-31,8.59
+CMPDI,A,income,EBITDA,2023-03-31,3956500000.0
+CMPDI,A,income,EBITDA,2024-03-31,7644400000.0
+CMPDI,A,income,EBITDA,2025-03-31,9157100000.0
+CMPDI,A,income,EBITDA,2026-03-31,8584800000.0
+CMPDI,A,income,Interest Expense,2023-03-31,900000.0
+CMPDI,A,income,Interest Expense,2024-03-31,600000.0
+CMPDI,A,income,Interest Expense,2025-03-31,900000.0
+CMPDI,A,income,Interest Expense,2026-03-31,800000.0
+CMPDI,A,income,Net Income,2023-03-31,2966600000.0
+CMPDI,A,income,Net Income,2024-03-31,5032300000.0
+CMPDI,A,income,Net Income,2025-03-31,6669100000.0
+CMPDI,A,income,Net Income,2026-03-31,6131800000.0
+CMPDI,A,income,Net Income Common Stockholders,2023-03-31,2966600000.0
+CMPDI,A,income,Net Income Common Stockholders,2024-03-31,5032300000.0
+CMPDI,A,income,Net Income Common Stockholders,2025-03-31,6669100000.0
+CMPDI,A,income,Net Income Common Stockholders,2026-03-31,6131800000.0
+CMPDI,A,income,Operating Income,2023-03-31,3551700000.0
+CMPDI,A,income,Operating Income,2024-03-31,6954400000.0
+CMPDI,A,income,Operating Income,2025-03-31,8202600000.0
+CMPDI,A,income,Operating Income,2026-03-31,7432100000.0
+CMPDI,A,income,Pretax Income,2023-03-31,3669500000.0
+CMPDI,A,income,Pretax Income,2024-03-31,7328400000.0
+CMPDI,A,income,Pretax Income,2025-03-31,8821400000.0
+CMPDI,A,income,Pretax Income,2026-03-31,8236400000.0
+CMPDI,A,income,Total Revenue,2023-03-31,13860900000.0
+CMPDI,A,income,Total Revenue,2024-03-31,17326900000.0
+CMPDI,A,income,Total Revenue,2025-03-31,21027600000.0
+CMPDI,A,income,Total Revenue,2026-03-31,23165300000.0
+CMPDI,Q,income,Basic EPS,2025-06-30,1.058263
+CMPDI,Q,income,Basic EPS,2025-09-30,2.480812
+CMPDI,Q,income,Basic EPS,2026-03-31,2.63
+CMPDI,Q,income,Basic EPS,2026-06-30,1.63
+CMPDI,Q,income,Basic EPS,2026-09-30,2.73
+CMPDI,Q,income,Diluted EPS,2025-06-30,1.058263
+CMPDI,Q,income,Diluted EPS,2025-09-30,2.480812
+CMPDI,Q,income,Diluted EPS,2026-03-31,2.63
+CMPDI,Q,income,Diluted EPS,2026-06-30,1.63
+CMPDI,Q,income,Diluted EPS,2026-09-30,2.73
+CMPDI,Q,income,EBITDA,2025-09-30,2431900000.0
+CMPDI,Q,income,EBITDA,2025-12-31,2384900000.0
+CMPDI,Q,income,EBITDA,2026-03-31,2646300000.0
+CMPDI,Q,income,EBITDA,2026-06-30,1601600000.0
+CMPDI,Q,income,EBITDA,2026-09-30,2595300000.0
+CMPDI,Q,income,Interest Expense,2025-09-30,200000.0
+CMPDI,Q,income,Interest Expense,2025-12-31,200000.0
+CMPDI,Q,income,Interest Expense,2026-03-31,200000.0
+CMPDI,Q,income,Interest Expense,2026-06-30,200000.0
+CMPDI,Q,income,Interest Expense,2026-09-30,200000.0
+CMPDI,Q,income,Net Income,2025-09-30,1771300000.0
+CMPDI,Q,income,Net Income,2025-12-31,1726700000.0
+CMPDI,Q,income,Net Income,2026-03-31,1878200000.0
+CMPDI,Q,income,Net Income,2026-06-30,1162700000.0
+CMPDI,Q,income,Net Income,2026-09-30,1948400000.0
+CMPDI,Q,income,Net Income Common Stockholders,2025-09-30,1771300000.0
+CMPDI,Q,income,Net Income Common Stockholders,2025-12-31,1726700000.0
+CMPDI,Q,income,Net Income Common Stockholders,2026-03-31,1878200000.0
+CMPDI,Q,income,Net Income Common Stockholders,2026-06-30,1162700000.0
+CMPDI,Q,income,Net Income Common Stockholders,2026-09-30,1948400000.0
+CMPDI,Q,income,Operating Income,2025-09-30,2215800000.0
+CMPDI,Q,income,Operating Income,2025-12-31,2121100000.0
+CMPDI,Q,income,Operating Income,2026-03-31,2285000000.0
+CMPDI,Q,income,Operating Income,2026-06-30,1375100000.0
+CMPDI,Q,income,Operating Income,2026-09-30,2358600000.0
+CMPDI,Q,income,Pretax Income,2025-09-30,2431700000.0
+CMPDI,Q,income,Pretax Income,2025-12-31,2299600000.0
+CMPDI,Q,income,Pretax Income,2026-03-31,2551200000.0
+CMPDI,Q,income,Pretax Income,2026-06-30,1601400000.0
+CMPDI,Q,income,Pretax Income,2026-09-30,2595100000.0
+CMPDI,Q,income,Total Revenue,2025-09-30,5518700000.0
+CMPDI,Q,income,Total Revenue,2025-12-31,5285300000.0
+CMPDI,Q,income,Total Revenue,2026-03-31,8268800000.0
+CMPDI,Q,income,Total Revenue,2026-06-30,4813700000.0
+CMPDI,Q,income,Total Revenue,2026-09-30,5933100000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SAIL,A,balance,Cash And Cash Equivalents,2023-03-31,570900000.0
+SAIL,A,balance,Cash And Cash Equivalents,2024-03-31,693800000.0
+SAIL,A,balance,Cash And Cash Equivalents,2025-03-31,2915800000.0
+SAIL,A,balance,Cash And Cash Equivalents,2026-03-31,286600000.0
+SAIL,A,balance,Net Debt,2023-03-31,256046900000.0
+SAIL,A,balance,Net Debt,2024-03-31,305315900000.0
+SAIL,A,balance,Net Debt,2025-03-31,295195400000.0
+SAIL,A,balance,Net Debt,2026-03-31,216406300000.0
+SAIL,A,balance,Ordinary Shares Number,2023-03-31,4130525289.0
+SAIL,A,balance,Ordinary Shares Number,2024-03-31,4130525289.0
+SAIL,A,balance,Ordinary Shares Number,2025-03-31,4130525289.0
+SAIL,A,balance,Ordinary Shares Number,2026-03-31,4130525289.0
+SAIL,A,balance,Stockholders Equity,2023-03-31,547466700000.0
+SAIL,A,balance,Stockholders Equity,2024-03-31,571012200000.0
+SAIL,A,balance,Stockholders Equity,2025-03-31,589056100000.0
+SAIL,A,balance,Stockholders Equity,2026-03-31,603558800000.0
+SAIL,A,balance,Total Assets,2023-03-31,1304810900000.0
+SAIL,A,balance,Total Assets,2024-03-31,1407085800000.0
+SAIL,A,balance,Total Assets,2025-03-31,1363709400000.0
+SAIL,A,balance,Total Assets,2026-03-31,1358961100000.0
+SAIL,A,balance,Total Debt,2023-03-31,307734300000.0
+SAIL,A,balance,Total Debt,2024-03-31,363226500000.0
+SAIL,A,balance,Total Debt,2025-03-31,369339400000.0
+SAIL,A,balance,Total Debt,2026-03-31,319277100000.0
+SAIL,A,cashflow,Capital Expenditure,2023-03-31,-39216400000.0
+SAIL,A,cashflow,Capital Expenditure,2024-03-31,-47106900000.0
+SAIL,A,cashflow,Capital Expenditure,2025-03-31,-62211500000.0
+SAIL,A,cashflow,Capital Expenditure,2026-03-31,-87580700000.0
+SAIL,A,cashflow,Free Cash Flow,2023-03-31,-92117900000.0
+SAIL,A,cashflow,Free Cash Flow,2024-03-31,-17998100000.0
+SAIL,A,cashflow,Free Cash Flow,2025-03-31,36931500000.0
+SAIL,A,cashflow,Free Cash Flow,2026-03-31,102812300000.0
+SAIL,A,cashflow,Operating Cash Flow,2023-03-31,-52901500000.0
+SAIL,A,cashflow,Operating Cash Flow,2024-03-31,29108800000.0
+SAIL,A,cashflow,Operating Cash Flow,2025-03-31,99143000000.0
+SAIL,A,cashflow,Operating Cash Flow,2026-03-31,190393000000.0
+SAIL,A,income,Basic EPS,2023-03-31,5.27
+SAIL,A,income,Basic EPS,2024-03-31,7.42
+SAIL,A,income,Basic EPS,2025-03-31,5.74
+SAIL,A,income,Basic EPS,2026-03-31,8.17
+SAIL,A,income,Diluted EPS,2023-03-31,5.27
+SAIL,A,income,Diluted EPS,2024-03-31,7.42
+SAIL,A,income,Diluted EPS,2025-03-31,5.74
+SAIL,A,income,Diluted EPS,2026-03-31,8.17
+SAIL,A,income,EBITDA,2023-03-31,97437100000.0
+SAIL,A,income,EBITDA,2024-03-31,117543600000.0
+SAIL,A,income,EBITDA,2025-03-31,116616600000.0
+SAIL,A,income,EBITDA,2026-03-31,126134400000.0
+SAIL,A,income,Interest Expense,2023-03-31,18877300000.0
+SAIL,A,income,Interest Expense,2024-03-31,24141800000.0
+SAIL,A,income,Interest Expense,2025-03-31,27594500000.0
+SAIL,A,income,Interest Expense,2026-03-31,21202500000.0
+SAIL,A,income,Net Income,2023-03-31,21765300000.0
+SAIL,A,income,Net Income,2024-03-31,30666700000.0
+SAIL,A,income,Net Income,2025-03-31,23718200000.0
+SAIL,A,income,Net Income,2026-03-31,33728000000.0
+SAIL,A,income,Net Income Common Stockholders,2023-03-31,21765300000.0
+SAIL,A,income,Net Income Common Stockholders,2024-03-31,30666700000.0
+SAIL,A,income,Net Income Common Stockholders,2025-03-31,23718200000.0
+SAIL,A,income,Net Income Common Stockholders,2026-03-31,33728000000.0
+SAIL,A,income,Operating Income,2023-03-31,41093400000.0
+SAIL,A,income,Operating Income,2024-03-31,63385200000.0
+SAIL,A,income,Operating Income,2025-03-31,54004100000.0
+SAIL,A,income,Operating Income,2026-03-31,67577700000.0
+SAIL,A,income,Pretax Income,2023-03-31,28924400000.0
+SAIL,A,income,Pretax Income,2024-03-31,40618100000.0
+SAIL,A,income,Pretax Income,2025-03-31,32515300000.0
+SAIL,A,income,Pretax Income,2026-03-31,45055100000.0
+SAIL,A,income,Total Revenue,2023-03-31,1037490400000.0
+SAIL,A,income,Total Revenue,2024-03-31,1045677400000.0
+SAIL,A,income,Total Revenue,2025-03-31,1017402600000.0
+SAIL,A,income,Total Revenue,2026-03-31,1099870200000.0
+SAIL,Q,income,Basic EPS,2025-06-30,1.8
+SAIL,Q,income,Basic EPS,2025-12-31,0.91
+SAIL,Q,income,Basic EPS,2026-03-31,4.44
+SAIL,Q,income,Basic EPS,2026-06-30,3.98
+SAIL,Q,income,Basic EPS,2026-09-30,4.24
+SAIL,Q,income,Diluted EPS,2025-06-30,1.8
+SAIL,Q,income,Diluted EPS,2025-12-31,0.91
+SAIL,Q,income,Diluted EPS,2026-03-31,4.44
+SAIL,Q,income,Diluted EPS,2026-06-30,3.98
+SAIL,Q,income,Diluted EPS,2026-09-30,4.24
+SAIL,Q,income,EBITDA,2025-06-30,30039000000.0
+SAIL,Q,income,EBITDA,2025-12-31,25425100000.0
+SAIL,Q,income,EBITDA,2026-03-31,46110300000.0
+SAIL,Q,income,EBITDA,2026-06-30,42400400000.0
+SAIL,Q,income,EBITDA,2026-09-30,44569100000.0
+SAIL,Q,income,Interest Expense,2025-06-30,5946000000.0
+SAIL,Q,income,Interest Expense,2025-12-31,5472300000.0
+SAIL,Q,income,Interest Expense,2026-03-31,5320400000.0
+SAIL,Q,income,Interest Expense,2026-06-30,4930200000.0
+SAIL,Q,income,Interest Expense,2026-09-30,5234000000.0
+SAIL,Q,income,Net Income,2025-06-30,7445800000.0
+SAIL,Q,income,Net Income,2025-12-31,3740300000.0
+SAIL,Q,income,Net Income,2026-03-31,18354700000.0
+SAIL,Q,income,Net Income,2026-06-30,16440500000.0
+SAIL,Q,income,Net Income,2026-09-30,17504700000.0
+SAIL,Q,income,Net Income Common Stockholders,2025-06-30,7445800000.0
+SAIL,Q,income,Net Income Common Stockholders,2025-12-31,3740300000.0
+SAIL,Q,income,Net Income Common Stockholders,2026-03-31,18354700000.0
+SAIL,Q,income,Net Income Common Stockholders,2026-06-30,16440500000.0
+SAIL,Q,income,Net Income Common Stockholders,2026-09-30,17504700000.0
+SAIL,Q,income,Operating Income,2025-06-30,13271700000.0
+SAIL,Q,income,Operating Income,2025-12-31,7787900000.0
+SAIL,Q,income,Operating Income,2026-03-31,28315400000.0
+SAIL,Q,income,Operating Income,2026-06-30,25923700000.0
+SAIL,Q,income,Operating Income,2026-09-30,26073000000.0
+SAIL,Q,income,Pretax Income,2025-06-30,9678100000.0
+SAIL,Q,income,Pretax Income,2025-12-31,4797600000.0
+SAIL,Q,income,Pretax Income,2026-03-31,25018000000.0
+SAIL,Q,income,Pretax Income,2026-06-30,21866800000.0
+SAIL,Q,income,Pretax Income,2026-09-30,23243400000.0
+SAIL,Q,income,Total Revenue,2025-06-30,259217600000.0
+SAIL,Q,income,Total Revenue,2025-12-31,273714200000.0
+SAIL,Q,income,Total Revenue,2026-03-31,308134900000.0
+SAIL,Q,income,Total Revenue,2026-06-30,262456700000.0
+SAIL,Q,income,Total Revenue,2026-09-30,319975500000.0

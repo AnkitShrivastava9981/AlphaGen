@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+KIMS,A,balance,Cash And Cash Equivalents,2023-03-31,616110000.0
+KIMS,A,balance,Cash And Cash Equivalents,2024-03-31,469000000.0
+KIMS,A,balance,Cash And Cash Equivalents,2025-03-31,560000000.0
+KIMS,A,balance,Cash And Cash Equivalents,2026-03-31,554000000.0
+KIMS,A,balance,Net Debt,2023-03-31,4716050000.0
+KIMS,A,balance,Net Debt,2024-03-31,9994000000.0
+KIMS,A,balance,Net Debt,2025-03-31,18549000000.0
+KIMS,A,balance,Net Debt,2026-03-31,31886000000.0
+KIMS,A,balance,Ordinary Shares Number,2023-03-31,400138935.0
+KIMS,A,balance,Ordinary Shares Number,2024-03-31,400138935.0
+KIMS,A,balance,Ordinary Shares Number,2025-03-31,400138935.0
+KIMS,A,balance,Ordinary Shares Number,2026-03-31,400138935.0
+KIMS,A,balance,Stockholders Equity,2023-03-31,16695380000.0
+KIMS,A,balance,Stockholders Equity,2024-03-31,18282000000.0
+KIMS,A,balance,Stockholders Equity,2025-03-31,21378000000.0
+KIMS,A,balance,Stockholders Equity,2026-03-31,22474000000.0
+KIMS,A,balance,Total Assets,2023-03-31,29413030000.0
+KIMS,A,balance,Total Assets,2024-03-31,38517000000.0
+KIMS,A,balance,Total Assets,2025-03-31,57360000000.0
+KIMS,A,balance,Total Assets,2026-03-31,77587000000.0
+KIMS,A,balance,Total Debt,2023-03-31,6781740000.0
+KIMS,A,balance,Total Debt,2024-03-31,13555000000.0
+KIMS,A,balance,Total Debt,2025-03-31,25616000000.0
+KIMS,A,balance,Total Debt,2026-03-31,42529000000.0
+KIMS,A,cashflow,Capital Expenditure,2023-03-31,-5745250000.0
+KIMS,A,cashflow,Capital Expenditure,2024-03-31,-6473000000.0
+KIMS,A,cashflow,Capital Expenditure,2025-03-31,-10089000000.0
+KIMS,A,cashflow,Capital Expenditure,2026-03-31,-14279000000.0
+KIMS,A,cashflow,Free Cash Flow,2023-03-31,-1424380000.0
+KIMS,A,cashflow,Free Cash Flow,2024-03-31,-1261000000.0
+KIMS,A,cashflow,Free Cash Flow,2025-03-31,-4271000000.0
+KIMS,A,cashflow,Free Cash Flow,2026-03-31,-9171000000.0
+KIMS,A,cashflow,Operating Cash Flow,2023-03-31,4320870000.0
+KIMS,A,cashflow,Operating Cash Flow,2024-03-31,5212000000.0
+KIMS,A,cashflow,Operating Cash Flow,2025-03-31,5818000000.0
+KIMS,A,cashflow,Operating Cash Flow,2026-03-31,5108000000.0
+KIMS,A,income,Basic EPS,2023-03-31,8.406
+KIMS,A,income,Basic EPS,2024-03-31,7.75
+KIMS,A,income,Basic EPS,2025-03-31,9.61
+KIMS,A,income,Basic EPS,2026-03-31,6.03
+KIMS,A,income,Diluted EPS,2023-03-31,8.406
+KIMS,A,income,Diluted EPS,2024-03-31,7.75
+KIMS,A,income,Diluted EPS,2025-03-31,9.61
+KIMS,A,income,Diluted EPS,2026-03-31,6.03
+KIMS,A,income,EBITDA,2023-03-31,6434850000.0
+KIMS,A,income,EBITDA,2024-03-31,6524000000.0
+KIMS,A,income,EBITDA,2025-03-31,8240000000.0
+KIMS,A,income,EBITDA,2026-03-31,8138000000.0
+KIMS,A,income,Interest Expense,2023-03-31,293180000.0
+KIMS,A,income,Interest Expense,2024-03-31,464000000.0
+KIMS,A,income,Interest Expense,2025-03-31,887000000.0
+KIMS,A,income,Interest Expense,2026-03-31,1967000000.0
+KIMS,A,income,Net Income,2023-03-31,3363220000.0
+KIMS,A,income,Net Income,2024-03-31,3100000000.0
+KIMS,A,income,Net Income,2025-03-31,3845000000.0
+KIMS,A,income,Net Income,2026-03-31,2414000000.0
+KIMS,A,income,Net Income Common Stockholders,2023-03-31,3363220000.0
+KIMS,A,income,Net Income Common Stockholders,2024-03-31,3100000000.0
+KIMS,A,income,Net Income Common Stockholders,2025-03-31,3845000000.0
+KIMS,A,income,Net Income Common Stockholders,2026-03-31,2414000000.0
+KIMS,A,income,Operating Income,2023-03-31,4816310000.0
+KIMS,A,income,Operating Income,2024-03-31,5013000000.0
+KIMS,A,income,Operating Income,2025-03-31,6158000000.0
+KIMS,A,income,Operating Income,2026-03-31,5354000000.0
+KIMS,A,income,Pretax Income,2023-03-31,4849070000.0
+KIMS,A,income,Pretax Income,2024-03-31,4595000000.0
+KIMS,A,income,Pretax Income,2025-03-31,5581000000.0
+KIMS,A,income,Pretax Income,2026-03-31,3339000000.0
+KIMS,A,income,Total Revenue,2023-03-31,21676640000.0
+KIMS,A,income,Total Revenue,2024-03-31,24740000000.0
+KIMS,A,income,Total Revenue,2025-03-31,30035000000.0
+KIMS,A,income,Total Revenue,2026-03-31,38721000000.0
+KIMS,Q,income,Basic EPS,2025-09-30,1.67
+KIMS,Q,income,Basic EPS,2025-12-31,1.33
+KIMS,Q,income,Basic EPS,2026-03-31,1.06
+KIMS,Q,income,Basic EPS,2026-06-30,1.04
+KIMS,Q,income,Basic EPS,2026-09-30,1.79
+KIMS,Q,income,Diluted EPS,2025-09-30,1.67
+KIMS,Q,income,Diluted EPS,2025-12-31,1.33
+KIMS,Q,income,Diluted EPS,2026-03-31,1.06
+KIMS,Q,income,Diluted EPS,2026-06-30,1.04
+KIMS,Q,income,Diluted EPS,2026-09-30,1.79
+KIMS,Q,income,EBITDA,2025-09-30,2079000000.0
+KIMS,Q,income,EBITDA,2025-12-31,2041000000.0
+KIMS,Q,income,EBITDA,2026-03-31,2079000000.0
+KIMS,Q,income,EBITDA,2026-06-30,2408000000.0
+KIMS,Q,income,EBITDA,2026-09-30,2917000000.0
+KIMS,Q,income,Interest Expense,2025-09-30,450000000.0
+KIMS,Q,income,Interest Expense,2025-12-31,568000000.0
+KIMS,Q,income,Interest Expense,2026-03-31,681000000.0
+KIMS,Q,income,Interest Expense,2026-06-30,834000000.0
+KIMS,Q,income,Interest Expense,2026-09-30,655000000.0
+KIMS,Q,income,Net Income,2025-09-30,669000000.0
+KIMS,Q,income,Net Income,2025-12-31,534000000.0
+KIMS,Q,income,Net Income,2026-03-31,425000000.0
+KIMS,Q,income,Net Income,2026-06-30,415000000.0
+KIMS,Q,income,Net Income,2026-09-30,750000000.0
+KIMS,Q,income,Net Income Common Stockholders,2025-09-30,669000000.0
+KIMS,Q,income,Net Income Common Stockholders,2025-12-31,534000000.0
+KIMS,Q,income,Net Income Common Stockholders,2026-03-31,425000000.0
+KIMS,Q,income,Net Income Common Stockholders,2026-06-30,415000000.0
+KIMS,Q,income,Net Income Common Stockholders,2026-09-30,750000000.0
+KIMS,Q,income,Operating Income,2025-09-30,1379000000.0
+KIMS,Q,income,Operating Income,2025-12-31,1202000000.0
+KIMS,Q,income,Operating Income,2026-03-31,1215000000.0
+KIMS,Q,income,Operating Income,2026-06-30,1226000000.0
+KIMS,Q,income,Operating Income,2026-09-30,1396000000.0
+KIMS,Q,income,Pretax Income,2025-09-30,968000000.0
+KIMS,Q,income,Pretax Income,2025-12-31,686000000.0
+KIMS,Q,income,Pretax Income,2026-03-31,548000000.0
+KIMS,Q,income,Pretax Income,2026-06-30,566000000.0
+KIMS,Q,income,Pretax Income,2026-09-30,1055000000.0
+KIMS,Q,income,Total Revenue,2025-09-30,9607000000.0
+KIMS,Q,income,Total Revenue,2025-12-31,9977000000.0
+KIMS,Q,income,Total Revenue,2026-03-31,10746000000.0
+KIMS,Q,income,Total Revenue,2026-06-30,11795000000.0
+KIMS,Q,income,Total Revenue,2026-09-30,13444000000.0

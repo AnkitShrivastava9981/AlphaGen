@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+DEVYANI,A,balance,Cash And Cash Equivalents,2023-03-31,625860000.0
+DEVYANI,A,balance,Cash And Cash Equivalents,2024-03-31,1676420000.0
+DEVYANI,A,balance,Cash And Cash Equivalents,2025-03-31,1813720000.0
+DEVYANI,A,balance,Cash And Cash Equivalents,2026-03-31,4912500000.0
+DEVYANI,A,balance,Net Debt,2023-03-31,147680000.0
+DEVYANI,A,balance,Net Debt,2024-03-31,7425100000.0
+DEVYANI,A,balance,Net Debt,2025-03-31,7503920000.0
+DEVYANI,A,balance,Net Debt,2026-03-31,8187440000.0
+DEVYANI,A,balance,Ordinary Shares Number,2023-03-31,1204961378.0
+DEVYANI,A,balance,Ordinary Shares Number,2024-03-31,1205858878.0
+DEVYANI,A,balance,Ordinary Shares Number,2025-03-31,1206266378.0
+DEVYANI,A,balance,Ordinary Shares Number,2026-03-31,1232939791.0
+DEVYANI,A,balance,Stockholders Equity,2023-03-31,9703460000.0
+DEVYANI,A,balance,Stockholders Equity,2024-03-31,10557630000.0
+DEVYANI,A,balance,Stockholders Equity,2025-03-31,10944060000.0
+DEVYANI,A,balance,Stockholders Equity,2026-03-31,15418220000.0
+DEVYANI,A,balance,Total Assets,2023-03-31,29854280000.0
+DEVYANI,A,balance,Total Assets,2024-03-31,49324520000.0
+DEVYANI,A,balance,Total Assets,2025-03-31,53385710000.0
+DEVYANI,A,balance,Total Assets,2026-03-31,67499730000.0
+DEVYANI,A,balance,Total Debt,2023-03-31,15648140000.0
+DEVYANI,A,balance,Total Debt,2024-03-31,29056810000.0
+DEVYANI,A,balance,Total Debt,2025-03-31,31876000000.0
+DEVYANI,A,balance,Total Debt,2026-03-31,37827460000.0
+DEVYANI,A,cashflow,Capital Expenditure,2023-03-31,-4373070000.0
+DEVYANI,A,cashflow,Capital Expenditure,2024-03-31,-4784540000.0
+DEVYANI,A,cashflow,Capital Expenditure,2025-03-31,-4909500000.0
+DEVYANI,A,cashflow,Capital Expenditure,2026-03-31,-4589590000.0
+DEVYANI,A,cashflow,Free Cash Flow,2023-03-31,1996900000.0
+DEVYANI,A,cashflow,Free Cash Flow,2024-03-31,1140130000.0
+DEVYANI,A,cashflow,Free Cash Flow,2025-03-31,4092700000.0
+DEVYANI,A,cashflow,Free Cash Flow,2026-03-31,4602490000.0
+DEVYANI,A,cashflow,Operating Cash Flow,2023-03-31,6369970000.0
+DEVYANI,A,cashflow,Operating Cash Flow,2024-03-31,5924670000.0
+DEVYANI,A,cashflow,Operating Cash Flow,2025-03-31,9002200000.0
+DEVYANI,A,cashflow,Operating Cash Flow,2026-03-31,9192080000.0
+DEVYANI,A,income,Basic EPS,2023-03-31,2.2
+DEVYANI,A,income,Basic EPS,2024-03-31,0.39
+DEVYANI,A,income,Basic EPS,2025-03-31,0.08
+DEVYANI,A,income,Basic EPS,2026-03-31,-0.31
+DEVYANI,A,income,Diluted EPS,2023-03-31,2.19
+DEVYANI,A,income,Diluted EPS,2024-03-31,0.39
+DEVYANI,A,income,Diluted EPS,2025-03-31,0.08
+DEVYANI,A,income,Diluted EPS,2026-03-31,-0.31
+DEVYANI,A,income,EBITDA,2023-03-31,6651010000.0
+DEVYANI,A,income,EBITDA,2024-03-31,5754300000.0
+DEVYANI,A,income,EBITDA,2025-03-31,8474930000.0
+DEVYANI,A,income,EBITDA,2026-03-31,8728440000.0
+DEVYANI,A,income,Interest Expense,2023-03-31,1444170000.0
+DEVYANI,A,income,Interest Expense,2024-03-31,1869330000.0
+DEVYANI,A,income,Interest Expense,2025-03-31,2648300000.0
+DEVYANI,A,income,Interest Expense,2026-03-31,2757360000.0
+DEVYANI,A,income,Net Income,2023-03-31,2649970000.0
+DEVYANI,A,income,Net Income,2024-03-31,472630000.0
+DEVYANI,A,income,Net Income,2025-03-31,91490000.0
+DEVYANI,A,income,Net Income,2026-03-31,-386310000.0
+DEVYANI,A,income,Net Income Common Stockholders,2023-03-31,2649970000.0
+DEVYANI,A,income,Net Income Common Stockholders,2024-03-31,472630000.0
+DEVYANI,A,income,Net Income Common Stockholders,2025-03-31,91490000.0
+DEVYANI,A,income,Net Income Common Stockholders,2026-03-31,-386310000.0
+DEVYANI,A,income,Operating Income,2023-03-31,3657070000.0
+DEVYANI,A,income,Operating Income,2024-03-31,2567100000.0
+DEVYANI,A,income,Operating Income,2025-03-31,2653090000.0
+DEVYANI,A,income,Operating Income,2026-03-31,1891880000.0
+DEVYANI,A,income,Pretax Income,2023-03-31,2419250000.0
+DEVYANI,A,income,Pretax Income,2024-03-31,36760000.0
+DEVYANI,A,income,Pretax Income,2025-03-31,127880000.0
+DEVYANI,A,income,Pretax Income,2026-03-31,-568730000.0
+DEVYANI,A,income,Total Revenue,2023-03-31,29728030000.0
+DEVYANI,A,income,Total Revenue,2024-03-31,35316770000.0
+DEVYANI,A,income,Total Revenue,2025-03-31,49206380000.0
+DEVYANI,A,income,Total Revenue,2026-03-31,55713630000.0
+DEVYANI,Q,income,Basic EPS,2025-06-30,0.03
+DEVYANI,Q,income,Basic EPS,2025-12-31,-0.08
+DEVYANI,Q,income,Basic EPS,2026-03-31,-0.08
+DEVYANI,Q,income,Basic EPS,2026-06-30,0.12
+DEVYANI,Q,income,Basic EPS,2026-09-30,0.0
+DEVYANI,Q,income,Diluted EPS,2025-06-30,0.03
+DEVYANI,Q,income,Diluted EPS,2025-12-31,-0.08
+DEVYANI,Q,income,Diluted EPS,2026-03-31,-0.08
+DEVYANI,Q,income,Diluted EPS,2026-06-30,0.12
+DEVYANI,Q,income,Diluted EPS,2026-09-30,0.0
+DEVYANI,Q,income,EBITDA,2025-06-30,2193930000.0
+DEVYANI,Q,income,EBITDA,2025-12-31,2217640000.0
+DEVYANI,Q,income,EBITDA,2026-03-31,2344530000.0
+DEVYANI,Q,income,EBITDA,2026-06-30,2734200000.0
+DEVYANI,Q,income,EBITDA,2026-09-30,2442780000.0
+DEVYANI,Q,income,Interest Expense,2025-06-30,667790000.0
+DEVYANI,Q,income,Interest Expense,2025-12-31,700230000.0
+DEVYANI,Q,income,Interest Expense,2026-03-31,700990000.0
+DEVYANI,Q,income,Interest Expense,2026-06-30,701440000.0
+DEVYANI,Q,income,Interest Expense,2026-09-30,653090000.0
+DEVYANI,Q,income,Net Income,2025-06-30,36880000.0
+DEVYANI,Q,income,Net Income,2025-12-31,-103890000.0
+DEVYANI,Q,income,Net Income,2026-03-31,-100430000.0
+DEVYANI,Q,income,Net Income,2026-06-30,146470000.0
+DEVYANI,Q,income,Net Income,2026-09-30,-2420000.0
+DEVYANI,Q,income,Net Income Common Stockholders,2025-06-30,36880000.0
+DEVYANI,Q,income,Net Income Common Stockholders,2025-12-31,-103890000.0
+DEVYANI,Q,income,Net Income Common Stockholders,2026-03-31,-100430000.0
+DEVYANI,Q,income,Net Income Common Stockholders,2026-06-30,146470000.0
+DEVYANI,Q,income,Net Income Common Stockholders,2026-09-30,-2420000.0
+DEVYANI,Q,income,Operating Income,2025-06-30,551860000.0
+DEVYANI,Q,income,Operating Income,2025-12-31,600700000.0
+DEVYANI,Q,income,Operating Income,2026-03-31,470410000.0
+DEVYANI,Q,income,Operating Income,2026-06-30,744210000.0
+DEVYANI,Q,income,Operating Income,2026-09-30,553360000.0
+DEVYANI,Q,income,Pretax Income,2025-06-30,29390000.0
+DEVYANI,Q,income,Pretax Income,2025-12-31,-149050000.0
+DEVYANI,Q,income,Pretax Income,2026-03-31,-181250000.0
+DEVYANI,Q,income,Pretax Income,2026-06-30,229220000.0
+DEVYANI,Q,income,Pretax Income,2026-09-30,56900000.0
+DEVYANI,Q,income,Total Revenue,2025-06-30,13569690000.0
+DEVYANI,Q,income,Total Revenue,2025-12-31,14408970000.0
+DEVYANI,Q,income,Total Revenue,2026-03-31,14368620000.0
+DEVYANI,Q,income,Total Revenue,2026-06-30,15805160000.0
+DEVYANI,Q,income,Total Revenue,2026-09-30,15194250000.0

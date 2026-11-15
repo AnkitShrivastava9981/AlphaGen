@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ABREL,A,balance,Cash And Cash Equivalents,2023-03-31,434900000.0
+ABREL,A,balance,Cash And Cash Equivalents,2024-03-31,3367200000.0
+ABREL,A,balance,Cash And Cash Equivalents,2025-03-31,7429000000.0
+ABREL,A,balance,Cash And Cash Equivalents,2026-03-31,12279800000.0
+ABREL,A,balance,Net Debt,2023-03-31,9942200000.0
+ABREL,A,balance,Net Debt,2024-03-31,21448200000.0
+ABREL,A,balance,Net Debt,2025-03-31,42536400000.0
+ABREL,A,balance,Net Debt,2026-03-31,44085100000.0
+ABREL,A,balance,Ordinary Shares Number,2023-03-31,111695680.0
+ABREL,A,balance,Ordinary Shares Number,2024-03-31,110443200.0
+ABREL,A,balance,Ordinary Shares Number,2025-03-31,110526980.0
+ABREL,A,balance,Ordinary Shares Number,2026-03-31,110577844.0
+ABREL,A,balance,Stockholders Equity,2023-03-31,38868400000.0
+ABREL,A,balance,Stockholders Equity,2024-03-31,39791400000.0
+ABREL,A,balance,Stockholders Equity,2025-03-31,38402600000.0
+ABREL,A,balance,Stockholders Equity,2026-03-31,37008100000.0
+ABREL,A,balance,Total Assets,2023-03-31,84516400000.0
+ABREL,A,balance,Total Assets,2024-03-31,105101600000.0
+ABREL,A,balance,Total Assets,2025-03-31,165331700000.0
+ABREL,A,balance,Total Assets,2026-03-31,202327600000.0
+ABREL,A,balance,Total Debt,2023-03-31,10593100000.0
+ABREL,A,balance,Total Debt,2024-03-31,25016900000.0
+ABREL,A,balance,Total Debt,2025-03-31,49965400000.0
+ABREL,A,balance,Total Debt,2026-03-31,56364900000.0
+ABREL,A,cashflow,Capital Expenditure,2023-03-31,-1212800000.0
+ABREL,A,cashflow,Capital Expenditure,2024-03-31,-1808900000.0
+ABREL,A,cashflow,Capital Expenditure,2025-03-31,-2860700000.0
+ABREL,A,cashflow,Capital Expenditure,2026-03-31,-2123900000.0
+ABREL,A,cashflow,Free Cash Flow,2023-03-31,1496800000.0
+ABREL,A,cashflow,Free Cash Flow,2024-03-31,-4962200000.0
+ABREL,A,cashflow,Free Cash Flow,2025-03-31,-15795100000.0
+ABREL,A,cashflow,Free Cash Flow,2026-03-31,5348400000.0
+ABREL,A,cashflow,Operating Cash Flow,2023-03-31,2709600000.0
+ABREL,A,cashflow,Operating Cash Flow,2024-03-31,-3153300000.0
+ABREL,A,cashflow,Operating Cash Flow,2025-03-31,-12934400000.0
+ABREL,A,cashflow,Operating Cash Flow,2026-03-31,7472300000.0
+ABREL,A,income,Basic EPS,2023-03-31,24.34
+ABREL,A,income,Basic EPS,2024-03-31,4.57
+ABREL,A,income,Basic EPS,2025-03-31,-14.24
+ABREL,A,income,Basic EPS,2026-03-31,-9.33
+ABREL,A,income,Diluted EPS,2023-03-31,24.34
+ABREL,A,income,Diluted EPS,2024-03-31,4.56
+ABREL,A,income,Diluted EPS,2025-03-31,-14.24
+ABREL,A,income,Diluted EPS,2026-03-31,-9.33
+ABREL,A,income,EBITDA,2023-03-31,7568200000.0
+ABREL,A,income,EBITDA,2024-03-31,4509800000.0
+ABREL,A,income,EBITDA,2025-03-31,894400000.0
+ABREL,A,income,EBITDA,2026-03-31,-3391900000.0
+ABREL,A,income,Interest Expense,2023-03-31,342200000.0
+ABREL,A,income,Interest Expense,2024-03-31,298600000.0
+ABREL,A,income,Interest Expense,2025-03-31,457500000.0
+ABREL,A,income,Interest Expense,2026-03-31,644000000.0
+ABREL,A,income,Net Income,2023-03-31,2718800000.0
+ABREL,A,income,Net Income,2024-03-31,505300000.0
+ABREL,A,income,Net Income,2025-03-31,-1612800000.0
+ABREL,A,income,Net Income,2026-03-31,-1032200000.0
+ABREL,A,income,Net Income Common Stockholders,2023-03-31,2718800000.0
+ABREL,A,income,Net Income Common Stockholders,2024-03-31,505300000.0
+ABREL,A,income,Net Income Common Stockholders,2025-03-31,-1612800000.0
+ABREL,A,income,Net Income Common Stockholders,2026-03-31,-1032200000.0
+ABREL,A,income,Operating Income,2023-03-31,3778700000.0
+ABREL,A,income,Operating Income,2024-03-31,1911300000.0
+ABREL,A,income,Operating Income,2025-03-31,-271500000.0
+ABREL,A,income,Operating Income,2026-03-31,-4149800000.0
+ABREL,A,income,Pretax Income,2023-03-31,4955200000.0
+ABREL,A,income,Pretax Income,2024-03-31,1795600000.0
+ABREL,A,income,Pretax Income,2025-03-31,-1790000000.0
+ABREL,A,income,Pretax Income,2026-03-31,-4770600000.0
+ABREL,A,income,Total Revenue,2023-03-31,37919500000.0
+ABREL,A,income,Total Revenue,2024-03-31,10903200000.0
+ABREL,A,income,Total Revenue,2025-03-31,12033700000.0
+ABREL,A,income,Total Revenue,2026-03-31,4037700000.0
+ABREL,Q,income,Basic EPS,2025-06-30,-2.3
+ABREL,Q,income,Basic EPS,2025-12-31,-6.59
+ABREL,Q,income,Basic EPS,2026-03-31,0.98
+ABREL,Q,income,Basic EPS,2026-06-30,-3.48
+ABREL,Q,income,Basic EPS,2026-09-30,77.51
+ABREL,Q,income,Diluted EPS,2025-06-30,-2.3
+ABREL,Q,income,Diluted EPS,2025-12-31,-6.59
+ABREL,Q,income,Diluted EPS,2026-03-31,0.98
+ABREL,Q,income,Diluted EPS,2026-06-30,-3.48
+ABREL,Q,income,Diluted EPS,2026-09-30,77.3
+ABREL,Q,income,EBITDA,2025-06-30,-305400000.0
+ABREL,Q,income,EBITDA,2025-12-31,-1037700000.0
+ABREL,Q,income,EBITDA,2026-03-31,-1524800000.0
+ABREL,Q,income,EBITDA,2026-06-30,-398200000.0
+ABREL,Q,income,EBITDA,2026-09-30,1937700000.0
+ABREL,Q,income,Interest Expense,2025-06-30,70600000.0
+ABREL,Q,income,Interest Expense,2025-12-31,190100000.0
+ABREL,Q,income,Interest Expense,2026-03-31,206000000.0
+ABREL,Q,income,Interest Expense,2026-06-30,258300000.0
+ABREL,Q,income,Interest Expense,2026-09-30,0.0
+ABREL,Q,income,Net Income,2025-06-30,-254700000.0
+ABREL,Q,income,Net Income,2025-12-31,-728500000.0
+ABREL,Q,income,Net Income,2026-03-31,108400000.0
+ABREL,Q,income,Net Income,2026-06-30,-385500000.0
+ABREL,Q,income,Net Income,2026-09-30,8585000000.0
+ABREL,Q,income,Net Income Common Stockholders,2025-06-30,-254700000.0
+ABREL,Q,income,Net Income Common Stockholders,2025-12-31,-728500000.0
+ABREL,Q,income,Net Income Common Stockholders,2026-03-31,108400000.0
+ABREL,Q,income,Net Income Common Stockholders,2026-06-30,-385500000.0
+ABREL,Q,income,Net Income Common Stockholders,2026-09-30,8585000000.0
+ABREL,Q,income,Operating Income,2025-06-30,84000000.0
+ABREL,Q,income,Operating Income,2025-12-31,-1068400000.0
+ABREL,Q,income,Operating Income,2026-03-31,-1786100000.0
+ABREL,Q,income,Operating Income,2026-06-30,303900000.0
+ABREL,Q,income,Operating Income,2026-09-30,1394100000.0
+ABREL,Q,income,Pretax Income,2025-06-30,-531000000.0
+ABREL,Q,income,Pretax Income,2025-12-31,-1405500000.0
+ABREL,Q,income,Pretax Income,2026-03-31,-1915800000.0
+ABREL,Q,income,Pretax Income,2026-06-30,-830000000.0
+ABREL,Q,income,Pretax Income,2026-09-30,1737900000.0
+ABREL,Q,income,Total Revenue,2025-06-30,1442100000.0
+ABREL,Q,income,Total Revenue,2025-12-31,807900000.0
+ABREL,Q,income,Total Revenue,2026-03-31,820000000.0
+ABREL,Q,income,Total Revenue,2026-06-30,1880500000.0
+ABREL,Q,income,Total Revenue,2026-09-30,8242700000.0

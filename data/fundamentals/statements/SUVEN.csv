@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+SUVEN,A,balance,Cash And Cash Equivalents,2023-03-31,370191000.0
+SUVEN,A,balance,Cash And Cash Equivalents,2024-03-31,149324000.0
+SUVEN,A,balance,Cash And Cash Equivalents,2025-03-31,150256000.0
+SUVEN,A,balance,Cash And Cash Equivalents,2026-03-31,82791000.0
+SUVEN,A,balance,Ordinary Shares Number,2023-03-31,218073717.0
+SUVEN,A,balance,Ordinary Shares Number,2024-03-31,218073717.0
+SUVEN,A,balance,Ordinary Shares Number,2025-03-31,218073717.0
+SUVEN,A,balance,Ordinary Shares Number,2026-03-31,263720583.0
+SUVEN,A,balance,Stockholders Equity,2023-03-31,3753194000.0
+SUVEN,A,balance,Stockholders Equity,2024-03-31,2700406000.0
+SUVEN,A,balance,Stockholders Equity,2025-03-31,1099868000.0
+SUVEN,A,balance,Stockholders Equity,2026-03-31,5913998000.0
+SUVEN,A,balance,Total Assets,2023-03-31,3889106000.0
+SUVEN,A,balance,Total Assets,2024-03-31,2849027000.0
+SUVEN,A,balance,Total Assets,2025-03-31,1351833000.0
+SUVEN,A,balance,Total Assets,2026-03-31,6242140000.0
+SUVEN,A,balance,Total Debt,2023-03-31,16052000.0
+SUVEN,A,balance,Total Debt,2024-03-31,7097000.0
+SUVEN,A,balance,Total Debt,2025-03-31,0.0
+SUVEN,A,balance,Total Debt,2026-03-31,166942000.0
+SUVEN,A,cashflow,Capital Expenditure,2022-03-31,-197716000.0
+SUVEN,A,cashflow,Capital Expenditure,2023-03-31,-28948000.0
+SUVEN,A,cashflow,Capital Expenditure,2025-03-31,-372758000.0
+SUVEN,A,cashflow,Capital Expenditure,2026-03-31,-50834000.0
+SUVEN,A,cashflow,Free Cash Flow,2023-03-31,-1188759000.0
+SUVEN,A,cashflow,Free Cash Flow,2024-03-31,-826186000.0
+SUVEN,A,cashflow,Free Cash Flow,2025-03-31,-1913804000.0
+SUVEN,A,cashflow,Free Cash Flow,2026-03-31,-3064977000.0
+SUVEN,A,cashflow,Operating Cash Flow,2023-03-31,-1159811000.0
+SUVEN,A,cashflow,Operating Cash Flow,2024-03-31,-826186000.0
+SUVEN,A,cashflow,Operating Cash Flow,2025-03-31,-1541046000.0
+SUVEN,A,cashflow,Operating Cash Flow,2026-03-31,-3014143000.0
+SUVEN,A,income,Basic EPS,2023-03-31,-6.63
+SUVEN,A,income,Basic EPS,2024-03-31,-4.82
+SUVEN,A,income,Basic EPS,2025-03-31,-7.37
+SUVEN,A,income,Basic EPS,2026-03-31,-12.13
+SUVEN,A,income,Diluted EPS,2023-03-31,-6.63
+SUVEN,A,income,Diluted EPS,2024-03-31,-4.82
+SUVEN,A,income,Diluted EPS,2025-03-31,-7.37
+SUVEN,A,income,Diluted EPS,2026-03-31,-12.13
+SUVEN,A,income,EBITDA,2023-03-31,-1114355000.0
+SUVEN,A,income,EBITDA,2024-03-31,-994182000.0
+SUVEN,A,income,EBITDA,2025-03-31,-1548767000.0
+SUVEN,A,income,EBITDA,2026-03-31,-2705728000.0
+SUVEN,A,income,Interest Expense,2023-03-31,2892000.0
+SUVEN,A,income,Interest Expense,2024-03-31,1584000.0
+SUVEN,A,income,Interest Expense,2025-03-31,466000.0
+SUVEN,A,income,Interest Expense,2026-03-31,1578000.0
+SUVEN,A,income,Net Income,2023-03-31,-1182678000.0
+SUVEN,A,income,Net Income,2024-03-31,-1050762000.0
+SUVEN,A,income,Net Income,2025-03-31,-1607450000.0
+SUVEN,A,income,Net Income,2026-03-31,-2763441000.0
+SUVEN,A,income,Net Income Common Stockholders,2023-03-31,-1182678000.0
+SUVEN,A,income,Net Income Common Stockholders,2024-03-31,-1050762000.0
+SUVEN,A,income,Net Income Common Stockholders,2025-03-31,-1607450000.0
+SUVEN,A,income,Net Income Common Stockholders,2026-03-31,-2763441000.0
+SUVEN,A,income,Operating Income,2023-03-31,-1319191000.0
+SUVEN,A,income,Operating Income,2024-03-31,-1342964000.0
+SUVEN,A,income,Operating Income,2025-03-31,-1712489000.0
+SUVEN,A,income,Operating Income,2026-03-31,-2897267000.0
+SUVEN,A,income,Pretax Income,2023-03-31,-1182678000.0
+SUVEN,A,income,Pretax Income,2024-03-31,-1060787000.0
+SUVEN,A,income,Pretax Income,2025-03-31,-1607450000.0
+SUVEN,A,income,Pretax Income,2026-03-31,-2763441000.0
+SUVEN,A,income,Total Revenue,2023-03-31,135392000.0
+SUVEN,A,income,Total Revenue,2024-03-31,116930000.0
+SUVEN,A,income,Total Revenue,2025-03-31,66558000.0
+SUVEN,A,income,Total Revenue,2026-03-31,71147000.0
+SUVEN,Q,income,Basic EPS,2025-09-30,-0.7
+SUVEN,Q,income,Basic EPS,2025-12-31,-4.55
+SUVEN,Q,income,Basic EPS,2026-03-31,-2.02
+SUVEN,Q,income,Basic EPS,2026-06-30,-4.84
+SUVEN,Q,income,Basic EPS,2026-09-30,-0.58
+SUVEN,Q,income,Diluted EPS,2025-09-30,-0.7
+SUVEN,Q,income,Diluted EPS,2025-12-31,-4.55
+SUVEN,Q,income,Diluted EPS,2026-03-31,-2.02
+SUVEN,Q,income,Diluted EPS,2026-06-30,-4.84
+SUVEN,Q,income,Diluted EPS,2026-09-30,-0.58
+SUVEN,Q,income,EBITDA,2025-09-30,-141283000.0
+SUVEN,Q,income,EBITDA,2025-12-31,-1005760000.0
+SUVEN,Q,income,EBITDA,2026-03-31,-438552000.0
+SUVEN,Q,income,EBITDA,2026-06-30,-1249791000.0
+SUVEN,Q,income,EBITDA,2026-09-30,-136214000.0
+SUVEN,Q,income,Interest Expense,2025-09-30,0.0
+SUVEN,Q,income,Interest Expense,2025-12-31,0.0
+SUVEN,Q,income,Interest Expense,2026-03-31,1578000.0
+SUVEN,Q,income,Interest Expense,2026-06-30,4761000.0
+SUVEN,Q,income,Interest Expense,2026-09-30,4576000.0
+SUVEN,Q,income,Net Income,2025-09-30,-154451000.0
+SUVEN,Q,income,Net Income,2025-12-31,-1019218000.0
+SUVEN,Q,income,Net Income,2026-03-31,-455955000.0
+SUVEN,Q,income,Net Income,2026-06-30,-1276103000.0
+SUVEN,Q,income,Net Income,2026-09-30,-163813000.0
+SUVEN,Q,income,Net Income Common Stockholders,2025-09-30,-154451000.0
+SUVEN,Q,income,Net Income Common Stockholders,2025-12-31,-1019218000.0
+SUVEN,Q,income,Net Income Common Stockholders,2026-03-31,-455955000.0
+SUVEN,Q,income,Net Income Common Stockholders,2026-06-30,-1276103000.0
+SUVEN,Q,income,Net Income Common Stockholders,2026-09-30,-163813000.0
+SUVEN,Q,income,Operating Income,2025-09-30,-192229000.0
+SUVEN,Q,income,Operating Income,2025-12-31,-1046963000.0
+SUVEN,Q,income,Operating Income,2026-03-31,-522155000.0
+SUVEN,Q,income,Operating Income,2026-06-30,-1346578000.0
+SUVEN,Q,income,Operating Income,2026-09-30,-226581000.0
+SUVEN,Q,income,Pretax Income,2025-09-30,-154451000.0
+SUVEN,Q,income,Pretax Income,2025-12-31,-1019218000.0
+SUVEN,Q,income,Pretax Income,2026-03-31,-455955000.0
+SUVEN,Q,income,Pretax Income,2026-06-30,-1276103000.0
+SUVEN,Q,income,Pretax Income,2026-09-30,-163813000.0
+SUVEN,Q,income,Total Revenue,2025-09-30,9192000.0
+SUVEN,Q,income,Total Revenue,2025-12-31,28087000.0
+SUVEN,Q,income,Total Revenue,2026-03-31,15201000.0
+SUVEN,Q,income,Total Revenue,2026-06-30,35658000.0
+SUVEN,Q,income,Total Revenue,2026-09-30,11986000.0

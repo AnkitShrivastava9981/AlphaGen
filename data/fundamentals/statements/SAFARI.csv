@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SAFARI,A,balance,Cash And Cash Equivalents,2023-03-31,29100000.0
+SAFARI,A,balance,Cash And Cash Equivalents,2024-03-31,389900000.0
+SAFARI,A,balance,Cash And Cash Equivalents,2025-03-31,115500000.0
+SAFARI,A,balance,Cash And Cash Equivalents,2026-03-31,84900000.0
+SAFARI,A,balance,Net Debt,2022-03-31,88404000.0
+SAFARI,A,balance,Net Debt,2023-03-31,571800000.0
+SAFARI,A,balance,Net Debt,2024-03-31,25800000.0
+SAFARI,A,balance,Net Debt,2025-03-31,82500000.0
+SAFARI,A,balance,Ordinary Shares Number,2023-03-31,47422580.0
+SAFARI,A,balance,Ordinary Shares Number,2024-03-31,48767214.0
+SAFARI,A,balance,Ordinary Shares Number,2025-03-31,48886544.0
+SAFARI,A,balance,Ordinary Shares Number,2026-03-31,48993927.0
+SAFARI,A,balance,Stockholders Equity,2023-03-31,4257200000.0
+SAFARI,A,balance,Stockholders Equity,2024-03-31,8234700000.0
+SAFARI,A,balance,Stockholders Equity,2025-03-31,9534900000.0
+SAFARI,A,balance,Stockholders Equity,2026-03-31,11146700000.0
+SAFARI,A,balance,Total Assets,2023-03-31,7480400000.0
+SAFARI,A,balance,Total Assets,2024-03-31,11442200000.0
+SAFARI,A,balance,Total Assets,2025-03-31,13191700000.0
+SAFARI,A,balance,Total Assets,2026-03-31,14464000000.0
+SAFARI,A,balance,Total Debt,2023-03-31,1394100000.0
+SAFARI,A,balance,Total Debt,2024-03-31,1462600000.0
+SAFARI,A,balance,Total Debt,2025-03-31,1248100000.0
+SAFARI,A,balance,Total Debt,2026-03-31,1165500000.0
+SAFARI,A,cashflow,Capital Expenditure,2023-03-31,-503100000.0
+SAFARI,A,cashflow,Capital Expenditure,2024-03-31,-1112300000.0
+SAFARI,A,cashflow,Capital Expenditure,2025-03-31,-1454400000.0
+SAFARI,A,cashflow,Capital Expenditure,2026-03-31,-704400000.0
+SAFARI,A,cashflow,Free Cash Flow,2023-03-31,3200000.0
+SAFARI,A,cashflow,Free Cash Flow,2024-03-31,1056900000.0
+SAFARI,A,cashflow,Free Cash Flow,2025-03-31,-881200000.0
+SAFARI,A,cashflow,Free Cash Flow,2026-03-31,1029200000.0
+SAFARI,A,cashflow,Operating Cash Flow,2023-03-31,506300000.0
+SAFARI,A,cashflow,Operating Cash Flow,2024-03-31,2169200000.0
+SAFARI,A,cashflow,Operating Cash Flow,2025-03-31,573200000.0
+SAFARI,A,cashflow,Operating Cash Flow,2026-03-31,1733600000.0
+SAFARI,A,income,Basic EPS,2023-03-31,26.34
+SAFARI,A,income,Basic EPS,2024-03-31,36.9
+SAFARI,A,income,Basic EPS,2025-03-31,29.24
+SAFARI,A,income,Basic EPS,2026-03-31,34.27
+SAFARI,A,income,Diluted EPS,2023-03-31,26.21
+SAFARI,A,income,Diluted EPS,2024-03-31,36.73
+SAFARI,A,income,Diluted EPS,2025-03-31,29.16
+SAFARI,A,income,Diluted EPS,2026-03-31,34.24
+SAFARI,A,income,EBITDA,2023-03-31,2063200000.0
+SAFARI,A,income,EBITDA,2024-03-31,2909300000.0
+SAFARI,A,income,EBITDA,2025-03-31,2534100000.0
+SAFARI,A,income,EBITDA,2026-03-31,2954900000.0
+SAFARI,A,income,Interest Expense,2023-03-31,79700000.0
+SAFARI,A,income,Interest Expense,2024-03-31,90200000.0
+SAFARI,A,income,Interest Expense,2025-03-31,87800000.0
+SAFARI,A,income,Interest Expense,2026-03-31,85300000.0
+SAFARI,A,income,Net Income,2023-03-31,1250900000.0
+SAFARI,A,income,Net Income,2024-03-31,1758100000.0
+SAFARI,A,income,Net Income,2025-03-31,1428000000.0
+SAFARI,A,income,Net Income,2026-03-31,1677600000.0
+SAFARI,A,income,Net Income Common Stockholders,2023-03-31,1250900000.0
+SAFARI,A,income,Net Income Common Stockholders,2024-03-31,1758100000.0
+SAFARI,A,income,Net Income Common Stockholders,2025-03-31,1428000000.0
+SAFARI,A,income,Net Income Common Stockholders,2026-03-31,1677600000.0
+SAFARI,A,income,Operating Income,2023-03-31,1661300000.0
+SAFARI,A,income,Operating Income,2024-03-31,2266500000.0
+SAFARI,A,income,Operating Income,2025-03-31,1679900000.0
+SAFARI,A,income,Operating Income,2026-03-31,2044400000.0
+SAFARI,A,income,Pretax Income,2023-03-31,1650400000.0
+SAFARI,A,income,Pretax Income,2024-03-31,2301200000.0
+SAFARI,A,income,Pretax Income,2025-03-31,1855700000.0
+SAFARI,A,income,Pretax Income,2026-03-31,2163400000.0
+SAFARI,A,income,Total Revenue,2023-03-31,12084300000.0
+SAFARI,A,income,Total Revenue,2024-03-31,15469900000.0
+SAFARI,A,income,Total Revenue,2025-03-31,17678300000.0
+SAFARI,A,income,Total Revenue,2026-03-31,20400400000.0
+SAFARI,Q,income,Basic EPS,2025-09-30,9.58
+SAFARI,Q,income,Basic EPS,2025-12-31,6.72
+SAFARI,Q,income,Basic EPS,2026-03-31,7.65
+SAFARI,Q,income,Basic EPS,2026-06-30,9.75
+SAFARI,Q,income,Basic EPS,2026-09-30,7.54
+SAFARI,Q,income,Diluted EPS,2025-09-30,9.58
+SAFARI,Q,income,Diluted EPS,2025-12-31,6.7
+SAFARI,Q,income,Diluted EPS,2026-03-31,7.65
+SAFARI,Q,income,Diluted EPS,2026-06-30,9.74
+SAFARI,Q,income,Diluted EPS,2026-09-30,7.54
+SAFARI,Q,income,EBITDA,2025-09-30,797900000.0
+SAFARI,Q,income,EBITDA,2025-12-31,615800000.0
+SAFARI,Q,income,EBITDA,2026-03-31,689700000.0
+SAFARI,Q,income,EBITDA,2026-06-30,826200000.0
+SAFARI,Q,income,EBITDA,2026-09-30,669500000.0
+SAFARI,Q,income,Interest Expense,2025-09-30,21100000.0
+SAFARI,Q,income,Interest Expense,2025-12-31,22900000.0
+SAFARI,Q,income,Interest Expense,2026-03-31,20100000.0
+SAFARI,Q,income,Interest Expense,2026-06-30,25300000.0
+SAFARI,Q,income,Interest Expense,2026-09-30,24400000.0
+SAFARI,Q,income,Net Income,2025-09-30,469400000.0
+SAFARI,Q,income,Net Income,2025-12-31,328900000.0
+SAFARI,Q,income,Net Income,2026-03-31,374700000.0
+SAFARI,Q,income,Net Income,2026-06-30,477500000.0
+SAFARI,Q,income,Net Income,2026-09-30,369300000.0
+SAFARI,Q,income,Net Income Common Stockholders,2025-09-30,469400000.0
+SAFARI,Q,income,Net Income Common Stockholders,2025-12-31,328900000.0
+SAFARI,Q,income,Net Income Common Stockholders,2026-03-31,374700000.0
+SAFARI,Q,income,Net Income Common Stockholders,2026-06-30,477500000.0
+SAFARI,Q,income,Net Income Common Stockholders,2026-09-30,369300000.0
+SAFARI,Q,income,Operating Income,2025-09-30,564900000.0
+SAFARI,Q,income,Operating Income,2025-12-31,381100000.0
+SAFARI,Q,income,Operating Income,2026-03-31,439300000.0
+SAFARI,Q,income,Operating Income,2026-06-30,563800000.0
+SAFARI,Q,income,Operating Income,2026-09-30,408800000.0
+SAFARI,Q,income,Pretax Income,2025-09-30,601300000.0
+SAFARI,Q,income,Pretax Income,2025-12-31,417400000.0
+SAFARI,Q,income,Pretax Income,2026-03-31,490600000.0
+SAFARI,Q,income,Pretax Income,2026-06-30,610500000.0
+SAFARI,Q,income,Pretax Income,2026-09-30,456700000.0
+SAFARI,Q,income,Total Revenue,2025-09-30,5335500000.0
+SAFARI,Q,income,Total Revenue,2025-12-31,5123700000.0
+SAFARI,Q,income,Total Revenue,2026-03-31,4733000000.0
+SAFARI,Q,income,Total Revenue,2026-06-30,5885800000.0
+SAFARI,Q,income,Total Revenue,2026-09-30,5822200000.0

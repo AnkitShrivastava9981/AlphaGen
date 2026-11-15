@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+AAVAS,A,balance,Cash And Cash Equivalents,2023-03-31,1776477000.0
+AAVAS,A,balance,Cash And Cash Equivalents,2024-03-31,205580000.0
+AAVAS,A,balance,Cash And Cash Equivalents,2025-03-31,113130000.0
+AAVAS,A,balance,Cash And Cash Equivalents,2026-03-31,2285674000.0
+AAVAS,A,balance,Net Debt,2023-03-31,96630430000.0
+AAVAS,A,balance,Net Debt,2024-03-31,123295498000.0
+AAVAS,A,balance,Net Debt,2025-03-31,138385515000.0
+AAVAS,A,balance,Net Debt,2026-03-31,153636416000.0
+AAVAS,A,balance,Ordinary Shares Number,2023-03-31,79056874.0
+AAVAS,A,balance,Ordinary Shares Number,2024-03-31,79139705.0
+AAVAS,A,balance,Ordinary Shares Number,2025-03-31,79153665.0
+AAVAS,A,balance,Ordinary Shares Number,2026-03-31,79282743.0
+AAVAS,A,balance,Stockholders Equity,2023-03-31,32696600000.0
+AAVAS,A,balance,Stockholders Equity,2024-03-31,37733152000.0
+AAVAS,A,balance,Stockholders Equity,2025-03-31,43608323000.0
+AAVAS,A,balance,Stockholders Equity,2026-03-31,50508455000.0
+AAVAS,A,balance,Total Assets,2023-03-31,134096091000.0
+AAVAS,A,balance,Total Assets,2024-03-31,165194536000.0
+AAVAS,A,balance,Total Assets,2025-03-31,186184740000.0
+AAVAS,A,balance,Total Assets,2026-03-31,212125009000.0
+AAVAS,A,balance,Total Debt,2023-03-31,98872786000.0
+AAVAS,A,balance,Total Debt,2024-03-31,124119192000.0
+AAVAS,A,balance,Total Debt,2025-03-31,139184758000.0
+AAVAS,A,balance,Total Debt,2026-03-31,156855708000.0
+AAVAS,A,cashflow,Capital Expenditure,2023-03-31,-389517000.0
+AAVAS,A,cashflow,Capital Expenditure,2024-03-31,-327441000.0
+AAVAS,A,cashflow,Capital Expenditure,2025-03-31,-300706000.0
+AAVAS,A,cashflow,Capital Expenditure,2026-03-31,-328030000.0
+AAVAS,A,cashflow,Free Cash Flow,2023-03-31,-19630691000.0
+AAVAS,A,cashflow,Free Cash Flow,2024-03-31,-20332556000.0
+AAVAS,A,cashflow,Free Cash Flow,2025-03-31,-16901968000.0
+AAVAS,A,cashflow,Free Cash Flow,2026-03-31,-14192192000.0
+AAVAS,A,cashflow,Operating Cash Flow,2023-03-31,-19241174000.0
+AAVAS,A,cashflow,Operating Cash Flow,2024-03-31,-20005115000.0
+AAVAS,A,cashflow,Operating Cash Flow,2025-03-31,-16601262000.0
+AAVAS,A,cashflow,Operating Cash Flow,2026-03-31,-13864162000.0
+AAVAS,A,income,Basic EPS,2023-03-31,54.38
+AAVAS,A,income,Basic EPS,2024-03-31,62.03
+AAVAS,A,income,Basic EPS,2025-03-31,72.54
+AAVAS,A,income,Basic EPS,2026-03-31,82.72
+AAVAS,A,income,Diluted EPS,2023-03-31,54.26
+AAVAS,A,income,Diluted EPS,2024-03-31,61.93
+AAVAS,A,income,Diluted EPS,2025-03-31,71.97
+AAVAS,A,income,Diluted EPS,2026-03-31,82.14
+AAVAS,A,income,EBITDA,2023-03-31,5810512000.0
+AAVAS,A,income,EBITDA,2024-03-31,6625623000.0
+AAVAS,A,income,EBITDA,2025-03-31,7742839000.0
+AAVAS,A,income,EBITDA,2026-03-31,8897842000.0
+AAVAS,A,income,Interest Expense,2023-03-31,39068000.0
+AAVAS,A,income,Interest Expense,2024-03-31,54527000.0
+AAVAS,A,income,Interest Expense,2025-03-31,52434000.0
+AAVAS,A,income,Interest Expense,2026-03-31,62294000.0
+AAVAS,A,income,Net Income,2023-03-31,4296438000.0
+AAVAS,A,income,Net Income,2024-03-31,4906942000.0
+AAVAS,A,income,Net Income,2025-03-31,5741082000.0
+AAVAS,A,income,Net Income,2026-03-31,6548813000.0
+AAVAS,A,income,Net Income Common Stockholders,2023-03-31,4296438000.0
+AAVAS,A,income,Net Income Common Stockholders,2024-03-31,4906942000.0
+AAVAS,A,income,Net Income Common Stockholders,2025-03-31,5741082000.0
+AAVAS,A,income,Net Income Common Stockholders,2026-03-31,6548813000.0
+AAVAS,A,income,Operating Income,2023-03-31,3115500000.0
+AAVAS,A,income,Operating Income,2024-03-31,3158674000.0
+AAVAS,A,income,Operating Income,2025-03-31,3960099000.0
+AAVAS,A,income,Operating Income,2026-03-31,4703282000.0
+AAVAS,A,income,Pretax Income,2023-03-31,5484239000.0
+AAVAS,A,income,Pretax Income,2024-03-31,6244498000.0
+AAVAS,A,income,Pretax Income,2025-03-31,7325891000.0
+AAVAS,A,income,Pretax Income,2026-03-31,8404409000.0
+AAVAS,A,income,Total Revenue,2023-03-31,13555177000.0
+AAVAS,A,income,Total Revenue,2024-03-31,16799835000.0
+AAVAS,A,income,Total Revenue,2025-03-31,19875221000.0
+AAVAS,A,income,Total Revenue,2026-03-31,22726493000.0
+AAVAS,Q,income,Basic EPS,2025-09-30,20.71
+AAVAS,Q,income,Basic EPS,2025-12-31,21.48
+AAVAS,Q,income,Basic EPS,2026-03-31,22.94
+AAVAS,Q,income,Basic EPS,2026-06-30,21.6
+AAVAS,Q,income,Basic EPS,2026-09-30,22.89
+AAVAS,Q,income,Diluted EPS,2025-09-30,20.55
+AAVAS,Q,income,Diluted EPS,2025-12-31,21.32
+AAVAS,Q,income,Diluted EPS,2026-03-31,22.78
+AAVAS,Q,income,Diluted EPS,2026-06-30,21.51
+AAVAS,Q,income,Diluted EPS,2026-09-30,22.8
+AAVAS,Q,income,EBITDA,2025-09-30,1536314000.0
+AAVAS,Q,income,EBITDA,2025-12-31,1660381000.0
+AAVAS,Q,income,EBITDA,2026-03-31,1615389000.0
+AAVAS,Q,income,EBITDA,2026-06-30,1768942000.0
+AAVAS,Q,income,EBITDA,2026-09-30,1841882000.0
+AAVAS,Q,income,Net Income,2025-09-30,1639343000.0
+AAVAS,Q,income,Net Income,2025-12-31,1700457000.0
+AAVAS,Q,income,Net Income,2026-03-31,1816680000.0
+AAVAS,Q,income,Net Income,2026-06-30,1712681000.0
+AAVAS,Q,income,Net Income,2026-09-30,1815202000.0
+AAVAS,Q,income,Net Income Common Stockholders,2025-09-30,1639343000.0
+AAVAS,Q,income,Net Income Common Stockholders,2025-12-31,1700457000.0
+AAVAS,Q,income,Net Income Common Stockholders,2026-03-31,1816680000.0
+AAVAS,Q,income,Net Income Common Stockholders,2026-06-30,1712681000.0
+AAVAS,Q,income,Net Income Common Stockholders,2026-09-30,1815202000.0
+AAVAS,Q,income,Operating Income,2025-09-30,1429187000.0
+AAVAS,Q,income,Operating Income,2025-12-31,1549257000.0
+AAVAS,Q,income,Operating Income,2026-03-31,1495937000.0
+AAVAS,Q,income,Operating Income,2026-06-30,1658441000.0
+AAVAS,Q,income,Operating Income,2026-09-30,1720163000.0
+AAVAS,Q,income,Pretax Income,2025-09-30,2112281000.0
+AAVAS,Q,income,Pretax Income,2025-12-31,2193232000.0
+AAVAS,Q,income,Pretax Income,2026-03-31,2307611000.0
+AAVAS,Q,income,Pretax Income,2026-06-30,2201040000.0
+AAVAS,Q,income,Pretax Income,2026-09-30,2355993000.0
+AAVAS,Q,income,Total Revenue,2025-09-30,5911819000.0
+AAVAS,Q,income,Total Revenue,2025-12-31,6023690000.0
+AAVAS,Q,income,Total Revenue,2026-03-31,6270102000.0
+AAVAS,Q,income,Total Revenue,2026-06-30,6420377000.0
+AAVAS,Q,income,Total Revenue,2026-09-30,6597547000.0

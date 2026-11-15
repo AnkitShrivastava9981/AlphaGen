@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+DOMS,A,balance,Cash And Cash Equivalents,2023-03-31,342535000.0
+DOMS,A,balance,Cash And Cash Equivalents,2024-03-31,564468000.0
+DOMS,A,balance,Cash And Cash Equivalents,2025-03-31,604509000.0
+DOMS,A,balance,Cash And Cash Equivalents,2026-03-31,534877000.0
+DOMS,A,balance,Net Debt,2023-03-31,658106000.0
+DOMS,A,balance,Net Debt,2024-03-31,594162000.0
+DOMS,A,balance,Net Debt,2025-03-31,926437000.0
+DOMS,A,balance,Net Debt,2026-03-31,361117000.0
+DOMS,A,balance,Ordinary Shares Number,2023-03-31,60687236.0
+DOMS,A,balance,Ordinary Shares Number,2024-03-31,60687236.0
+DOMS,A,balance,Ordinary Shares Number,2025-03-31,60687236.0
+DOMS,A,balance,Ordinary Shares Number,2026-03-31,60688336.0
+DOMS,A,balance,Stockholders Equity,2023-03-31,3374319000.0
+DOMS,A,balance,Stockholders Equity,2024-03-31,8144040000.0
+DOMS,A,balance,Stockholders Equity,2025-03-31,10028066000.0
+DOMS,A,balance,Stockholders Equity,2026-03-31,12197331000.0
+DOMS,A,balance,Total Assets,2023-03-31,6397834000.0
+DOMS,A,balance,Total Assets,2024-03-31,11899948000.0
+DOMS,A,balance,Total Assets,2025-03-31,15196200000.0
+DOMS,A,balance,Total Assets,2026-03-31,17119340000.0
+DOMS,A,balance,Total Debt,2023-03-31,1398031000.0
+DOMS,A,balance,Total Debt,2024-03-31,1719039000.0
+DOMS,A,balance,Total Debt,2025-03-31,2117704000.0
+DOMS,A,balance,Total Debt,2026-03-31,1412615000.0
+DOMS,A,cashflow,Capital Expenditure,2023-03-31,-1362918000.0
+DOMS,A,cashflow,Capital Expenditure,2024-03-31,-1534569000.0
+DOMS,A,cashflow,Capital Expenditure,2025-03-31,-2132737000.0
+DOMS,A,cashflow,Capital Expenditure,2026-03-31,-2928354000.0
+DOMS,A,cashflow,Free Cash Flow,2023-03-31,369718000.0
+DOMS,A,cashflow,Free Cash Flow,2024-03-31,290299000.0
+DOMS,A,cashflow,Free Cash Flow,2025-03-31,-299463000.0
+DOMS,A,cashflow,Free Cash Flow,2026-03-31,-384923000.0
+DOMS,A,cashflow,Operating Cash Flow,2023-03-31,1732636000.0
+DOMS,A,cashflow,Operating Cash Flow,2024-03-31,1824868000.0
+DOMS,A,cashflow,Operating Cash Flow,2025-03-31,1833274000.0
+DOMS,A,cashflow,Operating Cash Flow,2026-03-31,2543431000.0
+DOMS,A,income,Basic EPS,2023-03-31,15.787751
+DOMS,A,income,Basic EPS,2024-03-31,26.62
+DOMS,A,income,Basic EPS,2025-03-31,33.34
+DOMS,A,income,Basic EPS,2026-03-31,37.93
+DOMS,A,income,Diluted EPS,2023-03-31,15.787751
+DOMS,A,income,Diluted EPS,2024-03-31,26.62
+DOMS,A,income,Diluted EPS,2025-03-31,33.31
+DOMS,A,income,Diluted EPS,2026-03-31,37.79
+DOMS,A,income,EBITDA,2023-03-31,1901220000.0
+DOMS,A,income,EBITDA,2024-03-31,2821748000.0
+DOMS,A,income,EBITDA,2025-03-31,3702304000.0
+DOMS,A,income,EBITDA,2026-03-31,4195490000.0
+DOMS,A,income,Interest Expense,2023-03-31,107089000.0
+DOMS,A,income,Interest Expense,2024-03-31,164570000.0
+DOMS,A,income,Interest Expense,2025-03-31,142262000.0
+DOMS,A,income,Interest Expense,2026-03-31,91766000.0
+DOMS,A,income,Net Income,2023-03-31,958115000.0
+DOMS,A,income,Net Income,2024-03-31,1531410000.0
+DOMS,A,income,Net Income,2025-03-31,2023367000.0
+DOMS,A,income,Net Income,2026-03-31,2301822000.0
+DOMS,A,income,Net Income Common Stockholders,2023-03-31,958115000.0
+DOMS,A,income,Net Income Common Stockholders,2024-03-31,1531410000.0
+DOMS,A,income,Net Income Common Stockholders,2025-03-31,2023367000.0
+DOMS,A,income,Net Income Common Stockholders,2026-03-31,2301822000.0
+DOMS,A,income,Operating Income,2023-03-31,1461195000.0
+DOMS,A,income,Operating Income,2024-03-31,2214951000.0
+DOMS,A,income,Operating Income,2025-03-31,2795685000.0
+DOMS,A,income,Operating Income,2026-03-31,3144869000.0
+DOMS,A,income,Pretax Income,2023-03-31,1387628000.0
+DOMS,A,income,Pretax Income,2024-03-31,2144823000.0
+DOMS,A,income,Pretax Income,2025-03-31,2868222000.0
+DOMS,A,income,Pretax Income,2026-03-31,3222616000.0
+DOMS,A,income,Total Revenue,2023-03-31,12076595000.0
+DOMS,A,income,Total Revenue,2024-03-31,15306587000.0
+DOMS,A,income,Total Revenue,2025-03-31,19032923000.0
+DOMS,A,income,Total Revenue,2026-03-31,23113504000.0
+DOMS,Q,income,Basic EPS,2025-09-30,9.6
+DOMS,Q,income,Basic EPS,2025-12-31,9.54
+DOMS,Q,income,Basic EPS,2026-03-31,9.35
+DOMS,Q,income,Basic EPS,2026-06-30,7.33
+DOMS,Q,income,Basic EPS,2026-09-30,6.12
+DOMS,Q,income,Diluted EPS,2025-09-30,9.58
+DOMS,Q,income,Diluted EPS,2025-12-31,9.52
+DOMS,Q,income,Diluted EPS,2026-03-31,9.31
+DOMS,Q,income,Diluted EPS,2026-06-30,7.3
+DOMS,Q,income,Diluted EPS,2026-09-30,6.1
+DOMS,Q,income,EBITDA,2025-09-30,1059350000.0
+DOMS,Q,income,EBITDA,2025-12-31,1069272000.0
+DOMS,Q,income,EBITDA,2026-03-31,1050865000.0
+DOMS,Q,income,EBITDA,2026-06-30,865449000.0
+DOMS,Q,income,EBITDA,2026-09-30,771188000.0
+DOMS,Q,income,Interest Expense,2025-09-30,20968000.0
+DOMS,Q,income,Interest Expense,2025-12-31,22423000.0
+DOMS,Q,income,Interest Expense,2026-03-31,29863000.0
+DOMS,Q,income,Interest Expense,2026-06-30,20150000.0
+DOMS,Q,income,Interest Expense,2026-09-30,20389000.0
+DOMS,Q,income,Net Income,2025-09-30,582681000.0
+DOMS,Q,income,Net Income,2025-12-31,579002000.0
+DOMS,Q,income,Net Income,2026-03-31,567356000.0
+DOMS,Q,income,Net Income,2026-06-30,444891000.0
+DOMS,Q,income,Net Income,2026-09-30,371654000.0
+DOMS,Q,income,Net Income Common Stockholders,2025-09-30,582681000.0
+DOMS,Q,income,Net Income Common Stockholders,2025-12-31,579002000.0
+DOMS,Q,income,Net Income Common Stockholders,2026-03-31,567356000.0
+DOMS,Q,income,Net Income Common Stockholders,2026-06-30,444891000.0
+DOMS,Q,income,Net Income Common Stockholders,2026-09-30,371654000.0
+DOMS,Q,income,Operating Income,2025-09-30,774902000.0
+DOMS,Q,income,Operating Income,2025-12-31,809254000.0
+DOMS,Q,income,Operating Income,2026-03-31,777371000.0
+DOMS,Q,income,Operating Income,2026-06-30,591772000.0
+DOMS,Q,income,Operating Income,2026-09-30,586246000.0
+DOMS,Q,income,Pretax Income,2025-09-30,818132000.0
+DOMS,Q,income,Pretax Income,2025-12-31,822069000.0
+DOMS,Q,income,Pretax Income,2026-03-31,789014000.0
+DOMS,Q,income,Pretax Income,2026-06-30,611392000.0
+DOMS,Q,income,Pretax Income,2026-09-30,509501000.0
+DOMS,Q,income,Total Revenue,2025-09-30,5679106000.0
+DOMS,Q,income,Total Revenue,2025-12-31,5921942000.0
+DOMS,Q,income,Total Revenue,2026-03-31,6039832000.0
+DOMS,Q,income,Total Revenue,2026-06-30,6705082000.0
+DOMS,Q,income,Total Revenue,2026-09-30,6677540000.0

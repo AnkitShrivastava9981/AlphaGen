@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+IXIGO,A,balance,Cash And Cash Equivalents,2023-03-31,731250000.0
+IXIGO,A,balance,Cash And Cash Equivalents,2024-03-31,645720000.0
+IXIGO,A,balance,Cash And Cash Equivalents,2025-03-31,810530000.0
+IXIGO,A,balance,Cash And Cash Equivalents,2026-03-31,3444930000.0
+IXIGO,A,balance,Ordinary Shares Number,2023-03-31,387423170.0
+IXIGO,A,balance,Ordinary Shares Number,2024-03-31,387423170.0
+IXIGO,A,balance,Ordinary Shares Number,2025-03-31,390110629.0
+IXIGO,A,balance,Ordinary Shares Number,2026-03-31,438183527.0
+IXIGO,A,balance,Stockholders Equity,2023-03-31,3737640000.0
+IXIGO,A,balance,Stockholders Equity,2024-03-31,4460010000.0
+IXIGO,A,balance,Stockholders Equity,2025-03-31,6336220000.0
+IXIGO,A,balance,Stockholders Equity,2026-03-31,20466490000.0
+IXIGO,A,balance,Total Assets,2023-03-31,5859250000.0
+IXIGO,A,balance,Total Assets,2024-03-31,6321310000.0
+IXIGO,A,balance,Total Assets,2025-03-31,9054910000.0
+IXIGO,A,balance,Total Assets,2026-03-31,25413070000.0
+IXIGO,A,balance,Total Debt,2023-03-31,100290000.0
+IXIGO,A,balance,Total Debt,2024-03-31,460450000.0
+IXIGO,A,balance,Total Debt,2025-03-31,401820000.0
+IXIGO,A,balance,Total Debt,2026-03-31,440220000.0
+IXIGO,A,cashflow,Capital Expenditure,2023-03-31,-54580000.0
+IXIGO,A,cashflow,Capital Expenditure,2024-03-31,-73320000.0
+IXIGO,A,cashflow,Capital Expenditure,2025-03-31,-41090000.0
+IXIGO,A,cashflow,Capital Expenditure,2026-03-31,-205730000.0
+IXIGO,A,cashflow,Free Cash Flow,2023-03-31,252440000.0
+IXIGO,A,cashflow,Free Cash Flow,2024-03-31,358870000.0
+IXIGO,A,cashflow,Free Cash Flow,2025-03-31,1181020000.0
+IXIGO,A,cashflow,Free Cash Flow,2026-03-31,1751590000.0
+IXIGO,A,cashflow,Operating Cash Flow,2023-03-31,307020000.0
+IXIGO,A,cashflow,Operating Cash Flow,2024-03-31,432190000.0
+IXIGO,A,cashflow,Operating Cash Flow,2025-03-31,1222110000.0
+IXIGO,A,cashflow,Operating Cash Flow,2026-03-31,1957320000.0
+IXIGO,A,income,Basic EPS,2023-03-31,0.558511
+IXIGO,A,income,Basic EPS,2024-03-31,1.95644
+IXIGO,A,income,Basic EPS,2025-03-31,1.56
+IXIGO,A,income,Basic EPS,2026-03-31,1.75
+IXIGO,A,income,Diluted EPS,2023-03-31,0.558511
+IXIGO,A,income,Diluted EPS,2024-03-31,1.95644
+IXIGO,A,income,Diluted EPS,2025-03-31,1.55
+IXIGO,A,income,Diluted EPS,2026-03-31,1.72
+IXIGO,A,income,EBITDA,2023-03-31,324380000.0
+IXIGO,A,income,EBITDA,2024-03-31,768750000.0
+IXIGO,A,income,EBITDA,2025-03-31,943910000.0
+IXIGO,A,income,EBITDA,2026-03-31,1060970000.0
+IXIGO,A,income,Interest Expense,2023-03-31,9490000.0
+IXIGO,A,income,Interest Expense,2024-03-31,28860000.0
+IXIGO,A,income,Interest Expense,2025-03-31,23300000.0
+IXIGO,A,income,Interest Expense,2026-03-31,27340000.0
+IXIGO,A,income,Net Income,2023-03-31,216380000.0
+IXIGO,A,income,Net Income,2024-03-31,757970000.0
+IXIGO,A,income,Net Income,2025-03-31,601820000.0
+IXIGO,A,income,Net Income,2026-03-31,721330000.0
+IXIGO,A,income,Net Income Common Stockholders,2023-03-31,216380000.0
+IXIGO,A,income,Net Income Common Stockholders,2024-03-31,757970000.0
+IXIGO,A,income,Net Income Common Stockholders,2025-03-31,601820000.0
+IXIGO,A,income,Net Income Common Stockholders,2026-03-31,721330000.0
+IXIGO,A,income,Operating Income,2023-03-31,225420000.0
+IXIGO,A,income,Operating Income,2024-03-31,310070000.0
+IXIGO,A,income,Operating Income,2025-03-31,729440000.0
+IXIGO,A,income,Operating Income,2026-03-31,593380000.0
+IXIGO,A,income,Pretax Income,2023-03-31,206740000.0
+IXIGO,A,income,Pretax Income,2024-03-31,610650000.0
+IXIGO,A,income,Pretax Income,2025-03-31,817230000.0
+IXIGO,A,income,Pretax Income,2026-03-31,885400000.0
+IXIGO,A,income,Total Revenue,2023-03-31,5012500000.0
+IXIGO,A,income,Total Revenue,2024-03-31,6558730000.0
+IXIGO,A,income,Total Revenue,2025-03-31,9142460000.0
+IXIGO,A,income,Total Revenue,2026-03-31,12280390000.0
+IXIGO,Q,income,Basic EPS,2025-06-30,0.49
+IXIGO,Q,income,Basic EPS,2025-12-31,0.58
+IXIGO,Q,income,Basic EPS,2026-03-31,0.72
+IXIGO,Q,income,Basic EPS,2026-06-30,0.73
+IXIGO,Q,income,Basic EPS,2026-09-30,1.37
+IXIGO,Q,income,Diluted EPS,2025-06-30,0.48
+IXIGO,Q,income,Diluted EPS,2025-12-31,0.56
+IXIGO,Q,income,Diluted EPS,2026-03-31,0.71
+IXIGO,Q,income,Diluted EPS,2026-06-30,0.72
+IXIGO,Q,income,Diluted EPS,2026-09-30,1.35
+IXIGO,Q,income,EBITDA,2025-09-30,-200000.0
+IXIGO,Q,income,EBITDA,2025-12-31,371750000.0
+IXIGO,Q,income,EBITDA,2026-03-31,387890000.0
+IXIGO,Q,income,EBITDA,2026-06-30,495400000.0
+IXIGO,Q,income,EBITDA,2026-09-30,783100000.0
+IXIGO,Q,income,Interest Expense,2025-06-30,6500000.0
+IXIGO,Q,income,Interest Expense,2025-12-31,7750000.0
+IXIGO,Q,income,Interest Expense,2026-03-31,6960000.0
+IXIGO,Q,income,Interest Expense,2026-06-30,6700000.0
+IXIGO,Q,income,Interest Expense,2026-09-30,6400000.0
+IXIGO,Q,income,Net Income,2025-09-30,-31700000.0
+IXIGO,Q,income,Net Income,2025-12-31,242610000.0
+IXIGO,Q,income,Net Income,2026-03-31,319640000.0
+IXIGO,Q,income,Net Income,2026-06-30,325000000.0
+IXIGO,Q,income,Net Income,2026-09-30,612500000.0
+IXIGO,Q,income,Net Income Common Stockholders,2025-09-30,-31700000.0
+IXIGO,Q,income,Net Income Common Stockholders,2025-12-31,242610000.0
+IXIGO,Q,income,Net Income Common Stockholders,2026-03-31,319640000.0
+IXIGO,Q,income,Net Income Common Stockholders,2026-06-30,325000000.0
+IXIGO,Q,income,Net Income Common Stockholders,2026-09-30,612500000.0
+IXIGO,Q,income,Operating Income,2025-09-30,-70500000.0
+IXIGO,Q,income,Operating Income,2025-12-31,224860000.0
+IXIGO,Q,income,Operating Income,2026-03-31,201920000.0
+IXIGO,Q,income,Operating Income,2026-06-30,196600000.0
+IXIGO,Q,income,Operating Income,2026-09-30,120900000.0
+IXIGO,Q,income,Pretax Income,2025-09-30,-39600000.0
+IXIGO,Q,income,Pretax Income,2025-12-31,324660000.0
+IXIGO,Q,income,Pretax Income,2026-03-31,337030000.0
+IXIGO,Q,income,Pretax Income,2026-06-30,441600000.0
+IXIGO,Q,income,Pretax Income,2026-09-30,717000000.0
+IXIGO,Q,income,Total Revenue,2025-09-30,2842300000.0
+IXIGO,Q,income,Total Revenue,2025-12-31,3175640000.0
+IXIGO,Q,income,Total Revenue,2026-03-31,3080490000.0
+IXIGO,Q,income,Total Revenue,2026-06-30,3567500000.0
+IXIGO,Q,income,Total Revenue,2026-09-30,3209600000.0

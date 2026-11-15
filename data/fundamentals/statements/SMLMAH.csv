@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+SMLMAH,A,balance,Cash And Cash Equivalents,2023-03-31,34916000.0
+SMLMAH,A,balance,Cash And Cash Equivalents,2024-03-31,348201000.0
+SMLMAH,A,balance,Cash And Cash Equivalents,2025-03-31,31010000.0
+SMLMAH,A,balance,Cash And Cash Equivalents,2026-03-31,45085000.0
+SMLMAH,A,balance,Net Debt,2023-03-31,2546186000.0
+SMLMAH,A,balance,Net Debt,2024-03-31,3808354000.0
+SMLMAH,A,balance,Net Debt,2025-03-31,3186787000.0
+SMLMAH,A,balance,Net Debt,2026-03-31,2756418000.0
+SMLMAH,A,balance,Ordinary Shares Number,2022-03-31,14471646.0
+SMLMAH,A,balance,Ordinary Shares Number,2023-03-31,14471646.0
+SMLMAH,A,balance,Ordinary Shares Number,2024-03-31,14471646.0
+SMLMAH,A,balance,Ordinary Shares Number,2025-03-31,14471646.0
+SMLMAH,A,balance,Stockholders Equity,2023-03-31,1779467000.0
+SMLMAH,A,balance,Stockholders Equity,2024-03-31,2855888000.0
+SMLMAH,A,balance,Stockholders Equity,2025-03-31,3826600000.0
+SMLMAH,A,balance,Stockholders Equity,2026-03-31,5193391000.0
+SMLMAH,A,balance,Total Assets,2023-03-31,9365639000.0
+SMLMAH,A,balance,Total Assets,2024-03-31,12125211000.0
+SMLMAH,A,balance,Total Assets,2025-03-31,12994128000.0
+SMLMAH,A,balance,Total Assets,2026-03-31,13967787000.0
+SMLMAH,A,balance,Total Debt,2023-03-31,2645131000.0
+SMLMAH,A,balance,Total Debt,2024-03-31,4212684000.0
+SMLMAH,A,balance,Total Debt,2025-03-31,3270531000.0
+SMLMAH,A,balance,Total Debt,2026-03-31,2891105000.0
+SMLMAH,A,cashflow,Capital Expenditure,2023-03-31,-413064000.0
+SMLMAH,A,cashflow,Capital Expenditure,2024-03-31,-424263000.0
+SMLMAH,A,cashflow,Capital Expenditure,2025-03-31,-619824000.0
+SMLMAH,A,cashflow,Capital Expenditure,2026-03-31,-703315000.0
+SMLMAH,A,cashflow,Free Cash Flow,2023-03-31,487561000.0
+SMLMAH,A,cashflow,Free Cash Flow,2024-03-31,-921061000.0
+SMLMAH,A,cashflow,Free Cash Flow,2025-03-31,1154990000.0
+SMLMAH,A,cashflow,Free Cash Flow,2026-03-31,858605000.0
+SMLMAH,A,cashflow,Operating Cash Flow,2023-03-31,900625000.0
+SMLMAH,A,cashflow,Operating Cash Flow,2024-03-31,-496798000.0
+SMLMAH,A,cashflow,Operating Cash Flow,2025-03-31,1774814000.0
+SMLMAH,A,cashflow,Operating Cash Flow,2026-03-31,1561920000.0
+SMLMAH,A,income,Basic EPS,2022-03-31,-68.94
+SMLMAH,A,income,Basic EPS,2023-03-31,13.71
+SMLMAH,A,income,Basic EPS,2024-03-31,74.54
+SMLMAH,A,income,Basic EPS,2025-03-31,84.08
+SMLMAH,A,income,Diluted EPS,2022-03-31,-68.94
+SMLMAH,A,income,Diluted EPS,2023-03-31,13.71
+SMLMAH,A,income,Diluted EPS,2024-03-31,74.54
+SMLMAH,A,income,Diluted EPS,2025-03-31,84.08
+SMLMAH,A,income,EBITDA,2023-03-31,808735000.0
+SMLMAH,A,income,EBITDA,2024-03-31,1830112000.0
+SMLMAH,A,income,EBITDA,2025-03-31,2400208000.0
+SMLMAH,A,income,EBITDA,2026-03-31,2865122000.0
+SMLMAH,A,income,Interest Expense,2023-03-31,211661000.0
+SMLMAH,A,income,Interest Expense,2024-03-31,290439000.0
+SMLMAH,A,income,Interest Expense,2025-03-31,292909000.0
+SMLMAH,A,income,Interest Expense,2026-03-31,205307000.0
+SMLMAH,A,income,Net Income,2023-03-31,198352000.0
+SMLMAH,A,income,Net Income,2024-03-31,1078780000.0
+SMLMAH,A,income,Net Income,2025-03-31,1216744000.0
+SMLMAH,A,income,Net Income,2026-03-31,1597504000.0
+SMLMAH,A,income,Net Income Common Stockholders,2023-03-31,198352000.0
+SMLMAH,A,income,Net Income Common Stockholders,2024-03-31,1078780000.0
+SMLMAH,A,income,Net Income Common Stockholders,2025-03-31,1216744000.0
+SMLMAH,A,income,Net Income Common Stockholders,2026-03-31,1597504000.0
+SMLMAH,A,income,Operating Income,2023-03-31,394546000.0
+SMLMAH,A,income,Operating Income,2024-03-31,1322606000.0
+SMLMAH,A,income,Operating Income,2025-03-31,1869347000.0
+SMLMAH,A,income,Operating Income,2026-03-31,2278516000.0
+SMLMAH,A,income,Pretax Income,2023-03-31,172756000.0
+SMLMAH,A,income,Pretax Income,2024-03-31,1064508000.0
+SMLMAH,A,income,Pretax Income,2025-03-31,1623768000.0
+SMLMAH,A,income,Pretax Income,2026-03-31,2139537000.0
+SMLMAH,A,income,Total Revenue,2023-03-31,18092747000.0
+SMLMAH,A,income,Total Revenue,2024-03-31,21827362000.0
+SMLMAH,A,income,Total Revenue,2025-03-31,23825821000.0
+SMLMAH,A,income,Total Revenue,2026-03-31,28189387000.0
+SMLMAH,Q,income,Basic EPS,2025-06-30,46.27
+SMLMAH,Q,income,Basic EPS,2025-12-31,12.11
+SMLMAH,Q,income,Basic EPS,2026-06-30,43.96
+SMLMAH,Q,income,Basic EPS,2026-09-30,8.09
+SMLMAH,Q,income,Diluted EPS,2025-06-30,46.27
+SMLMAH,Q,income,Diluted EPS,2025-12-31,12.11
+SMLMAH,Q,income,Diluted EPS,2026-06-30,43.96
+SMLMAH,Q,income,Diluted EPS,2026-09-30,8.09
+SMLMAH,Q,income,EBITDA,2025-03-31,921600000.0
+SMLMAH,Q,income,EBITDA,2025-06-30,1070700000.0
+SMLMAH,Q,income,EBITDA,2025-12-31,426500000.0
+SMLMAH,Q,income,EBITDA,2026-06-30,1012900000.0
+SMLMAH,Q,income,EBITDA,2026-09-30,301100000.0
+SMLMAH,Q,income,Interest Expense,2025-03-31,83409000.0
+SMLMAH,Q,income,Interest Expense,2025-06-30,50900000.0
+SMLMAH,Q,income,Interest Expense,2025-12-31,57900000.0
+SMLMAH,Q,income,Interest Expense,2026-06-30,27400000.0
+SMLMAH,Q,income,Interest Expense,2026-09-30,9000000.0
+SMLMAH,Q,income,Net Income,2025-03-31,529544000.0
+SMLMAH,Q,income,Net Income,2025-06-30,669600000.0
+SMLMAH,Q,income,Net Income,2025-12-31,175400000.0
+SMLMAH,Q,income,Net Income,2026-06-30,636200000.0
+SMLMAH,Q,income,Net Income,2026-09-30,117000000.0
+SMLMAH,Q,income,Net Income Common Stockholders,2025-03-31,529544000.0
+SMLMAH,Q,income,Net Income Common Stockholders,2025-06-30,669600000.0
+SMLMAH,Q,income,Net Income Common Stockholders,2025-12-31,175400000.0
+SMLMAH,Q,income,Net Income Common Stockholders,2026-06-30,636200000.0
+SMLMAH,Q,income,Net Income Common Stockholders,2026-09-30,117000000.0
+SMLMAH,Q,income,Operating Income,2025-03-31,790847000.0
+SMLMAH,Q,income,Operating Income,2025-06-30,925800000.0
+SMLMAH,Q,income,Operating Income,2025-12-31,277500000.0
+SMLMAH,Q,income,Operating Income,2026-06-30,868300000.0
+SMLMAH,Q,income,Operating Income,2026-09-30,151500000.0
+SMLMAH,Q,income,Pretax Income,2025-03-31,711368000.0
+SMLMAH,Q,income,Pretax Income,2025-06-30,895500000.0
+SMLMAH,Q,income,Pretax Income,2025-12-31,235200000.0
+SMLMAH,Q,income,Pretax Income,2026-06-30,852800000.0
+SMLMAH,Q,income,Pretax Income,2026-09-30,158500000.0
+SMLMAH,Q,income,Total Revenue,2025-03-31,7549721000.0
+SMLMAH,Q,income,Total Revenue,2025-06-30,8458900000.0
+SMLMAH,Q,income,Total Revenue,2025-12-31,5392700000.0
+SMLMAH,Q,income,Total Revenue,2026-06-30,9575400000.0
+SMLMAH,Q,income,Total Revenue,2026-09-30,6697900000.0

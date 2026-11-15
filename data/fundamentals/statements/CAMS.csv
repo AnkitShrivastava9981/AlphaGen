@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CAMS,A,balance,Cash And Cash Equivalents,2023-03-31,163937000.0
+CAMS,A,balance,Cash And Cash Equivalents,2024-03-31,67427000.0
+CAMS,A,balance,Cash And Cash Equivalents,2025-03-31,139538000.0
+CAMS,A,balance,Cash And Cash Equivalents,2026-03-31,121126000.0
+CAMS,A,balance,Ordinary Shares Number,2023-03-31,244967980.0
+CAMS,A,balance,Ordinary Shares Number,2024-03-31,245715595.0
+CAMS,A,balance,Ordinary Shares Number,2025-03-31,247149245.0
+CAMS,A,balance,Ordinary Shares Number,2026-03-31,247984498.0
+CAMS,A,balance,Stockholders Equity,2023-03-31,7817247000.0
+CAMS,A,balance,Stockholders Equity,2024-03-31,9145329000.0
+CAMS,A,balance,Stockholders Equity,2025-03-31,11185538000.0
+CAMS,A,balance,Stockholders Equity,2026-03-31,13211206000.0
+CAMS,A,balance,Total Assets,2023-03-31,10975506000.0
+CAMS,A,balance,Total Assets,2024-03-31,14142075000.0
+CAMS,A,balance,Total Assets,2025-03-31,15981090000.0
+CAMS,A,balance,Total Assets,2026-03-31,18103763000.0
+CAMS,A,balance,Total Debt,2023-03-31,932488000.0
+CAMS,A,balance,Total Debt,2024-03-31,963088000.0
+CAMS,A,balance,Total Debt,2025-03-31,885189000.0
+CAMS,A,balance,Total Debt,2026-03-31,642350000.0
+CAMS,A,cashflow,Capital Expenditure,2023-03-31,-445095000.0
+CAMS,A,cashflow,Capital Expenditure,2024-03-31,-383712000.0
+CAMS,A,cashflow,Capital Expenditure,2025-03-31,-1183786000.0
+CAMS,A,cashflow,Capital Expenditure,2026-03-31,-1405483000.0
+CAMS,A,cashflow,Free Cash Flow,2023-03-31,2739666000.0
+CAMS,A,cashflow,Free Cash Flow,2024-03-31,3631215000.0
+CAMS,A,cashflow,Free Cash Flow,2025-03-31,3590428000.0
+CAMS,A,cashflow,Free Cash Flow,2026-03-31,4437131000.0
+CAMS,A,cashflow,Operating Cash Flow,2023-03-31,3184761000.0
+CAMS,A,cashflow,Operating Cash Flow,2024-03-31,4014927000.0
+CAMS,A,cashflow,Operating Cash Flow,2025-03-31,4774214000.0
+CAMS,A,cashflow,Operating Cash Flow,2026-03-31,5842614000.0
+CAMS,A,income,Basic EPS,2023-03-31,11.652
+CAMS,A,income,Basic EPS,2024-03-31,14.412
+CAMS,A,income,Basic EPS,2025-03-31,19.08
+CAMS,A,income,Basic EPS,2026-03-31,19.23
+CAMS,A,income,Diluted EPS,2023-03-31,11.576
+CAMS,A,income,Diluted EPS,2024-03-31,14.336
+CAMS,A,income,Diluted EPS,2025-03-31,19.0
+CAMS,A,income,Diluted EPS,2026-03-31,19.13
+CAMS,A,income,EBITDA,2023-03-31,4480448000.0
+CAMS,A,income,EBITDA,2024-03-31,5455364000.0
+CAMS,A,income,EBITDA,2025-03-31,7048559000.0
+CAMS,A,income,EBITDA,2026-03-31,7343107000.0
+CAMS,A,income,Interest Expense,2023-03-31,76075000.0
+CAMS,A,income,Interest Expense,2024-03-31,82135000.0
+CAMS,A,income,Interest Expense,2025-03-31,84731000.0
+CAMS,A,income,Interest Expense,2026-03-31,69837000.0
+CAMS,A,income,Net Income,2023-03-31,2852483000.0
+CAMS,A,income,Net Income,2024-03-31,3536406000.0
+CAMS,A,income,Net Income,2025-03-31,4701938000.0
+CAMS,A,income,Net Income,2026-03-31,4760057000.0
+CAMS,A,income,Net Income Common Stockholders,2023-03-31,2852483000.0
+CAMS,A,income,Net Income Common Stockholders,2024-03-31,3536406000.0
+CAMS,A,income,Net Income Common Stockholders,2025-03-31,4701938000.0
+CAMS,A,income,Net Income Common Stockholders,2026-03-31,4760057000.0
+CAMS,A,income,Operating Income,2023-03-31,3610411000.0
+CAMS,A,income,Operating Income,2024-03-31,4346593000.0
+CAMS,A,income,Operating Income,2025-03-31,5747307000.0
+CAMS,A,income,Operating Income,2026-03-31,5923861000.0
+CAMS,A,income,Pretax Income,2023-03-31,3801873000.0
+CAMS,A,income,Pretax Income,2024-03-31,4668451000.0
+CAMS,A,income,Pretax Income,2025-03-31,6186627000.0
+CAMS,A,income,Pretax Income,2026-03-31,6285533000.0
+CAMS,A,income,Total Revenue,2023-03-31,9718272000.0
+CAMS,A,income,Total Revenue,2024-03-31,11365181000.0
+CAMS,A,income,Total Revenue,2025-03-31,14224833000.0
+CAMS,A,income,Total Revenue,2026-03-31,15162490000.0
+CAMS,Q,income,Basic EPS,2025-09-30,4.65
+CAMS,Q,income,Basic EPS,2025-12-31,5.07
+CAMS,Q,income,Basic EPS,2026-03-31,5.1
+CAMS,Q,income,Basic EPS,2026-06-30,5.16
+CAMS,Q,income,Basic EPS,2026-09-30,5.3
+CAMS,Q,income,Diluted EPS,2025-09-30,4.62
+CAMS,Q,income,Diluted EPS,2025-12-31,5.04
+CAMS,Q,income,Diluted EPS,2026-03-31,5.08
+CAMS,Q,income,Diluted EPS,2026-06-30,5.14
+CAMS,Q,income,Diluted EPS,2026-09-30,5.27
+CAMS,Q,income,EBITDA,2025-06-30,1671710000.0
+CAMS,Q,income,EBITDA,2025-12-31,1917263000.0
+CAMS,Q,income,EBITDA,2026-03-31,1956451000.0
+CAMS,Q,income,EBITDA,2026-06-30,1990757000.0
+CAMS,Q,income,EBITDA,2026-09-30,2037947000.0
+CAMS,Q,income,Interest Expense,2025-06-30,19367000.0
+CAMS,Q,income,Interest Expense,2025-12-31,16793000.0
+CAMS,Q,income,Interest Expense,2026-03-31,15260000.0
+CAMS,Q,income,Interest Expense,2026-06-30,14804000.0
+CAMS,Q,income,Interest Expense,2026-09-30,13909000.0
+CAMS,Q,income,Net Income,2025-06-30,1090905000.0
+CAMS,Q,income,Net Income,2025-12-31,1255387000.0
+CAMS,Q,income,Net Income,2026-03-31,1264333000.0
+CAMS,Q,income,Net Income,2026-06-30,1280159000.0
+CAMS,Q,income,Net Income,2026-09-30,1314922000.0
+CAMS,Q,income,Net Income Common Stockholders,2025-06-30,1090905000.0
+CAMS,Q,income,Net Income Common Stockholders,2025-12-31,1255387000.0
+CAMS,Q,income,Net Income Common Stockholders,2026-03-31,1264333000.0
+CAMS,Q,income,Net Income Common Stockholders,2026-06-30,1280159000.0
+CAMS,Q,income,Net Income Common Stockholders,2026-09-30,1314922000.0
+CAMS,Q,income,Operating Income,2025-06-30,1334364000.0
+CAMS,Q,income,Operating Income,2025-12-31,1535685000.0
+CAMS,Q,income,Operating Income,2026-03-31,1550752000.0
+CAMS,Q,income,Operating Income,2026-06-30,1581917000.0
+CAMS,Q,income,Operating Income,2026-09-30,1622178000.0
+CAMS,Q,income,Pretax Income,2025-06-30,1443905000.0
+CAMS,Q,income,Pretax Income,2025-12-31,1647155000.0
+CAMS,Q,income,Pretax Income,2026-03-31,1660784000.0
+CAMS,Q,income,Pretax Income,2026-06-30,1730480000.0
+CAMS,Q,income,Pretax Income,2026-09-30,1742607000.0
+CAMS,Q,income,Total Revenue,2025-06-30,3541519000.0
+CAMS,Q,income,Total Revenue,2025-12-31,3901390000.0
+CAMS,Q,income,Total Revenue,2026-03-31,3952202000.0
+CAMS,Q,income,Total Revenue,2026-06-30,3950295000.0
+CAMS,Q,income,Total Revenue,2026-09-30,4144657000.0

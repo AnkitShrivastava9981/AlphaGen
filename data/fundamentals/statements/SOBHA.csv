@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SOBHA,A,balance,Cash And Cash Equivalents,2023-03-31,1035100000.0
+SOBHA,A,balance,Cash And Cash Equivalents,2024-03-31,561120000.0
+SOBHA,A,balance,Cash And Cash Equivalents,2025-03-31,706680000.0
+SOBHA,A,balance,Cash And Cash Equivalents,2026-03-31,1225110000.0
+SOBHA,A,balance,Net Debt,2023-03-31,19000390000.0
+SOBHA,A,balance,Net Debt,2024-03-31,18573970000.0
+SOBHA,A,balance,Net Debt,2025-03-31,10602080000.0
+SOBHA,A,balance,Net Debt,2026-03-31,8798030000.0
+SOBHA,A,balance,Ordinary Shares Number,2023-03-31,97425725.0
+SOBHA,A,balance,Ordinary Shares Number,2024-03-31,97425725.0
+SOBHA,A,balance,Ordinary Shares Number,2025-03-31,106953834.0
+SOBHA,A,balance,Ordinary Shares Number,2026-03-31,106953834.0
+SOBHA,A,balance,Stockholders Equity,2023-03-31,24946710000.0
+SOBHA,A,balance,Stockholders Equity,2024-03-31,25140740000.0
+SOBHA,A,balance,Stockholders Equity,2025-03-31,45605060000.0
+SOBHA,A,balance,Stockholders Equity,2026-03-31,47199320000.0
+SOBHA,A,balance,Total Assets,2023-03-31,125882430000.0
+SOBHA,A,balance,Total Assets,2024-03-31,136964910000.0
+SOBHA,A,balance,Total Assets,2025-03-31,172210320000.0
+SOBHA,A,balance,Total Assets,2026-03-31,195178120000.0
+SOBHA,A,balance,Total Debt,2023-03-31,20268300000.0
+SOBHA,A,balance,Total Debt,2024-03-31,19397330000.0
+SOBHA,A,balance,Total Debt,2025-03-31,11834620000.0
+SOBHA,A,balance,Total Debt,2026-03-31,10573900000.0
+SOBHA,A,cashflow,Capital Expenditure,2023-03-31,-1234050000.0
+SOBHA,A,cashflow,Capital Expenditure,2024-03-31,-1247170000.0
+SOBHA,A,cashflow,Capital Expenditure,2025-03-31,-1312490000.0
+SOBHA,A,cashflow,Capital Expenditure,2026-03-31,-2084610000.0
+SOBHA,A,cashflow,Free Cash Flow,2023-03-31,10268070000.0
+SOBHA,A,cashflow,Free Cash Flow,2024-03-31,5227250000.0
+SOBHA,A,cashflow,Free Cash Flow,2025-03-31,686740000.0
+SOBHA,A,cashflow,Free Cash Flow,2026-03-31,2214120000.0
+SOBHA,A,cashflow,Operating Cash Flow,2023-03-31,11502120000.0
+SOBHA,A,cashflow,Operating Cash Flow,2024-03-31,6474420000.0
+SOBHA,A,cashflow,Operating Cash Flow,2025-03-31,1999230000.0
+SOBHA,A,cashflow,Operating Cash Flow,2026-03-31,4298730000.0
+SOBHA,A,income,Basic EPS,2023-03-31,10.69898
+SOBHA,A,income,Basic EPS,2024-03-31,5.042831
+SOBHA,A,income,Basic EPS,2025-03-31,9.28
+SOBHA,A,income,Basic EPS,2026-03-31,18.09
+SOBHA,A,income,Diluted EPS,2023-03-31,10.69898
+SOBHA,A,income,Diluted EPS,2024-03-31,5.042831
+SOBHA,A,income,Diluted EPS,2025-03-31,9.28
+SOBHA,A,income,Diluted EPS,2026-03-31,18.09
+SOBHA,A,income,EBITDA,2023-03-31,4481640000.0
+SOBHA,A,income,EBITDA,2024-03-31,3779070000.0
+SOBHA,A,income,EBITDA,2025-03-31,4096860000.0
+SOBHA,A,income,EBITDA,2026-03-31,4936900000.0
+SOBHA,A,income,Interest Expense,2023-03-31,2353520000.0
+SOBHA,A,income,Interest Expense,2024-03-31,2254590000.0
+SOBHA,A,income,Interest Expense,2025-03-31,1868600000.0
+SOBHA,A,income,Interest Expense,2026-03-31,1278000000.0
+SOBHA,A,income,Net Income,2023-03-31,1042050000.0
+SOBHA,A,income,Net Income,2024-03-31,491130000.0
+SOBHA,A,income,Net Income,2025-03-31,946860000.0
+SOBHA,A,income,Net Income,2026-03-31,1934080000.0
+SOBHA,A,income,Net Income Common Stockholders,2023-03-31,1042050000.0
+SOBHA,A,income,Net Income Common Stockholders,2024-03-31,491130000.0
+SOBHA,A,income,Net Income Common Stockholders,2025-03-31,946860000.0
+SOBHA,A,income,Net Income Common Stockholders,2026-03-31,1934080000.0
+SOBHA,A,income,Operating Income,2023-03-31,3073350000.0
+SOBHA,A,income,Operating Income,2024-03-31,1996650000.0
+SOBHA,A,income,Operating Income,2025-03-31,2235860000.0
+SOBHA,A,income,Operating Income,2026-03-31,2060560000.0
+SOBHA,A,income,Pretax Income,2023-03-31,1449750000.0
+SOBHA,A,income,Pretax Income,2024-03-31,742270000.0
+SOBHA,A,income,Pretax Income,2025-03-31,1330010000.0
+SOBHA,A,income,Pretax Income,2026-03-31,2598650000.0
+SOBHA,A,income,Total Revenue,2023-03-31,32749150000.0
+SOBHA,A,income,Total Revenue,2024-03-31,30631950000.0
+SOBHA,A,income,Total Revenue,2025-03-31,40167590000.0
+SOBHA,A,income,Total Revenue,2026-03-31,51521300000.0
+SOBHA,Q,income,Basic EPS,2025-06-30,1.27
+SOBHA,Q,income,Basic EPS,2025-12-31,1.44
+SOBHA,Q,income,Basic EPS,2026-03-31,8.59
+SOBHA,Q,income,Basic EPS,2026-06-30,4.75
+SOBHA,Q,income,Basic EPS,2026-09-30,3.08
+SOBHA,Q,income,Diluted EPS,2025-06-30,1.27
+SOBHA,Q,income,Diluted EPS,2025-12-31,1.44
+SOBHA,Q,income,Diluted EPS,2026-03-31,8.59
+SOBHA,Q,income,Diluted EPS,2026-06-30,4.75
+SOBHA,Q,income,Diluted EPS,2026-09-30,3.08
+SOBHA,Q,income,EBITDA,2025-06-30,732880000.0
+SOBHA,Q,income,EBITDA,2025-12-31,785000000.0
+SOBHA,Q,income,EBITDA,2026-03-31,1941560000.0
+SOBHA,Q,income,EBITDA,2026-06-30,1295970000.0
+SOBHA,Q,income,EBITDA,2026-09-30,1187330000.0
+SOBHA,Q,income,Interest Expense,2025-06-30,309760000.0
+SOBHA,Q,income,Interest Expense,2025-12-31,302820000.0
+SOBHA,Q,income,Interest Expense,2026-03-31,439250000.0
+SOBHA,Q,income,Interest Expense,2026-06-30,321150000.0
+SOBHA,Q,income,Interest Expense,2026-09-30,401420000.0
+SOBHA,Q,income,Net Income,2025-06-30,136180000.0
+SOBHA,Q,income,Net Income,2025-12-31,154280000.0
+SOBHA,Q,income,Net Income,2026-03-31,918350000.0
+SOBHA,Q,income,Net Income,2026-06-30,508460000.0
+SOBHA,Q,income,Net Income,2026-09-30,329590000.0
+SOBHA,Q,income,Net Income Common Stockholders,2025-06-30,136180000.0
+SOBHA,Q,income,Net Income Common Stockholders,2025-12-31,154280000.0
+SOBHA,Q,income,Net Income Common Stockholders,2026-03-31,918350000.0
+SOBHA,Q,income,Net Income Common Stockholders,2026-06-30,508460000.0
+SOBHA,Q,income,Net Income Common Stockholders,2026-09-30,329590000.0
+SOBHA,Q,income,Operating Income,2025-06-30,1540000.0
+SOBHA,Q,income,Operating Income,2025-12-31,110700000.0
+SOBHA,Q,income,Operating Income,2026-03-31,1237010000.0
+SOBHA,Q,income,Operating Income,2026-06-30,493580000.0
+SOBHA,Q,income,Operating Income,2026-09-30,371150000.0
+SOBHA,Q,income,Pretax Income,2025-06-30,186500000.0
+SOBHA,Q,income,Pretax Income,2025-12-31,205340000.0
+SOBHA,Q,income,Pretax Income,2026-03-31,1217580000.0
+SOBHA,Q,income,Pretax Income,2026-06-30,691240000.0
+SOBHA,Q,income,Pretax Income,2026-09-30,469800000.0
+SOBHA,Q,income,Total Revenue,2025-06-30,8519340000.0
+SOBHA,Q,income,Total Revenue,2025-12-31,9431130000.0
+SOBHA,Q,income,Total Revenue,2026-03-31,19878350000.0
+SOBHA,Q,income,Total Revenue,2026-06-30,12781520000.0
+SOBHA,Q,income,Total Revenue,2026-09-30,9670640000.0

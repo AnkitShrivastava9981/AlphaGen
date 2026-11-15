@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+AMBER,A,balance,Cash And Cash Equivalents,2023-03-31,3231799000.0
+AMBER,A,balance,Cash And Cash Equivalents,2024-03-31,1318720000.0
+AMBER,A,balance,Cash And Cash Equivalents,2025-03-31,2128007000.0
+AMBER,A,balance,Cash And Cash Equivalents,2026-03-31,2313766000.0
+AMBER,A,balance,Net Debt,2023-03-31,10205369000.0
+AMBER,A,balance,Net Debt,2024-03-31,13013511000.0
+AMBER,A,balance,Net Debt,2025-03-31,17272128000.0
+AMBER,A,balance,Net Debt,2026-03-31,20745730000.0
+AMBER,A,balance,Ordinary Shares Number,2023-03-31,33693731.0
+AMBER,A,balance,Ordinary Shares Number,2024-03-31,33693731.0
+AMBER,A,balance,Ordinary Shares Number,2025-03-31,33823506.0
+AMBER,A,balance,Ordinary Shares Number,2026-03-31,35191667.0
+AMBER,A,balance,Stockholders Equity,2023-03-31,19087737000.0
+AMBER,A,balance,Stockholders Equity,2024-03-31,20643576000.0
+AMBER,A,balance,Stockholders Equity,2025-03-31,22857934000.0
+AMBER,A,balance,Stockholders Equity,2026-03-31,43721170000.0
+AMBER,A,balance,Total Assets,2023-03-31,62433239000.0
+AMBER,A,balance,Total Assets,2024-03-31,65931976000.0
+AMBER,A,balance,Total Assets,2025-03-31,84280980000.0
+AMBER,A,balance,Total Assets,2026-03-31,137668758000.0
+AMBER,A,balance,Total Debt,2023-03-31,14551130000.0
+AMBER,A,balance,Total Debt,2024-03-31,15389481000.0
+AMBER,A,balance,Total Debt,2025-03-31,20588112000.0
+AMBER,A,balance,Total Debt,2026-03-31,27015865000.0
+AMBER,A,cashflow,Capital Expenditure,2023-03-31,-6621826000.0
+AMBER,A,cashflow,Capital Expenditure,2024-03-31,-4120402000.0
+AMBER,A,cashflow,Capital Expenditure,2025-03-31,-5747911000.0
+AMBER,A,cashflow,Capital Expenditure,2026-03-31,-12948182000.0
+AMBER,A,cashflow,Free Cash Flow,2023-03-31,-3416285000.0
+AMBER,A,cashflow,Free Cash Flow,2024-03-31,5527986000.0
+AMBER,A,cashflow,Free Cash Flow,2025-03-31,1361029000.0
+AMBER,A,cashflow,Free Cash Flow,2026-03-31,-10546603000.0
+AMBER,A,cashflow,Operating Cash Flow,2023-03-31,3205541000.0
+AMBER,A,cashflow,Operating Cash Flow,2024-03-31,9648388000.0
+AMBER,A,cashflow,Operating Cash Flow,2025-03-31,7108940000.0
+AMBER,A,cashflow,Operating Cash Flow,2026-03-31,2401579000.0
+AMBER,A,income,Basic EPS,2023-03-31,46.66
+AMBER,A,income,Basic EPS,2024-03-31,39.44
+AMBER,A,income,Basic EPS,2025-03-31,72.01
+AMBER,A,income,Basic EPS,2026-03-31,50.48
+AMBER,A,income,Diluted EPS,2023-03-31,46.66
+AMBER,A,income,Diluted EPS,2024-03-31,39.41
+AMBER,A,income,Diluted EPS,2025-03-31,71.67
+AMBER,A,income,Diluted EPS,2026-03-31,50.28
+AMBER,A,income,EBITDA,2023-03-31,4554187000.0
+AMBER,A,income,EBITDA,2024-03-31,5306440000.0
+AMBER,A,income,EBITDA,2025-03-31,7702432000.0
+AMBER,A,income,EBITDA,2026-03-31,9022535000.0
+AMBER,A,income,Interest Expense,2023-03-31,966480000.0
+AMBER,A,income,Interest Expense,2024-03-31,1527833000.0
+AMBER,A,income,Interest Expense,2025-03-31,1719716000.0
+AMBER,A,income,Interest Expense,2026-03-31,2432807000.0
+AMBER,A,income,Net Income,2023-03-31,1572036000.0
+AMBER,A,income,Net Income,2024-03-31,1328805000.0
+AMBER,A,income,Net Income,2025-03-31,2435580000.0
+AMBER,A,income,Net Income,2026-03-31,1776471000.0
+AMBER,A,income,Net Income Common Stockholders,2023-03-31,1572036000.0
+AMBER,A,income,Net Income Common Stockholders,2024-03-31,1328805000.0
+AMBER,A,income,Net Income Common Stockholders,2025-03-31,2435580000.0
+AMBER,A,income,Net Income Common Stockholders,2026-03-31,1776471000.0
+AMBER,A,income,Operating Income,2023-03-31,3144353000.0
+AMBER,A,income,Operating Income,2024-03-31,3151902000.0
+AMBER,A,income,Operating Income,2025-03-31,5658538000.0
+AMBER,A,income,Operating Income,2026-03-31,6447069000.0
+AMBER,A,income,Pretax Income,2023-03-31,2196537000.0
+AMBER,A,income,Pretax Income,2024-03-31,1913318000.0
+AMBER,A,income,Pretax Income,2025-03-31,3699637000.0
+AMBER,A,income,Pretax Income,2026-03-31,3364161000.0
+AMBER,A,income,Total Revenue,2023-03-31,67461944000.0
+AMBER,A,income,Total Revenue,2024-03-31,65307471000.0
+AMBER,A,income,Total Revenue,2025-03-31,96737519000.0
+AMBER,A,income,Total Revenue,2026-03-31,118497753000.0
+AMBER,Q,income,Basic EPS,2025-06-30,30.65
+AMBER,Q,income,Basic EPS,2025-12-31,-7.75
+AMBER,Q,income,Basic EPS,2026-03-31,38.04
+AMBER,Q,income,Basic EPS,2026-06-30,6.34
+AMBER,Q,income,Basic EPS,2026-09-30,-22.76
+AMBER,Q,income,Diluted EPS,2025-06-30,30.51
+AMBER,Q,income,Diluted EPS,2025-12-31,-7.75
+AMBER,Q,income,Diluted EPS,2026-03-31,37.89
+AMBER,Q,income,Diluted EPS,2026-06-30,6.33
+AMBER,Q,income,Diluted EPS,2026-09-30,-22.76
+AMBER,Q,income,EBITDA,2025-06-30,2794857000.0
+AMBER,Q,income,EBITDA,2025-12-31,1891266000.0
+AMBER,Q,income,EBITDA,2026-03-31,3753512000.0
+AMBER,Q,income,EBITDA,2026-06-30,2363946000.0
+AMBER,Q,income,EBITDA,2026-09-30,1209281000.0
+AMBER,Q,income,Interest Expense,2025-06-30,633622000.0
+AMBER,Q,income,Interest Expense,2025-12-31,793514000.0
+AMBER,Q,income,Interest Expense,2026-03-31,647463000.0
+AMBER,Q,income,Interest Expense,2026-06-30,847362000.0
+AMBER,Q,income,Interest Expense,2026-09-30,953206000.0
+AMBER,Q,income,Net Income,2025-06-30,1038681000.0
+AMBER,Q,income,Net Income,2025-12-31,-272420000.0
+AMBER,Q,income,Net Income,2026-03-31,1338780000.0
+AMBER,Q,income,Net Income,2026-06-30,222704000.0
+AMBER,Q,income,Net Income,2026-09-30,-801638000.0
+AMBER,Q,income,Net Income Common Stockholders,2025-06-30,1038681000.0
+AMBER,Q,income,Net Income Common Stockholders,2025-12-31,-272420000.0
+AMBER,Q,income,Net Income Common Stockholders,2026-03-31,1338780000.0
+AMBER,Q,income,Net Income Common Stockholders,2026-06-30,222704000.0
+AMBER,Q,income,Net Income Common Stockholders,2026-09-30,-801638000.0
+AMBER,Q,income,Operating Income,2025-09-30,210495000.0
+AMBER,Q,income,Operating Income,2025-12-31,1548746000.0
+AMBER,Q,income,Operating Income,2026-03-31,2589365000.0
+AMBER,Q,income,Operating Income,2026-06-30,2038421000.0
+AMBER,Q,income,Operating Income,2026-09-30,-142502000.0
+AMBER,Q,income,Pretax Income,2025-06-30,1543309000.0
+AMBER,Q,income,Pretax Income,2025-12-31,185475000.0
+AMBER,Q,income,Pretax Income,2026-03-31,2113068000.0
+AMBER,Q,income,Pretax Income,2026-06-30,434501000.0
+AMBER,Q,income,Pretax Income,2026-09-30,-871255000.0
+AMBER,Q,income,Total Revenue,2025-06-30,34491322000.0
+AMBER,Q,income,Total Revenue,2025-12-31,29428166000.0
+AMBER,Q,income,Total Revenue,2026-03-31,41475199000.0
+AMBER,Q,income,Total Revenue,2026-06-30,38877245000.0
+AMBER,Q,income,Total Revenue,2026-09-30,26271677000.0

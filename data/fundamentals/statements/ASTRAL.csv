@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+ASTRAL,A,balance,Cash And Cash Equivalents,2023-03-31,5295000000.0
+ASTRAL,A,balance,Cash And Cash Equivalents,2024-03-31,6094000000.0
+ASTRAL,A,balance,Cash And Cash Equivalents,2025-03-31,6081000000.0
+ASTRAL,A,balance,Cash And Cash Equivalents,2026-03-31,8904000000.0
+ASTRAL,A,balance,Ordinary Shares Number,2023-03-31,268611572.0
+ASTRAL,A,balance,Ordinary Shares Number,2024-03-31,268627009.0
+ASTRAL,A,balance,Ordinary Shares Number,2025-03-31,268634727.0
+ASTRAL,A,balance,Ordinary Shares Number,2026-03-31,268650163.0
+ASTRAL,A,balance,Stockholders Equity,2023-03-31,27112000000.0
+ASTRAL,A,balance,Stockholders Equity,2024-03-31,31881000000.0
+ASTRAL,A,balance,Stockholders Equity,2025-03-31,36170000000.0
+ASTRAL,A,balance,Stockholders Equity,2026-03-31,40579000000.0
+ASTRAL,A,balance,Total Assets,2023-03-31,43731000000.0
+ASTRAL,A,balance,Total Assets,2024-03-31,44979000000.0
+ASTRAL,A,balance,Total Assets,2025-03-31,50560000000.0
+ASTRAL,A,balance,Total Assets,2026-03-31,58119000000.0
+ASTRAL,A,balance,Total Debt,2023-03-31,871000000.0
+ASTRAL,A,balance,Total Debt,2024-03-31,1194000000.0
+ASTRAL,A,balance,Total Debt,2025-03-31,2332000000.0
+ASTRAL,A,balance,Total Debt,2026-03-31,2503000000.0
+ASTRAL,A,cashflow,Capital Expenditure,2023-03-31,-3110000000.0
+ASTRAL,A,cashflow,Capital Expenditure,2024-03-31,-5539000000.0
+ASTRAL,A,cashflow,Capital Expenditure,2025-03-31,-5448000000.0
+ASTRAL,A,cashflow,Capital Expenditure,2026-03-31,-4591000000.0
+ASTRAL,A,cashflow,Free Cash Flow,2023-03-31,2459000000.0
+ASTRAL,A,cashflow,Free Cash Flow,2024-03-31,2695000000.0
+ASTRAL,A,cashflow,Free Cash Flow,2025-03-31,848000000.0
+ASTRAL,A,cashflow,Free Cash Flow,2026-03-31,6579000000.0
+ASTRAL,A,cashflow,Operating Cash Flow,2023-03-31,5569000000.0
+ASTRAL,A,cashflow,Operating Cash Flow,2024-03-31,8234000000.0
+ASTRAL,A,cashflow,Operating Cash Flow,2025-03-31,6296000000.0
+ASTRAL,A,cashflow,Operating Cash Flow,2026-03-31,11170000000.0
+ASTRAL,A,income,Basic EPS,2023-03-31,17.0
+ASTRAL,A,income,Basic EPS,2024-03-31,20.33
+ASTRAL,A,income,Basic EPS,2025-03-31,19.5
+ASTRAL,A,income,Basic EPS,2026-03-31,19.97
+ASTRAL,A,income,Diluted EPS,2023-03-31,17.0
+ASTRAL,A,income,Diluted EPS,2024-03-31,20.33
+ASTRAL,A,income,Diluted EPS,2025-03-31,19.5
+ASTRAL,A,income,Diluted EPS,2026-03-31,19.97
+ASTRAL,A,income,EBITDA,2023-03-31,8074000000.0
+ASTRAL,A,income,EBITDA,2024-03-31,9532000000.0
+ASTRAL,A,income,EBITDA,2025-03-31,9742000000.0
+ASTRAL,A,income,EBITDA,2026-03-31,10490000000.0
+ASTRAL,A,income,Interest Expense,2023-03-31,141000000.0
+ASTRAL,A,income,Interest Expense,2024-03-31,220000000.0
+ASTRAL,A,income,Interest Expense,2025-03-31,283000000.0
+ASTRAL,A,income,Interest Expense,2026-03-31,268000000.0
+ASTRAL,A,income,Net Income,2023-03-31,4566000000.0
+ASTRAL,A,income,Net Income,2024-03-31,5461000000.0
+ASTRAL,A,income,Net Income,2025-03-31,5238000000.0
+ASTRAL,A,income,Net Income,2026-03-31,5366000000.0
+ASTRAL,A,income,Net Income Common Stockholders,2023-03-31,4566000000.0
+ASTRAL,A,income,Net Income Common Stockholders,2024-03-31,5461000000.0
+ASTRAL,A,income,Net Income Common Stockholders,2025-03-31,5238000000.0
+ASTRAL,A,income,Net Income Common Stockholders,2026-03-31,5366000000.0
+ASTRAL,A,income,Operating Income,2023-03-31,6335000000.0
+ASTRAL,A,income,Operating Income,2024-03-31,7271000000.0
+ASTRAL,A,income,Operating Income,2025-03-31,7025000000.0
+ASTRAL,A,income,Operating Income,2026-03-31,7703000000.0
+ASTRAL,A,income,Pretax Income,2023-03-31,6152000000.0
+ASTRAL,A,income,Pretax Income,2024-03-31,7336000000.0
+ASTRAL,A,income,Pretax Income,2025-03-31,7025000000.0
+ASTRAL,A,income,Pretax Income,2026-03-31,7306000000.0
+ASTRAL,A,income,Total Revenue,2023-03-31,51451000000.0
+ASTRAL,A,income,Total Revenue,2024-03-31,56288000000.0
+ASTRAL,A,income,Total Revenue,2025-03-31,58194000000.0
+ASTRAL,A,income,Total Revenue,2026-03-31,65536000000.0
+ASTRAL,Q,income,Basic EPS,2025-06-30,3.02
+ASTRAL,Q,income,Basic EPS,2025-12-31,4.01
+ASTRAL,Q,income,Basic EPS,2026-03-31,7.93
+ASTRAL,Q,income,Basic EPS,2026-06-30,4.47
+ASTRAL,Q,income,Basic EPS,2026-09-30,4.73
+ASTRAL,Q,income,Diluted EPS,2025-06-30,3.02
+ASTRAL,Q,income,Diluted EPS,2025-12-31,4.01
+ASTRAL,Q,income,Diluted EPS,2026-03-31,7.93
+ASTRAL,Q,income,Diluted EPS,2026-06-30,4.47
+ASTRAL,Q,income,Diluted EPS,2026-09-30,4.73
+ASTRAL,Q,income,EBITDA,2025-06-30,1896000000.0
+ASTRAL,Q,income,EBITDA,2025-12-31,2264000000.0
+ASTRAL,Q,income,EBITDA,2026-03-31,3780000000.0
+ASTRAL,Q,income,EBITDA,2026-06-30,2465000000.0
+ASTRAL,Q,income,EBITDA,2026-09-30,2596000000.0
+ASTRAL,Q,income,Interest Expense,2025-06-30,79000000.0
+ASTRAL,Q,income,Interest Expense,2025-12-31,87000000.0
+ASTRAL,Q,income,Interest Expense,2026-03-31,74000000.0
+ASTRAL,Q,income,Interest Expense,2026-06-30,83000000.0
+ASTRAL,Q,income,Interest Expense,2026-09-30,90000000.0
+ASTRAL,Q,income,Net Income,2025-06-30,811000000.0
+ASTRAL,Q,income,Net Income,2025-12-31,1077000000.0
+ASTRAL,Q,income,Net Income,2026-03-31,2130000000.0
+ASTRAL,Q,income,Net Income,2026-06-30,1200000000.0
+ASTRAL,Q,income,Net Income,2026-09-30,1272000000.0
+ASTRAL,Q,income,Net Income Common Stockholders,2025-06-30,811000000.0
+ASTRAL,Q,income,Net Income Common Stockholders,2025-12-31,1077000000.0
+ASTRAL,Q,income,Net Income Common Stockholders,2026-03-31,2130000000.0
+ASTRAL,Q,income,Net Income Common Stockholders,2026-06-30,1200000000.0
+ASTRAL,Q,income,Net Income Common Stockholders,2026-09-30,1272000000.0
+ASTRAL,Q,income,Operating Income,2025-06-30,1130000000.0
+ASTRAL,Q,income,Operating Income,2025-12-31,1639000000.0
+ASTRAL,Q,income,Operating Income,2026-03-31,3089000000.0
+ASTRAL,Q,income,Operating Income,2026-06-30,1558000000.0
+ASTRAL,Q,income,Operating Income,2026-09-30,1818000000.0
+ASTRAL,Q,income,Pretax Income,2025-06-30,1098000000.0
+ASTRAL,Q,income,Pretax Income,2025-12-31,1443000000.0
+ASTRAL,Q,income,Pretax Income,2026-03-31,2966000000.0
+ASTRAL,Q,income,Pretax Income,2026-06-30,1628000000.0
+ASTRAL,Q,income,Pretax Income,2026-09-30,1719000000.0
+ASTRAL,Q,income,Total Revenue,2025-06-30,13612000000.0
+ASTRAL,Q,income,Total Revenue,2025-12-31,15415000000.0
+ASTRAL,Q,income,Total Revenue,2026-03-31,20885000000.0
+ASTRAL,Q,income,Total Revenue,2026-06-30,15780000000.0
+ASTRAL,Q,income,Total Revenue,2026-09-30,19883000000.0

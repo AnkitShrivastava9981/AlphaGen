@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+AZAD,A,balance,Cash And Cash Equivalents,2023-03-31,194060000.0
+AZAD,A,balance,Cash And Cash Equivalents,2024-03-31,281860000.0
+AZAD,A,balance,Cash And Cash Equivalents,2025-03-31,408330000.0
+AZAD,A,balance,Cash And Cash Equivalents,2026-03-31,245920000.0
+AZAD,A,balance,Net Debt,2023-03-31,2811950000.0
+AZAD,A,balance,Net Debt,2024-03-31,89710000.0
+AZAD,A,balance,Net Debt,2025-03-31,2027490000.0
+AZAD,A,balance,Net Debt,2026-03-31,4320470000.0
+AZAD,A,balance,Ordinary Shares Number,2023-03-31,59112993.0
+AZAD,A,balance,Ordinary Shares Number,2024-03-31,59112993.0
+AZAD,A,balance,Ordinary Shares Number,2025-03-31,64581743.0
+AZAD,A,balance,Ordinary Shares Number,2026-03-31,64581743.0
+AZAD,A,balance,Stockholders Equity,2023-03-31,2039880000.0
+AZAD,A,balance,Stockholders Equity,2024-03-31,6450630000.0
+AZAD,A,balance,Stockholders Equity,2025-03-31,13937900000.0
+AZAD,A,balance,Stockholders Equity,2026-03-31,15288980000.0
+AZAD,A,balance,Total Assets,2023-03-31,5892080000.0
+AZAD,A,balance,Total Assets,2024-03-31,7970790000.0
+AZAD,A,balance,Total Assets,2025-03-31,18606980000.0
+AZAD,A,balance,Total Assets,2026-03-31,22000420000.0
+AZAD,A,balance,Total Debt,2023-03-31,3006010000.0
+AZAD,A,balance,Total Debt,2024-03-31,394330000.0
+AZAD,A,balance,Total Debt,2025-03-31,2633650000.0
+AZAD,A,balance,Total Debt,2026-03-31,4743230000.0
+AZAD,A,cashflow,Capital Expenditure,2023-03-31,-856220000.0
+AZAD,A,cashflow,Capital Expenditure,2024-03-31,-753400000.0
+AZAD,A,cashflow,Capital Expenditure,2025-03-31,-2932520000.0
+AZAD,A,cashflow,Capital Expenditure,2026-03-31,-5724800000.0
+AZAD,A,cashflow,Free Cash Flow,2023-03-31,-958310000.0
+AZAD,A,cashflow,Free Cash Flow,2024-03-31,-822920000.0
+AZAD,A,cashflow,Free Cash Flow,2025-03-31,-2395850000.0
+AZAD,A,cashflow,Free Cash Flow,2026-03-31,-6914460000.0
+AZAD,A,cashflow,Operating Cash Flow,2023-03-31,-102090000.0
+AZAD,A,cashflow,Operating Cash Flow,2024-03-31,-69520000.0
+AZAD,A,cashflow,Operating Cash Flow,2025-03-31,536670000.0
+AZAD,A,cashflow,Operating Cash Flow,2026-03-31,-1189660000.0
+AZAD,A,income,Basic EPS,2023-03-31,1.433357
+AZAD,A,income,Basic EPS,2024-03-31,11.2
+AZAD,A,income,Basic EPS,2025-03-31,14.66
+AZAD,A,income,Basic EPS,2026-03-31,20.57
+AZAD,A,income,Diluted EPS,2023-03-31,1.433357
+AZAD,A,income,Diluted EPS,2024-03-31,11.2
+AZAD,A,income,Diluted EPS,2025-03-31,14.66
+AZAD,A,income,Diluted EPS,2026-03-31,20.57
+AZAD,A,income,EBITDA,2023-03-31,564110000.0
+AZAD,A,income,EBITDA,2024-03-31,1340570000.0
+AZAD,A,income,EBITDA,2025-03-31,1644380000.0
+AZAD,A,income,EBITDA,2026-03-31,2621570000.0
+AZAD,A,income,Interest Expense,2023-03-31,266690000.0
+AZAD,A,income,Interest Expense,2024-03-31,327410000.0
+AZAD,A,income,Interest Expense,2025-03-31,109270000.0
+AZAD,A,income,Interest Expense,2026-03-31,220090000.0
+AZAD,A,income,Net Income,2023-03-31,84730000.0
+AZAD,A,income,Net Income,2024-03-31,585800000.0
+AZAD,A,income,Net Income,2025-03-31,873180000.0
+AZAD,A,income,Net Income,2026-03-31,1328770000.0
+AZAD,A,income,Net Income Common Stockholders,2023-03-31,84730000.0
+AZAD,A,income,Net Income Common Stockholders,2024-03-31,585800000.0
+AZAD,A,income,Net Income Common Stockholders,2025-03-31,873180000.0
+AZAD,A,income,Net Income Common Stockholders,2026-03-31,1328770000.0
+AZAD,A,income,Operating Income,2023-03-31,588740000.0
+AZAD,A,income,Operating Income,2024-03-31,960580000.0
+AZAD,A,income,Operating Income,2025-03-31,1318260000.0
+AZAD,A,income,Operating Income,2026-03-31,1731290000.0
+AZAD,A,income,Pretax Income,2023-03-31,131590000.0
+AZAD,A,income,Pretax Income,2024-03-31,807860000.0
+AZAD,A,income,Pretax Income,2025-03-31,1240260000.0
+AZAD,A,income,Pretax Income,2026-03-31,1873060000.0
+AZAD,A,income,Total Revenue,2023-03-31,2416150000.0
+AZAD,A,income,Total Revenue,2024-03-31,3281220000.0
+AZAD,A,income,Total Revenue,2025-03-31,4437940000.0
+AZAD,A,income,Total Revenue,2026-03-31,5945130000.0
+AZAD,Q,income,Basic EPS,2025-06-30,4.56
+AZAD,Q,income,Basic EPS,2025-12-31,5.34
+AZAD,Q,income,Basic EPS,2026-03-31,5.57
+AZAD,Q,income,Basic EPS,2026-06-30,5.53
+AZAD,Q,income,Basic EPS,2026-09-30,4.79
+AZAD,Q,income,Diluted EPS,2025-06-30,4.56
+AZAD,Q,income,Diluted EPS,2025-12-31,5.34
+AZAD,Q,income,Diluted EPS,2026-03-31,5.57
+AZAD,Q,income,Diluted EPS,2026-06-30,5.53
+AZAD,Q,income,Diluted EPS,2026-09-30,4.79
+AZAD,Q,income,EBITDA,2025-06-30,579190000.0
+AZAD,Q,income,EBITDA,2025-12-31,703530000.0
+AZAD,Q,income,EBITDA,2026-03-31,779030000.0
+AZAD,Q,income,EBITDA,2026-06-30,679110000.0
+AZAD,Q,income,EBITDA,2026-09-30,764430000.0
+AZAD,Q,income,Interest Expense,2025-06-30,59110000.0
+AZAD,Q,income,Interest Expense,2025-12-31,83370000.0
+AZAD,Q,income,Interest Expense,2026-03-31,98630000.0
+AZAD,Q,income,Interest Expense,2026-06-30,103230000.0
+AZAD,Q,income,Interest Expense,2026-09-30,124430000.0
+AZAD,Q,income,Net Income,2025-06-30,297170000.0
+AZAD,Q,income,Net Income,2025-12-31,345130000.0
+AZAD,Q,income,Net Income,2026-03-31,359850000.0
+AZAD,Q,income,Net Income,2026-06-30,357450000.0
+AZAD,Q,income,Net Income,2026-09-30,308750000.0
+AZAD,Q,income,Net Income Common Stockholders,2025-06-30,297170000.0
+AZAD,Q,income,Net Income Common Stockholders,2025-12-31,345130000.0
+AZAD,Q,income,Net Income Common Stockholders,2026-03-31,359850000.0
+AZAD,Q,income,Net Income Common Stockholders,2026-06-30,357450000.0
+AZAD,Q,income,Net Income Common Stockholders,2026-09-30,308750000.0
+AZAD,Q,income,Operating Income,2025-06-30,390880000.0
+AZAD,Q,income,Operating Income,2025-12-31,479760000.0
+AZAD,Q,income,Operating Income,2026-03-31,445170000.0
+AZAD,Q,income,Operating Income,2026-06-30,457390000.0
+AZAD,Q,income,Operating Income,2026-09-30,497650000.0
+AZAD,Q,income,Pretax Income,2025-06-30,418670000.0
+AZAD,Q,income,Pretax Income,2025-12-31,477760000.0
+AZAD,Q,income,Pretax Income,2026-03-31,512350000.0
+AZAD,Q,income,Pretax Income,2026-06-30,389650000.0
+AZAD,Q,income,Pretax Income,2026-09-30,414920000.0
+AZAD,Q,income,Total Revenue,2025-06-30,1370920000.0
+AZAD,Q,income,Total Revenue,2025-12-31,1587190000.0
+AZAD,Q,income,Total Revenue,2026-03-31,1615390000.0
+AZAD,Q,income,Total Revenue,2026-06-30,1725990000.0
+AZAD,Q,income,Total Revenue,2026-09-30,1909350000.0

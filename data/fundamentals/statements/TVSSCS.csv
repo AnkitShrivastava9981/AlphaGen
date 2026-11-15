@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+TVSSCS,A,balance,Cash And Cash Equivalents,2023-03-31,10857900000.0
+TVSSCS,A,balance,Cash And Cash Equivalents,2024-03-31,5093600000.0
+TVSSCS,A,balance,Cash And Cash Equivalents,2025-03-31,5448500000.0
+TVSSCS,A,balance,Cash And Cash Equivalents,2026-03-31,6128300000.0
+TVSSCS,A,balance,Net Debt,2023-03-31,9038200000.0
+TVSSCS,A,balance,Net Debt,2024-03-31,2845800000.0
+TVSSCS,A,balance,Net Debt,2025-03-31,3145900000.0
+TVSSCS,A,balance,Net Debt,2026-03-31,4974800000.0
+TVSSCS,A,balance,Ordinary Shares Number,2023-03-31,437410012.0
+TVSSCS,A,balance,Ordinary Shares Number,2024-03-31,440208910.0
+TVSSCS,A,balance,Ordinary Shares Number,2025-03-31,441169497.0
+TVSSCS,A,balance,Ordinary Shares Number,2026-03-31,441180027.0
+TVSSCS,A,balance,Stockholders Equity,2023-03-31,7235600000.0
+TVSSCS,A,balance,Stockholders Equity,2024-03-31,18150300000.0
+TVSSCS,A,balance,Stockholders Equity,2025-03-31,18017700000.0
+TVSSCS,A,balance,Stockholders Equity,2026-03-31,20335000000.0
+TVSSCS,A,balance,Total Assets,2023-03-31,62109000000.0
+TVSSCS,A,balance,Total Assets,2024-03-31,58293600000.0
+TVSSCS,A,balance,Total Assets,2025-03-31,57578000000.0
+TVSSCS,A,balance,Total Assets,2026-03-31,71999100000.0
+TVSSCS,A,balance,Total Debt,2023-03-31,33239800000.0
+TVSSCS,A,balance,Total Debt,2024-03-31,21990200000.0
+TVSSCS,A,balance,Total Debt,2025-03-31,20881100000.0
+TVSSCS,A,balance,Total Debt,2026-03-31,27553600000.0
+TVSSCS,A,cashflow,Capital Expenditure,2023-03-31,-1454300000.0
+TVSSCS,A,cashflow,Capital Expenditure,2024-03-31,-1235500000.0
+TVSSCS,A,cashflow,Capital Expenditure,2025-03-31,-1751400000.0
+TVSSCS,A,cashflow,Capital Expenditure,2026-03-31,-2781700000.0
+TVSSCS,A,cashflow,Free Cash Flow,2023-03-31,5882300000.0
+TVSSCS,A,cashflow,Free Cash Flow,2024-03-31,40300000.0
+TVSSCS,A,cashflow,Free Cash Flow,2025-03-31,4968300000.0
+TVSSCS,A,cashflow,Free Cash Flow,2026-03-31,4681700000.0
+TVSSCS,A,cashflow,Operating Cash Flow,2023-03-31,7336600000.0
+TVSSCS,A,cashflow,Operating Cash Flow,2024-03-31,1275800000.0
+TVSSCS,A,cashflow,Operating Cash Flow,2025-03-31,6719700000.0
+TVSSCS,A,cashflow,Operating Cash Flow,2026-03-31,7463400000.0
+TVSSCS,A,income,Basic EPS,2023-03-31,0.91013
+TVSSCS,A,income,Basic EPS,2024-03-31,-2.4
+TVSSCS,A,income,Basic EPS,2025-03-31,-0.31
+TVSSCS,A,income,Basic EPS,2026-03-31,2.59
+TVSSCS,A,income,Diluted EPS,2023-03-31,0.91013
+TVSSCS,A,income,Diluted EPS,2024-03-31,-2.4
+TVSSCS,A,income,Diluted EPS,2025-03-31,-0.31
+TVSSCS,A,income,Diluted EPS,2026-03-31,2.59
+TVSSCS,A,income,EBITDA,2023-03-31,7179500000.0
+TVSSCS,A,income,EBITDA,2024-03-31,6997300000.0
+TVSSCS,A,income,EBITDA,2025-03-31,7202500000.0
+TVSSCS,A,income,EBITDA,2026-03-31,8874800000.0
+TVSSCS,A,income,Interest Expense,2023-03-31,1704500000.0
+TVSSCS,A,income,Interest Expense,2024-03-31,1790800000.0
+TVSSCS,A,income,Interest Expense,2025-03-31,1473300000.0
+TVSSCS,A,income,Interest Expense,2026-03-31,1485800000.0
+TVSSCS,A,income,Net Income,2023-03-31,398100000.0
+TVSSCS,A,income,Net Income,2024-03-31,-1012100000.0
+TVSSCS,A,income,Net Income,2025-03-31,-135900000.0
+TVSSCS,A,income,Net Income,2026-03-31,1142800000.0
+TVSSCS,A,income,Net Income Common Stockholders,2023-03-31,398100000.0
+TVSSCS,A,income,Net Income Common Stockholders,2024-03-31,-1012100000.0
+TVSSCS,A,income,Net Income Common Stockholders,2025-03-31,-135900000.0
+TVSSCS,A,income,Net Income Common Stockholders,2026-03-31,1142800000.0
+TVSSCS,A,income,Operating Income,2023-03-31,2395600000.0
+TVSSCS,A,income,Operating Income,2024-03-31,1860900000.0
+TVSSCS,A,income,Operating Income,2025-03-31,1783600000.0
+TVSSCS,A,income,Operating Income,2026-03-31,2992900000.0
+TVSSCS,A,income,Pretax Income,2023-03-31,459500000.0
+TVSSCS,A,income,Pretax Income,2024-03-31,-360700000.0
+TVSSCS,A,income,Pretax Income,2025-03-31,293600000.0
+TVSSCS,A,income,Pretax Income,2026-03-31,1685000000.0
+TVSSCS,A,income,Total Revenue,2023-03-31,99730000000.0
+TVSSCS,A,income,Total Revenue,2024-03-31,91993100000.0
+TVSSCS,A,income,Total Revenue,2025-03-31,99924800000.0
+TVSSCS,A,income,Total Revenue,2026-03-31,110004600000.0
+TVSSCS,Q,income,Basic EPS,2025-06-30,1.6
+TVSSCS,Q,income,Basic EPS,2025-09-30,0.35
+TVSSCS,Q,income,Basic EPS,2025-12-31,0.24
+TVSSCS,Q,income,Basic EPS,2026-03-31,0.4
+TVSSCS,Q,income,Basic EPS,2026-06-30,0.47
+TVSSCS,Q,income,Diluted EPS,2025-06-30,1.59
+TVSSCS,Q,income,Diluted EPS,2025-09-30,0.35
+TVSSCS,Q,income,Diluted EPS,2025-12-31,0.24
+TVSSCS,Q,income,Diluted EPS,2026-03-31,0.4
+TVSSCS,Q,income,Diluted EPS,2026-06-30,0.47
+TVSSCS,Q,income,EBITDA,2025-06-30,1413800000.0
+TVSSCS,Q,income,EBITDA,2025-09-30,567200000.0
+TVSSCS,Q,income,EBITDA,2025-12-31,576600000.0
+TVSSCS,Q,income,EBITDA,2026-03-31,706300000.0
+TVSSCS,Q,income,EBITDA,2026-06-30,773600000.0
+TVSSCS,Q,income,Interest Expense,2025-06-30,379100000.0
+TVSSCS,Q,income,Interest Expense,2025-09-30,334000000.0
+TVSSCS,Q,income,Interest Expense,2025-12-31,416600000.0
+TVSSCS,Q,income,Interest Expense,2026-03-31,449200000.0
+TVSSCS,Q,income,Interest Expense,2026-06-30,452300000.0
+TVSSCS,Q,income,Net Income,2025-06-30,703700000.0
+TVSSCS,Q,income,Net Income,2025-09-30,156400000.0
+TVSSCS,Q,income,Net Income,2025-12-31,107200000.0
+TVSSCS,Q,income,Net Income,2026-03-31,175500000.0
+TVSSCS,Q,income,Net Income,2026-06-30,208500000.0
+TVSSCS,Q,income,Net Income Common Stockholders,2025-06-30,703700000.0
+TVSSCS,Q,income,Net Income Common Stockholders,2025-09-30,156400000.0
+TVSSCS,Q,income,Net Income Common Stockholders,2025-12-31,107200000.0
+TVSSCS,Q,income,Net Income Common Stockholders,2026-03-31,175500000.0
+TVSSCS,Q,income,Net Income Common Stockholders,2026-06-30,208500000.0
+TVSSCS,Q,income,Operating Income,2025-06-30,564500000.0
+TVSSCS,Q,income,Operating Income,2025-09-30,559700000.0
+TVSSCS,Q,income,Operating Income,2025-12-31,585900000.0
+TVSSCS,Q,income,Operating Income,2026-03-31,831600000.0
+TVSSCS,Q,income,Operating Income,2026-06-30,773100000.0
+TVSSCS,Q,income,Pretax Income,2025-06-30,1034700000.0
+TVSSCS,Q,income,Pretax Income,2025-09-30,233200000.0
+TVSSCS,Q,income,Pretax Income,2025-12-31,160000000.0
+TVSSCS,Q,income,Pretax Income,2026-03-31,257100000.0
+TVSSCS,Q,income,Pretax Income,2026-06-30,321300000.0
+TVSSCS,Q,income,Total Revenue,2025-06-30,25923100000.0
+TVSSCS,Q,income,Total Revenue,2025-09-30,26626300000.0
+TVSSCS,Q,income,Total Revenue,2025-12-31,27158100000.0
+TVSSCS,Q,income,Total Revenue,2026-03-31,30322200000.0
+TVSSCS,Q,income,Total Revenue,2026-06-30,33352200000.0

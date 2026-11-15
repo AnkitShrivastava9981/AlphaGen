@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+COHANCE,A,balance,Cash And Cash Equivalents,2023-03-31,648027000.0
+COHANCE,A,balance,Cash And Cash Equivalents,2024-03-31,472300000.0
+COHANCE,A,balance,Cash And Cash Equivalents,2025-03-31,966500000.0
+COHANCE,A,balance,Cash And Cash Equivalents,2026-03-31,491400000.0
+COHANCE,A,balance,Net Debt,2022-03-31,510096000.0
+COHANCE,A,balance,Net Debt,2023-03-31,43593000.0
+COHANCE,A,balance,Net Debt,2025-03-31,1617100000.0
+COHANCE,A,balance,Net Debt,2026-03-31,1205300000.0
+COHANCE,A,balance,Ordinary Shares Number,2023-03-31,254564956.0
+COHANCE,A,balance,Ordinary Shares Number,2024-03-31,254564956.0
+COHANCE,A,balance,Ordinary Shares Number,2025-03-31,254564956.0
+COHANCE,A,balance,Ordinary Shares Number,2026-03-31,382567140.0
+COHANCE,A,balance,Stockholders Equity,2023-03-31,17351843000.0
+COHANCE,A,balance,Stockholders Equity,2024-03-31,20506700000.0
+COHANCE,A,balance,Stockholders Equity,2025-03-31,36488200000.0
+COHANCE,A,balance,Stockholders Equity,2026-03-31,39112910000.0
+COHANCE,A,balance,Total Assets,2023-03-31,19657438000.0
+COHANCE,A,balance,Total Assets,2024-03-31,22549100000.0
+COHANCE,A,balance,Total Assets,2025-03-31,54809600000.0
+COHANCE,A,balance,Total Assets,2026-03-31,57296400000.0
+COHANCE,A,balance,Total Debt,2023-03-31,703408000.0
+COHANCE,A,balance,Total Debt,2024-03-31,650100000.0
+COHANCE,A,balance,Total Debt,2025-03-31,4859300000.0
+COHANCE,A,balance,Total Debt,2026-03-31,4004900000.0
+COHANCE,A,cashflow,Capital Expenditure,2023-03-31,-2859122000.0
+COHANCE,A,cashflow,Capital Expenditure,2024-03-31,-518800000.0
+COHANCE,A,cashflow,Capital Expenditure,2025-03-31,-3168000000.0
+COHANCE,A,cashflow,Capital Expenditure,2026-03-31,-2198800000.0
+COHANCE,A,cashflow,Free Cash Flow,2023-03-31,1712836000.0
+COHANCE,A,cashflow,Free Cash Flow,2024-03-31,3328900000.0
+COHANCE,A,cashflow,Free Cash Flow,2025-03-31,3565500000.0
+COHANCE,A,cashflow,Free Cash Flow,2026-03-31,1484400000.0
+COHANCE,A,cashflow,Operating Cash Flow,2023-03-31,4571958000.0
+COHANCE,A,cashflow,Operating Cash Flow,2024-03-31,3847700000.0
+COHANCE,A,cashflow,Operating Cash Flow,2025-03-31,6733500000.0
+COHANCE,A,cashflow,Operating Cash Flow,2026-03-31,3683200000.0
+COHANCE,A,income,Basic EPS,2023-03-31,16.16
+COHANCE,A,income,Basic EPS,2024-03-31,11.8
+COHANCE,A,income,Basic EPS,2025-03-31,12.79
+COHANCE,A,income,Basic EPS,2026-03-31,4.69
+COHANCE,A,income,Diluted EPS,2023-03-31,16.16
+COHANCE,A,income,Diluted EPS,2024-03-31,11.8
+COHANCE,A,income,Diluted EPS,2025-03-31,12.68
+COHANCE,A,income,Diluted EPS,2026-03-31,4.68
+COHANCE,A,income,EBITDA,2023-03-31,6205271000.0
+COHANCE,A,income,EBITDA,2024-03-31,4672200000.0
+COHANCE,A,income,EBITDA,2025-03-31,8474200000.0
+COHANCE,A,income,EBITDA,2026-03-31,4290100000.0
+COHANCE,A,income,Interest Expense,2023-03-31,128109000.0
+COHANCE,A,income,Interest Expense,2024-03-31,69500000.0
+COHANCE,A,income,Interest Expense,2025-03-31,379900000.0
+COHANCE,A,income,Interest Expense,2026-03-31,346400000.0
+COHANCE,A,income,Net Income,2023-03-31,4112900000.0
+COHANCE,A,income,Net Income,2024-03-31,3002800000.0
+COHANCE,A,income,Net Income,2025-03-31,4873400000.0
+COHANCE,A,income,Net Income,2026-03-31,1792300000.0
+COHANCE,A,income,Net Income Common Stockholders,2023-03-31,4112900000.0
+COHANCE,A,income,Net Income Common Stockholders,2024-03-31,3002800000.0
+COHANCE,A,income,Net Income Common Stockholders,2025-03-31,4873400000.0
+COHANCE,A,income,Net Income Common Stockholders,2026-03-31,1792300000.0
+COHANCE,A,income,Operating Income,2023-03-31,5263003000.0
+COHANCE,A,income,Operating Income,2024-03-31,3544000000.0
+COHANCE,A,income,Operating Income,2025-03-31,6635500000.0
+COHANCE,A,income,Operating Income,2026-03-31,2473500000.0
+COHANCE,A,income,Pretax Income,2023-03-31,5597298000.0
+COHANCE,A,income,Pretax Income,2024-03-31,4056700000.0
+COHANCE,A,income,Pretax Income,2025-03-31,6426300000.0
+COHANCE,A,income,Pretax Income,2026-03-31,2070400000.0
+COHANCE,A,income,Total Revenue,2023-03-31,13311101000.0
+COHANCE,A,income,Total Revenue,2024-03-31,10340600000.0
+COHANCE,A,income,Total Revenue,2025-03-31,25262200000.0
+COHANCE,A,income,Total Revenue,2026-03-31,22038100000.0
+COHANCE,Q,income,Basic EPS,2025-09-30,1.94
+COHANCE,Q,income,Basic EPS,2025-12-31,0.96
+COHANCE,Q,income,Basic EPS,2026-03-31,0.51
+COHANCE,Q,income,Basic EPS,2026-06-30,-0.63
+COHANCE,Q,income,Basic EPS,2026-09-30,0.4
+COHANCE,Q,income,Diluted EPS,2025-09-30,1.93
+COHANCE,Q,income,Diluted EPS,2025-12-31,0.96
+COHANCE,Q,income,Diluted EPS,2026-03-31,0.5
+COHANCE,Q,income,Diluted EPS,2026-06-30,-0.65
+COHANCE,Q,income,Diluted EPS,2026-09-30,0.38
+COHANCE,Q,income,EBITDA,2025-09-30,1365500000.0
+COHANCE,Q,income,EBITDA,2025-12-31,966500000.0
+COHANCE,Q,income,EBITDA,2026-03-31,803300000.0
+COHANCE,Q,income,EBITDA,2026-06-30,134100000.0
+COHANCE,Q,income,EBITDA,2026-09-30,477900000.0
+COHANCE,Q,income,Interest Expense,2025-09-30,87600000.0
+COHANCE,Q,income,Interest Expense,2025-12-31,91100000.0
+COHANCE,Q,income,Interest Expense,2026-03-31,91900000.0
+COHANCE,Q,income,Interest Expense,2026-06-30,67400000.0
+COHANCE,Q,income,Interest Expense,2026-09-30,83700000.0
+COHANCE,Q,income,Net Income,2025-09-30,740800000.0
+COHANCE,Q,income,Net Income,2025-12-31,367200000.0
+COHANCE,Q,income,Net Income,2026-03-31,195500000.0
+COHANCE,Q,income,Net Income,2026-06-30,-241200000.0
+COHANCE,Q,income,Net Income,2026-09-30,152200000.0
+COHANCE,Q,income,Net Income Common Stockholders,2025-09-30,740800000.0
+COHANCE,Q,income,Net Income Common Stockholders,2025-12-31,367200000.0
+COHANCE,Q,income,Net Income Common Stockholders,2026-03-31,195500000.0
+COHANCE,Q,income,Net Income Common Stockholders,2026-06-30,-241200000.0
+COHANCE,Q,income,Net Income Common Stockholders,2026-09-30,152200000.0
+COHANCE,Q,income,Operating Income,2025-09-30,769300000.0
+COHANCE,Q,income,Operating Income,2025-12-31,484100000.0
+COHANCE,Q,income,Operating Income,2026-03-31,474500000.0
+COHANCE,Q,income,Operating Income,2026-06-30,-483800000.0
+COHANCE,Q,income,Operating Income,2026-09-30,-147900000.0
+COHANCE,Q,income,Pretax Income,2025-09-30,837700000.0
+COHANCE,Q,income,Pretax Income,2025-12-31,406000000.0
+COHANCE,Q,income,Pretax Income,2026-03-31,199100000.0
+COHANCE,Q,income,Pretax Income,2026-06-30,-428700000.0
+COHANCE,Q,income,Pretax Income,2026-09-30,-107500000.0
+COHANCE,Q,income,Total Revenue,2025-09-30,5555700000.0
+COHANCE,Q,income,Total Revenue,2025-12-31,5445500000.0
+COHANCE,Q,income,Total Revenue,2026-03-31,6191200000.0
+COHANCE,Q,income,Total Revenue,2026-06-30,4222600000.0
+COHANCE,Q,income,Total Revenue,2026-09-30,4766500000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+AMAGI,A,balance,Cash And Cash Equivalents,2023-03-31,7409360000.0
+AMAGI,A,balance,Cash And Cash Equivalents,2024-03-31,1118930000.0
+AMAGI,A,balance,Cash And Cash Equivalents,2025-03-31,1136710000.0
+AMAGI,A,balance,Cash And Cash Equivalents,2026-03-31,2345070000.0
+AMAGI,A,balance,Ordinary Shares Number,2023-03-31,216338944.0
+AMAGI,A,balance,Ordinary Shares Number,2024-03-31,216338944.0
+AMAGI,A,balance,Ordinary Shares Number,2025-03-31,216338944.0
+AMAGI,A,balance,Ordinary Shares Number,2026-03-31,216338944.0
+AMAGI,A,balance,Stockholders Equity,2023-03-31,6444870000.0
+AMAGI,A,balance,Stockholders Equity,2024-03-31,4968030000.0
+AMAGI,A,balance,Stockholders Equity,2025-03-31,5094520000.0
+AMAGI,A,balance,Stockholders Equity,2026-03-31,17568090000.0
+AMAGI,A,balance,Total Assets,2023-03-31,14059610000.0
+AMAGI,A,balance,Total Assets,2024-03-31,13080840000.0
+AMAGI,A,balance,Total Assets,2025-03-31,14249990000.0
+AMAGI,A,balance,Total Assets,2026-03-31,23532550000.0
+AMAGI,A,balance,Total Debt,2023-03-31,241340000.0
+AMAGI,A,balance,Total Debt,2024-03-31,314770000.0
+AMAGI,A,balance,Total Debt,2025-03-31,361940000.0
+AMAGI,A,balance,Total Debt,2026-03-31,309750000.0
+AMAGI,A,cashflow,Capital Expenditure,2023-03-31,-214300000.0
+AMAGI,A,cashflow,Capital Expenditure,2024-03-31,-80160000.0
+AMAGI,A,cashflow,Capital Expenditure,2025-03-31,-41560000.0
+AMAGI,A,cashflow,Capital Expenditure,2026-03-31,-232150000.0
+AMAGI,A,cashflow,Free Cash Flow,2023-03-31,-2666660000.0
+AMAGI,A,cashflow,Free Cash Flow,2024-03-31,-1910060000.0
+AMAGI,A,cashflow,Free Cash Flow,2025-03-31,294180000.0
+AMAGI,A,cashflow,Free Cash Flow,2026-03-31,-324540000.0
+AMAGI,A,cashflow,Operating Cash Flow,2023-03-31,-2452360000.0
+AMAGI,A,cashflow,Operating Cash Flow,2024-03-31,-1829900000.0
+AMAGI,A,cashflow,Operating Cash Flow,2025-03-31,335740000.0
+AMAGI,A,cashflow,Operating Cash Flow,2026-03-31,-92390000.0
+AMAGI,A,income,Basic EPS,2023-03-31,-14.850216
+AMAGI,A,income,Basic EPS,2024-03-31,-11.324868
+AMAGI,A,income,Basic EPS,2025-03-31,-3.17622
+AMAGI,A,income,Basic EPS,2026-03-31,3.44
+AMAGI,A,income,Diluted EPS,2023-03-31,-14.850216
+AMAGI,A,income,Diluted EPS,2024-03-31,-11.324868
+AMAGI,A,income,Diluted EPS,2025-03-31,-3.17622
+AMAGI,A,income,Diluted EPS,2026-03-31,3.43
+AMAGI,A,income,EBITDA,2023-03-31,-3032990000.0
+AMAGI,A,income,EBITDA,2024-03-31,-2161500000.0
+AMAGI,A,income,EBITDA,2025-03-31,-312200000.0
+AMAGI,A,income,EBITDA,2026-03-31,1126310000.0
+AMAGI,A,income,Interest Expense,2023-03-31,26670000.0
+AMAGI,A,income,Interest Expense,2024-03-31,43970000.0
+AMAGI,A,income,Interest Expense,2025-03-31,34000000.0
+AMAGI,A,income,Interest Expense,2026-03-31,37790000.0
+AMAGI,A,income,Net Income,2023-03-31,-3212680000.0
+AMAGI,A,income,Net Income,2024-03-31,-2450010000.0
+AMAGI,A,income,Net Income,2025-03-31,-687140000.0
+AMAGI,A,income,Net Income,2026-03-31,716730000.0
+AMAGI,A,income,Net Income Common Stockholders,2023-03-31,-3212680000.0
+AMAGI,A,income,Net Income Common Stockholders,2024-03-31,-2450010000.0
+AMAGI,A,income,Net Income Common Stockholders,2025-03-31,-687140000.0
+AMAGI,A,income,Net Income Common Stockholders,2026-03-31,716730000.0
+AMAGI,A,income,Operating Income,2023-03-31,-3477160000.0
+AMAGI,A,income,Operating Income,2024-03-31,-2698150000.0
+AMAGI,A,income,Operating Income,2025-03-31,-994430000.0
+AMAGI,A,income,Operating Income,2026-03-31,401460000.0
+AMAGI,A,income,Pretax Income,2023-03-31,-3148700000.0
+AMAGI,A,income,Pretax Income,2024-03-31,-2369430000.0
+AMAGI,A,income,Pretax Income,2025-03-31,-515390000.0
+AMAGI,A,income,Pretax Income,2026-03-31,872560000.0
+AMAGI,A,income,Total Revenue,2023-03-31,6805580000.0
+AMAGI,A,income,Total Revenue,2024-03-31,8791550000.0
+AMAGI,A,income,Total Revenue,2025-03-31,11626370000.0
+AMAGI,A,income,Total Revenue,2026-03-31,15056060000.0
+AMAGI,Q,income,Basic EPS,2025-06-30,0.182168
+AMAGI,Q,income,Basic EPS,2025-09-30,0.1169
+AMAGI,Q,income,Basic EPS,2026-03-31,1.54
+AMAGI,Q,income,Basic EPS,2026-06-30,1.49
+AMAGI,Q,income,Basic EPS,2026-09-30,3.28
+AMAGI,Q,income,Diluted EPS,2025-06-30,0.182168
+AMAGI,Q,income,Diluted EPS,2025-09-30,0.1169
+AMAGI,Q,income,Diluted EPS,2026-03-31,1.54
+AMAGI,Q,income,Diluted EPS,2026-06-30,1.49
+AMAGI,Q,income,Diluted EPS,2026-09-30,3.27
+AMAGI,Q,income,EBITDA,2025-06-30,130940000.0
+AMAGI,Q,income,EBITDA,2025-09-30,114500000.0
+AMAGI,Q,income,EBITDA,2026-03-31,481200000.0
+AMAGI,Q,income,EBITDA,2026-06-30,474300000.0
+AMAGI,Q,income,EBITDA,2026-09-30,898050000.0
+AMAGI,Q,income,Interest Expense,2025-06-30,15320000.0
+AMAGI,Q,income,Interest Expense,2025-09-30,16250000.0
+AMAGI,Q,income,Interest Expense,2026-03-31,14640000.0
+AMAGI,Q,income,Interest Expense,2026-06-30,11370000.0
+AMAGI,Q,income,Interest Expense,2026-09-30,11030000.0
+AMAGI,Q,income,Net Income,2025-06-30,39410000.0
+AMAGI,Q,income,Net Income,2025-09-30,25290000.0
+AMAGI,Q,income,Net Income,2026-03-31,342630000.0
+AMAGI,Q,income,Net Income,2026-06-30,339050000.0
+AMAGI,Q,income,Net Income,2026-09-30,748380000.0
+AMAGI,Q,income,Net Income Common Stockholders,2025-06-30,39410000.0
+AMAGI,Q,income,Net Income Common Stockholders,2025-09-30,25290000.0
+AMAGI,Q,income,Net Income Common Stockholders,2026-03-31,342630000.0
+AMAGI,Q,income,Net Income Common Stockholders,2026-06-30,339050000.0
+AMAGI,Q,income,Net Income Common Stockholders,2026-09-30,748380000.0
+AMAGI,Q,income,Operating Income,2025-06-30,-61440000.0
+AMAGI,Q,income,Operating Income,2025-09-30,-81580000.0
+AMAGI,Q,income,Operating Income,2026-03-31,177620000.0
+AMAGI,Q,income,Operating Income,2026-06-30,239580000.0
+AMAGI,Q,income,Operating Income,2026-09-30,576210000.0
+AMAGI,Q,income,Pretax Income,2025-06-30,65940000.0
+AMAGI,Q,income,Pretax Income,2025-09-30,50560000.0
+AMAGI,Q,income,Pretax Income,2026-03-31,405420000.0
+AMAGI,Q,income,Pretax Income,2026-06-30,404070000.0
+AMAGI,Q,income,Pretax Income,2026-09-30,825830000.0
+AMAGI,Q,income,Total Revenue,2025-06-30,3300610000.0
+AMAGI,Q,income,Total Revenue,2025-09-30,3747620000.0
+AMAGI,Q,income,Total Revenue,2026-03-31,3969710000.0
+AMAGI,Q,income,Total Revenue,2026-06-30,4368780000.0
+AMAGI,Q,income,Total Revenue,2026-09-30,4758230000.0

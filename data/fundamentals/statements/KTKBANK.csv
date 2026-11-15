@@ -1,0 +1,96 @@
+symbol,freq,statement,item,period_end,value
+KTKBANK,A,balance,Cash And Cash Equivalents,2023-03-31,116159050000.0
+KTKBANK,A,balance,Cash And Cash Equivalents,2024-03-31,163964028000.0
+KTKBANK,A,balance,Cash And Cash Equivalents,2025-03-31,160174160000.0
+KTKBANK,A,balance,Cash And Cash Equivalents,2026-03-31,170258551000.0
+KTKBANK,A,balance,Ordinary Shares Number,2023-03-31,312342621.0
+KTKBANK,A,balance,Ordinary Shares Number,2024-03-31,377249958.0
+KTKBANK,A,balance,Ordinary Shares Number,2025-03-31,377936662.0
+KTKBANK,A,balance,Ordinary Shares Number,2026-03-31,378181464.0
+KTKBANK,A,balance,Stockholders Equity,2023-03-31,82120637000.0
+KTKBANK,A,balance,Stockholders Equity,2024-03-31,108475326000.0
+KTKBANK,A,balance,Stockholders Equity,2025-03-31,120848365000.0
+KTKBANK,A,balance,Stockholders Equity,2026-03-31,132242183000.0
+KTKBANK,A,balance,Total Assets,2023-03-31,990571212000.0
+KTKBANK,A,balance,Total Assets,2024-03-31,1160832595000.0
+KTKBANK,A,balance,Total Assets,2025-03-31,1209598563000.0
+KTKBANK,A,balance,Total Assets,2026-03-31,1293552018000.0
+KTKBANK,A,balance,Total Debt,2023-03-31,15627200000.0
+KTKBANK,A,balance,Total Debt,2024-03-31,24006350000.0
+KTKBANK,A,balance,Total Debt,2025-03-31,19405500000.0
+KTKBANK,A,balance,Total Debt,2026-03-31,8673500000.0
+KTKBANK,A,cashflow,Capital Expenditure,2023-03-31,-888142000.0
+KTKBANK,A,cashflow,Capital Expenditure,2024-03-31,-1118141000.0
+KTKBANK,A,cashflow,Capital Expenditure,2025-03-31,-1627061000.0
+KTKBANK,A,cashflow,Capital Expenditure,2026-03-31,-889217000.0
+KTKBANK,A,cashflow,Free Cash Flow,2023-03-31,17408764000.0
+KTKBANK,A,cashflow,Free Cash Flow,2024-03-31,5690266000.0
+KTKBANK,A,cashflow,Free Cash Flow,2025-03-31,-4832954000.0
+KTKBANK,A,cashflow,Free Cash Flow,2026-03-31,10111791000.0
+KTKBANK,A,cashflow,Operating Cash Flow,2023-03-31,18296906000.0
+KTKBANK,A,cashflow,Operating Cash Flow,2024-03-31,6808407000.0
+KTKBANK,A,cashflow,Operating Cash Flow,2025-03-31,-3205893000.0
+KTKBANK,A,cashflow,Operating Cash Flow,2026-03-31,11001008000.0
+KTKBANK,A,income,Basic EPS,2023-03-31,37.87
+KTKBANK,A,income,Basic EPS,2024-03-31,39.85
+KTKBANK,A,income,Basic EPS,2025-03-31,33.7
+KTKBANK,A,income,Basic EPS,2026-03-31,34.67
+KTKBANK,A,income,Diluted EPS,2023-03-31,37.64
+KTKBANK,A,income,Diluted EPS,2024-03-31,39.67
+KTKBANK,A,income,Diluted EPS,2025-03-31,33.63
+KTKBANK,A,income,Diluted EPS,2026-03-31,34.61
+KTKBANK,A,income,Interest Expense,2023-03-31,40351204000.0
+KTKBANK,A,income,Interest Expense,2024-03-31,49997697000.0
+KTKBANK,A,income,Interest Expense,2025-03-31,57032005000.0
+KTKBANK,A,income,Interest Expense,2026-03-31,57990385000.0
+KTKBANK,A,income,Net Income,2023-03-31,11796821000.0
+KTKBANK,A,income,Net Income,2024-03-31,13066151000.0
+KTKBANK,A,income,Net Income,2025-03-31,12728492000.0
+KTKBANK,A,income,Net Income,2026-03-31,13107482000.0
+KTKBANK,A,income,Net Income Common Stockholders,2023-03-31,11796821000.0
+KTKBANK,A,income,Net Income Common Stockholders,2024-03-31,13066151000.0
+KTKBANK,A,income,Net Income Common Stockholders,2025-03-31,12728492000.0
+KTKBANK,A,income,Net Income Common Stockholders,2026-03-31,13107482000.0
+KTKBANK,A,income,Pretax Income,2023-03-31,14404845000.0
+KTKBANK,A,income,Pretax Income,2024-03-31,15629764000.0
+KTKBANK,A,income,Pretax Income,2025-03-31,16411484000.0
+KTKBANK,A,income,Pretax Income,2026-03-31,16583477000.0
+KTKBANK,A,income,Total Revenue,2023-03-31,41779881000.0
+KTKBANK,A,income,Total Revenue,2024-03-31,46255663000.0
+KTKBANK,A,income,Total Revenue,2025-03-31,45800333000.0
+KTKBANK,A,income,Total Revenue,2026-03-31,45215993000.0
+KTKBANK,Q,income,Basic EPS,2025-09-30,8.44
+KTKBANK,Q,income,Basic EPS,2025-12-31,7.69
+KTKBANK,Q,income,Basic EPS,2026-03-31,10.8
+KTKBANK,Q,income,Basic EPS,2026-06-30,11.08
+KTKBANK,Q,income,Basic EPS,2026-09-30,11.52
+KTKBANK,Q,income,Diluted EPS,2025-09-30,8.43
+KTKBANK,Q,income,Diluted EPS,2025-12-31,7.68
+KTKBANK,Q,income,Diluted EPS,2026-03-31,10.78
+KTKBANK,Q,income,Diluted EPS,2026-06-30,11.06
+KTKBANK,Q,income,Diluted EPS,2026-09-30,11.5
+KTKBANK,Q,income,Interest Expense,2025-09-30,14510500000.0
+KTKBANK,Q,income,Interest Expense,2025-12-31,14279800000.0
+KTKBANK,Q,income,Interest Expense,2026-03-31,14143500000.0
+KTKBANK,Q,income,Interest Expense,2026-06-30,14443400000.0
+KTKBANK,Q,income,Interest Expense,2026-09-30,15214100000.0
+KTKBANK,Q,income,Net Income,2025-09-30,3192200000.0
+KTKBANK,Q,income,Net Income,2025-12-31,2907800000.0
+KTKBANK,Q,income,Net Income,2026-03-31,4082500000.0
+KTKBANK,Q,income,Net Income,2026-06-30,4191200000.0
+KTKBANK,Q,income,Net Income,2026-09-30,4358600000.0
+KTKBANK,Q,income,Net Income Common Stockholders,2025-09-30,3192200000.0
+KTKBANK,Q,income,Net Income Common Stockholders,2025-12-31,2907800000.0
+KTKBANK,Q,income,Net Income Common Stockholders,2026-03-31,4082500000.0
+KTKBANK,Q,income,Net Income Common Stockholders,2026-06-30,4191200000.0
+KTKBANK,Q,income,Net Income Common Stockholders,2026-09-30,4358600000.0
+KTKBANK,Q,income,Pretax Income,2025-09-30,4200800000.0
+KTKBANK,Q,income,Pretax Income,2025-12-31,3569300000.0
+KTKBANK,Q,income,Pretax Income,2026-03-31,5247600000.0
+KTKBANK,Q,income,Pretax Income,2026-06-30,5518300000.0
+KTKBANK,Q,income,Pretax Income,2026-09-30,5874600000.0
+KTKBANK,Q,income,Total Revenue,2025-09-30,10715300000.0
+KTKBANK,Q,income,Total Revenue,2025-12-31,10943500000.0
+KTKBANK,Q,income,Total Revenue,2026-03-31,12418300000.0
+KTKBANK,Q,income,Total Revenue,2026-06-30,12937900000.0
+KTKBANK,Q,income,Total Revenue,2026-09-30,12725500000.0

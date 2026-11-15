@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+WIPRO,A,balance,Cash And Cash Equivalents,2023-03-31,91880000000.0
+WIPRO,A,balance,Cash And Cash Equivalents,2024-03-31,96953000000.0
+WIPRO,A,balance,Cash And Cash Equivalents,2025-03-31,121974000000.0
+WIPRO,A,balance,Cash And Cash Equivalents,2026-03-31,105555000000.0
+WIPRO,A,balance,Net Debt,2023-03-31,58213000000.0
+WIPRO,A,balance,Net Debt,2024-03-31,44513000000.0
+WIPRO,A,balance,Net Debt,2025-03-31,39843000000.0
+WIPRO,A,balance,Net Debt,2026-03-31,62319000000.0
+WIPRO,A,balance,Ordinary Shares Number,2023-03-31,10956043810.0
+WIPRO,A,balance,Ordinary Shares Number,2024-03-31,10438371012.0
+WIPRO,A,balance,Ordinary Shares Number,2025-03-31,10460230569.0
+WIPRO,A,balance,Ordinary Shares Number,2026-03-31,10476506978.0
+WIPRO,A,balance,Stockholders Equity,2023-03-31,781164000000.0
+WIPRO,A,balance,Stockholders Equity,2024-03-31,749883000000.0
+WIPRO,A,balance,Stockholders Equity,2025-03-31,828309000000.0
+WIPRO,A,balance,Stockholders Equity,2026-03-31,885368000000.0
+WIPRO,A,balance,Total Assets,2023-03-31,1175822000000.0
+WIPRO,A,balance,Total Assets,2024-03-31,1152459000000.0
+WIPRO,A,balance,Total Assets,2025-03-31,1286520000000.0
+WIPRO,A,balance,Total Assets,2026-03-31,1419262000000.0
+WIPRO,A,balance,Total Debt,2023-03-31,174666000000.0
+WIPRO,A,balance,Total Debt,2024-03-31,164649000000.0
+WIPRO,A,balance,Total Debt,2025-03-31,192035000000.0
+WIPRO,A,balance,Total Debt,2026-03-31,202910000000.0
+WIPRO,A,cashflow,Capital Expenditure,2023-03-31,-14834000000.0
+WIPRO,A,cashflow,Capital Expenditure,2024-03-31,-10510000000.0
+WIPRO,A,cashflow,Capital Expenditure,2025-03-31,-15037000000.0
+WIPRO,A,cashflow,Capital Expenditure,2026-03-31,-15603000000.0
+WIPRO,A,cashflow,Free Cash Flow,2023-03-31,115767000000.0
+WIPRO,A,cashflow,Free Cash Flow,2024-03-31,165706000000.0
+WIPRO,A,cashflow,Free Cash Flow,2025-03-31,154389000000.0
+WIPRO,A,cashflow,Free Cash Flow,2026-03-31,133713000000.0
+WIPRO,A,cashflow,Operating Cash Flow,2023-03-31,130601000000.0
+WIPRO,A,cashflow,Operating Cash Flow,2024-03-31,176216000000.0
+WIPRO,A,cashflow,Operating Cash Flow,2025-03-31,169426000000.0
+WIPRO,A,cashflow,Operating Cash Flow,2026-03-31,149316000000.0
+WIPRO,A,income,Basic EPS,2023-03-31,10.365
+WIPRO,A,income,Basic EPS,2024-03-31,10.44
+WIPRO,A,income,Basic EPS,2025-03-31,12.56
+WIPRO,A,income,Basic EPS,2026-03-31,12.6
+WIPRO,A,income,Diluted EPS,2023-03-31,10.34
+WIPRO,A,income,Diluted EPS,2024-03-31,10.41
+WIPRO,A,income,Diluted EPS,2025-03-31,12.52
+WIPRO,A,income,Diluted EPS,2026-03-31,12.56
+WIPRO,A,income,EBITDA,2023-03-31,188883000000.0
+WIPRO,A,income,EBITDA,2024-03-31,189541000000.0
+WIPRO,A,income,EBITDA,2025-03-31,213783000000.0
+WIPRO,A,income,EBITDA,2026-03-31,210438000000.0
+WIPRO,A,income,Interest Expense,2023-03-31,7824000000.0
+WIPRO,A,income,Interest Expense,2024-03-31,8260000000.0
+WIPRO,A,income,Interest Expense,2025-03-31,9247000000.0
+WIPRO,A,income,Interest Expense,2026-03-31,7909000000.0
+WIPRO,A,income,Net Income,2023-03-31,113500000000.0
+WIPRO,A,income,Net Income,2024-03-31,110452000000.0
+WIPRO,A,income,Net Income,2025-03-31,131354000000.0
+WIPRO,A,income,Net Income,2026-03-31,131974000000.0
+WIPRO,A,income,Operating Income,2023-03-31,135134000000.0
+WIPRO,A,income,Operating Income,2024-03-31,135759000000.0
+WIPRO,A,income,Operating Income,2025-03-31,150686000000.0
+WIPRO,A,income,Operating Income,2026-03-31,149126000000.0
+WIPRO,A,income,Pretax Income,2023-03-31,147657000000.0
+WIPRO,A,income,Pretax Income,2024-03-31,147210000000.0
+WIPRO,A,income,Pretax Income,2025-03-31,174957000000.0
+WIPRO,A,income,Pretax Income,2026-03-31,173422000000.0
+WIPRO,A,income,Total Revenue,2023-03-31,904876000000.0
+WIPRO,A,income,Total Revenue,2024-03-31,897603000000.0
+WIPRO,A,income,Total Revenue,2025-03-31,890884000000.0
+WIPRO,A,income,Total Revenue,2026-03-31,926240000000.0
+WIPRO,Q,income,Basic EPS,2025-06-30,3.18
+WIPRO,Q,income,Basic EPS,2025-12-31,2.98
+WIPRO,Q,income,Basic EPS,2026-03-31,3.34
+WIPRO,Q,income,Basic EPS,2026-06-30,3.2
+WIPRO,Q,income,Diluted EPS,2025-03-31,3.39
+WIPRO,Q,income,Diluted EPS,2025-06-30,3.17
+WIPRO,Q,income,Diluted EPS,2025-12-31,2.97
+WIPRO,Q,income,Diluted EPS,2026-03-31,3.33
+WIPRO,Q,income,Diluted EPS,2026-06-30,3.2
+WIPRO,Q,income,EBITDA,2025-06-30,51701000000.0
+WIPRO,Q,income,EBITDA,2025-09-30,51681000000.0
+WIPRO,Q,income,EBITDA,2025-12-31,51251000000.0
+WIPRO,Q,income,EBITDA,2026-03-31,55805000000.0
+WIPRO,Q,income,EBITDA,2026-06-30,53835000000.0
+WIPRO,Q,income,Interest Expense,2025-06-30,2263000000.0
+WIPRO,Q,income,Interest Expense,2025-09-30,1940000000.0
+WIPRO,Q,income,Interest Expense,2025-12-31,1862000000.0
+WIPRO,Q,income,Interest Expense,2026-03-31,1844000000.0
+WIPRO,Q,income,Interest Expense,2026-06-30,2446000000.0
+WIPRO,Q,income,Net Income,2025-06-30,33304000000.0
+WIPRO,Q,income,Net Income,2025-09-30,32462000000.0
+WIPRO,Q,income,Net Income,2025-12-31,31190000000.0
+WIPRO,Q,income,Net Income,2026-03-31,35018000000.0
+WIPRO,Q,income,Net Income,2026-06-30,33520000000.0
+WIPRO,Q,income,Net Income Common Stockholders,2025-06-30,33304000000.0
+WIPRO,Q,income,Net Income Common Stockholders,2025-09-30,32462000000.0
+WIPRO,Q,income,Net Income Common Stockholders,2025-12-31,31190000000.0
+WIPRO,Q,income,Net Income Common Stockholders,2026-03-31,35018000000.0
+WIPRO,Q,income,Net Income Common Stockholders,2026-06-30,33520000000.0
+WIPRO,Q,income,Operating Income,2025-06-30,35542000000.0
+WIPRO,Q,income,Operating Income,2025-09-30,37271000000.0
+WIPRO,Q,income,Operating Income,2025-12-31,34947000000.0
+WIPRO,Q,income,Operating Income,2026-03-31,41366000000.0
+WIPRO,Q,income,Operating Income,2026-06-30,38427000000.0
+WIPRO,Q,income,Pretax Income,2025-06-30,42583000000.0
+WIPRO,Q,income,Pretax Income,2025-09-30,42824000000.0
+WIPRO,Q,income,Pretax Income,2025-12-31,41339000000.0
+WIPRO,Q,income,Pretax Income,2026-03-31,46676000000.0
+WIPRO,Q,income,Pretax Income,2026-06-30,43345000000.0
+WIPRO,Q,income,Total Revenue,2025-06-30,221346000000.0
+WIPRO,Q,income,Total Revenue,2025-09-30,226973000000.0
+WIPRO,Q,income,Total Revenue,2025-12-31,235558000000.0
+WIPRO,Q,income,Total Revenue,2026-03-31,242363000000.0
+WIPRO,Q,income,Total Revenue,2026-06-30,244786000000.0

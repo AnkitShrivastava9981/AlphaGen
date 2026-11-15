@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+HDBFS,A,balance,Cash And Cash Equivalents,2023-03-31,3959000000.0
+HDBFS,A,balance,Cash And Cash Equivalents,2024-03-31,6478500000.0
+HDBFS,A,balance,Cash And Cash Equivalents,2025-03-31,9504600000.0
+HDBFS,A,balance,Cash And Cash Equivalents,2026-03-31,12461200000.0
+HDBFS,A,balance,Net Debt,2023-03-31,544694100000.0
+HDBFS,A,balance,Net Debt,2024-03-31,736828200000.0
+HDBFS,A,balance,Net Debt,2025-03-31,887319100000.0
+HDBFS,A,balance,Net Debt,2026-03-31,979839300000.0
+HDBFS,A,balance,Ordinary Shares Number,2023-03-31,827644665.0
+HDBFS,A,balance,Ordinary Shares Number,2024-03-31,827644665.0
+HDBFS,A,balance,Ordinary Shares Number,2025-03-31,827644665.0
+HDBFS,A,balance,Ordinary Shares Number,2026-03-31,828405154.0
+HDBFS,A,balance,Stockholders Equity,2023-03-31,114369600000.0
+HDBFS,A,balance,Stockholders Equity,2024-03-31,137427100000.0
+HDBFS,A,balance,Stockholders Equity,2025-03-31,158197500000.0
+HDBFS,A,balance,Stockholders Equity,2026-03-31,206640500000.0
+HDBFS,A,balance,Total Assets,2023-03-31,700503900000.0
+HDBFS,A,balance,Total Assets,2024-03-31,925565100000.0
+HDBFS,A,balance,Total Assets,2025-03-31,1086632900000.0
+HDBFS,A,balance,Total Assets,2026-03-31,1236514800000.0
+HDBFS,A,balance,Total Debt,2023-03-31,548653100000.0
+HDBFS,A,balance,Total Debt,2024-03-31,743306700000.0
+HDBFS,A,balance,Total Debt,2025-03-31,896823700000.0
+HDBFS,A,balance,Total Debt,2026-03-31,992300500000.0
+HDBFS,A,cashflow,Capital Expenditure,2023-03-31,-1113200000.0
+HDBFS,A,cashflow,Capital Expenditure,2024-03-31,-1233500000.0
+HDBFS,A,cashflow,Capital Expenditure,2025-03-31,-2097900000.0
+HDBFS,A,cashflow,Capital Expenditure,2026-03-31,-1436100000.0
+HDBFS,A,cashflow,Free Cash Flow,2023-03-31,-69619300000.0
+HDBFS,A,cashflow,Free Cash Flow,2024-03-31,-168593900000.0
+HDBFS,A,cashflow,Free Cash Flow,2025-03-31,-138361200000.0
+HDBFS,A,cashflow,Free Cash Flow,2026-03-31,-87491700000.0
+HDBFS,A,cashflow,Operating Cash Flow,2023-03-31,-68506100000.0
+HDBFS,A,cashflow,Operating Cash Flow,2024-03-31,-167360400000.0
+HDBFS,A,cashflow,Operating Cash Flow,2025-03-31,-136263300000.0
+HDBFS,A,cashflow,Operating Cash Flow,2026-03-31,-86055600000.0
+HDBFS,A,income,Basic EPS,2023-03-31,23.618956
+HDBFS,A,income,Basic EPS,2024-03-31,29.66416
+HDBFS,A,income,Basic EPS,2025-03-31,26.29051
+HDBFS,A,income,Basic EPS,2026-03-31,30.97
+HDBFS,A,income,Diluted EPS,2023-03-31,23.618956
+HDBFS,A,income,Diluted EPS,2024-03-31,29.66416
+HDBFS,A,income,Diluted EPS,2025-03-31,26.29051
+HDBFS,A,income,Diluted EPS,2026-03-31,30.88
+HDBFS,A,income,EBITDA,2023-03-31,47837600000.0
+HDBFS,A,income,EBITDA,2024-03-31,62777400000.0
+HDBFS,A,income,EBITDA,2025-03-31,66718400000.0
+HDBFS,A,income,EBITDA,2026-03-31,70624000000.0
+HDBFS,A,income,Interest Expense,2023-03-31,20445200000.0
+HDBFS,A,income,Interest Expense,2024-03-31,28279100000.0
+HDBFS,A,income,Interest Expense,2025-03-31,35496200000.0
+HDBFS,A,income,Interest Expense,2026-03-31,34668500000.0
+HDBFS,A,income,Net Income,2023-03-31,19593500000.0
+HDBFS,A,income,Net Income,2024-03-31,24608400000.0
+HDBFS,A,income,Net Income,2025-03-31,21759200000.0
+HDBFS,A,income,Net Income,2026-03-31,25438300000.0
+HDBFS,A,income,Net Income Common Stockholders,2023-03-31,19593500000.0
+HDBFS,A,income,Net Income Common Stockholders,2024-03-31,24608400000.0
+HDBFS,A,income,Net Income Common Stockholders,2025-03-31,21759200000.0
+HDBFS,A,income,Net Income Common Stockholders,2026-03-31,25438300000.0
+HDBFS,A,income,Operating Income,2023-03-31,51532300000.0
+HDBFS,A,income,Operating Income,2024-03-31,60792200000.0
+HDBFS,A,income,Operating Income,2025-03-31,72477800000.0
+HDBFS,A,income,Operating Income,2026-03-31,80868700000.0
+HDBFS,A,income,Pretax Income,2023-03-31,26274000000.0
+HDBFS,A,income,Pretax Income,2024-03-31,33046700000.0
+HDBFS,A,income,Pretax Income,2025-03-31,29278000000.0
+HDBFS,A,income,Pretax Income,2026-03-31,33862800000.0
+HDBFS,A,income,Total Revenue,2023-03-31,114875100000.0
+HDBFS,A,income,Total Revenue,2024-03-31,129931500000.0
+HDBFS,A,income,Total Revenue,2025-03-31,148871800000.0
+HDBFS,A,income,Total Revenue,2026-03-31,167770900000.0
+HDBFS,Q,income,Basic EPS,2025-06-30,6.859224
+HDBFS,Q,income,Basic EPS,2025-12-31,7.76
+HDBFS,Q,income,Basic EPS,2026-03-31,9.04
+HDBFS,Q,income,Basic EPS,2026-06-30,9.46
+HDBFS,Q,income,Basic EPS,2026-09-30,9.39
+HDBFS,Q,income,Diluted EPS,2025-06-30,6.859224
+HDBFS,Q,income,Diluted EPS,2025-12-31,7.74
+HDBFS,Q,income,Diluted EPS,2026-03-31,9.02
+HDBFS,Q,income,Diluted EPS,2026-06-30,9.43
+HDBFS,Q,income,Diluted EPS,2026-09-30,9.37
+HDBFS,Q,income,EBITDA,2025-09-30,12443000000.0
+HDBFS,Q,income,EBITDA,2025-12-31,12454000000.0
+HDBFS,Q,income,EBITDA,2026-03-31,13795000000.0
+HDBFS,Q,income,EBITDA,2026-06-30,14440000000.0
+HDBFS,Q,income,EBITDA,2026-09-30,14737000000.0
+HDBFS,Q,income,Net Income,2025-06-30,5677000000.0
+HDBFS,Q,income,Net Income,2025-12-31,6439000000.0
+HDBFS,Q,income,Net Income,2026-03-31,7506000000.0
+HDBFS,Q,income,Net Income,2026-06-30,7852000000.0
+HDBFS,Q,income,Net Income,2026-09-30,7802000000.0
+HDBFS,Q,income,Net Income Common Stockholders,2025-06-30,5677000000.0
+HDBFS,Q,income,Net Income Common Stockholders,2025-12-31,6439000000.0
+HDBFS,Q,income,Net Income Common Stockholders,2026-03-31,7506000000.0
+HDBFS,Q,income,Net Income Common Stockholders,2026-06-30,7852000000.0
+HDBFS,Q,income,Net Income Common Stockholders,2026-09-30,7802000000.0
+HDBFS,Q,income,Operating Income,2025-09-30,11919000000.0
+HDBFS,Q,income,Operating Income,2025-12-31,11942000000.0
+HDBFS,Q,income,Operating Income,2026-03-31,13252000000.0
+HDBFS,Q,income,Operating Income,2026-06-30,13892000000.0
+HDBFS,Q,income,Operating Income,2026-09-30,14163000000.0
+HDBFS,Q,income,Pretax Income,2025-06-30,7325000000.0
+HDBFS,Q,income,Pretax Income,2025-12-31,8603000000.0
+HDBFS,Q,income,Pretax Income,2026-03-31,10112000000.0
+HDBFS,Q,income,Pretax Income,2026-06-30,10551000000.0
+HDBFS,Q,income,Pretax Income,2026-09-30,10437000000.0
+HDBFS,Q,income,Total Revenue,2025-09-30,42068000000.0
+HDBFS,Q,income,Total Revenue,2025-12-31,42952000000.0
+HDBFS,Q,income,Total Revenue,2026-03-31,43748000000.0
+HDBFS,Q,income,Total Revenue,2026-06-30,45749000000.0
+HDBFS,Q,income,Total Revenue,2026-09-30,46480000000.0

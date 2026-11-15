@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+MSTCLTD,A,balance,Cash And Cash Equivalents,2023-03-31,9205265000.0
+MSTCLTD,A,balance,Cash And Cash Equivalents,2024-03-31,2422944000.0
+MSTCLTD,A,balance,Cash And Cash Equivalents,2025-03-31,3782041000.0
+MSTCLTD,A,balance,Cash And Cash Equivalents,2026-03-31,5537235000.0
+MSTCLTD,A,balance,Ordinary Shares Number,2023-03-31,70400000.0
+MSTCLTD,A,balance,Ordinary Shares Number,2024-03-31,70400000.0
+MSTCLTD,A,balance,Ordinary Shares Number,2025-03-31,70400000.0
+MSTCLTD,A,balance,Ordinary Shares Number,2026-03-31,70400000.0
+MSTCLTD,A,balance,Stockholders Equity,2023-03-31,7865039000.0
+MSTCLTD,A,balance,Stockholders Equity,2024-03-31,6470660000.0
+MSTCLTD,A,balance,Stockholders Equity,2025-03-31,7384139000.0
+MSTCLTD,A,balance,Stockholders Equity,2026-03-31,9039351000.0
+MSTCLTD,A,balance,Total Assets,2023-03-31,26887968000.0
+MSTCLTD,A,balance,Total Assets,2024-03-31,18222318000.0
+MSTCLTD,A,balance,Total Assets,2025-03-31,21183975000.0
+MSTCLTD,A,balance,Total Assets,2026-03-31,20107149000.0
+MSTCLTD,A,balance,Total Debt,2023-03-31,1450020000.0
+MSTCLTD,A,balance,Total Debt,2024-03-31,1450020000.0
+MSTCLTD,A,balance,Total Debt,2025-03-31,1450020000.0
+MSTCLTD,A,balance,Total Debt,2026-03-31,1452334000.0
+MSTCLTD,A,cashflow,Capital Expenditure,2023-03-31,-338533000.0
+MSTCLTD,A,cashflow,Capital Expenditure,2024-03-31,-1076920000.0
+MSTCLTD,A,cashflow,Capital Expenditure,2025-03-31,-246339000.0
+MSTCLTD,A,cashflow,Capital Expenditure,2026-03-31,-222556000.0
+MSTCLTD,A,cashflow,Free Cash Flow,2023-03-31,8104010000.0
+MSTCLTD,A,cashflow,Free Cash Flow,2024-03-31,-3902150000.0
+MSTCLTD,A,cashflow,Free Cash Flow,2025-03-31,2356691000.0
+MSTCLTD,A,cashflow,Free Cash Flow,2026-03-31,-500498000.0
+MSTCLTD,A,cashflow,Operating Cash Flow,2023-03-31,8442543000.0
+MSTCLTD,A,cashflow,Operating Cash Flow,2024-03-31,-2825230000.0
+MSTCLTD,A,cashflow,Operating Cash Flow,2025-03-31,2603030000.0
+MSTCLTD,A,cashflow,Operating Cash Flow,2026-03-31,-277942000.0
+MSTCLTD,A,income,Basic EPS,2023-03-31,34.37
+MSTCLTD,A,income,Basic EPS,2024-03-31,23.44
+MSTCLTD,A,income,Basic EPS,2025-03-31,57.82
+MSTCLTD,A,income,Basic EPS,2026-03-31,31.03
+MSTCLTD,A,income,Diluted EPS,2023-03-31,34.37
+MSTCLTD,A,income,Diluted EPS,2024-03-31,23.44
+MSTCLTD,A,income,Diluted EPS,2025-03-31,57.82
+MSTCLTD,A,income,Diluted EPS,2026-03-31,31.03
+MSTCLTD,A,income,EBITDA,2023-03-31,3511797000.0
+MSTCLTD,A,income,EBITDA,2024-03-31,2853768000.0
+MSTCLTD,A,income,EBITDA,2025-03-31,5173362000.0
+MSTCLTD,A,income,EBITDA,2026-03-31,3028730000.0
+MSTCLTD,A,income,Interest Expense,2023-03-31,914000.0
+MSTCLTD,A,income,Interest Expense,2024-03-31,4120000.0
+MSTCLTD,A,income,Interest Expense,2025-03-31,1800000.0
+MSTCLTD,A,income,Interest Expense,2026-03-31,0.0
+MSTCLTD,A,income,Net Income,2023-03-31,2419567000.0
+MSTCLTD,A,income,Net Income,2024-03-31,1650448000.0
+MSTCLTD,A,income,Net Income,2025-03-31,4070721000.0
+MSTCLTD,A,income,Net Income,2026-03-31,2184332000.0
+MSTCLTD,A,income,Net Income Common Stockholders,2023-03-31,2419567000.0
+MSTCLTD,A,income,Net Income Common Stockholders,2024-03-31,1650448000.0
+MSTCLTD,A,income,Net Income Common Stockholders,2025-03-31,4070721000.0
+MSTCLTD,A,income,Net Income Common Stockholders,2026-03-31,2184332000.0
+MSTCLTD,A,income,Operating Income,2023-03-31,3535660000.0
+MSTCLTD,A,income,Operating Income,2024-03-31,2899824000.0
+MSTCLTD,A,income,Operating Income,2025-03-31,1592658000.0
+MSTCLTD,A,income,Operating Income,2026-03-31,1899242000.0
+MSTCLTD,A,income,Pretax Income,2023-03-31,3291750000.0
+MSTCLTD,A,income,Pretax Income,2024-03-31,2775694000.0
+MSTCLTD,A,income,Pretax Income,2025-03-31,5079940000.0
+MSTCLTD,A,income,Pretax Income,2026-03-31,2924352000.0
+MSTCLTD,A,income,Total Revenue,2023-03-31,2910300000.0
+MSTCLTD,A,income,Total Revenue,2024-03-31,2823213000.0
+MSTCLTD,A,income,Total Revenue,2025-03-31,2830668000.0
+MSTCLTD,A,income,Total Revenue,2026-03-31,3312034000.0
+MSTCLTD,Q,income,Basic EPS,2025-06-30,6.01
+MSTCLTD,Q,income,Basic EPS,2025-09-30,6.75
+MSTCLTD,Q,income,Basic EPS,2025-12-31,7.3
+MSTCLTD,Q,income,Basic EPS,2026-03-31,10.97
+MSTCLTD,Q,income,Basic EPS,2026-06-30,8.27
+MSTCLTD,Q,income,Diluted EPS,2025-06-30,6.01
+MSTCLTD,Q,income,Diluted EPS,2025-09-30,6.75
+MSTCLTD,Q,income,Diluted EPS,2025-12-31,7.3
+MSTCLTD,Q,income,Diluted EPS,2026-03-31,10.97
+MSTCLTD,Q,income,Diluted EPS,2026-06-30,8.27
+MSTCLTD,Q,income,EBITDA,2025-06-30,456437000.0
+MSTCLTD,Q,income,EBITDA,2025-09-30,671824000.0
+MSTCLTD,Q,income,EBITDA,2025-12-31,681978000.0
+MSTCLTD,Q,income,EBITDA,2026-03-31,1075228000.0
+MSTCLTD,Q,income,EBITDA,2026-06-30,577291000.0
+MSTCLTD,Q,income,Interest Expense,2025-03-31,0.0
+MSTCLTD,Q,income,Interest Expense,2025-06-30,0.0
+MSTCLTD,Q,income,Interest Expense,2025-09-30,0.0
+MSTCLTD,Q,income,Interest Expense,2025-12-31,0.0
+MSTCLTD,Q,income,Interest Expense,2026-03-31,0.0
+MSTCLTD,Q,income,Net Income,2025-06-30,423422000.0
+MSTCLTD,Q,income,Net Income,2025-09-30,474995000.0
+MSTCLTD,Q,income,Net Income,2025-12-31,513678000.0
+MSTCLTD,Q,income,Net Income,2026-03-31,772237000.0
+MSTCLTD,Q,income,Net Income,2026-06-30,582196000.0
+MSTCLTD,Q,income,Net Income Common Stockholders,2025-06-30,423422000.0
+MSTCLTD,Q,income,Net Income Common Stockholders,2025-09-30,474995000.0
+MSTCLTD,Q,income,Net Income Common Stockholders,2025-12-31,513678000.0
+MSTCLTD,Q,income,Net Income Common Stockholders,2026-03-31,772237000.0
+MSTCLTD,Q,income,Net Income Common Stockholders,2026-06-30,582196000.0
+MSTCLTD,Q,income,Operating Income,2025-06-30,433977000.0
+MSTCLTD,Q,income,Operating Income,2025-09-30,488630000.0
+MSTCLTD,Q,income,Operating Income,2025-12-31,482183000.0
+MSTCLTD,Q,income,Operating Income,2026-03-31,723664000.0
+MSTCLTD,Q,income,Operating Income,2026-06-30,547724000.0
+MSTCLTD,Q,income,Pretax Income,2025-06-30,576494000.0
+MSTCLTD,Q,income,Pretax Income,2025-09-30,645106000.0
+MSTCLTD,Q,income,Pretax Income,2025-12-31,654516000.0
+MSTCLTD,Q,income,Pretax Income,2026-03-31,1048236000.0
+MSTCLTD,Q,income,Pretax Income,2026-06-30,786267000.0
+MSTCLTD,Q,income,Total Revenue,2025-06-30,774262000.0
+MSTCLTD,Q,income,Total Revenue,2025-09-30,850060000.0
+MSTCLTD,Q,income,Total Revenue,2025-12-31,884272000.0
+MSTCLTD,Q,income,Total Revenue,2026-03-31,1187972000.0
+MSTCLTD,Q,income,Total Revenue,2026-06-30,942399000.0

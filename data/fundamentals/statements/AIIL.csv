@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+AIIL,A,balance,Cash And Cash Equivalents,2023-03-31,3500800000.0
+AIIL,A,balance,Cash And Cash Equivalents,2024-03-31,1997800000.0
+AIIL,A,balance,Cash And Cash Equivalents,2025-03-31,1084900000.0
+AIIL,A,balance,Cash And Cash Equivalents,2026-03-31,503900000.0
+AIIL,A,balance,Net Debt,2023-03-31,11518400000.0
+AIIL,A,balance,Net Debt,2024-03-31,9285600000.0
+AIIL,A,balance,Net Debt,2025-03-31,9443100000.0
+AIIL,A,balance,Net Debt,2026-03-31,35449600000.0
+AIIL,A,balance,Ordinary Shares Number,2023-03-31,849225500.0
+AIIL,A,balance,Ordinary Shares Number,2024-03-31,849225500.0
+AIIL,A,balance,Ordinary Shares Number,2025-03-31,849225500.0
+AIIL,A,balance,Ordinary Shares Number,2026-03-31,849225500.0
+AIIL,A,balance,Stockholders Equity,2023-03-31,34164200000.0
+AIIL,A,balance,Stockholders Equity,2024-03-31,103451000000.0
+AIIL,A,balance,Stockholders Equity,2025-03-31,146893400000.0
+AIIL,A,balance,Stockholders Equity,2026-03-31,147278300000.0
+AIIL,A,balance,Total Assets,2023-03-31,68996300000.0
+AIIL,A,balance,Total Assets,2024-03-31,116211900000.0
+AIIL,A,balance,Total Assets,2025-03-31,160874200000.0
+AIIL,A,balance,Total Assets,2026-03-31,192107500000.0
+AIIL,A,balance,Total Debt,2023-03-31,15019200000.0
+AIIL,A,balance,Total Debt,2024-03-31,11283400000.0
+AIIL,A,balance,Total Debt,2025-03-31,10542000000.0
+AIIL,A,balance,Total Debt,2026-03-31,35979700000.0
+AIIL,A,cashflow,Capital Expenditure,2023-03-31,-54000000.0
+AIIL,A,cashflow,Capital Expenditure,2024-03-31,-483800000.0
+AIIL,A,cashflow,Capital Expenditure,2025-03-31,-725000000.0
+AIIL,A,cashflow,Capital Expenditure,2026-03-31,-3407200000.0
+AIIL,A,cashflow,Free Cash Flow,2023-03-31,2392800000.0
+AIIL,A,cashflow,Free Cash Flow,2024-03-31,32422000000.0
+AIIL,A,cashflow,Free Cash Flow,2025-03-31,2532200000.0
+AIIL,A,cashflow,Free Cash Flow,2026-03-31,11145900000.0
+AIIL,A,cashflow,Operating Cash Flow,2023-03-31,2446800000.0
+AIIL,A,cashflow,Operating Cash Flow,2024-03-31,32905800000.0
+AIIL,A,cashflow,Operating Cash Flow,2025-03-31,3257200000.0
+AIIL,A,cashflow,Operating Cash Flow,2026-03-31,14553100000.0
+AIIL,A,income,Basic EPS,2023-03-31,50.682
+AIIL,A,income,Basic EPS,2024-03-31,50.456
+AIIL,A,income,Basic EPS,2025-03-31,49.944
+AIIL,A,income,Basic EPS,2026-03-31,61.61
+AIIL,A,income,Diluted EPS,2023-03-31,50.682
+AIIL,A,income,Diluted EPS,2024-03-31,50.456
+AIIL,A,income,Diluted EPS,2025-03-31,49.944
+AIIL,A,income,Diluted EPS,2026-03-31,61.61
+AIIL,A,income,EBITDA,2023-03-31,46415600000.0
+AIIL,A,income,EBITDA,2024-03-31,42982600000.0
+AIIL,A,income,EBITDA,2025-03-31,44083400000.0
+AIIL,A,income,EBITDA,2026-03-31,23244200000.0
+AIIL,A,income,Interest Expense,2023-03-31,2807800000.0
+AIIL,A,income,Interest Expense,2024-03-31,645400000.0
+AIIL,A,income,Interest Expense,2025-03-31,510100000.0
+AIIL,A,income,Interest Expense,2026-03-31,1796200000.0
+AIIL,A,income,Net Income,2023-03-31,43040300000.0
+AIIL,A,income,Net Income,2024-03-31,42848300000.0
+AIIL,A,income,Net Income,2025-03-31,42414100000.0
+AIIL,A,income,Net Income,2026-03-31,19293500000.0
+AIIL,A,income,Net Income Common Stockholders,2023-03-31,43040300000.0
+AIIL,A,income,Net Income Common Stockholders,2024-03-31,42848300000.0
+AIIL,A,income,Net Income Common Stockholders,2025-03-31,42414100000.0
+AIIL,A,income,Net Income Common Stockholders,2026-03-31,19293500000.0
+AIIL,A,income,Operating Income,2023-03-31,14644600000.0
+AIIL,A,income,Operating Income,2024-03-31,60816800000.0
+AIIL,A,income,Operating Income,2025-03-31,41899700000.0
+AIIL,A,income,Operating Income,2026-03-31,21944600000.0
+AIIL,A,income,Pretax Income,2023-03-31,43513800000.0
+AIIL,A,income,Pretax Income,2024-03-31,42255600000.0
+AIIL,A,income,Pretax Income,2025-03-31,40671700000.0
+AIIL,A,income,Pretax Income,2026-03-31,21150300000.0
+AIIL,A,income,Total Revenue,2023-03-31,4312400000.0
+AIIL,A,income,Total Revenue,2024-03-31,22448200000.0
+AIIL,A,income,Total Revenue,2025-03-31,28817700000.0
+AIIL,A,income,Total Revenue,2026-03-31,12983100000.0
+AIIL,Q,income,Basic EPS,2025-09-30,45.18
+AIIL,Q,income,Basic EPS,2025-12-31,1.902
+AIIL,Q,income,Basic EPS,2026-03-31,0.77
+AIIL,Q,income,Basic EPS,2026-06-30,13.05
+AIIL,Q,income,Basic EPS,2026-09-30,4.92
+AIIL,Q,income,Diluted EPS,2025-09-30,45.18
+AIIL,Q,income,Diluted EPS,2025-12-31,1.902
+AIIL,Q,income,Diluted EPS,2026-03-31,0.77
+AIIL,Q,income,Diluted EPS,2026-06-30,13.05
+AIIL,Q,income,Diluted EPS,2026-09-30,4.92
+AIIL,Q,income,EBITDA,2025-09-30,5400200000.0
+AIIL,Q,income,EBITDA,2025-12-31,2863600000.0
+AIIL,Q,income,EBITDA,2026-03-31,1382400000.0
+AIIL,Q,income,EBITDA,2026-06-30,12442400000.0
+AIIL,Q,income,EBITDA,2026-09-30,5052800000.0
+AIIL,Q,income,Net Income,2025-09-30,7668700000.0
+AIIL,Q,income,Net Income,2025-12-31,1610000000.0
+AIIL,Q,income,Net Income,2026-03-31,597500000.0
+AIIL,Q,income,Net Income,2026-06-30,11105200000.0
+AIIL,Q,income,Net Income,2026-09-30,4172900000.0
+AIIL,Q,income,Net Income Common Stockholders,2025-09-30,7668700000.0
+AIIL,Q,income,Net Income Common Stockholders,2025-12-31,1610000000.0
+AIIL,Q,income,Net Income Common Stockholders,2026-03-31,597500000.0
+AIIL,Q,income,Net Income Common Stockholders,2026-06-30,11105200000.0
+AIIL,Q,income,Net Income Common Stockholders,2026-09-30,4172900000.0
+AIIL,Q,income,Operating Income,2025-09-30,5352800000.0
+AIIL,Q,income,Operating Income,2025-12-31,2787400000.0
+AIIL,Q,income,Operating Income,2026-03-31,1239100000.0
+AIIL,Q,income,Operating Income,2026-06-30,12328800000.0
+AIIL,Q,income,Operating Income,2026-09-30,4956000000.0
+AIIL,Q,income,Pretax Income,2025-09-30,5392200000.0
+AIIL,Q,income,Pretax Income,2025-12-31,2784000000.0
+AIIL,Q,income,Pretax Income,2026-03-31,1538700000.0
+AIIL,Q,income,Pretax Income,2026-06-30,12469800000.0
+AIIL,Q,income,Pretax Income,2026-09-30,4937900000.0
+AIIL,Q,income,Total Revenue,2025-09-30,6049100000.0
+AIIL,Q,income,Total Revenue,2025-12-31,4780400000.0
+AIIL,Q,income,Total Revenue,2026-03-31,3107100000.0
+AIIL,Q,income,Total Revenue,2026-06-30,14695400000.0
+AIIL,Q,income,Total Revenue,2026-09-30,6808600000.0

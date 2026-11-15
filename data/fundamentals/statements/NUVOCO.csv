@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+NUVOCO,A,balance,Cash And Cash Equivalents,2023-03-31,1927400000.0
+NUVOCO,A,balance,Cash And Cash Equivalents,2024-03-31,978300000.0
+NUVOCO,A,balance,Cash And Cash Equivalents,2025-03-31,1766600000.0
+NUVOCO,A,balance,Cash And Cash Equivalents,2026-03-31,881100000.0
+NUVOCO,A,balance,Net Debt,2023-03-31,44249600000.0
+NUVOCO,A,balance,Net Debt,2024-03-31,40392000000.0
+NUVOCO,A,balance,Net Debt,2025-03-31,36459800000.0
+NUVOCO,A,balance,Net Debt,2026-03-31,44526600000.0
+NUVOCO,A,balance,Ordinary Shares Number,2023-03-31,357156153.0
+NUVOCO,A,balance,Ordinary Shares Number,2024-03-31,357156153.0
+NUVOCO,A,balance,Ordinary Shares Number,2025-03-31,357156153.0
+NUVOCO,A,balance,Ordinary Shares Number,2026-03-31,357156153.0
+NUVOCO,A,balance,Stockholders Equity,2023-03-31,88389900000.0
+NUVOCO,A,balance,Stockholders Equity,2024-03-31,89835200000.0
+NUVOCO,A,balance,Stockholders Equity,2025-03-31,90023200000.0
+NUVOCO,A,balance,Stockholders Equity,2026-03-31,93423200000.0
+NUVOCO,A,balance,Total Assets,2023-03-31,189877300000.0
+NUVOCO,A,balance,Total Assets,2024-03-31,187099300000.0
+NUVOCO,A,balance,Total Assets,2025-03-31,181576400000.0
+NUVOCO,A,balance,Total Assets,2026-03-31,202990200000.0
+NUVOCO,A,balance,Total Debt,2023-03-31,47851400000.0
+NUVOCO,A,balance,Total Debt,2024-03-31,44037400000.0
+NUVOCO,A,balance,Total Debt,2025-03-31,40737900000.0
+NUVOCO,A,balance,Total Debt,2026-03-31,49161000000.0
+NUVOCO,A,cashflow,Capital Expenditure,2023-03-31,-4863300000.0
+NUVOCO,A,cashflow,Capital Expenditure,2024-03-31,-5813800000.0
+NUVOCO,A,cashflow,Capital Expenditure,2025-03-31,-3501200000.0
+NUVOCO,A,cashflow,Capital Expenditure,2026-03-31,-7096900000.0
+NUVOCO,A,cashflow,Free Cash Flow,2023-03-31,12250700000.0
+NUVOCO,A,cashflow,Free Cash Flow,2024-03-31,10111600000.0
+NUVOCO,A,cashflow,Free Cash Flow,2025-03-31,9784000000.0
+NUVOCO,A,cashflow,Free Cash Flow,2026-03-31,7754800000.0
+NUVOCO,A,cashflow,Operating Cash Flow,2023-03-31,17114000000.0
+NUVOCO,A,cashflow,Operating Cash Flow,2024-03-31,15925400000.0
+NUVOCO,A,cashflow,Operating Cash Flow,2025-03-31,13285200000.0
+NUVOCO,A,cashflow,Operating Cash Flow,2026-03-31,14851700000.0
+NUVOCO,A,income,Basic EPS,2023-03-31,0.44
+NUVOCO,A,income,Basic EPS,2024-03-31,4.13
+NUVOCO,A,income,Basic EPS,2025-03-31,0.61
+NUVOCO,A,income,Basic EPS,2026-03-31,10.07
+NUVOCO,A,income,Diluted EPS,2023-03-31,0.44
+NUVOCO,A,income,Diluted EPS,2024-03-31,4.13
+NUVOCO,A,income,Diluted EPS,2025-03-31,0.61
+NUVOCO,A,income,Diluted EPS,2026-03-31,10.07
+NUVOCO,A,income,EBITDA,2023-03-31,8177900000.0
+NUVOCO,A,income,EBITDA,2024-03-31,16572000000.0
+NUVOCO,A,income,EBITDA,2025-03-31,13684700000.0
+NUVOCO,A,income,EBITDA,2026-03-31,18192600000.0
+NUVOCO,A,income,Interest Expense,2023-03-31,5119000000.0
+NUVOCO,A,income,Interest Expense,2024-03-31,5326300000.0
+NUVOCO,A,income,Interest Expense,2025-03-31,4734500000.0
+NUVOCO,A,income,Interest Expense,2026-03-31,3847600000.0
+NUVOCO,A,income,Net Income,2023-03-31,158600000.0
+NUVOCO,A,income,Net Income,2024-03-31,1473700000.0
+NUVOCO,A,income,Net Income,2025-03-31,218400000.0
+NUVOCO,A,income,Net Income,2026-03-31,3593500000.0
+NUVOCO,A,income,Net Income Common Stockholders,2023-03-31,158600000.0
+NUVOCO,A,income,Net Income Common Stockholders,2024-03-31,1473700000.0
+NUVOCO,A,income,Net Income Common Stockholders,2025-03-31,218400000.0
+NUVOCO,A,income,Net Income Common Stockholders,2026-03-31,3593500000.0
+NUVOCO,A,income,Operating Income,2023-03-31,2667300000.0
+NUVOCO,A,income,Operating Income,2024-03-31,7054300000.0
+NUVOCO,A,income,Operating Income,2025-03-31,5040000000.0
+NUVOCO,A,income,Operating Income,2026-03-31,9757000000.0
+NUVOCO,A,income,Pretax Income,2023-03-31,-6452400000.0
+NUVOCO,A,income,Pretax Income,2024-03-31,2059300000.0
+NUVOCO,A,income,Pretax Income,2025-03-31,265100000.0
+NUVOCO,A,income,Pretax Income,2026-03-31,5505200000.0
+NUVOCO,A,income,Total Revenue,2023-03-31,102889800000.0
+NUVOCO,A,income,Total Revenue,2024-03-31,105386700000.0
+NUVOCO,A,income,Total Revenue,2025-03-31,101709400000.0
+NUVOCO,A,income,Total Revenue,2026-03-31,111420400000.0
+NUVOCO,Q,income,Basic EPS,2025-06-30,3.73
+NUVOCO,Q,income,Basic EPS,2025-12-31,1.38
+NUVOCO,Q,income,Basic EPS,2026-03-31,3.94
+NUVOCO,Q,income,Basic EPS,2026-06-30,4.47
+NUVOCO,Q,income,Basic EPS,2026-09-30,1.81
+NUVOCO,Q,income,Diluted EPS,2025-06-30,3.73
+NUVOCO,Q,income,Diluted EPS,2025-12-31,1.38
+NUVOCO,Q,income,Diluted EPS,2026-03-31,3.94
+NUVOCO,Q,income,Diluted EPS,2026-06-30,4.47
+NUVOCO,Q,income,Diluted EPS,2026-09-30,1.81
+NUVOCO,Q,income,EBITDA,2025-06-30,5333900000.0
+NUVOCO,Q,income,EBITDA,2025-12-31,3864700000.0
+NUVOCO,Q,income,EBITDA,2026-03-31,5420600000.0
+NUVOCO,Q,income,EBITDA,2026-06-30,5718500000.0
+NUVOCO,Q,income,EBITDA,2026-09-30,4111300000.0
+NUVOCO,Q,income,Interest Expense,2025-06-30,1171300000.0
+NUVOCO,Q,income,Interest Expense,2025-12-31,986500000.0
+NUVOCO,Q,income,Interest Expense,2026-03-31,809500000.0
+NUVOCO,Q,income,Interest Expense,2026-06-30,702800000.0
+NUVOCO,Q,income,Interest Expense,2026-09-30,718800000.0
+NUVOCO,Q,income,Net Income,2025-06-30,1331600000.0
+NUVOCO,Q,income,Net Income,2025-12-31,490500000.0
+NUVOCO,Q,income,Net Income,2026-03-31,1408100000.0
+NUVOCO,Q,income,Net Income,2026-06-30,1597600000.0
+NUVOCO,Q,income,Net Income,2026-09-30,652800000.0
+NUVOCO,Q,income,Net Income Common Stockholders,2025-06-30,1331600000.0
+NUVOCO,Q,income,Net Income Common Stockholders,2025-12-31,490500000.0
+NUVOCO,Q,income,Net Income Common Stockholders,2026-03-31,1408100000.0
+NUVOCO,Q,income,Net Income Common Stockholders,2026-06-30,1597600000.0
+NUVOCO,Q,income,Net Income Common Stockholders,2026-09-30,652800000.0
+NUVOCO,Q,income,Operating Income,2025-06-30,3039300000.0
+NUVOCO,Q,income,Operating Income,2025-12-31,1604300000.0
+NUVOCO,Q,income,Operating Income,2026-03-31,3596600000.0
+NUVOCO,Q,income,Operating Income,2026-06-30,3426900000.0
+NUVOCO,Q,income,Operating Income,2026-09-30,1770500000.0
+NUVOCO,Q,income,Pretax Income,2025-06-30,2016000000.0
+NUVOCO,Q,income,Pretax Income,2025-12-31,645400000.0
+NUVOCO,Q,income,Pretax Income,2026-03-31,2332000000.0
+NUVOCO,Q,income,Pretax Income,2026-06-30,2760200000.0
+NUVOCO,Q,income,Pretax Income,2026-09-30,1080000000.0
+NUVOCO,Q,income,Total Revenue,2025-06-30,28727000000.0
+NUVOCO,Q,income,Total Revenue,2025-12-31,27012700000.0
+NUVOCO,Q,income,Total Revenue,2026-03-31,33067500000.0
+NUVOCO,Q,income,Total Revenue,2026-06-30,31287100000.0
+NUVOCO,Q,income,Total Revenue,2026-09-30,27899700000.0

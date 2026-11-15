@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+ANURAS,A,balance,Cash And Cash Equivalents,2023-03-31,1878090000.0
+ANURAS,A,balance,Cash And Cash Equivalents,2024-03-31,2498030000.0
+ANURAS,A,balance,Cash And Cash Equivalents,2025-03-31,1130460000.0
+ANURAS,A,balance,Cash And Cash Equivalents,2026-03-31,3780690000.0
+ANURAS,A,balance,Net Debt,2023-03-31,5997780000.0
+ANURAS,A,balance,Net Debt,2024-03-31,7688850000.0
+ANURAS,A,balance,Net Debt,2025-03-31,12047760000.0
+ANURAS,A,balance,Net Debt,2026-03-31,14365860000.0
+ANURAS,A,balance,Ordinary Shares Number,2023-03-31,107464617.0
+ANURAS,A,balance,Ordinary Shares Number,2024-03-31,109785896.0
+ANURAS,A,balance,Ordinary Shares Number,2025-03-31,109931337.0
+ANURAS,A,balance,Ordinary Shares Number,2026-03-31,113848310.0
+ANURAS,A,balance,Stockholders Equity,2023-03-31,23725880000.0
+ANURAS,A,balance,Stockholders Equity,2024-03-31,27610240000.0
+ANURAS,A,balance,Stockholders Equity,2025-03-31,28503120000.0
+ANURAS,A,balance,Stockholders Equity,2026-03-31,33018390000.0
+ANURAS,A,balance,Total Assets,2023-03-31,37779200000.0
+ANURAS,A,balance,Total Assets,2024-03-31,46016650000.0
+ANURAS,A,balance,Total Assets,2025-03-31,52688840000.0
+ANURAS,A,balance,Total Assets,2026-03-31,80126040000.0
+ANURAS,A,balance,Total Debt,2023-03-31,8217070000.0
+ANURAS,A,balance,Total Debt,2024-03-31,10690590000.0
+ANURAS,A,balance,Total Debt,2025-03-31,13824220000.0
+ANURAS,A,balance,Total Debt,2026-03-31,18975930000.0
+ANURAS,A,cashflow,Capital Expenditure,2023-03-31,-2207670000.0
+ANURAS,A,cashflow,Capital Expenditure,2024-03-31,-7159870000.0
+ANURAS,A,cashflow,Capital Expenditure,2025-03-31,-4099190000.0
+ANURAS,A,cashflow,Capital Expenditure,2026-03-31,-5551560000.0
+ANURAS,A,cashflow,Free Cash Flow,2023-03-31,713030000.0
+ANURAS,A,cashflow,Free Cash Flow,2024-03-31,-6569550000.0
+ANURAS,A,cashflow,Free Cash Flow,2025-03-31,-4400440000.0
+ANURAS,A,cashflow,Free Cash Flow,2026-03-31,-2208300000.0
+ANURAS,A,cashflow,Operating Cash Flow,2023-03-31,2920700000.0
+ANURAS,A,cashflow,Operating Cash Flow,2024-03-31,590320000.0
+ANURAS,A,cashflow,Operating Cash Flow,2025-03-31,-301250000.0
+ANURAS,A,cashflow,Operating Cash Flow,2026-03-31,3343260000.0
+ANURAS,A,income,Basic EPS,2023-03-31,17.44
+ANURAS,A,income,Basic EPS,2024-03-31,11.89
+ANURAS,A,income,Basic EPS,2025-03-31,8.5
+ANURAS,A,income,Basic EPS,2026-03-31,15.09
+ANURAS,A,income,Diluted EPS,2023-03-31,17.4
+ANURAS,A,income,Diluted EPS,2024-03-31,11.87
+ANURAS,A,income,Diluted EPS,2025-03-31,8.5
+ANURAS,A,income,Diluted EPS,2026-03-31,15.09
+ANURAS,A,income,EBITDA,2023-03-31,4276690000.0
+ANURAS,A,income,EBITDA,2024-03-31,4008970000.0
+ANURAS,A,income,EBITDA,2025-03-31,4021050000.0
+ANURAS,A,income,EBITDA,2026-03-31,5361350000.0
+ANURAS,A,income,Interest Expense,2023-03-31,489260000.0
+ANURAS,A,income,Interest Expense,2024-03-31,794260000.0
+ANURAS,A,income,Interest Expense,2025-03-31,1019780000.0
+ANURAS,A,income,Interest Expense,2026-03-31,1418310000.0
+ANURAS,A,income,Net Income,2023-03-31,1808450000.0
+ANURAS,A,income,Net Income,2024-03-31,1286040000.0
+ANURAS,A,income,Net Income,2025-03-31,933490000.0
+ANURAS,A,income,Net Income,2026-03-31,1701210000.0
+ANURAS,A,income,Net Income Common Stockholders,2023-03-31,1808450000.0
+ANURAS,A,income,Net Income Common Stockholders,2024-03-31,1286040000.0
+ANURAS,A,income,Net Income Common Stockholders,2025-03-31,933490000.0
+ANURAS,A,income,Net Income Common Stockholders,2026-03-31,1701210000.0
+ANURAS,A,income,Operating Income,2023-03-31,3602890000.0
+ANURAS,A,income,Operating Income,2024-03-31,3015000000.0
+ANURAS,A,income,Operating Income,2025-03-31,2994200000.0
+ANURAS,A,income,Operating Income,2026-03-31,4004980000.0
+ANURAS,A,income,Pretax Income,2023-03-31,3076620000.0
+ANURAS,A,income,Pretax Income,2024-03-31,2417690000.0
+ANURAS,A,income,Pretax Income,2025-03-31,1978510000.0
+ANURAS,A,income,Pretax Income,2026-03-31,2544040000.0
+ANURAS,A,income,Total Revenue,2023-03-31,15628630000.0
+ANURAS,A,income,Total Revenue,2024-03-31,14425840000.0
+ANURAS,A,income,Total Revenue,2025-03-31,14023260000.0
+ANURAS,A,income,Total Revenue,2026-03-31,23213830000.0
+ANURAS,Q,income,Basic EPS,2025-06-30,3.1
+ANURAS,Q,income,Basic EPS,2025-12-31,4.31
+ANURAS,Q,income,Basic EPS,2026-03-31,3.75
+ANURAS,Q,income,Basic EPS,2026-06-30,3.39
+ANURAS,Q,income,Basic EPS,2026-09-30,6.81
+ANURAS,Q,income,Diluted EPS,2025-06-30,3.1
+ANURAS,Q,income,Diluted EPS,2025-12-31,4.31
+ANURAS,Q,income,Diluted EPS,2026-03-31,3.75
+ANURAS,Q,income,Diluted EPS,2026-06-30,3.39
+ANURAS,Q,income,Diluted EPS,2026-09-30,6.81
+ANURAS,Q,income,EBITDA,2025-06-30,1291970000.0
+ANURAS,Q,income,EBITDA,2025-12-31,1295810000.0
+ANURAS,Q,income,EBITDA,2026-03-31,1406580000.0
+ANURAS,Q,income,EBITDA,2026-06-30,1749350000.0
+ANURAS,Q,income,EBITDA,2026-09-30,2024640000.0
+ANURAS,Q,income,Interest Expense,2025-06-30,356650000.0
+ANURAS,Q,income,Interest Expense,2025-12-31,351590000.0
+ANURAS,Q,income,Interest Expense,2026-03-31,419130000.0
+ANURAS,Q,income,Interest Expense,2026-06-30,491920000.0
+ANURAS,Q,income,Interest Expense,2026-09-30,561840000.0
+ANURAS,Q,income,Net Income,2025-06-30,340360000.0
+ANURAS,Q,income,Net Income,2025-12-31,490410000.0
+ANURAS,Q,income,Net Income,2026-03-31,426500000.0
+ANURAS,Q,income,Net Income,2026-06-30,386390000.0
+ANURAS,Q,income,Net Income,2026-09-30,500340000.0
+ANURAS,Q,income,Net Income Common Stockholders,2025-06-30,340360000.0
+ANURAS,Q,income,Net Income Common Stockholders,2025-12-31,490410000.0
+ANURAS,Q,income,Net Income Common Stockholders,2026-03-31,426500000.0
+ANURAS,Q,income,Net Income Common Stockholders,2026-06-30,386390000.0
+ANURAS,Q,income,Net Income Common Stockholders,2026-09-30,500340000.0
+ANURAS,Q,income,Operating Income,2025-06-30,936030000.0
+ANURAS,Q,income,Operating Income,2025-12-31,930080000.0
+ANURAS,Q,income,Operating Income,2026-03-31,946120000.0
+ANURAS,Q,income,Operating Income,2026-06-30,1063080000.0
+ANURAS,Q,income,Operating Income,2026-09-30,1304100000.0
+ANURAS,Q,income,Pretax Income,2025-06-30,628500000.0
+ANURAS,Q,income,Pretax Income,2025-12-31,599500000.0
+ANURAS,Q,income,Pretax Income,2026-03-31,560680000.0
+ANURAS,Q,income,Pretax Income,2026-06-30,696810000.0
+ANURAS,Q,income,Pretax Income,2026-09-30,894630000.0
+ANURAS,Q,income,Total Revenue,2025-06-30,4858270000.0
+ANURAS,Q,income,Total Revenue,2025-12-31,5124470000.0
+ANURAS,Q,income,Total Revenue,2026-03-31,6357830000.0
+ANURAS,Q,income,Total Revenue,2026-06-30,6549800000.0
+ANURAS,Q,income,Total Revenue,2026-09-30,8059350000.0

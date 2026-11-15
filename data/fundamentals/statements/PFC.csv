@@ -1,0 +1,111 @@
+symbol,freq,statement,item,period_end,value
+PFC,A,balance,Cash And Cash Equivalents,2023-03-31,4157300000.0
+PFC,A,balance,Cash And Cash Equivalents,2024-03-31,6860500000.0
+PFC,A,balance,Cash And Cash Equivalents,2025-03-31,10977000000.0
+PFC,A,balance,Cash And Cash Equivalents,2026-03-31,27366300000.0
+PFC,A,balance,Net Debt,2023-03-31,7802078200000.0
+PFC,A,balance,Net Debt,2024-03-31,8908018500000.0
+PFC,A,balance,Net Debt,2025-03-31,9997608000000.0
+PFC,A,balance,Net Debt,2026-03-31,10078307800000.0
+PFC,A,balance,Ordinary Shares Number,2023-03-31,3300101760.0
+PFC,A,balance,Ordinary Shares Number,2024-03-31,3300101760.0
+PFC,A,balance,Ordinary Shares Number,2025-03-31,3300101760.0
+PFC,A,balance,Ordinary Shares Number,2026-03-31,3300101760.0
+PFC,A,balance,Stockholders Equity,2023-03-31,841584900000.0
+PFC,A,balance,Stockholders Equity,2024-03-31,1011467700000.0
+PFC,A,balance,Stockholders Equity,2025-03-31,1177383500000.0
+PFC,A,balance,Stockholders Equity,2026-03-31,1328609400000.0
+PFC,A,balance,Total Assets,2023-03-31,8961118600000.0
+PFC,A,balance,Total Assets,2024-03-31,10388773800000.0
+PFC,A,balance,Total Assets,2025-03-31,11780865000000.0
+PFC,A,balance,Total Assets,2026-03-31,12445785500000.0
+PFC,A,balance,Total Debt,2023-03-31,7806405600000.0
+PFC,A,balance,Total Debt,2024-03-31,8915026400000.0
+PFC,A,balance,Total Debt,2025-03-31,10008104200000.0
+PFC,A,balance,Total Debt,2026-03-31,10125034600000.0
+PFC,A,cashflow,Capital Expenditure,2023-03-31,-1227700000.0
+PFC,A,cashflow,Capital Expenditure,2024-03-31,-3234100000.0
+PFC,A,cashflow,Capital Expenditure,2025-03-31,-8404700000.0
+PFC,A,cashflow,Capital Expenditure,2026-03-31,-3371200000.0
+PFC,A,cashflow,Free Cash Flow,2023-03-31,-748400000000.0
+PFC,A,cashflow,Free Cash Flow,2024-03-31,-981438200000.0
+PFC,A,cashflow,Free Cash Flow,2025-03-31,-931104900000.0
+PFC,A,cashflow,Free Cash Flow,2026-03-31,-48416200000.0
+PFC,A,cashflow,Operating Cash Flow,2023-03-31,-747172300000.0
+PFC,A,cashflow,Operating Cash Flow,2024-03-31,-978204100000.0
+PFC,A,cashflow,Operating Cash Flow,2025-03-31,-922700200000.0
+PFC,A,cashflow,Operating Cash Flow,2026-03-31,-45045000000.0
+PFC,A,income,Basic EPS,2023-03-31,48.15
+PFC,A,income,Basic EPS,2024-03-31,59.88
+PFC,A,income,Basic EPS,2025-03-31,69.67
+PFC,A,income,Basic EPS,2026-03-31,78.49
+PFC,A,income,Diluted EPS,2023-03-31,48.15
+PFC,A,income,Diluted EPS,2024-03-31,59.88
+PFC,A,income,Diluted EPS,2025-03-31,69.67
+PFC,A,income,Diluted EPS,2026-03-31,78.49
+PFC,A,income,EBITDA,2023-03-31,735646500000.0
+PFC,A,income,EBITDA,2024-03-31,916095900000.0
+PFC,A,income,EBITDA,2025-03-31,1033317300000.0
+PFC,A,income,EBITDA,2026-03-31,1123279900000.0
+PFC,A,income,Interest Expense,2023-03-31,470167800000.0
+PFC,A,income,Interest Expense,2024-03-31,579680700000.0
+PFC,A,income,Interest Expense,2025-03-31,646438800000.0
+PFC,A,income,Interest Expense,2026-03-31,694153200000.0
+PFC,A,income,Net Income,2023-03-31,158893300000.0
+PFC,A,income,Net Income,2024-03-31,197611600000.0
+PFC,A,income,Net Income,2025-03-31,229908100000.0
+PFC,A,income,Net Income,2026-03-31,259009500000.0
+PFC,A,income,Net Income Common Stockholders,2023-03-31,158893300000.0
+PFC,A,income,Net Income Common Stockholders,2024-03-31,197611600000.0
+PFC,A,income,Net Income Common Stockholders,2025-03-31,229908100000.0
+PFC,A,income,Net Income Common Stockholders,2026-03-31,259009500000.0
+PFC,A,income,Pretax Income,2023-03-31,264960700000.0
+PFC,A,income,Pretax Income,2024-03-31,335881200000.0
+PFC,A,income,Pretax Income,2025-03-31,386321600000.0
+PFC,A,income,Pretax Income,2026-03-31,428496800000.0
+PFC,A,income,Total Revenue,2023-03-31,275173700000.0
+PFC,A,income,Total Revenue,2024-03-31,335664000000.0
+PFC,A,income,Total Revenue,2025-03-31,416776700000.0
+PFC,A,income,Total Revenue,2026-03-31,431999000000.0
+PFC,Q,income,Basic EPS,2025-09-30,17.4
+PFC,Q,income,Basic EPS,2025-12-31,19.07
+PFC,Q,income,Basic EPS,2026-03-31,21.21
+PFC,Q,income,Basic EPS,2026-06-30,21.25
+PFC,Q,income,Basic EPS,2026-09-30,18.29
+PFC,Q,income,Diluted EPS,2025-09-30,17.4
+PFC,Q,income,Diluted EPS,2025-12-31,19.07
+PFC,Q,income,Diluted EPS,2026-03-31,21.21
+PFC,Q,income,Diluted EPS,2026-06-30,21.25
+PFC,Q,income,Diluted EPS,2026-09-30,18.29
+PFC,Q,income,EBITDA,2025-09-30,273863600000.0
+PFC,Q,income,EBITDA,2025-12-31,280915000000.0
+PFC,Q,income,EBITDA,2026-03-31,284407900000.0
+PFC,Q,income,EBITDA,2026-06-30,285285100000.0
+PFC,Q,income,EBITDA,2026-09-30,278551900000.0
+PFC,Q,income,Interest Expense,2025-09-30,173136800000.0
+PFC,Q,income,Interest Expense,2025-12-31,175721000000.0
+PFC,Q,income,Interest Expense,2026-03-31,173334600000.0
+PFC,Q,income,Interest Expense,2026-06-30,172504200000.0
+PFC,Q,income,Interest Expense,2026-09-30,180577500000.0
+PFC,Q,income,Net Income,2025-09-30,57432500000.0
+PFC,Q,income,Net Income,2025-12-31,62924600000.0
+PFC,Q,income,Net Income,2026-03-31,69989900000.0
+PFC,Q,income,Net Income,2026-06-30,70120100000.0
+PFC,Q,income,Net Income,2026-09-30,60342800000.0
+PFC,Q,income,Net Income Common Stockholders,2025-09-30,57432500000.0
+PFC,Q,income,Net Income Common Stockholders,2025-12-31,62924600000.0
+PFC,Q,income,Net Income Common Stockholders,2026-03-31,69989900000.0
+PFC,Q,income,Net Income Common Stockholders,2026-06-30,70120100000.0
+PFC,Q,income,Net Income Common Stockholders,2026-09-30,60342800000.0
+PFC,Q,income,Operating Income,2025-09-30,284605300000.0
+PFC,Q,income,Operating Income,2026-09-30,284637700000.0
+PFC,Q,income,Pretax Income,2025-09-30,100573600000.0
+PFC,Q,income,Pretax Income,2025-12-31,105015500000.0
+PFC,Q,income,Pretax Income,2026-03-31,110917900000.0
+PFC,Q,income,Pretax Income,2026-06-30,112600800000.0
+PFC,Q,income,Pretax Income,2026-09-30,97813100000.0
+PFC,Q,income,Total Revenue,2025-09-30,287235000000.0
+PFC,Q,income,Total Revenue,2025-12-31,110894500000.0
+PFC,Q,income,Total Revenue,2026-03-31,110181600000.0
+PFC,Q,income,Total Revenue,2026-06-30,101863400000.0
+PFC,Q,income,Total Revenue,2026-09-30,286543100000.0

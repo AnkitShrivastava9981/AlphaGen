@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+NAM-INDIA,A,balance,Cash And Cash Equivalents,2023-03-31,212600000.0
+NAM-INDIA,A,balance,Cash And Cash Equivalents,2024-03-31,242300000.0
+NAM-INDIA,A,balance,Cash And Cash Equivalents,2025-03-31,265500000.0
+NAM-INDIA,A,balance,Cash And Cash Equivalents,2026-03-31,165800000.0
+NAM-INDIA,A,balance,Ordinary Shares Number,2023-03-31,623175443.0
+NAM-INDIA,A,balance,Ordinary Shares Number,2024-03-31,629998730.0
+NAM-INDIA,A,balance,Ordinary Shares Number,2025-03-31,634702632.0
+NAM-INDIA,A,balance,Ordinary Shares Number,2026-03-31,638115996.0
+NAM-INDIA,A,balance,Stockholders Equity,2023-03-31,35156300000.0
+NAM-INDIA,A,balance,Stockholders Equity,2024-03-31,39821800000.0
+NAM-INDIA,A,balance,Stockholders Equity,2025-03-31,42129200000.0
+NAM-INDIA,A,balance,Stockholders Equity,2026-03-31,46591400000.0
+NAM-INDIA,A,balance,Total Assets,2023-03-31,38609100000.0
+NAM-INDIA,A,balance,Total Assets,2024-03-31,43750400000.0
+NAM-INDIA,A,balance,Total Assets,2025-03-31,46701400000.0
+NAM-INDIA,A,balance,Total Assets,2026-03-31,51922800000.0
+NAM-INDIA,A,balance,Total Debt,2023-03-31,560000000.0
+NAM-INDIA,A,balance,Total Debt,2024-03-31,785900000.0
+NAM-INDIA,A,balance,Total Debt,2025-03-31,880300000.0
+NAM-INDIA,A,balance,Total Debt,2026-03-31,753400000.0
+NAM-INDIA,A,cashflow,Capital Expenditure,2023-03-31,-128200000.0
+NAM-INDIA,A,cashflow,Capital Expenditure,2024-03-31,-118700000.0
+NAM-INDIA,A,cashflow,Capital Expenditure,2025-03-31,-5410000000.0
+NAM-INDIA,A,cashflow,Capital Expenditure,2026-03-31,-789600000.0
+NAM-INDIA,A,cashflow,Free Cash Flow,2023-03-31,5737400000.0
+NAM-INDIA,A,cashflow,Free Cash Flow,2024-03-31,7656100000.0
+NAM-INDIA,A,cashflow,Free Cash Flow,2025-03-31,6585300000.0
+NAM-INDIA,A,cashflow,Free Cash Flow,2026-03-31,13870600000.0
+NAM-INDIA,A,cashflow,Operating Cash Flow,2023-03-31,5865600000.0
+NAM-INDIA,A,cashflow,Operating Cash Flow,2024-03-31,7774800000.0
+NAM-INDIA,A,cashflow,Operating Cash Flow,2025-03-31,11995300000.0
+NAM-INDIA,A,cashflow,Operating Cash Flow,2026-03-31,14660200000.0
+NAM-INDIA,A,income,Basic EPS,2023-03-31,11.61
+NAM-INDIA,A,income,Basic EPS,2024-03-31,17.71
+NAM-INDIA,A,income,Basic EPS,2025-03-31,20.34
+NAM-INDIA,A,income,Basic EPS,2026-03-31,24.05
+NAM-INDIA,A,income,Diluted EPS,2023-03-31,11.53
+NAM-INDIA,A,income,Diluted EPS,2024-03-31,17.53
+NAM-INDIA,A,income,Diluted EPS,2025-03-31,20.03
+NAM-INDIA,A,income,Diluted EPS,2026-03-31,23.63
+NAM-INDIA,A,income,EBITDA,2023-03-31,9615000000.0
+NAM-INDIA,A,income,EBITDA,2024-03-31,13878600000.0
+NAM-INDIA,A,income,EBITDA,2025-03-31,17316600000.0
+NAM-INDIA,A,income,EBITDA,2026-03-31,20192400000.0
+NAM-INDIA,A,income,Interest Expense,2023-03-31,39700000.0
+NAM-INDIA,A,income,Interest Expense,2024-03-31,62400000.0
+NAM-INDIA,A,income,Interest Expense,2025-03-31,67400000.0
+NAM-INDIA,A,income,Interest Expense,2026-03-31,70000000.0
+NAM-INDIA,A,income,Net Income,2023-03-31,7233300000.0
+NAM-INDIA,A,income,Net Income,2024-03-31,11073200000.0
+NAM-INDIA,A,income,Net Income,2025-03-31,12863900000.0
+NAM-INDIA,A,income,Net Income,2026-03-31,15293800000.0
+NAM-INDIA,A,income,Net Income Common Stockholders,2023-03-31,7233300000.0
+NAM-INDIA,A,income,Net Income Common Stockholders,2024-03-31,11073200000.0
+NAM-INDIA,A,income,Net Income Common Stockholders,2025-03-31,12863900000.0
+NAM-INDIA,A,income,Net Income Common Stockholders,2026-03-31,15293800000.0
+NAM-INDIA,A,income,Operating Income,2023-03-31,7655800000.0
+NAM-INDIA,A,income,Operating Income,2024-03-31,9643200000.0
+NAM-INDIA,A,income,Operating Income,2025-03-31,14107600000.0
+NAM-INDIA,A,income,Operating Income,2026-03-31,17529200000.0
+NAM-INDIA,A,income,Pretax Income,2023-03-31,9277400000.0
+NAM-INDIA,A,income,Pretax Income,2024-03-31,13524800000.0
+NAM-INDIA,A,income,Pretax Income,2025-03-31,16943200000.0
+NAM-INDIA,A,income,Pretax Income,2026-03-31,19719600000.0
+NAM-INDIA,A,income,Total Revenue,2023-03-31,13498200000.0
+NAM-INDIA,A,income,Total Revenue,2024-03-31,16432200000.0
+NAM-INDIA,A,income,Total Revenue,2025-03-31,22306900000.0
+NAM-INDIA,A,income,Total Revenue,2026-03-31,27087400000.0
+NAM-INDIA,Q,income,Basic EPS,2025-06-30,6.24
+NAM-INDIA,Q,income,Basic EPS,2025-12-31,6.34
+NAM-INDIA,Q,income,Basic EPS,2026-03-31,6.04
+NAM-INDIA,Q,income,Basic EPS,2026-06-30,7.89
+NAM-INDIA,Q,income,Basic EPS,2026-09-30,5.07
+NAM-INDIA,Q,income,Diluted EPS,2025-06-30,6.13
+NAM-INDIA,Q,income,Diluted EPS,2025-12-31,6.22
+NAM-INDIA,Q,income,Diluted EPS,2026-03-31,5.93
+NAM-INDIA,Q,income,Diluted EPS,2026-06-30,7.75
+NAM-INDIA,Q,income,Diluted EPS,2026-09-30,4.98
+NAM-INDIA,Q,income,EBITDA,2025-06-30,5341300000.0
+NAM-INDIA,Q,income,EBITDA,2025-12-31,5453900000.0
+NAM-INDIA,Q,income,EBITDA,2026-03-31,4735900000.0
+NAM-INDIA,Q,income,EBITDA,2026-06-30,6780200000.0
+NAM-INDIA,Q,income,EBITDA,2026-09-30,4638500000.0
+NAM-INDIA,Q,income,Interest Expense,2025-06-30,18000000.0
+NAM-INDIA,Q,income,Interest Expense,2025-12-31,17700000.0
+NAM-INDIA,Q,income,Interest Expense,2026-03-31,16300000.0
+NAM-INDIA,Q,income,Interest Expense,2026-06-30,15700000.0
+NAM-INDIA,Q,income,Interest Expense,2026-09-30,16400000.0
+NAM-INDIA,Q,income,Net Income,2025-06-30,3961200000.0
+NAM-INDIA,Q,income,Net Income,2025-12-31,4039000000.0
+NAM-INDIA,Q,income,Net Income,2026-03-31,3847200000.0
+NAM-INDIA,Q,income,Net Income,2026-06-30,5037000000.0
+NAM-INDIA,Q,income,Net Income,2026-09-30,3243700000.0
+NAM-INDIA,Q,income,Net Income Common Stockholders,2025-06-30,3961200000.0
+NAM-INDIA,Q,income,Net Income Common Stockholders,2025-12-31,4039000000.0
+NAM-INDIA,Q,income,Net Income Common Stockholders,2026-03-31,3847200000.0
+NAM-INDIA,Q,income,Net Income Common Stockholders,2026-06-30,5037000000.0
+NAM-INDIA,Q,income,Net Income Common Stockholders,2026-09-30,3243700000.0
+NAM-INDIA,Q,income,Operating Income,2025-06-30,3796900000.0
+NAM-INDIA,Q,income,Operating Income,2025-12-31,4592700000.0
+NAM-INDIA,Q,income,Operating Income,2026-03-31,4949500000.0
+NAM-INDIA,Q,income,Operating Income,2026-06-30,4958500000.0
+NAM-INDIA,Q,income,Operating Income,2026-09-30,5250600000.0
+NAM-INDIA,Q,income,Pretax Income,2025-06-30,5238900000.0
+NAM-INDIA,Q,income,Pretax Income,2025-12-31,5327700000.0
+NAM-INDIA,Q,income,Pretax Income,2026-03-31,4597900000.0
+NAM-INDIA,Q,income,Pretax Income,2026-06-30,6644900000.0
+NAM-INDIA,Q,income,Pretax Income,2026-09-30,4498000000.0
+NAM-INDIA,Q,income,Total Revenue,2025-06-30,6066100000.0
+NAM-INDIA,Q,income,Total Revenue,2025-12-31,7052800000.0
+NAM-INDIA,Q,income,Total Revenue,2026-03-31,7387300000.0
+NAM-INDIA,Q,income,Total Revenue,2026-06-30,7668700000.0
+NAM-INDIA,Q,income,Total Revenue,2026-09-30,7957500000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PNGJL,A,balance,Cash And Cash Equivalents,2023-03-31,175640000.0
+PNGJL,A,balance,Cash And Cash Equivalents,2024-03-31,260870000.0
+PNGJL,A,balance,Cash And Cash Equivalents,2025-03-31,935870000.0
+PNGJL,A,balance,Cash And Cash Equivalents,2026-03-31,416960000.0
+PNGJL,A,balance,Net Debt,2023-03-31,2656460000.0
+PNGJL,A,balance,Net Debt,2024-03-31,3704090000.0
+PNGJL,A,balance,Net Debt,2025-03-31,7295000000.0
+PNGJL,A,balance,Net Debt,2026-03-31,15378870000.0
+PNGJL,A,balance,Ordinary Shares Number,2023-03-31,135708333.0
+PNGJL,A,balance,Ordinary Shares Number,2024-03-31,135708333.0
+PNGJL,A,balance,Ordinary Shares Number,2025-03-31,135708333.0
+PNGJL,A,balance,Ordinary Shares Number,2026-03-31,135708333.0
+PNGJL,A,balance,Stockholders Equity,2023-03-31,3735260000.0
+PNGJL,A,balance,Stockholders Equity,2024-03-31,5344400000.0
+PNGJL,A,balance,Stockholders Equity,2025-03-31,15539380000.0
+PNGJL,A,balance,Stockholders Equity,2026-03-31,19627260000.0
+PNGJL,A,balance,Total Assets,2023-03-31,10625520000.0
+PNGJL,A,balance,Total Assets,2024-03-31,14650620000.0
+PNGJL,A,balance,Total Assets,2025-03-31,31442210000.0
+PNGJL,A,balance,Total Assets,2026-03-31,49641680000.0
+PNGJL,A,balance,Total Debt,2023-03-31,3241410000.0
+PNGJL,A,balance,Total Debt,2024-03-31,4551940000.0
+PNGJL,A,balance,Total Debt,2025-03-31,9303620000.0
+PNGJL,A,balance,Total Debt,2026-03-31,17370930000.0
+PNGJL,A,cashflow,Capital Expenditure,2023-03-31,-479560000.0
+PNGJL,A,cashflow,Capital Expenditure,2024-03-31,-305050000.0
+PNGJL,A,cashflow,Capital Expenditure,2025-03-31,-525110000.0
+PNGJL,A,cashflow,Capital Expenditure,2026-03-31,-650230000.0
+PNGJL,A,cashflow,Free Cash Flow,2023-03-31,568160000.0
+PNGJL,A,cashflow,Free Cash Flow,2024-03-31,-241830000.0
+PNGJL,A,cashflow,Free Cash Flow,2025-03-31,-7279550000.0
+PNGJL,A,cashflow,Free Cash Flow,2026-03-31,-7819210000.0
+PNGJL,A,cashflow,Operating Cash Flow,2023-03-31,1047720000.0
+PNGJL,A,cashflow,Operating Cash Flow,2024-03-31,63220000.0
+PNGJL,A,cashflow,Operating Cash Flow,2025-03-31,-6754440000.0
+PNGJL,A,cashflow,Operating Cash Flow,2026-03-31,-7168980000.0
+PNGJL,A,income,Basic EPS,2023-03-31,5.473872
+PNGJL,A,income,Basic EPS,2024-03-31,11.432533
+PNGJL,A,income,Basic EPS,2025-03-31,17.1
+PNGJL,A,income,Basic EPS,2026-03-31,30.2
+PNGJL,A,income,Diluted EPS,2023-03-31,5.473872
+PNGJL,A,income,Diluted EPS,2024-03-31,11.432533
+PNGJL,A,income,Diluted EPS,2025-03-31,17.1
+PNGJL,A,income,Diluted EPS,2026-03-31,30.2
+PNGJL,A,income,EBITDA,2023-03-31,1737090000.0
+PNGJL,A,income,EBITDA,2024-03-31,2724190000.0
+PNGJL,A,income,EBITDA,2025-03-31,3639660000.0
+PNGJL,A,income,EBITDA,2026-03-31,6897300000.0
+PNGJL,A,income,Interest Expense,2023-03-31,340880000.0
+PNGJL,A,income,Interest Expense,2024-03-31,397850000.0
+PNGJL,A,income,Interest Expense,2025-03-31,360220000.0
+PNGJL,A,income,Interest Expense,2026-03-31,806800000.0
+PNGJL,A,income,Net Income,2023-03-31,742850000.0
+PNGJL,A,income,Net Income,2024-03-31,1551490000.0
+PNGJL,A,income,Net Income,2025-03-31,2182680000.0
+PNGJL,A,income,Net Income,2026-03-31,4098200000.0
+PNGJL,A,income,Net Income Common Stockholders,2023-03-31,742850000.0
+PNGJL,A,income,Net Income Common Stockholders,2024-03-31,1551490000.0
+PNGJL,A,income,Net Income Common Stockholders,2025-03-31,2182680000.0
+PNGJL,A,income,Net Income Common Stockholders,2026-03-31,4098200000.0
+PNGJL,A,income,Operating Income,2023-03-31,1618550000.0
+PNGJL,A,income,Operating Income,2024-03-31,2544580000.0
+PNGJL,A,income,Operating Income,2025-03-31,3102630000.0
+PNGJL,A,income,Operating Income,2026-03-31,5606320000.0
+PNGJL,A,income,Pretax Income,2023-03-31,1180840000.0
+PNGJL,A,income,Pretax Income,2024-03-31,2094410000.0
+PNGJL,A,income,Pretax Income,2025-03-31,2931050000.0
+PNGJL,A,income,Pretax Income,2026-03-31,5518630000.0
+PNGJL,A,income,Total Revenue,2023-03-31,45075190000.0
+PNGJL,A,income,Total Revenue,2024-03-31,61120220000.0
+PNGJL,A,income,Total Revenue,2025-03-31,76934680000.0
+PNGJL,A,income,Total Revenue,2026-03-31,107390970000.0
+PNGJL,Q,income,Basic EPS,2025-09-30,5.84
+PNGJL,Q,income,Basic EPS,2025-12-31,12.59
+PNGJL,Q,income,Basic EPS,2026-03-31,6.65
+PNGJL,Q,income,Basic EPS,2026-06-30,7.76
+PNGJL,Q,income,Basic EPS,2026-09-30,8.69
+PNGJL,Q,income,Diluted EPS,2025-09-30,5.84
+PNGJL,Q,income,Diluted EPS,2025-12-31,12.59
+PNGJL,Q,income,Diluted EPS,2026-03-31,6.65
+PNGJL,Q,income,Diluted EPS,2026-06-30,7.76
+PNGJL,Q,income,Diluted EPS,2026-09-30,8.69
+PNGJL,Q,income,EBITDA,2025-09-30,1429380000.0
+PNGJL,Q,income,EBITDA,2025-12-31,2683230000.0
+PNGJL,Q,income,EBITDA,2026-03-31,1663320000.0
+PNGJL,Q,income,EBITDA,2026-06-30,1924070000.0
+PNGJL,Q,income,EBITDA,2026-09-30,2246130000.0
+PNGJL,Q,income,Interest Expense,2025-09-30,198400000.0
+PNGJL,Q,income,Interest Expense,2025-12-31,250620000.0
+PNGJL,Q,income,Interest Expense,2026-03-31,275720000.0
+PNGJL,Q,income,Interest Expense,2026-06-30,340580000.0
+PNGJL,Q,income,Interest Expense,2026-09-30,418490000.0
+PNGJL,Q,income,Net Income,2025-09-30,793120000.0
+PNGJL,Q,income,Net Income,2025-12-31,1709110000.0
+PNGJL,Q,income,Net Income,2026-03-31,902560000.0
+PNGJL,Q,income,Net Income,2026-06-30,1053350000.0
+PNGJL,Q,income,Net Income,2026-09-30,1211100000.0
+PNGJL,Q,income,Net Income Common Stockholders,2025-09-30,793120000.0
+PNGJL,Q,income,Net Income Common Stockholders,2025-12-31,1709110000.0
+PNGJL,Q,income,Net Income Common Stockholders,2026-03-31,902560000.0
+PNGJL,Q,income,Net Income Common Stockholders,2026-06-30,1053350000.0
+PNGJL,Q,income,Net Income Common Stockholders,2026-09-30,1211100000.0
+PNGJL,Q,income,Operating Income,2025-09-30,931870000.0
+PNGJL,Q,income,Operating Income,2025-12-31,2291240000.0
+PNGJL,Q,income,Operating Income,2026-03-31,1183310000.0
+PNGJL,Q,income,Operating Income,2026-06-30,1646070000.0
+PNGJL,Q,income,Operating Income,2026-09-30,1871900000.0
+PNGJL,Q,income,Pretax Income,2025-09-30,1091530000.0
+PNGJL,Q,income,Pretax Income,2025-12-31,2280840000.0
+PNGJL,Q,income,Pretax Income,2026-03-31,1219010000.0
+PNGJL,Q,income,Pretax Income,2026-06-30,1405900000.0
+PNGJL,Q,income,Pretax Income,2026-09-30,1625410000.0
+PNGJL,Q,income,Total Revenue,2025-09-30,21776220000.0
+PNGJL,Q,income,Total Revenue,2025-12-31,33026070000.0
+PNGJL,Q,income,Total Revenue,2026-03-31,35443060000.0
+PNGJL,Q,income,Total Revenue,2026-06-30,24129810000.0
+PNGJL,Q,income,Total Revenue,2026-09-30,26663770000.0

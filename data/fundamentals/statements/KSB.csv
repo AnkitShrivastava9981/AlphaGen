@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+KSB,A,balance,Cash And Cash Equivalents,2022-12-31,319540000.0
+KSB,A,balance,Cash And Cash Equivalents,2023-12-31,1195280000.0
+KSB,A,balance,Cash And Cash Equivalents,2024-12-31,959010000.0
+KSB,A,balance,Cash And Cash Equivalents,2025-12-31,1668340000.0
+KSB,A,balance,Ordinary Shares Number,2022-12-31,174039220.0
+KSB,A,balance,Ordinary Shares Number,2023-12-31,174039220.0
+KSB,A,balance,Ordinary Shares Number,2024-12-31,174039220.0
+KSB,A,balance,Ordinary Shares Number,2025-12-31,174039220.0
+KSB,A,balance,Stockholders Equity,2022-12-31,11431160000.0
+KSB,A,balance,Stockholders Equity,2023-12-31,13019090000.0
+KSB,A,balance,Stockholders Equity,2024-12-31,14853500000.0
+KSB,A,balance,Stockholders Equity,2025-12-31,16787340000.0
+KSB,A,balance,Total Assets,2022-12-31,18248120000.0
+KSB,A,balance,Total Assets,2023-12-31,20657430000.0
+KSB,A,balance,Total Assets,2024-12-31,23480280000.0
+KSB,A,balance,Total Assets,2025-12-31,27925530000.0
+KSB,A,balance,Total Debt,2022-12-31,28820000.0
+KSB,A,balance,Total Debt,2023-12-31,32360000.0
+KSB,A,balance,Total Debt,2024-12-31,34360000.0
+KSB,A,balance,Total Debt,2025-12-31,52030000.0
+KSB,A,cashflow,Capital Expenditure,2022-12-31,-1069200000.0
+KSB,A,cashflow,Capital Expenditure,2023-12-31,-932760000.0
+KSB,A,cashflow,Capital Expenditure,2024-12-31,-1005500000.0
+KSB,A,cashflow,Capital Expenditure,2025-12-31,-935180000.0
+KSB,A,cashflow,Free Cash Flow,2022-12-31,-686820000.0
+KSB,A,cashflow,Free Cash Flow,2023-12-31,482210000.0
+KSB,A,cashflow,Free Cash Flow,2024-12-31,865970000.0
+KSB,A,cashflow,Free Cash Flow,2025-12-31,-9390000.0
+KSB,A,cashflow,Operating Cash Flow,2022-12-31,382380000.0
+KSB,A,cashflow,Operating Cash Flow,2023-12-31,1414970000.0
+KSB,A,cashflow,Operating Cash Flow,2024-12-31,1871470000.0
+KSB,A,cashflow,Operating Cash Flow,2025-12-31,925790000.0
+KSB,A,income,Basic EPS,2022-12-31,10.5
+KSB,A,income,Basic EPS,2023-12-31,11.99
+KSB,A,income,Basic EPS,2024-12-31,14.22
+KSB,A,income,Basic EPS,2025-12-31,15.54
+KSB,A,income,Diluted EPS,2022-12-31,10.5
+KSB,A,income,Diluted EPS,2023-12-31,11.99
+KSB,A,income,Diluted EPS,2024-12-31,14.22
+KSB,A,income,Diluted EPS,2025-12-31,15.54
+KSB,A,income,EBITDA,2022-12-31,2966560000.0
+KSB,A,income,EBITDA,2023-12-31,3353170000.0
+KSB,A,income,EBITDA,2024-12-31,3876910000.0
+KSB,A,income,EBITDA,2025-12-31,4218260000.0
+KSB,A,income,Interest Expense,2022-12-31,61260000.0
+KSB,A,income,Interest Expense,2023-12-31,52900000.0
+KSB,A,income,Interest Expense,2024-12-31,27170000.0
+KSB,A,income,Interest Expense,2025-12-31,30280000.0
+KSB,A,income,Net Income,2022-12-31,1827410000.0
+KSB,A,income,Net Income,2023-12-31,2087330000.0
+KSB,A,income,Net Income,2024-12-31,2474750000.0
+KSB,A,income,Net Income,2025-12-31,2704940000.0
+KSB,A,income,Net Income Common Stockholders,2022-12-31,1827410000.0
+KSB,A,income,Net Income Common Stockholders,2023-12-31,2087330000.0
+KSB,A,income,Net Income Common Stockholders,2024-12-31,2474750000.0
+KSB,A,income,Net Income Common Stockholders,2025-12-31,2704940000.0
+KSB,A,income,Operating Income,2022-12-31,2031500000.0
+KSB,A,income,Operating Income,2023-12-31,2442430000.0
+KSB,A,income,Operating Income,2024-12-31,2833500000.0
+KSB,A,income,Operating Income,2025-12-31,3257770000.0
+KSB,A,income,Pretax Income,2022-12-31,2452690000.0
+KSB,A,income,Pretax Income,2023-12-31,2803490000.0
+KSB,A,income,Pretax Income,2024-12-31,3306500000.0
+KSB,A,income,Pretax Income,2025-12-31,3604620000.0
+KSB,A,income,Total Revenue,2022-12-31,18082700000.0
+KSB,A,income,Total Revenue,2023-12-31,22316990000.0
+KSB,A,income,Total Revenue,2024-12-31,25200560000.0
+KSB,A,income,Total Revenue,2025-12-31,26796310000.0
+KSB,Q,income,Basic EPS,2025-09-30,3.88
+KSB,Q,income,Basic EPS,2025-12-31,4.65
+KSB,Q,income,Basic EPS,2026-03-31,2.28
+KSB,Q,income,Basic EPS,2026-06-30,3.29
+KSB,Q,income,Basic EPS,2026-09-30,3.48
+KSB,Q,income,Diluted EPS,2025-09-30,3.88
+KSB,Q,income,Diluted EPS,2025-12-31,4.65
+KSB,Q,income,Diluted EPS,2026-03-31,2.28
+KSB,Q,income,Diluted EPS,2026-06-30,3.29
+KSB,Q,income,Diluted EPS,2026-09-30,3.48
+KSB,Q,income,EBITDA,2025-09-30,1066000000.0
+KSB,Q,income,EBITDA,2025-12-31,1246000000.0
+KSB,Q,income,EBITDA,2026-03-31,684000000.0
+KSB,Q,income,EBITDA,2026-06-30,909000000.0
+KSB,Q,income,EBITDA,2026-09-30,972000000.0
+KSB,Q,income,Interest Expense,2025-09-30,7000000.0
+KSB,Q,income,Interest Expense,2025-12-31,8000000.0
+KSB,Q,income,Interest Expense,2026-03-31,6000000.0
+KSB,Q,income,Interest Expense,2026-06-30,14000000.0
+KSB,Q,income,Interest Expense,2026-09-30,11000000.0
+KSB,Q,income,Net Income,2025-09-30,675000000.0
+KSB,Q,income,Net Income,2025-12-31,810000000.0
+KSB,Q,income,Net Income,2026-03-31,398000000.0
+KSB,Q,income,Net Income,2026-06-30,572000000.0
+KSB,Q,income,Net Income,2026-09-30,606000000.0
+KSB,Q,income,Net Income Common Stockholders,2025-09-30,675000000.0
+KSB,Q,income,Net Income Common Stockholders,2025-12-31,810000000.0
+KSB,Q,income,Net Income Common Stockholders,2026-03-31,398000000.0
+KSB,Q,income,Net Income Common Stockholders,2026-06-30,572000000.0
+KSB,Q,income,Net Income Common Stockholders,2026-09-30,606000000.0
+KSB,Q,income,Operating Income,2025-09-30,700000000.0
+KSB,Q,income,Operating Income,2025-12-31,1140000000.0
+KSB,Q,income,Operating Income,2026-03-31,363000000.0
+KSB,Q,income,Operating Income,2026-06-30,668000000.0
+KSB,Q,income,Operating Income,2026-09-30,657000000.0
+KSB,Q,income,Pretax Income,2025-09-30,911000000.0
+KSB,Q,income,Pretax Income,2025-12-31,1082000000.0
+KSB,Q,income,Pretax Income,2026-03-31,533000000.0
+KSB,Q,income,Pretax Income,2026-06-30,747000000.0
+KSB,Q,income,Pretax Income,2026-09-30,802000000.0
+KSB,Q,income,Total Revenue,2025-09-30,6496000000.0
+KSB,Q,income,Total Revenue,2025-12-31,7840000000.0
+KSB,Q,income,Total Revenue,2026-03-31,6013000000.0
+KSB,Q,income,Total Revenue,2026-06-30,6907000000.0
+KSB,Q,income,Total Revenue,2026-09-30,7727000000.0

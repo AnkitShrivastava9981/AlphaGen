@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+POLYMED,A,balance,Cash And Cash Equivalents,2023-03-31,70624000.0
+POLYMED,A,balance,Cash And Cash Equivalents,2024-03-31,120531000.0
+POLYMED,A,balance,Cash And Cash Equivalents,2025-03-31,86988000.0
+POLYMED,A,balance,Cash And Cash Equivalents,2026-03-31,512282000.0
+POLYMED,A,balance,Net Debt,2023-03-31,1393715000.0
+POLYMED,A,balance,Net Debt,2024-03-31,1579139000.0
+POLYMED,A,balance,Net Debt,2025-03-31,1689511000.0
+POLYMED,A,balance,Net Debt,2026-03-31,2903893000.0
+POLYMED,A,balance,Ordinary Shares Number,2023-03-31,95944342.0
+POLYMED,A,balance,Ordinary Shares Number,2024-03-31,95971417.0
+POLYMED,A,balance,Ordinary Shares Number,2025-03-31,101325715.0
+POLYMED,A,balance,Ordinary Shares Number,2026-03-31,101359490.0
+POLYMED,A,balance,Stockholders Equity,2023-03-31,12416272000.0
+POLYMED,A,balance,Stockholders Equity,2024-03-31,14700535000.0
+POLYMED,A,balance,Stockholders Equity,2025-03-31,27656578000.0
+POLYMED,A,balance,Stockholders Equity,2026-03-31,31061727000.0
+POLYMED,A,balance,Total Assets,2023-03-31,15772092000.0
+POLYMED,A,balance,Total Assets,2024-03-31,18586719000.0
+POLYMED,A,balance,Total Assets,2025-03-31,31924522000.0
+POLYMED,A,balance,Total Assets,2026-03-31,39185672000.0
+POLYMED,A,balance,Total Debt,2023-03-31,1490168000.0
+POLYMED,A,balance,Total Debt,2024-03-31,1739047000.0
+POLYMED,A,balance,Total Debt,2025-03-31,1802454000.0
+POLYMED,A,balance,Total Debt,2026-03-31,3535759000.0
+POLYMED,A,cashflow,Capital Expenditure,2023-03-31,-2392748000.0
+POLYMED,A,cashflow,Capital Expenditure,2024-03-31,-2770159000.0
+POLYMED,A,cashflow,Capital Expenditure,2025-03-31,-3310254000.0
+POLYMED,A,cashflow,Capital Expenditure,2026-03-31,-3083919000.0
+POLYMED,A,cashflow,Free Cash Flow,2023-03-31,-482228000.0
+POLYMED,A,cashflow,Free Cash Flow,2024-03-31,-109337000.0
+POLYMED,A,cashflow,Free Cash Flow,2025-03-31,-979757000.0
+POLYMED,A,cashflow,Free Cash Flow,2026-03-31,-620173000.0
+POLYMED,A,cashflow,Operating Cash Flow,2023-03-31,1910520000.0
+POLYMED,A,cashflow,Operating Cash Flow,2024-03-31,2660822000.0
+POLYMED,A,cashflow,Operating Cash Flow,2025-03-31,2330497000.0
+POLYMED,A,cashflow,Operating Cash Flow,2026-03-31,2463746000.0
+POLYMED,A,income,Basic EPS,2023-03-31,18.69
+POLYMED,A,income,Basic EPS,2024-03-31,26.92
+POLYMED,A,income,Basic EPS,2025-03-31,34.13
+POLYMED,A,income,Basic EPS,2026-03-31,31.79
+POLYMED,A,income,Diluted EPS,2023-03-31,18.67
+POLYMED,A,income,Diluted EPS,2024-03-31,26.9
+POLYMED,A,income,Diluted EPS,2025-03-31,34.11
+POLYMED,A,income,Diluted EPS,2026-03-31,31.75
+POLYMED,A,income,EBITDA,2023-03-31,3032013000.0
+POLYMED,A,income,EBITDA,2024-03-31,4188930000.0
+POLYMED,A,income,EBITDA,2025-03-31,5471464000.0
+POLYMED,A,income,EBITDA,2026-03-31,5596701000.0
+POLYMED,A,income,Interest Expense,2023-03-31,85431000.0
+POLYMED,A,income,Interest Expense,2024-03-31,106974000.0
+POLYMED,A,income,Interest Expense,2025-03-31,114490000.0
+POLYMED,A,income,Interest Expense,2026-03-31,166824000.0
+POLYMED,A,income,Net Income,2023-03-31,1792825000.0
+POLYMED,A,income,Net Income,2024-03-31,2582597000.0
+POLYMED,A,income,Net Income,2025-03-31,3385572000.0
+POLYMED,A,income,Net Income,2026-03-31,3221396000.0
+POLYMED,A,income,Net Income Common Stockholders,2023-03-31,1792825000.0
+POLYMED,A,income,Net Income Common Stockholders,2024-03-31,2582597000.0
+POLYMED,A,income,Net Income Common Stockholders,2025-03-31,3385572000.0
+POLYMED,A,income,Net Income Common Stockholders,2026-03-31,3221396000.0
+POLYMED,A,income,Operating Income,2023-03-31,2178500000.0
+POLYMED,A,income,Operating Income,2024-03-31,3026545000.0
+POLYMED,A,income,Operating Income,2025-03-31,3801256000.0
+POLYMED,A,income,Operating Income,2026-03-31,3410016000.0
+POLYMED,A,income,Pretax Income,2023-03-31,2374914000.0
+POLYMED,A,income,Pretax Income,2024-03-31,3442691000.0
+POLYMED,A,income,Pretax Income,2025-03-31,4525151000.0
+POLYMED,A,income,Pretax Income,2026-03-31,4274711000.0
+POLYMED,A,income,Total Revenue,2023-03-31,11086582000.0
+POLYMED,A,income,Total Revenue,2024-03-31,13656937000.0
+POLYMED,A,income,Total Revenue,2025-03-31,16550227000.0
+POLYMED,A,income,Total Revenue,2026-03-31,18594829000.0
+POLYMED,Q,income,Basic EPS,2025-09-30,9.06
+POLYMED,Q,income,Basic EPS,2025-12-31,7.0
+POLYMED,Q,income,Basic EPS,2026-03-31,6.54
+POLYMED,Q,income,Basic EPS,2026-06-30,8.49
+POLYMED,Q,income,Basic EPS,2026-09-30,9.38
+POLYMED,Q,income,Diluted EPS,2025-09-30,9.06
+POLYMED,Q,income,Diluted EPS,2025-12-31,6.99
+POLYMED,Q,income,Diluted EPS,2026-03-31,6.53
+POLYMED,Q,income,Diluted EPS,2026-06-30,8.48
+POLYMED,Q,income,Diluted EPS,2026-09-30,9.37
+POLYMED,Q,income,EBITDA,2025-09-30,1497074000.0
+POLYMED,Q,income,EBITDA,2025-12-31,1323275000.0
+POLYMED,Q,income,EBITDA,2026-03-31,1298628000.0
+POLYMED,Q,income,EBITDA,2026-06-30,1600599000.0
+POLYMED,Q,income,EBITDA,2026-09-30,1676542000.0
+POLYMED,Q,income,Interest Expense,2025-09-30,29727000.0
+POLYMED,Q,income,Interest Expense,2025-12-31,59592000.0
+POLYMED,Q,income,Interest Expense,2026-03-31,64086000.0
+POLYMED,Q,income,Interest Expense,2026-06-30,65014000.0
+POLYMED,Q,income,Interest Expense,2026-09-30,71491000.0
+POLYMED,Q,income,Net Income,2025-09-30,918350000.0
+POLYMED,Q,income,Net Income,2025-12-31,709302000.0
+POLYMED,Q,income,Net Income,2026-03-31,650410000.0
+POLYMED,Q,income,Net Income,2026-06-30,860252000.0
+POLYMED,Q,income,Net Income,2026-09-30,951294000.0
+POLYMED,Q,income,Net Income Common Stockholders,2025-09-30,918350000.0
+POLYMED,Q,income,Net Income Common Stockholders,2025-12-31,709302000.0
+POLYMED,Q,income,Net Income Common Stockholders,2026-03-31,650410000.0
+POLYMED,Q,income,Net Income Common Stockholders,2026-06-30,860252000.0
+POLYMED,Q,income,Net Income Common Stockholders,2026-09-30,951294000.0
+POLYMED,Q,income,Operating Income,2025-09-30,897538000.0
+POLYMED,Q,income,Operating Income,2025-12-31,-743496000.0
+POLYMED,Q,income,Operating Income,2026-03-31,721653000.0
+POLYMED,Q,income,Operating Income,2026-06-30,888448000.0
+POLYMED,Q,income,Operating Income,2026-09-30,1025176000.0
+POLYMED,Q,income,Pretax Income,2025-09-30,1216903000.0
+POLYMED,Q,income,Pretax Income,2025-12-31,976125000.0
+POLYMED,Q,income,Pretax Income,2026-03-31,852222000.0
+POLYMED,Q,income,Pretax Income,2026-06-30,1173057000.0
+POLYMED,Q,income,Pretax Income,2026-09-30,1254562000.0
+POLYMED,Q,income,Total Revenue,2025-09-30,4438816000.0
+POLYMED,Q,income,Total Revenue,2025-12-31,4936555000.0
+POLYMED,Q,income,Total Revenue,2026-03-31,5345114000.0
+POLYMED,Q,income,Total Revenue,2026-06-30,5253755000.0
+POLYMED,Q,income,Total Revenue,2026-09-30,5805258000.0

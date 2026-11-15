@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CERA,A,balance,Cash And Cash Equivalents,2023-03-31,112886000.0
+CERA,A,balance,Cash And Cash Equivalents,2024-03-31,142198000.0
+CERA,A,balance,Cash And Cash Equivalents,2025-03-31,41184000.0
+CERA,A,balance,Cash And Cash Equivalents,2026-03-31,105775000.0
+CERA,A,balance,Net Debt,2022-03-31,127841000.0
+CERA,A,balance,Net Debt,2023-03-31,140597000.0
+CERA,A,balance,Net Debt,2024-03-31,62415000.0
+CERA,A,balance,Net Debt,2025-03-31,114168000.0
+CERA,A,balance,Ordinary Shares Number,2023-03-31,13005874.0
+CERA,A,balance,Ordinary Shares Number,2024-03-31,13005874.0
+CERA,A,balance,Ordinary Shares Number,2025-03-31,12893802.0
+CERA,A,balance,Ordinary Shares Number,2026-03-31,12892965.0
+CERA,A,balance,Stockholders Equity,2023-03-31,11726377000.0
+CERA,A,balance,Stockholders Equity,2024-03-31,13457868000.0
+CERA,A,balance,Stockholders Equity,2025-03-31,13503432000.0
+CERA,A,balance,Stockholders Equity,2026-03-31,14723385000.0
+CERA,A,balance,Total Assets,2023-03-31,16766442000.0
+CERA,A,balance,Total Assets,2024-03-31,18455253000.0
+CERA,A,balance,Total Assets,2025-03-31,18409142000.0
+CERA,A,balance,Total Assets,2026-03-31,19582029000.0
+CERA,A,balance,Total Debt,2023-03-31,530923000.0
+CERA,A,balance,Total Debt,2024-03-31,444671000.0
+CERA,A,balance,Total Debt,2025-03-31,634440000.0
+CERA,A,balance,Total Debt,2026-03-31,466986000.0
+CERA,A,cashflow,Capital Expenditure,2023-03-31,-394299000.0
+CERA,A,cashflow,Capital Expenditure,2024-03-31,-647918000.0
+CERA,A,cashflow,Capital Expenditure,2025-03-31,-279781000.0
+CERA,A,cashflow,Capital Expenditure,2026-03-31,-212599000.0
+CERA,A,cashflow,Free Cash Flow,2023-03-31,1229657000.0
+CERA,A,cashflow,Free Cash Flow,2024-03-31,1712617000.0
+CERA,A,cashflow,Free Cash Flow,2025-03-31,876223000.0
+CERA,A,cashflow,Free Cash Flow,2026-03-31,1906316000.0
+CERA,A,cashflow,Operating Cash Flow,2023-03-31,1623956000.0
+CERA,A,cashflow,Operating Cash Flow,2024-03-31,2360535000.0
+CERA,A,cashflow,Operating Cash Flow,2025-03-31,1156004000.0
+CERA,A,cashflow,Operating Cash Flow,2026-03-31,2118915000.0
+CERA,A,income,Basic EPS,2023-03-31,161.01
+CERA,A,income,Basic EPS,2024-03-31,183.76
+CERA,A,income,Basic EPS,2025-03-31,190.4
+CERA,A,income,Basic EPS,2026-03-31,158.31
+CERA,A,income,Diluted EPS,2023-03-31,161.01
+CERA,A,income,Diluted EPS,2024-03-31,183.76
+CERA,A,income,Diluted EPS,2025-03-31,190.4
+CERA,A,income,Diluted EPS,2026-03-31,158.31
+CERA,A,income,EBITDA,2023-03-31,3231974000.0
+CERA,A,income,EBITDA,2024-03-31,3610737000.0
+CERA,A,income,EBITDA,2025-03-31,3515641000.0
+CERA,A,income,EBITDA,2026-03-31,3139741000.0
+CERA,A,income,Interest Expense,2023-03-31,57048000.0
+CERA,A,income,Interest Expense,2024-03-31,56756000.0
+CERA,A,income,Interest Expense,2025-03-31,69568000.0
+CERA,A,income,Interest Expense,2026-03-31,62041000.0
+CERA,A,income,Net Income,2023-03-31,2094048000.0
+CERA,A,income,Net Income,2024-03-31,2390018000.0
+CERA,A,income,Net Income,2025-03-31,2464843000.0
+CERA,A,income,Net Income,2026-03-31,2041856000.0
+CERA,A,income,Net Income Common Stockholders,2023-03-31,2094048000.0
+CERA,A,income,Net Income Common Stockholders,2024-03-31,2390018000.0
+CERA,A,income,Net Income Common Stockholders,2025-03-31,2464843000.0
+CERA,A,income,Net Income Common Stockholders,2026-03-31,2041856000.0
+CERA,A,income,Operating Income,2023-03-31,2737504000.0
+CERA,A,income,Operating Income,2024-03-31,2838199000.0
+CERA,A,income,Operating Income,2025-03-31,2558711000.0
+CERA,A,income,Operating Income,2026-03-31,2303564000.0
+CERA,A,income,Pretax Income,2023-03-31,2848852000.0
+CERA,A,income,Pretax Income,2024-03-31,3188498000.0
+CERA,A,income,Pretax Income,2025-03-31,3060924000.0
+CERA,A,income,Pretax Income,2026-03-31,2691125000.0
+CERA,A,income,Total Revenue,2023-03-31,18004170000.0
+CERA,A,income,Total Revenue,2024-03-31,18664878000.0
+CERA,A,income,Total Revenue,2025-03-31,18756720000.0
+CERA,A,income,Total Revenue,2026-03-31,20328510000.0
+CERA,Q,income,Basic EPS,2025-09-30,43.92
+CERA,Q,income,Basic EPS,2025-12-31,18.35
+CERA,Q,income,Basic EPS,2026-03-31,59.96
+CERA,Q,income,Basic EPS,2026-06-30,35.13
+CERA,Q,income,Basic EPS,2026-09-30,43.52
+CERA,Q,income,Diluted EPS,2025-09-30,43.92
+CERA,Q,income,Diluted EPS,2025-12-31,18.35
+CERA,Q,income,Diluted EPS,2026-03-31,59.96
+CERA,Q,income,Diluted EPS,2026-06-30,35.13
+CERA,Q,income,Diluted EPS,2026-09-30,43.52
+CERA,Q,income,EBITDA,2025-09-30,837020000.0
+CERA,Q,income,EBITDA,2025-12-31,440013000.0
+CERA,Q,income,EBITDA,2026-03-31,1148646000.0
+CERA,Q,income,EBITDA,2026-06-30,705039000.0
+CERA,Q,income,EBITDA,2026-09-30,841657000.0
+CERA,Q,income,Interest Expense,2025-09-30,16397000.0
+CERA,Q,income,Interest Expense,2025-12-31,19713000.0
+CERA,Q,income,Interest Expense,2026-03-31,14146000.0
+CERA,Q,income,Interest Expense,2026-06-30,12684000.0
+CERA,Q,income,Interest Expense,2026-09-30,13814000.0
+CERA,Q,income,Net Income,2025-09-30,566476000.0
+CERA,Q,income,Net Income,2025-12-31,236681000.0
+CERA,Q,income,Net Income,2026-03-31,773359000.0
+CERA,Q,income,Net Income,2026-06-30,453104000.0
+CERA,Q,income,Net Income,2026-09-30,561362000.0
+CERA,Q,income,Net Income Common Stockholders,2025-09-30,566476000.0
+CERA,Q,income,Net Income Common Stockholders,2025-12-31,236681000.0
+CERA,Q,income,Net Income Common Stockholders,2026-03-31,773359000.0
+CERA,Q,income,Net Income Common Stockholders,2026-06-30,453104000.0
+CERA,Q,income,Net Income Common Stockholders,2026-09-30,561362000.0
+CERA,Q,income,Operating Income,2025-09-30,573094000.0
+CERA,Q,income,Operating Income,2025-12-31,412595000.0
+CERA,Q,income,Operating Income,2026-03-31,879822000.0
+CERA,Q,income,Operating Income,2026-06-30,397942000.0
+CERA,Q,income,Operating Income,2026-09-30,635060000.0
+CERA,Q,income,Pretax Income,2025-09-30,722339000.0
+CERA,Q,income,Pretax Income,2025-12-31,322364000.0
+CERA,Q,income,Pretax Income,2026-03-31,1035071000.0
+CERA,Q,income,Pretax Income,2026-06-30,598130000.0
+CERA,Q,income,Pretax Income,2026-09-30,730179000.0
+CERA,Q,income,Total Revenue,2025-09-30,4734078000.0
+CERA,Q,income,Total Revenue,2025-12-31,4989749000.0
+CERA,Q,income,Total Revenue,2026-03-31,6438158000.0
+CERA,Q,income,Total Revenue,2026-06-30,4859816000.0
+CERA,Q,income,Total Revenue,2026-09-30,6029595000.0

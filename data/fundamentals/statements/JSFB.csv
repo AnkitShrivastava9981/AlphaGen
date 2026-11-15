@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+JSFB,A,balance,Cash And Cash Equivalents,2023-03-31,20890584000.0
+JSFB,A,balance,Cash And Cash Equivalents,2024-03-31,20280276000.0
+JSFB,A,balance,Cash And Cash Equivalents,2025-03-31,44485601000.0
+JSFB,A,balance,Cash And Cash Equivalents,2026-03-31,25498809000.0
+JSFB,A,balance,Net Debt,2022-03-31,21713560000.0
+JSFB,A,balance,Net Debt,2023-03-31,33884016000.0
+JSFB,A,balance,Net Debt,2024-03-31,23834315000.0
+JSFB,A,balance,Net Debt,2026-03-31,19968809000.0
+JSFB,A,balance,Ordinary Shares Number,2023-03-31,104590275.0
+JSFB,A,balance,Ordinary Shares Number,2024-03-31,104590275.0
+JSFB,A,balance,Ordinary Shares Number,2025-03-31,105056523.0
+JSFB,A,balance,Ordinary Shares Number,2026-03-31,105324557.0
+JSFB,A,balance,Stockholders Equity,2023-03-31,17972552000.0
+JSFB,A,balance,Stockholders Equity,2024-03-31,35770988000.0
+JSFB,A,balance,Stockholders Equity,2025-03-31,41183457000.0
+JSFB,A,balance,Stockholders Equity,2026-03-31,44702071000.0
+JSFB,A,balance,Total Assets,2023-03-31,256436896000.0
+JSFB,A,balance,Total Assets,2024-03-31,327097825000.0
+JSFB,A,balance,Total Assets,2025-03-31,384668973000.0
+JSFB,A,balance,Total Assets,2026-03-31,474477269000.0
+JSFB,A,balance,Total Debt,2023-03-31,54774600000.0
+JSFB,A,balance,Total Debt,2024-03-31,44114591000.0
+JSFB,A,balance,Total Debt,2025-03-31,33768171000.0
+JSFB,A,balance,Total Debt,2026-03-31,45467618000.0
+JSFB,A,cashflow,Capital Expenditure,2023-03-31,-260455000.0
+JSFB,A,cashflow,Capital Expenditure,2024-03-31,-769133000.0
+JSFB,A,cashflow,Capital Expenditure,2025-03-31,-733540000.0
+JSFB,A,cashflow,Capital Expenditure,2026-03-31,-1221541000.0
+JSFB,A,cashflow,Free Cash Flow,2023-03-31,-11632285000.0
+JSFB,A,cashflow,Free Cash Flow,2024-03-31,6309064000.0
+JSFB,A,cashflow,Free Cash Flow,2025-03-31,39998970000.0
+JSFB,A,cashflow,Free Cash Flow,2026-03-31,4714894000.0
+JSFB,A,cashflow,Operating Cash Flow,2023-03-31,-11371830000.0
+JSFB,A,cashflow,Operating Cash Flow,2024-03-31,7078197000.0
+JSFB,A,cashflow,Operating Cash Flow,2025-03-31,40732510000.0
+JSFB,A,cashflow,Operating Cash Flow,2026-03-31,5936435000.0
+JSFB,A,income,Basic EPS,2023-03-31,24.473719
+JSFB,A,income,Basic EPS,2024-03-31,90.85
+JSFB,A,income,Basic EPS,2025-03-31,47.89
+JSFB,A,income,Basic EPS,2026-03-31,31.02
+JSFB,A,income,Diluted EPS,2023-03-31,24.473719
+JSFB,A,income,Diluted EPS,2024-03-31,90.72
+JSFB,A,income,Diluted EPS,2025-03-31,47.67
+JSFB,A,income,Diluted EPS,2026-03-31,30.92
+JSFB,A,income,Interest Expense,2023-03-31,14149901000.0
+JSFB,A,income,Interest Expense,2024-03-31,18859047000.0
+JSFB,A,income,Interest Expense,2025-03-31,23166562000.0
+JSFB,A,income,Interest Expense,2026-03-31,27597431000.0
+JSFB,A,income,Net Income,2023-03-31,2559713000.0
+JSFB,A,income,Net Income,2024-03-31,6695403000.0
+JSFB,A,income,Net Income,2025-03-31,5014187000.0
+JSFB,A,income,Net Income,2026-03-31,3264282000.0
+JSFB,A,income,Net Income Common Stockholders,2023-03-31,2559713000.0
+JSFB,A,income,Net Income Common Stockholders,2024-03-31,6695403000.0
+JSFB,A,income,Net Income Common Stockholders,2025-03-31,5014187000.0
+JSFB,A,income,Net Income Common Stockholders,2026-03-31,3264282000.0
+JSFB,A,income,Pretax Income,2023-03-31,2559745000.0
+JSFB,A,income,Pretax Income,2024-03-31,5143519000.0
+JSFB,A,income,Pretax Income,2025-03-31,4736763000.0
+JSFB,A,income,Pretax Income,2026-03-31,3264242000.0
+JSFB,A,income,Total Revenue,2023-03-31,22152196000.0
+JSFB,A,income,Total Revenue,2024-03-31,26248622000.0
+JSFB,A,income,Total Revenue,2025-03-31,30113979000.0
+JSFB,A,income,Total Revenue,2026-03-31,33542454000.0
+JSFB,Q,income,Basic EPS,2025-06-30,9.69
+JSFB,Q,income,Basic EPS,2025-12-31,0.92
+JSFB,Q,income,Basic EPS,2026-03-31,13.28
+JSFB,Q,income,Basic EPS,2026-06-30,14.74
+JSFB,Q,income,Basic EPS,2026-09-30,16.12
+JSFB,Q,income,Diluted EPS,2025-06-30,9.65
+JSFB,Q,income,Diluted EPS,2025-12-31,0.92
+JSFB,Q,income,Diluted EPS,2026-03-31,13.23
+JSFB,Q,income,Diluted EPS,2026-06-30,14.69
+JSFB,Q,income,Diluted EPS,2026-09-30,15.96
+JSFB,Q,income,Interest Expense,2025-06-30,6550619000.0
+JSFB,Q,income,Interest Expense,2025-12-31,7093588000.0
+JSFB,Q,income,Interest Expense,2026-03-31,7090083000.0
+JSFB,Q,income,Interest Expense,2026-06-30,7320621000.0
+JSFB,Q,income,Interest Expense,2026-09-30,7682736000.0
+JSFB,Q,income,Net Income,2025-06-30,1019250000.0
+JSFB,Q,income,Net Income,2025-12-31,96942000.0
+JSFB,Q,income,Net Income,2026-03-31,1398183000.0
+JSFB,Q,income,Net Income,2026-06-30,1552316000.0
+JSFB,Q,income,Net Income,2026-09-30,1703642000.0
+JSFB,Q,income,Net Income Common Stockholders,2025-06-30,1019250000.0
+JSFB,Q,income,Net Income Common Stockholders,2025-12-31,96942000.0
+JSFB,Q,income,Net Income Common Stockholders,2026-03-31,1398183000.0
+JSFB,Q,income,Net Income Common Stockholders,2026-06-30,1552316000.0
+JSFB,Q,income,Net Income Common Stockholders,2026-09-30,1703642000.0
+JSFB,Q,income,Pretax Income,2025-06-30,1019250000.0
+JSFB,Q,income,Pretax Income,2025-12-31,96942000.0
+JSFB,Q,income,Pretax Income,2026-03-31,1398183000.0
+JSFB,Q,income,Pretax Income,2026-06-30,1552316000.0
+JSFB,Q,income,Pretax Income,2026-09-30,1703642000.0
+JSFB,Q,income,Total Revenue,2025-09-30,8533474000.0
+JSFB,Q,income,Total Revenue,2025-12-31,9195005000.0
+JSFB,Q,income,Total Revenue,2026-03-31,10011858000.0
+JSFB,Q,income,Total Revenue,2026-06-30,10093829000.0
+JSFB,Q,income,Total Revenue,2026-09-30,10473893000.0

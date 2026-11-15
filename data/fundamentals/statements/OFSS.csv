@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+OFSS,A,balance,Cash And Cash Equivalents,2023-03-31,20362740000.0
+OFSS,A,balance,Cash And Cash Equivalents,2024-03-31,34794000000.0
+OFSS,A,balance,Cash And Cash Equivalents,2025-03-31,12099000000.0
+OFSS,A,balance,Cash And Cash Equivalents,2026-03-31,14825000000.0
+OFSS,A,balance,Ordinary Shares Number,2023-03-31,86397179.0
+OFSS,A,balance,Ordinary Shares Number,2024-03-31,86671656.0
+OFSS,A,balance,Ordinary Shares Number,2025-03-31,86863101.0
+OFSS,A,balance,Ordinary Shares Number,2026-03-31,87035133.0
+OFSS,A,balance,Stockholders Equity,2023-03-31,74589070000.0
+OFSS,A,balance,Stockholders Equity,2024-03-31,78588000000.0
+OFSS,A,balance,Stockholders Equity,2025-03-31,83624000000.0
+OFSS,A,balance,Stockholders Equity,2026-03-31,78265000000.0
+OFSS,A,balance,Total Assets,2023-03-31,92755400000.0
+OFSS,A,balance,Total Assets,2024-03-31,99357000000.0
+OFSS,A,balance,Total Assets,2025-03-31,101350000000.0
+OFSS,A,balance,Total Assets,2026-03-31,99339000000.0
+OFSS,A,balance,Total Debt,2023-03-31,694020000.0
+OFSS,A,balance,Total Debt,2024-03-31,430000000.0
+OFSS,A,balance,Total Debt,2025-03-31,456000000.0
+OFSS,A,balance,Total Debt,2026-03-31,325000000.0
+OFSS,A,cashflow,Capital Expenditure,2023-03-31,-381260000.0
+OFSS,A,cashflow,Capital Expenditure,2024-03-31,-301000000.0
+OFSS,A,cashflow,Capital Expenditure,2025-03-31,-352000000.0
+OFSS,A,cashflow,Capital Expenditure,2026-03-31,-517000000.0
+OFSS,A,cashflow,Free Cash Flow,2023-03-31,17202890000.0
+OFSS,A,cashflow,Free Cash Flow,2024-03-31,17606000000.0
+OFSS,A,cashflow,Free Cash Flow,2025-03-31,21637000000.0
+OFSS,A,cashflow,Free Cash Flow,2026-03-31,25866000000.0
+OFSS,A,cashflow,Operating Cash Flow,2023-03-31,17584150000.0
+OFSS,A,cashflow,Operating Cash Flow,2024-03-31,17907000000.0
+OFSS,A,cashflow,Operating Cash Flow,2025-03-31,21989000000.0
+OFSS,A,cashflow,Operating Cash Flow,2026-03-31,26383000000.0
+OFSS,A,income,Basic EPS,2023-03-31,209.14
+OFSS,A,income,Basic EPS,2024-03-31,256.39
+OFSS,A,income,Basic EPS,2025-03-31,274.27
+OFSS,A,income,Basic EPS,2026-03-31,303.54
+OFSS,A,income,Diluted EPS,2023-03-31,208.25
+OFSS,A,income,Diluted EPS,2024-03-31,254.76
+OFSS,A,income,Diluted EPS,2025-03-31,272.52
+OFSS,A,income,Diluted EPS,2026-03-31,302.11
+OFSS,A,income,EBITDA,2023-03-31,26632210000.0
+OFSS,A,income,EBITDA,2024-03-31,31247000000.0
+OFSS,A,income,EBITDA,2025-03-31,33820000000.0
+OFSS,A,income,EBITDA,2026-03-31,37482000000.0
+OFSS,A,income,Interest Expense,2023-03-31,126550000.0
+OFSS,A,income,Interest Expense,2024-03-31,281000000.0
+OFSS,A,income,Interest Expense,2025-03-31,20000000.0
+OFSS,A,income,Interest Expense,2026-03-31,27000000.0
+OFSS,A,income,Net Income,2023-03-31,18061410000.0
+OFSS,A,income,Net Income,2024-03-31,22194000000.0
+OFSS,A,income,Net Income,2025-03-31,23796000000.0
+OFSS,A,income,Net Income,2026-03-31,26393000000.0
+OFSS,A,income,Net Income Common Stockholders,2023-03-31,18061410000.0
+OFSS,A,income,Net Income Common Stockholders,2024-03-31,22194000000.0
+OFSS,A,income,Net Income Common Stockholders,2025-03-31,23796000000.0
+OFSS,A,income,Net Income Common Stockholders,2026-03-31,26393000000.0
+OFSS,A,income,Operating Income,2023-03-31,24158880000.0
+OFSS,A,income,Operating Income,2024-03-31,27789000000.0
+OFSS,A,income,Operating Income,2025-03-31,30085000000.0
+OFSS,A,income,Operating Income,2026-03-31,34340000000.0
+OFSS,A,income,Pretax Income,2023-03-31,25699040000.0
+OFSS,A,income,Pretax Income,2024-03-31,30223000000.0
+OFSS,A,income,Pretax Income,2025-03-31,33109000000.0
+OFSS,A,income,Pretax Income,2026-03-31,36801000000.0
+OFSS,A,income,Total Revenue,2023-03-31,56983090000.0
+OFSS,A,income,Total Revenue,2024-03-31,63730000000.0
+OFSS,A,income,Total Revenue,2025-03-31,68468000000.0
+OFSS,A,income,Total Revenue,2026-03-31,76721000000.0
+OFSS,Q,income,Basic EPS,2025-06-30,73.88
+OFSS,Q,income,Basic EPS,2025-12-31,70.08
+OFSS,Q,income,Basic EPS,2026-03-31,96.72
+OFSS,Q,income,Basic EPS,2026-06-30,162.59
+OFSS,Q,income,Basic EPS,2026-09-30,80.66
+OFSS,Q,income,Diluted EPS,2025-06-30,73.52
+OFSS,Q,income,Diluted EPS,2025-12-31,69.79
+OFSS,Q,income,Diluted EPS,2026-03-31,96.36
+OFSS,Q,income,Diluted EPS,2026-06-30,162.59
+OFSS,Q,income,Diluted EPS,2026-09-30,80.32
+OFSS,Q,income,EBITDA,2025-06-30,8463000000.0
+OFSS,Q,income,EBITDA,2025-12-31,8801000000.0
+OFSS,Q,income,EBITDA,2026-03-31,10563000000.0
+OFSS,Q,income,EBITDA,2026-06-30,19541000000.0
+OFSS,Q,income,EBITDA,2026-09-30,9911000000.0
+OFSS,Q,income,Interest Expense,2025-03-31,-78000000.0
+OFSS,Q,income,Interest Expense,2025-12-31,69000000.0
+OFSS,Q,income,Interest Expense,2026-06-30,7000000.0
+OFSS,Q,income,Interest Expense,2026-09-30,11000000.0
+OFSS,Q,income,Net Income,2025-06-30,6419000000.0
+OFSS,Q,income,Net Income,2025-12-31,6096000000.0
+OFSS,Q,income,Net Income,2026-03-31,8417000000.0
+OFSS,Q,income,Net Income,2026-06-30,14155000000.0
+OFSS,Q,income,Net Income,2026-09-30,7024000000.0
+OFSS,Q,income,Net Income Common Stockholders,2025-06-30,6419000000.0
+OFSS,Q,income,Net Income Common Stockholders,2025-12-31,6096000000.0
+OFSS,Q,income,Net Income Common Stockholders,2026-03-31,8417000000.0
+OFSS,Q,income,Net Income Common Stockholders,2026-06-30,14155000000.0
+OFSS,Q,income,Net Income Common Stockholders,2026-09-30,7024000000.0
+OFSS,Q,income,Operating Income,2025-06-30,8286000000.0
+OFSS,Q,income,Operating Income,2025-12-31,8038000000.0
+OFSS,Q,income,Operating Income,2026-03-31,10409000000.0
+OFSS,Q,income,Operating Income,2026-06-30,18618000000.0
+OFSS,Q,income,Operating Income,2026-09-30,9118000000.0
+OFSS,Q,income,Pretax Income,2025-06-30,9054000000.0
+OFSS,Q,income,Pretax Income,2025-12-31,8574000000.0
+OFSS,Q,income,Pretax Income,2026-03-31,11201000000.0
+OFSS,Q,income,Pretax Income,2026-06-30,19387000000.0
+OFSS,Q,income,Pretax Income,2026-09-30,9762000000.0
+OFSS,Q,income,Total Revenue,2025-06-30,18522000000.0
+OFSS,Q,income,Total Revenue,2025-12-31,19659000000.0
+OFSS,Q,income,Total Revenue,2026-03-31,20652000000.0
+OFSS,Q,income,Total Revenue,2026-06-30,31252000000.0
+OFSS,Q,income,Total Revenue,2026-09-30,19066000000.0

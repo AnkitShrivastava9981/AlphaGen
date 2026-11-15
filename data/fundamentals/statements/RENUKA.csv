@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+RENUKA,A,balance,Cash And Cash Equivalents,2023-03-31,1670330000.0
+RENUKA,A,balance,Cash And Cash Equivalents,2024-03-31,378720000.0
+RENUKA,A,balance,Cash And Cash Equivalents,2025-03-31,626760000.0
+RENUKA,A,balance,Cash And Cash Equivalents,2026-03-31,457980000.0
+RENUKA,A,balance,Net Debt,2023-03-31,53815870000.0
+RENUKA,A,balance,Net Debt,2024-03-31,57346260000.0
+RENUKA,A,balance,Net Debt,2025-03-31,58038230000.0
+RENUKA,A,balance,Net Debt,2026-03-31,71052580000.0
+RENUKA,A,balance,Ordinary Shares Number,2023-03-31,2128489773.0
+RENUKA,A,balance,Ordinary Shares Number,2024-03-31,2128489773.0
+RENUKA,A,balance,Ordinary Shares Number,2025-03-31,2128489773.0
+RENUKA,A,balance,Ordinary Shares Number,2026-03-31,2128489773.0
+RENUKA,A,balance,Stockholders Equity,2023-03-31,-8812160000.0
+RENUKA,A,balance,Stockholders Equity,2024-03-31,-14378500000.0
+RENUKA,A,balance,Stockholders Equity,2025-03-31,-16756000000.0
+RENUKA,A,balance,Stockholders Equity,2026-03-31,-26766930000.0
+RENUKA,A,balance,Total Assets,2023-03-31,76041810000.0
+RENUKA,A,balance,Total Assets,2024-03-31,101709300000.0
+RENUKA,A,balance,Total Assets,2025-03-31,88376150000.0
+RENUKA,A,balance,Total Assets,2026-03-31,74123950000.0
+RENUKA,A,balance,Total Debt,2023-03-31,55686510000.0
+RENUKA,A,balance,Total Debt,2024-03-31,57939680000.0
+RENUKA,A,balance,Total Debt,2025-03-31,58890570000.0
+RENUKA,A,balance,Total Debt,2026-03-31,71743940000.0
+RENUKA,A,cashflow,Capital Expenditure,2023-03-31,-4003620000.0
+RENUKA,A,cashflow,Capital Expenditure,2024-03-31,-1751340000.0
+RENUKA,A,cashflow,Capital Expenditure,2025-03-31,-1913420000.0
+RENUKA,A,cashflow,Capital Expenditure,2026-03-31,-1560350000.0
+RENUKA,A,cashflow,Free Cash Flow,2023-03-31,5260570000.0
+RENUKA,A,cashflow,Free Cash Flow,2024-03-31,7382220000.0
+RENUKA,A,cashflow,Free Cash Flow,2025-03-31,7590870000.0
+RENUKA,A,cashflow,Free Cash Flow,2026-03-31,-2778250000.0
+RENUKA,A,cashflow,Operating Cash Flow,2023-03-31,9264190000.0
+RENUKA,A,cashflow,Operating Cash Flow,2024-03-31,9133560000.0
+RENUKA,A,cashflow,Operating Cash Flow,2025-03-31,9504290000.0
+RENUKA,A,cashflow,Operating Cash Flow,2026-03-31,-1217900000.0
+RENUKA,A,income,Basic EPS,2023-03-31,-0.93
+RENUKA,A,income,Basic EPS,2024-03-31,-2.95
+RENUKA,A,income,Basic EPS,2025-03-31,-1.41
+RENUKA,A,income,Basic EPS,2026-03-31,-3.72
+RENUKA,A,income,Diluted EPS,2023-03-31,-0.93
+RENUKA,A,income,Diluted EPS,2024-03-31,-2.95
+RENUKA,A,income,Diluted EPS,2025-03-31,-1.41
+RENUKA,A,income,Diluted EPS,2026-03-31,-3.72
+RENUKA,A,income,EBITDA,2023-03-31,6174210000.0
+RENUKA,A,income,EBITDA,2024-03-31,6369540000.0
+RENUKA,A,income,EBITDA,2025-03-31,6410020000.0
+RENUKA,A,income,EBITDA,2026-03-31,714450000.0
+RENUKA,A,income,Interest Expense,2023-03-31,5593330000.0
+RENUKA,A,income,Interest Expense,2024-03-31,8325300000.0
+RENUKA,A,income,Interest Expense,2025-03-31,7240540000.0
+RENUKA,A,income,Interest Expense,2026-03-31,6520070000.0
+RENUKA,A,income,Net Income,2023-03-31,-1969700000.0
+RENUKA,A,income,Net Income,2024-03-31,-6271450000.0
+RENUKA,A,income,Net Income,2025-03-31,-2997550000.0
+RENUKA,A,income,Net Income,2026-03-31,-7920820000.0
+RENUKA,A,income,Net Income Common Stockholders,2023-03-31,-1969700000.0
+RENUKA,A,income,Net Income Common Stockholders,2024-03-31,-6271450000.0
+RENUKA,A,income,Net Income Common Stockholders,2025-03-31,-2997550000.0
+RENUKA,A,income,Net Income Common Stockholders,2026-03-31,-7920820000.0
+RENUKA,A,income,Operating Income,2023-03-31,4825110000.0
+RENUKA,A,income,Operating Income,2024-03-31,4758760000.0
+RENUKA,A,income,Operating Income,2025-03-31,1312510000.0
+RENUKA,A,income,Operating Income,2026-03-31,-247520000.0
+RENUKA,A,income,Pretax Income,2023-03-31,-1795650000.0
+RENUKA,A,income,Pretax Income,2024-03-31,-4618080000.0
+RENUKA,A,income,Pretax Income,2025-03-31,-3626240000.0
+RENUKA,A,income,Pretax Income,2026-03-31,-8723390000.0
+RENUKA,A,income,Total Revenue,2023-03-31,90070290000.0
+RENUKA,A,income,Total Revenue,2024-03-31,112997930000.0
+RENUKA,A,income,Total Revenue,2025-03-31,105890840000.0
+RENUKA,A,income,Total Revenue,2026-03-31,91604750000.0
+RENUKA,Q,income,Basic EPS,2025-06-30,-1.24
+RENUKA,Q,income,Basic EPS,2025-12-31,-0.18
+RENUKA,Q,income,Basic EPS,2026-03-31,-0.57
+RENUKA,Q,income,Basic EPS,2026-06-30,-1.18
+RENUKA,Q,income,Basic EPS,2026-09-30,-0.91
+RENUKA,Q,income,Diluted EPS,2025-06-30,-1.24
+RENUKA,Q,income,Diluted EPS,2025-12-31,-0.18
+RENUKA,Q,income,Diluted EPS,2026-03-31,-0.57
+RENUKA,Q,income,Diluted EPS,2026-06-30,-1.18
+RENUKA,Q,income,Diluted EPS,2026-09-30,-0.91
+RENUKA,Q,income,EBITDA,2025-06-30,-762000000.0
+RENUKA,Q,income,EBITDA,2025-12-31,2757000000.0
+RENUKA,Q,income,EBITDA,2026-03-31,1009000000.0
+RENUKA,Q,income,EBITDA,2026-06-30,-652000000.0
+RENUKA,Q,income,EBITDA,2026-09-30,459000000.0
+RENUKA,Q,income,Interest Expense,2025-06-30,1929000000.0
+RENUKA,Q,income,Interest Expense,2025-12-31,1785000000.0
+RENUKA,Q,income,Interest Expense,2026-03-31,1812000000.0
+RENUKA,Q,income,Interest Expense,2026-06-30,1820000000.0
+RENUKA,Q,income,Interest Expense,2026-09-30,1785000000.0
+RENUKA,Q,income,Net Income,2025-06-30,-2630000000.0
+RENUKA,Q,income,Net Income,2025-12-31,-383000000.0
+RENUKA,Q,income,Net Income,2026-03-31,-1222000000.0
+RENUKA,Q,income,Net Income,2026-06-30,-2511000000.0
+RENUKA,Q,income,Net Income,2026-09-30,-1933000000.0
+RENUKA,Q,income,Net Income Common Stockholders,2025-06-30,-2630000000.0
+RENUKA,Q,income,Net Income Common Stockholders,2025-12-31,-383000000.0
+RENUKA,Q,income,Net Income Common Stockholders,2026-03-31,-1222000000.0
+RENUKA,Q,income,Net Income Common Stockholders,2026-06-30,-2511000000.0
+RENUKA,Q,income,Net Income Common Stockholders,2026-09-30,-1933000000.0
+RENUKA,Q,income,Operating Income,2025-06-30,-1504000000.0
+RENUKA,Q,income,Operating Income,2025-12-31,488000000.0
+RENUKA,Q,income,Operating Income,2026-03-31,1529000000.0
+RENUKA,Q,income,Operating Income,2026-06-30,567000000.0
+RENUKA,Q,income,Operating Income,2026-09-30,1120000000.0
+RENUKA,Q,income,Pretax Income,2025-06-30,-3414000000.0
+RENUKA,Q,income,Pretax Income,2025-12-31,236000000.0
+RENUKA,Q,income,Pretax Income,2026-03-31,-1532000000.0
+RENUKA,Q,income,Pretax Income,2026-06-30,-3159000000.0
+RENUKA,Q,income,Pretax Income,2026-09-30,-2019000000.0
+RENUKA,Q,income,Total Revenue,2025-06-30,20075000000.0
+RENUKA,Q,income,Total Revenue,2025-12-31,21196000000.0
+RENUKA,Q,income,Total Revenue,2026-03-31,25469000000.0
+RENUKA,Q,income,Total Revenue,2026-06-30,21180000000.0
+RENUKA,Q,income,Total Revenue,2026-09-30,19007000000.0

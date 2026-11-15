@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+GRSE,A,balance,Cash And Cash Equivalents,2023-03-31,139855000.0
+GRSE,A,balance,Cash And Cash Equivalents,2024-03-31,52700000.0
+GRSE,A,balance,Cash And Cash Equivalents,2025-03-31,38827000.0
+GRSE,A,balance,Cash And Cash Equivalents,2026-03-31,172658000.0
+GRSE,A,balance,Net Debt,2023-03-31,2871863000.0
+GRSE,A,balance,Net Debt,2024-03-31,503148000.0
+GRSE,A,balance,Ordinary Shares Number,2023-03-31,114552000.0
+GRSE,A,balance,Ordinary Shares Number,2024-03-31,114552000.0
+GRSE,A,balance,Ordinary Shares Number,2025-03-31,114552000.0
+GRSE,A,balance,Ordinary Shares Number,2026-03-31,114552000.0
+GRSE,A,balance,Stockholders Equity,2023-03-31,14138175000.0
+GRSE,A,balance,Stockholders Equity,2024-03-31,16734389000.0
+GRSE,A,balance,Stockholders Equity,2025-03-31,20792624000.0
+GRSE,A,balance,Stockholders Equity,2026-03-31,26261172000.0
+GRSE,A,balance,Total Assets,2023-03-31,107759328000.0
+GRSE,A,balance,Total Assets,2024-03-31,102519091000.0
+GRSE,A,balance,Total Assets,2025-03-31,103542319000.0
+GRSE,A,balance,Total Assets,2026-03-31,106361003000.0
+GRSE,A,balance,Total Debt,2023-03-31,3121075000.0
+GRSE,A,balance,Total Debt,2024-03-31,656706000.0
+GRSE,A,balance,Total Debt,2025-03-31,96688000.0
+GRSE,A,balance,Total Debt,2026-03-31,373978000.0
+GRSE,A,cashflow,Capital Expenditure,2023-03-31,-422584000.0
+GRSE,A,cashflow,Capital Expenditure,2024-03-31,-480691000.0
+GRSE,A,cashflow,Capital Expenditure,2025-03-31,-670567000.0
+GRSE,A,cashflow,Capital Expenditure,2026-03-31,-768967000.0
+GRSE,A,cashflow,Free Cash Flow,2023-03-31,14079748000.0
+GRSE,A,cashflow,Free Cash Flow,2024-03-31,-7549625000.0
+GRSE,A,cashflow,Free Cash Flow,2025-03-31,-514693000.0
+GRSE,A,cashflow,Free Cash Flow,2026-03-31,-3666181000.0
+GRSE,A,cashflow,Operating Cash Flow,2023-03-31,14502332000.0
+GRSE,A,cashflow,Operating Cash Flow,2024-03-31,-7068934000.0
+GRSE,A,cashflow,Operating Cash Flow,2025-03-31,155874000.0
+GRSE,A,cashflow,Operating Cash Flow,2026-03-31,-2897214000.0
+GRSE,A,income,Basic EPS,2023-03-31,19.91
+GRSE,A,income,Basic EPS,2024-03-31,31.19
+GRSE,A,income,Basic EPS,2025-03-31,46.04
+GRSE,A,income,Basic EPS,2026-03-31,65.29
+GRSE,A,income,Diluted EPS,2023-03-31,19.91
+GRSE,A,income,Diluted EPS,2024-03-31,31.19
+GRSE,A,income,Diluted EPS,2025-03-31,46.04
+GRSE,A,income,Diluted EPS,2026-03-31,65.29
+GRSE,A,income,EBITDA,2023-03-31,3508649000.0
+GRSE,A,income,EBITDA,2024-03-31,5337367000.0
+GRSE,A,income,EBITDA,2025-03-31,7561048000.0
+GRSE,A,income,EBITDA,2026-03-31,10696866000.0
+GRSE,A,income,Interest Expense,2023-03-31,64807000.0
+GRSE,A,income,Interest Expense,2024-03-31,114892000.0
+GRSE,A,income,Interest Expense,2025-03-31,103228000.0
+GRSE,A,income,Interest Expense,2026-03-31,161169000.0
+GRSE,A,income,Net Income,2023-03-31,2281240000.0
+GRSE,A,income,Net Income,2024-03-31,3572677000.0
+GRSE,A,income,Net Income,2025-03-31,5274038000.0
+GRSE,A,income,Net Income,2026-03-31,7479344000.0
+GRSE,A,income,Net Income Common Stockholders,2023-03-31,2281240000.0
+GRSE,A,income,Net Income Common Stockholders,2024-03-31,3572677000.0
+GRSE,A,income,Net Income Common Stockholders,2025-03-31,5274038000.0
+GRSE,A,income,Net Income Common Stockholders,2026-03-31,7479344000.0
+GRSE,A,income,Operating Income,2023-03-31,1265419000.0
+GRSE,A,income,Operating Income,2024-03-31,2113623000.0
+GRSE,A,income,Operating Income,2025-03-31,4170631000.0
+GRSE,A,income,Operating Income,2026-03-31,7779898000.0
+GRSE,A,income,Pretax Income,2023-03-31,3052179000.0
+GRSE,A,income,Pretax Income,2024-03-31,4809209000.0
+GRSE,A,income,Pretax Income,2025-03-31,7032897000.0
+GRSE,A,income,Pretax Income,2026-03-31,10046959000.0
+GRSE,A,income,Total Revenue,2023-03-31,25478372000.0
+GRSE,A,income,Total Revenue,2024-03-31,35884631000.0
+GRSE,A,income,Total Revenue,2025-03-31,50709831000.0
+GRSE,A,income,Total Revenue,2026-03-31,69948144000.0
+GRSE,Q,income,Basic EPS,2025-06-30,10.49
+GRSE,Q,income,Basic EPS,2025-12-31,14.91
+GRSE,Q,income,Basic EPS,2026-03-31,26.47
+GRSE,Q,income,Basic EPS,2026-06-30,15.09
+GRSE,Q,income,Basic EPS,2026-09-30,15.01
+GRSE,Q,income,Diluted EPS,2025-06-30,10.49
+GRSE,Q,income,Diluted EPS,2025-12-31,14.91
+GRSE,Q,income,Diluted EPS,2026-03-31,26.47
+GRSE,Q,income,Diluted EPS,2026-06-30,15.09
+GRSE,Q,income,Diluted EPS,2026-09-30,15.01
+GRSE,Q,income,EBITDA,2025-06-30,1844579000.0
+GRSE,Q,income,EBITDA,2025-12-31,2339216000.0
+GRSE,Q,income,EBITDA,2026-03-31,4264547000.0
+GRSE,Q,income,EBITDA,2026-06-30,2487916000.0
+GRSE,Q,income,EBITDA,2026-09-30,2544482000.0
+GRSE,Q,income,Interest Expense,2025-06-30,60863000.0
+GRSE,Q,income,Interest Expense,2025-12-31,37912000.0
+GRSE,Q,income,Interest Expense,2026-03-31,26166000.0
+GRSE,Q,income,Interest Expense,2026-06-30,37644000.0
+GRSE,Q,income,Interest Expense,2026-09-30,85407000.0
+GRSE,Q,income,Net Income,2025-06-30,1201752000.0
+GRSE,Q,income,Net Income,2025-12-31,1707727000.0
+GRSE,Q,income,Net Income,2026-03-31,3031991000.0
+GRSE,Q,income,Net Income,2026-06-30,1728376000.0
+GRSE,Q,income,Net Income,2026-09-30,1719750000.0
+GRSE,Q,income,Net Income Common Stockholders,2025-06-30,1201752000.0
+GRSE,Q,income,Net Income Common Stockholders,2025-12-31,1707727000.0
+GRSE,Q,income,Net Income Common Stockholders,2026-03-31,3031991000.0
+GRSE,Q,income,Net Income Common Stockholders,2026-06-30,1728376000.0
+GRSE,Q,income,Net Income Common Stockholders,2026-09-30,1719750000.0
+GRSE,Q,income,Operating Income,2025-06-30,1002556000.0
+GRSE,Q,income,Operating Income,2025-12-31,1595616000.0
+GRSE,Q,income,Operating Income,2026-03-31,3423166000.0
+GRSE,Q,income,Operating Income,2026-06-30,1357250000.0
+GRSE,Q,income,Operating Income,2026-09-30,1812147000.0
+GRSE,Q,income,Pretax Income,2025-06-30,1667173000.0
+GRSE,Q,income,Pretax Income,2025-12-31,2177658000.0
+GRSE,Q,income,Pretax Income,2026-03-31,4108525000.0
+GRSE,Q,income,Pretax Income,2026-06-30,2315261000.0
+GRSE,Q,income,Pretax Income,2026-09-30,2316243000.0
+GRSE,Q,income,Total Revenue,2025-06-30,13098694000.0
+GRSE,Q,income,Total Revenue,2025-12-31,18956931000.0
+GRSE,Q,income,Total Revenue,2026-03-31,21192125000.0
+GRSE,Q,income,Total Revenue,2026-06-30,18146159000.0
+GRSE,Q,income,Total Revenue,2026-09-30,18266934000.0

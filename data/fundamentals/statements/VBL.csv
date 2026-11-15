@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+VBL,A,balance,Cash And Cash Equivalents,2022-12-31,1543320000.0
+VBL,A,balance,Cash And Cash Equivalents,2023-12-31,2422120000.0
+VBL,A,balance,Cash And Cash Equivalents,2024-12-31,2607810000.0
+VBL,A,balance,Cash And Cash Equivalents,2025-12-31,17841770000.0
+VBL,A,balance,Net Debt,2022-12-31,35404800000.0
+VBL,A,balance,Net Debt,2023-12-31,49521750000.0
+VBL,A,balance,Net Debt,2024-12-31,21034840000.0
+VBL,A,balance,Net Debt,2025-12-31,2399420000.0
+VBL,A,balance,Ordinary Shares Number,2022-12-31,3247748100.0
+VBL,A,balance,Ordinary Shares Number,2023-12-31,3248037440.0
+VBL,A,balance,Ordinary Shares Number,2024-12-31,3381510017.0
+VBL,A,balance,Ordinary Shares Number,2025-12-31,3381988769.0
+VBL,A,balance,Stockholders Equity,2022-12-31,51023800000.0
+VBL,A,balance,Stockholders Equity,2023-12-31,69364980000.0
+VBL,A,balance,Stockholders Equity,2024-12-31,166098290000.0
+VBL,A,balance,Stockholders Equity,2025-12-31,195787040000.0
+VBL,A,balance,Total Assets,2022-12-31,116182430000.0
+VBL,A,balance,Total Assets,2023-12-31,151871830000.0
+VBL,A,balance,Total Assets,2024-12-31,231439100000.0
+VBL,A,balance,Total Assets,2025-12-31,255651560000.0
+VBL,A,balance,Total Debt,2022-12-31,38838140000.0
+VBL,A,balance,Total Debt,2023-12-31,54313100000.0
+VBL,A,balance,Total Debt,2024-12-31,28262540000.0
+VBL,A,balance,Total Debt,2025-12-31,25081830000.0
+VBL,A,cashflow,Capital Expenditure,2022-12-31,-18009920000.0
+VBL,A,cashflow,Capital Expenditure,2023-12-31,-32640490000.0
+VBL,A,cashflow,Capital Expenditure,2024-12-31,-37790100000.0
+VBL,A,cashflow,Capital Expenditure,2025-12-31,-27391040000.0
+VBL,A,cashflow,Free Cash Flow,2022-12-31,-109630000.0
+VBL,A,cashflow,Free Cash Flow,2023-12-31,-8732710000.0
+VBL,A,cashflow,Free Cash Flow,2024-12-31,-3979130000.0
+VBL,A,cashflow,Free Cash Flow,2025-12-31,7702100000.0
+VBL,A,cashflow,Operating Cash Flow,2022-12-31,17900290000.0
+VBL,A,cashflow,Operating Cash Flow,2023-12-31,23907780000.0
+VBL,A,cashflow,Operating Cash Flow,2024-12-31,33810970000.0
+VBL,A,cashflow,Operating Cash Flow,2025-12-31,35093140000.0
+VBL,A,income,Basic EPS,2022-12-31,4.612
+VBL,A,income,Basic EPS,2023-12-31,6.33
+VBL,A,income,Basic EPS,2024-12-31,7.95
+VBL,A,income,Basic EPS,2025-12-31,8.98
+VBL,A,income,Diluted EPS,2022-12-31,4.608
+VBL,A,income,Diluted EPS,2023-12-31,6.33
+VBL,A,income,Diluted EPS,2024-12-31,7.94
+VBL,A,income,Diluted EPS,2025-12-31,8.98
+VBL,A,income,EBITDA,2022-12-31,28245190000.0
+VBL,A,income,EBITDA,2023-12-31,36869100000.0
+VBL,A,income,EBITDA,2024-12-31,48290170000.0
+VBL,A,income,EBITDA,2025-12-31,53945060000.0
+VBL,A,income,Interest Expense,2022-12-31,1836930000.0
+VBL,A,income,Interest Expense,2023-12-31,2666440000.0
+VBL,A,income,Interest Expense,2024-12-31,4485420000.0
+VBL,A,income,Interest Expense,2025-12-31,1683950000.0
+VBL,A,income,Net Income,2022-12-31,14974330000.0
+VBL,A,income,Net Income,2023-12-31,20559220000.0
+VBL,A,income,Net Income,2024-12-31,25946330000.0
+VBL,A,income,Net Income,2025-12-31,30364890000.0
+VBL,A,income,Net Income Common Stockholders,2022-12-31,14974330000.0
+VBL,A,income,Net Income Common Stockholders,2023-12-31,20559220000.0
+VBL,A,income,Net Income Common Stockholders,2024-12-31,25946330000.0
+VBL,A,income,Net Income Common Stockholders,2025-12-31,30364890000.0
+VBL,A,income,Operating Income,2022-12-31,23085960000.0
+VBL,A,income,Operating Income,2023-12-31,31264910000.0
+VBL,A,income,Operating Income,2024-12-31,40032430000.0
+VBL,A,income,Operating Income,2025-12-31,38602580000.0
+VBL,A,income,Pretax Income,2022-12-31,20236370000.0
+VBL,A,income,Pretax Income,2023-12-31,27393600000.0
+VBL,A,income,Pretax Income,2024-12-31,34330890000.0
+VBL,A,income,Pretax Income,2025-12-31,40096480000.0
+VBL,A,income,Total Revenue,2022-12-31,129210520000.0
+VBL,A,income,Total Revenue,2023-12-31,156217420000.0
+VBL,A,income,Total Revenue,2024-12-31,194450460000.0
+VBL,A,income,Total Revenue,2025-12-31,208346040000.0
+VBL,Q,income,Basic EPS,2025-09-30,4.45
+VBL,Q,income,Basic EPS,2025-12-31,0.74
+VBL,Q,income,Basic EPS,2026-03-31,2.58
+VBL,Q,income,Basic EPS,2026-06-30,4.5
+VBL,Q,income,Basic EPS,2026-09-30,2.45
+VBL,Q,income,Diluted EPS,2025-09-30,4.45
+VBL,Q,income,Diluted EPS,2025-12-31,0.74
+VBL,Q,income,Diluted EPS,2026-03-31,2.58
+VBL,Q,income,Diluted EPS,2026-06-30,4.5
+VBL,Q,income,Diluted EPS,2026-09-30,2.45
+VBL,Q,income,EBITDA,2025-09-30,12862950000.0
+VBL,Q,income,EBITDA,2025-12-31,7357180000.0
+VBL,Q,income,EBITDA,2026-03-31,15685080000.0
+VBL,Q,income,EBITDA,2026-06-30,24431350000.0
+VBL,Q,income,EBITDA,2026-09-30,15442890000.0
+VBL,Q,income,Interest Expense,2025-09-30,467090000.0
+VBL,Q,income,Interest Expense,2025-12-31,466340000.0
+VBL,Q,income,Interest Expense,2026-03-31,485250000.0
+VBL,Q,income,Interest Expense,2026-06-30,569230000.0
+VBL,Q,income,Interest Expense,2026-09-30,716910000.0
+VBL,Q,income,Net Income,2025-09-30,7275080000.0
+VBL,Q,income,Net Income,2025-12-31,2517870000.0
+VBL,Q,income,Net Income,2026-03-31,8723550000.0
+VBL,Q,income,Net Income,2026-06-30,15207970000.0
+VBL,Q,income,Net Income,2026-09-30,8280010000.0
+VBL,Q,income,Net Income Common Stockholders,2025-09-30,7275080000.0
+VBL,Q,income,Net Income Common Stockholders,2025-12-31,2517870000.0
+VBL,Q,income,Net Income Common Stockholders,2026-03-31,8723550000.0
+VBL,Q,income,Net Income Common Stockholders,2026-06-30,15207970000.0
+VBL,Q,income,Net Income Common Stockholders,2026-09-30,8280010000.0
+VBL,Q,income,Operating Income,2025-09-30,8280510000.0
+VBL,Q,income,Operating Income,2025-12-31,3090570000.0
+VBL,Q,income,Operating Income,2026-03-31,11721330000.0
+VBL,Q,income,Operating Income,2026-06-30,19340020000.0
+VBL,Q,income,Operating Income,2026-09-30,10067270000.0
+VBL,Q,income,Pretax Income,2025-09-30,9272290000.0
+VBL,Q,income,Pretax Income,2025-12-31,3588850000.0
+VBL,Q,income,Pretax Income,2026-03-31,11631890000.0
+VBL,Q,income,Pretax Income,2026-06-30,19771770000.0
+VBL,Q,income,Pretax Income,2026-09-30,10526160000.0
+VBL,Q,income,Total Revenue,2025-09-30,49606940000.0
+VBL,Q,income,Total Revenue,2025-12-31,42044230000.0
+VBL,Q,income,Total Revenue,2026-03-31,65741900000.0
+VBL,Q,income,Total Revenue,2026-06-30,84512320000.0
+VBL,Q,income,Total Revenue,2026-09-30,66075580000.0

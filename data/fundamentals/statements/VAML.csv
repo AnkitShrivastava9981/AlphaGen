@@ -1,0 +1,85 @@
+symbol,freq,statement,item,period_end,value
+VAML,A,balance,Cash And Cash Equivalents,2024-03-31,100000.0
+VAML,A,balance,Cash And Cash Equivalents,2025-03-31,76000.0
+VAML,A,balance,Cash And Cash Equivalents,2026-03-31,67000.0
+VAML,A,balance,Net Debt,2025-03-31,313000.0
+VAML,A,balance,Net Debt,2026-03-31,556000.0
+VAML,A,balance,Ordinary Shares Number,2024-03-31,3904155728.0
+VAML,A,balance,Ordinary Shares Number,2025-03-31,3904155728.0
+VAML,A,balance,Ordinary Shares Number,2026-03-31,3904155728.0
+VAML,A,balance,Stockholders Equity,2024-03-31,-90000.0
+VAML,A,balance,Stockholders Equity,2025-03-31,-375000.0
+VAML,A,balance,Stockholders Equity,2026-03-31,-741000.0
+VAML,A,balance,Total Assets,2024-03-31,118000.0
+VAML,A,balance,Total Assets,2025-03-31,146000.0
+VAML,A,balance,Total Assets,2026-03-31,190000.0
+VAML,A,balance,Total Debt,2025-03-31,389000.0
+VAML,A,balance,Total Debt,2026-03-31,623000.0
+VAML,A,cashflow,Free Cash Flow,2024-03-31,0.0
+VAML,A,cashflow,Free Cash Flow,2025-03-31,-413000.0
+VAML,A,cashflow,Free Cash Flow,2026-03-31,-242000.0
+VAML,A,cashflow,Operating Cash Flow,2024-03-31,0.0
+VAML,A,cashflow,Operating Cash Flow,2025-03-31,-413000.0
+VAML,A,cashflow,Operating Cash Flow,2026-03-31,-242000.0
+VAML,A,income,Basic EPS,2024-03-31,-4.9e-05
+VAML,A,income,Basic EPS,2025-03-31,-7.3e-05
+VAML,A,income,Basic EPS,2026-03-31,-9.4e-05
+VAML,A,income,Diluted EPS,2024-03-31,-4.9e-05
+VAML,A,income,Diluted EPS,2025-03-31,-7.3e-05
+VAML,A,income,Diluted EPS,2026-03-31,-9.4e-05
+VAML,A,income,EBITDA,2024-03-31,-90000.0
+VAML,A,income,EBITDA,2025-03-31,-242000.0
+VAML,A,income,EBITDA,2026-03-31,-311000.0
+VAML,A,income,Interest Expense,2025-03-31,43000.0
+VAML,A,income,Interest Expense,2026-03-31,55000.0
+VAML,A,income,Net Income,2024-03-31,-190000.0
+VAML,A,income,Net Income,2025-03-31,-285000.0
+VAML,A,income,Net Income,2026-03-31,-366000.0
+VAML,A,income,Net Income Common Stockholders,2024-03-31,-190000.0
+VAML,A,income,Net Income Common Stockholders,2025-03-31,-285000.0
+VAML,A,income,Net Income Common Stockholders,2026-03-31,-366000.0
+VAML,A,income,Operating Income,2024-03-31,-90000.0
+VAML,A,income,Operating Income,2025-03-31,-115000.0
+VAML,A,income,Operating Income,2026-03-31,-175000.0
+VAML,A,income,Pretax Income,2024-03-31,-190000.0
+VAML,A,income,Pretax Income,2025-03-31,-285000.0
+VAML,A,income,Pretax Income,2026-03-31,-366000.0
+VAML,A,income,Total Revenue,2024-03-31,0.0
+VAML,A,income,Total Revenue,2025-03-31,0.0
+VAML,A,income,Total Revenue,2026-03-31,0.0
+VAML,Q,income,Basic EPS,2025-06-30,4.561806
+VAML,Q,income,Basic EPS,2025-09-30,6.078139
+VAML,Q,income,Basic EPS,2026-06-30,14.39
+VAML,Q,income,Basic EPS,2026-09-30,13.21
+VAML,Q,income,Diluted EPS,2025-06-30,4.561806
+VAML,Q,income,Diluted EPS,2025-09-30,6.078139
+VAML,Q,income,Diluted EPS,2026-06-30,14.39
+VAML,Q,income,Diluted EPS,2026-09-30,13.21
+VAML,Q,income,EBITDA,2025-06-30,45940000000.0
+VAML,Q,income,EBITDA,2025-09-30,56810000000.0
+VAML,Q,income,EBITDA,2026-06-30,106080000000.0
+VAML,Q,income,EBITDA,2026-09-30,99750000000.0
+VAML,Q,income,Interest Expense,2025-06-30,10000000000.0
+VAML,Q,income,Interest Expense,2025-09-30,9490000000.0
+VAML,Q,income,Interest Expense,2026-06-30,10010000000.0
+VAML,Q,income,Interest Expense,2026-09-30,9110000000.0
+VAML,Q,income,Net Income,2025-06-30,17810000000.0
+VAML,Q,income,Net Income,2025-09-30,23730000000.0
+VAML,Q,income,Net Income,2026-06-30,56290000000.0
+VAML,Q,income,Net Income,2026-09-30,51670000000.0
+VAML,Q,income,Net Income Common Stockholders,2025-06-30,17810000000.0
+VAML,Q,income,Net Income Common Stockholders,2025-09-30,23730000000.0
+VAML,Q,income,Net Income Common Stockholders,2026-06-30,56290000000.0
+VAML,Q,income,Net Income Common Stockholders,2026-09-30,51670000000.0
+VAML,Q,income,Operating Income,2025-06-30,36850000000.0
+VAML,Q,income,Operating Income,2025-09-30,48450000000.0
+VAML,Q,income,Operating Income,2026-06-30,95240000000.0
+VAML,Q,income,Operating Income,2026-09-30,93110000000.0
+VAML,Q,income,Pretax Income,2025-06-30,28930000000.0
+VAML,Q,income,Pretax Income,2025-09-30,40330000000.0
+VAML,Q,income,Pretax Income,2026-06-30,88320000000.0
+VAML,Q,income,Pretax Income,2026-09-30,82620000000.0
+VAML,Q,income,Total Revenue,2025-06-30,145570000000.0
+VAML,Q,income,Total Revenue,2025-09-30,156700000000.0
+VAML,Q,income,Total Revenue,2026-06-30,211050000000.0
+VAML,Q,income,Total Revenue,2026-09-30,220660000000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+GOKEX,A,balance,Cash And Cash Equivalents,2023-03-31,147221000.0
+GOKEX,A,balance,Cash And Cash Equivalents,2024-03-31,542479000.0
+GOKEX,A,balance,Cash And Cash Equivalents,2025-03-31,1647507000.0
+GOKEX,A,balance,Cash And Cash Equivalents,2026-03-31,1350099000.0
+GOKEX,A,balance,Net Debt,2023-03-31,207286000.0
+GOKEX,A,balance,Net Debt,2024-03-31,5653113000.0
+GOKEX,A,balance,Net Debt,2025-03-31,4785750000.0
+GOKEX,A,balance,Net Debt,2026-03-31,8425433000.0
+GOKEX,A,balance,Ordinary Shares Number,2023-03-31,60577994.0
+GOKEX,A,balance,Ordinary Shares Number,2024-03-31,63382860.0
+GOKEX,A,balance,Ordinary Shares Number,2025-03-31,71466461.0
+GOKEX,A,balance,Ordinary Shares Number,2026-03-31,73247228.0
+GOKEX,A,balance,Stockholders Equity,2023-03-31,8862512000.0
+GOKEX,A,balance,Stockholders Equity,2024-03-31,12913400000.0
+GOKEX,A,balance,Stockholders Equity,2025-03-31,20806791000.0
+GOKEX,A,balance,Stockholders Equity,2026-03-31,21603993000.0
+GOKEX,A,balance,Total Assets,2023-03-31,13420153000.0
+GOKEX,A,balance,Total Assets,2024-03-31,27411189000.0
+GOKEX,A,balance,Total Assets,2025-03-31,35371693000.0
+GOKEX,A,balance,Total Assets,2026-03-31,43541570000.0
+GOKEX,A,balance,Total Debt,2023-03-31,1544114000.0
+GOKEX,A,balance,Total Debt,2024-03-31,8048596000.0
+GOKEX,A,balance,Total Debt,2025-03-31,8452120000.0
+GOKEX,A,balance,Total Debt,2026-03-31,12732076000.0
+GOKEX,A,cashflow,Capital Expenditure,2023-03-31,-1354244000.0
+GOKEX,A,cashflow,Capital Expenditure,2024-03-31,-6890637000.0
+GOKEX,A,cashflow,Capital Expenditure,2025-03-31,-1909246000.0
+GOKEX,A,cashflow,Capital Expenditure,2026-03-31,-2281331000.0
+GOKEX,A,cashflow,Free Cash Flow,2023-03-31,2333986000.0
+GOKEX,A,cashflow,Free Cash Flow,2024-03-31,-8661254000.0
+GOKEX,A,cashflow,Free Cash Flow,2025-03-31,-1337284000.0
+GOKEX,A,cashflow,Free Cash Flow,2026-03-31,-1765404000.0
+GOKEX,A,cashflow,Operating Cash Flow,2023-03-31,3688230000.0
+GOKEX,A,cashflow,Operating Cash Flow,2024-03-31,-1770617000.0
+GOKEX,A,cashflow,Operating Cash Flow,2025-03-31,571962000.0
+GOKEX,A,cashflow,Operating Cash Flow,2026-03-31,515927000.0
+GOKEX,A,income,Basic EPS,2023-03-31,28.6
+GOKEX,A,income,Basic EPS,2024-03-31,21.55
+GOKEX,A,income,Basic EPS,2025-03-31,22.36
+GOKEX,A,income,Basic EPS,2026-03-31,13.71
+GOKEX,A,income,Diluted EPS,2023-03-31,27.2
+GOKEX,A,income,Diluted EPS,2024-03-31,20.51
+GOKEX,A,income,Diluted EPS,2025-03-31,21.45
+GOKEX,A,income,Diluted EPS,2026-03-31,13.11
+GOKEX,A,income,EBITDA,2023-03-31,2931334000.0
+GOKEX,A,income,EBITDA,2024-03-31,2741696000.0
+GOKEX,A,income,EBITDA,2025-03-31,4119105000.0
+GOKEX,A,income,EBITDA,2026-03-31,4192065000.0
+GOKEX,A,income,Interest Expense,2023-03-31,169935000.0
+GOKEX,A,income,Interest Expense,2024-03-31,264010000.0
+GOKEX,A,income,Interest Expense,2025-03-31,654326000.0
+GOKEX,A,income,Interest Expense,2026-03-31,806861000.0
+GOKEX,A,income,Net Income,2023-03-31,1729664000.0
+GOKEX,A,income,Net Income,2024-03-31,1309720000.0
+GOKEX,A,income,Net Income,2025-03-31,1585409000.0
+GOKEX,A,income,Net Income,2026-03-31,1001318000.0
+GOKEX,A,income,Net Income Common Stockholders,2023-03-31,1729664000.0
+GOKEX,A,income,Net Income Common Stockholders,2024-03-31,1309720000.0
+GOKEX,A,income,Net Income Common Stockholders,2025-03-31,1585409000.0
+GOKEX,A,income,Net Income Common Stockholders,2026-03-31,1001318000.0
+GOKEX,A,income,Operating Income,2023-03-31,1942449000.0
+GOKEX,A,income,Operating Income,2024-03-31,1638256000.0
+GOKEX,A,income,Operating Income,2025-03-31,2313898000.0
+GOKEX,A,income,Operating Income,2026-03-31,1748737000.0
+GOKEX,A,income,Pretax Income,2023-03-31,2043896000.0
+GOKEX,A,income,Pretax Income,2024-03-31,1589942000.0
+GOKEX,A,income,Pretax Income,2025-03-31,2180747000.0
+GOKEX,A,income,Pretax Income,2026-03-31,1716235000.0
+GOKEX,A,income,Total Revenue,2023-03-31,20660615000.0
+GOKEX,A,income,Total Revenue,2024-03-31,21927437000.0
+GOKEX,A,income,Total Revenue,2025-03-31,35780499000.0
+GOKEX,A,income,Total Revenue,2026-03-31,36521465000.0
+GOKEX,Q,income,Basic EPS,2025-09-30,1.1
+GOKEX,Q,income,Basic EPS,2025-12-31,2.0
+GOKEX,Q,income,Basic EPS,2026-03-31,4.91
+GOKEX,Q,income,Basic EPS,2026-06-30,6.05
+GOKEX,Q,income,Basic EPS,2026-09-30,5.63
+GOKEX,Q,income,Diluted EPS,2025-09-30,1.06
+GOKEX,Q,income,Diluted EPS,2025-12-31,1.89
+GOKEX,Q,income,Diluted EPS,2026-03-31,4.64
+GOKEX,Q,income,Diluted EPS,2026-06-30,5.75
+GOKEX,Q,income,Diluted EPS,2026-09-30,5.54
+GOKEX,Q,income,EBITDA,2025-09-30,835783000.0
+GOKEX,Q,income,EBITDA,2025-12-31,964281000.0
+GOKEX,Q,income,EBITDA,2026-03-31,1349981000.0
+GOKEX,Q,income,EBITDA,2026-06-30,1391573000.0
+GOKEX,Q,income,EBITDA,2026-09-30,1270720000.0
+GOKEX,Q,income,Interest Expense,2025-09-30,222620000.0
+GOKEX,Q,income,Interest Expense,2025-12-31,240027000.0
+GOKEX,Q,income,Interest Expense,2026-03-31,264009000.0
+GOKEX,Q,income,Interest Expense,2026-06-30,305133000.0
+GOKEX,Q,income,Interest Expense,2026-09-30,294609000.0
+GOKEX,Q,income,Net Income,2025-09-30,80836000.0
+GOKEX,Q,income,Net Income,2025-12-31,146131000.0
+GOKEX,Q,income,Net Income,2026-03-31,359617000.0
+GOKEX,Q,income,Net Income,2026-06-30,442982000.0
+GOKEX,Q,income,Net Income,2026-09-30,412240000.0
+GOKEX,Q,income,Net Income Common Stockholders,2025-09-30,80836000.0
+GOKEX,Q,income,Net Income Common Stockholders,2025-12-31,146131000.0
+GOKEX,Q,income,Net Income Common Stockholders,2026-03-31,359617000.0
+GOKEX,Q,income,Net Income Common Stockholders,2026-06-30,442982000.0
+GOKEX,Q,income,Net Income Common Stockholders,2026-09-30,412240000.0
+GOKEX,Q,income,Operating Income,2025-09-30,110204000.0
+GOKEX,Q,income,Operating Income,2025-12-31,285798000.0
+GOKEX,Q,income,Operating Income,2026-03-31,708111000.0
+GOKEX,Q,income,Operating Income,2026-06-30,613629000.0
+GOKEX,Q,income,Operating Income,2026-09-30,517480000.0
+GOKEX,Q,income,Pretax Income,2025-09-30,187231000.0
+GOKEX,Q,income,Pretax Income,2025-12-31,261362000.0
+GOKEX,Q,income,Pretax Income,2026-03-31,699577000.0
+GOKEX,Q,income,Pretax Income,2026-06-30,628341000.0
+GOKEX,Q,income,Pretax Income,2026-09-30,494990000.0
+GOKEX,Q,income,Total Revenue,2025-09-30,9843536000.0
+GOKEX,Q,income,Total Revenue,2025-12-31,9786514000.0
+GOKEX,Q,income,Total Revenue,2026-03-31,10688470000.0
+GOKEX,Q,income,Total Revenue,2026-06-30,11535137000.0
+GOKEX,Q,income,Total Revenue,2026-09-30,11127954000.0

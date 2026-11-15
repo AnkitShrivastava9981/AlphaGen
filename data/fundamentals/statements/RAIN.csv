@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+RAIN,A,balance,Cash And Cash Equivalents,2022-12-31,11676629000.0
+RAIN,A,balance,Cash And Cash Equivalents,2023-12-31,14051510000.0
+RAIN,A,balance,Cash And Cash Equivalents,2024-12-31,13211860000.0
+RAIN,A,balance,Cash And Cash Equivalents,2025-12-31,9257020000.0
+RAIN,A,balance,Net Debt,2022-12-31,80574641000.0
+RAIN,A,balance,Net Debt,2023-12-31,67682870000.0
+RAIN,A,balance,Net Debt,2024-12-31,65397860000.0
+RAIN,A,balance,Net Debt,2025-12-31,81210010000.0
+RAIN,A,balance,Ordinary Shares Number,2022-12-31,336345679.0
+RAIN,A,balance,Ordinary Shares Number,2023-12-31,336345679.0
+RAIN,A,balance,Ordinary Shares Number,2024-12-31,336345679.0
+RAIN,A,balance,Ordinary Shares Number,2025-12-31,336345679.0
+RAIN,A,balance,Stockholders Equity,2022-12-31,84268370000.0
+RAIN,A,balance,Stockholders Equity,2023-12-31,73425370000.0
+RAIN,A,balance,Stockholders Equity,2024-12-31,66376620000.0
+RAIN,A,balance,Stockholders Equity,2025-12-31,74491180000.0
+RAIN,A,balance,Total Assets,2022-12-31,221734090000.0
+RAIN,A,balance,Total Assets,2023-12-31,200088940000.0
+RAIN,A,balance,Total Assets,2024-12-31,189368710000.0
+RAIN,A,balance,Total Assets,2025-12-31,207597670000.0
+RAIN,A,balance,Total Debt,2022-12-31,97314170000.0
+RAIN,A,balance,Total Debt,2023-12-31,86901770000.0
+RAIN,A,balance,Total Debt,2024-12-31,84942790000.0
+RAIN,A,balance,Total Debt,2025-12-31,98240410000.0
+RAIN,A,cashflow,Capital Expenditure,2022-12-31,-6691400000.0
+RAIN,A,cashflow,Capital Expenditure,2023-12-31,-5958030000.0
+RAIN,A,cashflow,Capital Expenditure,2024-12-31,-6531580000.0
+RAIN,A,cashflow,Capital Expenditure,2025-12-31,-4607050000.0
+RAIN,A,cashflow,Free Cash Flow,2022-12-31,3667120000.0
+RAIN,A,cashflow,Free Cash Flow,2023-12-31,24676850000.0
+RAIN,A,cashflow,Free Cash Flow,2024-12-31,12900580000.0
+RAIN,A,cashflow,Free Cash Flow,2025-12-31,4365380000.0
+RAIN,A,cashflow,Operating Cash Flow,2022-12-31,10358520000.0
+RAIN,A,cashflow,Operating Cash Flow,2023-12-31,30634880000.0
+RAIN,A,cashflow,Operating Cash Flow,2024-12-31,19432160000.0
+RAIN,A,cashflow,Operating Cash Flow,2025-12-31,8972430000.0
+RAIN,A,income,Basic EPS,2022-12-31,42.77
+RAIN,A,income,Basic EPS,2023-12-31,-27.89
+RAIN,A,income,Basic EPS,2024-12-31,-16.78
+RAIN,A,income,Basic EPS,2025-12-31,1.26
+RAIN,A,income,Diluted EPS,2022-12-31,42.77
+RAIN,A,income,Diluted EPS,2023-12-31,-27.89
+RAIN,A,income,Diluted EPS,2024-12-31,-16.78
+RAIN,A,income,Diluted EPS,2025-12-31,1.26
+RAIN,A,income,EBITDA,2022-12-31,35969090000.0
+RAIN,A,income,EBITDA,2023-12-31,10880550000.0
+RAIN,A,income,EBITDA,2024-12-31,14880890000.0
+RAIN,A,income,EBITDA,2025-12-31,22410980000.0
+RAIN,A,income,Interest Expense,2022-12-31,4793320000.0
+RAIN,A,income,Interest Expense,2023-12-31,7941770000.0
+RAIN,A,income,Interest Expense,2024-12-31,9066720000.0
+RAIN,A,income,Interest Expense,2025-12-31,8847000000.0
+RAIN,A,income,Net Income,2022-12-31,14386450000.0
+RAIN,A,income,Net Income,2023-12-31,-9379060000.0
+RAIN,A,income,Net Income,2024-12-31,-5642690000.0
+RAIN,A,income,Net Income,2025-12-31,425240000.0
+RAIN,A,income,Net Income Common Stockholders,2022-12-31,14386450000.0
+RAIN,A,income,Net Income Common Stockholders,2023-12-31,-9379060000.0
+RAIN,A,income,Net Income Common Stockholders,2024-12-31,-5642690000.0
+RAIN,A,income,Net Income Common Stockholders,2025-12-31,425240000.0
+RAIN,A,income,Operating Income,2022-12-31,28528600000.0
+RAIN,A,income,Operating Income,2023-12-31,9055150000.0
+RAIN,A,income,Operating Income,2024-12-31,4517270000.0
+RAIN,A,income,Operating Income,2025-12-31,12269610000.0
+RAIN,A,income,Pretax Income,2022-12-31,23272670000.0
+RAIN,A,income,Pretax Income,2023-12-31,-4823900000.0
+RAIN,A,income,Pretax Income,2024-12-31,-2256840000.0
+RAIN,A,income,Pretax Income,2025-12-31,4345660000.0
+RAIN,A,income,Total Revenue,2022-12-31,209061970000.0
+RAIN,A,income,Total Revenue,2023-12-31,180518140000.0
+RAIN,A,income,Total Revenue,2024-12-31,152672700000.0
+RAIN,A,income,Total Revenue,2025-12-31,167911390000.0
+RAIN,Q,income,Basic EPS,2025-06-30,1.8
+RAIN,Q,income,Basic EPS,2025-12-31,0.4
+RAIN,Q,income,Basic EPS,2026-03-31,3.61
+RAIN,Q,income,Basic EPS,2026-06-30,8.81
+RAIN,Q,income,Basic EPS,2026-09-30,6.26
+RAIN,Q,income,Diluted EPS,2025-06-30,1.8
+RAIN,Q,income,Diluted EPS,2025-12-31,0.4
+RAIN,Q,income,Diluted EPS,2026-03-31,3.61
+RAIN,Q,income,Diluted EPS,2026-06-30,8.81
+RAIN,Q,income,Diluted EPS,2026-09-30,6.26
+RAIN,Q,income,EBITDA,2025-06-30,6567720000.0
+RAIN,Q,income,EBITDA,2025-12-31,5513160000.0
+RAIN,Q,income,EBITDA,2026-03-31,7426930000.0
+RAIN,Q,income,EBITDA,2026-06-30,9970990000.0
+RAIN,Q,income,EBITDA,2026-09-30,8783550000.0
+RAIN,Q,income,Interest Expense,2025-06-30,2282450000.0
+RAIN,Q,income,Interest Expense,2025-12-31,2317610000.0
+RAIN,Q,income,Interest Expense,2026-03-31,2382970000.0
+RAIN,Q,income,Interest Expense,2026-06-30,2513660000.0
+RAIN,Q,income,Interest Expense,2026-09-30,2661950000.0
+RAIN,Q,income,Net Income,2025-06-30,607010000.0
+RAIN,Q,income,Net Income,2025-12-31,135090000.0
+RAIN,Q,income,Net Income,2026-03-31,1214360000.0
+RAIN,Q,income,Net Income,2026-06-30,2962060000.0
+RAIN,Q,income,Net Income,2026-09-30,2106580000.0
+RAIN,Q,income,Net Income Common Stockholders,2025-06-30,607010000.0
+RAIN,Q,income,Net Income Common Stockholders,2025-12-31,135090000.0
+RAIN,Q,income,Net Income Common Stockholders,2026-03-31,1214360000.0
+RAIN,Q,income,Net Income Common Stockholders,2026-06-30,2962060000.0
+RAIN,Q,income,Net Income Common Stockholders,2026-09-30,2106580000.0
+RAIN,Q,income,Operating Income,2025-06-30,4334560000.0
+RAIN,Q,income,Operating Income,2025-12-31,2499410000.0
+RAIN,Q,income,Operating Income,2026-03-31,4343430000.0
+RAIN,Q,income,Operating Income,2026-06-30,6951710000.0
+RAIN,Q,income,Operating Income,2026-09-30,5937080000.0
+RAIN,Q,income,Pretax Income,2025-06-30,2035940000.0
+RAIN,Q,income,Pretax Income,2025-12-31,655940000.0
+RAIN,Q,income,Pretax Income,2026-03-31,2557760000.0
+RAIN,Q,income,Pretax Income,2026-06-30,5010680000.0
+RAIN,Q,income,Pretax Income,2026-09-30,3580180000.0
+RAIN,Q,income,Total Revenue,2025-06-30,44013830000.0
+RAIN,Q,income,Total Revenue,2025-12-31,43007130000.0
+RAIN,Q,income,Total Revenue,2026-03-31,45207300000.0
+RAIN,Q,income,Total Revenue,2026-06-30,51671580000.0
+RAIN,Q,income,Total Revenue,2026-09-30,54859030000.0

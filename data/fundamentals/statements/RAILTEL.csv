@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+RAILTEL,A,balance,Cash And Cash Equivalents,2023-03-31,1877900000.0
+RAILTEL,A,balance,Cash And Cash Equivalents,2024-03-31,2476500000.0
+RAILTEL,A,balance,Cash And Cash Equivalents,2025-03-31,3080400000.0
+RAILTEL,A,balance,Cash And Cash Equivalents,2026-03-31,3974600000.0
+RAILTEL,A,balance,Ordinary Shares Number,2023-03-31,320938407.0
+RAILTEL,A,balance,Ordinary Shares Number,2024-03-31,320938407.0
+RAILTEL,A,balance,Ordinary Shares Number,2025-03-31,320938407.0
+RAILTEL,A,balance,Ordinary Shares Number,2026-03-31,320938407.0
+RAILTEL,A,balance,Stockholders Equity,2023-03-31,16488800000.0
+RAILTEL,A,balance,Stockholders Equity,2024-03-31,18272400000.0
+RAILTEL,A,balance,Stockholders Equity,2025-03-31,19996200000.0
+RAILTEL,A,balance,Stockholders Equity,2026-03-31,22616100000.0
+RAILTEL,A,balance,Total Assets,2023-03-31,33487900000.0
+RAILTEL,A,balance,Total Assets,2024-03-31,40495800000.0
+RAILTEL,A,balance,Total Assets,2025-03-31,51612100000.0
+RAILTEL,A,balance,Total Assets,2026-03-31,58300000000.0
+RAILTEL,A,balance,Total Debt,2023-03-31,417900000.0
+RAILTEL,A,balance,Total Debt,2024-03-31,456200000.0
+RAILTEL,A,balance,Total Debt,2025-03-31,445400000.0
+RAILTEL,A,balance,Total Debt,2026-03-31,637200000.0
+RAILTEL,A,cashflow,Capital Expenditure,2023-03-31,-1764300000.0
+RAILTEL,A,cashflow,Capital Expenditure,2024-03-31,-2096700000.0
+RAILTEL,A,cashflow,Capital Expenditure,2025-03-31,-3250500000.0
+RAILTEL,A,cashflow,Capital Expenditure,2026-03-31,-2723600000.0
+RAILTEL,A,cashflow,Free Cash Flow,2023-03-31,1074000000.0
+RAILTEL,A,cashflow,Free Cash Flow,2024-03-31,3466700000.0
+RAILTEL,A,cashflow,Free Cash Flow,2025-03-31,-697200000.0
+RAILTEL,A,cashflow,Free Cash Flow,2026-03-31,440900000.0
+RAILTEL,A,cashflow,Operating Cash Flow,2023-03-31,2838300000.0
+RAILTEL,A,cashflow,Operating Cash Flow,2024-03-31,5563400000.0
+RAILTEL,A,cashflow,Operating Cash Flow,2025-03-31,2553300000.0
+RAILTEL,A,cashflow,Operating Cash Flow,2026-03-31,3164500000.0
+RAILTEL,A,income,Basic EPS,2023-03-31,5.87
+RAILTEL,A,income,Basic EPS,2024-03-31,7.67
+RAILTEL,A,income,Basic EPS,2025-03-31,9.34
+RAILTEL,A,income,Basic EPS,2026-03-31,10.79
+RAILTEL,A,income,Diluted EPS,2023-03-31,5.87
+RAILTEL,A,income,Diluted EPS,2024-03-31,7.67
+RAILTEL,A,income,Diluted EPS,2025-03-31,9.34
+RAILTEL,A,income,Diluted EPS,2026-03-31,10.79
+RAILTEL,A,income,EBITDA,2023-03-31,4183300000.0
+RAILTEL,A,income,EBITDA,2024-03-31,4882000000.0
+RAILTEL,A,income,EBITDA,2025-03-31,5648600000.0
+RAILTEL,A,income,EBITDA,2026-03-31,6677500000.0
+RAILTEL,A,income,Interest Expense,2023-03-31,101400000.0
+RAILTEL,A,income,Interest Expense,2024-03-31,131300000.0
+RAILTEL,A,income,Interest Expense,2025-03-31,11800000.0
+RAILTEL,A,income,Interest Expense,2026-03-31,92800000.0
+RAILTEL,A,income,Net Income,2023-03-31,1882500000.0
+RAILTEL,A,income,Net Income,2024-03-31,2462100000.0
+RAILTEL,A,income,Net Income,2025-03-31,2998100000.0
+RAILTEL,A,income,Net Income,2026-03-31,3463200000.0
+RAILTEL,A,income,Net Income Common Stockholders,2023-03-31,1882500000.0
+RAILTEL,A,income,Net Income Common Stockholders,2024-03-31,2462100000.0
+RAILTEL,A,income,Net Income Common Stockholders,2025-03-31,2998100000.0
+RAILTEL,A,income,Net Income Common Stockholders,2026-03-31,3463200000.0
+RAILTEL,A,income,Operating Income,2023-03-31,2313600000.0
+RAILTEL,A,income,Operating Income,2024-03-31,2908200000.0
+RAILTEL,A,income,Operating Income,2025-03-31,3728700000.0
+RAILTEL,A,income,Operating Income,2026-03-31,4490900000.0
+RAILTEL,A,income,Pretax Income,2023-03-31,2539000000.0
+RAILTEL,A,income,Pretax Income,2024-03-31,3280900000.0
+RAILTEL,A,income,Pretax Income,2025-03-31,4017800000.0
+RAILTEL,A,income,Pretax Income,2026-03-31,4695800000.0
+RAILTEL,A,income,Total Revenue,2023-03-31,19514000000.0
+RAILTEL,A,income,Total Revenue,2024-03-31,25637800000.0
+RAILTEL,A,income,Total Revenue,2025-03-31,34659000000.0
+RAILTEL,A,income,Total Revenue,2026-03-31,42686800000.0
+RAILTEL,Q,income,Basic EPS,2025-06-30,2.06
+RAILTEL,Q,income,Basic EPS,2025-12-31,1.94
+RAILTEL,Q,income,Basic EPS,2026-03-31,4.42
+RAILTEL,Q,income,Basic EPS,2026-06-30,2.05
+RAILTEL,Q,income,Basic EPS,2026-09-30,2.14
+RAILTEL,Q,income,Diluted EPS,2025-06-30,2.06
+RAILTEL,Q,income,Diluted EPS,2025-12-31,1.94
+RAILTEL,Q,income,Diluted EPS,2026-03-31,4.42
+RAILTEL,Q,income,Diluted EPS,2026-06-30,2.05
+RAILTEL,Q,income,Diluted EPS,2026-09-30,2.14
+RAILTEL,Q,income,EBITDA,2025-06-30,1336200000.0
+RAILTEL,Q,income,EBITDA,2025-12-31,1348400000.0
+RAILTEL,Q,income,EBITDA,2026-03-31,2410600000.0
+RAILTEL,Q,income,EBITDA,2026-06-30,1408600000.0
+RAILTEL,Q,income,EBITDA,2026-09-30,1467500000.0
+RAILTEL,Q,income,Interest Expense,2025-06-30,5800000.0
+RAILTEL,Q,income,Interest Expense,2025-12-31,9300000.0
+RAILTEL,Q,income,Interest Expense,2026-03-31,17100000.0
+RAILTEL,Q,income,Interest Expense,2026-06-30,10300000.0
+RAILTEL,Q,income,Interest Expense,2026-09-30,14800000.0
+RAILTEL,Q,income,Net Income,2025-06-30,661000000.0
+RAILTEL,Q,income,Net Income,2025-12-31,624000000.0
+RAILTEL,Q,income,Net Income,2026-03-31,1417500000.0
+RAILTEL,Q,income,Net Income,2026-06-30,657800000.0
+RAILTEL,Q,income,Net Income,2026-09-30,685600000.0
+RAILTEL,Q,income,Net Income Common Stockholders,2025-06-30,661000000.0
+RAILTEL,Q,income,Net Income Common Stockholders,2025-12-31,624000000.0
+RAILTEL,Q,income,Net Income Common Stockholders,2026-03-31,1417500000.0
+RAILTEL,Q,income,Net Income Common Stockholders,2026-06-30,657800000.0
+RAILTEL,Q,income,Net Income Common Stockholders,2026-09-30,685600000.0
+RAILTEL,Q,income,Operating Income,2025-06-30,721200000.0
+RAILTEL,Q,income,Operating Income,2025-12-31,845200000.0
+RAILTEL,Q,income,Operating Income,2026-03-31,1833200000.0
+RAILTEL,Q,income,Operating Income,2026-06-30,811800000.0
+RAILTEL,Q,income,Operating Income,2026-09-30,1230300000.0
+RAILTEL,Q,income,Pretax Income,2025-06-30,893100000.0
+RAILTEL,Q,income,Pretax Income,2025-12-31,850000000.0
+RAILTEL,Q,income,Pretax Income,2026-03-31,1899700000.0
+RAILTEL,Q,income,Pretax Income,2026-06-30,894400000.0
+RAILTEL,Q,income,Pretax Income,2026-09-30,923000000.0
+RAILTEL,Q,income,Total Revenue,2025-06-30,7438100000.0
+RAILTEL,Q,income,Total Revenue,2025-12-31,9134500000.0
+RAILTEL,Q,income,Total Revenue,2026-03-31,16688600000.0
+RAILTEL,Q,income,Total Revenue,2026-06-30,8932700000.0
+RAILTEL,Q,income,Total Revenue,2026-09-30,11461400000.0

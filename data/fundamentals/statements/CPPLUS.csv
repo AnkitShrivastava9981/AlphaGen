@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CPPLUS,A,balance,Cash And Cash Equivalents,2023-03-31,1476450000.0
+CPPLUS,A,balance,Cash And Cash Equivalents,2024-03-31,394670000.0
+CPPLUS,A,balance,Cash And Cash Equivalents,2025-03-31,1359310000.0
+CPPLUS,A,balance,Cash And Cash Equivalents,2026-03-31,1652700000.0
+CPPLUS,A,balance,Net Debt,2022-03-31,852860000.0
+CPPLUS,A,balance,Net Debt,2023-03-31,2619530000.0
+CPPLUS,A,balance,Net Debt,2024-03-31,3659850000.0
+CPPLUS,A,balance,Net Debt,2025-03-31,2731070000.0
+CPPLUS,A,balance,Ordinary Shares Number,2023-03-31,117221884.0
+CPPLUS,A,balance,Ordinary Shares Number,2024-03-31,117221884.0
+CPPLUS,A,balance,Ordinary Shares Number,2025-03-31,117221884.0
+CPPLUS,A,balance,Ordinary Shares Number,2026-03-31,117798084.0
+CPPLUS,A,balance,Stockholders Equity,2023-03-31,3115940000.0
+CPPLUS,A,balance,Stockholders Equity,2024-03-31,4242090000.0
+CPPLUS,A,balance,Stockholders Equity,2025-03-31,10176670000.0
+CPPLUS,A,balance,Stockholders Equity,2026-03-31,18768570000.0
+CPPLUS,A,balance,Total Assets,2023-03-31,17087620000.0
+CPPLUS,A,balance,Total Assets,2024-03-31,16441760000.0
+CPPLUS,A,balance,Total Assets,2025-03-31,31745380000.0
+CPPLUS,A,balance,Total Assets,2026-03-31,39909950000.0
+CPPLUS,A,balance,Total Debt,2023-03-31,4268680000.0
+CPPLUS,A,balance,Total Debt,2024-03-31,4362760000.0
+CPPLUS,A,balance,Total Debt,2025-03-31,4573100000.0
+CPPLUS,A,balance,Total Debt,2026-03-31,1802590000.0
+CPPLUS,A,cashflow,Capital Expenditure,2023-03-31,-71170000.0
+CPPLUS,A,cashflow,Capital Expenditure,2024-03-31,-188750000.0
+CPPLUS,A,cashflow,Capital Expenditure,2025-03-31,-264900000.0
+CPPLUS,A,cashflow,Capital Expenditure,2026-03-31,-1363270000.0
+CPPLUS,A,cashflow,Free Cash Flow,2023-03-31,486460000.0
+CPPLUS,A,cashflow,Free Cash Flow,2024-03-31,-1992800000.0
+CPPLUS,A,cashflow,Free Cash Flow,2025-03-31,7180000.0
+CPPLUS,A,cashflow,Free Cash Flow,2026-03-31,-1228450000.0
+CPPLUS,A,cashflow,Operating Cash Flow,2023-03-31,557630000.0
+CPPLUS,A,cashflow,Operating Cash Flow,2024-03-31,-1804050000.0
+CPPLUS,A,cashflow,Operating Cash Flow,2025-03-31,272080000.0
+CPPLUS,A,cashflow,Operating Cash Flow,2026-03-31,134820000.0
+CPPLUS,A,income,Basic EPS,2023-03-31,9.239828
+CPPLUS,A,income,Basic EPS,2024-03-31,9.825128
+CPPLUS,A,income,Basic EPS,2025-03-31,29.974693
+CPPLUS,A,income,Basic EPS,2026-03-31,32.05
+CPPLUS,A,income,Diluted EPS,2023-03-31,9.239828
+CPPLUS,A,income,Diluted EPS,2024-03-31,9.825128
+CPPLUS,A,income,Diluted EPS,2025-03-31,29.974693
+CPPLUS,A,income,Diluted EPS,2026-03-31,32.05
+CPPLUS,A,income,EBITDA,2023-03-31,1728470000.0
+CPPLUS,A,income,EBITDA,2024-03-31,2102620000.0
+CPPLUS,A,income,EBITDA,2025-03-31,5058170000.0
+CPPLUS,A,income,EBITDA,2026-03-31,5774900000.0
+CPPLUS,A,income,Interest Expense,2023-03-31,208130000.0
+CPPLUS,A,income,Interest Expense,2024-03-31,299300000.0
+CPPLUS,A,income,Interest Expense,2025-03-31,406110000.0
+CPPLUS,A,income,Interest Expense,2026-03-31,287210000.0
+CPPLUS,A,income,Net Income,2023-03-31,1083110000.0
+CPPLUS,A,income,Net Income,2024-03-31,1151720000.0
+CPPLUS,A,income,Net Income,2025-03-31,3513690000.0
+CPPLUS,A,income,Net Income,2026-03-31,3679610000.0
+CPPLUS,A,income,Net Income Common Stockholders,2023-03-31,1083110000.0
+CPPLUS,A,income,Net Income Common Stockholders,2024-03-31,1151720000.0
+CPPLUS,A,income,Net Income Common Stockholders,2025-03-31,3513690000.0
+CPPLUS,A,income,Net Income Common Stockholders,2026-03-31,3679610000.0
+CPPLUS,A,income,Operating Income,2023-03-31,1559880000.0
+CPPLUS,A,income,Operating Income,2024-03-31,2086110000.0
+CPPLUS,A,income,Operating Income,2025-03-31,2170970000.0
+CPPLUS,A,income,Operating Income,2026-03-31,5182970000.0
+CPPLUS,A,income,Pretax Income,2023-03-31,1431820000.0
+CPPLUS,A,income,Pretax Income,2024-03-31,1646190000.0
+CPPLUS,A,income,Pretax Income,2025-03-31,4340820000.0
+CPPLUS,A,income,Pretax Income,2026-03-31,4927470000.0
+CPPLUS,A,income,Total Revenue,2023-03-31,22835880000.0
+CPPLUS,A,income,Total Revenue,2024-03-31,27815920000.0
+CPPLUS,A,income,Total Revenue,2025-03-31,31108970000.0
+CPPLUS,A,income,Total Revenue,2026-03-31,42157300000.0
+CPPLUS,Q,income,Basic EPS,2025-09-30,6.24
+CPPLUS,Q,income,Basic EPS,2025-12-31,8.18
+CPPLUS,Q,income,Basic EPS,2026-03-31,14.37
+CPPLUS,Q,income,Basic EPS,2026-06-30,12.07
+CPPLUS,Q,income,Basic EPS,2026-09-30,15.67
+CPPLUS,Q,income,Diluted EPS,2025-09-30,6.24
+CPPLUS,Q,income,Diluted EPS,2025-12-31,8.18
+CPPLUS,Q,income,Diluted EPS,2026-03-31,14.37
+CPPLUS,Q,income,Diluted EPS,2026-06-30,12.07
+CPPLUS,Q,income,Diluted EPS,2026-09-30,15.67
+CPPLUS,Q,income,EBITDA,2025-09-30,1110820000.0
+CPPLUS,Q,income,EBITDA,2025-12-31,1446240000.0
+CPPLUS,Q,income,EBITDA,2026-03-31,2583350000.0
+CPPLUS,Q,income,EBITDA,2026-06-30,2077990000.0
+CPPLUS,Q,income,EBITDA,2026-09-30,2726270000.0
+CPPLUS,Q,income,Interest Expense,2025-09-30,69190000.0
+CPPLUS,Q,income,Interest Expense,2025-12-31,50840000.0
+CPPLUS,Q,income,Interest Expense,2026-03-31,76860000.0
+CPPLUS,Q,income,Interest Expense,2026-06-30,43130000.0
+CPPLUS,Q,income,Interest Expense,2026-09-30,59560000.0
+CPPLUS,Q,income,Net Income,2025-09-30,699750000.0
+CPPLUS,Q,income,Net Income,2025-12-31,959800000.0
+CPPLUS,Q,income,Net Income,2026-03-31,1691280000.0
+CPPLUS,Q,income,Net Income,2026-06-30,1422000000.0
+CPPLUS,Q,income,Net Income,2026-09-30,1855070000.0
+CPPLUS,Q,income,Net Income Common Stockholders,2025-09-30,699750000.0
+CPPLUS,Q,income,Net Income Common Stockholders,2025-12-31,959800000.0
+CPPLUS,Q,income,Net Income Common Stockholders,2026-03-31,1691280000.0
+CPPLUS,Q,income,Net Income Common Stockholders,2026-06-30,1422000000.0
+CPPLUS,Q,income,Net Income Common Stockholders,2026-09-30,1855070000.0
+CPPLUS,Q,income,Operating Income,2025-09-30,978900000.0
+CPPLUS,Q,income,Operating Income,2025-12-31,1276330000.0
+CPPLUS,Q,income,Operating Income,2026-03-31,2340210000.0
+CPPLUS,Q,income,Operating Income,2026-06-30,1908340000.0
+CPPLUS,Q,income,Operating Income,2026-09-30,2886380000.0
+CPPLUS,Q,income,Pretax Income,2025-09-30,935300000.0
+CPPLUS,Q,income,Pretax Income,2025-12-31,1272370000.0
+CPPLUS,Q,income,Pretax Income,2026-03-31,2279220000.0
+CPPLUS,Q,income,Pretax Income,2026-06-30,1906320000.0
+CPPLUS,Q,income,Pretax Income,2026-09-30,2518640000.0
+CPPLUS,Q,income,Total Revenue,2025-09-30,9196360000.0
+CPPLUS,Q,income,Total Revenue,2025-12-31,11391100000.0
+CPPLUS,Q,income,Total Revenue,2026-03-31,14220290000.0
+CPPLUS,Q,income,Total Revenue,2026-06-30,14024190000.0
+CPPLUS,Q,income,Total Revenue,2026-09-30,17459880000.0

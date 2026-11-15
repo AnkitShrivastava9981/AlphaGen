@@ -1,0 +1,79 @@
+symbol,freq,statement,item,period_end,value
+ENRIN,A,balance,Cash And Cash Equivalents,2025-09-30,1322000000.0
+ENRIN,A,balance,Ordinary Shares Number,2024-09-30,356120505.0
+ENRIN,A,balance,Ordinary Shares Number,2025-09-30,356120505.0
+ENRIN,A,balance,Stockholders Equity,2024-09-30,32168000000.0
+ENRIN,A,balance,Stockholders Equity,2025-09-30,43813000000.0
+ENRIN,A,balance,Total Assets,2024-09-30,70477000000.0
+ENRIN,A,balance,Total Assets,2025-09-30,95452000000.0
+ENRIN,A,balance,Total Debt,2024-09-30,1241000000.0
+ENRIN,A,balance,Total Debt,2025-09-30,1476000000.0
+ENRIN,A,cashflow,Capital Expenditure,2024-09-30,-1285000000.0
+ENRIN,A,cashflow,Capital Expenditure,2025-09-30,-2160000000.0
+ENRIN,A,cashflow,Free Cash Flow,2024-09-30,188000000.0
+ENRIN,A,cashflow,Free Cash Flow,2025-09-30,34541000000.0
+ENRIN,A,cashflow,Operating Cash Flow,2024-09-30,1473000000.0
+ENRIN,A,cashflow,Operating Cash Flow,2025-09-30,36701000000.0
+ENRIN,A,income,Basic EPS,2024-09-30,16.84823
+ENRIN,A,income,Basic EPS,2025-09-30,30.89
+ENRIN,A,income,Diluted EPS,2024-09-30,16.84823
+ENRIN,A,income,Diluted EPS,2025-09-30,30.89
+ENRIN,A,income,EBITDA,2024-09-30,8706000000.0
+ENRIN,A,income,EBITDA,2025-09-30,16187000000.0
+ENRIN,A,income,Interest Expense,2024-09-30,184000000.0
+ENRIN,A,income,Interest Expense,2025-09-30,282000000.0
+ENRIN,A,income,Net Income,2024-09-30,6000000000.0
+ENRIN,A,income,Net Income,2025-09-30,11001000000.0
+ENRIN,A,income,Net Income Common Stockholders,2024-09-30,6000000000.0
+ENRIN,A,income,Net Income Common Stockholders,2025-09-30,11001000000.0
+ENRIN,A,income,Operating Income,2024-09-30,12438000000.0
+ENRIN,A,income,Operating Income,2025-09-30,14229000000.0
+ENRIN,A,income,Pretax Income,2024-09-30,8062000000.0
+ENRIN,A,income,Pretax Income,2025-09-30,14875000000.0
+ENRIN,A,income,Total Revenue,2024-09-30,47596000000.0
+ENRIN,A,income,Total Revenue,2025-09-30,77825000000.0
+ENRIN,Q,income,Basic EPS,2025-03-31,6.910582
+ENRIN,Q,income,Basic EPS,2025-06-30,7.38
+ENRIN,Q,income,Basic EPS,2025-12-31,8.79
+ENRIN,Q,income,Basic EPS,2026-03-31,10.52
+ENRIN,Q,income,Basic EPS,2026-06-30,12.38
+ENRIN,Q,income,Diluted EPS,2025-03-31,6.910582
+ENRIN,Q,income,Diluted EPS,2025-06-30,7.38
+ENRIN,Q,income,Diluted EPS,2025-12-31,8.79
+ENRIN,Q,income,Diluted EPS,2026-03-31,10.52
+ENRIN,Q,income,Diluted EPS,2026-06-30,12.38
+ENRIN,Q,income,EBITDA,2025-06-30,3928000000.0
+ENRIN,Q,income,EBITDA,2025-09-30,5161000000.0
+ENRIN,Q,income,EBITDA,2025-12-31,4582000000.0
+ENRIN,Q,income,EBITDA,2026-03-31,5442000000.0
+ENRIN,Q,income,EBITDA,2026-06-30,6430000000.0
+ENRIN,Q,income,Interest Expense,2025-06-30,142000000.0
+ENRIN,Q,income,Interest Expense,2025-09-30,63000000.0
+ENRIN,Q,income,Interest Expense,2025-12-31,74000000.0
+ENRIN,Q,income,Interest Expense,2026-03-31,73000000.0
+ENRIN,Q,income,Interest Expense,2026-06-30,92000000.0
+ENRIN,Q,income,Net Income,2025-06-30,2627000000.0
+ENRIN,Q,income,Net Income,2025-09-30,3596000000.0
+ENRIN,Q,income,Net Income,2025-12-31,3129000000.0
+ENRIN,Q,income,Net Income,2026-03-31,3746000000.0
+ENRIN,Q,income,Net Income,2026-06-30,4409000000.0
+ENRIN,Q,income,Net Income Common Stockholders,2025-06-30,2627000000.0
+ENRIN,Q,income,Net Income Common Stockholders,2025-09-30,3596000000.0
+ENRIN,Q,income,Net Income Common Stockholders,2025-12-31,3129000000.0
+ENRIN,Q,income,Net Income Common Stockholders,2026-03-31,3746000000.0
+ENRIN,Q,income,Net Income Common Stockholders,2026-06-30,4409000000.0
+ENRIN,Q,income,Operating Income,2025-06-30,4763000000.0
+ENRIN,Q,income,Operating Income,2025-09-30,-1500000000.0
+ENRIN,Q,income,Operating Income,2025-12-31,5591000000.0
+ENRIN,Q,income,Operating Income,2026-03-31,6743000000.0
+ENRIN,Q,income,Operating Income,2026-06-30,8016000000.0
+ENRIN,Q,income,Pretax Income,2025-06-30,3520000000.0
+ENRIN,Q,income,Pretax Income,2025-09-30,4784000000.0
+ENRIN,Q,income,Pretax Income,2025-12-31,4185000000.0
+ENRIN,Q,income,Pretax Income,2026-03-31,5022000000.0
+ENRIN,Q,income,Pretax Income,2026-06-30,5934000000.0
+ENRIN,Q,income,Total Revenue,2025-06-30,17846000000.0
+ENRIN,Q,income,Total Revenue,2025-09-30,26015000000.0
+ENRIN,Q,income,Total Revenue,2025-12-31,19109000000.0
+ENRIN,Q,income,Total Revenue,2026-03-31,23941000000.0
+ENRIN,Q,income,Total Revenue,2026-06-30,24856000000.0

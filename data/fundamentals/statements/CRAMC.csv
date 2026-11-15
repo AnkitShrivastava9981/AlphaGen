@@ -1,0 +1,78 @@
+symbol,freq,statement,item,period_end,value
+CRAMC,A,balance,Cash And Cash Equivalents,2026-03-31,21774000.0
+CRAMC,A,balance,Ordinary Shares Number,2026-03-31,199417428.0
+CRAMC,A,balance,Stockholders Equity,2025-03-31,6000555000.0
+CRAMC,A,balance,Stockholders Equity,2026-03-31,7458236000.0
+CRAMC,A,balance,Total Assets,2025-03-31,6740288000.0
+CRAMC,A,balance,Total Assets,2026-03-31,8186054000.0
+CRAMC,A,balance,Total Debt,2025-03-31,156884000.0
+CRAMC,A,balance,Total Debt,2026-03-31,175886000.0
+CRAMC,A,cashflow,Capital Expenditure,2025-03-31,-48023000.0
+CRAMC,A,cashflow,Capital Expenditure,2026-03-31,-60759000.0
+CRAMC,A,cashflow,Free Cash Flow,2025-03-31,1545771000.0
+CRAMC,A,cashflow,Free Cash Flow,2026-03-31,1662053000.0
+CRAMC,A,cashflow,Operating Cash Flow,2025-03-31,1593794000.0
+CRAMC,A,cashflow,Operating Cash Flow,2026-03-31,1722812000.0
+CRAMC,A,income,Basic EPS,2025-03-31,9.563076
+CRAMC,A,income,Basic EPS,2026-03-31,10.22
+CRAMC,A,income,Diluted EPS,2025-03-31,9.563076
+CRAMC,A,income,Diluted EPS,2026-03-31,10.22
+CRAMC,A,income,EBITDA,2025-03-31,2643814000.0
+CRAMC,A,income,EBITDA,2026-03-31,2840042000.0
+CRAMC,A,income,Interest Expense,2025-03-31,17131000.0
+CRAMC,A,income,Interest Expense,2026-03-31,19565000.0
+CRAMC,A,income,Net Income,2025-03-31,1907044000.0
+CRAMC,A,income,Net Income,2026-03-31,2038047000.0
+CRAMC,A,income,Net Income Common Stockholders,2025-03-31,1907044000.0
+CRAMC,A,income,Net Income Common Stockholders,2026-03-31,2038047000.0
+CRAMC,A,income,Operating Income,2025-03-31,2199058000.0
+CRAMC,A,income,Operating Income,2026-03-31,2468719000.0
+CRAMC,A,income,Pretax Income,2025-03-31,2576429000.0
+CRAMC,A,income,Pretax Income,2026-03-31,2746269000.0
+CRAMC,A,income,Total Revenue,2025-03-31,3645451000.0
+CRAMC,A,income,Total Revenue,2026-03-31,4249450000.0
+CRAMC,Q,income,Basic EPS,2025-09-30,2.44278
+CRAMC,Q,income,Basic EPS,2025-12-31,2.65
+CRAMC,Q,income,Basic EPS,2026-03-31,2.07
+CRAMC,Q,income,Basic EPS,2026-06-30,3.79
+CRAMC,Q,income,Basic EPS,2026-09-30,2.97
+CRAMC,Q,income,Diluted EPS,2025-09-30,2.44278
+CRAMC,Q,income,Diluted EPS,2025-12-31,2.65
+CRAMC,Q,income,Diluted EPS,2026-03-31,2.07
+CRAMC,Q,income,Diluted EPS,2026-06-30,3.79
+CRAMC,Q,income,Diluted EPS,2026-09-30,2.97
+CRAMC,Q,income,EBITDA,2025-09-30,683397000.0
+CRAMC,Q,income,EBITDA,2025-12-31,729588000.0
+CRAMC,Q,income,EBITDA,2026-03-31,606671000.0
+CRAMC,Q,income,EBITDA,2026-06-30,1024421000.0
+CRAMC,Q,income,EBITDA,2026-09-30,826978000.0
+CRAMC,Q,income,Interest Expense,2025-09-30,5044000.0
+CRAMC,Q,income,Interest Expense,2025-12-31,5060000.0
+CRAMC,Q,income,Interest Expense,2026-03-31,4820000.0
+CRAMC,Q,income,Interest Expense,2026-06-30,6255000.0
+CRAMC,Q,income,Interest Expense,2026-09-30,6595000.0
+CRAMC,Q,income,Net Income,2025-09-30,487133000.0
+CRAMC,Q,income,Net Income,2025-12-31,527537000.0
+CRAMC,Q,income,Net Income,2026-03-31,413613000.0
+CRAMC,Q,income,Net Income,2026-06-30,756034000.0
+CRAMC,Q,income,Net Income,2026-09-30,591863000.0
+CRAMC,Q,income,Net Income Common Stockholders,2025-09-30,487133000.0
+CRAMC,Q,income,Net Income Common Stockholders,2025-12-31,527537000.0
+CRAMC,Q,income,Net Income Common Stockholders,2026-03-31,413613000.0
+CRAMC,Q,income,Net Income Common Stockholders,2026-06-30,756034000.0
+CRAMC,Q,income,Net Income Common Stockholders,2026-09-30,591863000.0
+CRAMC,Q,income,Operating Income,2025-09-30,624712000.0
+CRAMC,Q,income,Operating Income,2025-12-31,592993000.0
+CRAMC,Q,income,Operating Income,2026-03-31,690518000.0
+CRAMC,Q,income,Operating Income,2026-06-30,703352000.0
+CRAMC,Q,income,Operating Income,2026-09-30,740078000.0
+CRAMC,Q,income,Pretax Income,2025-09-30,660522000.0
+CRAMC,Q,income,Pretax Income,2025-12-31,704868000.0
+CRAMC,Q,income,Pretax Income,2026-03-31,582114000.0
+CRAMC,Q,income,Pretax Income,2026-06-30,993504000.0
+CRAMC,Q,income,Pretax Income,2026-09-30,799021000.0
+CRAMC,Q,income,Total Revenue,2025-09-30,1039234000.0
+CRAMC,Q,income,Total Revenue,2025-12-31,1097701000.0
+CRAMC,Q,income,Total Revenue,2026-03-31,1142039000.0
+CRAMC,Q,income,Total Revenue,2026-06-30,1162014000.0
+CRAMC,Q,income,Total Revenue,2026-09-30,1215889000.0

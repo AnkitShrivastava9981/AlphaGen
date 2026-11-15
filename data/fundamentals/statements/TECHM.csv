@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+TECHM,A,balance,Cash And Cash Equivalents,2023-03-31,40563000000.0
+TECHM,A,balance,Cash And Cash Equivalents,2024-03-31,43471000000.0
+TECHM,A,balance,Cash And Cash Equivalents,2025-03-31,43185000000.0
+TECHM,A,balance,Cash And Cash Equivalents,2026-03-31,50461000000.0
+TECHM,A,balance,Ordinary Shares Number,2023-03-31,879911846.0
+TECHM,A,balance,Ordinary Shares Number,2024-03-31,882522894.0
+TECHM,A,balance,Ordinary Shares Number,2025-03-31,884758083.0
+TECHM,A,balance,Ordinary Shares Number,2026-03-31,885605623.0
+TECHM,A,balance,Stockholders Equity,2023-03-31,279245000000.0
+TECHM,A,balance,Stockholders Equity,2024-03-31,266694000000.0
+TECHM,A,balance,Stockholders Equity,2025-03-31,273615000000.0
+TECHM,A,balance,Stockholders Equity,2026-03-31,296154000000.0
+TECHM,A,balance,Total Assets,2023-03-31,461533000000.0
+TECHM,A,balance,Total Assets,2024-03-31,434236000000.0
+TECHM,A,balance,Total Assets,2025-03-31,444945000000.0
+TECHM,A,balance,Total Assets,2026-03-31,493694000000.0
+TECHM,A,balance,Total Debt,2023-03-31,27402000000.0
+TECHM,A,balance,Total Debt,2024-03-31,25367000000.0
+TECHM,A,balance,Total Debt,2025-03-31,20252000000.0
+TECHM,A,balance,Total Debt,2026-03-31,21862000000.0
+TECHM,A,cashflow,Capital Expenditure,2023-03-31,-10152000000.0
+TECHM,A,cashflow,Capital Expenditure,2024-03-31,-7911000000.0
+TECHM,A,cashflow,Capital Expenditure,2025-03-31,-5935000000.0
+TECHM,A,cashflow,Capital Expenditure,2026-03-31,-6957000000.0
+TECHM,A,cashflow,Free Cash Flow,2023-03-31,45568000000.0
+TECHM,A,cashflow,Free Cash Flow,2024-03-31,55853000000.0
+TECHM,A,cashflow,Free Cash Flow,2025-03-31,51922000000.0
+TECHM,A,cashflow,Free Cash Flow,2026-03-31,54763000000.0
+TECHM,A,cashflow,Operating Cash Flow,2023-03-31,55720000000.0
+TECHM,A,cashflow,Operating Cash Flow,2024-03-31,63764000000.0
+TECHM,A,cashflow,Operating Cash Flow,2025-03-31,57857000000.0
+TECHM,A,cashflow,Operating Cash Flow,2026-03-31,61720000000.0
+TECHM,A,income,Basic EPS,2023-03-31,54.76
+TECHM,A,income,Basic EPS,2024-03-31,26.66
+TECHM,A,income,Basic EPS,2025-03-31,48.0
+TECHM,A,income,Basic EPS,2026-03-31,54.28
+TECHM,A,income,Diluted EPS,2023-03-31,54.54
+TECHM,A,income,Diluted EPS,2024-03-31,26.58
+TECHM,A,income,Diluted EPS,2025-03-31,47.91
+TECHM,A,income,Diluted EPS,2026-03-31,54.19
+TECHM,A,income,EBITDA,2023-03-31,87278000000.0
+TECHM,A,income,EBITDA,2024-03-31,54337000000.0
+TECHM,A,income,EBITDA,2025-03-31,78278000000.0
+TECHM,A,income,EBITDA,2026-03-31,87921000000.0
+TECHM,A,income,Interest Expense,2023-03-31,3256000000.0
+TECHM,A,income,Interest Expense,2024-03-31,3922000000.0
+TECHM,A,income,Interest Expense,2025-03-31,3217000000.0
+TECHM,A,income,Interest Expense,2026-03-31,3374000000.0
+TECHM,A,income,Net Income,2023-03-31,48313000000.0
+TECHM,A,income,Net Income,2024-03-31,23578000000.0
+TECHM,A,income,Net Income,2025-03-31,42515000000.0
+TECHM,A,income,Net Income,2026-03-31,48109000000.0
+TECHM,A,income,Net Income Common Stockholders,2023-03-31,48313000000.0
+TECHM,A,income,Net Income Common Stockholders,2024-03-31,23578000000.0
+TECHM,A,income,Net Income Common Stockholders,2025-03-31,42515000000.0
+TECHM,A,income,Net Income Common Stockholders,2026-03-31,48109000000.0
+TECHM,A,income,Operating Income,2023-03-31,62496000000.0
+TECHM,A,income,Operating Income,2024-03-31,34223000000.0
+TECHM,A,income,Operating Income,2025-03-31,51675000000.0
+TECHM,A,income,Operating Income,2026-03-31,73879000000.0
+TECHM,A,income,Pretax Income,2023-03-31,64455000000.0
+TECHM,A,income,Pretax Income,2024-03-31,32244000000.0
+TECHM,A,income,Pretax Income,2025-03-31,56532000000.0
+TECHM,A,income,Pretax Income,2026-03-31,65731000000.0
+TECHM,A,income,Total Revenue,2023-03-31,532902000000.0
+TECHM,A,income,Total Revenue,2024-03-31,519956000000.0
+TECHM,A,income,Total Revenue,2025-03-31,529883000000.0
+TECHM,A,income,Total Revenue,2026-03-31,568154000000.0
+TECHM,Q,income,Basic EPS,2025-06-30,12.87
+TECHM,Q,income,Basic EPS,2025-12-31,12.66
+TECHM,Q,income,Basic EPS,2026-03-31,15.27
+TECHM,Q,income,Basic EPS,2026-06-30,16.53
+TECHM,Q,income,Basic EPS,2026-09-30,17.88
+TECHM,Q,income,Diluted EPS,2025-06-30,12.86
+TECHM,Q,income,Diluted EPS,2025-12-31,12.64
+TECHM,Q,income,Diluted EPS,2026-03-31,15.24
+TECHM,Q,income,Diluted EPS,2026-06-30,16.5
+TECHM,Q,income,Diluted EPS,2026-09-30,17.84
+TECHM,Q,income,EBITDA,2025-06-30,21540000000.0
+TECHM,Q,income,EBITDA,2025-12-31,20724000000.0
+TECHM,Q,income,EBITDA,2026-03-31,23605000000.0
+TECHM,Q,income,EBITDA,2026-06-30,26318000000.0
+TECHM,Q,income,EBITDA,2026-09-30,28711000000.0
+TECHM,Q,income,Interest Expense,2025-06-30,778000000.0
+TECHM,Q,income,Interest Expense,2025-12-31,936000000.0
+TECHM,Q,income,Interest Expense,2026-03-31,888000000.0
+TECHM,Q,income,Interest Expense,2026-06-30,1113000000.0
+TECHM,Q,income,Interest Expense,2026-09-30,836000000.0
+TECHM,Q,income,Net Income,2025-06-30,11406000000.0
+TECHM,Q,income,Net Income,2025-12-31,11220000000.0
+TECHM,Q,income,Net Income,2026-03-31,13538000000.0
+TECHM,Q,income,Net Income,2026-06-30,14651000000.0
+TECHM,Q,income,Net Income,2026-09-30,15856000000.0
+TECHM,Q,income,Net Income Common Stockholders,2025-06-30,11406000000.0
+TECHM,Q,income,Net Income Common Stockholders,2025-12-31,11220000000.0
+TECHM,Q,income,Net Income Common Stockholders,2026-03-31,13538000000.0
+TECHM,Q,income,Net Income Common Stockholders,2026-06-30,14651000000.0
+TECHM,Q,income,Net Income Common Stockholders,2026-09-30,15856000000.0
+TECHM,Q,income,Operating Income,2025-06-30,14771000000.0
+TECHM,Q,income,Operating Income,2025-12-31,18919000000.0
+TECHM,Q,income,Operating Income,2026-03-31,20842000000.0
+TECHM,Q,income,Operating Income,2026-06-30,22639000000.0
+TECHM,Q,income,Operating Income,2026-09-30,23871000000.0
+TECHM,Q,income,Pretax Income,2025-06-30,16181000000.0
+TECHM,Q,income,Pretax Income,2025-12-31,15051000000.0
+TECHM,Q,income,Pretax Income,2026-03-31,17906000000.0
+TECHM,Q,income,Pretax Income,2026-06-30,20419000000.0
+TECHM,Q,income,Pretax Income,2026-09-30,22961000000.0
+TECHM,Q,income,Total Revenue,2025-06-30,133512000000.0
+TECHM,Q,income,Total Revenue,2025-12-31,143932000000.0
+TECHM,Q,income,Total Revenue,2026-03-31,150761000000.0
+TECHM,Q,income,Total Revenue,2026-06-30,157119000000.0
+TECHM,Q,income,Total Revenue,2026-09-30,161802000000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+GMRP&UI,A,balance,Cash And Cash Equivalents,2023-03-31,9655300000.0
+GMRP&UI,A,balance,Cash And Cash Equivalents,2024-03-31,4302200000.0
+GMRP&UI,A,balance,Cash And Cash Equivalents,2025-03-31,6886700000.0
+GMRP&UI,A,balance,Cash And Cash Equivalents,2026-03-31,5604700000.0
+GMRP&UI,A,balance,Net Debt,2023-03-31,72276100000.0
+GMRP&UI,A,balance,Net Debt,2024-03-31,134159700000.0
+GMRP&UI,A,balance,Net Debt,2025-03-31,95399300000.0
+GMRP&UI,A,balance,Net Debt,2026-03-31,109345700000.0
+GMRP&UI,A,balance,Ordinary Shares Number,2023-03-31,603594528.0
+GMRP&UI,A,balance,Ordinary Shares Number,2024-03-31,603594528.0
+GMRP&UI,A,balance,Ordinary Shares Number,2025-03-31,714836194.0
+GMRP&UI,A,balance,Ordinary Shares Number,2026-03-31,781017529.0
+GMRP&UI,A,balance,Stockholders Equity,2023-03-31,-26213600000.0
+GMRP&UI,A,balance,Stockholders Equity,2024-03-31,-29172200000.0
+GMRP&UI,A,balance,Stockholders Equity,2025-03-31,5869100000.0
+GMRP&UI,A,balance,Stockholders Equity,2026-03-31,19038300000.0
+GMRP&UI,A,balance,Total Assets,2023-03-31,118025300000.0
+GMRP&UI,A,balance,Total Assets,2024-03-31,194687000000.0
+GMRP&UI,A,balance,Total Assets,2025-03-31,169867300000.0
+GMRP&UI,A,balance,Total Assets,2026-03-31,170499200000.0
+GMRP&UI,A,balance,Total Debt,2023-03-31,82079000000.0
+GMRP&UI,A,balance,Total Debt,2024-03-31,138669200000.0
+GMRP&UI,A,balance,Total Debt,2025-03-31,102495800000.0
+GMRP&UI,A,balance,Total Debt,2026-03-31,115853800000.0
+GMRP&UI,A,cashflow,Capital Expenditure,2023-03-31,-244900000.0
+GMRP&UI,A,cashflow,Capital Expenditure,2024-03-31,-986300000.0
+GMRP&UI,A,cashflow,Capital Expenditure,2025-03-31,-2703200000.0
+GMRP&UI,A,cashflow,Capital Expenditure,2026-03-31,-2381200000.0
+GMRP&UI,A,cashflow,Free Cash Flow,2023-03-31,12058400000.0
+GMRP&UI,A,cashflow,Free Cash Flow,2024-03-31,15916500000.0
+GMRP&UI,A,cashflow,Free Cash Flow,2025-03-31,25624200000.0
+GMRP&UI,A,cashflow,Free Cash Flow,2026-03-31,10218600000.0
+GMRP&UI,A,cashflow,Operating Cash Flow,2023-03-31,12303300000.0
+GMRP&UI,A,cashflow,Operating Cash Flow,2024-03-31,16902800000.0
+GMRP&UI,A,cashflow,Operating Cash Flow,2025-03-31,28327400000.0
+GMRP&UI,A,cashflow,Operating Cash Flow,2026-03-31,12599800000.0
+GMRP&UI,A,income,Basic EPS,2023-03-31,19.6
+GMRP&UI,A,income,Basic EPS,2024-03-31,-1.71
+GMRP&UI,A,income,Basic EPS,2025-03-31,20.72
+GMRP&UI,A,income,Basic EPS,2026-03-31,8.26
+GMRP&UI,A,income,Diluted EPS,2023-03-31,19.6
+GMRP&UI,A,income,Diluted EPS,2024-03-31,-1.71
+GMRP&UI,A,income,Diluted EPS,2025-03-31,20.72
+GMRP&UI,A,income,Diluted EPS,2026-03-31,8.2
+GMRP&UI,A,income,EBITDA,2023-03-31,26322200000.0
+GMRP&UI,A,income,EBITDA,2024-03-31,16208600000.0
+GMRP&UI,A,income,EBITDA,2025-03-31,37929800000.0
+GMRP&UI,A,income,EBITDA,2026-03-31,29699100000.0
+GMRP&UI,A,income,Interest Expense,2023-03-31,12170700000.0
+GMRP&UI,A,income,Interest Expense,2024-03-31,13625600000.0
+GMRP&UI,A,income,Interest Expense,2025-03-31,13652000000.0
+GMRP&UI,A,income,Interest Expense,2026-03-31,15108600000.0
+GMRP&UI,A,income,Net Income,2023-03-31,11827900000.0
+GMRP&UI,A,income,Net Income,2024-03-31,-1030300000.0
+GMRP&UI,A,income,Net Income,2025-03-31,14175300000.0
+GMRP&UI,A,income,Net Income,2026-03-31,6003400000.0
+GMRP&UI,A,income,Net Income Common Stockholders,2023-03-31,11827900000.0
+GMRP&UI,A,income,Net Income Common Stockholders,2024-03-31,-1030300000.0
+GMRP&UI,A,income,Net Income Common Stockholders,2025-03-31,14175300000.0
+GMRP&UI,A,income,Net Income Common Stockholders,2026-03-31,6003400000.0
+GMRP&UI,A,income,Operating Income,2023-03-31,668400000.0
+GMRP&UI,A,income,Operating Income,2024-03-31,6322200000.0
+GMRP&UI,A,income,Operating Income,2025-03-31,10884000000.0
+GMRP&UI,A,income,Operating Income,2026-03-31,9023600000.0
+GMRP&UI,A,income,Pretax Income,2023-03-31,12637600000.0
+GMRP&UI,A,income,Pretax Income,2024-03-31,-485500000.0
+GMRP&UI,A,income,Pretax Income,2025-03-31,17762800000.0
+GMRP&UI,A,income,Pretax Income,2026-03-31,7811700000.0
+GMRP&UI,A,income,Total Revenue,2023-03-31,52191900000.0
+GMRP&UI,A,income,Total Revenue,2024-03-31,42532800000.0
+GMRP&UI,A,income,Total Revenue,2025-03-31,62849900000.0
+GMRP&UI,A,income,Total Revenue,2026-03-31,72125000000.0
+GMRP&UI,Q,income,Basic EPS,2025-09-30,12.43
+GMRP&UI,Q,income,Basic EPS,2025-12-31,-2.36
+GMRP&UI,Q,income,Basic EPS,2026-03-31,-1.47
+GMRP&UI,Q,income,Basic EPS,2026-06-30,-0.53
+GMRP&UI,Q,income,Basic EPS,2026-09-30,1.97
+GMRP&UI,Q,income,Diluted EPS,2025-09-30,12.43
+GMRP&UI,Q,income,Diluted EPS,2025-12-31,-2.36
+GMRP&UI,Q,income,Diluted EPS,2026-03-31,-1.47
+GMRP&UI,Q,income,Diluted EPS,2026-06-30,-0.53
+GMRP&UI,Q,income,Diluted EPS,2026-09-30,1.97
+GMRP&UI,Q,income,EBITDA,2025-09-30,14756500000.0
+GMRP&UI,Q,income,EBITDA,2025-12-31,4730000000.0
+GMRP&UI,Q,income,EBITDA,2026-03-31,5708100000.0
+GMRP&UI,Q,income,EBITDA,2026-06-30,4897100000.0
+GMRP&UI,Q,income,EBITDA,2026-09-30,6376000000.0
+GMRP&UI,Q,income,Interest Expense,2025-09-30,4460300000.0
+GMRP&UI,Q,income,Interest Expense,2025-12-31,3792400000.0
+GMRP&UI,Q,income,Interest Expense,2026-03-31,3924700000.0
+GMRP&UI,Q,income,Interest Expense,2026-06-30,3181000000.0
+GMRP&UI,Q,income,Interest Expense,2026-09-30,3012500000.0
+GMRP&UI,Q,income,Net Income,2025-09-30,8883900000.0
+GMRP&UI,Q,income,Net Income,2025-12-31,-1685300000.0
+GMRP&UI,Q,income,Net Income,2026-03-31,-1117200000.0
+GMRP&UI,Q,income,Net Income,2026-06-30,-414800000.0
+GMRP&UI,Q,income,Net Income,2026-09-30,1541000000.0
+GMRP&UI,Q,income,Net Income Common Stockholders,2025-09-30,8883900000.0
+GMRP&UI,Q,income,Net Income Common Stockholders,2025-12-31,-1685300000.0
+GMRP&UI,Q,income,Net Income Common Stockholders,2026-03-31,-1117200000.0
+GMRP&UI,Q,income,Net Income Common Stockholders,2026-06-30,-414800000.0
+GMRP&UI,Q,income,Net Income Common Stockholders,2026-09-30,1541000000.0
+GMRP&UI,Q,income,Operating Income,2025-09-30,1991800000.0
+GMRP&UI,Q,income,Operating Income,2025-12-31,2032500000.0
+GMRP&UI,Q,income,Operating Income,2026-03-31,2826300000.0
+GMRP&UI,Q,income,Operating Income,2026-06-30,2925900000.0
+GMRP&UI,Q,income,Operating Income,2026-09-30,1922500000.0
+GMRP&UI,Q,income,Pretax Income,2025-09-30,8653700000.0
+GMRP&UI,Q,income,Pretax Income,2025-12-31,-718100000.0
+GMRP&UI,Q,income,Pretax Income,2026-03-31,23000000.0
+GMRP&UI,Q,income,Pretax Income,2026-06-30,88700000.0
+GMRP&UI,Q,income,Pretax Income,2026-09-30,1760400000.0
+GMRP&UI,Q,income,Total Revenue,2025-09-30,18103600000.0
+GMRP&UI,Q,income,Total Revenue,2025-12-31,18689600000.0
+GMRP&UI,Q,income,Total Revenue,2026-03-31,20040900000.0
+GMRP&UI,Q,income,Total Revenue,2026-06-30,17051800000.0
+GMRP&UI,Q,income,Total Revenue,2026-09-30,15274800000.0

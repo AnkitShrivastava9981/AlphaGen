@@ -1,0 +1,99 @@
+symbol,freq,statement,item,period_end,value
+CSBBANK,A,balance,Cash And Cash Equivalents,2023-03-31,20239078000.0
+CSBBANK,A,balance,Cash And Cash Equivalents,2024-03-31,32918984000.0
+CSBBANK,A,balance,Cash And Cash Equivalents,2025-03-31,36760299000.0
+CSBBANK,A,balance,Cash And Cash Equivalents,2026-03-31,41518709000.0
+CSBBANK,A,balance,Net Debt,2022-03-31,2107253000.0
+CSBBANK,A,balance,Net Debt,2025-03-31,15702540000.0
+CSBBANK,A,balance,Net Debt,2026-03-31,30025737000.0
+CSBBANK,A,balance,Ordinary Shares Number,2023-03-31,168485827.0
+CSBBANK,A,balance,Ordinary Shares Number,2024-03-31,168938733.0
+CSBBANK,A,balance,Ordinary Shares Number,2025-03-31,169317894.0
+CSBBANK,A,balance,Ordinary Shares Number,2026-03-31,169477587.0
+CSBBANK,A,balance,Stockholders Equity,2023-03-31,32036264000.0
+CSBBANK,A,balance,Stockholders Equity,2024-03-31,38036468000.0
+CSBBANK,A,balance,Stockholders Equity,2025-03-31,44977315000.0
+CSBBANK,A,balance,Stockholders Equity,2026-03-31,48942866000.0
+CSBBANK,A,balance,Total Assets,2023-03-31,291622815000.0
+CSBBANK,A,balance,Total Assets,2024-03-31,360559902000.0
+CSBBANK,A,balance,Total Assets,2025-03-31,478362719000.0
+CSBBANK,A,balance,Total Assets,2026-03-31,577265182000.0
+CSBBANK,A,balance,Total Debt,2023-03-31,7829700000.0
+CSBBANK,A,balance,Total Debt,2024-03-31,17573800000.0
+CSBBANK,A,balance,Total Debt,2025-03-31,52462839000.0
+CSBBANK,A,balance,Total Debt,2026-03-31,71544446000.0
+CSBBANK,A,cashflow,Capital Expenditure,2023-03-31,-752063000.0
+CSBBANK,A,cashflow,Capital Expenditure,2024-03-31,-1184238000.0
+CSBBANK,A,cashflow,Capital Expenditure,2025-03-31,-3002368000.0
+CSBBANK,A,cashflow,Capital Expenditure,2026-03-31,-1913717000.0
+CSBBANK,A,cashflow,Free Cash Flow,2023-03-31,21362751000.0
+CSBBANK,A,cashflow,Free Cash Flow,2024-03-31,16645534000.0
+CSBBANK,A,cashflow,Free Cash Flow,2025-03-31,-55557571000.0
+CSBBANK,A,cashflow,Free Cash Flow,2026-03-31,-5050188000.0
+CSBBANK,A,cashflow,Operating Cash Flow,2023-03-31,22114814000.0
+CSBBANK,A,cashflow,Operating Cash Flow,2024-03-31,17829772000.0
+CSBBANK,A,cashflow,Operating Cash Flow,2025-03-31,-52555203000.0
+CSBBANK,A,cashflow,Operating Cash Flow,2026-03-31,-3136471000.0
+CSBBANK,A,income,Basic EPS,2023-03-31,31.55
+CSBBANK,A,income,Basic EPS,2024-03-31,32.67
+CSBBANK,A,income,Basic EPS,2025-03-31,34.23
+CSBBANK,A,income,Basic EPS,2026-03-31,36.5
+CSBBANK,A,income,Diluted EPS,2023-03-31,31.55
+CSBBANK,A,income,Diluted EPS,2024-03-31,32.67
+CSBBANK,A,income,Diluted EPS,2025-03-31,34.23
+CSBBANK,A,income,Diluted EPS,2026-03-31,36.5
+CSBBANK,A,income,Interest Expense,2023-03-31,9858065000.0
+CSBBANK,A,income,Interest Expense,2024-03-31,14511279000.0
+CSBBANK,A,income,Interest Expense,2025-03-31,21209693000.0
+CSBBANK,A,income,Interest Expense,2026-03-31,27848664000.0
+CSBBANK,A,income,Net Income,2023-03-31,5473614000.0
+CSBBANK,A,income,Net Income,2024-03-31,5668218000.0
+CSBBANK,A,income,Net Income,2025-03-31,5937977000.0
+CSBBANK,A,income,Net Income,2026-03-31,6331797000.0
+CSBBANK,A,income,Net Income Common Stockholders,2023-03-31,5473614000.0
+CSBBANK,A,income,Net Income Common Stockholders,2024-03-31,5668218000.0
+CSBBANK,A,income,Net Income Common Stockholders,2025-03-31,5937977000.0
+CSBBANK,A,income,Net Income Common Stockholders,2026-03-31,6331797000.0
+CSBBANK,A,income,Pretax Income,2023-03-31,7336097000.0
+CSBBANK,A,income,Pretax Income,2024-03-31,7614419000.0
+CSBBANK,A,income,Pretax Income,2025-03-31,7995254000.0
+CSBBANK,A,income,Pretax Income,2026-03-31,8511636000.0
+CSBBANK,A,income,Total Revenue,2023-03-31,16496058000.0
+CSBBANK,A,income,Total Revenue,2024-03-31,20608304000.0
+CSBBANK,A,income,Total Revenue,2025-03-31,24484881000.0
+CSBBANK,A,income,Total Revenue,2026-03-31,28961965000.0
+CSBBANK,Q,income,Basic EPS,2025-09-30,9.24
+CSBBANK,Q,income,Basic EPS,2025-12-31,8.8
+CSBBANK,Q,income,Basic EPS,2026-03-31,11.62
+CSBBANK,Q,income,Basic EPS,2026-06-30,8.65
+CSBBANK,Q,income,Basic EPS,2026-09-30,10.53
+CSBBANK,Q,income,Diluted EPS,2025-09-30,9.24
+CSBBANK,Q,income,Diluted EPS,2025-12-31,8.8
+CSBBANK,Q,income,Diluted EPS,2026-03-31,11.62
+CSBBANK,Q,income,Diluted EPS,2026-06-30,8.65
+CSBBANK,Q,income,Diluted EPS,2026-09-30,10.53
+CSBBANK,Q,income,Interest Expense,2025-09-30,6856000000.0
+CSBBANK,Q,income,Interest Expense,2025-12-31,7010400000.0
+CSBBANK,Q,income,Interest Expense,2026-03-31,7367000000.0
+CSBBANK,Q,income,Interest Expense,2026-06-30,8086600000.0
+CSBBANK,Q,income,Interest Expense,2026-09-30,8290400000.0
+CSBBANK,Q,income,Net Income,2025-09-30,1603300000.0
+CSBBANK,Q,income,Net Income,2025-12-31,1526700000.0
+CSBBANK,Q,income,Net Income,2026-03-31,2015800000.0
+CSBBANK,Q,income,Net Income,2026-06-30,1500400000.0
+CSBBANK,Q,income,Net Income,2026-09-30,1827200000.0
+CSBBANK,Q,income,Net Income Common Stockholders,2025-09-30,1603300000.0
+CSBBANK,Q,income,Net Income Common Stockholders,2025-12-31,1526700000.0
+CSBBANK,Q,income,Net Income Common Stockholders,2026-03-31,2015800000.0
+CSBBANK,Q,income,Net Income Common Stockholders,2026-06-30,1500400000.0
+CSBBANK,Q,income,Net Income Common Stockholders,2026-09-30,1827200000.0
+CSBBANK,Q,income,Pretax Income,2025-09-30,2156500000.0
+CSBBANK,Q,income,Pretax Income,2025-12-31,2053400000.0
+CSBBANK,Q,income,Pretax Income,2026-03-31,2706500000.0
+CSBBANK,Q,income,Pretax Income,2026-06-30,2017400000.0
+CSBBANK,Q,income,Pretax Income,2026-09-30,2456700000.0
+CSBBANK,Q,income,Total Revenue,2025-09-30,7727600000.0
+CSBBANK,Q,income,Total Revenue,2025-12-31,7296700000.0
+CSBBANK,Q,income,Total Revenue,2026-03-31,7703700000.0
+CSBBANK,Q,income,Total Revenue,2026-06-30,7074100000.0
+CSBBANK,Q,income,Total Revenue,2026-09-30,7834400000.0

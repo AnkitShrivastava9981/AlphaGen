@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+CRISIL,A,balance,Cash And Cash Equivalents,2022-12-31,3192500000.0
+CRISIL,A,balance,Cash And Cash Equivalents,2023-12-31,3658300000.0
+CRISIL,A,balance,Cash And Cash Equivalents,2024-12-31,3018400000.0
+CRISIL,A,balance,Cash And Cash Equivalents,2025-12-31,3201300000.0
+CRISIL,A,balance,Ordinary Shares Number,2022-12-31,73064044.0
+CRISIL,A,balance,Ordinary Shares Number,2023-12-31,73113605.0
+CRISIL,A,balance,Ordinary Shares Number,2024-12-31,73129790.0
+CRISIL,A,balance,Ordinary Shares Number,2025-12-31,73130017.0
+CRISIL,A,balance,Stockholders Equity,2022-12-31,17919800000.0
+CRISIL,A,balance,Stockholders Equity,2023-12-31,21892600000.0
+CRISIL,A,balance,Stockholders Equity,2024-12-31,25648200000.0
+CRISIL,A,balance,Stockholders Equity,2025-12-31,30334400000.0
+CRISIL,A,balance,Total Assets,2022-12-31,28310000000.0
+CRISIL,A,balance,Total Assets,2023-12-31,32973900000.0
+CRISIL,A,balance,Total Assets,2024-12-31,39459700000.0
+CRISIL,A,balance,Total Assets,2025-12-31,46319400000.0
+CRISIL,A,balance,Total Debt,2022-12-31,834600000.0
+CRISIL,A,balance,Total Debt,2023-12-31,473200000.0
+CRISIL,A,balance,Total Debt,2024-12-31,2500000000.0
+CRISIL,A,balance,Total Debt,2025-12-31,2968100000.0
+CRISIL,A,cashflow,Capital Expenditure,2022-12-31,-411400000.0
+CRISIL,A,cashflow,Capital Expenditure,2023-12-31,-629400000.0
+CRISIL,A,cashflow,Capital Expenditure,2024-12-31,-1731600000.0
+CRISIL,A,cashflow,Capital Expenditure,2025-12-31,-734000000.0
+CRISIL,A,cashflow,Free Cash Flow,2022-12-31,4152000000.0
+CRISIL,A,cashflow,Free Cash Flow,2023-12-31,7173900000.0
+CRISIL,A,cashflow,Free Cash Flow,2024-12-31,5919000000.0
+CRISIL,A,cashflow,Free Cash Flow,2025-12-31,6821800000.0
+CRISIL,A,cashflow,Operating Cash Flow,2022-12-31,4563400000.0
+CRISIL,A,cashflow,Operating Cash Flow,2023-12-31,7803300000.0
+CRISIL,A,cashflow,Operating Cash Flow,2024-12-31,7650600000.0
+CRISIL,A,cashflow,Operating Cash Flow,2025-12-31,7555800000.0
+CRISIL,A,income,Basic EPS,2022-12-31,77.31
+CRISIL,A,income,Basic EPS,2023-12-31,90.08
+CRISIL,A,income,Basic EPS,2024-12-31,93.55
+CRISIL,A,income,Basic EPS,2025-12-31,104.75
+CRISIL,A,income,Diluted EPS,2022-12-31,77.26
+CRISIL,A,income,Diluted EPS,2023-12-31,90.07
+CRISIL,A,income,Diluted EPS,2024-12-31,93.55
+CRISIL,A,income,Diluted EPS,2025-12-31,104.75
+CRISIL,A,income,EBITDA,2022-12-31,8521100000.0
+CRISIL,A,income,EBITDA,2023-12-31,9751400000.0
+CRISIL,A,income,EBITDA,2024-12-31,10004500000.0
+CRISIL,A,income,EBITDA,2025-12-31,11917700000.0
+CRISIL,A,income,Interest Expense,2022-12-31,64000000.0
+CRISIL,A,income,Interest Expense,2023-12-31,36600000.0
+CRISIL,A,income,Interest Expense,2024-12-31,40300000.0
+CRISIL,A,income,Interest Expense,2025-12-31,222200000.0
+CRISIL,A,income,Net Income,2022-12-31,5643900000.0
+CRISIL,A,income,Net Income,2023-12-31,6584400000.0
+CRISIL,A,income,Net Income,2024-12-31,6840700000.0
+CRISIL,A,income,Net Income,2025-12-31,7660100000.0
+CRISIL,A,income,Net Income Common Stockholders,2022-12-31,5643900000.0
+CRISIL,A,income,Net Income Common Stockholders,2023-12-31,6584400000.0
+CRISIL,A,income,Net Income Common Stockholders,2024-12-31,6840700000.0
+CRISIL,A,income,Net Income Common Stockholders,2025-12-31,7660100000.0
+CRISIL,A,income,Operating Income,2022-12-31,6275700000.0
+CRISIL,A,income,Operating Income,2023-12-31,7793700000.0
+CRISIL,A,income,Operating Income,2024-12-31,8413600000.0
+CRISIL,A,income,Operating Income,2025-12-31,9571800000.0
+CRISIL,A,income,Pretax Income,2022-12-31,7424000000.0
+CRISIL,A,income,Pretax Income,2023-12-31,8677000000.0
+CRISIL,A,income,Pretax Income,2024-12-31,9264700000.0
+CRISIL,A,income,Pretax Income,2025-12-31,10410300000.0
+CRISIL,A,income,Total Revenue,2022-12-31,27687200000.0
+CRISIL,A,income,Total Revenue,2023-12-31,31395200000.0
+CRISIL,A,income,Total Revenue,2024-12-31,32597800000.0
+CRISIL,A,income,Total Revenue,2025-12-31,36490100000.0
+CRISIL,Q,income,Basic EPS,2025-06-30,23.46
+CRISIL,Q,income,Basic EPS,2025-12-31,33.02
+CRISIL,Q,income,Basic EPS,2026-03-31,31.9
+CRISIL,Q,income,Basic EPS,2026-06-30,29.6
+CRISIL,Q,income,Basic EPS,2026-09-30,27.97
+CRISIL,Q,income,Diluted EPS,2025-06-30,23.46
+CRISIL,Q,income,Diluted EPS,2025-12-31,33.02
+CRISIL,Q,income,Diluted EPS,2026-03-31,31.9
+CRISIL,Q,income,Diluted EPS,2026-06-30,29.6
+CRISIL,Q,income,Diluted EPS,2026-09-30,27.97
+CRISIL,Q,income,EBITDA,2025-06-30,2623000000.0
+CRISIL,Q,income,EBITDA,2025-12-31,3666700000.0
+CRISIL,Q,income,EBITDA,2026-03-31,4030800000.0
+CRISIL,Q,income,EBITDA,2026-06-30,3290100000.0
+CRISIL,Q,income,EBITDA,2026-09-30,3272600000.0
+CRISIL,Q,income,Interest Expense,2025-06-30,56400000.0
+CRISIL,Q,income,Interest Expense,2025-12-31,50500000.0
+CRISIL,Q,income,Interest Expense,2026-03-31,67800000.0
+CRISIL,Q,income,Interest Expense,2026-06-30,67000000.0
+CRISIL,Q,income,Interest Expense,2026-09-30,70200000.0
+CRISIL,Q,income,Net Income,2025-06-30,1715700000.0
+CRISIL,Q,income,Net Income,2025-12-31,2415000000.0
+CRISIL,Q,income,Net Income,2026-03-31,2332600000.0
+CRISIL,Q,income,Net Income,2026-06-30,2164600000.0
+CRISIL,Q,income,Net Income,2026-09-30,2045400000.0
+CRISIL,Q,income,Net Income Common Stockholders,2025-06-30,1715700000.0
+CRISIL,Q,income,Net Income Common Stockholders,2025-12-31,2415000000.0
+CRISIL,Q,income,Net Income Common Stockholders,2026-03-31,2332600000.0
+CRISIL,Q,income,Net Income Common Stockholders,2026-06-30,2164600000.0
+CRISIL,Q,income,Net Income Common Stockholders,2026-09-30,2045400000.0
+CRISIL,Q,income,Operating Income,2025-06-30,2070800000.0
+CRISIL,Q,income,Operating Income,2025-12-31,3044700000.0
+CRISIL,Q,income,Operating Income,2026-03-31,2791500000.0
+CRISIL,Q,income,Operating Income,2026-06-30,2654000000.0
+CRISIL,Q,income,Operating Income,2026-09-30,2573200000.0
+CRISIL,Q,income,Pretax Income,2025-06-30,2249700000.0
+CRISIL,Q,income,Pretax Income,2025-12-31,3265200000.0
+CRISIL,Q,income,Pretax Income,2026-03-31,3083800000.0
+CRISIL,Q,income,Pretax Income,2026-06-30,2798400000.0
+CRISIL,Q,income,Pretax Income,2026-09-30,2760600000.0
+CRISIL,Q,income,Total Revenue,2025-06-30,8430200000.0
+CRISIL,Q,income,Total Revenue,2025-12-31,10815700000.0
+CRISIL,Q,income,Total Revenue,2026-03-31,10576600000.0
+CRISIL,Q,income,Total Revenue,2026-06-30,10753900000.0
+CRISIL,Q,income,Total Revenue,2026-09-30,10951600000.0

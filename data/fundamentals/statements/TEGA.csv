@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+TEGA,A,balance,Cash And Cash Equivalents,2023-03-31,457210000.0
+TEGA,A,balance,Cash And Cash Equivalents,2024-03-31,863170000.0
+TEGA,A,balance,Cash And Cash Equivalents,2025-03-31,1142950000.0
+TEGA,A,balance,Cash And Cash Equivalents,2026-03-31,11638860000.0
+TEGA,A,balance,Net Debt,2022-03-31,1754460000.0
+TEGA,A,balance,Net Debt,2023-03-31,2637340000.0
+TEGA,A,balance,Net Debt,2024-03-31,1568270000.0
+TEGA,A,balance,Net Debt,2025-03-31,1476340000.0
+TEGA,A,balance,Ordinary Shares Number,2023-03-31,66354112.0
+TEGA,A,balance,Ordinary Shares Number,2024-03-31,66535492.0
+TEGA,A,balance,Ordinary Shares Number,2025-03-31,66535492.0
+TEGA,A,balance,Ordinary Shares Number,2026-03-31,75127698.0
+TEGA,A,balance,Stockholders Equity,2023-03-31,10489920000.0
+TEGA,A,balance,Stockholders Equity,2024-03-31,11918190000.0
+TEGA,A,balance,Stockholders Equity,2025-03-31,13966920000.0
+TEGA,A,balance,Stockholders Equity,2026-03-31,34071760000.0
+TEGA,A,balance,Total Assets,2023-03-31,16341030000.0
+TEGA,A,balance,Total Assets,2024-03-31,18901390000.0
+TEGA,A,balance,Total Assets,2025-03-31,20952020000.0
+TEGA,A,balance,Total Assets,2026-03-31,43145000000.0
+TEGA,A,balance,Total Debt,2023-03-31,3608720000.0
+TEGA,A,balance,Total Debt,2024-03-31,3080150000.0
+TEGA,A,balance,Total Debt,2025-03-31,3296490000.0
+TEGA,A,balance,Total Debt,2026-03-31,3984010000.0
+TEGA,A,cashflow,Capital Expenditure,2023-03-31,-922110000.0
+TEGA,A,cashflow,Capital Expenditure,2024-03-31,-554120000.0
+TEGA,A,cashflow,Capital Expenditure,2025-03-31,-1701800000.0
+TEGA,A,cashflow,Capital Expenditure,2026-03-31,-1359360000.0
+TEGA,A,cashflow,Free Cash Flow,2023-03-31,863400000.0
+TEGA,A,cashflow,Free Cash Flow,2024-03-31,1967300000.0
+TEGA,A,cashflow,Free Cash Flow,2025-03-31,248500000.0
+TEGA,A,cashflow,Free Cash Flow,2026-03-31,2144030000.0
+TEGA,A,cashflow,Operating Cash Flow,2023-03-31,1785510000.0
+TEGA,A,cashflow,Operating Cash Flow,2024-03-31,2521420000.0
+TEGA,A,cashflow,Operating Cash Flow,2025-03-31,1950300000.0
+TEGA,A,cashflow,Operating Cash Flow,2026-03-31,3503390000.0
+TEGA,A,income,Basic EPS,2023-03-31,27.76
+TEGA,A,income,Basic EPS,2024-03-31,29.17
+TEGA,A,income,Basic EPS,2025-03-31,30.08
+TEGA,A,income,Basic EPS,2026-03-31,20.54
+TEGA,A,income,Diluted EPS,2023-03-31,27.62
+TEGA,A,income,Diluted EPS,2024-03-31,29.17
+TEGA,A,income,Diluted EPS,2025-03-31,30.08
+TEGA,A,income,Diluted EPS,2026-03-31,20.54
+TEGA,A,income,EBITDA,2023-03-31,2938440000.0
+TEGA,A,income,EBITDA,2024-03-31,3397230000.0
+TEGA,A,income,EBITDA,2025-03-31,3854090000.0
+TEGA,A,income,EBITDA,2026-03-31,3175350000.0
+TEGA,A,income,Interest Expense,2023-03-31,165480000.0
+TEGA,A,income,Interest Expense,2024-03-31,290680000.0
+TEGA,A,income,Interest Expense,2025-03-31,248790000.0
+TEGA,A,income,Interest Expense,2026-03-31,213080000.0
+TEGA,A,income,Net Income,2023-03-31,1840300000.0
+TEGA,A,income,Net Income,2024-03-31,1938570000.0
+TEGA,A,income,Net Income,2025-03-31,2001200000.0
+TEGA,A,income,Net Income,2026-03-31,1426530000.0
+TEGA,A,income,Net Income Common Stockholders,2023-03-31,1840300000.0
+TEGA,A,income,Net Income Common Stockholders,2024-03-31,1938570000.0
+TEGA,A,income,Net Income Common Stockholders,2025-03-31,2001200000.0
+TEGA,A,income,Net Income Common Stockholders,2026-03-31,1426530000.0
+TEGA,A,income,Operating Income,2023-03-31,2296210000.0
+TEGA,A,income,Operating Income,2024-03-31,2531390000.0
+TEGA,A,income,Operating Income,2025-03-31,2394610000.0
+TEGA,A,income,Operating Income,2026-03-31,1375650000.0
+TEGA,A,income,Pretax Income,2023-03-31,2360990000.0
+TEGA,A,income,Pretax Income,2024-03-31,2469730000.0
+TEGA,A,income,Pretax Income,2025-03-31,2591980000.0
+TEGA,A,income,Pretax Income,2026-03-31,2011120000.0
+TEGA,A,income,Total Revenue,2023-03-31,11942840000.0
+TEGA,A,income,Total Revenue,2024-03-31,14638950000.0
+TEGA,A,income,Total Revenue,2025-03-31,16118530000.0
+TEGA,A,income,Total Revenue,2026-03-31,16698440000.0
+TEGA,Q,income,Basic EPS,2025-09-30,6.75
+TEGA,Q,income,Basic EPS,2025-12-31,2.83
+TEGA,Q,income,Basic EPS,2026-03-31,5.68
+TEGA,Q,income,Basic EPS,2026-06-30,-11.47
+TEGA,Q,income,Basic EPS,2026-09-30,-6.32
+TEGA,Q,income,Diluted EPS,2025-09-30,6.75
+TEGA,Q,income,Diluted EPS,2025-12-31,2.83
+TEGA,Q,income,Diluted EPS,2026-03-31,5.68
+TEGA,Q,income,Diluted EPS,2026-06-30,-11.47
+TEGA,Q,income,Diluted EPS,2026-09-30,-6.32
+TEGA,Q,income,EBITDA,2025-09-30,873500000.0
+TEGA,Q,income,EBITDA,2025-12-31,613740000.0
+TEGA,Q,income,EBITDA,2026-03-31,976310000.0
+TEGA,Q,income,EBITDA,2026-06-30,738550000.0
+TEGA,Q,income,EBITDA,2026-09-30,5333760000.0
+TEGA,Q,income,Interest Expense,2025-09-30,57780000.0
+TEGA,Q,income,Interest Expense,2025-12-31,55520000.0
+TEGA,Q,income,Interest Expense,2026-03-31,50930000.0
+TEGA,Q,income,Interest Expense,2026-06-30,1167080000.0
+TEGA,Q,income,Interest Expense,2026-09-30,2918990000.0
+TEGA,Q,income,Net Income,2025-09-30,449390000.0
+TEGA,Q,income,Net Income,2025-12-31,197080000.0
+TEGA,Q,income,Net Income,2026-03-31,426710000.0
+TEGA,Q,income,Net Income,2026-06-30,-861890000.0
+TEGA,Q,income,Net Income,2026-09-30,-474690000.0
+TEGA,Q,income,Net Income Common Stockholders,2025-09-30,449390000.0
+TEGA,Q,income,Net Income Common Stockholders,2025-12-31,197080000.0
+TEGA,Q,income,Net Income Common Stockholders,2026-03-31,426710000.0
+TEGA,Q,income,Net Income Common Stockholders,2026-06-30,-861890000.0
+TEGA,Q,income,Net Income Common Stockholders,2026-09-30,-474690000.0
+TEGA,Q,income,Operating Income,2025-09-30,463640000.0
+TEGA,Q,income,Operating Income,2025-12-31,222180000.0
+TEGA,Q,income,Operating Income,2026-03-31,349310000.0
+TEGA,Q,income,Operating Income,2026-06-30,-180510000.0
+TEGA,Q,income,Operating Income,2026-09-30,3205540000.0
+TEGA,Q,income,Pretax Income,2025-09-30,587320000.0
+TEGA,Q,income,Pretax Income,2025-12-31,318560000.0
+TEGA,Q,income,Pretax Income,2026-03-31,673150000.0
+TEGA,Q,income,Pretax Income,2026-06-30,-1164770000.0
+TEGA,Q,income,Pretax Income,2026-09-30,729020000.0
+TEGA,Q,income,Total Revenue,2025-09-30,4053540000.0
+TEGA,Q,income,Total Revenue,2025-12-31,4037060000.0
+TEGA,Q,income,Total Revenue,2026-03-31,5267840000.0
+TEGA,Q,income,Total Revenue,2026-06-30,17234420000.0
+TEGA,Q,income,Total Revenue,2026-09-30,42540350000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+PTCIL,A,balance,Cash And Cash Equivalents,2023-03-31,68947000.0
+PTCIL,A,balance,Cash And Cash Equivalents,2024-03-31,1343010000.0
+PTCIL,A,balance,Cash And Cash Equivalents,2025-03-31,1895481000.0
+PTCIL,A,balance,Cash And Cash Equivalents,2026-03-31,346775000.0
+PTCIL,A,balance,Net Debt,2022-03-31,1948846000.0
+PTCIL,A,balance,Net Debt,2023-03-31,1697531000.0
+PTCIL,A,balance,Net Debt,2024-03-31,475903000.0
+PTCIL,A,balance,Net Debt,2026-03-31,723644000.0
+PTCIL,A,balance,Ordinary Shares Number,2023-03-31,13382257.0
+PTCIL,A,balance,Ordinary Shares Number,2024-03-31,14440873.0
+PTCIL,A,balance,Ordinary Shares Number,2025-03-31,14984126.0
+PTCIL,A,balance,Ordinary Shares Number,2026-03-31,14992549.0
+PTCIL,A,balance,Stockholders Equity,2023-03-31,3066641000.0
+PTCIL,A,balance,Stockholders Equity,2024-03-31,6455996000.0
+PTCIL,A,balance,Stockholders Equity,2025-03-31,13866602000.0
+PTCIL,A,balance,Stockholders Equity,2026-03-31,15071099000.0
+PTCIL,A,balance,Total Assets,2023-03-31,5529125000.0
+PTCIL,A,balance,Total Assets,2024-03-31,8956857000.0
+PTCIL,A,balance,Total Assets,2025-03-31,15838368000.0
+PTCIL,A,balance,Total Assets,2026-03-31,19562467000.0
+PTCIL,A,balance,Total Debt,2023-03-31,1766478000.0
+PTCIL,A,balance,Total Debt,2024-03-31,1818913000.0
+PTCIL,A,balance,Total Debt,2025-03-31,608335000.0
+PTCIL,A,balance,Total Debt,2026-03-31,2613420000.0
+PTCIL,A,cashflow,Capital Expenditure,2023-03-31,-962230000.0
+PTCIL,A,cashflow,Capital Expenditure,2024-03-31,-1165252000.0
+PTCIL,A,cashflow,Capital Expenditure,2025-03-31,-1899845000.0
+PTCIL,A,cashflow,Capital Expenditure,2026-03-31,-3173237000.0
+PTCIL,A,cashflow,Free Cash Flow,2023-03-31,-494229000.0
+PTCIL,A,cashflow,Free Cash Flow,2024-03-31,-2128046000.0
+PTCIL,A,cashflow,Free Cash Flow,2025-03-31,-1763986000.0
+PTCIL,A,cashflow,Free Cash Flow,2026-03-31,-3859835000.0
+PTCIL,A,cashflow,Operating Cash Flow,2023-03-31,468001000.0
+PTCIL,A,cashflow,Operating Cash Flow,2024-03-31,-962794000.0
+PTCIL,A,cashflow,Operating Cash Flow,2025-03-31,135859000.0
+PTCIL,A,cashflow,Operating Cash Flow,2026-03-31,-686598000.0
+PTCIL,A,income,Basic EPS,2023-03-31,19.6
+PTCIL,A,income,Basic EPS,2024-03-31,30.83
+PTCIL,A,income,Basic EPS,2025-03-31,41.37
+PTCIL,A,income,Basic EPS,2026-03-31,67.76
+PTCIL,A,income,Diluted EPS,2023-03-31,19.54
+PTCIL,A,income,Diluted EPS,2024-03-31,30.35
+PTCIL,A,income,Diluted EPS,2025-03-31,41.33
+PTCIL,A,income,Diluted EPS,2026-03-31,67.74
+PTCIL,A,income,EBITDA,2023-03-31,644375000.0
+PTCIL,A,income,EBITDA,2024-03-31,842034000.0
+PTCIL,A,income,EBITDA,2025-03-31,1062836000.0
+PTCIL,A,income,EBITDA,2026-03-31,1700723000.0
+PTCIL,A,income,Interest Expense,2023-03-31,141097000.0
+PTCIL,A,income,Interest Expense,2024-03-31,134262000.0
+PTCIL,A,income,Interest Expense,2025-03-31,67026000.0
+PTCIL,A,income,Interest Expense,2026-03-31,64338000.0
+PTCIL,A,income,Net Income,2023-03-31,258151000.0
+PTCIL,A,income,Net Income,2024-03-31,422158000.0
+PTCIL,A,income,Net Income,2025-03-31,610185000.0
+PTCIL,A,income,Net Income,2026-03-31,1015587000.0
+PTCIL,A,income,Net Income Common Stockholders,2023-03-31,258151000.0
+PTCIL,A,income,Net Income Common Stockholders,2024-03-31,422158000.0
+PTCIL,A,income,Net Income Common Stockholders,2025-03-31,610185000.0
+PTCIL,A,income,Net Income Common Stockholders,2026-03-31,1015587000.0
+PTCIL,A,income,Operating Income,2023-03-31,441937000.0
+PTCIL,A,income,Operating Income,2024-03-31,567947000.0
+PTCIL,A,income,Operating Income,2025-03-31,556738000.0
+PTCIL,A,income,Operating Income,2026-03-31,989951000.0
+PTCIL,A,income,Pretax Income,2023-03-31,336586000.0
+PTCIL,A,income,Pretax Income,2024-03-31,541479000.0
+PTCIL,A,income,Pretax Income,2025-03-31,782747000.0
+PTCIL,A,income,Pretax Income,2026-03-31,1269456000.0
+PTCIL,A,income,Total Revenue,2023-03-31,2150176000.0
+PTCIL,A,income,Total Revenue,2024-03-31,2515943000.0
+PTCIL,A,income,Total Revenue,2025-03-31,3033850000.0
+PTCIL,A,income,Total Revenue,2026-03-31,5986437000.0
+PTCIL,Q,income,Basic EPS,2025-06-30,3.44
+PTCIL,Q,income,Basic EPS,2025-09-30,12.1
+PTCIL,Q,income,Basic EPS,2025-12-31,12.25
+PTCIL,Q,income,Basic EPS,2026-03-31,39.96
+PTCIL,Q,income,Basic EPS,2026-06-30,19.47
+PTCIL,Q,income,Diluted EPS,2025-06-30,3.44
+PTCIL,Q,income,Diluted EPS,2025-09-30,12.09
+PTCIL,Q,income,Diluted EPS,2025-12-31,12.24
+PTCIL,Q,income,Diluted EPS,2026-03-31,39.94
+PTCIL,Q,income,Diluted EPS,2026-06-30,19.46
+PTCIL,Q,income,EBITDA,2025-06-30,193521000.0
+PTCIL,Q,income,EBITDA,2025-09-30,339257000.0
+PTCIL,Q,income,EBITDA,2025-12-31,346007000.0
+PTCIL,Q,income,EBITDA,2026-03-31,844003000.0
+PTCIL,Q,income,EBITDA,2026-06-30,542127000.0
+PTCIL,Q,income,Interest Expense,2025-06-30,16721000.0
+PTCIL,Q,income,Interest Expense,2025-09-30,18580000.0
+PTCIL,Q,income,Interest Expense,2025-12-31,27057000.0
+PTCIL,Q,income,Interest Expense,2026-03-31,24045000.0
+PTCIL,Q,income,Interest Expense,2026-06-30,36242000.0
+PTCIL,Q,income,Net Income,2025-06-30,51556000.0
+PTCIL,Q,income,Net Income,2025-09-30,181382000.0
+PTCIL,Q,income,Net Income,2025-12-31,183541000.0
+PTCIL,Q,income,Net Income,2026-03-31,599108000.0
+PTCIL,Q,income,Net Income,2026-06-30,291927000.0
+PTCIL,Q,income,Net Income Common Stockholders,2025-06-30,51556000.0
+PTCIL,Q,income,Net Income Common Stockholders,2025-09-30,181382000.0
+PTCIL,Q,income,Net Income Common Stockholders,2025-12-31,183541000.0
+PTCIL,Q,income,Net Income Common Stockholders,2026-03-31,599108000.0
+PTCIL,Q,income,Net Income Common Stockholders,2026-06-30,291927000.0
+PTCIL,Q,income,Operating Income,2025-06-30,1594000.0
+PTCIL,Q,income,Operating Income,2025-09-30,166232000.0
+PTCIL,Q,income,Operating Income,2025-12-31,153216000.0
+PTCIL,Q,income,Operating Income,2026-03-31,629729000.0
+PTCIL,Q,income,Operating Income,2026-06-30,350548000.0
+PTCIL,Q,income,Pretax Income,2025-06-30,90542000.0
+PTCIL,Q,income,Pretax Income,2025-09-30,229650000.0
+PTCIL,Q,income,Pretax Income,2025-12-31,225145000.0
+PTCIL,Q,income,Pretax Income,2026-03-31,724119000.0
+PTCIL,Q,income,Pretax Income,2026-06-30,367465000.0
+PTCIL,Q,income,Total Revenue,2025-06-30,971463000.0
+PTCIL,Q,income,Total Revenue,2025-09-30,1246254000.0
+PTCIL,Q,income,Total Revenue,2025-12-31,1555343000.0
+PTCIL,Q,income,Total Revenue,2026-03-31,2254707000.0
+PTCIL,Q,income,Total Revenue,2026-06-30,1917975000.0

@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+RBA,A,balance,Cash And Cash Equivalents,2023-03-31,1550370000.0
+RBA,A,balance,Cash And Cash Equivalents,2024-03-31,312880000.0
+RBA,A,balance,Cash And Cash Equivalents,2025-03-31,5342520000.0
+RBA,A,balance,Cash And Cash Equivalents,2026-03-31,306160000.0
+RBA,A,balance,Net Debt,2023-03-31,97630000.0
+RBA,A,balance,Net Debt,2024-03-31,1389080000.0
+RBA,A,balance,Net Debt,2026-03-31,2392400000.0
+RBA,A,balance,Ordinary Shares Number,2023-03-31,494554349.0
+RBA,A,balance,Ordinary Shares Number,2024-03-31,496369101.0
+RBA,A,balance,Ordinary Shares Number,2025-03-31,582067965.0
+RBA,A,balance,Ordinary Shares Number,2026-03-31,582876287.0
+RBA,A,balance,Stockholders Equity,2023-03-31,8254420000.0
+RBA,A,balance,Stockholders Equity,2024-03-31,6265740000.0
+RBA,A,balance,Stockholders Equity,2025-03-31,9085710000.0
+RBA,A,balance,Stockholders Equity,2026-03-31,7211050000.0
+RBA,A,balance,Total Assets,2023-03-31,24932090000.0
+RBA,A,balance,Total Assets,2024-03-31,27086110000.0
+RBA,A,balance,Total Assets,2025-03-31,34626710000.0
+RBA,A,balance,Total Assets,2026-03-31,33823120000.0
+RBA,A,balance,Total Debt,2023-03-31,11675350000.0
+RBA,A,balance,Total Debt,2024-03-31,14297610000.0
+RBA,A,balance,Total Debt,2025-03-31,18318560000.0
+RBA,A,balance,Total Debt,2026-03-31,19670030000.0
+RBA,A,cashflow,Capital Expenditure,2023-03-31,-3524030000.0
+RBA,A,cashflow,Capital Expenditure,2024-03-31,-2821690000.0
+RBA,A,cashflow,Capital Expenditure,2025-03-31,-2770080000.0
+RBA,A,cashflow,Capital Expenditure,2026-03-31,-3722050000.0
+RBA,A,cashflow,Free Cash Flow,2023-03-31,-2281040000.0
+RBA,A,cashflow,Free Cash Flow,2024-03-31,639490000.0
+RBA,A,cashflow,Free Cash Flow,2025-03-31,734270000.0
+RBA,A,cashflow,Free Cash Flow,2026-03-31,-695420000.0
+RBA,A,cashflow,Operating Cash Flow,2023-03-31,1242990000.0
+RBA,A,cashflow,Operating Cash Flow,2024-03-31,3461180000.0
+RBA,A,cashflow,Operating Cash Flow,2025-03-31,3504350000.0
+RBA,A,cashflow,Operating Cash Flow,2026-03-31,3026630000.0
+RBA,A,income,Basic EPS,2023-03-31,-4.48
+RBA,A,income,Basic EPS,2024-03-31,-4.4
+RBA,A,income,Basic EPS,2025-03-31,-4.33
+RBA,A,income,Basic EPS,2026-03-31,-3.19
+RBA,A,income,Diluted EPS,2023-03-31,-4.48
+RBA,A,income,Diluted EPS,2024-03-31,-4.4
+RBA,A,income,Diluted EPS,2025-03-31,-4.33
+RBA,A,income,Diluted EPS,2026-03-31,-3.19
+RBA,A,income,EBITDA,2023-03-31,1474190000.0
+RBA,A,income,EBITDA,2024-03-31,2606390000.0
+RBA,A,income,EBITDA,2025-03-31,2995760000.0
+RBA,A,income,EBITDA,2026-03-31,3746260000.0
+RBA,A,income,Interest Expense,2023-03-31,1051790000.0
+RBA,A,income,Interest Expense,2024-03-31,1412450000.0
+RBA,A,income,Interest Expense,2025-03-31,1608890000.0
+RBA,A,income,Interest Expense,2026-03-31,1893780000.0
+RBA,A,income,Net Income,2023-03-31,-2212330000.0
+RBA,A,income,Net Income,2024-03-31,-2179430000.0
+RBA,A,income,Net Income,2025-03-31,-2162020000.0
+RBA,A,income,Net Income,2026-03-31,-1870780000.0
+RBA,A,income,Net Income Common Stockholders,2023-03-31,-2212330000.0
+RBA,A,income,Net Income Common Stockholders,2024-03-31,-2179430000.0
+RBA,A,income,Net Income Common Stockholders,2025-03-31,-2162020000.0
+RBA,A,income,Net Income Common Stockholders,2026-03-31,-1870780000.0
+RBA,A,income,Operating Income,2023-03-31,-1688600000.0
+RBA,A,income,Operating Income,2024-03-31,-961240000.0
+RBA,A,income,Operating Income,2025-03-31,-1005500000.0
+RBA,A,income,Operating Income,2026-03-31,-456900000.0
+RBA,A,income,Pretax Income,2023-03-31,-2418020000.0
+RBA,A,income,Pretax Income,2024-03-31,-2367380000.0
+RBA,A,income,Pretax Income,2025-03-31,-2327940000.0
+RBA,A,income,Pretax Income,2026-03-31,-2041280000.0
+RBA,A,income,Total Revenue,2023-03-31,20488690000.0
+RBA,A,income,Total Revenue,2024-03-31,24121530000.0
+RBA,A,income,Total Revenue,2025-03-31,25325600000.0
+RBA,A,income,Total Revenue,2026-03-31,28006080000.0
+RBA,Q,income,Basic EPS,2025-06-30,-0.72
+RBA,Q,income,Basic EPS,2025-12-31,-0.75
+RBA,Q,income,Basic EPS,2026-03-31,-0.73
+RBA,Q,income,Basic EPS,2026-06-30,-0.45
+RBA,Q,income,Basic EPS,2026-09-30,-0.29
+RBA,Q,income,Diluted EPS,2025-06-30,-0.72
+RBA,Q,income,Diluted EPS,2025-12-31,-0.75
+RBA,Q,income,Diluted EPS,2026-03-31,-0.73
+RBA,Q,income,Diluted EPS,2026-06-30,-0.45
+RBA,Q,income,Diluted EPS,2026-09-30,-0.29
+RBA,Q,income,EBITDA,2025-06-30,947500000.0
+RBA,Q,income,EBITDA,2025-12-31,976110000.0
+RBA,Q,income,EBITDA,2026-03-31,1030550000.0
+RBA,Q,income,EBITDA,2026-06-30,1199910000.0
+RBA,Q,income,EBITDA,2026-09-30,1320610000.0
+RBA,Q,income,Interest Expense,2025-06-30,468020000.0
+RBA,Q,income,Interest Expense,2025-12-31,471420000.0
+RBA,Q,income,Interest Expense,2026-03-31,498240000.0
+RBA,Q,income,Interest Expense,2026-06-30,494810000.0
+RBA,Q,income,Interest Expense,2026-09-30,501030000.0
+RBA,Q,income,Net Income,2025-06-30,-419380000.0
+RBA,Q,income,Net Income,2025-12-31,-435350000.0
+RBA,Q,income,Net Income,2026-03-31,-430100000.0
+RBA,Q,income,Net Income,2026-06-30,-283480000.0
+RBA,Q,income,Net Income,2026-09-30,-195750000.0
+RBA,Q,income,Net Income Common Stockholders,2025-06-30,-419380000.0
+RBA,Q,income,Net Income Common Stockholders,2025-12-31,-435350000.0
+RBA,Q,income,Net Income Common Stockholders,2026-03-31,-430100000.0
+RBA,Q,income,Net Income Common Stockholders,2026-06-30,-283480000.0
+RBA,Q,income,Net Income Common Stockholders,2026-09-30,-195750000.0
+RBA,Q,income,Operating Income,2025-06-30,-206050000.0
+RBA,Q,income,Operating Income,2025-12-31,-88950000.0
+RBA,Q,income,Operating Income,2026-03-31,-56510000.0
+RBA,Q,income,Operating Income,2026-06-30,-33240000.0
+RBA,Q,income,Operating Income,2026-09-30,43390000.0
+RBA,Q,income,Pretax Income,2025-06-30,-454300000.0
+RBA,Q,income,Pretax Income,2025-12-31,-479430000.0
+RBA,Q,income,Pretax Income,2026-03-31,-474260000.0
+RBA,Q,income,Pretax Income,2026-06-30,-330030000.0
+RBA,Q,income,Pretax Income,2026-09-30,-237910000.0
+RBA,Q,income,Total Revenue,2025-06-30,6977230000.0
+RBA,Q,income,Total Revenue,2025-12-31,7146540000.0
+RBA,Q,income,Total Revenue,2026-03-31,7068380000.0
+RBA,Q,income,Total Revenue,2026-06-30,8226100000.0
+RBA,Q,income,Total Revenue,2026-09-30,8448470000.0

@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+ACUTAAS,A,balance,Cash And Cash Equivalents,2023-03-31,305326000.0
+ACUTAAS,A,balance,Cash And Cash Equivalents,2024-03-31,297044000.0
+ACUTAAS,A,balance,Cash And Cash Equivalents,2025-03-31,1852243000.0
+ACUTAAS,A,balance,Cash And Cash Equivalents,2026-03-31,2155511000.0
+ACUTAAS,A,balance,Net Debt,2024-03-31,1869422000.0
+ACUTAAS,A,balance,Ordinary Shares Number,2023-03-31,72874124.0
+ACUTAAS,A,balance,Ordinary Shares Number,2024-03-31,73761124.0
+ACUTAAS,A,balance,Ordinary Shares Number,2025-03-31,81868922.0
+ACUTAAS,A,balance,Ordinary Shares Number,2026-03-31,81871122.0
+ACUTAAS,A,balance,Stockholders Equity,2023-03-31,5939592000.0
+ACUTAAS,A,balance,Stockholders Equity,2024-03-31,6739974000.0
+ACUTAAS,A,balance,Stockholders Equity,2025-03-31,13096287000.0
+ACUTAAS,A,balance,Stockholders Equity,2026-03-31,16535610000.0
+ACUTAAS,A,balance,Total Assets,2023-03-31,7669384000.0
+ACUTAAS,A,balance,Total Assets,2024-03-31,10959033000.0
+ACUTAAS,A,balance,Total Assets,2025-03-31,15492611000.0
+ACUTAAS,A,balance,Total Assets,2026-03-31,19839643000.0
+ACUTAAS,A,balance,Total Debt,2023-03-31,36003000.0
+ACUTAAS,A,balance,Total Debt,2024-03-31,2166466000.0
+ACUTAAS,A,balance,Total Debt,2025-03-31,129387000.0
+ACUTAAS,A,balance,Total Debt,2026-03-31,355959000.0
+ACUTAAS,A,cashflow,Capital Expenditure,2023-03-31,-964029000.0
+ACUTAAS,A,cashflow,Capital Expenditure,2024-03-31,-3146775000.0
+ACUTAAS,A,cashflow,Capital Expenditure,2025-03-31,-1946429000.0
+ACUTAAS,A,cashflow,Capital Expenditure,2026-03-31,-3279788000.0
+ACUTAAS,A,cashflow,Free Cash Flow,2023-03-31,-308729000.0
+ACUTAAS,A,cashflow,Free Cash Flow,2024-03-31,-1895078000.0
+ACUTAAS,A,cashflow,Free Cash Flow,2025-03-31,-763002000.0
+ACUTAAS,A,cashflow,Free Cash Flow,2026-03-31,-358052000.0
+ACUTAAS,A,cashflow,Operating Cash Flow,2023-03-31,655300000.0
+ACUTAAS,A,cashflow,Operating Cash Flow,2024-03-31,1251697000.0
+ACUTAAS,A,cashflow,Operating Cash Flow,2025-03-31,1183427000.0
+ACUTAAS,A,cashflow,Operating Cash Flow,2026-03-31,2921736000.0
+ACUTAAS,A,income,Basic EPS,2023-03-31,11.43
+ACUTAAS,A,income,Basic EPS,2024-03-31,5.83
+ACUTAAS,A,income,Basic EPS,2025-03-31,19.81
+ACUTAAS,A,income,Basic EPS,2026-03-31,43.51
+ACUTAAS,A,income,Diluted EPS,2023-03-31,11.43
+ACUTAAS,A,income,Diluted EPS,2024-03-31,5.83
+ACUTAAS,A,income,Diluted EPS,2025-03-31,19.81
+ACUTAAS,A,income,Diluted EPS,2026-03-31,43.37
+ACUTAAS,A,income,EBITDA,2023-03-31,1269265000.0
+ACUTAAS,A,income,EBITDA,2024-03-31,1038968000.0
+ACUTAAS,A,income,EBITDA,2025-03-31,2483394000.0
+ACUTAAS,A,income,EBITDA,2026-03-31,5214642000.0
+ACUTAAS,A,income,Interest Expense,2023-03-31,24123000.0
+ACUTAAS,A,income,Interest Expense,2024-03-31,59403000.0
+ACUTAAS,A,income,Interest Expense,2025-03-31,55550000.0
+ACUTAAS,A,income,Interest Expense,2026-03-31,27509000.0
+ACUTAAS,A,income,Net Income,2023-03-31,832897000.0
+ACUTAAS,A,income,Net Income,2024-03-31,427730000.0
+ACUTAAS,A,income,Net Income,2025-03-31,1587136000.0
+ACUTAAS,A,income,Net Income,2026-03-31,3562553000.0
+ACUTAAS,A,income,Net Income Common Stockholders,2023-03-31,832897000.0
+ACUTAAS,A,income,Net Income Common Stockholders,2024-03-31,427730000.0
+ACUTAAS,A,income,Net Income Common Stockholders,2025-03-31,1587136000.0
+ACUTAAS,A,income,Net Income Common Stockholders,2026-03-31,3562553000.0
+ACUTAAS,A,income,Operating Income,2023-03-31,1110109000.0
+ACUTAAS,A,income,Operating Income,2024-03-31,1124346000.0
+ACUTAAS,A,income,Operating Income,2025-03-31,2054520000.0
+ACUTAAS,A,income,Operating Income,2026-03-31,4449616000.0
+ACUTAAS,A,income,Pretax Income,2023-03-31,1121718000.0
+ACUTAAS,A,income,Pretax Income,2024-03-31,819013000.0
+ACUTAAS,A,income,Pretax Income,2025-03-31,2161630000.0
+ACUTAAS,A,income,Pretax Income,2026-03-31,4827257000.0
+ACUTAAS,A,income,Total Revenue,2023-03-31,6130573000.0
+ACUTAAS,A,income,Total Revenue,2024-03-31,7130117000.0
+ACUTAAS,A,income,Total Revenue,2025-03-31,9999668000.0
+ACUTAAS,A,income,Total Revenue,2026-03-31,13289682000.0
+ACUTAAS,Q,income,Basic EPS,2025-06-30,5.41
+ACUTAAS,Q,income,Basic EPS,2025-12-31,13.19
+ACUTAAS,Q,income,Basic EPS,2026-06-30,9.07
+ACUTAAS,Q,income,Basic EPS,2026-09-30,15.29
+ACUTAAS,Q,income,Diluted EPS,2025-06-30,5.41
+ACUTAAS,Q,income,Diluted EPS,2025-12-31,13.1
+ACUTAAS,Q,income,Diluted EPS,2026-06-30,9.04
+ACUTAAS,Q,income,Diluted EPS,2026-09-30,15.24
+ACUTAAS,Q,income,EBITDA,2025-06-30,668450000.0
+ACUTAAS,Q,income,EBITDA,2025-12-31,1553546000.0
+ACUTAAS,Q,income,EBITDA,2026-03-31,1941045000.0
+ACUTAAS,Q,income,EBITDA,2026-06-30,1148724000.0
+ACUTAAS,Q,income,EBITDA,2026-09-30,1810640000.0
+ACUTAAS,Q,income,Interest Expense,2025-06-30,6385000.0
+ACUTAAS,Q,income,Interest Expense,2025-12-31,8612000.0
+ACUTAAS,Q,income,Interest Expense,2026-03-31,6725000.0
+ACUTAAS,Q,income,Interest Expense,2026-06-30,11410000.0
+ACUTAAS,Q,income,Interest Expense,2026-09-30,10156000.0
+ACUTAAS,Q,income,Net Income,2025-09-30,722406000.0
+ACUTAAS,Q,income,Net Income,2025-12-31,1079605000.0
+ACUTAAS,Q,income,Net Income,2026-03-31,1317608000.0
+ACUTAAS,Q,income,Net Income,2026-06-30,742601000.0
+ACUTAAS,Q,income,Net Income,2026-09-30,1251692000.0
+ACUTAAS,Q,income,Net Income Common Stockholders,2025-09-30,722406000.0
+ACUTAAS,Q,income,Net Income Common Stockholders,2025-12-31,1079605000.0
+ACUTAAS,Q,income,Net Income Common Stockholders,2026-03-31,1317608000.0
+ACUTAAS,Q,income,Net Income Common Stockholders,2026-06-30,742601000.0
+ACUTAAS,Q,income,Net Income Common Stockholders,2026-09-30,1251692000.0
+ACUTAAS,Q,income,Operating Income,2025-06-30,427765000.0
+ACUTAAS,Q,income,Operating Income,2025-12-31,1408305000.0
+ACUTAAS,Q,income,Operating Income,2026-03-31,1744334000.0
+ACUTAAS,Q,income,Operating Income,2026-06-30,1032498000.0
+ACUTAAS,Q,income,Operating Income,2026-09-30,1632789000.0
+ACUTAAS,Q,income,Pretax Income,2025-06-30,580757000.0
+ACUTAAS,Q,income,Pretax Income,2025-12-31,1446685000.0
+ACUTAAS,Q,income,Pretax Income,2026-03-31,1838017000.0
+ACUTAAS,Q,income,Pretax Income,2026-06-30,1039101000.0
+ACUTAAS,Q,income,Pretax Income,2026-09-30,1673618000.0
+ACUTAAS,Q,income,Total Revenue,2025-06-30,2072372000.0
+ACUTAAS,Q,income,Total Revenue,2025-12-31,3931833000.0
+ACUTAAS,Q,income,Total Revenue,2026-03-31,4223519000.0
+ACUTAAS,Q,income,Total Revenue,2026-06-30,3296748000.0
+ACUTAAS,Q,income,Total Revenue,2026-09-30,4369164000.0

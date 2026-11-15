@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+GAIL,A,balance,Cash And Cash Equivalents,2023-03-31,2437700000.0
+GAIL,A,balance,Cash And Cash Equivalents,2024-03-31,11460300000.0
+GAIL,A,balance,Cash And Cash Equivalents,2025-03-31,13171800000.0
+GAIL,A,balance,Cash And Cash Equivalents,2026-03-31,9592300000.0
+GAIL,A,balance,Net Debt,2023-03-31,160311300000.0
+GAIL,A,balance,Net Debt,2024-03-31,174619700000.0
+GAIL,A,balance,Net Debt,2025-03-31,149901900000.0
+GAIL,A,balance,Net Debt,2026-03-31,190049800000.0
+GAIL,A,balance,Ordinary Shares Number,2023-03-31,6575099643.0
+GAIL,A,balance,Ordinary Shares Number,2024-03-31,6575079643.0
+GAIL,A,balance,Ordinary Shares Number,2025-03-31,6575079643.0
+GAIL,A,balance,Ordinary Shares Number,2026-03-31,6575079643.0
+GAIL,A,balance,Stockholders Equity,2023-03-31,649274300000.0
+GAIL,A,balance,Stockholders Equity,2024-03-31,769971800000.0
+GAIL,A,balance,Stockholders Equity,2025-03-31,849975500000.0
+GAIL,A,balance,Stockholders Equity,2026-03-31,890496000000.0
+GAIL,A,balance,Total Assets,2023-03-31,1077807500000.0
+GAIL,A,balance,Total Assets,2024-03-31,1247172300000.0
+GAIL,A,balance,Total Assets,2025-03-31,1331487300000.0
+GAIL,A,balance,Total Assets,2026-03-31,1405365900000.0
+GAIL,A,balance,Total Debt,2023-03-31,178161800000.0
+GAIL,A,balance,Total Debt,2024-03-31,217937700000.0
+GAIL,A,balance,Total Debt,2025-03-31,215953800000.0
+GAIL,A,balance,Total Debt,2026-03-31,248314900000.0
+GAIL,A,cashflow,Capital Expenditure,2023-03-31,-88305600000.0
+GAIL,A,cashflow,Capital Expenditure,2024-03-31,-125011700000.0
+GAIL,A,cashflow,Capital Expenditure,2025-03-31,-79219300000.0
+GAIL,A,cashflow,Capital Expenditure,2026-03-31,-88062900000.0
+GAIL,A,cashflow,Free Cash Flow,2023-03-31,-56258700000.0
+GAIL,A,cashflow,Free Cash Flow,2024-03-31,845500000.0
+GAIL,A,cashflow,Free Cash Flow,2025-03-31,78053400000.0
+GAIL,A,cashflow,Free Cash Flow,2026-03-31,24423600000.0
+GAIL,A,cashflow,Operating Cash Flow,2023-03-31,32046900000.0
+GAIL,A,cashflow,Operating Cash Flow,2024-03-31,125857200000.0
+GAIL,A,cashflow,Operating Cash Flow,2025-03-31,157272700000.0
+GAIL,A,cashflow,Operating Cash Flow,2026-03-31,112486500000.0
+GAIL,A,income,Basic EPS,2023-03-31,8.52
+GAIL,A,income,Basic EPS,2024-03-31,15.06
+GAIL,A,income,Basic EPS,2025-03-31,18.93
+GAIL,A,income,Basic EPS,2026-03-31,11.53
+GAIL,A,income,Diluted EPS,2023-03-31,8.52
+GAIL,A,income,Diluted EPS,2024-03-31,15.06
+GAIL,A,income,Diluted EPS,2025-03-31,18.93
+GAIL,A,income,Diluted EPS,2026-03-31,11.53
+GAIL,A,income,EBITDA,2023-03-31,104231700000.0
+GAIL,A,income,EBITDA,2024-03-31,170329700000.0
+GAIL,A,income,EBITDA,2025-03-31,208464530000.0
+GAIL,A,income,EBITDA,2026-03-31,145244900000.0
+GAIL,A,income,Interest Expense,2023-03-31,3708000000.0
+GAIL,A,income,Interest Expense,2024-03-31,7264800000.0
+GAIL,A,income,Interest Expense,2025-03-31,7404000000.0
+GAIL,A,income,Interest Expense,2026-03-31,9641800000.0
+GAIL,A,income,Net Income,2023-03-31,56160000000.0
+GAIL,A,income,Net Income,2024-03-31,98992200000.0
+GAIL,A,income,Net Income,2025-03-31,124498000000.0
+GAIL,A,income,Net Income,2026-03-31,75824700000.0
+GAIL,A,income,Net Income Common Stockholders,2023-03-31,56160000000.0
+GAIL,A,income,Net Income Common Stockholders,2024-03-31,98992200000.0
+GAIL,A,income,Net Income Common Stockholders,2025-03-31,124498000000.0
+GAIL,A,income,Net Income Common Stockholders,2026-03-31,75824700000.0
+GAIL,A,income,Operating Income,2023-03-31,49787400000.0
+GAIL,A,income,Operating Income,2024-03-31,110777600000.0
+GAIL,A,income,Operating Income,2025-03-31,116232000000.0
+GAIL,A,income,Operating Income,2026-03-31,76750500000.0
+GAIL,A,income,Pretax Income,2023-03-31,72563800000.0
+GAIL,A,income,Pretax Income,2024-03-31,125950100000.0
+GAIL,A,income,Pretax Income,2025-03-31,160955100000.0
+GAIL,A,income,Pretax Income,2026-03-31,97252200000.0
+GAIL,A,income,Total Revenue,2023-03-31,1453245700000.0
+GAIL,A,income,Total Revenue,2024-03-31,1328585600000.0
+GAIL,A,income,Total Revenue,2025-03-31,1419016900000.0
+GAIL,A,income,Total Revenue,2026-03-31,1415977200000.0
+GAIL,Q,income,Basic EPS,2025-06-30,3.6
+GAIL,Q,income,Basic EPS,2025-12-31,2.67
+GAIL,Q,income,Basic EPS,2026-03-31,2.26
+GAIL,Q,income,Basic EPS,2026-06-30,7.1
+GAIL,Q,income,Basic EPS,2026-09-30,7.18
+GAIL,Q,income,Diluted EPS,2025-06-30,3.6
+GAIL,Q,income,Diluted EPS,2025-12-31,2.67
+GAIL,Q,income,Diluted EPS,2026-03-31,2.26
+GAIL,Q,income,Diluted EPS,2026-06-30,7.1
+GAIL,Q,income,Diluted EPS,2026-09-30,7.18
+GAIL,Q,income,EBITDA,2025-06-30,42344800000.0
+GAIL,Q,income,EBITDA,2025-12-31,36103600000.0
+GAIL,Q,income,EBITDA,2026-03-31,27030000000.0
+GAIL,Q,income,EBITDA,2026-06-30,75730500000.0
+GAIL,Q,income,EBITDA,2026-09-30,74360900000.0
+GAIL,Q,income,Interest Expense,2025-06-30,2129200000.0
+GAIL,Q,income,Interest Expense,2025-12-31,2537800000.0
+GAIL,Q,income,Interest Expense,2026-03-31,2630700000.0
+GAIL,Q,income,Interest Expense,2026-06-30,3189600000.0
+GAIL,Q,income,Interest Expense,2026-09-30,3231100000.0
+GAIL,Q,income,Net Income,2025-06-30,23692000000.0
+GAIL,Q,income,Net Income,2025-12-31,17561700000.0
+GAIL,Q,income,Net Income,2026-03-31,14847200000.0
+GAIL,Q,income,Net Income,2026-06-30,46653600000.0
+GAIL,Q,income,Net Income,2026-09-30,47196600000.0
+GAIL,Q,income,Net Income Common Stockholders,2025-06-30,23692000000.0
+GAIL,Q,income,Net Income Common Stockholders,2025-12-31,17561700000.0
+GAIL,Q,income,Net Income Common Stockholders,2026-03-31,14847200000.0
+GAIL,Q,income,Net Income Common Stockholders,2026-06-30,46653600000.0
+GAIL,Q,income,Net Income Common Stockholders,2026-09-30,47196600000.0
+GAIL,Q,income,Operating Income,2025-06-30,26760200000.0
+GAIL,Q,income,Operating Income,2025-12-31,17350800000.0
+GAIL,Q,income,Operating Income,2026-03-31,9798300000.0
+GAIL,Q,income,Operating Income,2026-06-30,61113300000.0
+GAIL,Q,income,Operating Income,2026-09-30,59788500000.0
+GAIL,Q,income,Pretax Income,2025-06-30,30288400000.0
+GAIL,Q,income,Pretax Income,2025-12-31,21646400000.0
+GAIL,Q,income,Pretax Income,2026-03-31,19663700000.0
+GAIL,Q,income,Pretax Income,2026-06-30,62675600000.0
+GAIL,Q,income,Pretax Income,2026-09-30,61002800000.0
+GAIL,Q,income,Total Revenue,2025-06-30,353106800000.0
+GAIL,Q,income,Total Revenue,2025-12-31,351733700000.0
+GAIL,Q,income,Total Revenue,2026-03-31,355765500000.0
+GAIL,Q,income,Total Revenue,2026-06-30,411976100000.0
+GAIL,Q,income,Total Revenue,2026-09-30,471391300000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+ZENTEC,A,balance,Cash And Cash Equivalents,2023-03-31,1102535000.0
+ZENTEC,A,balance,Cash And Cash Equivalents,2024-03-31,367085000.0
+ZENTEC,A,balance,Cash And Cash Equivalents,2025-03-31,741540000.0
+ZENTEC,A,balance,Cash And Cash Equivalents,2026-03-31,795978000.0
+ZENTEC,A,balance,Ordinary Shares Number,2023-03-31,79028476.0
+ZENTEC,A,balance,Ordinary Shares Number,2024-03-31,83526550.0
+ZENTEC,A,balance,Ordinary Shares Number,2025-03-31,89894446.0
+ZENTEC,A,balance,Ordinary Shares Number,2026-03-31,89931266.0
+ZENTEC,A,balance,Stockholders Equity,2023-03-31,3161715000.0
+ZENTEC,A,balance,Stockholders Equity,2024-03-31,4486282000.0
+ZENTEC,A,balance,Stockholders Equity,2025-03-31,17006920000.0
+ZENTEC,A,balance,Stockholders Equity,2026-03-31,18890616000.0
+ZENTEC,A,balance,Total Assets,2023-03-31,4736953000.0
+ZENTEC,A,balance,Total Assets,2024-03-31,7505025000.0
+ZENTEC,A,balance,Total Assets,2025-03-31,20490236000.0
+ZENTEC,A,balance,Total Assets,2026-03-31,21602231000.0
+ZENTEC,A,balance,Total Debt,2023-03-31,67542000.0
+ZENTEC,A,balance,Total Debt,2024-03-31,60338000.0
+ZENTEC,A,balance,Total Debt,2025-03-31,777036000.0
+ZENTEC,A,balance,Total Debt,2026-03-31,185174000.0
+ZENTEC,A,cashflow,Capital Expenditure,2023-03-31,-131489000.0
+ZENTEC,A,cashflow,Capital Expenditure,2024-03-31,-301368000.0
+ZENTEC,A,cashflow,Capital Expenditure,2025-03-31,-323045000.0
+ZENTEC,A,cashflow,Capital Expenditure,2026-03-31,-618188000.0
+ZENTEC,A,cashflow,Free Cash Flow,2023-03-31,1032130000.0
+ZENTEC,A,cashflow,Free Cash Flow,2024-03-31,-167195000.0
+ZENTEC,A,cashflow,Free Cash Flow,2025-03-31,-12699000.0
+ZENTEC,A,cashflow,Free Cash Flow,2026-03-31,1827846000.0
+ZENTEC,A,cashflow,Operating Cash Flow,2023-03-31,1163619000.0
+ZENTEC,A,cashflow,Operating Cash Flow,2024-03-31,134173000.0
+ZENTEC,A,cashflow,Operating Cash Flow,2025-03-31,310346000.0
+ZENTEC,A,cashflow,Operating Cash Flow,2026-03-31,2446034000.0
+ZENTEC,A,income,Basic EPS,2023-03-31,5.39
+ZENTEC,A,income,Basic EPS,2024-03-31,15.45
+ZENTEC,A,income,Basic EPS,2025-03-31,32.07
+ZENTEC,A,income,Basic EPS,2026-03-31,21.52
+ZENTEC,A,income,Diluted EPS,2023-03-31,5.2
+ZENTEC,A,income,Diluted EPS,2024-03-31,15.34
+ZENTEC,A,income,Diluted EPS,2025-03-31,32.07
+ZENTEC,A,income,Diluted EPS,2026-03-31,21.52
+ZENTEC,A,income,EBITDA,2023-03-31,804638000.0
+ZENTEC,A,income,EBITDA,2024-03-31,1963143000.0
+ZENTEC,A,income,EBITDA,2025-03-31,4386446000.0
+ZENTEC,A,income,EBITDA,2026-03-31,3295082000.0
+ZENTEC,A,income,Interest Expense,2023-03-31,26806000.0
+ZENTEC,A,income,Interest Expense,2024-03-31,4590000.0
+ZENTEC,A,income,Interest Expense,2025-03-31,171570000.0
+ZENTEC,A,income,Interest Expense,2026-03-31,84801000.0
+ZENTEC,A,income,Net Income,2023-03-31,427381000.0
+ZENTEC,A,income,Net Income,2024-03-31,1278846000.0
+ZENTEC,A,income,Net Income,2025-03-31,2802441000.0
+ZENTEC,A,income,Net Income,2026-03-31,1934519000.0
+ZENTEC,A,income,Net Income Common Stockholders,2023-03-31,432846000.0
+ZENTEC,A,income,Net Income Common Stockholders,2024-03-31,1279206000.0
+ZENTEC,A,income,Net Income Common Stockholders,2025-03-31,2802441000.0
+ZENTEC,A,income,Net Income Common Stockholders,2026-03-31,1934519000.0
+ZENTEC,A,income,Operating Income,2023-03-31,665549000.0
+ZENTEC,A,income,Operating Income,2024-03-31,1747355000.0
+ZENTEC,A,income,Operating Income,2025-03-31,3696379000.0
+ZENTEC,A,income,Operating Income,2026-03-31,2230871000.0
+ZENTEC,A,income,Pretax Income,2023-03-31,717266000.0
+ZENTEC,A,income,Pretax Income,2024-03-31,1861539000.0
+ZENTEC,A,income,Pretax Income,2025-03-31,4060739000.0
+ZENTEC,A,income,Pretax Income,2026-03-31,2966412000.0
+ZENTEC,A,income,Total Revenue,2023-03-31,2188462000.0
+ZENTEC,A,income,Total Revenue,2024-03-31,4398520000.0
+ZENTEC,A,income,Total Revenue,2025-03-31,9736416000.0
+ZENTEC,A,income,Total Revenue,2026-03-31,6876900000.0
+ZENTEC,Q,income,Basic EPS,2025-06-30,5.31
+ZENTEC,Q,income,Basic EPS,2025-12-31,6.09
+ZENTEC,Q,income,Basic EPS,2026-03-31,3.51
+ZENTEC,Q,income,Basic EPS,2026-06-30,3.83
+ZENTEC,Q,income,Basic EPS,2026-09-30,3.83
+ZENTEC,Q,income,Diluted EPS,2025-06-30,5.31
+ZENTEC,Q,income,Diluted EPS,2025-12-31,6.09
+ZENTEC,Q,income,Diluted EPS,2026-03-31,3.51
+ZENTEC,Q,income,Diluted EPS,2026-06-30,3.83
+ZENTEC,Q,income,Diluted EPS,2026-09-30,3.83
+ZENTEC,Q,income,EBITDA,2025-06-30,860187000.0
+ZENTEC,Q,income,EBITDA,2025-12-31,821287000.0
+ZENTEC,Q,income,EBITDA,2026-03-31,722671000.0
+ZENTEC,Q,income,EBITDA,2026-06-30,542073000.0
+ZENTEC,Q,income,EBITDA,2026-09-30,1475501000.0
+ZENTEC,Q,income,Interest Expense,2025-06-30,34649000.0
+ZENTEC,Q,income,Interest Expense,2025-12-31,27473000.0
+ZENTEC,Q,income,Interest Expense,2026-03-31,20201000.0
+ZENTEC,Q,income,Interest Expense,2026-06-30,10923000.0
+ZENTEC,Q,income,Interest Expense,2026-09-30,11313000.0
+ZENTEC,Q,income,Net Income,2025-06-30,477526000.0
+ZENTEC,Q,income,Net Income,2025-12-31,547671000.0
+ZENTEC,Q,income,Net Income,2026-03-31,315331000.0
+ZENTEC,Q,income,Net Income,2026-06-30,344610000.0
+ZENTEC,Q,income,Net Income,2026-09-30,895409000.0
+ZENTEC,Q,income,Net Income Common Stockholders,2025-06-30,477526000.0
+ZENTEC,Q,income,Net Income Common Stockholders,2025-12-31,547671000.0
+ZENTEC,Q,income,Net Income Common Stockholders,2026-03-31,315331000.0
+ZENTEC,Q,income,Net Income Common Stockholders,2026-06-30,344610000.0
+ZENTEC,Q,income,Net Income Common Stockholders,2026-09-30,895409000.0
+ZENTEC,Q,income,Operating Income,2025-06-30,583615000.0
+ZENTEC,Q,income,Operating Income,2025-12-31,603083000.0
+ZENTEC,Q,income,Operating Income,2026-03-31,451491000.0
+ZENTEC,Q,income,Operating Income,2026-06-30,308664000.0
+ZENTEC,Q,income,Operating Income,2026-09-30,1232662000.0
+ZENTEC,Q,income,Pretax Income,2025-06-30,762115000.0
+ZENTEC,Q,income,Pretax Income,2025-12-31,728882000.0
+ZENTEC,Q,income,Pretax Income,2026-03-31,644082000.0
+ZENTEC,Q,income,Pretax Income,2026-06-30,452575000.0
+ZENTEC,Q,income,Pretax Income,2026-09-30,1376925000.0
+ZENTEC,Q,income,Total Revenue,2025-06-30,1582187000.0
+ZENTEC,Q,income,Total Revenue,2025-12-31,1778226000.0
+ZENTEC,Q,income,Total Revenue,2026-03-31,1780756000.0
+ZENTEC,Q,income,Total Revenue,2026-06-30,1416384000.0
+ZENTEC,Q,income,Total Revenue,2026-09-30,3451326000.0

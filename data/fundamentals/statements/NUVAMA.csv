@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+NUVAMA,A,balance,Cash And Cash Equivalents,2023-03-31,7881950000.0
+NUVAMA,A,balance,Cash And Cash Equivalents,2024-03-31,3665540000.0
+NUVAMA,A,balance,Cash And Cash Equivalents,2025-03-31,5325800000.0
+NUVAMA,A,balance,Cash And Cash Equivalents,2026-03-31,5809800000.0
+NUVAMA,A,balance,Net Debt,2023-03-31,46097800000.0
+NUVAMA,A,balance,Net Debt,2024-03-31,63791500000.0
+NUVAMA,A,balance,Net Debt,2025-03-31,73062500000.0
+NUVAMA,A,balance,Net Debt,2026-03-31,109625400000.0
+NUVAMA,A,balance,Ordinary Shares Number,2023-03-31,175372285.0
+NUVAMA,A,balance,Ordinary Shares Number,2024-03-31,176543015.0
+NUVAMA,A,balance,Ordinary Shares Number,2025-03-31,179871790.0
+NUVAMA,A,balance,Ordinary Shares Number,2026-03-31,182041513.0
+NUVAMA,A,balance,Stockholders Equity,2023-03-31,22542410000.0
+NUVAMA,A,balance,Stockholders Equity,2024-03-31,28947810000.0
+NUVAMA,A,balance,Stockholders Equity,2025-03-31,34901400000.0
+NUVAMA,A,balance,Stockholders Equity,2026-03-31,41209400000.0
+NUVAMA,A,balance,Total Assets,2023-03-31,127156820000.0
+NUVAMA,A,balance,Total Assets,2024-03-31,203869440000.0
+NUVAMA,A,balance,Total Assets,2025-03-31,283876300000.0
+NUVAMA,A,balance,Total Assets,2026-03-31,344912700000.0
+NUVAMA,A,balance,Total Debt,2023-03-31,53979750000.0
+NUVAMA,A,balance,Total Debt,2024-03-31,67457040000.0
+NUVAMA,A,balance,Total Debt,2025-03-31,78388300000.0
+NUVAMA,A,balance,Total Debt,2026-03-31,115435200000.0
+NUVAMA,A,cashflow,Capital Expenditure,2023-03-31,-788820000.0
+NUVAMA,A,cashflow,Capital Expenditure,2024-03-31,-809430000.0
+NUVAMA,A,cashflow,Capital Expenditure,2025-03-31,-331000000.0
+NUVAMA,A,cashflow,Capital Expenditure,2026-03-31,-286800000.0
+NUVAMA,A,cashflow,Free Cash Flow,2023-03-31,-19437940000.0
+NUVAMA,A,cashflow,Free Cash Flow,2024-03-31,-17393950000.0
+NUVAMA,A,cashflow,Free Cash Flow,2025-03-31,-4057000000.0
+NUVAMA,A,cashflow,Free Cash Flow,2026-03-31,-30422100000.0
+NUVAMA,A,cashflow,Operating Cash Flow,2023-03-31,-18649120000.0
+NUVAMA,A,cashflow,Operating Cash Flow,2024-03-31,-16584520000.0
+NUVAMA,A,cashflow,Operating Cash Flow,2025-03-31,-3726000000.0
+NUVAMA,A,cashflow,Operating Cash Flow,2026-03-31,-30135300000.0
+NUVAMA,A,income,Basic EPS,2023-03-31,17.396763
+NUVAMA,A,income,Basic EPS,2024-03-31,35.594
+NUVAMA,A,income,Basic EPS,2025-03-31,55.33
+NUVAMA,A,income,Basic EPS,2026-03-31,57.59
+NUVAMA,A,income,Diluted EPS,2023-03-31,17.396763
+NUVAMA,A,income,Diluted EPS,2024-03-31,34.828
+NUVAMA,A,income,Diluted EPS,2025-03-31,53.71
+NUVAMA,A,income,Diluted EPS,2026-03-31,56.06
+NUVAMA,A,income,EBITDA,2023-03-31,8741850000.0
+NUVAMA,A,income,EBITDA,2024-03-31,15338180000.0
+NUVAMA,A,income,EBITDA,2025-03-31,21953300000.0
+NUVAMA,A,income,EBITDA,2026-03-31,24161600000.0
+NUVAMA,A,income,Interest Expense,2023-03-31,3795090000.0
+NUVAMA,A,income,Interest Expense,2024-03-31,5838090000.0
+NUVAMA,A,income,Interest Expense,2025-03-31,7800000000.0
+NUVAMA,A,income,Interest Expense,2026-03-31,9155900000.0
+NUVAMA,A,income,Net Income,2023-03-31,3050910000.0
+NUVAMA,A,income,Net Income,2024-03-31,6253210000.0
+NUVAMA,A,income,Net Income,2025-03-31,9861700000.0
+NUVAMA,A,income,Net Income,2026-03-31,10410400000.0
+NUVAMA,A,income,Net Income Common Stockholders,2023-03-31,3050910000.0
+NUVAMA,A,income,Net Income Common Stockholders,2024-03-31,6253210000.0
+NUVAMA,A,income,Net Income Common Stockholders,2025-03-31,9861700000.0
+NUVAMA,A,income,Net Income Common Stockholders,2026-03-31,10410400000.0
+NUVAMA,A,income,Operating Income,2023-03-31,-964000000.0
+NUVAMA,A,income,Operating Income,2024-03-31,519720000.0
+NUVAMA,A,income,Operating Income,2025-03-31,1218300000.0
+NUVAMA,A,income,Operating Income,2026-03-31,-43000000.0
+NUVAMA,A,income,Pretax Income,2023-03-31,4060940000.0
+NUVAMA,A,income,Pretax Income,2024-03-31,8120020000.0
+NUVAMA,A,income,Pretax Income,2025-03-31,13183000000.0
+NUVAMA,A,income,Pretax Income,2026-03-31,13849700000.0
+NUVAMA,A,income,Total Revenue,2023-03-31,13229530000.0
+NUVAMA,A,income,Total Revenue,2024-03-31,17384530000.0
+NUVAMA,A,income,Total Revenue,2025-03-31,21395400000.0
+NUVAMA,A,income,Total Revenue,2026-03-31,22835200000.0
+NUVAMA,Q,income,Basic EPS,2025-09-30,14.11
+NUVAMA,Q,income,Basic EPS,2025-12-31,14.02
+NUVAMA,Q,income,Basic EPS,2026-03-31,14.79
+NUVAMA,Q,income,Basic EPS,2026-06-30,16.78
+NUVAMA,Q,income,Basic EPS,2026-09-30,16.54
+NUVAMA,Q,income,Diluted EPS,2025-09-30,13.63
+NUVAMA,Q,income,Diluted EPS,2025-12-31,13.62
+NUVAMA,Q,income,Diluted EPS,2026-03-31,14.4
+NUVAMA,Q,income,Diluted EPS,2026-06-30,16.34
+NUVAMA,Q,income,Diluted EPS,2026-09-30,16.25
+NUVAMA,Q,income,EBITDA,2025-06-30,6150600000.0
+NUVAMA,Q,income,EBITDA,2025-12-31,6090200000.0
+NUVAMA,Q,income,EBITDA,2026-03-31,6488700000.0
+NUVAMA,Q,income,EBITDA,2026-06-30,7324100000.0
+NUVAMA,Q,income,EBITDA,2026-09-30,7328600000.0
+NUVAMA,Q,income,Interest Expense,2025-06-30,2400700000.0
+NUVAMA,Q,income,Interest Expense,2025-12-31,2424000000.0
+NUVAMA,Q,income,Interest Expense,2026-03-31,2576200000.0
+NUVAMA,Q,income,Interest Expense,2026-06-30,2949700000.0
+NUVAMA,Q,income,Interest Expense,2026-09-30,2947900000.0
+NUVAMA,Q,income,Net Income,2025-06-30,2639600000.0
+NUVAMA,Q,income,Net Income,2025-12-31,2538000000.0
+NUVAMA,Q,income,Net Income,2026-03-31,2691500000.0
+NUVAMA,Q,income,Net Income,2026-06-30,3057900000.0
+NUVAMA,Q,income,Net Income,2026-09-30,3035200000.0
+NUVAMA,Q,income,Net Income Common Stockholders,2025-06-30,2639600000.0
+NUVAMA,Q,income,Net Income Common Stockholders,2025-12-31,2538000000.0
+NUVAMA,Q,income,Net Income Common Stockholders,2026-03-31,2691500000.0
+NUVAMA,Q,income,Net Income Common Stockholders,2026-06-30,3057900000.0
+NUVAMA,Q,income,Net Income Common Stockholders,2026-09-30,3035200000.0
+NUVAMA,Q,income,Operating Income,2025-06-30,-35800000.0
+NUVAMA,Q,income,Operating Income,2025-12-31,251400000.0
+NUVAMA,Q,income,Operating Income,2026-03-31,-200600000.0
+NUVAMA,Q,income,Operating Income,2026-06-30,-1024400000.0
+NUVAMA,Q,income,Operating Income,2026-09-30,-451500000.0
+NUVAMA,Q,income,Pretax Income,2025-06-30,3507200000.0
+NUVAMA,Q,income,Pretax Income,2025-12-31,3399800000.0
+NUVAMA,Q,income,Pretax Income,2026-03-31,3550400000.0
+NUVAMA,Q,income,Pretax Income,2026-06-30,4105200000.0
+NUVAMA,Q,income,Pretax Income,2026-09-30,4103100000.0
+NUVAMA,Q,income,Total Revenue,2025-06-30,5279400000.0
+NUVAMA,Q,income,Total Revenue,2025-12-31,5483200000.0
+NUVAMA,Q,income,Total Revenue,2026-03-31,6436400000.0
+NUVAMA,Q,income,Total Revenue,2026-06-30,5775300000.0
+NUVAMA,Q,income,Total Revenue,2026-09-30,6167500000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+INFY,A,balance,Cash And Cash Equivalents,2023-03-31,1481000000.0
+INFY,A,balance,Cash And Cash Equivalents,2024-03-31,1773000000.0
+INFY,A,balance,Cash And Cash Equivalents,2025-03-31,2861000000.0
+INFY,A,balance,Cash And Cash Equivalents,2026-03-31,2341000000.0
+INFY,A,balance,Ordinary Shares Number,2023-03-31,4136387925.0
+INFY,A,balance,Ordinary Shares Number,2024-03-31,4139950635.0
+INFY,A,balance,Ordinary Shares Number,2025-03-31,4143607528.0
+INFY,A,balance,Ordinary Shares Number,2026-03-31,4046940812.0
+INFY,A,balance,Stockholders Equity,2023-03-31,9172000000.0
+INFY,A,balance,Stockholders Equity,2024-03-31,10559000000.0
+INFY,A,balance,Stockholders Equity,2025-03-31,11205000000.0
+INFY,A,balance,Stockholders Equity,2026-03-31,9786000000.0
+INFY,A,balance,Total Assets,2023-03-31,15312000000.0
+INFY,A,balance,Total Assets,2024-03-31,16523000000.0
+INFY,A,balance,Total Assets,2025-03-31,17419000000.0
+INFY,A,balance,Total Assets,2026-03-31,16446000000.0
+INFY,A,balance,Total Debt,2023-03-31,1010000000.0
+INFY,A,balance,Total Debt,2024-03-31,1002000000.0
+INFY,A,balance,Total Debt,2025-03-31,962000000.0
+INFY,A,balance,Total Debt,2026-03-31,967000000.0
+INFY,A,cashflow,Capital Expenditure,2023-03-31,-319000000.0
+INFY,A,cashflow,Capital Expenditure,2024-03-31,-266000000.0
+INFY,A,cashflow,Capital Expenditure,2025-03-31,-263000000.0
+INFY,A,cashflow,Capital Expenditure,2026-03-31,-306000000.0
+INFY,A,cashflow,Free Cash Flow,2023-03-31,2534000000.0
+INFY,A,cashflow,Free Cash Flow,2024-03-31,2882000000.0
+INFY,A,cashflow,Free Cash Flow,2025-03-31,4088000000.0
+INFY,A,cashflow,Free Cash Flow,2026-03-31,3733000000.0
+INFY,A,cashflow,Operating Cash Flow,2023-03-31,2853000000.0
+INFY,A,cashflow,Operating Cash Flow,2024-03-31,3148000000.0
+INFY,A,cashflow,Operating Cash Flow,2025-03-31,4351000000.0
+INFY,A,cashflow,Operating Cash Flow,2026-03-31,4039000000.0
+INFY,A,income,Basic EPS,2023-03-31,0.71
+INFY,A,income,Basic EPS,2024-03-31,0.77
+INFY,A,income,Basic EPS,2025-03-31,0.76
+INFY,A,income,Basic EPS,2026-03-31,0.81
+INFY,A,income,Diluted EPS,2023-03-31,0.71
+INFY,A,income,Diluted EPS,2024-03-31,0.76
+INFY,A,income,Diluted EPS,2025-03-31,0.76
+INFY,A,income,Diluted EPS,2026-03-31,0.8
+INFY,A,income,EBITDA,2023-03-31,4684000000.0
+INFY,A,income,EBITDA,2024-03-31,4967000000.0
+INFY,A,income,EBITDA,2025-03-31,5065000000.0
+INFY,A,income,EBITDA,2026-03-31,5105000000.0
+INFY,A,income,Interest Expense,2023-03-31,35000000.0
+INFY,A,income,Interest Expense,2024-03-31,56000000.0
+INFY,A,income,Interest Expense,2025-03-31,49000000.0
+INFY,A,income,Interest Expense,2026-03-31,47000000.0
+INFY,A,income,Net Income,2023-03-31,2981000000.0
+INFY,A,income,Net Income,2024-03-31,3167000000.0
+INFY,A,income,Net Income,2025-03-31,3158000000.0
+INFY,A,income,Net Income,2026-03-31,3313000000.0
+INFY,A,income,Net Income Common Stockholders,2023-03-31,2981000000.0
+INFY,A,income,Net Income Common Stockholders,2024-03-31,3167000000.0
+INFY,A,income,Net Income Common Stockholders,2025-03-31,3158000000.0
+INFY,A,income,Net Income Common Stockholders,2026-03-31,3313000000.0
+INFY,A,income,Operating Income,2023-03-31,3825000000.0
+INFY,A,income,Operating Income,2024-03-31,3849000000.0
+INFY,A,income,Operating Income,2025-03-31,4077000000.0
+INFY,A,income,Operating Income,2026-03-31,4089000000.0
+INFY,A,income,Pretax Income,2023-03-31,4125000000.0
+INFY,A,income,Pretax Income,2024-03-31,4346000000.0
+INFY,A,income,Pretax Income,2025-03-31,4447000000.0
+INFY,A,income,Pretax Income,2026-03-31,4506000000.0
+INFY,A,income,Total Revenue,2023-03-31,18212000000.0
+INFY,A,income,Total Revenue,2024-03-31,18562000000.0
+INFY,A,income,Total Revenue,2025-03-31,19277000000.0
+INFY,A,income,Total Revenue,2026-03-31,20158000000.0
+INFY,Q,income,Basic EPS,2025-06-30,0.2
+INFY,Q,income,Basic EPS,2025-12-31,0.18
+INFY,Q,income,Basic EPS,2026-03-31,0.23
+INFY,Q,income,Basic EPS,2026-06-30,0.2
+INFY,Q,income,Basic EPS,2026-09-30,0.2
+INFY,Q,income,Diluted EPS,2025-06-30,0.19
+INFY,Q,income,Diluted EPS,2025-12-31,0.18
+INFY,Q,income,Diluted EPS,2026-03-31,0.23
+INFY,Q,income,Diluted EPS,2026-06-30,0.2
+INFY,Q,income,Diluted EPS,2026-09-30,0.2
+INFY,Q,income,EBITDA,2025-09-30,1312000000.0
+INFY,Q,income,EBITDA,2025-12-31,1176000000.0
+INFY,Q,income,EBITDA,2026-03-31,1334000000.0
+INFY,Q,income,EBITDA,2026-06-30,1307000000.0
+INFY,Q,income,EBITDA,2026-09-30,1168000000.0
+INFY,Q,income,Interest Expense,2025-09-30,12000000.0
+INFY,Q,income,Interest Expense,2025-12-31,11000000.0
+INFY,Q,income,Interest Expense,2026-03-31,12000000.0
+INFY,Q,income,Interest Expense,2026-06-30,13000000.0
+INFY,Q,income,Interest Expense,2026-09-30,12000000.0
+INFY,Q,income,Net Income,2025-09-30,839000000.0
+INFY,Q,income,Net Income,2025-12-31,747000000.0
+INFY,Q,income,Net Income,2026-03-31,919000000.0
+INFY,Q,income,Net Income,2026-06-30,819000000.0
+INFY,Q,income,Net Income,2026-09-30,817000000.0
+INFY,Q,income,Net Income Common Stockholders,2025-09-30,839000000.0
+INFY,Q,income,Net Income Common Stockholders,2025-12-31,747000000.0
+INFY,Q,income,Net Income Common Stockholders,2026-03-31,919000000.0
+INFY,Q,income,Net Income Common Stockholders,2026-06-30,819000000.0
+INFY,Q,income,Net Income Common Stockholders,2026-09-30,817000000.0
+INFY,Q,income,Operating Income,2025-09-30,1065000000.0
+INFY,Q,income,Operating Income,2025-12-31,937000000.0
+INFY,Q,income,Operating Income,2026-03-31,1055000000.0
+INFY,Q,income,Operating Income,2026-06-30,1072000000.0
+INFY,Q,income,Operating Income,2026-09-30,1079000000.0
+INFY,Q,income,Pretax Income,2025-09-30,1165000000.0
+INFY,Q,income,Pretax Income,2025-12-31,1035000000.0
+INFY,Q,income,Pretax Income,2026-03-31,1168000000.0
+INFY,Q,income,Pretax Income,2026-06-30,1163000000.0
+INFY,Q,income,Pretax Income,2026-09-30,1156000000.0
+INFY,Q,income,Total Revenue,2025-09-30,5076000000.0
+INFY,Q,income,Total Revenue,2025-12-31,5099000000.0
+INFY,Q,income,Total Revenue,2026-03-31,5040000000.0
+INFY,Q,income,Total Revenue,2026-06-30,5082000000.0
+INFY,Q,income,Total Revenue,2026-09-30,5145000000.0

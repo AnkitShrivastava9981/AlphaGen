@@ -1,0 +1,83 @@
+symbol,freq,statement,item,period_end,value
+SBILIFE,A,balance,Cash And Cash Equivalents,2023-03-31,15912241000.0
+SBILIFE,A,balance,Cash And Cash Equivalents,2024-03-31,47406300000.0
+SBILIFE,A,balance,Cash And Cash Equivalents,2025-03-31,17835800000.0
+SBILIFE,A,balance,Cash And Cash Equivalents,2026-03-31,31875600000.0
+SBILIFE,A,balance,Ordinary Shares Number,2023-03-31,1000894759.0
+SBILIFE,A,balance,Ordinary Shares Number,2024-03-31,1001465465.0
+SBILIFE,A,balance,Ordinary Shares Number,2025-03-31,1002135083.0
+SBILIFE,A,balance,Ordinary Shares Number,2026-03-31,1003092121.0
+SBILIFE,A,balance,Stockholders Equity,2023-03-31,130174821000.0
+SBILIFE,A,balance,Stockholders Equity,2024-03-31,149085600000.0
+SBILIFE,A,balance,Stockholders Equity,2025-03-31,169853500000.0
+SBILIFE,A,balance,Stockholders Equity,2026-03-31,190860000000.0
+SBILIFE,A,balance,Total Assets,2023-03-31,3145991696000.0
+SBILIFE,A,balance,Total Assets,2024-03-31,3982772500000.0
+SBILIFE,A,balance,Total Assets,2025-03-31,4570954300000.0
+SBILIFE,A,balance,Total Assets,2026-03-31,5000459100000.0
+SBILIFE,A,cashflow,Capital Expenditure,2023-03-31,-632015000.0
+SBILIFE,A,cashflow,Capital Expenditure,2024-03-31,-1143900000.0
+SBILIFE,A,cashflow,Capital Expenditure,2025-03-31,-1061900000.0
+SBILIFE,A,cashflow,Capital Expenditure,2026-03-31,-1850000000.0
+SBILIFE,A,cashflow,Free Cash Flow,2023-03-31,285928447000.0
+SBILIFE,A,cashflow,Free Cash Flow,2024-03-31,290074700000.0
+SBILIFE,A,cashflow,Free Cash Flow,2025-03-31,254404600000.0
+SBILIFE,A,cashflow,Free Cash Flow,2026-03-31,343376700000.0
+SBILIFE,A,income,Basic EPS,2023-03-31,17.19
+SBILIFE,A,income,Basic EPS,2024-03-31,18.92
+SBILIFE,A,income,Basic EPS,2025-03-31,24.09
+SBILIFE,A,income,Basic EPS,2026-03-31,24.64
+SBILIFE,A,income,Diluted EPS,2023-03-31,17.18
+SBILIFE,A,income,Diluted EPS,2024-03-31,18.9
+SBILIFE,A,income,Diluted EPS,2025-03-31,24.07
+SBILIFE,A,income,Diluted EPS,2026-03-31,24.62
+SBILIFE,A,income,Interest Expense,2023-03-31,248369000.0
+SBILIFE,A,income,Interest Expense,2024-03-31,91300000.0
+SBILIFE,A,income,Interest Expense,2025-03-31,114400000.0
+SBILIFE,A,income,Interest Expense,2026-03-31,111900000.0
+SBILIFE,A,income,Net Income,2023-03-31,17205724000.0
+SBILIFE,A,income,Net Income,2024-03-31,18937800000.0
+SBILIFE,A,income,Net Income,2025-03-31,24133000000.0
+SBILIFE,A,income,Net Income,2026-03-31,24703000000.0
+SBILIFE,A,income,Net Income Common Stockholders,2023-03-31,17205724000.0
+SBILIFE,A,income,Net Income Common Stockholders,2024-03-31,18937800000.0
+SBILIFE,A,income,Net Income Common Stockholders,2025-03-31,24133000000.0
+SBILIFE,A,income,Net Income Common Stockholders,2026-03-31,24703000000.0
+SBILIFE,A,income,Pretax Income,2023-03-31,17584470000.0
+SBILIFE,A,income,Pretax Income,2024-03-31,19421100000.0
+SBILIFE,A,income,Pretax Income,2025-03-31,24946700000.0
+SBILIFE,A,income,Pretax Income,2026-03-31,25374000000.0
+SBILIFE,A,income,Total Revenue,2023-03-31,806390392000.0
+SBILIFE,A,income,Total Revenue,2024-03-31,1309255600000.0
+SBILIFE,A,income,Total Revenue,2025-03-31,1154124500000.0
+SBILIFE,A,income,Total Revenue,2026-03-31,1104781600000.0
+SBILIFE,Q,income,Basic EPS,2025-06-30,5.93
+SBILIFE,Q,income,Basic EPS,2025-12-31,5.75
+SBILIFE,Q,income,Basic EPS,2026-03-31,8.02
+SBILIFE,Q,income,Basic EPS,2026-06-30,7.23
+SBILIFE,Q,income,Basic EPS,2026-09-30,5.47
+SBILIFE,Q,income,Diluted EPS,2025-06-30,5.93
+SBILIFE,Q,income,Diluted EPS,2025-12-31,5.75
+SBILIFE,Q,income,Diluted EPS,2026-03-31,8.02
+SBILIFE,Q,income,Diluted EPS,2026-06-30,7.22
+SBILIFE,Q,income,Diluted EPS,2026-09-30,5.47
+SBILIFE,Q,income,Net Income,2025-06-30,5943700000.0
+SBILIFE,Q,income,Net Income,2025-12-31,5767400000.0
+SBILIFE,Q,income,Net Income,2026-03-31,8046400000.0
+SBILIFE,Q,income,Net Income,2026-06-30,7249300000.0
+SBILIFE,Q,income,Net Income,2026-09-30,5492300000.0
+SBILIFE,Q,income,Net Income Common Stockholders,2025-06-30,5943700000.0
+SBILIFE,Q,income,Net Income Common Stockholders,2025-12-31,5767400000.0
+SBILIFE,Q,income,Net Income Common Stockholders,2026-03-31,8046400000.0
+SBILIFE,Q,income,Net Income Common Stockholders,2026-06-30,7249300000.0
+SBILIFE,Q,income,Net Income Common Stockholders,2026-09-30,5492300000.0
+SBILIFE,Q,income,Pretax Income,2025-06-30,6109500000.0
+SBILIFE,Q,income,Pretax Income,2025-12-31,5975300000.0
+SBILIFE,Q,income,Pretax Income,2026-03-31,8157800000.0
+SBILIFE,Q,income,Pretax Income,2026-06-30,7458700000.0
+SBILIFE,Q,income,Pretax Income,2026-09-30,5537300000.0
+SBILIFE,Q,income,Total Revenue,2025-06-30,390129400000.0
+SBILIFE,Q,income,Total Revenue,2025-12-31,461102500000.0
+SBILIFE,Q,income,Total Revenue,2026-03-31,40949200000.0
+SBILIFE,Q,income,Total Revenue,2026-06-30,463503300000.0
+SBILIFE,Q,income,Total Revenue,2026-09-30,244242800000.0

@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+TANLA,A,balance,Cash And Cash Equivalents,2023-03-31,5657394000.0
+TANLA,A,balance,Cash And Cash Equivalents,2024-03-31,5435539000.0
+TANLA,A,balance,Cash And Cash Equivalents,2025-03-31,5015030000.0
+TANLA,A,balance,Cash And Cash Equivalents,2026-03-31,7480121000.0
+TANLA,A,balance,Ordinary Shares Number,2023-03-31,134400357.0
+TANLA,A,balance,Ordinary Shares Number,2024-03-31,134459860.0
+TANLA,A,balance,Ordinary Shares Number,2025-03-31,134297759.0
+TANLA,A,balance,Ordinary Shares Number,2026-03-31,131997759.0
+TANLA,A,balance,Stockholders Equity,2023-03-31,15174935000.0
+TANLA,A,balance,Stockholders Equity,2024-03-31,19417821000.0
+TANLA,A,balance,Stockholders Equity,2025-03-31,22682942000.0
+TANLA,A,balance,Stockholders Equity,2026-03-31,24880001000.0
+TANLA,A,balance,Total Assets,2023-03-31,24125832000.0
+TANLA,A,balance,Total Assets,2024-03-31,30089793000.0
+TANLA,A,balance,Total Assets,2025-03-31,33377066000.0
+TANLA,A,balance,Total Assets,2026-03-31,37300182000.0
+TANLA,A,balance,Total Debt,2023-03-31,825855000.0
+TANLA,A,balance,Total Debt,2024-03-31,750395000.0
+TANLA,A,balance,Total Debt,2025-03-31,640474000.0
+TANLA,A,balance,Total Debt,2026-03-31,527081000.0
+TANLA,A,cashflow,Capital Expenditure,2023-03-31,-1560455000.0
+TANLA,A,cashflow,Capital Expenditure,2024-03-31,-1588431000.0
+TANLA,A,cashflow,Capital Expenditure,2025-03-31,-1276343000.0
+TANLA,A,cashflow,Capital Expenditure,2026-03-31,-976502000.0
+TANLA,A,cashflow,Free Cash Flow,2023-03-31,906648000.0
+TANLA,A,cashflow,Free Cash Flow,2024-03-31,4310901000.0
+TANLA,A,cashflow,Free Cash Flow,2025-03-31,5144704000.0
+TANLA,A,cashflow,Free Cash Flow,2026-03-31,4765446000.0
+TANLA,A,cashflow,Operating Cash Flow,2023-03-31,2467103000.0
+TANLA,A,cashflow,Operating Cash Flow,2024-03-31,5899332000.0
+TANLA,A,cashflow,Operating Cash Flow,2025-03-31,6421047000.0
+TANLA,A,cashflow,Operating Cash Flow,2026-03-31,5741948000.0
+TANLA,A,income,Basic EPS,2023-03-31,33.05
+TANLA,A,income,Basic EPS,2024-03-31,40.79
+TANLA,A,income,Basic EPS,2025-03-31,37.76
+TANLA,A,income,Basic EPS,2026-03-31,38.36
+TANLA,A,income,Diluted EPS,2023-03-31,33.04
+TANLA,A,income,Diluted EPS,2024-03-31,40.71
+TANLA,A,income,Diluted EPS,2025-03-31,37.68
+TANLA,A,income,Diluted EPS,2026-03-31,38.24
+TANLA,A,income,EBITDA,2023-03-31,6139339000.0
+TANLA,A,income,EBITDA,2024-03-31,7745272000.0
+TANLA,A,income,EBITDA,2025-03-31,7310583000.0
+TANLA,A,income,EBITDA,2026-03-31,7610122000.0
+TANLA,A,income,Interest Expense,2023-03-31,11643000.0
+TANLA,A,income,Interest Expense,2024-03-31,58543000.0
+TANLA,A,income,Interest Expense,2025-03-31,59783000.0
+TANLA,A,income,Interest Expense,2026-03-31,43915000.0
+TANLA,A,income,Net Income,2023-03-31,4476486000.0
+TANLA,A,income,Net Income,2024-03-31,5483155000.0
+TANLA,A,income,Net Income,2025-03-31,5072828000.0
+TANLA,A,income,Net Income,2026-03-31,5091458000.0
+TANLA,A,income,Net Income Common Stockholders,2023-03-31,4476486000.0
+TANLA,A,income,Net Income Common Stockholders,2024-03-31,5483155000.0
+TANLA,A,income,Net Income Common Stockholders,2025-03-31,5072828000.0
+TANLA,A,income,Net Income Common Stockholders,2026-03-31,5091458000.0
+TANLA,A,income,Operating Income,2023-03-31,5571992000.0
+TANLA,A,income,Operating Income,2024-03-31,6559999000.0
+TANLA,A,income,Operating Income,2025-03-31,5970285000.0
+TANLA,A,income,Operating Income,2026-03-31,6152147000.0
+TANLA,A,income,Pretax Income,2023-03-31,5665983000.0
+TANLA,A,income,Pretax Income,2024-03-31,6834044000.0
+TANLA,A,income,Pretax Income,2025-03-31,6273057000.0
+TANLA,A,income,Pretax Income,2026-03-31,6344157000.0
+TANLA,A,income,Total Revenue,2023-03-31,33545549000.0
+TANLA,A,income,Total Revenue,2024-03-31,39277912000.0
+TANLA,A,income,Total Revenue,2025-03-31,40277215000.0
+TANLA,A,income,Total Revenue,2026-03-31,44177064000.0
+TANLA,Q,income,Basic EPS,2025-06-30,8.82
+TANLA,Q,income,Basic EPS,2025-12-31,9.95
+TANLA,Q,income,Basic EPS,2026-03-31,10.18
+TANLA,Q,income,Basic EPS,2026-06-30,10.77
+TANLA,Q,income,Basic EPS,2026-09-30,11.09
+TANLA,Q,income,Diluted EPS,2025-06-30,8.8
+TANLA,Q,income,Diluted EPS,2025-12-31,9.91
+TANLA,Q,income,Diluted EPS,2026-03-31,10.14
+TANLA,Q,income,Diluted EPS,2026-06-30,10.75
+TANLA,Q,income,Diluted EPS,2026-09-30,11.07
+TANLA,Q,income,EBITDA,2025-06-30,1759303000.0
+TANLA,Q,income,EBITDA,2025-12-31,1985081000.0
+TANLA,Q,income,EBITDA,2026-03-31,2001660000.0
+TANLA,Q,income,EBITDA,2026-06-30,2152470000.0
+TANLA,Q,income,EBITDA,2026-09-30,2263921000.0
+TANLA,Q,income,Interest Expense,2025-06-30,13372000.0
+TANLA,Q,income,Interest Expense,2025-12-31,11857000.0
+TANLA,Q,income,Interest Expense,2026-03-31,6365000.0
+TANLA,Q,income,Interest Expense,2026-06-30,10837000.0
+TANLA,Q,income,Interest Expense,2026-09-30,17351000.0
+TANLA,Q,income,Net Income,2025-06-30,1184058000.0
+TANLA,Q,income,Net Income,2025-12-31,1313715000.0
+TANLA,Q,income,Net Income,2026-03-31,1343233000.0
+TANLA,Q,income,Net Income,2026-06-30,1421671000.0
+TANLA,Q,income,Net Income,2026-09-30,1464198000.0
+TANLA,Q,income,Net Income Common Stockholders,2025-06-30,1184058000.0
+TANLA,Q,income,Net Income Common Stockholders,2025-12-31,1313715000.0
+TANLA,Q,income,Net Income Common Stockholders,2026-03-31,1343233000.0
+TANLA,Q,income,Net Income Common Stockholders,2026-06-30,1421671000.0
+TANLA,Q,income,Net Income Common Stockholders,2026-09-30,1464198000.0
+TANLA,Q,income,Operating Income,2025-06-30,1367757000.0
+TANLA,Q,income,Operating Income,2025-12-31,1580317000.0
+TANLA,Q,income,Operating Income,2026-03-31,1589380000.0
+TANLA,Q,income,Operating Income,2026-06-30,1682670000.0
+TANLA,Q,income,Operating Income,2026-09-30,1769713000.0
+TANLA,Q,income,Pretax Income,2025-06-30,1474438000.0
+TANLA,Q,income,Pretax Income,2025-12-31,1648242000.0
+TANLA,Q,income,Pretax Income,2026-03-31,1666518000.0
+TANLA,Q,income,Pretax Income,2026-06-30,1812801000.0
+TANLA,Q,income,Pretax Income,2026-09-30,1872978000.0
+TANLA,Q,income,Total Revenue,2025-06-30,10406557000.0
+TANLA,Q,income,Total Revenue,2025-12-31,11210356000.0
+TANLA,Q,income,Total Revenue,2026-03-31,11775395000.0
+TANLA,Q,income,Total Revenue,2026-06-30,12263914000.0
+TANLA,Q,income,Total Revenue,2026-09-30,13517496000.0

@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EPL,A,balance,Cash And Cash Equivalents,2023-03-31,2388000000.0
+EPL,A,balance,Cash And Cash Equivalents,2024-03-31,2014000000.0
+EPL,A,balance,Cash And Cash Equivalents,2025-03-31,1909000000.0
+EPL,A,balance,Cash And Cash Equivalents,2026-03-31,1973000000.0
+EPL,A,balance,Net Debt,2023-03-31,5298000000.0
+EPL,A,balance,Net Debt,2024-03-31,6026000000.0
+EPL,A,balance,Net Debt,2025-03-31,4818000000.0
+EPL,A,balance,Net Debt,2026-03-31,5117000000.0
+EPL,A,balance,Ordinary Shares Number,2023-03-31,318209865.0
+EPL,A,balance,Ordinary Shares Number,2024-03-31,318378882.0
+EPL,A,balance,Ordinary Shares Number,2025-03-31,319559735.0
+EPL,A,balance,Ordinary Shares Number,2026-03-31,320247843.0
+EPL,A,balance,Stockholders Equity,2023-03-31,19892000000.0
+EPL,A,balance,Stockholders Equity,2024-03-31,20915000000.0
+EPL,A,balance,Stockholders Equity,2025-03-31,23548000000.0
+EPL,A,balance,Stockholders Equity,2026-03-31,28577000000.0
+EPL,A,balance,Total Assets,2023-03-31,36322000000.0
+EPL,A,balance,Total Assets,2024-03-31,38087000000.0
+EPL,A,balance,Total Assets,2025-03-31,40055000000.0
+EPL,A,balance,Total Assets,2026-03-31,48968000000.0
+EPL,A,balance,Total Debt,2023-03-31,8895000000.0
+EPL,A,balance,Total Debt,2024-03-31,9123000000.0
+EPL,A,balance,Total Debt,2025-03-31,8025000000.0
+EPL,A,balance,Total Debt,2026-03-31,9625000000.0
+EPL,A,cashflow,Capital Expenditure,2023-03-31,-3871000000.0
+EPL,A,cashflow,Capital Expenditure,2024-03-31,-3746000000.0
+EPL,A,cashflow,Capital Expenditure,2025-03-31,-3631000000.0
+EPL,A,cashflow,Capital Expenditure,2026-03-31,-4815000000.0
+EPL,A,cashflow,Free Cash Flow,2023-03-31,2147000000.0
+EPL,A,cashflow,Free Cash Flow,2024-03-31,2119000000.0
+EPL,A,cashflow,Free Cash Flow,2025-03-31,4320000000.0
+EPL,A,cashflow,Free Cash Flow,2026-03-31,2414000000.0
+EPL,A,cashflow,Operating Cash Flow,2023-03-31,6018000000.0
+EPL,A,cashflow,Operating Cash Flow,2024-03-31,5865000000.0
+EPL,A,cashflow,Operating Cash Flow,2025-03-31,7951000000.0
+EPL,A,cashflow,Operating Cash Flow,2026-03-31,7229000000.0
+EPL,A,income,Basic EPS,2023-03-31,7.15
+EPL,A,income,Basic EPS,2024-03-31,6.7
+EPL,A,income,Basic EPS,2025-03-31,11.27
+EPL,A,income,Basic EPS,2026-03-31,12.15
+EPL,A,income,Diluted EPS,2023-03-31,7.15
+EPL,A,income,Diluted EPS,2024-03-31,6.68
+EPL,A,income,Diluted EPS,2025-03-31,11.23
+EPL,A,income,Diluted EPS,2026-03-31,12.13
+EPL,A,income,EBITDA,2023-03-31,6124000000.0
+EPL,A,income,EBITDA,2024-03-31,7118000000.0
+EPL,A,income,EBITDA,2025-03-31,8731000000.0
+EPL,A,income,EBITDA,2026-03-31,9751000000.0
+EPL,A,income,Interest Expense,2023-03-31,639000000.0
+EPL,A,income,Interest Expense,2024-03-31,1107000000.0
+EPL,A,income,Interest Expense,2025-03-31,1089000000.0
+EPL,A,income,Interest Expense,2026-03-31,1095000000.0
+EPL,A,income,Net Income,2023-03-31,2267000000.0
+EPL,A,income,Net Income,2024-03-31,2132000000.0
+EPL,A,income,Net Income,2025-03-31,3590000000.0
+EPL,A,income,Net Income,2026-03-31,3889000000.0
+EPL,A,income,Net Income Common Stockholders,2023-03-31,2267000000.0
+EPL,A,income,Net Income Common Stockholders,2024-03-31,2132000000.0
+EPL,A,income,Net Income Common Stockholders,2025-03-31,3590000000.0
+EPL,A,income,Net Income Common Stockholders,2026-03-31,3889000000.0
+EPL,A,income,Operating Income,2023-03-31,3480000000.0
+EPL,A,income,Operating Income,2024-03-31,3815000000.0
+EPL,A,income,Operating Income,2025-03-31,5271000000.0
+EPL,A,income,Operating Income,2026-03-31,6172000000.0
+EPL,A,income,Pretax Income,2023-03-31,2680000000.0
+EPL,A,income,Pretax Income,2024-03-31,2683000000.0
+EPL,A,income,Pretax Income,2025-03-31,4215000000.0
+EPL,A,income,Pretax Income,2026-03-31,4806000000.0
+EPL,A,income,Total Revenue,2023-03-31,36650000000.0
+EPL,A,income,Total Revenue,2024-03-31,38762000000.0
+EPL,A,income,Total Revenue,2025-03-31,41614000000.0
+EPL,A,income,Total Revenue,2026-03-31,46873000000.0
+EPL,Q,income,Basic EPS,2025-09-30,3.26
+EPL,Q,income,Basic EPS,2025-12-31,2.55
+EPL,Q,income,Basic EPS,2026-03-31,3.22
+EPL,Q,income,Basic EPS,2026-06-30,3.08
+EPL,Q,income,Basic EPS,2026-09-30,3.44
+EPL,Q,income,Diluted EPS,2025-09-30,3.25
+EPL,Q,income,Diluted EPS,2025-12-31,2.55
+EPL,Q,income,Diluted EPS,2026-03-31,3.21
+EPL,Q,income,Diluted EPS,2026-06-30,3.07
+EPL,Q,income,Diluted EPS,2026-09-30,3.42
+EPL,Q,income,EBITDA,2025-09-30,2638000000.0
+EPL,Q,income,EBITDA,2025-12-31,2324000000.0
+EPL,Q,income,EBITDA,2026-03-31,2491000000.0
+EPL,Q,income,EBITDA,2026-06-30,2674000000.0
+EPL,Q,income,EBITDA,2026-09-30,2982000000.0
+EPL,Q,income,Interest Expense,2025-09-30,285000000.0
+EPL,Q,income,Interest Expense,2025-12-31,288000000.0
+EPL,Q,income,Interest Expense,2026-03-31,293000000.0
+EPL,Q,income,Interest Expense,2026-06-30,291000000.0
+EPL,Q,income,Interest Expense,2026-09-30,328000000.0
+EPL,Q,income,Net Income,2025-09-30,1043000000.0
+EPL,Q,income,Net Income,2025-12-31,817000000.0
+EPL,Q,income,Net Income,2026-03-31,1029000000.0
+EPL,Q,income,Net Income,2026-06-30,986000000.0
+EPL,Q,income,Net Income,2026-09-30,1101000000.0
+EPL,Q,income,Net Income Common Stockholders,2025-09-30,1043000000.0
+EPL,Q,income,Net Income Common Stockholders,2025-12-31,817000000.0
+EPL,Q,income,Net Income Common Stockholders,2026-03-31,1029000000.0
+EPL,Q,income,Net Income Common Stockholders,2026-06-30,986000000.0
+EPL,Q,income,Net Income Common Stockholders,2026-09-30,1101000000.0
+EPL,Q,income,Operating Income,2025-09-30,1572000000.0
+EPL,Q,income,Operating Income,2025-12-31,1340000000.0
+EPL,Q,income,Operating Income,2026-03-31,1522000000.0
+EPL,Q,income,Operating Income,2026-06-30,1518000000.0
+EPL,Q,income,Operating Income,2026-09-30,1746000000.0
+EPL,Q,income,Pretax Income,2025-09-30,1409000000.0
+EPL,Q,income,Pretax Income,2025-12-31,1068000000.0
+EPL,Q,income,Pretax Income,2026-03-31,1156000000.0
+EPL,Q,income,Pretax Income,2026-06-30,1289000000.0
+EPL,Q,income,Pretax Income,2026-09-30,1520000000.0
+EPL,Q,income,Total Revenue,2025-09-30,12059000000.0
+EPL,Q,income,Total Revenue,2025-12-31,11488000000.0
+EPL,Q,income,Total Revenue,2026-03-31,13005000000.0
+EPL,Q,income,Total Revenue,2026-06-30,13879000000.0
+EPL,Q,income,Total Revenue,2026-09-30,15674000000.0

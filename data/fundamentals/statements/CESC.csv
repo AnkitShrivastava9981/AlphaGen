@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+CESC,A,balance,Cash And Cash Equivalents,2023-03-31,11292000000.0
+CESC,A,balance,Cash And Cash Equivalents,2024-03-31,12753800000.0
+CESC,A,balance,Cash And Cash Equivalents,2025-03-31,21812200000.0
+CESC,A,balance,Cash And Cash Equivalents,2026-03-31,42083300000.0
+CESC,A,balance,Net Debt,2023-03-31,129332500000.0
+CESC,A,balance,Net Debt,2024-03-31,130877000000.0
+CESC,A,balance,Net Debt,2025-03-31,155377900000.0
+CESC,A,balance,Net Debt,2026-03-31,171102100000.0
+CESC,A,balance,Ordinary Shares Number,2023-03-31,1325570430.0
+CESC,A,balance,Ordinary Shares Number,2024-03-31,1325570430.0
+CESC,A,balance,Ordinary Shares Number,2025-03-31,1325570430.0
+CESC,A,balance,Ordinary Shares Number,2026-03-31,1325570430.0
+CESC,A,balance,Stockholders Equity,2023-03-31,109103700000.0
+CESC,A,balance,Stockholders Equity,2024-03-31,114456400000.0
+CESC,A,balance,Stockholders Equity,2025-03-31,120107100000.0
+CESC,A,balance,Stockholders Equity,2026-03-31,125303400000.0
+CESC,A,balance,Total Assets,2023-03-31,377118900000.0
+CESC,A,balance,Total Assets,2024-03-31,371677800000.0
+CESC,A,balance,Total Assets,2025-03-31,410102600000.0
+CESC,A,balance,Total Assets,2026-03-31,464701700000.0
+CESC,A,balance,Total Debt,2023-03-31,142628400000.0
+CESC,A,balance,Total Debt,2024-03-31,145436300000.0
+CESC,A,balance,Total Debt,2025-03-31,179780000000.0
+CESC,A,balance,Total Debt,2026-03-31,216705700000.0
+CESC,A,cashflow,Capital Expenditure,2023-03-31,-6955400000.0
+CESC,A,cashflow,Capital Expenditure,2024-03-31,-7711600000.0
+CESC,A,cashflow,Capital Expenditure,2025-03-31,-18631600000.0
+CESC,A,cashflow,Capital Expenditure,2026-03-31,-39162000000.0
+CESC,A,cashflow,Free Cash Flow,2023-03-31,12828100000.0
+CESC,A,cashflow,Free Cash Flow,2024-03-31,15802500000.0
+CESC,A,cashflow,Free Cash Flow,2025-03-31,7182800000.0
+CESC,A,cashflow,Free Cash Flow,2026-03-31,1412900000.0
+CESC,A,cashflow,Operating Cash Flow,2023-03-31,19783500000.0
+CESC,A,cashflow,Operating Cash Flow,2024-03-31,23514100000.0
+CESC,A,cashflow,Operating Cash Flow,2025-03-31,25814400000.0
+CESC,A,cashflow,Operating Cash Flow,2026-03-31,40574900000.0
+CESC,A,income,Basic EPS,2023-03-31,10.13
+CESC,A,income,Basic EPS,2024-03-31,10.38
+CESC,A,income,Basic EPS,2025-03-31,10.33
+CESC,A,income,Basic EPS,2026-03-31,11.63
+CESC,A,income,Diluted EPS,2023-03-31,10.13
+CESC,A,income,Diluted EPS,2024-03-31,10.38
+CESC,A,income,Diluted EPS,2025-03-31,10.33
+CESC,A,income,Diluted EPS,2026-03-31,11.63
+CESC,A,income,EBITDA,2023-03-31,40242100000.0
+CESC,A,income,EBITDA,2024-03-31,44768100000.0
+CESC,A,income,EBITDA,2025-03-31,46210700000.0
+CESC,A,income,EBITDA,2026-03-31,50222000000.0
+CESC,A,income,Interest Expense,2023-03-31,11931600000.0
+CESC,A,income,Interest Expense,2024-03-31,13277500000.0
+CESC,A,income,Interest Expense,2025-03-31,14370200000.0
+CESC,A,income,Interest Expense,2026-03-31,14630100000.0
+CESC,A,income,Net Income,2023-03-31,13428300000.0
+CESC,A,income,Net Income,2024-03-31,13763500000.0
+CESC,A,income,Net Income,2025-03-31,13699300000.0
+CESC,A,income,Net Income,2026-03-31,15419900000.0
+CESC,A,income,Net Income Common Stockholders,2023-03-31,13428300000.0
+CESC,A,income,Net Income Common Stockholders,2024-03-31,13763500000.0
+CESC,A,income,Net Income Common Stockholders,2025-03-31,13699300000.0
+CESC,A,income,Net Income Common Stockholders,2026-03-31,15419900000.0
+CESC,A,income,Operating Income,2023-03-31,14402300000.0
+CESC,A,income,Operating Income,2024-03-31,11038800000.0
+CESC,A,income,Operating Income,2025-03-31,16892500000.0
+CESC,A,income,Operating Income,2026-03-31,24420200000.0
+CESC,A,income,Pretax Income,2023-03-31,17391000000.0
+CESC,A,income,Pretax Income,2024-03-31,16831300000.0
+CESC,A,income,Pretax Income,2025-03-31,17832800000.0
+CESC,A,income,Pretax Income,2026-03-31,21185300000.0
+CESC,A,income,Total Revenue,2023-03-31,142463500000.0
+CESC,A,income,Total Revenue,2024-03-31,152932100000.0
+CESC,A,income,Total Revenue,2025-03-31,170012900000.0
+CESC,A,income,Total Revenue,2026-03-31,185703400000.0
+CESC,Q,income,Basic EPS,2025-09-30,3.23
+CESC,Q,income,Basic EPS,2025-12-31,2.15
+CESC,Q,income,Basic EPS,2026-03-31,3.31
+CESC,Q,income,Basic EPS,2026-06-30,3.03
+CESC,Q,income,Basic EPS,2026-09-30,3.2
+CESC,Q,income,Diluted EPS,2025-09-30,3.23
+CESC,Q,income,Diluted EPS,2025-12-31,2.15
+CESC,Q,income,Diluted EPS,2026-03-31,3.31
+CESC,Q,income,Diluted EPS,2026-06-30,3.03
+CESC,Q,income,Diluted EPS,2026-09-30,3.2
+CESC,Q,income,EBITDA,2025-09-30,12170000000.0
+CESC,Q,income,EBITDA,2025-12-31,10780000000.0
+CESC,Q,income,EBITDA,2026-03-31,13390000000.0
+CESC,Q,income,EBITDA,2026-06-30,11490000000.0
+CESC,Q,income,EBITDA,2026-09-30,12170000000.0
+CESC,Q,income,Interest Expense,2025-06-30,3630000000.0
+CESC,Q,income,Interest Expense,2025-12-31,3850000000.0
+CESC,Q,income,Interest Expense,2026-03-31,3820000000.0
+CESC,Q,income,Interest Expense,2026-06-30,3120000000.0
+CESC,Q,income,Interest Expense,2026-09-30,3350000000.0
+CESC,Q,income,Net Income,2025-09-30,4280000000.0
+CESC,Q,income,Net Income,2025-12-31,2850000000.0
+CESC,Q,income,Net Income,2026-03-31,4390000000.0
+CESC,Q,income,Net Income,2026-06-30,4020000000.0
+CESC,Q,income,Net Income,2026-09-30,4230000000.0
+CESC,Q,income,Net Income Common Stockholders,2025-09-30,4280000000.0
+CESC,Q,income,Net Income Common Stockholders,2025-12-31,2850000000.0
+CESC,Q,income,Net Income Common Stockholders,2026-03-31,4390000000.0
+CESC,Q,income,Net Income Common Stockholders,2026-06-30,4020000000.0
+CESC,Q,income,Net Income Common Stockholders,2026-09-30,4230000000.0
+CESC,Q,income,Operating Income,2025-06-30,5590000000.0
+CESC,Q,income,Operating Income,2025-12-31,9790000000.0
+CESC,Q,income,Operating Income,2026-03-31,9790000000.0
+CESC,Q,income,Operating Income,2026-06-30,6040000000.0
+CESC,Q,income,Operating Income,2026-09-30,7430000000.0
+CESC,Q,income,Pretax Income,2025-09-30,5690000000.0
+CESC,Q,income,Pretax Income,2025-12-31,3850000000.0
+CESC,Q,income,Pretax Income,2026-03-31,6530000000.0
+CESC,Q,income,Pretax Income,2026-06-30,5460000000.0
+CESC,Q,income,Pretax Income,2026-09-30,5860000000.0
+CESC,Q,income,Total Revenue,2025-06-30,52020000000.0
+CESC,Q,income,Total Revenue,2025-12-31,40050000000.0
+CESC,Q,income,Total Revenue,2026-03-31,40960000000.0
+CESC,Q,income,Total Revenue,2026-06-30,54850000000.0
+CESC,Q,income,Total Revenue,2026-09-30,56070000000.0

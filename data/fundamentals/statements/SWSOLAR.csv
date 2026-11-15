@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SWSOLAR,A,balance,Cash And Cash Equivalents,2023-03-31,479000000.0
+SWSOLAR,A,balance,Cash And Cash Equivalents,2024-03-31,2956300000.0
+SWSOLAR,A,balance,Cash And Cash Equivalents,2025-03-31,4403700000.0
+SWSOLAR,A,balance,Cash And Cash Equivalents,2026-03-31,946300000.0
+SWSOLAR,A,balance,Net Debt,2023-03-31,19670500000.0
+SWSOLAR,A,balance,Net Debt,2024-03-31,1810300000.0
+SWSOLAR,A,balance,Net Debt,2025-03-31,4611000000.0
+SWSOLAR,A,balance,Net Debt,2026-03-31,10691600000.0
+SWSOLAR,A,balance,Ordinary Shares Number,2023-03-31,189693333.0
+SWSOLAR,A,balance,Ordinary Shares Number,2024-03-31,233202317.0
+SWSOLAR,A,balance,Ordinary Shares Number,2025-03-31,233494316.0
+SWSOLAR,A,balance,Ordinary Shares Number,2026-03-31,233531720.0
+SWSOLAR,A,balance,Stockholders Equity,2023-03-31,-2250810000.0
+SWSOLAR,A,balance,Stockholders Equity,2024-03-31,9691700000.0
+SWSOLAR,A,balance,Stockholders Equity,2025-03-31,10070600000.0
+SWSOLAR,A,balance,Stockholders Equity,2026-03-31,6497500000.0
+SWSOLAR,A,balance,Total Assets,2023-03-31,31903700000.0
+SWSOLAR,A,balance,Total Assets,2024-03-31,43005100000.0
+SWSOLAR,A,balance,Total Assets,2025-03-31,56300200000.0
+SWSOLAR,A,balance,Total Assets,2026-03-31,53174200000.0
+SWSOLAR,A,balance,Total Debt,2023-03-31,20296100000.0
+SWSOLAR,A,balance,Total Debt,2024-03-31,5156800000.0
+SWSOLAR,A,balance,Total Debt,2025-03-31,9363100000.0
+SWSOLAR,A,balance,Total Debt,2026-03-31,11914300000.0
+SWSOLAR,A,cashflow,Capital Expenditure,2023-03-31,-92400000.0
+SWSOLAR,A,cashflow,Capital Expenditure,2024-03-31,-10100000.0
+SWSOLAR,A,cashflow,Capital Expenditure,2025-03-31,-43500000.0
+SWSOLAR,A,cashflow,Capital Expenditure,2026-03-31,-112200000.0
+SWSOLAR,A,cashflow,Free Cash Flow,2023-03-31,-18384500000.0
+SWSOLAR,A,cashflow,Free Cash Flow,2024-03-31,5373900000.0
+SWSOLAR,A,cashflow,Free Cash Flow,2025-03-31,335300000.0
+SWSOLAR,A,cashflow,Free Cash Flow,2026-03-31,-2685700000.0
+SWSOLAR,A,cashflow,Operating Cash Flow,2023-03-31,-18292100000.0
+SWSOLAR,A,cashflow,Operating Cash Flow,2024-03-31,5384000000.0
+SWSOLAR,A,cashflow,Operating Cash Flow,2025-03-31,378800000.0
+SWSOLAR,A,cashflow,Operating Cash Flow,2026-03-31,-2573500000.0
+SWSOLAR,A,income,Basic EPS,2023-03-31,-61.65
+SWSOLAR,A,income,Basic EPS,2024-03-31,-10.4
+SWSOLAR,A,income,Basic EPS,2025-03-31,3.49
+SWSOLAR,A,income,Basic EPS,2026-03-31,-13.25
+SWSOLAR,A,income,Diluted EPS,2023-03-31,-61.65
+SWSOLAR,A,income,Diluted EPS,2024-03-31,-10.4
+SWSOLAR,A,income,Diluted EPS,2025-03-31,3.49
+SWSOLAR,A,income,Diluted EPS,2026-03-31,-13.25
+SWSOLAR,A,income,EBITDA,2023-03-31,-10435000000.0
+SWSOLAR,A,income,EBITDA,2024-03-31,476400000.0
+SWSOLAR,A,income,EBITDA,2025-03-31,2711700000.0
+SWSOLAR,A,income,EBITDA,2026-03-31,-1156200000.0
+SWSOLAR,A,income,Interest Expense,2023-03-31,1205400000.0
+SWSOLAR,A,income,Interest Expense,2024-03-31,2031500000.0
+SWSOLAR,A,income,Interest Expense,2025-03-31,940500000.0
+SWSOLAR,A,income,Interest Expense,2026-03-31,1430400000.0
+SWSOLAR,A,income,Net Income,2023-03-31,-11695500000.0
+SWSOLAR,A,income,Net Income,2024-03-31,-2119200000.0
+SWSOLAR,A,income,Net Income,2025-03-31,814500000.0
+SWSOLAR,A,income,Net Income,2026-03-31,-3094300000.0
+SWSOLAR,A,income,Net Income Common Stockholders,2023-03-31,-11695500000.0
+SWSOLAR,A,income,Net Income Common Stockholders,2024-03-31,-2119200000.0
+SWSOLAR,A,income,Net Income Common Stockholders,2025-03-31,814500000.0
+SWSOLAR,A,income,Net Income Common Stockholders,2026-03-31,-3094300000.0
+SWSOLAR,A,income,Operating Income,2023-03-31,-10893900000.0
+SWSOLAR,A,income,Operating Income,2024-03-31,-144100000.0
+SWSOLAR,A,income,Operating Income,2025-03-31,2741400000.0
+SWSOLAR,A,income,Operating Income,2026-03-31,3640000000.0
+SWSOLAR,A,income,Pretax Income,2023-03-31,-11787400000.0
+SWSOLAR,A,income,Pretax Income,2024-03-31,-1723200000.0
+SWSOLAR,A,income,Pretax Income,2025-03-31,1625400000.0
+SWSOLAR,A,income,Pretax Income,2026-03-31,-2702400000.0
+SWSOLAR,A,income,Total Revenue,2023-03-31,20133600000.0
+SWSOLAR,A,income,Total Revenue,2024-03-31,30351100000.0
+SWSOLAR,A,income,Total Revenue,2025-03-31,63000900000.0
+SWSOLAR,A,income,Total Revenue,2026-03-31,75458100000.0
+SWSOLAR,Q,income,Basic EPS,2025-06-30,1.37
+SWSOLAR,Q,income,Basic EPS,2025-12-31,-0.12
+SWSOLAR,Q,income,Basic EPS,2026-03-31,5.76
+SWSOLAR,Q,income,Basic EPS,2026-06-30,2.32
+SWSOLAR,Q,income,Basic EPS,2026-09-30,0.82
+SWSOLAR,Q,income,Diluted EPS,2025-06-30,1.37
+SWSOLAR,Q,income,Diluted EPS,2025-12-31,-0.12
+SWSOLAR,Q,income,Diluted EPS,2026-03-31,5.76
+SWSOLAR,Q,income,Diluted EPS,2026-06-30,2.32
+SWSOLAR,Q,income,Diluted EPS,2026-09-30,0.82
+SWSOLAR,Q,income,EBITDA,2025-06-30,1065700000.0
+SWSOLAR,Q,income,EBITDA,2025-12-31,546900000.0
+SWSOLAR,Q,income,EBITDA,2026-03-31,1986900000.0
+SWSOLAR,Q,income,EBITDA,2026-06-30,988800000.0
+SWSOLAR,Q,income,EBITDA,2026-09-30,703200000.0
+SWSOLAR,Q,income,Interest Expense,2025-06-30,290900000.0
+SWSOLAR,Q,income,Interest Expense,2025-12-31,474400000.0
+SWSOLAR,Q,income,Interest Expense,2026-03-31,417000000.0
+SWSOLAR,Q,income,Interest Expense,2026-06-30,389200000.0
+SWSOLAR,Q,income,Interest Expense,2026-09-30,498000000.0
+SWSOLAR,Q,income,Net Income,2025-06-30,319700000.0
+SWSOLAR,Q,income,Net Income,2025-12-31,-27700000.0
+SWSOLAR,Q,income,Net Income,2026-03-31,1345700000.0
+SWSOLAR,Q,income,Net Income,2026-06-30,542200000.0
+SWSOLAR,Q,income,Net Income,2026-09-30,192300000.0
+SWSOLAR,Q,income,Net Income Common Stockholders,2025-06-30,319700000.0
+SWSOLAR,Q,income,Net Income Common Stockholders,2025-12-31,-27700000.0
+SWSOLAR,Q,income,Net Income Common Stockholders,2026-03-31,1345700000.0
+SWSOLAR,Q,income,Net Income Common Stockholders,2026-06-30,542200000.0
+SWSOLAR,Q,income,Net Income Common Stockholders,2026-09-30,192300000.0
+SWSOLAR,Q,income,Operating Income,2025-06-30,826500000.0
+SWSOLAR,Q,income,Operating Income,2025-12-31,640900000.0
+SWSOLAR,Q,income,Operating Income,2026-03-31,1428800000.0
+SWSOLAR,Q,income,Operating Income,2026-06-30,753900000.0
+SWSOLAR,Q,income,Operating Income,2026-09-30,524100000.0
+SWSOLAR,Q,income,Pretax Income,2025-06-30,746700000.0
+SWSOLAR,Q,income,Pretax Income,2025-12-31,43900000.0
+SWSOLAR,Q,income,Pretax Income,2026-03-31,1541100000.0
+SWSOLAR,Q,income,Pretax Income,2026-06-30,566500000.0
+SWSOLAR,Q,income,Pretax Income,2026-09-30,168300000.0
+SWSOLAR,Q,income,Total Revenue,2025-06-30,17616300000.0
+SWSOLAR,Q,income,Total Revenue,2025-12-31,20922100000.0
+SWSOLAR,Q,income,Total Revenue,2026-03-31,19456100000.0
+SWSOLAR,Q,income,Total Revenue,2026-06-30,15901300000.0
+SWSOLAR,Q,income,Total Revenue,2026-09-30,15275000000.0

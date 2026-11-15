@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+IRCON,A,balance,Cash And Cash Equivalents,2023-03-31,23381100000.0
+IRCON,A,balance,Cash And Cash Equivalents,2024-03-31,20640600000.0
+IRCON,A,balance,Cash And Cash Equivalents,2025-03-31,22188700000.0
+IRCON,A,balance,Cash And Cash Equivalents,2026-03-31,21197200000.0
+IRCON,A,balance,Net Debt,2022-03-31,1412400000.0
+IRCON,A,balance,Net Debt,2024-03-31,5031000000.0
+IRCON,A,balance,Net Debt,2025-03-31,20454500000.0
+IRCON,A,balance,Net Debt,2026-03-31,35439100000.0
+IRCON,A,balance,Ordinary Shares Number,2023-03-31,940515740.0
+IRCON,A,balance,Ordinary Shares Number,2024-03-31,940515740.0
+IRCON,A,balance,Ordinary Shares Number,2025-03-31,940515740.0
+IRCON,A,balance,Ordinary Shares Number,2026-03-31,940515740.0
+IRCON,A,balance,Stockholders Equity,2023-03-31,52114900000.0
+IRCON,A,balance,Stockholders Equity,2024-03-31,58133500000.0
+IRCON,A,balance,Stockholders Equity,2025-03-31,62687800000.0
+IRCON,A,balance,Stockholders Equity,2026-03-31,66386400000.0
+IRCON,A,balance,Total Assets,2023-03-31,155373800000.0
+IRCON,A,balance,Total Assets,2024-03-31,173945800000.0
+IRCON,A,balance,Total Assets,2025-03-31,194637100000.0
+IRCON,A,balance,Total Assets,2026-03-31,213066800000.0
+IRCON,A,balance,Total Debt,2023-03-31,15251200000.0
+IRCON,A,balance,Total Debt,2024-03-31,25823300000.0
+IRCON,A,balance,Total Debt,2025-03-31,43067700000.0
+IRCON,A,balance,Total Debt,2026-03-31,57311900000.0
+IRCON,A,cashflow,Capital Expenditure,2023-03-31,-997600000.0
+IRCON,A,cashflow,Capital Expenditure,2024-03-31,-8483000000.0
+IRCON,A,cashflow,Capital Expenditure,2025-03-31,-10520700000.0
+IRCON,A,cashflow,Capital Expenditure,2026-03-31,-5331700000.0
+IRCON,A,cashflow,Free Cash Flow,2023-03-31,-3776800000.0
+IRCON,A,cashflow,Free Cash Flow,2024-03-31,-9268500000.0
+IRCON,A,cashflow,Free Cash Flow,2025-03-31,-21616000000.0
+IRCON,A,cashflow,Free Cash Flow,2026-03-31,-11507500000.0
+IRCON,A,cashflow,Operating Cash Flow,2023-03-31,-2779200000.0
+IRCON,A,cashflow,Operating Cash Flow,2024-03-31,-785500000.0
+IRCON,A,cashflow,Operating Cash Flow,2025-03-31,-11095300000.0
+IRCON,A,cashflow,Operating Cash Flow,2026-03-31,-6175800000.0
+IRCON,A,income,Basic EPS,2023-03-31,8.14
+IRCON,A,income,Basic EPS,2024-03-31,9.88
+IRCON,A,income,Basic EPS,2025-03-31,7.73
+IRCON,A,income,Basic EPS,2026-03-31,6.33
+IRCON,A,income,Diluted EPS,2023-03-31,8.14
+IRCON,A,income,Diluted EPS,2024-03-31,9.88
+IRCON,A,income,Diluted EPS,2025-03-31,7.73
+IRCON,A,income,Diluted EPS,2026-03-31,6.33
+IRCON,A,income,EBITDA,2023-03-31,12977000000.0
+IRCON,A,income,EBITDA,2024-03-31,16114000000.0
+IRCON,A,income,EBITDA,2025-03-31,13210700000.0
+IRCON,A,income,EBITDA,2026-03-31,13169600000.0
+IRCON,A,income,Interest Expense,2023-03-31,2996600000.0
+IRCON,A,income,Interest Expense,2024-03-31,2498400000.0
+IRCON,A,income,Interest Expense,2025-03-31,2641700000.0
+IRCON,A,income,Interest Expense,2026-03-31,3896300000.0
+IRCON,A,income,Net Income,2023-03-31,7652300000.0
+IRCON,A,income,Net Income,2024-03-31,9295700000.0
+IRCON,A,income,Net Income,2025-03-31,7274100000.0
+IRCON,A,income,Net Income,2026-03-31,5954700000.0
+IRCON,A,income,Net Income Common Stockholders,2023-03-31,7652300000.0
+IRCON,A,income,Net Income Common Stockholders,2024-03-31,9295700000.0
+IRCON,A,income,Net Income Common Stockholders,2025-03-31,7274100000.0
+IRCON,A,income,Net Income Common Stockholders,2026-03-31,5954700000.0
+IRCON,A,income,Operating Income,2023-03-31,5965900000.0
+IRCON,A,income,Operating Income,2024-03-31,10351400000.0
+IRCON,A,income,Operating Income,2025-03-31,7294500000.0
+IRCON,A,income,Operating Income,2026-03-31,6073200000.0
+IRCON,A,income,Pretax Income,2023-03-31,8910000000.0
+IRCON,A,income,Pretax Income,2024-03-31,12611300000.0
+IRCON,A,income,Pretax Income,2025-03-31,9390200000.0
+IRCON,A,income,Pretax Income,2026-03-31,7665000000.0
+IRCON,A,income,Total Revenue,2023-03-31,103472800000.0
+IRCON,A,income,Total Revenue,2024-03-31,123011000000.0
+IRCON,A,income,Total Revenue,2025-03-31,105398000000.0
+IRCON,A,income,Total Revenue,2026-03-31,88648800000.0
+IRCON,Q,income,Basic EPS,2025-09-30,1.47
+IRCON,Q,income,Basic EPS,2025-12-31,1.07
+IRCON,Q,income,Basic EPS,2026-03-31,2.04
+IRCON,Q,income,Basic EPS,2026-06-30,1.99
+IRCON,Q,income,Basic EPS,2026-09-30,0.99
+IRCON,Q,income,Diluted EPS,2025-09-30,1.47
+IRCON,Q,income,Diluted EPS,2025-12-31,1.07
+IRCON,Q,income,Diluted EPS,2026-03-31,2.04
+IRCON,Q,income,Diluted EPS,2026-06-30,1.99
+IRCON,Q,income,Diluted EPS,2026-09-30,0.99
+IRCON,Q,income,EBITDA,2025-09-30,2970000000.0
+IRCON,Q,income,EBITDA,2025-12-31,2692900000.0
+IRCON,Q,income,EBITDA,2026-03-31,3891500000.0
+IRCON,Q,income,EBITDA,2026-06-30,2786800000.0
+IRCON,Q,income,EBITDA,2026-09-30,3194600000.0
+IRCON,Q,income,Interest Expense,2025-09-30,845400000.0
+IRCON,Q,income,Interest Expense,2025-12-31,930200000.0
+IRCON,Q,income,Interest Expense,2026-03-31,973400000.0
+IRCON,Q,income,Interest Expense,2026-06-30,1069800000.0
+IRCON,Q,income,Interest Expense,2026-09-30,1141400000.0
+IRCON,Q,income,Net Income,2025-09-30,1386500000.0
+IRCON,Q,income,Net Income,2025-12-31,1006600000.0
+IRCON,Q,income,Net Income,2026-03-31,1916000000.0
+IRCON,Q,income,Net Income,2026-06-30,927400000.0
+IRCON,Q,income,Net Income,2026-09-30,1028700000.0
+IRCON,Q,income,Net Income Common Stockholders,2025-09-30,1386500000.0
+IRCON,Q,income,Net Income Common Stockholders,2025-12-31,1006600000.0
+IRCON,Q,income,Net Income Common Stockholders,2026-03-31,1916000000.0
+IRCON,Q,income,Net Income Common Stockholders,2026-06-30,927400000.0
+IRCON,Q,income,Net Income Common Stockholders,2026-09-30,1028700000.0
+IRCON,Q,income,Operating Income,2025-09-30,1011700000.0
+IRCON,Q,income,Operating Income,2025-12-31,1162100000.0
+IRCON,Q,income,Operating Income,2026-03-31,2229100000.0
+IRCON,Q,income,Operating Income,2026-06-30,1602500000.0
+IRCON,Q,income,Operating Income,2026-09-30,1928500000.0
+IRCON,Q,income,Pretax Income,2025-09-30,1724500000.0
+IRCON,Q,income,Pretax Income,2025-12-31,1346900000.0
+IRCON,Q,income,Pretax Income,2026-03-31,2478300000.0
+IRCON,Q,income,Pretax Income,2026-06-30,1268100000.0
+IRCON,Q,income,Pretax Income,2026-09-30,1595900000.0
+IRCON,Q,income,Total Revenue,2025-09-30,19767500000.0
+IRCON,Q,income,Total Revenue,2025-12-31,21190400000.0
+IRCON,Q,income,Total Revenue,2026-03-31,31889800000.0
+IRCON,Q,income,Total Revenue,2026-06-30,19558300000.0
+IRCON,Q,income,Total Revenue,2026-09-30,22716600000.0

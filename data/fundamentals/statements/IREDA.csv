@@ -1,0 +1,113 @@
+symbol,freq,statement,item,period_end,value
+IREDA,A,balance,Cash And Cash Equivalents,2023-03-31,1384500000.0
+IREDA,A,balance,Cash And Cash Equivalents,2024-03-31,742100000.0
+IREDA,A,balance,Cash And Cash Equivalents,2025-03-31,572900000.0
+IREDA,A,balance,Cash And Cash Equivalents,2026-03-31,476900000.0
+IREDA,A,balance,Net Debt,2023-03-31,400268299000.0
+IREDA,A,balance,Net Debt,2024-03-31,496126700000.0
+IREDA,A,balance,Net Debt,2025-03-31,646971000000.0
+IREDA,A,balance,Net Debt,2026-03-31,778103100000.0
+IREDA,A,balance,Ordinary Shares Number,2023-03-31,2687764706.0
+IREDA,A,balance,Ordinary Shares Number,2024-03-31,2687764706.0
+IREDA,A,balance,Ordinary Shares Number,2025-03-31,2687764706.0
+IREDA,A,balance,Ordinary Shares Number,2026-03-31,2809231268.0
+IREDA,A,balance,Stockholders Equity,2023-03-31,59351694000.0
+IREDA,A,balance,Stockholders Equity,2024-03-31,85594200000.0
+IREDA,A,balance,Stockholders Equity,2025-03-31,102665400000.0
+IREDA,A,balance,Stockholders Equity,2026-03-31,137854200000.0
+IREDA,A,balance,Total Assets,2023-03-31,504470009000.0
+IREDA,A,balance,Total Assets,2024-03-31,626004500000.0
+IREDA,A,balance,Total Assets,2025-03-31,768673900000.0
+IREDA,A,balance,Total Assets,2026-03-31,938078700000.0
+IREDA,A,balance,Total Debt,2023-03-31,401652799000.0
+IREDA,A,balance,Total Debt,2024-03-31,496868800000.0
+IREDA,A,balance,Total Debt,2025-03-31,647582900000.0
+IREDA,A,balance,Total Debt,2026-03-31,778629900000.0
+IREDA,A,cashflow,Capital Expenditure,2023-03-31,-173072000.0
+IREDA,A,cashflow,Capital Expenditure,2024-03-31,-233100000.0
+IREDA,A,cashflow,Capital Expenditure,2025-03-31,-275800000.0
+IREDA,A,cashflow,Capital Expenditure,2026-03-31,-154300000.0
+IREDA,A,cashflow,Free Cash Flow,2023-03-31,-123604661000.0
+IREDA,A,cashflow,Free Cash Flow,2024-03-31,-111229500000.0
+IREDA,A,cashflow,Free Cash Flow,2025-03-31,-144872600000.0
+IREDA,A,cashflow,Free Cash Flow,2026-03-31,-144920100000.0
+IREDA,A,cashflow,Operating Cash Flow,2023-03-31,-123431589000.0
+IREDA,A,cashflow,Operating Cash Flow,2024-03-31,-110996400000.0
+IREDA,A,cashflow,Operating Cash Flow,2025-03-31,-144596800000.0
+IREDA,A,cashflow,Operating Cash Flow,2026-03-31,-144765800000.0
+IREDA,A,income,Basic EPS,2023-03-31,3.216905
+IREDA,A,income,Basic EPS,2024-03-31,5.16
+IREDA,A,income,Basic EPS,2025-03-31,6.32
+IREDA,A,income,Basic EPS,2026-03-31,6.73
+IREDA,A,income,Diluted EPS,2023-03-31,3.216905
+IREDA,A,income,Diluted EPS,2024-03-31,5.16
+IREDA,A,income,Diluted EPS,2025-03-31,6.32
+IREDA,A,income,Diluted EPS,2026-03-31,6.73
+IREDA,A,income,EBITDA,2023-03-31,20606193000.0
+IREDA,A,income,EBITDA,2024-03-31,28513200000.0
+IREDA,A,income,EBITDA,2025-03-31,40387900000.0
+IREDA,A,income,EBITDA,2026-03-31,49263000000.0
+IREDA,A,income,Interest Expense,2023-03-31,8978717000.0
+IREDA,A,income,Interest Expense,2024-03-31,11357200000.0
+IREDA,A,income,Interest Expense,2025-03-31,18963800000.0
+IREDA,A,income,Interest Expense,2026-03-31,25448300000.0
+IREDA,A,income,Net Income,2023-03-31,8646283000.0
+IREDA,A,income,Net Income,2024-03-31,12522400000.0
+IREDA,A,income,Net Income,2025-03-31,16983400000.0
+IREDA,A,income,Net Income,2026-03-31,18740000000.0
+IREDA,A,income,Net Income Common Stockholders,2023-03-31,8646283000.0
+IREDA,A,income,Net Income Common Stockholders,2024-03-31,12522400000.0
+IREDA,A,income,Net Income Common Stockholders,2025-03-31,16983400000.0
+IREDA,A,income,Net Income Common Stockholders,2026-03-31,18740000000.0
+IREDA,A,income,Operating Income,2023-03-31,19956841000.0
+IREDA,A,income,Operating Income,2024-03-31,26106700000.0
+IREDA,A,income,Operating Income,2025-03-31,41558800000.0
+IREDA,A,income,Operating Income,2026-03-31,55040500000.0
+IREDA,A,income,Pretax Income,2023-03-31,11392492000.0
+IREDA,A,income,Pretax Income,2024-03-31,16852500000.0
+IREDA,A,income,Pretax Income,2025-03-31,21035400000.0
+IREDA,A,income,Pretax Income,2026-03-31,23375800000.0
+IREDA,A,income,Total Revenue,2023-03-31,33428679000.0
+IREDA,A,income,Total Revenue,2024-03-31,48381000000.0
+IREDA,A,income,Total Revenue,2025-03-31,66175400000.0
+IREDA,A,income,Total Revenue,2026-03-31,81255200000.0
+IREDA,Q,income,Basic EPS,2025-06-30,0.91
+IREDA,Q,income,Basic EPS,2025-12-31,2.09
+IREDA,Q,income,Basic EPS,2026-03-31,1.76
+IREDA,Q,income,Basic EPS,2026-06-30,1.21
+IREDA,Q,income,Basic EPS,2026-09-30,1.97
+IREDA,Q,income,Diluted EPS,2025-06-30,0.91
+IREDA,Q,income,Diluted EPS,2025-12-31,2.09
+IREDA,Q,income,Diluted EPS,2026-03-31,1.76
+IREDA,Q,income,Diluted EPS,2026-06-30,1.21
+IREDA,Q,income,Diluted EPS,2026-09-30,1.97
+IREDA,Q,income,EBITDA,2025-06-30,6719500000.0
+IREDA,Q,income,EBITDA,2025-12-31,8274000000.0
+IREDA,Q,income,EBITDA,2026-03-31,8606000000.0
+IREDA,Q,income,EBITDA,2026-06-30,8450400000.0
+IREDA,Q,income,EBITDA,2026-09-30,9020300000.0
+IREDA,Q,income,Net Income,2025-06-30,2468800000.0
+IREDA,Q,income,Net Income,2025-12-31,5851600000.0
+IREDA,Q,income,Net Income,2026-03-31,4926300000.0
+IREDA,Q,income,Net Income,2026-06-30,3385300000.0
+IREDA,Q,income,Net Income,2026-09-30,5521400000.0
+IREDA,Q,income,Net Income Common Stockholders,2025-06-30,2468800000.0
+IREDA,Q,income,Net Income Common Stockholders,2025-12-31,5851600000.0
+IREDA,Q,income,Net Income Common Stockholders,2026-03-31,4926300000.0
+IREDA,Q,income,Net Income Common Stockholders,2026-06-30,3385300000.0
+IREDA,Q,income,Net Income Common Stockholders,2026-09-30,5521400000.0
+IREDA,Q,income,Operating Income,2025-06-30,6619900000.0
+IREDA,Q,income,Operating Income,2025-12-31,8164500000.0
+IREDA,Q,income,Operating Income,2026-03-31,8480600000.0
+IREDA,Q,income,Operating Income,2026-06-30,8351000000.0
+IREDA,Q,income,Operating Income,2026-09-30,8917400000.0
+IREDA,Q,income,Pretax Income,2025-06-30,3048400000.0
+IREDA,Q,income,Pretax Income,2025-12-31,7172000000.0
+IREDA,Q,income,Pretax Income,2026-03-31,6191400000.0
+IREDA,Q,income,Pretax Income,2026-06-30,4137500000.0
+IREDA,Q,income,Pretax Income,2026-09-30,7044500000.0
+IREDA,Q,income,Total Revenue,2025-06-30,19244400000.0
+IREDA,Q,income,Total Revenue,2025-12-31,21213800000.0
+IREDA,Q,income,Total Revenue,2026-03-31,21508500000.0
+IREDA,Q,income,Total Revenue,2026-06-30,22362600000.0
+IREDA,Q,income,Total Revenue,2026-09-30,23304900000.0

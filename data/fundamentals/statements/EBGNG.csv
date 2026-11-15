@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+EBGNG,A,balance,Cash And Cash Equivalents,2023-03-31,20600000.0
+EBGNG,A,balance,Cash And Cash Equivalents,2024-03-31,49920000.0
+EBGNG,A,balance,Cash And Cash Equivalents,2025-03-31,50510000.0
+EBGNG,A,balance,Cash And Cash Equivalents,2026-03-31,689030000.0
+EBGNG,A,balance,Net Debt,2023-03-31,1499620000.0
+EBGNG,A,balance,Net Debt,2024-03-31,3173400000.0
+EBGNG,A,balance,Net Debt,2025-03-31,4418700000.0
+EBGNG,A,balance,Net Debt,2026-03-31,3482250000.0
+EBGNG,A,balance,Ordinary Shares Number,2023-03-31,114011517.0
+EBGNG,A,balance,Ordinary Shares Number,2024-03-31,114011517.0
+EBGNG,A,balance,Ordinary Shares Number,2025-03-31,114011517.0
+EBGNG,A,balance,Ordinary Shares Number,2026-03-31,114011517.0
+EBGNG,A,balance,Stockholders Equity,2023-03-31,1115950000.0
+EBGNG,A,balance,Stockholders Equity,2024-03-31,1631410000.0
+EBGNG,A,balance,Stockholders Equity,2025-03-31,2264550000.0
+EBGNG,A,balance,Stockholders Equity,2026-03-31,7577880000.0
+EBGNG,A,balance,Total Assets,2023-03-31,2855020000.0
+EBGNG,A,balance,Total Assets,2024-03-31,5858240000.0
+EBGNG,A,balance,Total Assets,2025-03-31,7194610000.0
+EBGNG,A,balance,Total Assets,2026-03-31,12539820000.0
+EBGNG,A,balance,Total Debt,2023-03-31,1603860000.0
+EBGNG,A,balance,Total Debt,2024-03-31,3317600000.0
+EBGNG,A,balance,Total Debt,2025-03-31,4537890000.0
+EBGNG,A,balance,Total Debt,2026-03-31,4445220000.0
+EBGNG,A,cashflow,Capital Expenditure,2023-03-31,-23180000.0
+EBGNG,A,cashflow,Capital Expenditure,2024-03-31,-240280000.0
+EBGNG,A,cashflow,Capital Expenditure,2025-03-31,-99910000.0
+EBGNG,A,cashflow,Capital Expenditure,2026-03-31,-228500000.0
+EBGNG,A,cashflow,Free Cash Flow,2023-03-31,226410000.0
+EBGNG,A,cashflow,Free Cash Flow,2024-03-31,734290000.0
+EBGNG,A,cashflow,Free Cash Flow,2025-03-31,-1238320000.0
+EBGNG,A,cashflow,Free Cash Flow,2026-03-31,-2381520000.0
+EBGNG,A,cashflow,Operating Cash Flow,2023-03-31,249590000.0
+EBGNG,A,cashflow,Operating Cash Flow,2024-03-31,974570000.0
+EBGNG,A,cashflow,Operating Cash Flow,2025-03-31,-1138410000.0
+EBGNG,A,cashflow,Operating Cash Flow,2026-03-31,-2153020000.0
+EBGNG,A,income,Basic EPS,2023-03-31,2.835503
+EBGNG,A,income,Basic EPS,2024-03-31,4.573047
+EBGNG,A,income,Basic EPS,2025-03-31,6.037197
+EBGNG,A,income,Basic EPS,2026-03-31,12.13726
+EBGNG,A,income,Diluted EPS,2023-03-31,2.835503
+EBGNG,A,income,Diluted EPS,2024-03-31,4.573047
+EBGNG,A,income,Diluted EPS,2025-03-31,6.037197
+EBGNG,A,income,Diluted EPS,2026-03-31,12.13726
+EBGNG,A,income,EBITDA,2023-03-31,469900000.0
+EBGNG,A,income,EBITDA,2024-03-31,797890000.0
+EBGNG,A,income,EBITDA,2025-03-31,1244770000.0
+EBGNG,A,income,EBITDA,2026-03-31,1987370000.0
+EBGNG,A,income,Interest Expense,2023-03-31,87910000.0
+EBGNG,A,income,Interest Expense,2024-03-31,188120000.0
+EBGNG,A,income,Interest Expense,2025-03-31,366830000.0
+EBGNG,A,income,Interest Expense,2026-03-31,406430000.0
+EBGNG,A,income,Net Income,2023-03-31,323280000.0
+EBGNG,A,income,Net Income,2024-03-31,521380000.0
+EBGNG,A,income,Net Income,2025-03-31,688310000.0
+EBGNG,A,income,Net Income,2026-03-31,1316440000.0
+EBGNG,A,income,Net Income Common Stockholders,2023-03-31,323280000.0
+EBGNG,A,income,Net Income Common Stockholders,2024-03-31,521380000.0
+EBGNG,A,income,Net Income Common Stockholders,2025-03-31,688310000.0
+EBGNG,A,income,Net Income Common Stockholders,2026-03-31,1316440000.0
+EBGNG,A,income,Operating Income,2023-03-31,440960000.0
+EBGNG,A,income,Operating Income,2024-03-31,763090000.0
+EBGNG,A,income,Operating Income,2025-03-31,1090330000.0
+EBGNG,A,income,Operating Income,2026-03-31,1865290000.0
+EBGNG,A,income,Pretax Income,2023-03-31,354190000.0
+EBGNG,A,income,Pretax Income,2024-03-31,573230000.0
+EBGNG,A,income,Pretax Income,2025-03-31,783430000.0
+EBGNG,A,income,Pretax Income,2026-03-31,1477420000.0
+EBGNG,A,income,Total Revenue,2023-03-31,6452190000.0
+EBGNG,A,income,Total Revenue,2024-03-31,11275750000.0
+EBGNG,A,income,Total Revenue,2025-03-31,14111110000.0
+EBGNG,A,income,Total Revenue,2026-03-31,18910750000.0
+EBGNG,Q,income,Basic EPS,2025-09-30,2.86
+EBGNG,Q,income,Basic EPS,2025-12-31,3.34
+EBGNG,Q,income,Basic EPS,2026-03-31,3.7
+EBGNG,Q,income,Basic EPS,2026-06-30,2.54
+EBGNG,Q,income,Basic EPS,2026-09-30,4.94
+EBGNG,Q,income,Diluted EPS,2025-09-30,2.86
+EBGNG,Q,income,Diluted EPS,2025-12-31,3.34
+EBGNG,Q,income,Diluted EPS,2026-03-31,3.7
+EBGNG,Q,income,Diluted EPS,2026-06-30,2.54
+EBGNG,Q,income,Diluted EPS,2026-09-30,4.94
+EBGNG,Q,income,EBITDA,2025-09-30,467810000.0
+EBGNG,Q,income,EBITDA,2025-12-31,545770000.0
+EBGNG,Q,income,EBITDA,2026-03-31,639790000.0
+EBGNG,Q,income,EBITDA,2026-06-30,528780000.0
+EBGNG,Q,income,EBITDA,2026-09-30,938960000.0
+EBGNG,Q,income,Interest Expense,2025-09-30,84380000.0
+EBGNG,Q,income,Interest Expense,2025-12-31,89600000.0
+EBGNG,Q,income,Interest Expense,2026-03-31,143560000.0
+EBGNG,Q,income,Interest Expense,2026-06-30,138570000.0
+EBGNG,Q,income,Interest Expense,2026-09-30,220360000.0
+EBGNG,Q,income,Net Income,2025-09-30,326610000.0
+EBGNG,Q,income,Net Income,2025-12-31,386870000.0
+EBGNG,Q,income,Net Income,2026-03-31,421480000.0
+EBGNG,Q,income,Net Income,2026-06-30,289300000.0
+EBGNG,Q,income,Net Income,2026-09-30,563510000.0
+EBGNG,Q,income,Net Income Common Stockholders,2025-09-30,326610000.0
+EBGNG,Q,income,Net Income Common Stockholders,2025-12-31,386870000.0
+EBGNG,Q,income,Net Income Common Stockholders,2026-03-31,421480000.0
+EBGNG,Q,income,Net Income Common Stockholders,2026-06-30,289300000.0
+EBGNG,Q,income,Net Income Common Stockholders,2026-09-30,563510000.0
+EBGNG,Q,income,Operating Income,2025-09-30,443160000.0
+EBGNG,Q,income,Operating Income,2025-12-31,511230000.0
+EBGNG,Q,income,Operating Income,2026-03-31,601090000.0
+EBGNG,Q,income,Operating Income,2026-06-30,460880000.0
+EBGNG,Q,income,Operating Income,2026-09-30,893350000.0
+EBGNG,Q,income,Pretax Income,2025-09-30,361190000.0
+EBGNG,Q,income,Pretax Income,2025-12-31,427740000.0
+EBGNG,Q,income,Pretax Income,2026-03-31,463780000.0
+EBGNG,Q,income,Pretax Income,2026-06-30,357410000.0
+EBGNG,Q,income,Pretax Income,2026-09-30,680800000.0
+EBGNG,Q,income,Total Revenue,2025-09-30,4399180000.0
+EBGNG,Q,income,Total Revenue,2025-12-31,4872230000.0
+EBGNG,Q,income,Total Revenue,2026-03-31,6516550000.0
+EBGNG,Q,income,Total Revenue,2026-06-30,4124610000.0
+EBGNG,Q,income,Total Revenue,2026-09-30,6248110000.0

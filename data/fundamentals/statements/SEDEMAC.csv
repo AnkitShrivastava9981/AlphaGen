@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SEDEMAC,A,balance,Cash And Cash Equivalents,2023-03-31,32150000.0
+SEDEMAC,A,balance,Cash And Cash Equivalents,2024-03-31,35110000.0
+SEDEMAC,A,balance,Cash And Cash Equivalents,2025-03-31,20900000.0
+SEDEMAC,A,balance,Cash And Cash Equivalents,2026-03-31,73400000.0
+SEDEMAC,A,balance,Net Debt,2023-03-31,769920000.0
+SEDEMAC,A,balance,Net Debt,2024-03-31,922070000.0
+SEDEMAC,A,balance,Net Debt,2025-03-31,475300000.0
+SEDEMAC,A,balance,Net Debt,2026-03-31,432900000.0
+SEDEMAC,A,balance,Ordinary Shares Number,2023-03-31,44161500.0
+SEDEMAC,A,balance,Ordinary Shares Number,2024-03-31,44161500.0
+SEDEMAC,A,balance,Ordinary Shares Number,2025-03-31,44161500.0
+SEDEMAC,A,balance,Ordinary Shares Number,2026-03-31,44161500.0
+SEDEMAC,A,balance,Stockholders Equity,2023-03-31,1150250000.0
+SEDEMAC,A,balance,Stockholders Equity,2024-03-31,1241220000.0
+SEDEMAC,A,balance,Stockholders Equity,2025-03-31,3033800000.0
+SEDEMAC,A,balance,Stockholders Equity,2026-03-31,4492000000.0
+SEDEMAC,A,balance,Total Assets,2023-03-31,3312750000.0
+SEDEMAC,A,balance,Total Assets,2024-03-31,4022410000.0
+SEDEMAC,A,balance,Total Assets,2025-03-31,4911600000.0
+SEDEMAC,A,balance,Total Assets,2026-03-31,8137000000.0
+SEDEMAC,A,balance,Total Debt,2023-03-31,1043560000.0
+SEDEMAC,A,balance,Total Debt,2024-03-31,1151540000.0
+SEDEMAC,A,balance,Total Debt,2025-03-31,643500000.0
+SEDEMAC,A,balance,Total Debt,2026-03-31,724400000.0
+SEDEMAC,A,cashflow,Capital Expenditure,2023-03-31,-558620000.0
+SEDEMAC,A,cashflow,Capital Expenditure,2024-03-31,-665080000.0
+SEDEMAC,A,cashflow,Capital Expenditure,2025-03-31,-856200000.0
+SEDEMAC,A,cashflow,Capital Expenditure,2026-03-31,-1754900000.0
+SEDEMAC,A,cashflow,Free Cash Flow,2023-03-31,218120000.0
+SEDEMAC,A,cashflow,Free Cash Flow,2024-03-31,-57590000.0
+SEDEMAC,A,cashflow,Free Cash Flow,2025-03-31,52900000.0
+SEDEMAC,A,cashflow,Free Cash Flow,2026-03-31,-474700000.0
+SEDEMAC,A,cashflow,Operating Cash Flow,2023-03-31,776740000.0
+SEDEMAC,A,cashflow,Operating Cash Flow,2024-03-31,607490000.0
+SEDEMAC,A,cashflow,Operating Cash Flow,2025-03-31,909100000.0
+SEDEMAC,A,cashflow,Operating Cash Flow,2026-03-31,1280200000.0
+SEDEMAC,A,income,Basic EPS,2023-03-31,1.941284
+SEDEMAC,A,income,Basic EPS,2024-03-31,1.331024
+SEDEMAC,A,income,Basic EPS,2025-03-31,10.654077
+SEDEMAC,A,income,Basic EPS,2026-03-31,23.91
+SEDEMAC,A,income,Diluted EPS,2023-03-31,1.941284
+SEDEMAC,A,income,Diluted EPS,2024-03-31,1.331024
+SEDEMAC,A,income,Diluted EPS,2025-03-31,10.654077
+SEDEMAC,A,income,Diluted EPS,2026-03-31,23.52
+SEDEMAC,A,income,EBITDA,2023-03-31,542400000.0
+SEDEMAC,A,income,EBITDA,2024-03-31,831240000.0
+SEDEMAC,A,income,EBITDA,2025-03-31,1250600000.0
+SEDEMAC,A,income,EBITDA,2026-03-31,2222000000.0
+SEDEMAC,A,income,Interest Expense,2023-03-31,160440000.0
+SEDEMAC,A,income,Interest Expense,2024-03-31,384480000.0
+SEDEMAC,A,income,Interest Expense,2025-03-31,120300000.0
+SEDEMAC,A,income,Interest Expense,2026-03-31,85300000.0
+SEDEMAC,A,income,Net Income,2023-03-31,85730000.0
+SEDEMAC,A,income,Net Income,2024-03-31,58780000.0
+SEDEMAC,A,income,Net Income,2025-03-31,470500000.0
+SEDEMAC,A,income,Net Income,2026-03-31,1035800000.0
+SEDEMAC,A,income,Net Income Common Stockholders,2023-03-31,85730000.0
+SEDEMAC,A,income,Net Income Common Stockholders,2024-03-31,58780000.0
+SEDEMAC,A,income,Net Income Common Stockholders,2025-03-31,470500000.0
+SEDEMAC,A,income,Net Income Common Stockholders,2026-03-31,1035800000.0
+SEDEMAC,A,income,Operating Income,2023-03-31,253400000.0
+SEDEMAC,A,income,Operating Income,2024-03-31,455000000.0
+SEDEMAC,A,income,Operating Income,2025-03-31,826500000.0
+SEDEMAC,A,income,Operating Income,2026-03-31,1643100000.0
+SEDEMAC,A,income,Pretax Income,2023-03-31,80070000.0
+SEDEMAC,A,income,Pretax Income,2024-03-31,88130000.0
+SEDEMAC,A,income,Pretax Income,2025-03-31,677000000.0
+SEDEMAC,A,income,Pretax Income,2026-03-31,1501900000.0
+SEDEMAC,A,income,Total Revenue,2023-03-31,4221590000.0
+SEDEMAC,A,income,Total Revenue,2024-03-31,5294160000.0
+SEDEMAC,A,income,Total Revenue,2025-03-31,6566600000.0
+SEDEMAC,A,income,Total Revenue,2026-03-31,10552900000.0
+SEDEMAC,Q,income,Basic EPS,2025-06-30,3.865358
+SEDEMAC,Q,income,Basic EPS,2025-09-30,6.824949
+SEDEMAC,Q,income,Basic EPS,2026-03-31,7.32
+SEDEMAC,Q,income,Basic EPS,2026-06-30,7.54
+SEDEMAC,Q,income,Basic EPS,2026-09-30,8.87
+SEDEMAC,Q,income,Diluted EPS,2025-06-30,3.865358
+SEDEMAC,Q,income,Diluted EPS,2025-09-30,6.824949
+SEDEMAC,Q,income,Diluted EPS,2026-03-31,7.17
+SEDEMAC,Q,income,Diluted EPS,2026-06-30,7.49
+SEDEMAC,Q,income,Diluted EPS,2026-09-30,8.81
+SEDEMAC,Q,income,EBITDA,2025-09-30,622910000.0
+SEDEMAC,Q,income,EBITDA,2025-12-31,530910000.0
+SEDEMAC,Q,income,EBITDA,2026-03-31,611280000.0
+SEDEMAC,Q,income,EBITDA,2026-06-30,600300000.0
+SEDEMAC,Q,income,EBITDA,2026-09-30,761800000.0
+SEDEMAC,Q,income,Interest Expense,2025-09-30,24700000.0
+SEDEMAC,Q,income,Interest Expense,2025-12-31,23190000.0
+SEDEMAC,Q,income,Interest Expense,2026-03-31,13100000.0
+SEDEMAC,Q,income,Interest Expense,2026-06-30,23200000.0
+SEDEMAC,Q,income,Interest Expense,2026-09-30,58700000.0
+SEDEMAC,Q,income,Net Income,2025-09-30,301400000.0
+SEDEMAC,Q,income,Net Income,2025-12-31,242880000.0
+SEDEMAC,Q,income,Net Income,2026-03-31,320800000.0
+SEDEMAC,Q,income,Net Income,2026-06-30,333100000.0
+SEDEMAC,Q,income,Net Income,2026-09-30,391800000.0
+SEDEMAC,Q,income,Net Income Common Stockholders,2025-09-30,301400000.0
+SEDEMAC,Q,income,Net Income Common Stockholders,2025-12-31,242880000.0
+SEDEMAC,Q,income,Net Income Common Stockholders,2026-03-31,320800000.0
+SEDEMAC,Q,income,Net Income Common Stockholders,2026-06-30,333100000.0
+SEDEMAC,Q,income,Net Income Common Stockholders,2026-09-30,391800000.0
+SEDEMAC,Q,income,Operating Income,2025-09-30,462600000.0
+SEDEMAC,Q,income,Operating Income,2025-12-31,366400000.0
+SEDEMAC,Q,income,Operating Income,2026-03-31,426000000.0
+SEDEMAC,Q,income,Operating Income,2026-06-30,428000000.0
+SEDEMAC,Q,income,Operating Income,2026-09-30,557900000.0
+SEDEMAC,Q,income,Pretax Income,2025-09-30,450200000.0
+SEDEMAC,Q,income,Pretax Income,2025-12-31,330800000.0
+SEDEMAC,Q,income,Pretax Income,2026-03-31,419200000.0
+SEDEMAC,Q,income,Pretax Income,2026-06-30,413400000.0
+SEDEMAC,Q,income,Pretax Income,2026-09-30,505300000.0
+SEDEMAC,Q,income,Total Revenue,2025-09-30,2864800000.0
+SEDEMAC,Q,income,Total Revenue,2025-12-31,2642940000.0
+SEDEMAC,Q,income,Total Revenue,2026-03-31,2877100000.0
+SEDEMAC,Q,income,Total Revenue,2026-06-30,3097700000.0
+SEDEMAC,Q,income,Total Revenue,2026-09-30,4006400000.0

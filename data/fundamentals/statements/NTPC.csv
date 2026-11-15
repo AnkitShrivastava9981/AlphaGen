@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+NTPC,A,balance,Cash And Cash Equivalents,2023-03-31,4656500000.0
+NTPC,A,balance,Cash And Cash Equivalents,2024-03-31,8633400000.0
+NTPC,A,balance,Cash And Cash Equivalents,2025-03-31,14265600000.0
+NTPC,A,balance,Cash And Cash Equivalents,2026-03-31,34216300000.0
+NTPC,A,balance,Net Debt,2023-03-31,2206267200000.0
+NTPC,A,balance,Net Debt,2024-03-31,2341769600000.0
+NTPC,A,balance,Net Debt,2025-03-31,2461485600000.0
+NTPC,A,balance,Net Debt,2026-03-31,2638365700000.0
+NTPC,A,balance,Ordinary Shares Number,2023-03-31,9696666134.0
+NTPC,A,balance,Ordinary Shares Number,2024-03-31,9696666134.0
+NTPC,A,balance,Ordinary Shares Number,2025-03-31,9696666134.0
+NTPC,A,balance,Ordinary Shares Number,2026-03-31,9696666134.0
+NTPC,A,balance,Stockholders Equity,2023-03-31,1470231700000.0
+NTPC,A,balance,Stockholders Equity,2024-03-31,1607092700000.0
+NTPC,A,balance,Stockholders Equity,2025-03-31,1840711600000.0
+NTPC,A,balance,Stockholders Equity,2026-03-31,2031756700000.0
+NTPC,A,balance,Total Assets,2023-03-31,4479132500000.0
+NTPC,A,balance,Total Assets,2024-03-31,4801965700000.0
+NTPC,A,balance,Total Assets,2025-03-31,5243997000000.0
+NTPC,A,balance,Total Assets,2026-03-31,5586435600000.0
+NTPC,A,balance,Total Debt,2023-03-31,2229131600000.0
+NTPC,A,balance,Total Debt,2024-03-31,2371309800000.0
+NTPC,A,balance,Total Debt,2025-03-31,2500961500000.0
+NTPC,A,balance,Total Debt,2026-03-31,2710045800000.0
+NTPC,A,cashflow,Capital Expenditure,2023-03-31,-248185200000.0
+NTPC,A,cashflow,Capital Expenditure,2024-03-31,-308159200000.0
+NTPC,A,cashflow,Capital Expenditure,2025-03-31,-413352500000.0
+NTPC,A,cashflow,Capital Expenditure,2026-03-31,-440497800000.0
+NTPC,A,cashflow,Free Cash Flow,2023-03-31,223332600000.0
+NTPC,A,cashflow,Free Cash Flow,2024-03-31,92832700000.0
+NTPC,A,cashflow,Free Cash Flow,2025-03-31,91525900000.0
+NTPC,A,cashflow,Free Cash Flow,2026-03-31,68520300000.0
+NTPC,A,cashflow,Operating Cash Flow,2023-03-31,471517800000.0
+NTPC,A,cashflow,Operating Cash Flow,2024-03-31,400991900000.0
+NTPC,A,cashflow,Operating Cash Flow,2025-03-31,504878400000.0
+NTPC,A,cashflow,Operating Cash Flow,2026-03-31,509018100000.0
+NTPC,A,income,Basic EPS,2023-03-31,17.44
+NTPC,A,income,Basic EPS,2024-03-31,21.46
+NTPC,A,income,Basic EPS,2025-03-31,24.16
+NTPC,A,income,Basic EPS,2026-03-31,27.9
+NTPC,A,income,Diluted EPS,2023-03-31,17.44
+NTPC,A,income,Diluted EPS,2024-03-31,21.46
+NTPC,A,income,Diluted EPS,2025-03-31,24.16
+NTPC,A,income,Diluted EPS,2026-03-31,27.9
+NTPC,A,income,EBITDA,2023-03-31,500083900000.0
+NTPC,A,income,EBITDA,2024-03-31,555983900000.0
+NTPC,A,income,EBITDA,2025-03-31,604434000000.0
+NTPC,A,income,EBITDA,2026-03-31,611833300000.0
+NTPC,A,income,Interest Expense,2023-03-31,108855300000.0
+NTPC,A,income,Interest Expense,2024-03-31,122533100000.0
+NTPC,A,income,Interest Expense,2025-03-31,126090200000.0
+NTPC,A,income,Interest Expense,2026-03-31,123707900000.0
+NTPC,A,income,Net Income,2023-03-31,169125500000.0
+NTPC,A,income,Net Income,2024-03-31,208118900000.0
+NTPC,A,income,Net Income,2025-03-31,234224600000.0
+NTPC,A,income,Net Income,2026-03-31,270525200000.0
+NTPC,A,income,Net Income Common Stockholders,2023-03-31,169125500000.0
+NTPC,A,income,Net Income Common Stockholders,2024-03-31,208118900000.0
+NTPC,A,income,Net Income Common Stockholders,2025-03-31,234224600000.0
+NTPC,A,income,Net Income Common Stockholders,2026-03-31,270525200000.0
+NTPC,A,income,Operating Income,2023-03-31,332226800000.0
+NTPC,A,income,Operating Income,2024-03-31,331496900000.0
+NTPC,A,income,Operating Income,2025-03-31,363401500000.0
+NTPC,A,income,Operating Income,2026-03-31,384074900000.0
+NTPC,A,income,Pretax Income,2023-03-31,243305900000.0
+NTPC,A,income,Pretax Income,2024-03-31,271414500000.0
+NTPC,A,income,Pretax Income,2025-03-31,284964100000.0
+NTPC,A,income,Pretax Income,2026-03-31,271335600000.0
+NTPC,A,income,Total Revenue,2023-03-31,1740761500000.0
+NTPC,A,income,Total Revenue,2024-03-31,1767196100000.0
+NTPC,A,income,Total Revenue,2025-03-31,1862462500000.0
+NTPC,A,income,Total Revenue,2026-03-31,1840152700000.0
+NTPC,Q,income,Basic EPS,2025-06-30,6.2
+NTPC,Q,income,Basic EPS,2025-12-31,5.66
+NTPC,Q,income,Basic EPS,2026-03-31,10.81
+NTPC,Q,income,Basic EPS,2026-06-30,6.93
+NTPC,Q,income,Basic EPS,2026-09-30,7.25
+NTPC,Q,income,Diluted EPS,2025-06-30,6.2
+NTPC,Q,income,Diluted EPS,2025-12-31,5.66
+NTPC,Q,income,Diluted EPS,2026-03-31,10.81
+NTPC,Q,income,Diluted EPS,2026-06-30,6.93
+NTPC,Q,income,Diluted EPS,2026-09-30,7.25
+NTPC,Q,income,EBITDA,2025-06-30,138122600000.0
+NTPC,Q,income,EBITDA,2025-12-31,156424000000.0
+NTPC,Q,income,EBITDA,2026-03-31,172369900000.0
+NTPC,Q,income,EBITDA,2026-06-30,172593700000.0
+NTPC,Q,income,EBITDA,2026-09-30,166976400000.0
+NTPC,Q,income,Interest Expense,2025-06-30,34675200000.0
+NTPC,Q,income,Interest Expense,2025-12-31,31640900000.0
+NTPC,Q,income,Interest Expense,2026-03-31,37368200000.0
+NTPC,Q,income,Interest Expense,2026-06-30,33860400000.0
+NTPC,Q,income,Interest Expense,2026-09-30,40864300000.0
+NTPC,Q,income,Net Income,2025-06-30,60106000000.0
+NTPC,Q,income,Net Income,2025-12-31,54886700000.0
+NTPC,Q,income,Net Income,2026-03-31,104864700000.0
+NTPC,Q,income,Net Income,2026-06-30,67210500000.0
+NTPC,Q,income,Net Income,2026-09-30,70295600000.0
+NTPC,Q,income,Net Income Common Stockholders,2025-06-30,60106000000.0
+NTPC,Q,income,Net Income Common Stockholders,2025-12-31,54886700000.0
+NTPC,Q,income,Net Income Common Stockholders,2026-03-31,104864700000.0
+NTPC,Q,income,Net Income Common Stockholders,2026-06-30,67210500000.0
+NTPC,Q,income,Net Income Common Stockholders,2026-09-30,70295600000.0
+NTPC,Q,income,Operating Income,2025-09-30,79984800000.0
+NTPC,Q,income,Operating Income,2025-12-31,94765400000.0
+NTPC,Q,income,Operating Income,2026-03-31,101866900000.0
+NTPC,Q,income,Operating Income,2026-06-30,109968900000.0
+NTPC,Q,income,Operating Income,2026-09-30,102970800000.0
+NTPC,Q,income,Pretax Income,2025-06-30,57577400000.0
+NTPC,Q,income,Pretax Income,2025-12-31,73852700000.0
+NTPC,Q,income,Pretax Income,2026-03-31,83663800000.0
+NTPC,Q,income,Pretax Income,2026-06-30,86396300000.0
+NTPC,Q,income,Pretax Income,2026-09-30,72814300000.0
+NTPC,Q,income,Total Revenue,2025-09-30,447840500000.0
+NTPC,Q,income,Total Revenue,2025-12-31,458456800000.0
+NTPC,Q,income,Total Revenue,2026-03-31,496877700000.0
+NTPC,Q,income,Total Revenue,2026-06-30,507409600000.0
+NTPC,Q,income,Total Revenue,2026-09-30,542699500000.0

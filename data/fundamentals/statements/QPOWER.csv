@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+QPOWER,A,balance,Cash And Cash Equivalents,2023-03-31,511890000.0
+QPOWER,A,balance,Cash And Cash Equivalents,2024-03-31,473090000.0
+QPOWER,A,balance,Cash And Cash Equivalents,2025-03-31,1806620000.0
+QPOWER,A,balance,Cash And Cash Equivalents,2026-03-31,1837800000.0
+QPOWER,A,balance,Ordinary Shares Number,2023-03-31,77444100.0
+QPOWER,A,balance,Ordinary Shares Number,2024-03-31,77444100.0
+QPOWER,A,balance,Ordinary Shares Number,2025-03-31,77444100.0
+QPOWER,A,balance,Ordinary Shares Number,2026-03-31,77444100.0
+QPOWER,A,balance,Stockholders Equity,2023-03-31,1120990000.0
+QPOWER,A,balance,Stockholders Equity,2024-03-31,1531870000.0
+QPOWER,A,balance,Stockholders Equity,2025-03-31,4243840000.0
+QPOWER,A,balance,Stockholders Equity,2026-03-31,5420350000.0
+QPOWER,A,balance,Total Assets,2023-03-31,3122390000.0
+QPOWER,A,balance,Total Assets,2024-03-31,3588840000.0
+QPOWER,A,balance,Total Assets,2025-03-31,8140580000.0
+QPOWER,A,balance,Total Assets,2026-03-31,11119620000.0
+QPOWER,A,balance,Total Debt,2023-03-31,106070000.0
+QPOWER,A,balance,Total Debt,2024-03-31,382790000.0
+QPOWER,A,balance,Total Debt,2025-03-31,87370000.0
+QPOWER,A,balance,Total Debt,2026-03-31,401750000.0
+QPOWER,A,cashflow,Capital Expenditure,2023-03-31,-149790000.0
+QPOWER,A,cashflow,Capital Expenditure,2024-03-31,-477410000.0
+QPOWER,A,cashflow,Capital Expenditure,2025-03-31,-168610000.0
+QPOWER,A,cashflow,Capital Expenditure,2026-03-31,-1291430000.0
+QPOWER,A,cashflow,Free Cash Flow,2023-03-31,293260000.0
+QPOWER,A,cashflow,Free Cash Flow,2024-03-31,37750000.0
+QPOWER,A,cashflow,Free Cash Flow,2025-03-31,382170000.0
+QPOWER,A,cashflow,Free Cash Flow,2026-03-31,-488590000.0
+QPOWER,A,cashflow,Operating Cash Flow,2023-03-31,443050000.0
+QPOWER,A,cashflow,Operating Cash Flow,2024-03-31,515160000.0
+QPOWER,A,cashflow,Operating Cash Flow,2025-03-31,550780000.0
+QPOWER,A,cashflow,Operating Cash Flow,2026-03-31,802840000.0
+QPOWER,A,income,Basic EPS,2023-03-31,2.858903
+QPOWER,A,income,Basic EPS,2024-03-31,5.195028
+QPOWER,A,income,Basic EPS,2025-03-31,9.1
+QPOWER,A,income,Basic EPS,2026-03-31,15.67
+QPOWER,A,income,Diluted EPS,2023-03-31,2.858903
+QPOWER,A,income,Diluted EPS,2024-03-31,5.195028
+QPOWER,A,income,Diluted EPS,2025-03-31,9.1
+QPOWER,A,income,Diluted EPS,2026-03-31,15.67
+QPOWER,A,income,EBITDA,2023-03-31,521900000.0
+QPOWER,A,income,EBITDA,2024-03-31,684340000.0
+QPOWER,A,income,EBITDA,2025-03-31,1189620000.0
+QPOWER,A,income,EBITDA,2026-03-31,2334120000.0
+QPOWER,A,income,Interest Expense,2023-03-31,22100000.0
+QPOWER,A,income,Interest Expense,2024-03-31,18120000.0
+QPOWER,A,income,Interest Expense,2025-03-31,19950000.0
+QPOWER,A,income,Interest Expense,2026-03-31,39780000.0
+QPOWER,A,income,Net Income,2023-03-31,206060000.0
+QPOWER,A,income,Net Income,2024-03-31,374440000.0
+QPOWER,A,income,Net Income,2025-03-31,661720000.0
+QPOWER,A,income,Net Income,2026-03-31,1213360000.0
+QPOWER,A,income,Net Income Common Stockholders,2023-03-31,206060000.0
+QPOWER,A,income,Net Income Common Stockholders,2024-03-31,374440000.0
+QPOWER,A,income,Net Income Common Stockholders,2025-03-31,661720000.0
+QPOWER,A,income,Net Income Common Stockholders,2026-03-31,1213360000.0
+QPOWER,A,income,Operating Income,2023-03-31,467050000.0
+QPOWER,A,income,Operating Income,2024-03-31,381040000.0
+QPOWER,A,income,Operating Income,2025-03-31,751300000.0
+QPOWER,A,income,Operating Income,2026-03-31,1822090000.0
+QPOWER,A,income,Pretax Income,2023-03-31,476430000.0
+QPOWER,A,income,Pretax Income,2024-03-31,632570000.0
+QPOWER,A,income,Pretax Income,2025-03-31,1122630000.0
+QPOWER,A,income,Pretax Income,2026-03-31,2164330000.0
+QPOWER,A,income,Total Revenue,2023-03-31,2467110000.0
+QPOWER,A,income,Total Revenue,2024-03-31,2921650000.0
+QPOWER,A,income,Total Revenue,2025-03-31,3307390000.0
+QPOWER,A,income,Total Revenue,2026-03-31,9359840000.0
+QPOWER,Q,income,Basic EPS,2025-09-30,3.14
+QPOWER,Q,income,Basic EPS,2025-12-31,5.03
+QPOWER,Q,income,Basic EPS,2026-03-31,4.38
+QPOWER,Q,income,Basic EPS,2026-06-30,4.66
+QPOWER,Q,income,Basic EPS,2026-09-30,5.48
+QPOWER,Q,income,Diluted EPS,2025-09-30,3.14
+QPOWER,Q,income,Diluted EPS,2025-12-31,5.03
+QPOWER,Q,income,Diluted EPS,2026-03-31,4.38
+QPOWER,Q,income,Diluted EPS,2026-06-30,4.66
+QPOWER,Q,income,Diluted EPS,2026-09-30,5.48
+QPOWER,Q,income,EBITDA,2025-09-30,493520000.0
+QPOWER,Q,income,EBITDA,2025-12-31,792730000.0
+QPOWER,Q,income,EBITDA,2026-03-31,592540000.0
+QPOWER,Q,income,EBITDA,2026-06-30,646990000.0
+QPOWER,Q,income,EBITDA,2026-09-30,840360000.0
+QPOWER,Q,income,Interest Expense,2025-09-30,21960000.0
+QPOWER,Q,income,Interest Expense,2025-12-31,14540000.0
+QPOWER,Q,income,Interest Expense,2026-03-31,19230000.0
+QPOWER,Q,income,Interest Expense,2026-06-30,13900000.0
+QPOWER,Q,income,Interest Expense,2026-09-30,29270000.0
+QPOWER,Q,income,Net Income,2025-09-30,243280000.0
+QPOWER,Q,income,Net Income,2025-12-31,389220000.0
+QPOWER,Q,income,Net Income,2026-03-31,339420000.0
+QPOWER,Q,income,Net Income,2026-06-30,361130000.0
+QPOWER,Q,income,Net Income,2026-09-30,424380000.0
+QPOWER,Q,income,Net Income Common Stockholders,2025-09-30,243280000.0
+QPOWER,Q,income,Net Income Common Stockholders,2025-12-31,389220000.0
+QPOWER,Q,income,Net Income Common Stockholders,2026-03-31,339420000.0
+QPOWER,Q,income,Net Income Common Stockholders,2026-06-30,361130000.0
+QPOWER,Q,income,Net Income Common Stockholders,2026-09-30,424380000.0
+QPOWER,Q,income,Operating Income,2025-09-30,334100000.0
+QPOWER,Q,income,Operating Income,2025-12-31,754960000.0
+QPOWER,Q,income,Operating Income,2026-03-31,264280000.0
+QPOWER,Q,income,Operating Income,2026-06-30,370980000.0
+QPOWER,Q,income,Operating Income,2026-09-30,590460000.0
+QPOWER,Q,income,Pretax Income,2025-09-30,443330000.0
+QPOWER,Q,income,Pretax Income,2025-12-31,743410000.0
+QPOWER,Q,income,Pretax Income,2026-03-31,534750000.0
+QPOWER,Q,income,Pretax Income,2026-06-30,594220000.0
+QPOWER,Q,income,Pretax Income,2026-09-30,771940000.0
+QPOWER,Q,income,Total Revenue,2025-09-30,2057580000.0
+QPOWER,Q,income,Total Revenue,2025-12-31,2839910000.0
+QPOWER,Q,income,Total Revenue,2026-03-31,2808080000.0
+QPOWER,Q,income,Total Revenue,2026-06-30,2326650000.0
+QPOWER,Q,income,Total Revenue,2026-09-30,2725280000.0

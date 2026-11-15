@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+ELLEN,A,balance,Cash And Cash Equivalents,2023-03-31,113950000.0
+ELLEN,A,balance,Cash And Cash Equivalents,2024-03-31,9160000.0
+ELLEN,A,balance,Cash And Cash Equivalents,2025-03-31,1810000.0
+ELLEN,A,balance,Cash And Cash Equivalents,2026-03-31,12250000.0
+ELLEN,A,balance,Net Debt,2023-03-31,897060000.0
+ELLEN,A,balance,Net Debt,2024-03-31,1759820000.0
+ELLEN,A,balance,Net Debt,2025-03-31,2451150000.0
+ELLEN,A,balance,Net Debt,2026-03-31,1788880000.0
+ELLEN,A,balance,Ordinary Shares Number,2025-03-31,140935600.0
+ELLEN,A,balance,Ordinary Shares Number,2026-03-31,140935600.0
+ELLEN,A,balance,Stockholders Equity,2023-03-31,3630610000.0
+ELLEN,A,balance,Stockholders Equity,2024-03-31,4098930000.0
+ELLEN,A,balance,Stockholders Equity,2025-03-31,4933590000.0
+ELLEN,A,balance,Stockholders Equity,2026-03-31,9771410000.0
+ELLEN,A,balance,Total Assets,2023-03-31,5512670000.0
+ELLEN,A,balance,Total Assets,2024-03-31,6725360000.0
+ELLEN,A,balance,Total Assets,2025-03-31,8459660000.0
+ELLEN,A,balance,Total Assets,2026-03-31,12989500000.0
+ELLEN,A,balance,Total Debt,2023-03-31,1034940000.0
+ELLEN,A,balance,Total Debt,2024-03-31,1784250000.0
+ELLEN,A,balance,Total Debt,2025-03-31,2466170000.0
+ELLEN,A,balance,Total Debt,2026-03-31,1844170000.0
+ELLEN,A,cashflow,Capital Expenditure,2023-03-31,-949440000.0
+ELLEN,A,cashflow,Capital Expenditure,2024-03-31,-870040000.0
+ELLEN,A,cashflow,Capital Expenditure,2025-03-31,-692210000.0
+ELLEN,A,cashflow,Capital Expenditure,2026-03-31,-1583680000.0
+ELLEN,A,cashflow,Free Cash Flow,2023-03-31,-561970000.0
+ELLEN,A,cashflow,Free Cash Flow,2024-03-31,-432570000.0
+ELLEN,A,cashflow,Free Cash Flow,2025-03-31,-649460000.0
+ELLEN,A,cashflow,Free Cash Flow,2026-03-31,-258220000.0
+ELLEN,A,cashflow,Operating Cash Flow,2023-03-31,387470000.0
+ELLEN,A,cashflow,Operating Cash Flow,2024-03-31,437470000.0
+ELLEN,A,cashflow,Operating Cash Flow,2025-03-31,42750000.0
+ELLEN,A,cashflow,Operating Cash Flow,2026-03-31,1325460000.0
+ELLEN,A,income,Basic EPS,2023-03-31,2.15
+ELLEN,A,income,Basic EPS,2024-03-31,3.46
+ELLEN,A,income,Basic EPS,2025-03-31,6.36
+ELLEN,A,income,Basic EPS,2026-03-31,7.54
+ELLEN,A,income,Diluted EPS,2023-03-31,2.15
+ELLEN,A,income,Diluted EPS,2024-03-31,3.46
+ELLEN,A,income,Diluted EPS,2025-03-31,6.36
+ELLEN,A,income,Diluted EPS,2026-03-31,7.54
+ELLEN,A,income,EBITDA,2023-03-31,510260000.0
+ELLEN,A,income,EBITDA,2024-03-31,813700000.0
+ELLEN,A,income,EBITDA,2025-03-31,1451830000.0
+ELLEN,A,income,EBITDA,2026-03-31,1657220000.0
+ELLEN,A,income,Interest Expense,2023-03-31,23830000.0
+ELLEN,A,income,Interest Expense,2024-03-31,71390000.0
+ELLEN,A,income,Interest Expense,2025-03-31,166380000.0
+ELLEN,A,income,Interest Expense,2026-03-31,89460000.0
+ELLEN,A,income,Net Income,2023-03-31,281420000.0
+ELLEN,A,income,Net Income,2024-03-31,452890000.0
+ELLEN,A,income,Net Income,2025-03-31,832890000.0
+ELLEN,A,income,Net Income,2026-03-31,1044000000.0
+ELLEN,A,income,Net Income Common Stockholders,2023-03-31,281420000.0
+ELLEN,A,income,Net Income Common Stockholders,2024-03-31,452890000.0
+ELLEN,A,income,Net Income Common Stockholders,2025-03-31,832890000.0
+ELLEN,A,income,Net Income Common Stockholders,2026-03-31,1044000000.0
+ELLEN,A,income,Operating Income,2023-03-31,220860000.0
+ELLEN,A,income,Operating Income,2024-03-31,488030000.0
+ELLEN,A,income,Operating Income,2025-03-31,875920000.0
+ELLEN,A,income,Operating Income,2026-03-31,827580000.0
+ELLEN,A,income,Pretax Income,2023-03-31,372640000.0
+ELLEN,A,income,Pretax Income,2024-03-31,642180000.0
+ELLEN,A,income,Pretax Income,2025-03-31,1078250000.0
+ELLEN,A,income,Pretax Income,2026-03-31,1352940000.0
+ELLEN,A,income,Total Revenue,2023-03-31,2019060000.0
+ELLEN,A,income,Total Revenue,2024-03-31,2664570000.0
+ELLEN,A,income,Total Revenue,2025-03-31,3078590000.0
+ELLEN,A,income,Total Revenue,2026-03-31,3227110000.0
+ELLEN,Q,income,Basic EPS,2025-09-30,2.61
+ELLEN,Q,income,Basic EPS,2025-12-31,1.85
+ELLEN,Q,income,Basic EPS,2026-03-31,1.62
+ELLEN,Q,income,Basic EPS,2026-06-30,2.48
+ELLEN,Q,income,Basic EPS,2026-09-30,2.53
+ELLEN,Q,income,Diluted EPS,2025-09-30,2.61
+ELLEN,Q,income,Diluted EPS,2025-12-31,1.85
+ELLEN,Q,income,Diluted EPS,2026-03-31,1.62
+ELLEN,Q,income,Diluted EPS,2026-06-30,2.48
+ELLEN,Q,income,Diluted EPS,2026-09-30,2.53
+ELLEN,Q,income,EBITDA,2025-09-30,460910000.0
+ELLEN,Q,income,EBITDA,2025-12-31,409270000.0
+ELLEN,Q,income,EBITDA,2026-03-31,417230000.0
+ELLEN,Q,income,EBITDA,2026-06-30,546950000.0
+ELLEN,Q,income,EBITDA,2026-09-30,573510000.0
+ELLEN,Q,income,Interest Expense,2025-09-30,10550000.0
+ELLEN,Q,income,Interest Expense,2025-12-31,14930000.0
+ELLEN,Q,income,Interest Expense,2026-03-31,23330000.0
+ELLEN,Q,income,Interest Expense,2026-06-30,19520000.0
+ELLEN,Q,income,Interest Expense,2026-09-30,24850000.0
+ELLEN,Q,income,Net Income,2025-09-30,367170000.0
+ELLEN,Q,income,Net Income,2025-12-31,260870000.0
+ELLEN,Q,income,Net Income,2026-03-31,228840000.0
+ELLEN,Q,income,Net Income,2026-06-30,349620000.0
+ELLEN,Q,income,Net Income,2026-09-30,356470000.0
+ELLEN,Q,income,Net Income Common Stockholders,2025-09-30,367170000.0
+ELLEN,Q,income,Net Income Common Stockholders,2025-12-31,260870000.0
+ELLEN,Q,income,Net Income Common Stockholders,2026-03-31,228840000.0
+ELLEN,Q,income,Net Income Common Stockholders,2026-06-30,349620000.0
+ELLEN,Q,income,Net Income Common Stockholders,2026-09-30,356470000.0
+ELLEN,Q,income,Operating Income,2025-09-30,286280000.0
+ELLEN,Q,income,Operating Income,2025-12-31,212060000.0
+ELLEN,Q,income,Operating Income,2026-03-31,206910000.0
+ELLEN,Q,income,Operating Income,2026-06-30,323690000.0
+ELLEN,Q,income,Operating Income,2026-09-30,337860000.0
+ELLEN,Q,income,Pretax Income,2025-09-30,399610000.0
+ELLEN,Q,income,Pretax Income,2025-12-31,342190000.0
+ELLEN,Q,income,Pretax Income,2026-03-31,332850000.0
+ELLEN,Q,income,Pretax Income,2026-06-30,464580000.0
+ELLEN,Q,income,Pretax Income,2026-09-30,479240000.0
+ELLEN,Q,income,Total Revenue,2025-09-30,891730000.0
+ELLEN,Q,income,Total Revenue,2025-12-31,813460000.0
+ELLEN,Q,income,Total Revenue,2026-03-31,874330000.0
+ELLEN,Q,income,Total Revenue,2026-06-30,987160000.0
+ELLEN,Q,income,Total Revenue,2026-09-30,1143180000.0

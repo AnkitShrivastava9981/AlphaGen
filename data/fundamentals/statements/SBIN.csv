@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+SBIN,A,balance,Cash And Cash Equivalents,2023-03-31,5369031044000.0
+SBIN,A,balance,Cash And Cash Equivalents,2024-03-31,5975677770000.0
+SBIN,A,balance,Cash And Cash Equivalents,2025-03-31,6208491788000.0
+SBIN,A,balance,Cash And Cash Equivalents,2026-03-31,6671134748000.0
+SBIN,A,balance,Net Debt,2023-03-31,2028400400000.0
+SBIN,A,balance,Net Debt,2024-03-31,3130372000000.0
+SBIN,A,balance,Net Debt,2025-03-31,2529243000000.0
+SBIN,A,balance,Net Debt,2026-03-31,597787456000.0
+SBIN,A,balance,Ordinary Shares Number,2023-03-31,8924611934.0
+SBIN,A,balance,Ordinary Shares Number,2024-03-31,8924611934.0
+SBIN,A,balance,Ordinary Shares Number,2025-03-31,8924620034.0
+SBIN,A,balance,Ordinary Shares Number,2026-03-31,9230617586.0
+SBIN,A,balance,Stockholders Equity,2023-03-31,3589313181000.0
+SBIN,A,balance,Stockholders Equity,2024-03-31,4149391715000.0
+SBIN,A,balance,Stockholders Equity,2025-03-31,4870367587000.0
+SBIN,A,balance,Stockholders Equity,2026-03-31,5961308694000.0
+SBIN,A,balance,Total Assets,2023-03-31,59544183170000.0
+SBIN,A,balance,Total Assets,2024-03-31,67337787997000.0
+SBIN,A,balance,Total Assets,2025-03-31,73141853408000.0
+SBIN,A,balance,Total Assets,2026-03-31,83215685742000.0
+SBIN,A,balance,Total Debt,2023-03-31,5220926306000.0
+SBIN,A,balance,Total Debt,2024-03-31,5565032351000.0
+SBIN,A,balance,Total Debt,2025-03-31,6181254399000.0
+SBIN,A,balance,Total Debt,2026-03-31,7268922204000.0
+SBIN,A,cashflow,Capital Expenditure,2023-03-31,-40436315000.0
+SBIN,A,cashflow,Capital Expenditure,2024-03-31,-41751262000.0
+SBIN,A,cashflow,Capital Expenditure,2025-03-31,-56372241000.0
+SBIN,A,cashflow,Capital Expenditure,2026-03-31,-83629582000.0
+SBIN,A,cashflow,Free Cash Flow,2023-03-31,-900573111000.0
+SBIN,A,cashflow,Free Cash Flow,2024-03-31,174573048000.0
+SBIN,A,cashflow,Free Cash Flow,2025-03-31,398467845000.0
+SBIN,A,cashflow,Free Cash Flow,2026-03-31,297344318000.0
+SBIN,A,cashflow,Operating Cash Flow,2023-03-31,-860136796000.0
+SBIN,A,cashflow,Operating Cash Flow,2024-03-31,216324310000.0
+SBIN,A,cashflow,Operating Cash Flow,2025-03-31,454840086000.0
+SBIN,A,cashflow,Operating Cash Flow,2026-03-31,380973900000.0
+SBIN,A,income,Basic EPS,2023-03-31,62.35
+SBIN,A,income,Basic EPS,2024-03-31,75.17
+SBIN,A,income,Basic EPS,2025-03-31,86.91
+SBIN,A,income,Basic EPS,2026-03-31,91.16
+SBIN,A,income,Diluted EPS,2023-03-31,62.35
+SBIN,A,income,Diluted EPS,2024-03-31,75.17
+SBIN,A,income,Diluted EPS,2025-03-31,86.91
+SBIN,A,income,Diluted EPS,2026-03-31,91.16
+SBIN,A,income,Interest Expense,2023-03-31,1899808167000.0
+SBIN,A,income,Interest Expense,2024-03-31,2597360481000.0
+SBIN,A,income,Interest Expense,2025-03-31,3009433353000.0
+SBIN,A,income,Interest Expense,2026-03-31,3150048084000.0
+SBIN,A,income,Net Income,2023-03-31,556481728000.0
+SBIN,A,income,Net Income,2024-03-31,670846661000.0
+SBIN,A,income,Net Income,2025-03-31,775613371000.0
+SBIN,A,income,Net Income,2026-03-31,832987824000.0
+SBIN,A,income,Net Income Common Stockholders,2023-03-31,556481728000.0
+SBIN,A,income,Net Income Common Stockholders,2024-03-31,670846661000.0
+SBIN,A,income,Net Income Common Stockholders,2025-03-31,775613371000.0
+SBIN,A,income,Net Income Common Stockholders,2026-03-31,832987824000.0
+SBIN,A,income,Pretax Income,2023-03-31,753985586000.0
+SBIN,A,income,Pretax Income,2024-03-31,912400476000.0
+SBIN,A,income,Pretax Income,2025-03-31,1063652935000.0
+SBIN,A,income,Pretax Income,2026-03-31,1140279817000.0
+SBIN,A,income,Total Revenue,2023-03-31,1921097254000.0
+SBIN,A,income,Total Revenue,2024-03-31,2269138245000.0
+SBIN,A,income,Total Revenue,2025-03-31,2458691264000.0
+SBIN,A,income,Total Revenue,2026-03-31,2602451277000.0
+SBIN,Q,income,Basic EPS,2025-06-30,23.76
+SBIN,Q,income,Basic EPS,2025-12-31,23.09
+SBIN,Q,income,Basic EPS,2026-03-31,21.28
+SBIN,Q,income,Basic EPS,2026-06-30,26.12
+SBIN,Q,income,Basic EPS,2026-09-30,27.47
+SBIN,Q,income,Diluted EPS,2025-06-30,23.76
+SBIN,Q,income,Diluted EPS,2025-12-31,23.09
+SBIN,Q,income,Diluted EPS,2026-03-31,21.28
+SBIN,Q,income,Diluted EPS,2026-06-30,26.12
+SBIN,Q,income,Diluted EPS,2026-09-30,27.47
+SBIN,Q,income,Interest Expense,2025-06-30,782664600000.0
+SBIN,Q,income,Interest Expense,2025-12-31,787825500000.0
+SBIN,Q,income,Interest Expense,2026-03-31,799534300000.0
+SBIN,Q,income,Interest Expense,2026-06-30,822475700000.0
+SBIN,Q,income,Interest Expense,2026-09-30,842725800000.0
+SBIN,Q,income,Net Income,2025-06-30,212014700000.0
+SBIN,Q,income,Net Income,2025-12-31,213171100000.0
+SBIN,Q,income,Net Income,2026-03-31,196428700000.0
+SBIN,Q,income,Net Income,2026-06-30,241130000000.0
+SBIN,Q,income,Net Income,2026-09-30,253611600000.0
+SBIN,Q,income,Net Income Common Stockholders,2025-06-30,212014700000.0
+SBIN,Q,income,Net Income Common Stockholders,2025-12-31,213171100000.0
+SBIN,Q,income,Net Income Common Stockholders,2026-03-31,196428700000.0
+SBIN,Q,income,Net Income Common Stockholders,2026-06-30,241130000000.0
+SBIN,Q,income,Net Income Common Stockholders,2026-09-30,253611600000.0
+SBIN,Q,income,Pretax Income,2025-06-30,292291200000.0
+SBIN,Q,income,Pretax Income,2025-12-31,300667100000.0
+SBIN,Q,income,Pretax Income,2026-03-31,260755100000.0
+SBIN,Q,income,Pretax Income,2026-06-30,328838000000.0
+SBIN,Q,income,Pretax Income,2026-09-30,335554100000.0
+SBIN,Q,income,Total Revenue,2025-09-30,674941400000.0
+SBIN,Q,income,Total Revenue,2025-12-31,714499700000.0
+SBIN,Q,income,Total Revenue,2026-03-31,679578600000.0
+SBIN,Q,income,Total Revenue,2026-06-30,718551100000.0
+SBIN,Q,income,Total Revenue,2026-09-30,705974800000.0

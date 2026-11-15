@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+GABRIEL,A,balance,Cash And Cash Equivalents,2023-03-31,398280000.0
+GABRIEL,A,balance,Cash And Cash Equivalents,2024-03-31,599280000.0
+GABRIEL,A,balance,Cash And Cash Equivalents,2025-03-31,378410000.0
+GABRIEL,A,balance,Cash And Cash Equivalents,2026-03-31,1135530000.0
+GABRIEL,A,balance,Ordinary Shares Number,2023-03-31,143643940.0
+GABRIEL,A,balance,Ordinary Shares Number,2024-03-31,143643940.0
+GABRIEL,A,balance,Ordinary Shares Number,2025-03-31,143643940.0
+GABRIEL,A,balance,Ordinary Shares Number,2026-03-31,143643940.0
+GABRIEL,A,balance,Stockholders Equity,2023-03-31,8702620000.0
+GABRIEL,A,balance,Stockholders Equity,2024-03-31,10021520000.0
+GABRIEL,A,balance,Stockholders Equity,2025-03-31,11832850000.0
+GABRIEL,A,balance,Stockholders Equity,2026-03-31,13687450000.0
+GABRIEL,A,balance,Total Assets,2023-03-31,14280020000.0
+GABRIEL,A,balance,Total Assets,2024-03-31,17794820000.0
+GABRIEL,A,balance,Total Assets,2025-03-31,20242730000.0
+GABRIEL,A,balance,Total Assets,2026-03-31,24295620000.0
+GABRIEL,A,balance,Total Debt,2023-03-31,111640000.0
+GABRIEL,A,balance,Total Debt,2024-03-31,749680000.0
+GABRIEL,A,balance,Total Debt,2025-03-31,690860000.0
+GABRIEL,A,balance,Total Debt,2026-03-31,1481180000.0
+GABRIEL,A,cashflow,Capital Expenditure,2023-03-31,-886690000.0
+GABRIEL,A,cashflow,Capital Expenditure,2024-03-31,-1627750000.0
+GABRIEL,A,cashflow,Capital Expenditure,2025-03-31,-2085790000.0
+GABRIEL,A,cashflow,Capital Expenditure,2026-03-31,-2398110000.0
+GABRIEL,A,cashflow,Free Cash Flow,2023-03-31,476870000.0
+GABRIEL,A,cashflow,Free Cash Flow,2024-03-31,138140000.0
+GABRIEL,A,cashflow,Free Cash Flow,2025-03-31,-47570000.0
+GABRIEL,A,cashflow,Free Cash Flow,2026-03-31,1054620000.0
+GABRIEL,A,cashflow,Operating Cash Flow,2023-03-31,1363560000.0
+GABRIEL,A,cashflow,Operating Cash Flow,2024-03-31,1765890000.0
+GABRIEL,A,cashflow,Operating Cash Flow,2025-03-31,2038220000.0
+GABRIEL,A,cashflow,Operating Cash Flow,2026-03-31,3452730000.0
+GABRIEL,A,income,Basic EPS,2023-03-31,9.21
+GABRIEL,A,income,Basic EPS,2024-03-31,12.44
+GABRIEL,A,income,Basic EPS,2025-03-31,17.05
+GABRIEL,A,income,Basic EPS,2026-03-31,17.55
+GABRIEL,A,income,Diluted EPS,2023-03-31,9.21
+GABRIEL,A,income,Diluted EPS,2024-03-31,12.44
+GABRIEL,A,income,Diluted EPS,2025-03-31,17.05
+GABRIEL,A,income,Diluted EPS,2026-03-31,17.55
+GABRIEL,A,income,EBITDA,2023-03-31,2310780000.0
+GABRIEL,A,income,EBITDA,2024-03-31,3120230000.0
+GABRIEL,A,income,EBITDA,2025-03-31,4156260000.0
+GABRIEL,A,income,EBITDA,2026-03-31,4504380000.0
+GABRIEL,A,income,Interest Expense,2023-03-31,45850000.0
+GABRIEL,A,income,Interest Expense,2024-03-31,82400000.0
+GABRIEL,A,income,Interest Expense,2025-03-31,101790000.0
+GABRIEL,A,income,Interest Expense,2026-03-31,141770000.0
+GABRIEL,A,income,Net Income,2023-03-31,1323530000.0
+GABRIEL,A,income,Net Income,2024-03-31,1787470000.0
+GABRIEL,A,income,Net Income,2025-03-31,2449810000.0
+GABRIEL,A,income,Net Income,2026-03-31,2521640000.0
+GABRIEL,A,income,Net Income Common Stockholders,2023-03-31,1323530000.0
+GABRIEL,A,income,Net Income Common Stockholders,2024-03-31,1787470000.0
+GABRIEL,A,income,Net Income Common Stockholders,2025-03-31,2449810000.0
+GABRIEL,A,income,Net Income Common Stockholders,2026-03-31,2521640000.0
+GABRIEL,A,income,Operating Income,2023-03-31,1657060000.0
+GABRIEL,A,income,Operating Income,2024-03-31,2349700000.0
+GABRIEL,A,income,Operating Income,2025-03-31,3086360000.0
+GABRIEL,A,income,Operating Income,2026-03-31,3427430000.0
+GABRIEL,A,income,Pretax Income,2023-03-31,1779080000.0
+GABRIEL,A,income,Pretax Income,2024-03-31,2438350000.0
+GABRIEL,A,income,Pretax Income,2025-03-31,3241640000.0
+GABRIEL,A,income,Pretax Income,2026-03-31,3361520000.0
+GABRIEL,A,income,Total Revenue,2023-03-31,29496270000.0
+GABRIEL,A,income,Total Revenue,2024-03-31,33765030000.0
+GABRIEL,A,income,Total Revenue,2025-03-31,40243970000.0
+GABRIEL,A,income,Total Revenue,2026-03-31,46352480000.0
+GABRIEL,Q,income,Basic EPS,2025-09-30,6.01
+GABRIEL,Q,income,Basic EPS,2025-12-31,3.81
+GABRIEL,Q,income,Basic EPS,2026-03-31,4.63
+GABRIEL,Q,income,Basic EPS,2026-06-30,6.06
+GABRIEL,Q,income,Basic EPS,2026-09-30,6.8
+GABRIEL,Q,income,Diluted EPS,2025-09-30,6.01
+GABRIEL,Q,income,Diluted EPS,2025-12-31,3.81
+GABRIEL,Q,income,Diluted EPS,2026-03-31,4.63
+GABRIEL,Q,income,Diluted EPS,2026-06-30,6.06
+GABRIEL,Q,income,Diluted EPS,2026-09-30,6.8
+GABRIEL,Q,income,EBITDA,2025-09-30,1673580000.0
+GABRIEL,Q,income,EBITDA,2025-12-31,1006020000.0
+GABRIEL,Q,income,EBITDA,2026-03-31,1216580000.0
+GABRIEL,Q,income,EBITDA,2026-06-30,1715380000.0
+GABRIEL,Q,income,EBITDA,2026-09-30,1957810000.0
+GABRIEL,Q,income,Interest Expense,2025-09-30,62800000.0
+GABRIEL,Q,income,Interest Expense,2025-12-31,32010000.0
+GABRIEL,Q,income,Interest Expense,2026-03-31,52860000.0
+GABRIEL,Q,income,Interest Expense,2026-06-30,59760000.0
+GABRIEL,Q,income,Interest Expense,2026-09-30,147280000.0
+GABRIEL,Q,income,Net Income,2025-09-30,1067130000.0
+GABRIEL,Q,income,Net Income,2025-12-31,546660000.0
+GABRIEL,Q,income,Net Income,2026-03-31,666100000.0
+GABRIEL,Q,income,Net Income,2026-06-30,1073510000.0
+GABRIEL,Q,income,Net Income,2026-09-30,1231120000.0
+GABRIEL,Q,income,Net Income Common Stockholders,2025-09-30,1067130000.0
+GABRIEL,Q,income,Net Income Common Stockholders,2025-12-31,546660000.0
+GABRIEL,Q,income,Net Income Common Stockholders,2026-03-31,666100000.0
+GABRIEL,Q,income,Net Income Common Stockholders,2026-06-30,1073510000.0
+GABRIEL,Q,income,Net Income Common Stockholders,2026-09-30,1231120000.0
+GABRIEL,Q,income,Operating Income,2025-09-30,949000000.0
+GABRIEL,Q,income,Operating Income,2025-12-31,813990000.0
+GABRIEL,Q,income,Operating Income,2026-03-31,883680000.0
+GABRIEL,Q,income,Operating Income,2026-06-30,918640000.0
+GABRIEL,Q,income,Operating Income,2026-09-30,1079900000.0
+GABRIEL,Q,income,Pretax Income,2025-09-30,1301280000.0
+GABRIEL,Q,income,Pretax Income,2025-12-31,719240000.0
+GABRIEL,Q,income,Pretax Income,2026-03-31,917880000.0
+GABRIEL,Q,income,Pretax Income,2026-06-30,1332600000.0
+GABRIEL,Q,income,Pretax Income,2026-09-30,1481690000.0
+GABRIEL,Q,income,Total Revenue,2025-09-30,13083240000.0
+GABRIEL,Q,income,Total Revenue,2025-12-31,11786560000.0
+GABRIEL,Q,income,Total Revenue,2026-03-31,12095930000.0
+GABRIEL,Q,income,Total Revenue,2026-06-30,14256830000.0
+GABRIEL,Q,income,Total Revenue,2026-09-30,16079960000.0

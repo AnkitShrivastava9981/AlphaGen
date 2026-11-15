@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+TCS,A,balance,Cash And Cash Equivalents,2023-03-31,71150000000.0
+TCS,A,balance,Cash And Cash Equivalents,2024-03-31,90070000000.0
+TCS,A,balance,Cash And Cash Equivalents,2025-03-31,83310000000.0
+TCS,A,balance,Cash And Cash Equivalents,2026-03-31,64050000000.0
+TCS,A,balance,Ordinary Shares Number,2023-03-31,3659051373.0
+TCS,A,balance,Ordinary Shares Number,2024-03-31,3618087518.0
+TCS,A,balance,Ordinary Shares Number,2025-03-31,3618087518.0
+TCS,A,balance,Ordinary Shares Number,2026-03-31,3618087518.0
+TCS,A,balance,Stockholders Equity,2023-03-31,904240000000.0
+TCS,A,balance,Stockholders Equity,2024-03-31,904890000000.0
+TCS,A,balance,Stockholders Equity,2025-03-31,947560000000.0
+TCS,A,balance,Stockholders Equity,2026-03-31,1072400000000.0
+TCS,A,balance,Total Assets,2023-03-31,1436510000000.0
+TCS,A,balance,Total Assets,2024-03-31,1464490000000.0
+TCS,A,balance,Total Assets,2025-03-31,1596290000000.0
+TCS,A,balance,Total Assets,2026-03-31,1823720000000.0
+TCS,A,balance,Total Debt,2023-03-31,76880000000.0
+TCS,A,balance,Total Debt,2024-03-31,80210000000.0
+TCS,A,balance,Total Debt,2025-03-31,93920000000.0
+TCS,A,balance,Total Debt,2026-03-31,112830000000.0
+TCS,A,cashflow,Capital Expenditure,2023-03-31,-31000000000.0
+TCS,A,cashflow,Capital Expenditure,2024-03-31,-26740000000.0
+TCS,A,cashflow,Capital Expenditure,2025-03-31,-39370000000.0
+TCS,A,cashflow,Capital Expenditure,2026-03-31,-41460000000.0
+TCS,A,cashflow,Free Cash Flow,2023-03-31,388650000000.0
+TCS,A,cashflow,Free Cash Flow,2024-03-31,416640000000.0
+TCS,A,cashflow,Free Cash Flow,2025-03-31,449710000000.0
+TCS,A,cashflow,Free Cash Flow,2026-03-31,479480000000.0
+TCS,A,cashflow,Operating Cash Flow,2023-03-31,419650000000.0
+TCS,A,cashflow,Operating Cash Flow,2024-03-31,443380000000.0
+TCS,A,cashflow,Operating Cash Flow,2025-03-31,489080000000.0
+TCS,A,cashflow,Operating Cash Flow,2026-03-31,520940000000.0
+TCS,A,income,Basic EPS,2023-03-31,115.19
+TCS,A,income,Basic EPS,2024-03-31,125.88
+TCS,A,income,Basic EPS,2025-03-31,134.19
+TCS,A,income,Basic EPS,2026-03-31,136.01
+TCS,A,income,Diluted EPS,2023-03-31,115.19
+TCS,A,income,Diluted EPS,2024-03-31,125.88
+TCS,A,income,Diluted EPS,2025-03-31,134.19
+TCS,A,income,Diluted EPS,2026-03-31,136.01
+TCS,A,income,EBITDA,2023-03-31,627080000000.0
+TCS,A,income,EBITDA,2024-03-31,677600000000.0
+TCS,A,income,EBITDA,2025-03-31,713690000000.0
+TCS,A,income,EBITDA,2026-03-31,722740000000.0
+TCS,A,income,Interest Expense,2023-03-31,7790000000.0
+TCS,A,income,Interest Expense,2024-03-31,7780000000.0
+TCS,A,income,Interest Expense,2025-03-31,7960000000.0
+TCS,A,income,Interest Expense,2026-03-31,12270000000.0
+TCS,A,income,Net Income,2023-03-31,421470000000.0
+TCS,A,income,Net Income,2024-03-31,459080000000.0
+TCS,A,income,Net Income,2025-03-31,485530000000.0
+TCS,A,income,Net Income,2026-03-31,492100000000.0
+TCS,A,income,Net Income Common Stockholders,2023-03-31,421470000000.0
+TCS,A,income,Net Income Common Stockholders,2024-03-31,459080000000.0
+TCS,A,income,Net Income Common Stockholders,2025-03-31,485530000000.0
+TCS,A,income,Net Income Common Stockholders,2026-03-31,492100000000.0
+TCS,A,income,Operating Income,2023-03-31,543770000000.0
+TCS,A,income,Operating Income,2024-03-31,594250000000.0
+TCS,A,income,Operating Income,2025-03-31,622930000000.0
+TCS,A,income,Operating Income,2026-03-31,670220000000.0
+TCS,A,income,Pretax Income,2023-03-31,569070000000.0
+TCS,A,income,Pretax Income,2024-03-31,619970000000.0
+TCS,A,income,Pretax Income,2025-03-31,653310000000.0
+TCS,A,income,Pretax Income,2026-03-31,654870000000.0
+TCS,A,income,Total Revenue,2023-03-31,2254580000000.0
+TCS,A,income,Total Revenue,2024-03-31,2408930000000.0
+TCS,A,income,Total Revenue,2025-03-31,2553240000000.0
+TCS,A,income,Total Revenue,2026-03-31,2670210000000.0
+TCS,Q,income,Basic EPS,2025-06-30,35.27
+TCS,Q,income,Basic EPS,2025-12-31,29.45
+TCS,Q,income,Basic EPS,2026-03-31,37.94
+TCS,Q,income,Basic EPS,2026-06-30,36.9
+TCS,Q,income,Basic EPS,2026-09-30,38.37
+TCS,Q,income,Diluted EPS,2025-06-30,35.27
+TCS,Q,income,Diluted EPS,2025-12-31,29.45
+TCS,Q,income,Diluted EPS,2026-03-31,37.94
+TCS,Q,income,Diluted EPS,2026-06-30,36.9
+TCS,Q,income,Diluted EPS,2026-09-30,38.37
+TCS,Q,income,EBITDA,2025-06-30,185350000000.0
+TCS,Q,income,EBITDA,2025-12-31,159960000000.0
+TCS,Q,income,EBITDA,2026-03-31,200330000000.0
+TCS,Q,income,EBITDA,2026-06-30,194560000000.0
+TCS,Q,income,EBITDA,2026-09-30,201520000000.0
+TCS,Q,income,Interest Expense,2025-06-30,1950000000.0
+TCS,Q,income,Interest Expense,2025-12-31,5380000000.0
+TCS,Q,income,Interest Expense,2026-03-31,2650000000.0
+TCS,Q,income,Interest Expense,2026-06-30,2730000000.0
+TCS,Q,income,Interest Expense,2026-09-30,2520000000.0
+TCS,Q,income,Net Income,2025-06-30,127600000000.0
+TCS,Q,income,Net Income,2025-12-31,106570000000.0
+TCS,Q,income,Net Income,2026-03-31,137180000000.0
+TCS,Q,income,Net Income,2026-06-30,133490000000.0
+TCS,Q,income,Net Income,2026-09-30,138840000000.0
+TCS,Q,income,Net Income Common Stockholders,2025-06-30,127600000000.0
+TCS,Q,income,Net Income Common Stockholders,2025-12-31,106570000000.0
+TCS,Q,income,Net Income Common Stockholders,2026-03-31,137180000000.0
+TCS,Q,income,Net Income Common Stockholders,2026-06-30,133490000000.0
+TCS,Q,income,Net Income Common Stockholders,2026-09-30,138840000000.0
+TCS,Q,income,Operating Income,2025-06-30,155390000000.0
+TCS,Q,income,Operating Income,2025-12-31,169260000000.0
+TCS,Q,income,Operating Income,2026-03-31,178700000000.0
+TCS,Q,income,Operating Income,2026-06-30,174010000000.0
+TCS,Q,income,Operating Income,2026-09-30,175530000000.0
+TCS,Q,income,Pretax Income,2025-06-30,169790000000.0
+TCS,Q,income,Pretax Income,2025-12-31,140780000000.0
+TCS,Q,income,Pretax Income,2026-03-31,183620000000.0
+TCS,Q,income,Pretax Income,2026-06-30,179440000000.0
+TCS,Q,income,Pretax Income,2026-09-30,186380000000.0
+TCS,Q,income,Total Revenue,2025-06-30,634370000000.0
+TCS,Q,income,Total Revenue,2025-12-31,670870000000.0
+TCS,Q,income,Total Revenue,2026-03-31,706980000000.0
+TCS,Q,income,Total Revenue,2026-06-30,722750000000.0
+TCS,Q,income,Total Revenue,2026-09-30,731880000000.0

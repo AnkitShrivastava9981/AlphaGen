@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+SWIGGY,A,balance,Cash And Cash Equivalents,2023-03-31,8325210000.0
+SWIGGY,A,balance,Cash And Cash Equivalents,2024-03-31,8870510000.0
+SWIGGY,A,balance,Cash And Cash Equivalents,2025-03-31,12310000000.0
+SWIGGY,A,balance,Cash And Cash Equivalents,2026-03-31,27470000000.0
+SWIGGY,A,balance,Ordinary Shares Number,2023-03-31,2238473799.0
+SWIGGY,A,balance,Ordinary Shares Number,2024-03-31,2238473799.0
+SWIGGY,A,balance,Ordinary Shares Number,2025-03-31,2286480881.0
+SWIGGY,A,balance,Ordinary Shares Number,2026-03-31,2606054682.0
+SWIGGY,A,balance,Stockholders Equity,2023-03-31,90566120000.0
+SWIGGY,A,balance,Stockholders Equity,2024-03-31,77914610000.0
+SWIGGY,A,balance,Stockholders Equity,2025-03-31,102200000000.0
+SWIGGY,A,balance,Stockholders Equity,2026-03-31,183140000000.0
+SWIGGY,A,balance,Total Assets,2023-03-31,112806450000.0
+SWIGGY,A,balance,Total Assets,2024-03-31,105294210000.0
+SWIGGY,A,balance,Total Assets,2025-03-31,152050000000.0
+SWIGGY,A,balance,Total Assets,2026-03-31,252370000000.0
+SWIGGY,A,balance,Total Debt,2023-03-31,5996000000.0
+SWIGGY,A,balance,Total Debt,2024-03-31,8641900000.0
+SWIGGY,A,balance,Total Debt,2025-03-31,17020000000.0
+SWIGGY,A,balance,Total Debt,2026-03-31,25510000000.0
+SWIGGY,A,cashflow,Capital Expenditure,2023-03-31,-1682990000.0
+SWIGGY,A,cashflow,Capital Expenditure,2024-03-31,-3517140000.0
+SWIGGY,A,cashflow,Capital Expenditure,2025-03-31,-7500000000.0
+SWIGGY,A,cashflow,Capital Expenditure,2026-03-31,-9190000000.0
+SWIGGY,A,cashflow,Free Cash Flow,2023-03-31,-42282080000.0
+SWIGGY,A,cashflow,Free Cash Flow,2024-03-31,-16644490000.0
+SWIGGY,A,cashflow,Free Cash Flow,2025-03-31,-29190000000.0
+SWIGGY,A,cashflow,Free Cash Flow,2026-03-31,-38170000000.0
+SWIGGY,A,cashflow,Operating Cash Flow,2023-03-31,-40599090000.0
+SWIGGY,A,cashflow,Operating Cash Flow,2024-03-31,-13127350000.0
+SWIGGY,A,cashflow,Operating Cash Flow,2025-03-31,-21690000000.0
+SWIGGY,A,cashflow,Operating Cash Flow,2026-03-31,-28980000000.0
+SWIGGY,A,income,Basic EPS,2023-03-31,-18.670332
+SWIGGY,A,income,Basic EPS,2024-03-31,-10.49931
+SWIGGY,A,income,Basic EPS,2025-03-31,-13.72
+SWIGGY,A,income,Basic EPS,2026-03-31,-16.87
+SWIGGY,A,income,Diluted EPS,2023-03-31,-18.670332
+SWIGGY,A,income,Diluted EPS,2024-03-31,-10.49931
+SWIGGY,A,income,Diluted EPS,2025-03-31,-13.72
+SWIGGY,A,income,Diluted EPS,2026-03-31,-16.87
+SWIGGY,A,income,EBITDA,2023-03-31,-38355100000.0
+SWIGGY,A,income,EBITDA,2024-03-31,-18582550000.0
+SWIGGY,A,income,EBITDA,2025-03-31,-24040000000.0
+SWIGGY,A,income,EBITDA,2026-03-31,-27370000000.0
+SWIGGY,A,income,Interest Expense,2023-03-31,580090000.0
+SWIGGY,A,income,Interest Expense,2024-03-31,714030000.0
+SWIGGY,A,income,Interest Expense,2025-03-31,1010000000.0
+SWIGGY,A,income,Interest Expense,2026-03-31,2000000000.0
+SWIGGY,A,income,Net Income,2023-03-31,-41793050000.0
+SWIGGY,A,income,Net Income,2024-03-31,-23502430000.0
+SWIGGY,A,income,Net Income,2025-03-31,-31170000000.0
+SWIGGY,A,income,Net Income,2026-03-31,-41540000000.0
+SWIGGY,A,income,Net Income Common Stockholders,2023-03-31,-41793050000.0
+SWIGGY,A,income,Net Income Common Stockholders,2024-03-31,-23502430000.0
+SWIGGY,A,income,Net Income Common Stockholders,2025-03-31,-31170000000.0
+SWIGGY,A,income,Net Income Common Stockholders,2026-03-31,-41540000000.0
+SWIGGY,A,income,Operating Income,2023-03-31,-45268910000.0
+SWIGGY,A,income,Operating Income,2024-03-31,-26014610000.0
+SWIGGY,A,income,Operating Income,2025-03-31,-33920000000.0
+SWIGGY,A,income,Operating Income,2026-03-31,-44140000000.0
+SWIGGY,A,income,Pretax Income,2023-03-31,-41793050000.0
+SWIGGY,A,income,Pretax Income,2024-03-31,-23502430000.0
+SWIGGY,A,income,Pretax Income,2025-03-31,-31170000000.0
+SWIGGY,A,income,Pretax Income,2026-03-31,-41540000000.0
+SWIGGY,A,income,Total Revenue,2023-03-31,81384980000.0
+SWIGGY,A,income,Total Revenue,2024-03-31,110726390000.0
+SWIGGY,A,income,Total Revenue,2025-03-31,150460000000.0
+SWIGGY,A,income,Total Revenue,2026-03-31,228280000000.0
+SWIGGY,Q,income,Basic EPS,2025-06-30,-5.04
+SWIGGY,Q,income,Basic EPS,2025-12-31,-4.36
+SWIGGY,Q,income,Basic EPS,2026-03-31,-3.34
+SWIGGY,Q,income,Basic EPS,2026-06-30,-2.96
+SWIGGY,Q,income,Basic EPS,2026-09-30,-3.45
+SWIGGY,Q,income,Diluted EPS,2025-06-30,-5.04
+SWIGGY,Q,income,Diluted EPS,2025-12-31,-4.36
+SWIGGY,Q,income,Diluted EPS,2026-03-31,-3.34
+SWIGGY,Q,income,Diluted EPS,2026-06-30,-2.96
+SWIGGY,Q,income,Diluted EPS,2026-09-30,-3.45
+SWIGGY,Q,income,EBITDA,2025-06-30,-8680000000.0
+SWIGGY,Q,income,EBITDA,2025-12-31,-6970000000.0
+SWIGGY,Q,income,EBITDA,2026-03-31,-4320000000.0
+SWIGGY,Q,income,EBITDA,2026-06-30,-4400000000.0
+SWIGGY,Q,income,EBITDA,2026-09-30,-5600000000.0
+SWIGGY,Q,income,Interest Expense,2025-06-30,410000000.0
+SWIGGY,Q,income,Interest Expense,2025-12-31,550000000.0
+SWIGGY,Q,income,Interest Expense,2026-03-31,560000000.0
+SWIGGY,Q,income,Interest Expense,2026-06-30,530000000.0
+SWIGGY,Q,income,Interest Expense,2026-09-30,540000000.0
+SWIGGY,Q,income,Net Income,2025-06-30,-11970000000.0
+SWIGGY,Q,income,Net Income,2025-12-31,-10650000000.0
+SWIGGY,Q,income,Net Income,2026-03-31,-8000000000.0
+SWIGGY,Q,income,Net Income,2026-06-30,-7910000000.0
+SWIGGY,Q,income,Net Income,2026-09-30,-9220000000.0
+SWIGGY,Q,income,Net Income Common Stockholders,2025-06-30,-11970000000.0
+SWIGGY,Q,income,Net Income Common Stockholders,2025-12-31,-10650000000.0
+SWIGGY,Q,income,Net Income Common Stockholders,2026-03-31,-8000000000.0
+SWIGGY,Q,income,Net Income Common Stockholders,2026-06-30,-7910000000.0
+SWIGGY,Q,income,Net Income Common Stockholders,2026-09-30,-9220000000.0
+SWIGGY,Q,income,Operating Income,2025-06-30,-12420000000.0
+SWIGGY,Q,income,Operating Income,2025-12-31,-10950000000.0
+SWIGGY,Q,income,Operating Income,2026-03-31,-10090000000.0
+SWIGGY,Q,income,Operating Income,2026-06-30,-9480000000.0
+SWIGGY,Q,income,Operating Income,2026-09-30,-10780000000.0
+SWIGGY,Q,income,Pretax Income,2025-06-30,-11970000000.0
+SWIGGY,Q,income,Pretax Income,2025-12-31,-10650000000.0
+SWIGGY,Q,income,Pretax Income,2026-03-31,-8000000000.0
+SWIGGY,Q,income,Pretax Income,2026-06-30,-7910000000.0
+SWIGGY,Q,income,Pretax Income,2026-09-30,-9220000000.0
+SWIGGY,Q,income,Total Revenue,2025-06-30,49610000000.0
+SWIGGY,Q,income,Total Revenue,2025-12-31,61480000000.0
+SWIGGY,Q,income,Total Revenue,2026-03-31,63830000000.0
+SWIGGY,Q,income,Total Revenue,2026-06-30,68120000000.0
+SWIGGY,Q,income,Total Revenue,2026-09-30,75710000000.0

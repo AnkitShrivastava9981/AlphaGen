@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+INDGN,A,balance,Cash And Cash Equivalents,2023-03-31,735850000.0
+INDGN,A,balance,Cash And Cash Equivalents,2024-03-31,1886000000.0
+INDGN,A,balance,Cash And Cash Equivalents,2025-03-31,2410000000.0
+INDGN,A,balance,Cash And Cash Equivalents,2026-03-31,3008000000.0
+INDGN,A,balance,Net Debt,2023-03-31,3207510000.0
+INDGN,A,balance,Net Debt,2024-03-31,2145000000.0
+INDGN,A,balance,Ordinary Shares Number,2023-03-31,238896201.0
+INDGN,A,balance,Ordinary Shares Number,2024-03-31,238896201.0
+INDGN,A,balance,Ordinary Shares Number,2025-03-31,240007962.0
+INDGN,A,balance,Ordinary Shares Number,2026-03-31,240528646.0
+INDGN,A,balance,Stockholders Equity,2023-03-31,10637220000.0
+INDGN,A,balance,Stockholders Equity,2024-03-31,14291000000.0
+INDGN,A,balance,Stockholders Equity,2025-03-31,26156000000.0
+INDGN,A,balance,Stockholders Equity,2026-03-31,31387000000.0
+INDGN,A,balance,Total Assets,2023-03-31,22038660000.0
+INDGN,A,balance,Total Assets,2024-03-31,25456000000.0
+INDGN,A,balance,Total Assets,2025-03-31,33259000000.0
+INDGN,A,balance,Total Assets,2026-03-31,46203000000.0
+INDGN,A,balance,Total Debt,2023-03-31,5025830000.0
+INDGN,A,balance,Total Debt,2024-03-31,4896000000.0
+INDGN,A,balance,Total Debt,2025-03-31,1016000000.0
+INDGN,A,balance,Total Debt,2026-03-31,1444000000.0
+INDGN,A,cashflow,Capital Expenditure,2023-03-31,-188000000.0
+INDGN,A,cashflow,Capital Expenditure,2024-03-31,-107000000.0
+INDGN,A,cashflow,Capital Expenditure,2025-03-31,-300000000.0
+INDGN,A,cashflow,Capital Expenditure,2026-03-31,-444000000.0
+INDGN,A,cashflow,Free Cash Flow,2023-03-31,1114000000.0
+INDGN,A,cashflow,Free Cash Flow,2024-03-31,4970000000.0
+INDGN,A,cashflow,Free Cash Flow,2025-03-31,4119000000.0
+INDGN,A,cashflow,Free Cash Flow,2026-03-31,6064000000.0
+INDGN,A,cashflow,Operating Cash Flow,2023-03-31,1302000000.0
+INDGN,A,cashflow,Operating Cash Flow,2024-03-31,5077000000.0
+INDGN,A,cashflow,Operating Cash Flow,2025-03-31,4419000000.0
+INDGN,A,cashflow,Operating Cash Flow,2026-03-31,6508000000.0
+INDGN,A,income,Basic EPS,2023-03-31,11.121378
+INDGN,A,income,Basic EPS,2024-03-31,14.093987
+INDGN,A,income,Basic EPS,2025-03-31,17.15
+INDGN,A,income,Basic EPS,2026-03-31,16.72
+INDGN,A,income,Diluted EPS,2023-03-31,11.121378
+INDGN,A,income,Diluted EPS,2024-03-31,14.093987
+INDGN,A,income,Diluted EPS,2025-03-31,17.02
+INDGN,A,income,Diluted EPS,2026-03-31,16.62
+INDGN,A,income,EBITDA,2023-03-31,4541000000.0
+INDGN,A,income,EBITDA,2024-03-31,5810000000.0
+INDGN,A,income,EBITDA,2025-03-31,6389000000.0
+INDGN,A,income,EBITDA,2026-03-31,6675000000.0
+INDGN,A,income,Interest Expense,2023-03-31,313000000.0
+INDGN,A,income,Interest Expense,2024-03-31,463000000.0
+INDGN,A,income,Interest Expense,2025-03-31,194000000.0
+INDGN,A,income,Interest Expense,2026-03-31,160000000.0
+INDGN,A,income,Net Income,2023-03-31,2661000000.0
+INDGN,A,income,Net Income,2024-03-31,3367000000.0
+INDGN,A,income,Net Income,2025-03-31,4067000000.0
+INDGN,A,income,Net Income,2026-03-31,4011000000.0
+INDGN,A,income,Net Income Common Stockholders,2023-03-31,2661000000.0
+INDGN,A,income,Net Income Common Stockholders,2024-03-31,3367000000.0
+INDGN,A,income,Net Income Common Stockholders,2025-03-31,4067000000.0
+INDGN,A,income,Net Income Common Stockholders,2026-03-31,4011000000.0
+INDGN,A,income,Operating Income,2023-03-31,3363000000.0
+INDGN,A,income,Operating Income,2024-03-31,4348000000.0
+INDGN,A,income,Operating Income,2025-03-31,4541000000.0
+INDGN,A,income,Operating Income,2026-03-31,4978000000.0
+INDGN,A,income,Pretax Income,2023-03-31,3630000000.0
+INDGN,A,income,Pretax Income,2024-03-31,4586000000.0
+INDGN,A,income,Pretax Income,2025-03-31,5393000000.0
+INDGN,A,income,Pretax Income,2026-03-31,5250000000.0
+INDGN,A,income,Total Revenue,2023-03-31,23061000000.0
+INDGN,A,income,Total Revenue,2024-03-31,25896000000.0
+INDGN,A,income,Total Revenue,2025-03-31,28393000000.0
+INDGN,A,income,Total Revenue,2026-03-31,35105000000.0
+INDGN,Q,income,Basic EPS,2025-06-30,4.86
+INDGN,Q,income,Basic EPS,2025-12-31,4.29
+INDGN,Q,income,Basic EPS,2026-03-31,3.32
+INDGN,Q,income,Basic EPS,2026-06-30,4.84
+INDGN,Q,income,Basic EPS,2026-09-30,4.67
+INDGN,Q,income,Diluted EPS,2025-06-30,4.82
+INDGN,Q,income,Diluted EPS,2025-12-31,4.26
+INDGN,Q,income,Diluted EPS,2026-03-31,3.3
+INDGN,Q,income,Diluted EPS,2026-06-30,4.81
+INDGN,Q,income,Diluted EPS,2026-09-30,4.64
+INDGN,Q,income,EBITDA,2025-06-30,1774000000.0
+INDGN,Q,income,EBITDA,2025-12-31,1789000000.0
+INDGN,Q,income,EBITDA,2026-03-31,1541000000.0
+INDGN,Q,income,EBITDA,2026-06-30,2032000000.0
+INDGN,Q,income,EBITDA,2026-09-30,2007000000.0
+INDGN,Q,income,Interest Expense,2025-06-30,37000000.0
+INDGN,Q,income,Interest Expense,2025-12-31,46000000.0
+INDGN,Q,income,Interest Expense,2026-03-31,72000000.0
+INDGN,Q,income,Interest Expense,2026-06-30,64000000.0
+INDGN,Q,income,Interest Expense,2026-09-30,69000000.0
+INDGN,Q,income,Net Income,2025-06-30,1164000000.0
+INDGN,Q,income,Net Income,2025-12-31,1029000000.0
+INDGN,Q,income,Net Income,2026-03-31,797000000.0
+INDGN,Q,income,Net Income,2026-06-30,1162000000.0
+INDGN,Q,income,Net Income,2026-09-30,1123000000.0
+INDGN,Q,income,Net Income Common Stockholders,2025-06-30,1164000000.0
+INDGN,Q,income,Net Income Common Stockholders,2025-12-31,1029000000.0
+INDGN,Q,income,Net Income Common Stockholders,2026-03-31,797000000.0
+INDGN,Q,income,Net Income Common Stockholders,2026-06-30,1162000000.0
+INDGN,Q,income,Net Income Common Stockholders,2026-09-30,1123000000.0
+INDGN,Q,income,Operating Income,2025-06-30,1337000000.0
+INDGN,Q,income,Operating Income,2025-12-31,1199000000.0
+INDGN,Q,income,Operating Income,2026-03-31,1218000000.0
+INDGN,Q,income,Operating Income,2026-06-30,1301000000.0
+INDGN,Q,income,Operating Income,2026-09-30,1393000000.0
+INDGN,Q,income,Pretax Income,2025-06-30,1521000000.0
+INDGN,Q,income,Pretax Income,2025-12-31,1347000000.0
+INDGN,Q,income,Pretax Income,2026-03-31,1051000000.0
+INDGN,Q,income,Pretax Income,2026-06-30,1527000000.0
+INDGN,Q,income,Pretax Income,2026-09-30,1474000000.0
+INDGN,Q,income,Total Revenue,2025-06-30,7608000000.0
+INDGN,Q,income,Total Revenue,2025-12-31,9421000000.0
+INDGN,Q,income,Total Revenue,2026-03-31,10034000000.0
+INDGN,Q,income,Total Revenue,2026-06-30,10631000000.0
+INDGN,Q,income,Total Revenue,2026-09-30,11223000000.0

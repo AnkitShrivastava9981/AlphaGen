@@ -1,0 +1,115 @@
+symbol,freq,statement,item,period_end,value
+WAKEFIT,A,balance,Cash And Cash Equivalents,2023-03-31,615240000.0
+WAKEFIT,A,balance,Cash And Cash Equivalents,2024-03-31,36260000.0
+WAKEFIT,A,balance,Cash And Cash Equivalents,2025-03-31,71190000.0
+WAKEFIT,A,balance,Cash And Cash Equivalents,2026-03-31,884860000.0
+WAKEFIT,A,balance,Net Debt,2024-03-31,37350000.0
+WAKEFIT,A,balance,Ordinary Shares Number,2023-03-31,326828675.0
+WAKEFIT,A,balance,Ordinary Shares Number,2024-03-31,326828675.0
+WAKEFIT,A,balance,Ordinary Shares Number,2025-03-31,326828675.0
+WAKEFIT,A,balance,Ordinary Shares Number,2026-03-31,329966749.0
+WAKEFIT,A,balance,Stockholders Equity,2023-03-31,5050790000.0
+WAKEFIT,A,balance,Stockholders Equity,2024-03-31,5436060000.0
+WAKEFIT,A,balance,Stockholders Equity,2025-03-31,5205700000.0
+WAKEFIT,A,balance,Stockholders Equity,2026-03-31,11318200000.0
+WAKEFIT,A,balance,Total Assets,2023-03-31,7918000000.0
+WAKEFIT,A,balance,Total Assets,2024-03-31,9282980000.0
+WAKEFIT,A,balance,Total Assets,2025-03-31,10507500000.0
+WAKEFIT,A,balance,Total Assets,2026-03-31,17511990000.0
+WAKEFIT,A,balance,Total Debt,2023-03-31,1439300000.0
+WAKEFIT,A,balance,Total Debt,2024-03-31,1899010000.0
+WAKEFIT,A,balance,Total Debt,2025-03-31,2733270000.0
+WAKEFIT,A,balance,Total Debt,2026-03-31,2718780000.0
+WAKEFIT,A,cashflow,Capital Expenditure,2023-03-31,-399900000.0
+WAKEFIT,A,cashflow,Capital Expenditure,2024-03-31,-290840000.0
+WAKEFIT,A,cashflow,Capital Expenditure,2025-03-31,-507700000.0
+WAKEFIT,A,cashflow,Capital Expenditure,2026-03-31,-295930000.0
+WAKEFIT,A,cashflow,Free Cash Flow,2023-03-31,-604530000.0
+WAKEFIT,A,cashflow,Free Cash Flow,2024-03-31,515090000.0
+WAKEFIT,A,cashflow,Free Cash Flow,2025-03-31,254500000.0
+WAKEFIT,A,cashflow,Free Cash Flow,2026-03-31,2149350000.0
+WAKEFIT,A,cashflow,Operating Cash Flow,2023-03-31,-204630000.0
+WAKEFIT,A,cashflow,Operating Cash Flow,2024-03-31,805930000.0
+WAKEFIT,A,cashflow,Operating Cash Flow,2025-03-31,762200000.0
+WAKEFIT,A,cashflow,Operating Cash Flow,2026-03-31,2445280000.0
+WAKEFIT,A,income,Basic EPS,2023-03-31,-4.457473
+WAKEFIT,A,income,Basic EPS,2024-03-31,-0.460578
+WAKEFIT,A,income,Basic EPS,2025-03-31,-1.07102
+WAKEFIT,A,income,Basic EPS,2026-03-31,6.03
+WAKEFIT,A,income,Diluted EPS,2023-03-31,-4.457473
+WAKEFIT,A,income,Diluted EPS,2024-03-31,-0.460578
+WAKEFIT,A,income,Diluted EPS,2025-03-31,-1.07102
+WAKEFIT,A,income,Diluted EPS,2026-03-31,6.0
+WAKEFIT,A,income,EBITDA,2023-03-31,-857790000.0
+WAKEFIT,A,income,EBITDA,2024-03-31,658100000.0
+WAKEFIT,A,income,EBITDA,2025-03-31,903340000.0
+WAKEFIT,A,income,EBITDA,2026-03-31,2235610000.0
+WAKEFIT,A,income,Interest Expense,2023-03-31,126300000.0
+WAKEFIT,A,income,Interest Expense,2024-03-31,169740000.0
+WAKEFIT,A,income,Interest Expense,2025-03-31,290960000.0
+WAKEFIT,A,income,Interest Expense,2026-03-31,280030000.0
+WAKEFIT,A,income,Net Income,2023-03-31,-1456830000.0
+WAKEFIT,A,income,Net Income,2024-03-31,-150530000.0
+WAKEFIT,A,income,Net Income,2025-03-31,-350040000.0
+WAKEFIT,A,income,Net Income,2026-03-31,1891750000.0
+WAKEFIT,A,income,Net Income Common Stockholders,2023-03-31,-1456830000.0
+WAKEFIT,A,income,Net Income Common Stockholders,2024-03-31,-150530000.0
+WAKEFIT,A,income,Net Income Common Stockholders,2025-03-31,-350040000.0
+WAKEFIT,A,income,Net Income Common Stockholders,2026-03-31,1891750000.0
+WAKEFIT,A,income,Operating Income,2023-03-31,-1307380000.0
+WAKEFIT,A,income,Operating Income,2024-03-31,-197120000.0
+WAKEFIT,A,income,Operating Income,2025-03-31,-220800000.0
+WAKEFIT,A,income,Operating Income,2026-03-31,1031720000.0
+WAKEFIT,A,income,Pretax Income,2023-03-31,-1456830000.0
+WAKEFIT,A,income,Pretax Income,2024-03-31,-150530000.0
+WAKEFIT,A,income,Pretax Income,2025-03-31,-350040000.0
+WAKEFIT,A,income,Pretax Income,2026-03-31,911040000.0
+WAKEFIT,A,income,Total Revenue,2023-03-31,7967860000.0
+WAKEFIT,A,income,Total Revenue,2024-03-31,9678650000.0
+WAKEFIT,A,income,Total Revenue,2025-03-31,12560490000.0
+WAKEFIT,A,income,Total Revenue,2026-03-31,14751640000.0
+WAKEFIT,Q,income,Basic EPS,2025-03-31,-0.80149
+WAKEFIT,Q,income,Basic EPS,2025-06-30,0.600192
+WAKEFIT,Q,income,Basic EPS,2025-12-31,1.01
+WAKEFIT,Q,income,Basic EPS,2026-03-31,3.7
+WAKEFIT,Q,income,Basic EPS,2026-06-30,0.71
+WAKEFIT,Q,income,Diluted EPS,2025-03-31,-0.80149
+WAKEFIT,Q,income,Diluted EPS,2025-06-30,0.600192
+WAKEFIT,Q,income,Diluted EPS,2025-12-31,1.01
+WAKEFIT,Q,income,Diluted EPS,2026-03-31,3.68
+WAKEFIT,Q,income,Diluted EPS,2026-06-30,0.7
+WAKEFIT,Q,income,EBITDA,2025-06-30,527580000.0
+WAKEFIT,Q,income,EBITDA,2025-09-30,503990000.0
+WAKEFIT,Q,income,EBITDA,2025-12-31,664090000.0
+WAKEFIT,Q,income,EBITDA,2026-03-31,540250000.0
+WAKEFIT,Q,income,EBITDA,2026-06-30,720210000.0
+WAKEFIT,Q,income,Interest Expense,2025-06-30,74730000.0
+WAKEFIT,Q,income,Interest Expense,2025-09-30,72930000.0
+WAKEFIT,Q,income,Interest Expense,2025-12-31,70420000.0
+WAKEFIT,Q,income,Interest Expense,2026-03-31,62250000.0
+WAKEFIT,Q,income,Interest Expense,2026-06-30,73850000.0
+WAKEFIT,Q,income,Net Income,2025-06-30,196160000.0
+WAKEFIT,Q,income,Net Income,2025-09-30,159580000.0
+WAKEFIT,Q,income,Net Income,2025-12-31,318560000.0
+WAKEFIT,Q,income,Net Income,2026-03-31,1217450000.0
+WAKEFIT,Q,income,Net Income,2026-06-30,233820000.0
+WAKEFIT,Q,income,Net Income Common Stockholders,2025-06-30,196160000.0
+WAKEFIT,Q,income,Net Income Common Stockholders,2025-09-30,159580000.0
+WAKEFIT,Q,income,Net Income Common Stockholders,2025-12-31,318560000.0
+WAKEFIT,Q,income,Net Income Common Stockholders,2026-03-31,1217450000.0
+WAKEFIT,Q,income,Net Income Common Stockholders,2026-06-30,233820000.0
+WAKEFIT,Q,income,Operating Income,2025-06-30,186170000.0
+WAKEFIT,Q,income,Operating Income,2025-09-30,266960000.0
+WAKEFIT,Q,income,Operating Income,2025-12-31,316640000.0
+WAKEFIT,Q,income,Operating Income,2026-03-31,123530000.0
+WAKEFIT,Q,income,Operating Income,2026-06-30,280700000.0
+WAKEFIT,Q,income,Pretax Income,2025-06-30,196160000.0
+WAKEFIT,Q,income,Pretax Income,2025-09-30,159580000.0
+WAKEFIT,Q,income,Pretax Income,2025-12-31,318560000.0
+WAKEFIT,Q,income,Pretax Income,2026-03-31,236740000.0
+WAKEFIT,Q,income,Pretax Income,2026-06-30,363050000.0
+WAKEFIT,Q,income,Total Revenue,2025-06-30,3471230000.0
+WAKEFIT,Q,income,Total Revenue,2025-09-30,3698870000.0
+WAKEFIT,Q,income,Total Revenue,2025-12-31,4213400000.0
+WAKEFIT,Q,income,Total Revenue,2026-03-31,3436000000.0
+WAKEFIT,Q,income,Total Revenue,2026-06-30,4049110000.0

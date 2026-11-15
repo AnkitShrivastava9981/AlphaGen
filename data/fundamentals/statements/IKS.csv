@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+IKS,A,balance,Cash And Cash Equivalents,2023-03-31,1236200000.0
+IKS,A,balance,Cash And Cash Equivalents,2024-03-31,1438070000.0
+IKS,A,balance,Cash And Cash Equivalents,2025-03-31,1803630000.0
+IKS,A,balance,Cash And Cash Equivalents,2026-03-31,3887140000.0
+IKS,A,balance,Net Debt,2024-03-31,10496120000.0
+IKS,A,balance,Net Debt,2025-03-31,5746760000.0
+IKS,A,balance,Net Debt,2026-03-31,2519530000.0
+IKS,A,balance,Ordinary Shares Number,2023-03-31,166680050.0
+IKS,A,balance,Ordinary Shares Number,2024-03-31,166680050.0
+IKS,A,balance,Ordinary Shares Number,2025-03-31,167144850.0
+IKS,A,balance,Ordinary Shares Number,2026-03-31,167617364.0
+IKS,A,balance,Stockholders Equity,2023-03-31,8286390000.0
+IKS,A,balance,Stockholders Equity,2024-03-31,11578580000.0
+IKS,A,balance,Stockholders Equity,2025-03-31,17896930000.0
+IKS,A,balance,Stockholders Equity,2026-03-31,28002370000.0
+IKS,A,balance,Total Assets,2023-03-31,9883080000.0
+IKS,A,balance,Total Assets,2024-03-31,30275220000.0
+IKS,A,balance,Total Assets,2025-03-31,30518380000.0
+IKS,A,balance,Total Assets,2026-03-31,42678810000.0
+IKS,A,balance,Total Debt,2023-03-31,523460000.0
+IKS,A,balance,Total Debt,2024-03-31,13110940000.0
+IKS,A,balance,Total Debt,2025-03-31,8556230000.0
+IKS,A,balance,Total Debt,2026-03-31,7525150000.0
+IKS,A,cashflow,Capital Expenditure,2023-03-31,-85530000.0
+IKS,A,cashflow,Capital Expenditure,2024-03-31,-327070000.0
+IKS,A,cashflow,Capital Expenditure,2025-03-31,-423780000.0
+IKS,A,cashflow,Capital Expenditure,2026-03-31,-606410000.0
+IKS,A,cashflow,Free Cash Flow,2023-03-31,2794290000.0
+IKS,A,cashflow,Free Cash Flow,2024-03-31,1770640000.0
+IKS,A,cashflow,Free Cash Flow,2025-03-31,2755100000.0
+IKS,A,cashflow,Free Cash Flow,2026-03-31,6129460000.0
+IKS,A,cashflow,Operating Cash Flow,2023-03-31,2879820000.0
+IKS,A,cashflow,Operating Cash Flow,2024-03-31,2097710000.0
+IKS,A,cashflow,Operating Cash Flow,2025-03-31,3178880000.0
+IKS,A,cashflow,Operating Cash Flow,2026-03-31,6735870000.0
+IKS,A,income,Basic EPS,2023-03-31,17.789962
+IKS,A,income,Basic EPS,2024-03-31,21.593471
+IKS,A,income,Basic EPS,2025-03-31,29.2
+IKS,A,income,Basic EPS,2026-03-31,43.12
+IKS,A,income,Diluted EPS,2023-03-31,17.789962
+IKS,A,income,Diluted EPS,2024-03-31,21.593471
+IKS,A,income,Diluted EPS,2025-03-31,28.62
+IKS,A,income,Diluted EPS,2026-03-31,42.26
+IKS,A,income,EBITDA,2023-03-31,3892570000.0
+IKS,A,income,EBITDA,2024-03-31,5591560000.0
+IKS,A,income,EBITDA,2025-03-31,8078540000.0
+IKS,A,income,EBITDA,2026-03-31,10991390000.0
+IKS,A,income,Interest Expense,2023-03-31,53630000.0
+IKS,A,income,Interest Expense,2024-03-31,589430000.0
+IKS,A,income,Interest Expense,2025-03-31,889090000.0
+IKS,A,income,Interest Expense,2026-03-31,700740000.0
+IKS,A,income,Net Income,2023-03-31,3052280000.0
+IKS,A,income,Net Income,2024-03-31,3704860000.0
+IKS,A,income,Net Income,2025-03-31,4860590000.0
+IKS,A,income,Net Income,2026-03-31,7215540000.0
+IKS,A,income,Net Income Common Stockholders,2023-03-31,3052280000.0
+IKS,A,income,Net Income Common Stockholders,2024-03-31,3704860000.0
+IKS,A,income,Net Income Common Stockholders,2025-03-31,4860590000.0
+IKS,A,income,Net Income Common Stockholders,2026-03-31,7215540000.0
+IKS,A,income,Operating Income,2023-03-31,3706240000.0
+IKS,A,income,Operating Income,2024-03-31,4660720000.0
+IKS,A,income,Operating Income,2025-03-31,6549150000.0
+IKS,A,income,Operating Income,2026-03-31,9063060000.0
+IKS,A,income,Pretax Income,2023-03-31,3593430000.0
+IKS,A,income,Pretax Income,2024-03-31,4416680000.0
+IKS,A,income,Pretax Income,2025-03-31,6062820000.0
+IKS,A,income,Pretax Income,2026-03-31,9049150000.0
+IKS,A,income,Total Revenue,2023-03-31,10313000000.0
+IKS,A,income,Total Revenue,2024-03-31,18169090000.0
+IKS,A,income,Total Revenue,2025-03-31,26639940000.0
+IKS,A,income,Total Revenue,2026-03-31,31937880000.0
+IKS,Q,income,Basic EPS,2025-06-30,9.07
+IKS,Q,income,Basic EPS,2025-12-31,10.96
+IKS,Q,income,Basic EPS,2026-03-31,12.31
+IKS,Q,income,Basic EPS,2026-06-30,11.56
+IKS,Q,income,Basic EPS,2026-09-30,12.98
+IKS,Q,income,Diluted EPS,2025-06-30,8.85
+IKS,Q,income,Diluted EPS,2025-12-31,10.73
+IKS,Q,income,Diluted EPS,2026-03-31,12.06
+IKS,Q,income,Diluted EPS,2026-06-30,11.32
+IKS,Q,income,Diluted EPS,2026-09-30,12.72
+IKS,Q,income,EBITDA,2025-06-30,2408640000.0
+IKS,Q,income,EBITDA,2025-12-31,2847600000.0
+IKS,Q,income,EBITDA,2026-03-31,2996890000.0
+IKS,Q,income,EBITDA,2026-06-30,2953430000.0
+IKS,Q,income,EBITDA,2026-09-30,4649110000.0
+IKS,Q,income,Interest Expense,2025-06-30,180790000.0
+IKS,Q,income,Interest Expense,2025-12-31,233430000.0
+IKS,Q,income,Interest Expense,2026-03-31,126770000.0
+IKS,Q,income,Interest Expense,2026-06-30,101100000.0
+IKS,Q,income,Interest Expense,2026-09-30,1019150000.0
+IKS,Q,income,Net Income,2025-06-30,1515390000.0
+IKS,Q,income,Net Income,2025-12-31,1833280000.0
+IKS,Q,income,Net Income,2026-03-31,2059680000.0
+IKS,Q,income,Net Income,2026-06-30,1937410000.0
+IKS,Q,income,Net Income,2026-09-30,2176480000.0
+IKS,Q,income,Net Income Common Stockholders,2025-06-30,1515390000.0
+IKS,Q,income,Net Income Common Stockholders,2025-12-31,1833280000.0
+IKS,Q,income,Net Income Common Stockholders,2026-03-31,2059680000.0
+IKS,Q,income,Net Income Common Stockholders,2026-06-30,1937410000.0
+IKS,Q,income,Net Income Common Stockholders,2026-09-30,2176480000.0
+IKS,Q,income,Operating Income,2025-06-30,2098480000.0
+IKS,Q,income,Operating Income,2025-12-31,2495560000.0
+IKS,Q,income,Operating Income,2026-03-31,2661670000.0
+IKS,Q,income,Operating Income,2026-06-30,2606510000.0
+IKS,Q,income,Operating Income,2026-09-30,3517390000.0
+IKS,Q,income,Pretax Income,2025-06-30,1948820000.0
+IKS,Q,income,Pretax Income,2025-12-31,2293700000.0
+IKS,Q,income,Pretax Income,2026-03-31,2529550000.0
+IKS,Q,income,Pretax Income,2026-06-30,2509440000.0
+IKS,Q,income,Pretax Income,2026-09-30,2732060000.0
+IKS,Q,income,Total Revenue,2025-06-30,7400950000.0
+IKS,Q,income,Total Revenue,2025-12-31,8149500000.0
+IKS,Q,income,Total Revenue,2026-03-31,8576520000.0
+IKS,Q,income,Total Revenue,2026-06-30,8936290000.0
+IKS,Q,income,Total Revenue,2026-09-30,15924780000.0

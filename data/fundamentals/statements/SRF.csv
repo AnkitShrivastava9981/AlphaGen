@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SRF,A,balance,Cash And Cash Equivalents,2023-03-31,6079800000.0
+SRF,A,balance,Cash And Cash Equivalents,2024-03-31,3993300000.0
+SRF,A,balance,Cash And Cash Equivalents,2025-03-31,3339900000.0
+SRF,A,balance,Cash And Cash Equivalents,2026-03-31,5904900000.0
+SRF,A,balance,Net Debt,2023-03-31,37460800000.0
+SRF,A,balance,Net Debt,2024-03-31,45209100000.0
+SRF,A,balance,Net Debt,2025-03-31,43072500000.0
+SRF,A,balance,Net Debt,2026-03-31,45180900000.0
+SRF,A,balance,Ordinary Shares Number,2023-03-31,296424825.0
+SRF,A,balance,Ordinary Shares Number,2024-03-31,296424825.0
+SRF,A,balance,Ordinary Shares Number,2025-03-31,296424825.0
+SRF,A,balance,Ordinary Shares Number,2026-03-31,296406025.0
+SRF,A,balance,Stockholders Equity,2023-03-31,103270500000.0
+SRF,A,balance,Stockholders Equity,2024-03-31,114790200000.0
+SRF,A,balance,Stockholders Equity,2025-03-31,126262000000.0
+SRF,A,balance,Stockholders Equity,2026-03-31,140427600000.0
+SRF,A,balance,Total Assets,2023-03-31,187545200000.0
+SRF,A,balance,Total Assets,2024-03-31,204819400000.0
+SRF,A,balance,Total Assets,2025-03-31,215571200000.0
+SRF,A,balance,Total Assets,2026-03-31,241466700000.0
+SRF,A,balance,Total Debt,2023-03-31,44775300000.0
+SRF,A,balance,Total Debt,2024-03-31,50305400000.0
+SRF,A,balance,Total Debt,2025-03-31,47260300000.0
+SRF,A,balance,Total Debt,2026-03-31,51870400000.0
+SRF,A,cashflow,Capital Expenditure,2023-03-31,-28657500000.0
+SRF,A,cashflow,Capital Expenditure,2024-03-31,-22169300000.0
+SRF,A,cashflow,Capital Expenditure,2025-03-31,-12314500000.0
+SRF,A,cashflow,Capital Expenditure,2026-03-31,-18153100000.0
+SRF,A,cashflow,Free Cash Flow,2023-03-31,359600000.0
+SRF,A,cashflow,Free Cash Flow,2024-03-31,-1230700000.0
+SRF,A,cashflow,Free Cash Flow,2025-03-31,12560400000.0
+SRF,A,cashflow,Free Cash Flow,2026-03-31,7382500000.0
+SRF,A,cashflow,Operating Cash Flow,2023-03-31,29017100000.0
+SRF,A,cashflow,Operating Cash Flow,2024-03-31,20938600000.0
+SRF,A,cashflow,Operating Cash Flow,2025-03-31,24874900000.0
+SRF,A,cashflow,Operating Cash Flow,2026-03-31,25535600000.0
+SRF,A,income,Basic EPS,2023-03-31,72.95
+SRF,A,income,Basic EPS,2024-03-31,45.06
+SRF,A,income,Basic EPS,2025-03-31,42.2
+SRF,A,income,Basic EPS,2026-03-31,61.91
+SRF,A,income,Diluted EPS,2023-03-31,72.95
+SRF,A,income,Diluted EPS,2024-03-31,45.06
+SRF,A,income,Diluted EPS,2025-03-31,42.2
+SRF,A,income,Diluted EPS,2026-03-31,61.91
+SRF,A,income,EBITDA,2023-03-31,35582800000.0
+SRF,A,income,EBITDA,2024-03-31,26401600000.0
+SRF,A,income,EBITDA,2025-03-31,28223500000.0
+SRF,A,income,EBITDA,2026-03-31,33995400000.0
+SRF,A,income,Interest Expense,2023-03-31,1589700000.0
+SRF,A,income,Interest Expense,2024-03-31,2753200000.0
+SRF,A,income,Interest Expense,2025-03-31,3471500000.0
+SRF,A,income,Interest Expense,2026-03-31,2458300000.0
+SRF,A,income,Net Income,2023-03-31,21623400000.0
+SRF,A,income,Net Income,2024-03-31,13357100000.0
+SRF,A,income,Net Income,2025-03-31,12507800000.0
+SRF,A,income,Net Income,2026-03-31,18351800000.0
+SRF,A,income,Net Income Common Stockholders,2023-03-31,21623400000.0
+SRF,A,income,Net Income Common Stockholders,2024-03-31,13357100000.0
+SRF,A,income,Net Income Common Stockholders,2025-03-31,12507800000.0
+SRF,A,income,Net Income Common Stockholders,2026-03-31,18351800000.0
+SRF,A,income,Operating Income,2023-03-31,30643100000.0
+SRF,A,income,Operating Income,2024-03-31,19967000000.0
+SRF,A,income,Operating Income,2025-03-31,20749800000.0
+SRF,A,income,Operating Income,2026-03-31,27683300000.0
+SRF,A,income,Pretax Income,2023-03-31,28239900000.0
+SRF,A,income,Pretax Income,2024-03-31,16922200000.0
+SRF,A,income,Pretax Income,2025-03-31,17037000000.0
+SRF,A,income,Pretax Income,2026-03-31,23016400000.0
+SRF,A,income,Total Revenue,2023-03-31,145918200000.0
+SRF,A,income,Total Revenue,2024-03-31,129103500000.0
+SRF,A,income,Total Revenue,2025-03-31,143581500000.0
+SRF,A,income,Total Revenue,2026-03-31,154163700000.0
+SRF,Q,income,Basic EPS,2025-06-30,14.58
+SRF,Q,income,Basic EPS,2025-12-31,14.6
+SRF,Q,income,Basic EPS,2026-03-31,19.63
+SRF,Q,income,Basic EPS,2026-06-30,25.6
+SRF,Q,income,Basic EPS,2026-09-30,17.18
+SRF,Q,income,Diluted EPS,2025-06-30,14.58
+SRF,Q,income,Diluted EPS,2025-12-31,14.6
+SRF,Q,income,Diluted EPS,2026-03-31,19.63
+SRF,Q,income,Diluted EPS,2026-06-30,25.6
+SRF,Q,income,Diluted EPS,2026-09-30,17.18
+SRF,Q,income,EBITDA,2025-06-30,8589600000.0
+SRF,Q,income,EBITDA,2025-12-31,7340600000.0
+SRF,Q,income,EBITDA,2026-03-31,10388700000.0
+SRF,Q,income,EBITDA,2026-06-30,12706300000.0
+SRF,Q,income,EBITDA,2026-09-30,9708200000.0
+SRF,Q,income,Interest Expense,2025-06-30,799000000.0
+SRF,Q,income,Interest Expense,2025-12-31,655000000.0
+SRF,Q,income,Interest Expense,2026-03-31,619600000.0
+SRF,Q,income,Interest Expense,2026-06-30,686200000.0
+SRF,Q,income,Interest Expense,2026-09-30,709400000.0
+SRF,Q,income,Net Income,2025-06-30,4323200000.0
+SRF,Q,income,Net Income,2025-12-31,4326600000.0
+SRF,Q,income,Net Income,2026-03-31,5820200000.0
+SRF,Q,income,Net Income,2026-06-30,7588700000.0
+SRF,Q,income,Net Income,2026-09-30,5091200000.0
+SRF,Q,income,Net Income Common Stockholders,2025-06-30,4323200000.0
+SRF,Q,income,Net Income Common Stockholders,2025-12-31,4326600000.0
+SRF,Q,income,Net Income Common Stockholders,2026-03-31,5820200000.0
+SRF,Q,income,Net Income Common Stockholders,2026-06-30,7588700000.0
+SRF,Q,income,Net Income Common Stockholders,2026-09-30,5091200000.0
+SRF,Q,income,Operating Income,2025-06-30,6179100000.0
+SRF,Q,income,Operating Income,2025-12-31,6032800000.0
+SRF,Q,income,Operating Income,2026-03-31,9320700000.0
+SRF,Q,income,Operating Income,2026-06-30,11158500000.0
+SRF,Q,income,Operating Income,2026-09-30,7801700000.0
+SRF,Q,income,Pretax Income,2025-06-30,5758200000.0
+SRF,Q,income,Pretax Income,2025-12-31,4516700000.0
+SRF,Q,income,Pretax Income,2026-03-31,7571000000.0
+SRF,Q,income,Pretax Income,2026-06-30,9791500000.0
+SRF,Q,income,Pretax Income,2026-09-30,6710400000.0
+SRF,Q,income,Total Revenue,2025-06-30,37385800000.0
+SRF,Q,income,Total Revenue,2025-12-31,36115000000.0
+SRF,Q,income,Total Revenue,2026-03-31,45318300000.0
+SRF,Q,income,Total Revenue,2026-06-30,49392000000.0
+SRF,Q,income,Total Revenue,2026-09-30,48033100000.0

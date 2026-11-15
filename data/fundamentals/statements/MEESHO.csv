@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+MEESHO,A,balance,Cash And Cash Equivalents,2023-03-31,965460000.0
+MEESHO,A,balance,Cash And Cash Equivalents,2024-03-31,1403880000.0
+MEESHO,A,balance,Cash And Cash Equivalents,2025-03-31,1470580000.0
+MEESHO,A,balance,Cash And Cash Equivalents,2026-03-31,6203720000.0
+MEESHO,A,balance,Ordinary Shares Number,2023-03-31,4513131000.0
+MEESHO,A,balance,Ordinary Shares Number,2024-03-31,4513131000.0
+MEESHO,A,balance,Ordinary Shares Number,2025-03-31,4513131000.0
+MEESHO,A,balance,Ordinary Shares Number,2026-03-31,4564055196.0
+MEESHO,A,balance,Stockholders Equity,2023-03-31,24719150000.0
+MEESHO,A,balance,Stockholders Equity,2024-03-31,22296420000.0
+MEESHO,A,balance,Stockholders Equity,2025-03-31,14455180000.0
+MEESHO,A,balance,Stockholders Equity,2026-03-31,43863720000.0
+MEESHO,A,balance,Total Assets,2023-03-31,38533490000.0
+MEESHO,A,balance,Total Assets,2024-03-31,41609930000.0
+MEESHO,A,balance,Total Assets,2025-03-31,72260870000.0
+MEESHO,A,balance,Total Assets,2026-03-31,79067460000.0
+MEESHO,A,balance,Total Debt,2023-03-31,116880000.0
+MEESHO,A,balance,Total Debt,2024-03-31,722710000.0
+MEESHO,A,balance,Total Debt,2025-03-31,582660000.0
+MEESHO,A,balance,Total Debt,2026-03-31,626290000.0
+MEESHO,A,cashflow,Capital Expenditure,2023-03-31,-379970000.0
+MEESHO,A,cashflow,Capital Expenditure,2024-03-31,-352470000.0
+MEESHO,A,cashflow,Capital Expenditure,2025-03-31,-228970000.0
+MEESHO,A,cashflow,Capital Expenditure,2026-03-31,-1010400000.0
+MEESHO,A,cashflow,Free Cash Flow,2023-03-31,-23461880000.0
+MEESHO,A,cashflow,Free Cash Flow,2024-03-31,1849530000.0
+MEESHO,A,cashflow,Free Cash Flow,2025-03-31,5164730000.0
+MEESHO,A,cashflow,Free Cash Flow,2026-03-31,-39763760000.0
+MEESHO,A,cashflow,Operating Cash Flow,2023-03-31,-23081910000.0
+MEESHO,A,cashflow,Operating Cash Flow,2024-03-31,2202000000.0
+MEESHO,A,cashflow,Operating Cash Flow,2025-03-31,5393700000.0
+MEESHO,A,cashflow,Operating Cash Flow,2026-03-31,-38753360000.0
+MEESHO,A,income,Basic EPS,2023-03-31,-3.704528
+MEESHO,A,income,Basic EPS,2024-03-31,-0.725973
+MEESHO,A,income,Basic EPS,2025-03-31,-8.733859
+MEESHO,A,income,Basic EPS,2026-03-31,-3.11
+MEESHO,A,income,Diluted EPS,2023-03-31,-3.704528
+MEESHO,A,income,Diluted EPS,2024-03-31,-0.725973
+MEESHO,A,income,Diluted EPS,2025-03-31,-8.733859
+MEESHO,A,income,Diluted EPS,2026-03-31,-3.11
+MEESHO,A,income,EBITDA,2023-03-31,-16405270000.0
+MEESHO,A,income,EBITDA,2024-03-31,-2631590000.0
+MEESHO,A,income,EBITDA,2025-03-31,-14139410000.0
+MEESHO,A,income,EBITDA,2026-03-31,-11534890000.0
+MEESHO,A,income,Interest Expense,2023-03-31,13390000.0
+MEESHO,A,income,Interest Expense,2024-03-31,63720000.0
+MEESHO,A,income,Interest Expense,2025-03-31,68950000.0
+MEESHO,A,income,Interest Expense,2026-03-31,89630000.0
+MEESHO,A,income,Net Income,2023-03-31,-16719020000.0
+MEESHO,A,income,Net Income,2024-03-31,-3276410000.0
+MEESHO,A,income,Net Income,2025-03-31,-39417050000.0
+MEESHO,A,income,Net Income,2026-03-31,-13577380000.0
+MEESHO,A,income,Net Income Common Stockholders,2023-03-31,-16719020000.0
+MEESHO,A,income,Net Income Common Stockholders,2024-03-31,-3276410000.0
+MEESHO,A,income,Net Income Common Stockholders,2025-03-31,-39417050000.0
+MEESHO,A,income,Net Income Common Stockholders,2026-03-31,-13577380000.0
+MEESHO,A,income,Operating Income,2023-03-31,-18201050000.0
+MEESHO,A,income,Operating Income,2024-03-31,-5310490000.0
+MEESHO,A,income,Operating Income,2025-03-31,-5783160000.0
+MEESHO,A,income,Operating Income,2026-03-31,-14446760000.0
+MEESHO,A,income,Pretax Income,2023-03-31,-16719020000.0
+MEESHO,A,income,Pretax Income,2024-03-31,-3276410000.0
+MEESHO,A,income,Pretax Income,2025-03-31,-14548630000.0
+MEESHO,A,income,Pretax Income,2026-03-31,-12092730000.0
+MEESHO,A,income,Total Revenue,2023-03-31,57345190000.0
+MEESHO,A,income,Total Revenue,2024-03-31,76151480000.0
+MEESHO,A,income,Total Revenue,2025-03-31,93899030000.0
+MEESHO,A,income,Total Revenue,2026-03-31,126263480000.0
+MEESHO,Q,income,Basic EPS,2025-09-30,-0.911474
+MEESHO,Q,income,Basic EPS,2025-12-31,-1.14
+MEESHO,Q,income,Basic EPS,2026-03-31,-0.36
+MEESHO,Q,income,Basic EPS,2026-06-30,-0.28
+MEESHO,Q,income,Basic EPS,2026-09-30,-0.28
+MEESHO,Q,income,Diluted EPS,2025-09-30,-0.911474
+MEESHO,Q,income,Diluted EPS,2025-12-31,-1.14
+MEESHO,Q,income,Diluted EPS,2026-03-31,-0.36
+MEESHO,Q,income,Diluted EPS,2026-06-30,-0.28
+MEESHO,Q,income,Diluted EPS,2026-09-30,-0.28
+MEESHO,Q,income,EBITDA,2025-09-30,-3199640000.0
+MEESHO,Q,income,EBITDA,2025-12-31,-4637850000.0
+MEESHO,Q,income,EBITDA,2026-03-31,-1390740000.0
+MEESHO,Q,income,EBITDA,2026-06-30,-1110530000.0
+MEESHO,Q,income,EBITDA,2026-09-30,-1017420000.0
+MEESHO,Q,income,Interest Expense,2025-09-30,12470000.0
+MEESHO,Q,income,Interest Expense,2025-12-31,38920000.0
+MEESHO,Q,income,Interest Expense,2026-03-31,23780000.0
+MEESHO,Q,income,Interest Expense,2026-06-30,21260000.0
+MEESHO,Q,income,Interest Expense,2026-09-30,13780000.0
+MEESHO,Q,income,Net Income,2025-09-30,-4113600000.0
+MEESHO,Q,income,Net Income,2025-12-31,-4906750000.0
+MEESHO,Q,income,Net Income,2026-03-31,-1663450000.0
+MEESHO,Q,income,Net Income,2026-06-30,-1328350000.0
+MEESHO,Q,income,Net Income,2026-09-30,-1324460000.0
+MEESHO,Q,income,Net Income Common Stockholders,2025-09-30,-4113600000.0
+MEESHO,Q,income,Net Income Common Stockholders,2025-12-31,-4906750000.0
+MEESHO,Q,income,Net Income Common Stockholders,2026-03-31,-1663450000.0
+MEESHO,Q,income,Net Income Common Stockholders,2026-06-30,-1328350000.0
+MEESHO,Q,income,Net Income Common Stockholders,2026-09-30,-1324460000.0
+MEESHO,Q,income,Operating Income,2025-09-30,-4655200000.0
+MEESHO,Q,income,Operating Income,2025-12-31,-5498070000.0
+MEESHO,Q,income,Operating Income,2026-03-31,-2734770000.0
+MEESHO,Q,income,Operating Income,2026-06-30,-2443010000.0
+MEESHO,Q,income,Operating Income,2026-09-30,-2493070000.0
+MEESHO,Q,income,Pretax Income,2025-09-30,-3305030000.0
+MEESHO,Q,income,Pretax Income,2025-12-31,-4785930000.0
+MEESHO,Q,income,Pretax Income,2026-03-31,-1600850000.0
+MEESHO,Q,income,Pretax Income,2026-06-30,-1328350000.0
+MEESHO,Q,income,Pretax Income,2026-09-30,-1232650000.0
+MEESHO,Q,income,Total Revenue,2025-09-30,30736720000.0
+MEESHO,Q,income,Total Revenue,2025-12-31,35175980000.0
+MEESHO,Q,income,Total Revenue,2026-03-31,35312120000.0
+MEESHO,Q,income,Total Revenue,2026-06-30,37128110000.0
+MEESHO,Q,income,Total Revenue,2026-09-30,41315820000.0

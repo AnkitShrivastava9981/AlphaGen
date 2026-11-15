@@ -1,0 +1,116 @@
+symbol,freq,statement,item,period_end,value
+ARE&M,A,balance,Cash And Cash Equivalents,2023-03-31,948700000.0
+ARE&M,A,balance,Cash And Cash Equivalents,2024-03-31,983400000.0
+ARE&M,A,balance,Cash And Cash Equivalents,2025-03-31,1578300000.0
+ARE&M,A,balance,Cash And Cash Equivalents,2026-03-31,2260000000.0
+ARE&M,A,balance,Net Debt,2023-03-31,161900000.0
+ARE&M,A,balance,Net Debt,2026-03-31,504600000.0
+ARE&M,A,balance,Ordinary Shares Number,2023-03-31,170812500.0
+ARE&M,A,balance,Ordinary Shares Number,2024-03-31,183025364.0
+ARE&M,A,balance,Ordinary Shares Number,2025-03-31,183025364.0
+ARE&M,A,balance,Ordinary Shares Number,2026-03-31,183025364.0
+ARE&M,A,balance,Stockholders Equity,2023-03-31,60070400000.0
+ARE&M,A,balance,Stockholders Equity,2024-03-31,67987300000.0
+ARE&M,A,balance,Stockholders Equity,2025-03-31,73891300000.0
+ARE&M,A,balance,Stockholders Equity,2026-03-31,80989600000.0
+ARE&M,A,balance,Total Assets,2023-03-31,79620800000.0
+ARE&M,A,balance,Total Assets,2024-03-31,89777600000.0
+ARE&M,A,balance,Total Assets,2025-03-31,101682900000.0
+ARE&M,A,balance,Total Assets,2026-03-31,114567200000.0
+ARE&M,A,balance,Total Debt,2023-03-31,2013500000.0
+ARE&M,A,balance,Total Debt,2024-03-31,1566900000.0
+ARE&M,A,balance,Total Debt,2025-03-31,2608000000.0
+ARE&M,A,balance,Total Debt,2026-03-31,4061600000.0
+ARE&M,A,cashflow,Capital Expenditure,2023-03-31,-5107700000.0
+ARE&M,A,cashflow,Capital Expenditure,2024-03-31,-8714500000.0
+ARE&M,A,cashflow,Capital Expenditure,2025-03-31,-12001300000.0
+ARE&M,A,cashflow,Capital Expenditure,2026-03-31,-13410600000.0
+ARE&M,A,cashflow,Free Cash Flow,2023-03-31,4338900000.0
+ARE&M,A,cashflow,Free Cash Flow,2024-03-31,3945700000.0
+ARE&M,A,cashflow,Free Cash Flow,2025-03-31,1511800000.0
+ARE&M,A,cashflow,Free Cash Flow,2026-03-31,-2227700000.0
+ARE&M,A,cashflow,Operating Cash Flow,2023-03-31,9446600000.0
+ARE&M,A,cashflow,Operating Cash Flow,2024-03-31,12660200000.0
+ARE&M,A,cashflow,Operating Cash Flow,2025-03-31,13513100000.0
+ARE&M,A,cashflow,Operating Cash Flow,2026-03-31,11182900000.0
+ARE&M,A,income,Basic EPS,2023-03-31,39.93
+ARE&M,A,income,Basic EPS,2024-03-31,51.05
+ARE&M,A,income,Basic EPS,2025-03-31,51.62
+ARE&M,A,income,Basic EPS,2026-03-31,48.95
+ARE&M,A,income,Diluted EPS,2023-03-31,39.93
+ARE&M,A,income,Diluted EPS,2024-03-31,51.05
+ARE&M,A,income,Diluted EPS,2025-03-31,51.62
+ARE&M,A,income,Diluted EPS,2026-03-31,48.95
+ARE&M,A,income,EBITDA,2023-03-31,14753700000.0
+ARE&M,A,income,EBITDA,2024-03-31,17649800000.0
+ARE&M,A,income,EBITDA,2025-03-31,18281000000.0
+ARE&M,A,income,EBITDA,2026-03-31,18440400000.0
+ARE&M,A,income,Interest Expense,2023-03-31,283200000.0
+ARE&M,A,income,Interest Expense,2024-03-31,304300000.0
+ARE&M,A,income,Interest Expense,2025-03-31,292700000.0
+ARE&M,A,income,Interest Expense,2026-03-31,299700000.0
+ARE&M,A,income,Net Income,2023-03-31,7308300000.0
+ARE&M,A,income,Net Income,2024-03-31,9343800000.0
+ARE&M,A,income,Net Income,2025-03-31,9446700000.0
+ARE&M,A,income,Net Income,2026-03-31,8957700000.0
+ARE&M,A,income,Net Income Common Stockholders,2023-03-31,7308300000.0
+ARE&M,A,income,Net Income Common Stockholders,2024-03-31,9343800000.0
+ARE&M,A,income,Net Income Common Stockholders,2025-03-31,9446700000.0
+ARE&M,A,income,Net Income Common Stockholders,2026-03-31,8957700000.0
+ARE&M,A,income,Operating Income,2023-03-31,10121200000.0
+ARE&M,A,income,Operating Income,2024-03-31,11902100000.0
+ARE&M,A,income,Operating Income,2025-03-31,11090700000.0
+ARE&M,A,income,Operating Income,2026-03-31,9114600000.0
+ARE&M,A,income,Pretax Income,2023-03-31,9966500000.0
+ARE&M,A,income,Pretax Income,2024-03-31,12502200000.0
+ARE&M,A,income,Pretax Income,2025-03-31,12731700000.0
+ARE&M,A,income,Pretax Income,2026-03-31,12068900000.0
+ARE&M,A,income,Total Revenue,2023-03-31,103393400000.0
+ARE&M,A,income,Total Revenue,2024-03-31,116537200000.0
+ARE&M,A,income,Total Revenue,2025-03-31,127856400000.0
+ARE&M,A,income,Total Revenue,2026-03-31,137599500000.0
+ARE&M,Q,income,Basic EPS,2025-06-30,9.0
+ARE&M,Q,income,Basic EPS,2025-12-31,7.66
+ARE&M,Q,income,Basic EPS,2026-03-31,17.17
+ARE&M,Q,income,Basic EPS,2026-06-30,10.43
+ARE&M,Q,income,Basic EPS,2026-09-30,8.33
+ARE&M,Q,income,Diluted EPS,2025-06-30,9.0
+ARE&M,Q,income,Diluted EPS,2025-12-31,7.66
+ARE&M,Q,income,Diluted EPS,2026-03-31,17.17
+ARE&M,Q,income,Diluted EPS,2026-06-30,10.43
+ARE&M,Q,income,Diluted EPS,2026-09-30,8.33
+ARE&M,Q,income,EBITDA,2025-06-30,3820300000.0
+ARE&M,Q,income,EBITDA,2025-12-31,3589200000.0
+ARE&M,Q,income,EBITDA,2026-03-31,5934900000.0
+ARE&M,Q,income,EBITDA,2026-06-30,4254200000.0
+ARE&M,Q,income,EBITDA,2026-09-30,3842100000.0
+ARE&M,Q,income,Interest Expense,2025-06-30,109300000.0
+ARE&M,Q,income,Interest Expense,2025-12-31,98100000.0
+ARE&M,Q,income,Interest Expense,2026-03-31,147800000.0
+ARE&M,Q,income,Interest Expense,2026-06-30,119200000.0
+ARE&M,Q,income,Interest Expense,2026-09-30,147100000.0
+ARE&M,Q,income,Net Income,2025-06-30,1648000000.0
+ARE&M,Q,income,Net Income,2025-12-31,1401500000.0
+ARE&M,Q,income,Net Income,2026-03-31,3143300000.0
+ARE&M,Q,income,Net Income,2026-06-30,1909400000.0
+ARE&M,Q,income,Net Income,2026-09-30,1524800000.0
+ARE&M,Q,income,Net Income Common Stockholders,2025-06-30,1648000000.0
+ARE&M,Q,income,Net Income Common Stockholders,2025-12-31,1401500000.0
+ARE&M,Q,income,Net Income Common Stockholders,2026-03-31,3143300000.0
+ARE&M,Q,income,Net Income Common Stockholders,2026-06-30,1909400000.0
+ARE&M,Q,income,Net Income Common Stockholders,2026-09-30,1524800000.0
+ARE&M,Q,income,Operating Income,2025-06-30,2213500000.0
+ARE&M,Q,income,Operating Income,2025-12-31,2168800000.0
+ARE&M,Q,income,Operating Income,2026-03-31,2277100000.0
+ARE&M,Q,income,Operating Income,2026-06-30,2470500000.0
+ARE&M,Q,income,Operating Income,2026-09-30,2006100000.0
+ARE&M,Q,income,Pretax Income,2025-06-30,2289200000.0
+ARE&M,Q,income,Pretax Income,2025-12-31,1922400000.0
+ARE&M,Q,income,Pretax Income,2026-03-31,4209100000.0
+ARE&M,Q,income,Pretax Income,2026-06-30,2546300000.0
+ARE&M,Q,income,Pretax Income,2026-09-30,2085200000.0
+ARE&M,Q,income,Total Revenue,2025-06-30,34010800000.0
+ARE&M,Q,income,Total Revenue,2025-12-31,34101500000.0
+ARE&M,Q,income,Total Revenue,2026-03-31,35357500000.0
+ARE&M,Q,income,Total Revenue,2026-06-30,42145400000.0
+ARE&M,Q,income,Total Revenue,2026-09-30,41087100000.0

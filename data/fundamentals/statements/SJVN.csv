@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+SJVN,A,balance,Cash And Cash Equivalents,2023-03-31,3316500000.0
+SJVN,A,balance,Cash And Cash Equivalents,2024-03-31,3447600000.0
+SJVN,A,balance,Cash And Cash Equivalents,2025-03-31,3472400000.0
+SJVN,A,balance,Cash And Cash Equivalents,2026-03-31,11002600000.0
+SJVN,A,balance,Net Debt,2023-03-31,136613000000.0
+SJVN,A,balance,Net Debt,2024-03-31,199068900000.0
+SJVN,A,balance,Net Debt,2025-03-31,265781300000.0
+SJVN,A,balance,Net Debt,2026-03-31,310022600000.0
+SJVN,A,balance,Ordinary Shares Number,2023-03-31,3929795175.0
+SJVN,A,balance,Ordinary Shares Number,2024-03-31,3929795175.0
+SJVN,A,balance,Ordinary Shares Number,2025-03-31,3929795175.0
+SJVN,A,balance,Ordinary Shares Number,2026-03-31,3929795175.0
+SJVN,A,balance,Stockholders Equity,2023-03-31,138595400000.0
+SJVN,A,balance,Stockholders Equity,2024-03-31,140708500000.0
+SJVN,A,balance,Stockholders Equity,2025-03-31,141786500000.0
+SJVN,A,balance,Stockholders Equity,2026-03-31,142388400000.0
+SJVN,A,balance,Total Assets,2023-03-31,323110000000.0
+SJVN,A,balance,Total Assets,2024-03-31,391912500000.0
+SJVN,A,balance,Total Assets,2025-03-31,460630800000.0
+SJVN,A,balance,Total Assets,2026-03-31,517655300000.0
+SJVN,A,balance,Total Debt,2023-03-31,140593400000.0
+SJVN,A,balance,Total Debt,2024-03-31,203232000000.0
+SJVN,A,balance,Total Debt,2025-03-31,270251900000.0
+SJVN,A,balance,Total Debt,2026-03-31,322779900000.0
+SJVN,A,cashflow,Capital Expenditure,2023-03-31,-68438600000.0
+SJVN,A,cashflow,Capital Expenditure,2024-03-31,-56496800000.0
+SJVN,A,cashflow,Capital Expenditure,2025-03-31,-66687600000.0
+SJVN,A,cashflow,Capital Expenditure,2026-03-31,-56991100000.0
+SJVN,A,cashflow,Free Cash Flow,2023-03-31,-52373800000.0
+SJVN,A,cashflow,Free Cash Flow,2024-03-31,-43401500000.0
+SJVN,A,cashflow,Free Cash Flow,2025-03-31,-41858100000.0
+SJVN,A,cashflow,Free Cash Flow,2026-03-31,-38394500000.0
+SJVN,A,cashflow,Operating Cash Flow,2023-03-31,16064800000.0
+SJVN,A,cashflow,Operating Cash Flow,2024-03-31,13095300000.0
+SJVN,A,cashflow,Operating Cash Flow,2025-03-31,24829500000.0
+SJVN,A,cashflow,Operating Cash Flow,2026-03-31,18596600000.0
+SJVN,A,income,Basic EPS,2023-03-31,3.46
+SJVN,A,income,Basic EPS,2024-03-31,2.32
+SJVN,A,income,Basic EPS,2025-03-31,2.08
+SJVN,A,income,Basic EPS,2026-03-31,1.63
+SJVN,A,income,Diluted EPS,2023-03-31,3.46
+SJVN,A,income,Diluted EPS,2024-03-31,2.32
+SJVN,A,income,Diluted EPS,2025-03-31,2.08
+SJVN,A,income,Diluted EPS,2026-03-31,1.63
+SJVN,A,income,EBITDA,2023-03-31,23669400000.0
+SJVN,A,income,EBITDA,2024-03-31,22132300000.0
+SJVN,A,income,EBITDA,2025-03-31,24049200000.0
+SJVN,A,income,EBITDA,2026-03-31,31672500000.0
+SJVN,A,income,Interest Expense,2023-03-31,2328800000.0
+SJVN,A,income,Interest Expense,2024-03-31,4728400000.0
+SJVN,A,income,Interest Expense,2025-03-31,6170200000.0
+SJVN,A,income,Interest Expense,2026-03-31,9246400000.0
+SJVN,A,income,Net Income,2023-03-31,13593000000.0
+SJVN,A,income,Net Income,2024-03-31,9114400000.0
+SJVN,A,income,Net Income,2025-03-31,8196600000.0
+SJVN,A,income,Net Income,2026-03-31,6420800000.0
+SJVN,A,income,Net Income Common Stockholders,2023-03-31,13593000000.0
+SJVN,A,income,Net Income Common Stockholders,2024-03-31,9114400000.0
+SJVN,A,income,Net Income Common Stockholders,2025-03-31,8196600000.0
+SJVN,A,income,Net Income Common Stockholders,2026-03-31,6420800000.0
+SJVN,A,income,Operating Income,2023-03-31,17708500000.0
+SJVN,A,income,Operating Income,2024-03-31,12906700000.0
+SJVN,A,income,Operating Income,2025-03-31,15985300000.0
+SJVN,A,income,Operating Income,2026-03-31,21680100000.0
+SJVN,A,income,Pretax Income,2023-03-31,17376600000.0
+SJVN,A,income,Pretax Income,2024-03-31,11832500000.0
+SJVN,A,income,Pretax Income,2025-03-31,11116900000.0
+SJVN,A,income,Pretax Income,2026-03-31,12006300000.0
+SJVN,A,income,Total Revenue,2023-03-31,28206700000.0
+SJVN,A,income,Total Revenue,2024-03-31,25674600000.0
+SJVN,A,income,Total Revenue,2025-03-31,30292500000.0
+SJVN,A,income,Total Revenue,2026-03-31,42441700000.0
+SJVN,Q,income,Basic EPS,2025-09-30,0.78
+SJVN,Q,income,Basic EPS,2025-12-31,0.57
+SJVN,Q,income,Basic EPS,2026-03-31,-0.3
+SJVN,Q,income,Basic EPS,2026-06-30,0.66
+SJVN,Q,income,Basic EPS,2026-09-30,1.68
+SJVN,Q,income,Diluted EPS,2025-09-30,0.78
+SJVN,Q,income,Diluted EPS,2025-12-31,0.57
+SJVN,Q,income,Diluted EPS,2026-03-31,-0.3
+SJVN,Q,income,Diluted EPS,2026-06-30,0.66
+SJVN,Q,income,Diluted EPS,2026-09-30,1.68
+SJVN,Q,income,EBITDA,2025-09-30,9079300000.0
+SJVN,Q,income,EBITDA,2025-12-31,8819100000.0
+SJVN,Q,income,EBITDA,2026-03-31,9634700000.0
+SJVN,Q,income,EBITDA,2026-06-30,9190300000.0
+SJVN,Q,income,EBITDA,2026-09-30,16329100000.0
+SJVN,Q,income,Interest Expense,2025-09-30,3151000000.0
+SJVN,Q,income,Interest Expense,2025-12-31,2446500000.0
+SJVN,Q,income,Interest Expense,2026-03-31,5221400000.0
+SJVN,Q,income,Interest Expense,2026-06-30,3261400000.0
+SJVN,Q,income,Interest Expense,2026-09-30,4881000000.0
+SJVN,Q,income,Net Income,2025-09-30,3079100000.0
+SJVN,Q,income,Net Income,2025-12-31,2243800000.0
+SJVN,Q,income,Net Income,2026-03-31,-1179800000.0
+SJVN,Q,income,Net Income,2026-06-30,2249300000.0
+SJVN,Q,income,Net Income,2026-09-30,6573900000.0
+SJVN,Q,income,Net Income Common Stockholders,2025-09-30,3079100000.0
+SJVN,Q,income,Net Income Common Stockholders,2025-12-31,2243800000.0
+SJVN,Q,income,Net Income Common Stockholders,2026-03-31,-1179800000.0
+SJVN,Q,income,Net Income Common Stockholders,2026-06-30,2249300000.0
+SJVN,Q,income,Net Income Common Stockholders,2026-09-30,6573900000.0
+SJVN,Q,income,Operating Income,2025-09-30,6890300000.0
+SJVN,Q,income,Operating Income,2025-12-31,6213700000.0
+SJVN,Q,income,Operating Income,2026-03-31,4152800000.0
+SJVN,Q,income,Operating Income,2026-06-30,6369900000.0
+SJVN,Q,income,Operating Income,2026-09-30,13221100000.0
+SJVN,Q,income,Pretax Income,2025-09-30,4219000000.0
+SJVN,Q,income,Pretax Income,2025-12-31,4210000000.0
+SJVN,Q,income,Pretax Income,2026-03-31,-530600000.0
+SJVN,Q,income,Pretax Income,2026-06-30,3455600000.0
+SJVN,Q,income,Pretax Income,2026-09-30,8820300000.0
+SJVN,Q,income,Total Revenue,2025-09-30,10324000000.0
+SJVN,Q,income,Total Revenue,2025-12-31,10819700000.0
+SJVN,Q,income,Total Revenue,2026-03-31,14964700000.0
+SJVN,Q,income,Total Revenue,2026-06-30,13943800000.0
+SJVN,Q,income,Total Revenue,2026-09-30,22443200000.0

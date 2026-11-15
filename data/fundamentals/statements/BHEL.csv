@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+BHEL,A,balance,Cash And Cash Equivalents,2023-03-31,14491100000.0
+BHEL,A,balance,Cash And Cash Equivalents,2024-03-31,17188600000.0
+BHEL,A,balance,Cash And Cash Equivalents,2025-03-31,3903200000.0
+BHEL,A,balance,Cash And Cash Equivalents,2026-03-31,10832000000.0
+BHEL,A,balance,Net Debt,2023-03-31,39358900000.0
+BHEL,A,balance,Net Debt,2024-03-31,70891400000.0
+BHEL,A,balance,Net Debt,2025-03-31,84046800000.0
+BHEL,A,balance,Net Debt,2026-03-31,68668000000.0
+BHEL,A,balance,Ordinary Shares Number,2023-03-31,3482063355.0
+BHEL,A,balance,Ordinary Shares Number,2024-03-31,3482063355.0
+BHEL,A,balance,Ordinary Shares Number,2025-03-31,3482063355.0
+BHEL,A,balance,Ordinary Shares Number,2026-03-31,3482063355.0
+BHEL,A,balance,Stockholders Equity,2023-03-31,243782600000.0
+BHEL,A,balance,Stockholders Equity,2024-03-31,244386500000.0
+BHEL,A,balance,Stockholders Equity,2025-03-31,247221800000.0
+BHEL,A,balance,Stockholders Equity,2026-03-31,261466100000.0
+BHEL,A,balance,Total Assets,2023-03-31,569200200000.0
+BHEL,A,balance,Total Assets,2024-03-31,590019200000.0
+BHEL,A,balance,Total Assets,2025-03-31,680831800000.0
+BHEL,A,balance,Total Assets,2026-03-31,761856100000.0
+BHEL,A,balance,Total Debt,2023-03-31,54535100000.0
+BHEL,A,balance,Total Debt,2024-03-31,88564600000.0
+BHEL,A,balance,Total Debt,2025-03-31,90146000000.0
+BHEL,A,balance,Total Debt,2026-03-31,81869500000.0
+BHEL,A,cashflow,Capital Expenditure,2023-03-31,-1884000000.0
+BHEL,A,cashflow,Capital Expenditure,2024-03-31,-2325000000.0
+BHEL,A,cashflow,Capital Expenditure,2025-03-31,-3043700000.0
+BHEL,A,cashflow,Capital Expenditure,2026-03-31,-5890400000.0
+BHEL,A,cashflow,Free Cash Flow,2023-03-31,-9291000000.0
+BHEL,A,cashflow,Free Cash Flow,2024-03-31,-39454000000.0
+BHEL,A,cashflow,Free Cash Flow,2025-03-31,18881000000.0
+BHEL,A,cashflow,Free Cash Flow,2026-03-31,52483400000.0
+BHEL,A,cashflow,Operating Cash Flow,2023-03-31,-7407000000.0
+BHEL,A,cashflow,Operating Cash Flow,2024-03-31,-37129000000.0
+BHEL,A,cashflow,Operating Cash Flow,2025-03-31,21924700000.0
+BHEL,A,cashflow,Operating Cash Flow,2026-03-31,58373800000.0
+BHEL,A,income,Basic EPS,2023-03-31,1.88
+BHEL,A,income,Basic EPS,2024-03-31,0.81
+BHEL,A,income,Basic EPS,2025-03-31,1.53
+BHEL,A,income,Basic EPS,2026-03-31,4.6
+BHEL,A,income,Diluted EPS,2023-03-31,1.88
+BHEL,A,income,Diluted EPS,2024-03-31,0.81
+BHEL,A,income,Diluted EPS,2025-03-31,1.53
+BHEL,A,income,Diluted EPS,2026-03-31,4.6
+BHEL,A,income,EBITDA,2023-03-31,14968900000.0
+BHEL,A,income,EBITDA,2024-03-31,12228100000.0
+BHEL,A,income,EBITDA,2025-03-31,17658200000.0
+BHEL,A,income,EBITDA,2026-03-31,32102100000.0
+BHEL,A,income,Interest Expense,2023-03-31,5209400000.0
+BHEL,A,income,Interest Expense,2024-03-31,7312500000.0
+BHEL,A,income,Interest Expense,2025-03-31,7482600000.0
+BHEL,A,income,Interest Expense,2026-03-31,7557300000.0
+BHEL,A,income,Net Income,2023-03-31,6374400000.0
+BHEL,A,income,Net Income,2024-03-31,2822200000.0
+BHEL,A,income,Net Income,2025-03-31,5339000000.0
+BHEL,A,income,Net Income,2026-03-31,16002600000.0
+BHEL,A,income,Net Income Common Stockholders,2023-03-31,6374400000.0
+BHEL,A,income,Net Income Common Stockholders,2024-03-31,2822200000.0
+BHEL,A,income,Net Income Common Stockholders,2025-03-31,5339000000.0
+BHEL,A,income,Net Income Common Stockholders,2026-03-31,16002600000.0
+BHEL,A,income,Operating Income,2023-03-31,965000000.0
+BHEL,A,income,Operating Income,2024-03-31,1798000000.0
+BHEL,A,income,Operating Income,2025-03-31,8081200000.0
+BHEL,A,income,Operating Income,2026-03-31,16028400000.0
+BHEL,A,income,Pretax Income,2023-03-31,7156100000.0
+BHEL,A,income,Pretax Income,2024-03-31,2426600000.0
+BHEL,A,income,Pretax Income,2025-03-31,7456000000.0
+BHEL,A,income,Pretax Income,2026-03-31,21386100000.0
+BHEL,A,income,Total Revenue,2023-03-31,221363000000.0
+BHEL,A,income,Total Revenue,2024-03-31,229205200000.0
+BHEL,A,income,Total Revenue,2025-03-31,273551700000.0
+BHEL,A,income,Total Revenue,2026-03-31,323598300000.0
+BHEL,Q,income,Basic EPS,2025-06-30,-1.31
+BHEL,Q,income,Basic EPS,2025-12-31,1.12
+BHEL,Q,income,Basic EPS,2026-03-31,3.71
+BHEL,Q,income,Basic EPS,2026-06-30,1.08
+BHEL,Q,income,Basic EPS,2026-09-30,2.36
+BHEL,Q,income,Diluted EPS,2025-06-30,-1.31
+BHEL,Q,income,Diluted EPS,2025-12-31,1.12
+BHEL,Q,income,Diluted EPS,2026-03-31,3.71
+BHEL,Q,income,Diluted EPS,2026-06-30,1.08
+BHEL,Q,income,Diluted EPS,2026-09-30,2.36
+BHEL,Q,income,EBITDA,2025-06-30,-3523100000.0
+BHEL,Q,income,EBITDA,2025-12-31,7802900000.0
+BHEL,Q,income,EBITDA,2026-03-31,20130100000.0
+BHEL,Q,income,EBITDA,2026-06-30,7294600000.0
+BHEL,Q,income,EBITDA,2026-09-30,12969200000.0
+BHEL,Q,income,Interest Expense,2025-06-30,1812100000.0
+BHEL,Q,income,Interest Expense,2025-12-31,1824700000.0
+BHEL,Q,income,Interest Expense,2026-03-31,1975200000.0
+BHEL,Q,income,Interest Expense,2026-06-30,1398800000.0
+BHEL,Q,income,Interest Expense,2026-09-30,1247700000.0
+BHEL,Q,income,Net Income,2025-06-30,-4555000000.0
+BHEL,Q,income,Net Income,2025-12-31,3904000000.0
+BHEL,Q,income,Net Income,2026-03-31,12904700000.0
+BHEL,Q,income,Net Income,2026-06-30,3767100000.0
+BHEL,Q,income,Net Income,2026-09-30,8209400000.0
+BHEL,Q,income,Net Income Common Stockholders,2025-06-30,-4555000000.0
+BHEL,Q,income,Net Income Common Stockholders,2025-12-31,3904000000.0
+BHEL,Q,income,Net Income Common Stockholders,2026-03-31,12904700000.0
+BHEL,Q,income,Net Income Common Stockholders,2026-06-30,3767100000.0
+BHEL,Q,income,Net Income Common Stockholders,2026-09-30,8209400000.0
+BHEL,Q,income,Operating Income,2025-06-30,-6116600000.0
+BHEL,Q,income,Operating Income,2025-12-31,4673100000.0
+BHEL,Q,income,Operating Income,2026-03-31,16652000000.0
+BHEL,Q,income,Operating Income,2026-06-30,4219800000.0
+BHEL,Q,income,Operating Income,2026-09-30,9427200000.0
+BHEL,Q,income,Pretax Income,2025-06-30,-6080400000.0
+BHEL,Q,income,Pretax Income,2025-12-31,5198300000.0
+BHEL,Q,income,Pretax Income,2026-03-31,17275900000.0
+BHEL,Q,income,Pretax Income,2026-06-30,5077000000.0
+BHEL,Q,income,Pretax Income,2026-09-30,10890700000.0
+BHEL,Q,income,Total Revenue,2025-06-30,54869100000.0
+BHEL,Q,income,Total Revenue,2025-12-31,84731000000.0
+BHEL,Q,income,Total Revenue,2026-03-31,123103700000.0
+BHEL,Q,income,Total Revenue,2026-06-30,76977200000.0
+BHEL,Q,income,Total Revenue,2026-09-30,93003500000.0

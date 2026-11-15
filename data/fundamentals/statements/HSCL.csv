@@ -1,0 +1,118 @@
+symbol,freq,statement,item,period_end,value
+HSCL,A,balance,Cash And Cash Equivalents,2023-03-31,1996783000.0
+HSCL,A,balance,Cash And Cash Equivalents,2024-03-31,2148841000.0
+HSCL,A,balance,Cash And Cash Equivalents,2025-03-31,501061000.0
+HSCL,A,balance,Cash And Cash Equivalents,2026-03-31,1647607000.0
+HSCL,A,balance,Net Debt,2023-03-31,6365178000.0
+HSCL,A,balance,Net Debt,2024-03-31,3855356000.0
+HSCL,A,balance,Net Debt,2025-03-31,2585957000.0
+HSCL,A,balance,Net Debt,2026-03-31,6018063000.0
+HSCL,A,balance,Ordinary Shares Number,2023-03-31,432707198.0
+HSCL,A,balance,Ordinary Shares Number,2024-03-31,492594573.0
+HSCL,A,balance,Ordinary Shares Number,2025-03-31,493782224.0
+HSCL,A,balance,Ordinary Shares Number,2026-03-31,504541599.0
+HSCL,A,balance,Stockholders Equity,2023-03-31,22805056000.0
+HSCL,A,balance,Stockholders Equity,2024-03-31,30455752000.0
+HSCL,A,balance,Stockholders Equity,2025-03-31,37217390000.0
+HSCL,A,balance,Stockholders Equity,2026-03-31,47066832000.0
+HSCL,A,balance,Total Assets,2023-03-31,36781290000.0
+HSCL,A,balance,Total Assets,2024-03-31,44487874000.0
+HSCL,A,balance,Total Assets,2025-03-31,46560125000.0
+HSCL,A,balance,Total Assets,2026-03-31,63063854000.0
+HSCL,A,balance,Total Debt,2023-03-31,8421234000.0
+HSCL,A,balance,Total Debt,2024-03-31,6049566000.0
+HSCL,A,balance,Total Debt,2025-03-31,3134400000.0
+HSCL,A,balance,Total Debt,2026-03-31,7699798000.0
+HSCL,A,cashflow,Capital Expenditure,2023-03-31,-831520000.0
+HSCL,A,cashflow,Capital Expenditure,2024-03-31,-527477000.0
+HSCL,A,cashflow,Capital Expenditure,2025-03-31,-1708468000.0
+HSCL,A,cashflow,Capital Expenditure,2026-03-31,-4497357000.0
+HSCL,A,cashflow,Free Cash Flow,2023-03-31,-291896000.0
+HSCL,A,cashflow,Free Cash Flow,2024-03-31,3520112000.0
+HSCL,A,cashflow,Free Cash Flow,2025-03-31,2760119000.0
+HSCL,A,cashflow,Free Cash Flow,2026-03-31,-677292000.0
+HSCL,A,cashflow,Operating Cash Flow,2023-03-31,539624000.0
+HSCL,A,cashflow,Operating Cash Flow,2024-03-31,4047589000.0
+HSCL,A,cashflow,Operating Cash Flow,2025-03-31,4468587000.0
+HSCL,A,cashflow,Operating Cash Flow,2026-03-31,3820065000.0
+HSCL,A,income,Basic EPS,2023-03-31,5.13
+HSCL,A,income,Basic EPS,2024-03-31,9.16
+HSCL,A,income,Basic EPS,2025-03-31,11.26
+HSCL,A,income,Basic EPS,2026-03-31,15.08
+HSCL,A,income,Diluted EPS,2023-03-31,5.13
+HSCL,A,income,Diluted EPS,2024-03-31,9.16
+HSCL,A,income,Diluted EPS,2025-03-31,11.17
+HSCL,A,income,Diluted EPS,2026-03-31,15.02
+HSCL,A,income,EBITDA,2023-03-31,3800773000.0
+HSCL,A,income,EBITDA,2024-03-31,6815134000.0
+HSCL,A,income,EBITDA,2025-03-31,9019753000.0
+HSCL,A,income,EBITDA,2026-03-31,11316745000.0
+HSCL,A,income,Interest Expense,2023-03-31,489800000.0
+HSCL,A,income,Interest Expense,2024-03-31,577986000.0
+HSCL,A,income,Interest Expense,2025-03-31,408292000.0
+HSCL,A,income,Interest Expense,2026-03-31,626077000.0
+HSCL,A,income,Net Income,2023-03-31,2159773000.0
+HSCL,A,income,Net Income,2024-03-31,4107716000.0
+HSCL,A,income,Net Income,2025-03-31,5556336000.0
+HSCL,A,income,Net Income,2026-03-31,7513368000.0
+HSCL,A,income,Net Income Common Stockholders,2023-03-31,2159773000.0
+HSCL,A,income,Net Income Common Stockholders,2024-03-31,4107716000.0
+HSCL,A,income,Net Income Common Stockholders,2025-03-31,5556336000.0
+HSCL,A,income,Net Income Common Stockholders,2026-03-31,7513368000.0
+HSCL,A,income,Operating Income,2023-03-31,3681455000.0
+HSCL,A,income,Operating Income,2024-03-31,5855172000.0
+HSCL,A,income,Operating Income,2025-03-31,7917815000.0
+HSCL,A,income,Operating Income,2026-03-31,9375436000.0
+HSCL,A,income,Pretax Income,2023-03-31,2802497000.0
+HSCL,A,income,Pretax Income,2024-03-31,5738561000.0
+HSCL,A,income,Pretax Income,2025-03-31,8061809000.0
+HSCL,A,income,Pretax Income,2026-03-31,10009054000.0
+HSCL,A,income,Total Revenue,2023-03-31,41718260000.0
+HSCL,A,income,Total Revenue,2024-03-31,41846080000.0
+HSCL,A,income,Total Revenue,2025-03-31,45992155000.0
+HSCL,A,income,Total Revenue,2026-03-31,46576641000.0
+HSCL,Q,income,Basic EPS,2025-06-30,3.68
+HSCL,Q,income,Basic EPS,2025-12-31,3.84
+HSCL,Q,income,Basic EPS,2026-03-31,3.98
+HSCL,Q,income,Basic EPS,2026-06-30,4.55
+HSCL,Q,income,Basic EPS,2026-09-30,4.6
+HSCL,Q,income,Diluted EPS,2025-06-30,3.65
+HSCL,Q,income,Diluted EPS,2025-12-31,3.84
+HSCL,Q,income,Diluted EPS,2026-03-31,3.98
+HSCL,Q,income,Diluted EPS,2026-06-30,4.55
+HSCL,Q,income,Diluted EPS,2026-09-30,4.6
+HSCL,Q,income,EBITDA,2025-06-30,2716900000.0
+HSCL,Q,income,EBITDA,2025-12-31,2892000000.0
+HSCL,Q,income,EBITDA,2026-03-31,3038300000.0
+HSCL,Q,income,EBITDA,2026-06-30,3442200000.0
+HSCL,Q,income,EBITDA,2026-09-30,3567500000.0
+HSCL,Q,income,Interest Expense,2025-06-30,158300000.0
+HSCL,Q,income,Interest Expense,2025-12-31,163700000.0
+HSCL,Q,income,Interest Expense,2026-03-31,173900000.0
+HSCL,Q,income,Interest Expense,2026-06-30,224100000.0
+HSCL,Q,income,Interest Expense,2026-09-30,277200000.0
+HSCL,Q,income,Net Income,2025-06-30,1816900000.0
+HSCL,Q,income,Net Income,2025-12-31,1922000000.0
+HSCL,Q,income,Net Income,2026-03-31,2007900000.0
+HSCL,Q,income,Net Income,2026-06-30,2295200000.0
+HSCL,Q,income,Net Income,2026-09-30,2323200000.0
+HSCL,Q,income,Net Income Common Stockholders,2025-06-30,1816900000.0
+HSCL,Q,income,Net Income Common Stockholders,2025-12-31,1922000000.0
+HSCL,Q,income,Net Income Common Stockholders,2026-03-31,2007900000.0
+HSCL,Q,income,Net Income Common Stockholders,2026-06-30,2295200000.0
+HSCL,Q,income,Net Income Common Stockholders,2026-09-30,2323200000.0
+HSCL,Q,income,Operating Income,2025-09-30,2153900000.0
+HSCL,Q,income,Operating Income,2025-12-31,3718900000.0
+HSCL,Q,income,Operating Income,2026-03-31,4335200000.0
+HSCL,Q,income,Operating Income,2026-06-30,2918100000.0
+HSCL,Q,income,Operating Income,2026-09-30,2933700000.0
+HSCL,Q,income,Pretax Income,2025-06-30,2412200000.0
+HSCL,Q,income,Pretax Income,2025-12-31,2552500000.0
+HSCL,Q,income,Pretax Income,2026-03-31,2678900000.0
+HSCL,Q,income,Pretax Income,2026-06-30,3005100000.0
+HSCL,Q,income,Pretax Income,2026-09-30,3073400000.0
+HSCL,Q,income,Total Revenue,2025-06-30,11182900000.0
+HSCL,Q,income,Total Revenue,2025-12-31,11836200000.0
+HSCL,Q,income,Total Revenue,2026-03-31,12877600000.0
+HSCL,Q,income,Total Revenue,2026-06-30,14318800000.0
+HSCL,Q,income,Total Revenue,2026-09-30,16914300000.0

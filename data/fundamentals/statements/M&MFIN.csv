@@ -1,0 +1,100 @@
+symbol,freq,statement,item,period_end,value
+M&MFIN,A,balance,Cash And Cash Equivalents,2023-03-31,54036300000.0
+M&MFIN,A,balance,Cash And Cash Equivalents,2024-03-31,39316800000.0
+M&MFIN,A,balance,Cash And Cash Equivalents,2025-03-31,48899500000.0
+M&MFIN,A,balance,Cash And Cash Equivalents,2026-03-31,56262800000.0
+M&MFIN,A,balance,Net Debt,2023-03-31,705661900000.0
+M&MFIN,A,balance,Net Debt,2024-03-31,887505600000.0
+M&MFIN,A,balance,Net Debt,2025-03-31,1028293200000.0
+M&MFIN,A,balance,Net Debt,2026-03-31,1086145500000.0
+M&MFIN,A,balance,Ordinary Shares Number,2023-03-31,1267840667.0
+M&MFIN,A,balance,Ordinary Shares Number,2024-03-31,1268650171.0
+M&MFIN,A,balance,Ordinary Shares Number,2025-03-31,1269138634.0
+M&MFIN,A,balance,Ordinary Shares Number,2026-03-31,1389545161.0
+M&MFIN,A,balance,Stockholders Equity,2023-03-31,185600900000.0
+M&MFIN,A,balance,Stockholders Equity,2024-03-31,199332500000.0
+M&MFIN,A,balance,Stockholders Equity,2025-03-31,215294600000.0
+M&MFIN,A,balance,Stockholders Equity,2026-03-31,266386400000.0
+M&MFIN,A,balance,Total Assets,2023-03-31,1050847700000.0
+M&MFIN,A,balance,Total Assets,2024-03-31,1237157900000.0
+M&MFIN,A,balance,Total Assets,2025-03-31,1441052600000.0
+M&MFIN,A,balance,Total Assets,2026-03-31,1586439400000.0
+M&MFIN,A,balance,Total Debt,2023-03-31,764514600000.0
+M&MFIN,A,balance,Total Debt,2024-03-31,931773700000.0
+M&MFIN,A,balance,Total Debt,2025-03-31,1082232600000.0
+M&MFIN,A,balance,Total Debt,2026-03-31,1147281200000.0
+M&MFIN,A,cashflow,Capital Expenditure,2023-03-31,-4132900000.0
+M&MFIN,A,cashflow,Capital Expenditure,2024-03-31,-3233000000.0
+M&MFIN,A,cashflow,Capital Expenditure,2025-03-31,-4418900000.0
+M&MFIN,A,cashflow,Capital Expenditure,2026-03-31,-4162700000.0
+M&MFIN,A,cashflow,Free Cash Flow,2023-03-31,-178086000000.0
+M&MFIN,A,cashflow,Free Cash Flow,2024-03-31,-187718500000.0
+M&MFIN,A,cashflow,Free Cash Flow,2025-03-31,-160437700000.0
+M&MFIN,A,cashflow,Free Cash Flow,2026-03-31,-131884500000.0
+M&MFIN,A,cashflow,Operating Cash Flow,2023-03-31,-173953100000.0
+M&MFIN,A,cashflow,Operating Cash Flow,2024-03-31,-184485500000.0
+M&MFIN,A,cashflow,Operating Cash Flow,2025-03-31,-156018800000.0
+M&MFIN,A,cashflow,Operating Cash Flow,2026-03-31,-127721800000.0
+M&MFIN,A,income,Basic EPS,2023-03-31,16.355991
+M&MFIN,A,income,Basic EPS,2024-03-31,15.23705
+M&MFIN,A,income,Basic EPS,2025-03-31,17.78
+M&MFIN,A,income,Basic EPS,2026-03-31,20.88
+M&MFIN,A,income,Diluted EPS,2023-03-31,16.336531
+M&MFIN,A,income,Diluted EPS,2024-03-31,15.22732
+M&MFIN,A,income,Diluted EPS,2025-03-31,17.77
+M&MFIN,A,income,Diluted EPS,2026-03-31,20.86
+M&MFIN,A,income,Interest Expense,2023-03-31,51050700000.0
+M&MFIN,A,income,Interest Expense,2024-03-31,69497300000.0
+M&MFIN,A,income,Interest Expense,2025-03-31,85226800000.0
+M&MFIN,A,income,Interest Expense,2026-03-31,89335600000.0
+M&MFIN,A,income,Net Income,2023-03-31,20724000000.0
+M&MFIN,A,income,Net Income,2024-03-31,19326900000.0
+M&MFIN,A,income,Net Income,2025-03-31,22618700000.0
+M&MFIN,A,income,Net Income,2026-03-31,28545300000.0
+M&MFIN,A,income,Net Income Common Stockholders,2023-03-31,20724000000.0
+M&MFIN,A,income,Net Income Common Stockholders,2024-03-31,19326900000.0
+M&MFIN,A,income,Net Income Common Stockholders,2025-03-31,22618700000.0
+M&MFIN,A,income,Net Income Common Stockholders,2026-03-31,28545300000.0
+M&MFIN,A,income,Pretax Income,2023-03-31,28037600000.0
+M&MFIN,A,income,Pretax Income,2024-03-31,25881800000.0
+M&MFIN,A,income,Pretax Income,2025-03-31,30269100000.0
+M&MFIN,A,income,Pretax Income,2026-03-31,38259000000.0
+M&MFIN,A,income,Total Revenue,2023-03-31,73941200000.0
+M&MFIN,A,income,Total Revenue,2024-03-31,81372900000.0
+M&MFIN,A,income,Total Revenue,2025-03-31,90654800000.0
+M&MFIN,A,income,Total Revenue,2026-03-31,107556600000.0
+M&MFIN,Q,income,Basic EPS,2025-06-30,4.06
+M&MFIN,Q,income,Basic EPS,2025-12-31,5.93
+M&MFIN,Q,income,Basic EPS,2026-03-31,6.75
+M&MFIN,Q,income,Basic EPS,2026-06-30,6.66
+M&MFIN,Q,income,Basic EPS,2026-09-30,6.54
+M&MFIN,Q,income,Diluted EPS,2025-06-30,4.06
+M&MFIN,Q,income,Diluted EPS,2025-12-31,5.93
+M&MFIN,Q,income,Diluted EPS,2026-03-31,6.75
+M&MFIN,Q,income,Diluted EPS,2026-06-30,6.66
+M&MFIN,Q,income,Diluted EPS,2026-09-30,6.54
+M&MFIN,Q,income,Interest Expense,2025-06-30,22799800000.0
+M&MFIN,Q,income,Interest Expense,2025-12-31,22360200000.0
+M&MFIN,Q,income,Interest Expense,2026-03-31,22198800000.0
+M&MFIN,Q,income,Interest Expense,2026-06-30,23720500000.0
+M&MFIN,Q,income,Interest Expense,2026-09-30,25230000000.0
+M&MFIN,Q,income,Net Income,2025-06-30,5278700000.0
+M&MFIN,Q,income,Net Income,2025-12-31,8241600000.0
+M&MFIN,Q,income,Net Income,2026-03-31,9380200000.0
+M&MFIN,Q,income,Net Income,2026-06-30,9260300000.0
+M&MFIN,Q,income,Net Income,2026-09-30,9094300000.0
+M&MFIN,Q,income,Net Income Common Stockholders,2025-06-30,5278700000.0
+M&MFIN,Q,income,Net Income Common Stockholders,2025-12-31,8241600000.0
+M&MFIN,Q,income,Net Income Common Stockholders,2026-03-31,9380200000.0
+M&MFIN,Q,income,Net Income Common Stockholders,2026-06-30,9260300000.0
+M&MFIN,Q,income,Net Income Common Stockholders,2026-09-30,9094300000.0
+M&MFIN,Q,income,Pretax Income,2025-06-30,7035800000.0
+M&MFIN,Q,income,Pretax Income,2025-12-31,11045200000.0
+M&MFIN,Q,income,Pretax Income,2026-03-31,12590700000.0
+M&MFIN,Q,income,Pretax Income,2026-06-30,12422200000.0
+M&MFIN,Q,income,Pretax Income,2026-09-30,12233400000.0
+M&MFIN,Q,income,Total Revenue,2025-06-30,24556500000.0
+M&MFIN,Q,income,Total Revenue,2025-12-31,28379000000.0
+M&MFIN,Q,income,Total Revenue,2026-03-31,29628600000.0
+M&MFIN,Q,income,Total Revenue,2026-06-30,29690300000.0
+M&MFIN,Q,income,Total Revenue,2026-09-30,30281600000.0

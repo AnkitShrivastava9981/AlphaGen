@@ -1,0 +1,117 @@
+symbol,freq,statement,item,period_end,value
+MASTEK,A,balance,Cash And Cash Equivalents,2023-03-31,2076400000.0
+MASTEK,A,balance,Cash And Cash Equivalents,2024-03-31,3811200000.0
+MASTEK,A,balance,Cash And Cash Equivalents,2025-03-31,4607600000.0
+MASTEK,A,balance,Cash And Cash Equivalents,2026-03-31,7043300000.0
+MASTEK,A,balance,Net Debt,2023-03-31,1640300000.0
+MASTEK,A,balance,Net Debt,2024-03-31,1054300000.0
+MASTEK,A,balance,Net Debt,2025-03-31,944100000.0
+MASTEK,A,balance,Ordinary Shares Number,2023-03-31,30524827.0
+MASTEK,A,balance,Ordinary Shares Number,2024-03-31,30844311.0
+MASTEK,A,balance,Ordinary Shares Number,2025-03-31,30939894.0
+MASTEK,A,balance,Ordinary Shares Number,2026-03-31,30997340.0
+MASTEK,A,balance,Stockholders Equity,2023-03-31,16834100000.0
+MASTEK,A,balance,Stockholders Equity,2024-03-31,20874100000.0
+MASTEK,A,balance,Stockholders Equity,2025-03-31,24623400000.0
+MASTEK,A,balance,Stockholders Equity,2026-03-31,29918500000.0
+MASTEK,A,balance,Total Assets,2023-03-31,31409000000.0
+MASTEK,A,balance,Total Assets,2024-03-31,36851300000.0
+MASTEK,A,balance,Total Assets,2025-03-31,38164500000.0
+MASTEK,A,balance,Total Assets,2026-03-31,43088300000.0
+MASTEK,A,balance,Total Debt,2023-03-31,4042300000.0
+MASTEK,A,balance,Total Debt,2024-03-31,5189600000.0
+MASTEK,A,balance,Total Debt,2025-03-31,5831300000.0
+MASTEK,A,balance,Total Debt,2026-03-31,4382600000.0
+MASTEK,A,cashflow,Capital Expenditure,2023-03-31,-315000000.0
+MASTEK,A,cashflow,Capital Expenditure,2024-03-31,-314500000.0
+MASTEK,A,cashflow,Capital Expenditure,2025-03-31,-201300000.0
+MASTEK,A,cashflow,Capital Expenditure,2026-03-31,-279900000.0
+MASTEK,A,cashflow,Free Cash Flow,2023-03-31,761700000.0
+MASTEK,A,cashflow,Free Cash Flow,2024-03-31,3889200000.0
+MASTEK,A,cashflow,Free Cash Flow,2025-03-31,3762600000.0
+MASTEK,A,cashflow,Free Cash Flow,2026-03-31,5137000000.0
+MASTEK,A,cashflow,Operating Cash Flow,2023-03-31,1076700000.0
+MASTEK,A,cashflow,Operating Cash Flow,2024-03-31,4203700000.0
+MASTEK,A,cashflow,Operating Cash Flow,2025-03-31,3963900000.0
+MASTEK,A,cashflow,Operating Cash Flow,2026-03-31,5416900000.0
+MASTEK,A,income,Basic EPS,2023-03-31,97.23
+MASTEK,A,income,Basic EPS,2024-03-31,98.01
+MASTEK,A,income,Basic EPS,2025-03-31,121.78
+MASTEK,A,income,Basic EPS,2026-03-31,130.45
+MASTEK,A,income,Diluted EPS,2023-03-31,95.53
+MASTEK,A,income,Diluted EPS,2024-03-31,97.25
+MASTEK,A,income,Diluted EPS,2025-03-31,120.65
+MASTEK,A,income,Diluted EPS,2026-03-31,129.5
+MASTEK,A,income,EBITDA,2023-03-31,5191500000.0
+MASTEK,A,income,EBITDA,2024-03-31,5186600000.0
+MASTEK,A,income,EBITDA,2025-03-31,5745900000.0
+MASTEK,A,income,EBITDA,2026-03-31,6243000000.0
+MASTEK,A,income,Interest Expense,2023-03-31,244100000.0
+MASTEK,A,income,Interest Expense,2024-03-31,425600000.0
+MASTEK,A,income,Interest Expense,2025-03-31,403100000.0
+MASTEK,A,income,Interest Expense,2026-03-31,304700000.0
+MASTEK,A,income,Net Income,2023-03-31,2930100000.0
+MASTEK,A,income,Net Income,2024-03-31,3002900000.0
+MASTEK,A,income,Net Income,2025-03-31,3759300000.0
+MASTEK,A,income,Net Income,2026-03-31,4040000000.0
+MASTEK,A,income,Net Income Common Stockholders,2023-03-31,2930100000.0
+MASTEK,A,income,Net Income Common Stockholders,2024-03-31,3002900000.0
+MASTEK,A,income,Net Income Common Stockholders,2025-03-31,3759300000.0
+MASTEK,A,income,Net Income Common Stockholders,2026-03-31,4040000000.0
+MASTEK,A,income,Operating Income,2023-03-31,3912000000.0
+MASTEK,A,income,Operating Income,2024-03-31,4356200000.0
+MASTEK,A,income,Operating Income,2025-03-31,4969800000.0
+MASTEK,A,income,Operating Income,2026-03-31,5479500000.0
+MASTEK,A,income,Pretax Income,2023-03-31,4273700000.0
+MASTEK,A,income,Pretax Income,2024-03-31,3861900000.0
+MASTEK,A,income,Pretax Income,2025-03-31,4591600000.0
+MASTEK,A,income,Pretax Income,2026-03-31,5212200000.0
+MASTEK,A,income,Total Revenue,2023-03-31,25582000000.0
+MASTEK,A,income,Total Revenue,2024-03-31,30492400000.0
+MASTEK,A,income,Total Revenue,2025-03-31,34478200000.0
+MASTEK,A,income,Total Revenue,2026-03-31,36943800000.0
+MASTEK,Q,income,Basic EPS,2025-06-30,29.75
+MASTEK,Q,income,Basic EPS,2025-12-31,34.97
+MASTEK,Q,income,Basic EPS,2026-03-31,34.25
+MASTEK,Q,income,Basic EPS,2026-06-30,34.16
+MASTEK,Q,income,Basic EPS,2026-09-30,34.08
+MASTEK,Q,income,Diluted EPS,2025-06-30,29.5
+MASTEK,Q,income,Diluted EPS,2025-12-31,34.71
+MASTEK,Q,income,Diluted EPS,2026-03-31,34.01
+MASTEK,Q,income,Diluted EPS,2026-06-30,33.93
+MASTEK,Q,income,Diluted EPS,2026-09-30,33.86
+MASTEK,Q,income,EBITDA,2025-09-30,1614100000.0
+MASTEK,Q,income,EBITDA,2025-12-31,1664800000.0
+MASTEK,Q,income,EBITDA,2026-03-31,1508900000.0
+MASTEK,Q,income,EBITDA,2026-06-30,1633900000.0
+MASTEK,Q,income,EBITDA,2026-09-30,1686200000.0
+MASTEK,Q,income,Interest Expense,2025-09-30,94400000.0
+MASTEK,Q,income,Interest Expense,2025-12-31,74400000.0
+MASTEK,Q,income,Interest Expense,2026-03-31,71900000.0
+MASTEK,Q,income,Interest Expense,2026-06-30,65900000.0
+MASTEK,Q,income,Interest Expense,2026-09-30,77300000.0
+MASTEK,Q,income,Net Income,2025-06-30,920500000.0
+MASTEK,Q,income,Net Income,2025-12-31,1083500000.0
+MASTEK,Q,income,Net Income,2026-03-31,1061500000.0
+MASTEK,Q,income,Net Income,2026-06-30,1058800000.0
+MASTEK,Q,income,Net Income,2026-09-30,1056700000.0
+MASTEK,Q,income,Net Income Common Stockholders,2025-06-30,920500000.0
+MASTEK,Q,income,Net Income Common Stockholders,2025-12-31,1083500000.0
+MASTEK,Q,income,Net Income Common Stockholders,2026-03-31,1061500000.0
+MASTEK,Q,income,Net Income Common Stockholders,2026-06-30,1058800000.0
+MASTEK,Q,income,Net Income Common Stockholders,2026-09-30,1056700000.0
+MASTEK,Q,income,Operating Income,2025-09-30,1284500000.0
+MASTEK,Q,income,Operating Income,2025-12-31,1277400000.0
+MASTEK,Q,income,Operating Income,2026-03-31,1322800000.0
+MASTEK,Q,income,Operating Income,2026-06-30,1330200000.0
+MASTEK,Q,income,Operating Income,2026-09-30,1267500000.0
+MASTEK,Q,income,Pretax Income,2025-06-30,1207000000.0
+MASTEK,Q,income,Pretax Income,2025-12-31,1411900000.0
+MASTEK,Q,income,Pretax Income,2026-03-31,1252300000.0
+MASTEK,Q,income,Pretax Income,2026-06-30,1384600000.0
+MASTEK,Q,income,Pretax Income,2026-09-30,1414600000.0
+MASTEK,Q,income,Total Revenue,2025-09-30,9403700000.0
+MASTEK,Q,income,Total Revenue,2025-12-31,9056800000.0
+MASTEK,Q,income,Total Revenue,2026-03-31,9380000000.0
+MASTEK,Q,income,Total Revenue,2026-06-30,9852500000.0
+MASTEK,Q,income,Total Revenue,2026-09-30,10186800000.0
