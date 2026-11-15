@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+BPCL,A,balance,Cash And Cash Equivalents,2023-03-31,23127200000.0
+BPCL,A,balance,Cash And Cash Equivalents,2024-03-31,23007400000.0
+BPCL,A,balance,Cash And Cash Equivalents,2025-03-31,5579300000.0
+BPCL,A,balance,Cash And Cash Equivalents,2026-03-31,3199900000.0
+BPCL,A,balance,Net Debt,2023-03-31,581418900000.0
+BPCL,A,balance,Net Debt,2024-03-31,431841900000.0
+BPCL,A,balance,Net Debt,2025-03-31,505029800000.0
+BPCL,A,balance,Net Debt,2026-03-31,431619200000.0
+BPCL,A,balance,Ordinary Shares Number,2023-03-31,4258910978.0
+BPCL,A,balance,Ordinary Shares Number,2024-03-31,4272584874.0
+BPCL,A,balance,Ordinary Shares Number,2025-03-31,4272584874.0
+BPCL,A,balance,Ordinary Shares Number,2026-03-31,4272584874.0
+BPCL,A,balance,Stockholders Equity,2023-03-31,535223600000.0
+BPCL,A,balance,Stockholders Equity,2024-03-31,756351100000.0
+BPCL,A,balance,Stockholders Equity,2025-03-31,813840800000.0
+BPCL,A,balance,Stockholders Equity,2026-03-31,1001702600000.0
+BPCL,A,balance,Total Assets,2023-03-31,1881381900000.0
+BPCL,A,balance,Total Assets,2024-03-31,2024177500000.0
+BPCL,A,balance,Total Assets,2025-03-31,2183822200000.0
+BPCL,A,balance,Total Assets,2026-03-31,2486160300000.0
+BPCL,A,balance,Total Debt,2023-03-31,693760300000.0
+BPCL,A,balance,Total Debt,2024-03-31,545990500000.0
+BPCL,A,balance,Total Debt,2025-03-31,611005700000.0
+BPCL,A,balance,Total Debt,2026-03-31,544244200000.0
+BPCL,A,cashflow,Capital Expenditure,2023-03-31,-85486200000.0
+BPCL,A,cashflow,Capital Expenditure,2024-03-31,-95791300000.0
+BPCL,A,cashflow,Capital Expenditure,2025-03-31,-151431200000.0
+BPCL,A,cashflow,Capital Expenditure,2026-03-31,-194248200000.0
+BPCL,A,cashflow,Free Cash Flow,2023-03-31,39169800000.0
+BPCL,A,cashflow,Free Cash Flow,2024-03-31,263905000000.0
+BPCL,A,cashflow,Free Cash Flow,2025-03-31,85346700000.0
+BPCL,A,cashflow,Free Cash Flow,2026-03-31,313441700000.0
+BPCL,A,cashflow,Operating Cash Flow,2023-03-31,124656000000.0
+BPCL,A,cashflow,Operating Cash Flow,2024-03-31,359696300000.0
+BPCL,A,cashflow,Operating Cash Flow,2025-03-31,236777900000.0
+BPCL,A,cashflow,Operating Cash Flow,2026-03-31,507689900000.0
+BPCL,A,income,Basic EPS,2023-03-31,5.005
+BPCL,A,income,Basic EPS,2024-03-31,63.04
+BPCL,A,income,Basic EPS,2025-03-31,31.21
+BPCL,A,income,Basic EPS,2026-03-31,60.49
+BPCL,A,income,Diluted EPS,2023-03-31,5.005
+BPCL,A,income,Diluted EPS,2024-03-31,63.04
+BPCL,A,income,Diluted EPS,2025-03-31,31.21
+BPCL,A,income,Diluted EPS,2026-03-31,60.49
+BPCL,A,income,EBITDA,2023-03-31,131202400000.0
+BPCL,A,income,EBITDA,2024-03-31,470661100000.0
+BPCL,A,income,EBITDA,2025-03-31,289937500000.0
+BPCL,A,income,EBITDA,2026-03-31,455961300000.0
+BPCL,A,income,Interest Expense,2023-03-31,39302900000.0
+BPCL,A,income,Interest Expense,2024-03-31,41004100000.0
+BPCL,A,income,Interest Expense,2025-03-31,35547600000.0
+BPCL,A,income,Interest Expense,2026-03-31,29485200000.0
+BPCL,A,income,Net Income,2023-03-31,21310500000.0
+BPCL,A,income,Net Income,2024-03-31,268588400000.0
+BPCL,A,income,Net Income,2025-03-31,133365500000.0
+BPCL,A,income,Net Income,2026-03-31,258434500000.0
+BPCL,A,income,Operating Income,2023-03-31,74233700000.0
+BPCL,A,income,Operating Income,2024-03-31,376737400000.0
+BPCL,A,income,Operating Income,2025-03-31,186312500000.0
+BPCL,A,income,Operating Income,2026-03-31,375681600000.0
+BPCL,A,income,Pretax Income,2023-03-31,28211300000.0
+BPCL,A,income,Pretax Income,2024-03-31,361944400000.0
+BPCL,A,income,Pretax Income,2025-03-31,181823000000.0
+BPCL,A,income,Pretax Income,2026-03-31,347912400000.0
+BPCL,A,income,Total Revenue,2023-03-31,4662577300000.0
+BPCL,A,income,Total Revenue,2024-03-31,4466662600000.0
+BPCL,A,income,Total Revenue,2025-03-31,4387377700000.0
+BPCL,A,income,Total Revenue,2026-03-31,4503026700000.0
+BPCL,Q,income,Basic EPS,2025-06-30,16.01
+BPCL,Q,income,Basic EPS,2025-12-31,16.82
+BPCL,Q,income,Basic EPS,2026-03-31,13.16
+BPCL,Q,income,Basic EPS,2026-06-30,-4.38
+BPCL,Q,income,Basic EPS,2026-09-30,11.38
+BPCL,Q,income,Diluted EPS,2025-06-30,16.01
+BPCL,Q,income,Diluted EPS,2025-12-31,16.82
+BPCL,Q,income,Diluted EPS,2026-03-31,13.16
+BPCL,Q,income,Diluted EPS,2026-06-30,-4.38
+BPCL,Q,income,Diluted EPS,2026-09-30,11.38
+BPCL,Q,income,EBITDA,2025-06-30,96294200000.0
+BPCL,Q,income,EBITDA,2025-12-31,103946100000.0
+BPCL,Q,income,EBITDA,2026-03-31,85428500000.0
+BPCL,Q,income,EBITDA,2026-06-30,-25887700000.0
+BPCL,Q,income,EBITDA,2026-09-30,75508900000.0
+BPCL,Q,income,Interest Expense,2025-06-30,7577300000.0
+BPCL,Q,income,Interest Expense,2025-12-31,6574200000.0
+BPCL,Q,income,Interest Expense,2026-03-31,7050800000.0
+BPCL,Q,income,Interest Expense,2026-06-30,6268700000.0
+BPCL,Q,income,Interest Expense,2026-09-30,9910900000.0
+BPCL,Q,income,Net Income,2025-06-30,68390200000.0
+BPCL,Q,income,Net Income,2025-12-31,71884000000.0
+BPCL,Q,income,Net Income,2026-03-31,56245400000.0
+BPCL,Q,income,Net Income,2026-06-30,-18727000000.0
+BPCL,Q,income,Net Income,2026-09-30,48630500000.0
+BPCL,Q,income,Net Income Common Stockholders,2025-06-30,68390200000.0
+BPCL,Q,income,Net Income Common Stockholders,2025-12-31,71884000000.0
+BPCL,Q,income,Net Income Common Stockholders,2026-03-31,56245400000.0
+BPCL,Q,income,Net Income Common Stockholders,2026-06-30,-18727000000.0
+BPCL,Q,income,Net Income Common Stockholders,2026-09-30,48630500000.0
+BPCL,Q,income,Operating Income,2025-06-30,77889900000.0
+BPCL,Q,income,Operating Income,2025-12-31,97079700000.0
+BPCL,Q,income,Operating Income,2026-03-31,80457900000.0
+BPCL,Q,income,Operating Income,2026-06-30,-61237600000.0
+BPCL,Q,income,Operating Income,2026-09-30,68762200000.0
+BPCL,Q,income,Pretax Income,2025-06-30,88716900000.0
+BPCL,Q,income,Pretax Income,2025-12-31,97371900000.0
+BPCL,Q,income,Pretax Income,2026-03-31,78377700000.0
+BPCL,Q,income,Pretax Income,2026-06-30,-32156400000.0
+BPCL,Q,income,Pretax Income,2026-09-30,65598000000.0
+BPCL,Q,income,Total Revenue,2025-06-30,1125514500000.0
+BPCL,Q,income,Total Revenue,2025-12-31,1190294300000.0
+BPCL,Q,income,Total Revenue,2026-03-31,1187008800000.0
+BPCL,Q,income,Total Revenue,2026-06-30,1512770300000.0
+BPCL,Q,income,Total Revenue,2026-09-30,1490804000000.0

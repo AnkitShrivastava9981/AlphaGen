@@ -1,0 +1,114 @@
+symbol,freq,statement,item,period_end,value
+ABB,A,balance,Cash And Cash Equivalents,2022-12-31,31468600000.0
+ABB,A,balance,Cash And Cash Equivalents,2023-12-31,8768800000.0
+ABB,A,balance,Cash And Cash Equivalents,2024-12-31,9356300000.0
+ABB,A,balance,Cash And Cash Equivalents,2025-12-31,15525700000.0
+ABB,A,balance,Ordinary Shares Number,2022-12-31,211908375.0
+ABB,A,balance,Ordinary Shares Number,2023-12-31,211908375.0
+ABB,A,balance,Ordinary Shares Number,2024-12-31,211908375.0
+ABB,A,balance,Ordinary Shares Number,2025-12-31,211908375.0
+ABB,A,balance,Stockholders Equity,2022-12-31,49394100000.0
+ABB,A,balance,Stockholders Equity,2023-12-31,59446000000.0
+ABB,A,balance,Stockholders Equity,2024-12-31,70754000000.0
+ABB,A,balance,Stockholders Equity,2025-12-31,78359900000.0
+ABB,A,balance,Total Assets,2022-12-31,93182300000.0
+ABB,A,balance,Total Assets,2023-12-31,110011900000.0
+ABB,A,balance,Total Assets,2024-12-31,123913300000.0
+ABB,A,balance,Total Assets,2025-12-31,136384800000.0
+ABB,A,balance,Total Debt,2022-12-31,330900000.0
+ABB,A,balance,Total Debt,2023-12-31,489800000.0
+ABB,A,balance,Total Debt,2024-12-31,518800000.0
+ABB,A,balance,Total Debt,2025-12-31,848200000.0
+ABB,A,cashflow,Capital Expenditure,2022-12-31,-1679600000.0
+ABB,A,cashflow,Capital Expenditure,2023-12-31,-1830800000.0
+ABB,A,cashflow,Capital Expenditure,2024-12-31,-2139500000.0
+ABB,A,cashflow,Capital Expenditure,2025-12-31,-2399500000.0
+ABB,A,cashflow,Free Cash Flow,2022-12-31,5739800000.0
+ABB,A,cashflow,Free Cash Flow,2023-12-31,11684000000.0
+ABB,A,cashflow,Free Cash Flow,2024-12-31,11178500000.0
+ABB,A,cashflow,Free Cash Flow,2025-12-31,9795600000.0
+ABB,A,cashflow,Operating Cash Flow,2022-12-31,7419400000.0
+ABB,A,cashflow,Operating Cash Flow,2023-12-31,13514800000.0
+ABB,A,cashflow,Operating Cash Flow,2024-12-31,13318000000.0
+ABB,A,cashflow,Operating Cash Flow,2025-12-31,12195100000.0
+ABB,A,income,Basic EPS,2022-12-31,47.96
+ABB,A,income,Basic EPS,2023-12-31,58.61
+ABB,A,income,Basic EPS,2024-12-31,88.32
+ABB,A,income,Basic EPS,2025-12-31,78.73
+ABB,A,income,Diluted EPS,2022-12-31,47.96
+ABB,A,income,Diluted EPS,2023-12-31,58.61
+ABB,A,income,Diluted EPS,2024-12-31,88.32
+ABB,A,income,Diluted EPS,2025-12-31,78.73
+ABB,A,income,EBITDA,2022-12-31,14787700000.0
+ABB,A,income,EBITDA,2023-12-31,17910800000.0
+ABB,A,income,EBITDA,2024-12-31,26575800000.0
+ABB,A,income,EBITDA,2025-12-31,23948600000.0
+ABB,A,income,Interest Expense,2022-12-31,112800000.0
+ABB,A,income,Interest Expense,2023-12-31,122700000.0
+ABB,A,income,Interest Expense,2024-12-31,154000000.0
+ABB,A,income,Interest Expense,2025-12-31,193900000.0
+ABB,A,income,Net Income,2022-12-31,10162300000.0
+ABB,A,income,Net Income,2023-12-31,12420500000.0
+ABB,A,income,Net Income,2024-12-31,18716400000.0
+ABB,A,income,Net Income,2025-12-31,16682600000.0
+ABB,A,income,Net Income Common Stockholders,2022-12-31,10162300000.0
+ABB,A,income,Net Income Common Stockholders,2023-12-31,12420500000.0
+ABB,A,income,Net Income Common Stockholders,2024-12-31,18716400000.0
+ABB,A,income,Net Income Common Stockholders,2025-12-31,16682600000.0
+ABB,A,income,Operating Income,2022-12-31,9765000000.0
+ABB,A,income,Operating Income,2023-12-31,14139300000.0
+ABB,A,income,Operating Income,2024-12-31,22102300000.0
+ABB,A,income,Operating Income,2025-12-31,18756800000.0
+ABB,A,income,Pretax Income,2022-12-31,13627900000.0
+ABB,A,income,Pretax Income,2023-12-31,16588900000.0
+ABB,A,income,Pretax Income,2024-12-31,25132600000.0
+ABB,A,income,Pretax Income,2025-12-31,22299400000.0
+ABB,A,income,Total Revenue,2022-12-31,84984100000.0
+ABB,A,income,Total Revenue,2023-12-31,103666800000.0
+ABB,A,income,Total Revenue,2024-12-31,120876700000.0
+ABB,A,income,Total Revenue,2025-12-31,130653200000.0
+ABB,Q,income,Basic EPS,2025-03-31,22.4
+ABB,Q,income,Basic EPS,2025-06-30,16.6
+ABB,Q,income,Basic EPS,2025-12-31,20.43
+ABB,Q,income,Basic EPS,2026-03-31,84.18
+ABB,Q,income,Basic EPS,2026-06-30,17.09
+ABB,Q,income,Diluted EPS,2025-03-31,22.4
+ABB,Q,income,Diluted EPS,2025-06-30,16.6
+ABB,Q,income,Diluted EPS,2025-12-31,20.43
+ABB,Q,income,Diluted EPS,2026-03-31,84.18
+ABB,Q,income,Diluted EPS,2026-06-30,17.09
+ABB,Q,income,EBITDA,2025-03-31,6519300000.0
+ABB,Q,income,EBITDA,2025-06-30,5009100000.0
+ABB,Q,income,EBITDA,2025-12-31,6225800000.0
+ABB,Q,income,EBITDA,2026-03-31,5080400000.0
+ABB,Q,income,EBITDA,2026-06-30,5397100000.0
+ABB,Q,income,Interest Expense,2025-03-31,46900000.0
+ABB,Q,income,Interest Expense,2025-06-30,41800000.0
+ABB,Q,income,Interest Expense,2025-12-31,53500000.0
+ABB,Q,income,Interest Expense,2026-03-31,38100000.0
+ABB,Q,income,Interest Expense,2026-06-30,17100000.0
+ABB,Q,income,Net Income,2025-03-31,4746300000.0
+ABB,Q,income,Net Income,2025-06-30,3517400000.0
+ABB,Q,income,Net Income,2025-12-31,4328500000.0
+ABB,Q,income,Net Income,2026-03-31,17836500000.0
+ABB,Q,income,Net Income,2026-06-30,3623000000.0
+ABB,Q,income,Net Income Common Stockholders,2025-03-31,4746300000.0
+ABB,Q,income,Net Income Common Stockholders,2025-06-30,3517400000.0
+ABB,Q,income,Net Income Common Stockholders,2025-12-31,4328500000.0
+ABB,Q,income,Net Income Common Stockholders,2026-03-31,17836500000.0
+ABB,Q,income,Net Income Common Stockholders,2026-06-30,3623000000.0
+ABB,Q,income,Operating Income,2025-03-31,5260200000.0
+ABB,Q,income,Operating Income,2025-06-30,3658100000.0
+ABB,Q,income,Operating Income,2025-12-31,5066100000.0
+ABB,Q,income,Operating Income,2026-03-31,3660400000.0
+ABB,Q,income,Operating Income,2026-06-30,4078100000.0
+ABB,Q,income,Pretax Income,2025-03-31,6136600000.0
+ABB,Q,income,Pretax Income,2025-06-30,4613800000.0
+ABB,Q,income,Pretax Income,2025-12-31,5775900000.0
+ABB,Q,income,Pretax Income,2026-03-31,4618700000.0
+ABB,Q,income,Pretax Income,2026-06-30,4987700000.0
+ABB,Q,income,Total Revenue,2025-03-31,29901900000.0
+ABB,Q,income,Total Revenue,2025-06-30,29095600000.0
+ABB,Q,income,Total Revenue,2025-12-31,34957900000.0
+ABB,Q,income,Total Revenue,2026-03-31,31624100000.0
+ABB,Q,income,Total Revenue,2026-06-30,35210300000.0
