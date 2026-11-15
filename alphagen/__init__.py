@@ -1,0 +1,1 @@
+"""AlphaGen weekly data collector."""
