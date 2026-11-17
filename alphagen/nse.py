@@ -140,27 +140,35 @@ def fii_dii():
 
 
 # ---------- bulk and block deals for the past week ----------
+DEAL_COLS = {"BD_DT_DATE": "Date", "BD_SYMBOL": "Symbol", "BD_SCRIP_NAME": "Security Name",
+             "BD_CLIENT_NAME": "Client Name", "BD_BUY_SELL": "Buy/Sell", "BD_QTY_TRD": "Quantity Traded",
+             "BD_TP_WATP": "Trade Price / Wght. Avg. Price", "BD_REMARKS": "Remarks"}
+
+
 def deals():
-    s = nse_session()
+    """Past 7 days via NSE's current report API (needs a browser-like client); falls back to
+    the archive file, which only holds the latest day."""
+    from .nse_api import NseApi
     end = today_ist()
     start = end - dt.timedelta(days=7)
     rows, notes = 0, []
-    for kind in ("bulk-deals", "block-deals"):
-        url = (f"https://www.nseindia.com/api/historical/{kind}"
-               f"?from={start:%d-%m-%Y}&to={end:%d-%m-%Y}")
+    api = None
+    for kind, opt in (("bulk-deals", "bulk_deals"), ("block-deals", "block_deals")):
+        df = pd.DataFrame()
         try:
-            r = get_with_retry(s, url, tries=2)
-            data = r.json().get("data", []) if r is not None else []
-            df = pd.DataFrame(data)
+            api = api or NseApi()
+            data = api.json(f"/api/historicalOR/bulk-block-short-deals?optionType={opt}"
+                            f"&from={start:%d-%m-%Y}&to={end:%d-%m-%Y}", tries=2,
+                            referer="https://www.nseindia.com/report-detail/display-bulk-and-block-deals")
+            df = pd.DataFrame((data or {}).get("data", [])).rename(columns=DEAL_COLS)
+            notes.append(f"{kind}: 7-day API ok")
         except Exception as e:
-            notes.append(f"{kind} API failed")
+            notes.append(f"{kind}: API failed ({str(e)[:60]})")
+            s = nse_session()
             fallback = f"{ARCH}/content/equities/{'bulk' if kind == 'bulk-deals' else 'block'}.csv"
-            try:
-                r = get_with_retry(s, fallback, tries=2)
-                df = pd.read_csv(io.BytesIO(r.content)) if r is not None else pd.DataFrame()
-                notes.append("used today's file")
-            except Exception:
-                raise RuntimeError(f"{kind}: {e}")
+            r = get_with_retry(s, fallback, tries=2)
+            df = pd.read_csv(io.BytesIO(r.content)) if r is not None else pd.DataFrame()
+            notes.append("used latest-day file")
         df.to_csv(ensure(NSE_DIR / "deals" / f"{end.isoformat()}_{kind}.csv"), index=False)
         rows += len(df)
-    return rows, "; ".join(notes) or "ok"
+    return rows, "; ".join(notes)

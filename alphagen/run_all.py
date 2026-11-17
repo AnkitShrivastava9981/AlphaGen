@@ -2,7 +2,8 @@
 import os
 import sys
 
-from . import fundamentals, macro, mutual_funds, nse, prices, universe
+from . import (classification, fundamentals, indices_pe, macro, mutual_funds, nse, prices, results_history,
+               shareholding, universe)
 from .common import Status, log
 
 
@@ -32,6 +33,11 @@ def main():
     run_step(status, "mutual_funds", mutual_funds.collect)
     run_step(status, "macro", macro.collect)
     run_step(status, "fundamentals", fundamentals.collect, max_tickers)
+    run_step(status, "index_pe_history", indices_pe.collect)
+    run_step(status, "classification", classification.collect)
+    run_step(status, "shareholding", shareholding.collect, 40)
+    run_step(status, "sast", shareholding.sast)
+    run_step(status, "results_history", results_history.collect, int(os.environ.get("RESULTS_BUDGET_MIN", "60")))
     status.write()
     failed = [k for k, v in status.steps.items() if not v["ok"]]
     log.info("Done. Failed steps: %s", failed or "none")
