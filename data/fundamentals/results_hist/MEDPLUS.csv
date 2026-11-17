@@ -1,0 +1,13 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-10-01,2021-12-31,consolidated,,,,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83281_611502_15022022031624_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86720_669407_31052022011936_WEB.xml
+2022-04-01,2022-06-30,consolidated,9936540000.0,32000000.0,0.27,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_653623_4085_11082022182046_WEB.xml
+2022-07-01,2022-09-30,consolidated,11206250000.0,65650000.0,0.55,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_862311_6580_11112022191721_WEB.xml
+2022-10-01,2022-12-31,consolidated,11903140000.0,134070000.0,1.12,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88695_786260_06022023105700.xml
+2023-01-01,2023-03-31,consolidated,12529820000.0,265820000.0,2.24,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92822_853154_26052023031616.xml
+2023-04-01,2023-06-30,consolidated,12842960000.0,37860000.0,0.32,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95602_910464_07082023081728.xml
+2023-10-01,2023-12-31,consolidated,14414720000.0,137260000.0,1.15,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102134_1042980_02022024053145.xml
+2024-01-01,2024-03-31,consolidated,14904980000.0,333960000.0,2.81,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107710_1143599_29052024012603.xml
+2024-04-01,2024-06-30,consolidated,14888250000.0,143630000.0,1.2,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110221_1210909_02082024061754.xml
+2024-07-01,2024-09-30,consolidated,15761720000.0,387360000.0,3.24,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_115449_1307660_13112024120220.xml
+2024-10-01,2024-12-31,consolidated,15614460000.0,458860000.0,3.84,MEDPLUS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118376_1367922_31012025074134.xml

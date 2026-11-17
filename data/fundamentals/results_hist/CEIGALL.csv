@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,8223940000.0,794060000.0,4.96,CEIGALL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112648_1241867_11092024051340.xml
+2024-07-01,2024-09-30,consolidated,7721900000.0,673160000.0,4.04,CEIGALL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114169_1297645_05112024062600.xml
+2024-10-01,2024-12-31,consolidated,8305350000.0,0.0,4.06,CEIGALL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118634_1370788_04022025070330.xml

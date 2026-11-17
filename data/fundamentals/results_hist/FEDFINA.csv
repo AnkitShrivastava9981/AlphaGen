@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,standalone,3947900000.0,577600000.0,1.78,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_100970_995642_11122023105907.xml
+2023-10-01,2023-12-31,standalone,4134500000.0,654100000.0,1.92,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_101064_1021931_15012024113411.xml
+2024-01-01,2024-03-31,standalone,4075800000.0,676600000.0,1.83,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_104963_1111459_29042024102057.xml
+2024-04-01,2024-06-30,standalone,4773100000.0,702300000.0,1.9,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_109145_1194884_19072024045333.xml
+2024-07-01,2024-09-30,standalone,5129800000.0,645500000.0,1.74,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_113130_1286426_23102024070941.xml
+2024-10-01,2024-12-31,standalone,5330500000.0,187600000.0,0.5,FEDFINA,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_117620_1360361_24012025042937.xml

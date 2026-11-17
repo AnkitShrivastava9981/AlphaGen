@@ -1,0 +1,13 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-01-01,2022-03-31,consolidated,,,,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86393_666840_30052022022124_WEB.xml
+2022-04-01,2022-06-30,consolidated,2371520000.0,381890000.0,3.78,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_640151_4131_09082022123252_WEB.xml
+2022-07-01,2022-09-30,consolidated,3130520000.0,611330000.0,6.06,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_841511_6648_06112022112727_WEB.xml
+2022-10-01,2022-12-31,consolidated,3064040000.0,579170000.0,5.74,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89278_790261_10022023103507.xml
+2023-01-01,2023-03-31,consolidated,3169660000.0,535950000.0,5.31,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91717_842717_15052023035130.xml
+2023-04-01,2023-06-30,consolidated,2871650000.0,409950000.0,4.04,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95636_910723_08082023011523.xml
+2023-07-01,2023-09-30,consolidated,3326750000.0,629080000.0,6.2,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98272_971922_31102023014735.xml
+2023-10-01,2023-12-31,consolidated,3359580000.0,621250000.0,6.12,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101487_1035597_25012024121933.xml
+2024-01-01,2024-03-31,consolidated,3411020000.0,509730000.0,5.02,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106437_1130450_20052024041332.xml
+2024-04-01,2024-06-30,consolidated,3302170000.0,395330000.0,3.89,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111835_1223880_13082024062528.xml
+2024-07-01,2024-09-30,consolidated,4174600000.0,788690000.0,7.77,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113632_1290961_28102024052915.xml
+2024-10-01,2024-12-31,consolidated,3980820000.0,686870000.0,6.76,RAINBOW,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119335_1376205_10022025011644.xml

@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,5777420000.0,934911000.0,10.46,NORTHARC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_112705_1258000_03102024115117.xml
+2024-07-01,2024-09-30,consolidated,5852740000.0,976708000.0,7.58,NORTHARC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_113807_1292261_29102024025208.xml
+2024-10-01,2024-12-31,consolidated,5760751000.0,756244000.0,4.69,NORTHARC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_120666_1384822_14022025055924.xml

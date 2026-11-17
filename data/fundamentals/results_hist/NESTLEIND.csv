@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,standalone,50368200000.0,9080800000.0,94.18,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97992_968515_27102023110720.xml
+2023-10-01,2023-12-31,standalone,46004200000.0,6556100000.0,6.8,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102696_1047773_08022024120425.xml
+2024-01-01,2024-03-31,standalone,52675900000.0,9341700000.0,9.69,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104781_1109108_26042024042321.xml
+2024-04-01,2024-06-30,standalone,48139500000.0,7466000000.0,7.74,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109480_1202534_25072024053144.xml
+2024-07-01,2024-09-30,consolidated,51040000000.0,0.0,9.33,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112835_1275222_17102024051432.xml
+2024-10-01,2024-12-31,consolidated,47797300000.0,0.0,7.14,NESTLEIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118375_1367903_31012025073606.xml

@@ -1,0 +1,11 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-07-01,2022-09-30,consolidated,4669010000.0,282270000.0,1.88,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_881083_6646_16112022145915_WEB.xml
+2022-10-01,2022-12-31,consolidated,5126230000.0,331940000.0,1.94,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89143_789545_09022023025943.xml
+2023-01-01,2023-03-31,consolidated,6795280000.0,423180000.0,2.43,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92180_847676_20052023114834.xml
+2023-04-01,2023-06-30,consolidated,6013060000.0,284900000.0,1.61,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95097_906108_02082023033514.xml
+2023-07-01,2023-09-30,consolidated,7117270000.0,283490000.0,1.6,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98598_974990_02112023065815.xml
+2023-10-01,2023-12-31,consolidated,7067160000.0,155200000.0,0.88,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102497_1046266_06022024074521.xml
+2024-01-01,2024-03-31,consolidated,11340910000.0,349400000.0,1.97,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105684_1120798_10052024104253.xml
+2024-04-01,2024-06-30,consolidated,11598910000.0,192970000.0,1.09,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110422_1213358_05082024113402.xml
+2024-07-01,2024-09-30,consolidated,8327410000.0,362370000.0,2.04,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113531_1289865_26102024051452.xml
+2024-10-01,2024-12-31,consolidated,8691980000.0,487940000.0,2.74,SYRMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_121021_1393934_07032025085846.xml

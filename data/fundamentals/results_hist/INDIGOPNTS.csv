@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2020-10-01,2020-12-31,standalone,,,,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70009_448180_15052021031907_WEB.xml
+2021-04-01,2021-06-30,standalone,,,,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_74292_500870_06082021061458_WEB.xml
+2021-07-01,2021-09-30,standalone,,,,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77158_548401_29102021040115_WEB.xml
+2021-10-01,2021-12-31,standalone,,,,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82233_607722_11022022041900_WEB.xml
+2022-01-01,2022-03-31,standalone,,,,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84920_657649_20052022062642_WEB.xml
+2022-04-01,2022-06-30,standalone,2239921000.0,199113000.0,4.19,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_636734_3994_08082022105419_WEB.xml
+2022-07-01,2022-09-30,standalone,2426071000.0,370877000.0,7.79,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_845250_6476_08112022104511_WEB.xml
+2022-10-01,2022-12-31,standalone,2812651000.0,262632000.0,5.52,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89546_791548_10022023074130.xml
+2023-01-01,2023-03-31,standalone,3254700000.0,486772000.0,10.23,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92958_854112_26052023081939.xml
+2023-04-01,2023-06-30,consolidated,2884233000.0,310405000.0,6.52,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95584_910305_07082023064611.xml
+2023-07-01,2023-09-30,consolidated,2790160000.0,253403000.0,5.33,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98695_975769_03112023050257.xml
+2023-10-01,2023-12-31,consolidated,3537675000.0,372623000.0,7.82,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102999_1049508_09022024031545.xml
+2024-01-01,2024-03-31,consolidated,3848790000.0,536758000.0,11.28,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106800_1135116_23052024020118.xml
+2024-04-01,2024-06-30,consolidated,3109628000.0,261981000.0,5.5,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110499_1214146_06082024052911.xml
+2024-07-01,2024-09-30,consolidated,2995347000.0,226463000.0,4.76,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114475_1300934_08112024121021.xml
+2024-10-01,2024-12-31,consolidated,3426173000.0,360155000.0,7.56,INDIGOPNTS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119374_1376548_10022025044011.xml

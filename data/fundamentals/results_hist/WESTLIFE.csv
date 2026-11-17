@@ -1,0 +1,8 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-04-01,2023-06-30,consolidated,6145426000.0,0.0,1.85,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_94673_901513_27072023035707.xml
+2023-07-01,2023-09-30,consolidated,6147329000.0,0.0,1.41,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_98000_968620_27102023122552.xml
+2023-10-01,2023-12-31,consolidated,6002550000.0,0.0,1.1,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_101945_1041050_01022024111642.xml
+2024-01-01,2024-03-31,consolidated,5622806000.0,0.0,0.05,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_105466_1118191_08052024055120.xml
+2024-04-01,2024-06-30,consolidated,6163287000.0,0.0,0.21,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_109456_1202255_25072024034715.xml
+2024-07-01,2024-09-30,consolidated,6180044000.0,0.0,0.02,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_113277_1287898_25102024115843.xml
+2024-10-01,2024-12-31,consolidated,6537170000.0,0.0,0.45,WESTLIFE,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_117984_1364417_29012025033529.xml

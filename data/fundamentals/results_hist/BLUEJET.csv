@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,standalone,1813523000.0,478704000.0,2.76,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100607_986730_11112023122537.xml
+2023-10-01,2023-12-31,standalone,1667600000.0,321089000.0,1.85,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102444_1045828_06022024044813.xml
+2024-01-01,2024-03-31,standalone,1839450000.0,394930000.0,2.29,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107297_1139552_26052024011939.xml
+2024-04-01,2024-06-30,standalone,1628990000.0,377770000.0,2.18,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110479_1213959_06082024043227.xml
+2024-07-01,2024-09-30,standalone,2082595000.0,583487000.0,3.36,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113811_1292328_29102024031949.xml
+2024-10-01,2024-12-31,standalone,3183824000.0,989831000.0,5.71,BLUEJET,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117978_1364374_29012025031659.xml

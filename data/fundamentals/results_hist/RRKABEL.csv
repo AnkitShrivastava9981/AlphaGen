@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,consolidated,16096705000.0,0.0,6.66,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99287_979698_07112023083218.xml
+2023-10-01,2023-12-31,consolidated,16335194000.0,709584000.0,6.35,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101735_1038869_30012024034458.xml
+2024-01-01,2024-03-31,consolidated,17540662000.0,787244000.0,7.03,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107774_1144017_29052024032316.xml
+2024-04-01,2024-06-30,consolidated,18081102000.0,643787000.0,5.71,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109831_1206798_30072024054930.xml
+2024-07-01,2024-09-30,consolidated,18101350000.0,495299000.0,4.39,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113225_1287493_24102024064855.xml
+2024-10-01,2024-12-31,consolidated,17821517000.0,685737000.0,6.07,RRKABEL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117917_1363736_28012025080611.xml

@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,consolidated,1611711000.0,282788000.0,2.76,BALUFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105998_1125643_15052024071136.xml
+2024-04-01,2024-06-30,consolidated,1753090000.0,341671000.0,3.33,BALUFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109806_1206586_30072024044455.xml
+2024-07-01,2024-09-30,consolidated,2228792000.0,0.0,4.55,BALUFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113010_1284830_22102024041821.xml
+2024-10-01,2024-12-31,consolidated,2557830000.0,0.0,5.52,BALUFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119148_1375069_07022025073531.xml

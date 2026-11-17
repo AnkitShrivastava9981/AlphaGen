@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,consolidated,17574257000.0,0.0,-0.1,ABDL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109298_1199953_23072024030109.xml
+2024-04-01,2024-06-30,consolidated,17669481000.0,0.0,0.46,ABDL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111966_1224653_14082024103046.xml
+2024-07-01,2024-09-30,consolidated,20291049000.0,0.0,1.7,ABDL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113956_1293859_30102024015247.xml
+2024-10-01,2024-12-31,consolidated,23423813000.0,574653000.0,2.05,ABDL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118107_1365562_30012025125116.xml

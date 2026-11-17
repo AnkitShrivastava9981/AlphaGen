@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,18151380000.0,1440810000.0,7.95,EMCURE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111948_1224543_13082024101216.xml
+2024-07-01,2024-09-30,consolidated,20019840000.0,1945720000.0,10.33,EMCURE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114507_1301164_08112024020502.xml
+2024-10-01,2024-12-31,consolidated,19626300000.0,1537220000.0,8.12,EMCURE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118846_1372723_06022025033359.xml

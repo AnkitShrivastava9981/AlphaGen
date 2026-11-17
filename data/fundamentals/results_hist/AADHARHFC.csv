@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,consolidated,6917900000.0,0.0,5.11,AADHARHFC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_108194_1147507_30052024035541.xml
+2024-04-01,2024-06-30,consolidated,7131400000.0,2001400000.0,4.86,AADHARHFC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_110830_1217247_08082024054615.xml
+2024-07-01,2024-09-30,consolidated,7642700000.0,0.0,5.31,AADHARHFC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_114346_1299801_07112024033752.xml
+2024-10-01,2024-12-31,consolidated,7976100000.0,0.0,5.56,AADHARHFC,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_118974_1373823_06022025101157.xml

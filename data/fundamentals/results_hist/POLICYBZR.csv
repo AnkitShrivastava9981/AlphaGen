@@ -1,0 +1,13 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-01-01,2022-03-31,consolidated,,,,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86230_665766_28052022072716_WEB.xml
+2022-04-01,2022-06-30,consolidated,5051865000.0,-2043340000.0,-4.62,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_650464_4072_10082022234419_WEB.xml
+2022-07-01,2022-09-30,consolidated,5734730000.0,-1866392000.0,-4.19,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_845435_6565_08112022115653_WEB.xml
+2022-10-01,2022-12-31,consolidated,6100929000.0,-872962000.0,-1.96,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89469_791158_10022023053345.xml
+2023-01-01,2023-03-31,consolidated,8690947000.0,-89509000.0,-0.2,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92338_849466_23052023011428.xml
+2023-04-01,2023-06-30,consolidated,6655866000.0,-114160000.0,-0.26,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95593_910399_07082023073614.xml
+2023-07-01,2023-09-30,consolidated,8116275000.0,-202438000.0,-0.45,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98863_976989_04112023072047.xml
+2023-10-01,2023-12-31,consolidated,8708912000.0,380455000.0,0.85,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101762_1039172_30012024051613.xml
+2024-01-01,2024-03-31,consolidated,10895700000.0,601900000.0,1.35,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105435_1117763_08052024010232.xml
+2024-04-01,2024-06-30,consolidated,10104900000.0,601800000.0,1.34,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110538_1214557_06082024072940.xml
+2024-07-01,2024-09-30,consolidated,11672300000.0,506700000.0,1.12,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114253_1298685_06112024045504.xml
+2024-10-01,2024-12-31,consolidated,12916200000.0,715400000.0,1.57,POLICYBZR,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118218_1366630_30012025080424.xml

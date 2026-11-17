@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,standalone,18680000000.0,2226509000.0,4.45,BHARTIHEXA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105903_1124376_14052024104438.xml
+2024-04-01,2024-06-30,standalone,19106000000.0,5112000000.0,10.22,BHARTIHEXA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110412_1213243_05082024081153.xml
+2024-07-01,2024-09-30,standalone,20976000000.0,2531000000.0,5.06,BHARTIHEXA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113726_1291646_28102024101834.xml
+2024-10-01,2024-12-31,standalone,22507000000.0,2609000000.0,5.22,BHARTIHEXA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118998_1374023_07022025124052.xml

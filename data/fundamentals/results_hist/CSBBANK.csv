@@ -1,0 +1,15 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+,2019-12-31,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_52420_214786_05022020123805_WEB.xml
+,2020-03-31,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_58547_299011_30072020103426_WEB.xml
+,2020-06-30,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_60518_308830_20082020103700_WEB.xml
+,2020-09-30,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_62176_346050_20102020112920_WEB.xml
+,2020-12-31,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_66057_394296_19012021055952_WEB.xml
+,2021-03-31,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_69791_446585_08052021054200_WEB.xml
+,2022-03-31,standalone,,,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_84073_651825_06052022094845_WEB.xml
+2022-04-01,2022-06-30,standalone,5359300000.0,1145200000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_609757_3946_28072022122504_WEB.xml
+2023-07-01,2023-09-30,standalone,6873400000.0,1331700000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_97793_964441_20102023094508.xml
+2023-10-01,2023-12-31,standalone,7618300000.0,1499700000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_101672_1038200_29012024072129.xml
+2024-01-01,2024-03-31,standalone,7948700000.0,1514600000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_104829_1109659_26042024083039.xml
+2024-04-01,2024-06-30,standalone,8320200000.0,1133200000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109719_1205419_29072024053208.xml
+2024-07-01,2024-09-30,standalone,8648500000.0,1384100000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_113238_1287588_24102024072600.xml
+2024-10-01,2024-12-31,standalone,9193800000.0,1516300000.0,,CSBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_117912_1363681_28012025073340.xml

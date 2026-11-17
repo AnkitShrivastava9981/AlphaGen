@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,16438600000.0,-3474800000.0,-0.95,OLAELEC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112491_1227616_14082024114258.xml
+2024-07-01,2024-09-30,consolidated,12140000000.0,-4950000000.0,-1.2,OLAELEC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114683_1302510_08112024105006.xml
+2024-10-01,2024-12-31,consolidated,10450000000.0,-5640000000.0,-1.28,OLAELEC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119201_1375322_08022025071706.xml

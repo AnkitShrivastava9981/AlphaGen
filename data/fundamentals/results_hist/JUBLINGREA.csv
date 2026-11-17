@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-01-01,2021-03-31,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_71006_456391_08062021030859_WEB.xml
+2021-04-01,2021-06-30,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_73154_493022_21072021121607_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76475_539981_20102021014209_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80977_601996_02022022014407_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84702_656136_18052022034931_WEB.xml
+2022-04-01,2022-06-30,consolidated,11658200000.0,793800000.0,4.99,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_634668_4027_06082022131052_WEB.xml
+2022-07-01,2022-09-30,consolidated,13035800000.0,842800000.0,5.31,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_783900_6513_21102022114450_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88233_782570_01022023125534_WEB.xml
+2023-01-01,2023-03-31,consolidated,11449800000.0,523100000.0,3.29,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91847_844369_17052023012227.xml
+2023-04-01,2023-06-30,consolidated,10750200000.0,575900000.0,3.63,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94629_901017_26072023085358.xml
+2023-07-01,2023-09-30,consolidated,10199400000.0,574900000.0,3.64,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98496_974153_02112023123602.xml
+2023-10-01,2023-12-31,consolidated,9664000000.0,385600000.0,2.44,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101835_1039963_31012024015452.xml
+2024-01-01,2024-03-31,consolidated,10744400000.0,292500000.0,1.85,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105932_1124752_15052024021235.xml
+2024-04-01,2024-06-30,consolidated,10243400000.0,487400000.0,3.08,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109045_1189004_17072024014549.xml
+2024-07-01,2024-09-30,consolidated,10452400000.0,590000000.0,3.73,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113065_1285618_23102024123504.xml
+2024-10-01,2024-12-31,consolidated,10567700000.0,693800000.0,4.39,JUBLINGREA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117957_1364213_29012025012112.xml

@@ -1,0 +1,11 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-07-01,2022-09-30,consolidated,17200100000.0,-373400000.0,-0.31,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_854434_6941_10112022165349_WEB.xml
+2022-10-01,2022-12-31,consolidated,17159700000.0,-901800000.0,-0.76,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89091_789314_09022023124053.xml
+2023-01-01,2023-03-31,consolidated,21635800000.0,501100000.0,0.42,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92615_851845_25052023035236.xml
+2023-04-01,2023-06-30,consolidated,17488500000.0,-985840000.0,-0.83,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95272_907677_03082023092949.xml
+2023-07-01,2023-09-30,consolidated,19113800000.0,50200000.0,0.04,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98161_970133_28102023044311.xml
+2023-10-01,2023-12-31,consolidated,19585700000.0,101100000.0,0.08,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101799_1039657_30012024091425.xml
+2024-01-01,2024-03-31,consolidated,25523600000.0,1012700000.0,0.77,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105678_1120745_10052024092427.xml
+2024-04-01,2024-06-30,consolidated,19511400000.0,-886400000.0,-0.67,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109536_1203146_26072024010031.xml
+2024-07-01,2024-09-30,consolidated,22417500000.0,225900000.0,0.17,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113141_1286531_23102024082948.xml
+2024-10-01,2024-12-31,consolidated,22042200000.0,36800000.0,0.03,PPLPHARMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117925_1363802_28012025090457.xml

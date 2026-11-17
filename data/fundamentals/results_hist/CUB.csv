@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+,2019-06-30,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_46933_128832_08082019123747_WEB.xml
+,2019-09-30,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_49402_161023_07112019013835_WEB.xml
+,2019-12-31,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_53432_218809_12022020011124_WEB.xml
+,2020-03-31,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_56066_266512_18062020063229_WEB.xml
+,2020-06-30,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_60161_306552_13082020055233_WEB.xml
+,2020-09-30,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_62916_353909_03112020122637_WEB.xml
+,2020-12-31,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_66923_401571_03022021050358_WEB.xml
+,2021-03-31,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_70736_453510_31052021101831_WEB.xml
+,2022-03-31,standalone,,,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_85924_664215_27052022074415_WEB.xml
+2022-07-01,2022-09-30,standalone,11811869000.0,2764536000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_838967_5096_04112022184008_WEB.xml
+2023-07-01,2023-09-30,standalone,13040467000.0,2806125000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_98089_969594_27102023083804.xml
+2023-10-01,2023-12-31,standalone,13262362000.0,2530335000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_102032_1041969_01022024070549.xml
+2024-01-01,2024-03-31,standalone,13741165000.0,2548186000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_106525_1131706_21052024045146.xml
+2024-04-01,2024-06-30,standalone,13886430000.0,2644903000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109605_1203994_26072024074710.xml
+2024-07-01,2024-09-30,standalone,14339458000.0,2851771000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_112962_1283646_21102024065040.xml
+2024-10-01,2024-12-31,standalone,14787355000.0,2859954000.0,,CUB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_118370_1367888_31012025073258.xml

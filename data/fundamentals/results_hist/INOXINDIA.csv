@@ -1,0 +1,6 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-10-01,2023-12-31,consolidated,2904400000.0,486000000.0,5.35,INOXINDIA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103994_1054613_14022024122438.xml
+2024-01-01,2024-03-31,consolidated,2761210000.0,440772000.0,4.86,INOXINDIA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105811_1123179_14052024010105.xml
+2024-04-01,2024-06-30,consolidated,2964096000.0,526370000.0,5.8,INOXINDIA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110973_1218352_09082024025728.xml
+2024-07-01,2024-09-30,consolidated,3065633000.0,500692000.0,5.45,INOXINDIA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114643_1302238_08112024072656.xml
+2024-10-01,2024-12-31,consolidated,3336269000.0,583857000.0,6.43,INOXINDIA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119153_1375094_07022025074127.xml

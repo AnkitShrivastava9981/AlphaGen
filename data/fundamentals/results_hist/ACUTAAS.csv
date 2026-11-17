@@ -1,0 +1,15 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-07-01,2021-09-30,consolidated,,,,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76689_545413_24102021035425_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_81537_604566_08022022031246_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84599_655372_17052022011259_WEB.xml
+2022-04-01,2022-06-30,consolidated,1310057000.0,148621000.0,4.08,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_649447_4051_10082022190805_WEB.xml
+2022-07-01,2022-09-30,consolidated,1469877000.0,0.0,5.5,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_840999_6542_05112022175230_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88661_785987_04022023054726_WEB.xml
+2023-01-01,2023-03-31,consolidated,1863840000.0,0.0,7.47,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91703_842422_14052023123438.xml
+2023-04-01,2023-06-30,consolidated,1423508000.0,166495000.0,4.57,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_96640_915776_11082023062240.xml
+2023-07-01,2023-09-30,consolidated,1723571000.0,-188517000.0,-4.67,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99886_982872_09112023044006.xml
+2023-10-01,2023-12-31,consolidated,1664449000.0,167534000.0,4.83,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103607_1052786_13022024105715.xml
+2024-01-01,2024-03-31,consolidated,2249570000.0,251492000.0,6.86,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105728_1121372_12052024103500.xml
+2024-04-01,2024-06-30,consolidated,1766709000.0,139453000.0,3.67,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111649_1222712_13082024020208.xml
+2024-07-01,2024-09-30,consolidated,2467336000.0,373318000.0,9.38,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113842_1292709_29102024051329.xml
+2024-10-01,2024-12-31,consolidated,2749876000.0,449538000.0,11.35,ACUTAAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117986_1364444_29012025035618.xml

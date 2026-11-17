@@ -1,0 +1,9 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-01-01,2023-03-31,consolidated,4850600000.0,428700000.0,4.73,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91668_842156_13052023032515.xml
+2023-04-01,2023-06-30,consolidated,4583600000.0,509700000.0,5.2,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95477_909344_05082023051832.xml
+2023-07-01,2023-09-30,consolidated,4398000000.0,518000000.0,5.72,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99389_980246_08112023023407.xml
+2023-10-01,2023-12-31,consolidated,4486886000.0,527641000.0,5.82,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102638_1047329_07022024062359.xml
+2024-01-01,2024-03-31,consolidated,5057671000.0,643611000.0,7.2,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105830_1123544_14052024042955.xml
+2024-04-01,2024-06-30,consolidated,5554934000.0,554536000.0,6.12,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110375_1212735_05082024050227.xml
+2024-07-01,2024-09-30,consolidated,4580258000.0,546225000.0,6.03,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113771_1292035_29102024010552.xml
+2024-10-01,2024-12-31,consolidated,5377782000.0,739879000.0,8.16,AARTIPHARM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118831_1372605_06022025025232.xml

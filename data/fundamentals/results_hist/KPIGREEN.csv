@@ -1,0 +1,16 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-04-01,2021-06-30,consolidated,,,,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76153_508345_14082021104506_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77744_551169_02112021071804_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80130_591505_18012022021059_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83896_650737_04052022034656_WEB.xml
+2022-04-01,2022-06-30,consolidated,1223348000.0,222339500.0,12.306,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_662863_4066_13082022174436_WEB.xml
+2022-07-01,2022-09-30,consolidated,1598412700.0,211583500.0,11.711,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_775778_6559_19102022161738_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88150_781852_31012023043246_WEB.xml
+2023-01-01,2023-03-31,consolidated,1823990000.0,317779000.0,8.79,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92995_854377_26052023101812.xml
+2023-04-01,2023-06-30,consolidated,1893597000.0,332604000.0,9.2,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_96742_916287_11082023081534.xml
+2023-07-01,2023-09-30,consolidated,2150671000.0,0.0,9.62,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97532_946151_10102023074434.xml
+2023-10-01,2023-12-31,consolidated,3301168000.0,506086000.0,13.73,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104220_1055716_14022024071029.xml
+2024-01-01,2024-03-31,consolidated,2893565000.0,430427000.0,7.15,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104727_1108567_26042024120422.xml
+2024-04-01,2024-06-30,consolidated,3480120000.0,0.0,10.97,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110731_1216518_08082024011602.xml
+2024-07-01,2024-09-30,consolidated,3596770000.0,698346000.0,5.55,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114311_1299439_07112024121308.xml
+2024-10-01,2024-12-31,consolidated,4583551000.0,844956000.0,6.44,KPIGREEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118950_1373684_06022025080717.xml

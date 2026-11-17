@@ -1,0 +1,6 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-10-01,2023-12-31,consolidated,12894500000.0,1702200000.0,4.2,TATATECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101537_1036282_25012024053748.xml
+2024-01-01,2024-03-31,consolidated,13010500000.0,1572400000.0,3.88,TATATECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105223_1114644_03052024043314.xml
+2024-04-01,2024-06-30,consolidated,12689700000.0,1620300000.0,3.99,TATATECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109078_1191766_18072024042919.xml
+2024-07-01,2024-09-30,consolidated,12964500000.0,1574100000.0,3.88,TATATECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113663_1291207_28102024062808.xml
+2024-10-01,2024-12-31,consolidated,13173800000.0,1686400000.0,4.16,TATATECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117435_1355436_21012025045526.xml

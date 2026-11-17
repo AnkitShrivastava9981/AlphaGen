@@ -1,0 +1,10 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-10-01,2022-12-31,consolidated,2674338000.0,63448000.0,11.82,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89576_791657_10022023082734.xml
+2023-01-01,2023-03-31,consolidated,2699189000.0,0.0,5.66,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92064_846556_19052023015451.xml
+2023-04-01,2023-06-30,consolidated,3756981000.0,106717000.0,9.93,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_96867_916850_12082023014115.xml
+2023-07-01,2023-09-30,consolidated,3959683000.0,72666000.0,6.76,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99816_982567_09112023033032.xml
+2023-10-01,2023-12-31,consolidated,4604411000.0,89317000.0,8.15,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101612_1037137_27012024053409.xml
+2024-01-01,2024-03-31,consolidated,5133767000.0,136111000.0,20.66,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_108265_1147995_30052024052056.xml
+2024-04-01,2024-06-30,consolidated,7230272000.0,212285000.0,32.07,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111114_1219342_09082024062622.xml
+2024-07-01,2024-09-30,consolidated,7688484000.0,367122000.0,34.58,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_116134_1311717_14112024045906.xml
+2024-10-01,2024-12-31,consolidated,9979692000.0,0.0,2.52,SKYGOLD,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118456_1368877_03022025022917.xml

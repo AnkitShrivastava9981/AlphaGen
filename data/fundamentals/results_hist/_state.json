@@ -1,0 +1,4520 @@
+{
+ "ABB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 87,
+  "at": "2026-11-17"
+ },
+ "ADANIENSOL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "ADANIENT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 158,
+  "at": "2026-11-17"
+ },
+ "ADANIGREEN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 62,
+  "at": "2026-11-17"
+ },
+ "ADANIPORTS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 123,
+  "at": "2026-11-17"
+ },
+ "ADANIPOWER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 121,
+  "at": "2026-11-17"
+ },
+ "AMBUJACEM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 116,
+  "at": "2026-11-17"
+ },
+ "APOLLOHOSP": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "ASIANPAINT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 164,
+  "at": "2026-11-17"
+ },
+ "AXISBANK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "BAJAJ-AUTO": {
+  "done": true,
+  "quarters": 22,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "BAJAJFINSV": {
+  "done": true,
+  "quarters": 22,
+  "filings": 134,
+  "at": "2026-11-17"
+ },
+ "BAJAJHLDNG": {
+  "done": true,
+  "quarters": 21,
+  "filings": 163,
+  "at": "2026-11-17"
+ },
+ "BAJFINANCE": {
+  "done": true,
+  "quarters": 21,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "BANKBARODA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "BEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "BHARTIARTL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 137,
+  "at": "2026-11-17"
+ },
+ "BOSCHLTD": {
+  "done": true,
+  "quarters": 21,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "BPCL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 109,
+  "at": "2026-11-17"
+ },
+ "BRITANNIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 129,
+  "at": "2026-11-17"
+ },
+ "BSE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 73,
+  "at": "2026-11-17"
+ },
+ "CANBK": {
+  "done": true,
+  "quarters": 20,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "CGPOWER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "CHOLAFIN": {
+  "done": true,
+  "quarters": 21,
+  "filings": 150,
+  "at": "2026-11-17"
+ },
+ "CIPLA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 133,
+  "at": "2026-11-17"
+ },
+ "COALINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 120,
+  "at": "2026-11-17"
+ },
+ "CUMMINSIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "DIVISLAB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 128,
+  "at": "2026-11-17"
+ },
+ "DLF": {
+  "done": true,
+  "quarters": 21,
+  "filings": 144,
+  "at": "2026-11-17"
+ },
+ "DMART": {
+  "done": true,
+  "quarters": 23,
+  "filings": 59,
+  "at": "2026-11-17"
+ },
+ "DRREDDY": {
+  "done": true,
+  "quarters": 23,
+  "filings": 138,
+  "at": "2026-11-17"
+ },
+ "EICHERMOT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 153,
+  "at": "2026-11-17"
+ },
+ "ENRIN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ETERNAL": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "GAIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 111,
+  "at": "2026-11-17"
+ },
+ "GODREJCP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 164,
+  "at": "2026-11-17"
+ },
+ "GRASIM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 165,
+  "at": "2026-11-17"
+ },
+ "HAL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 53,
+  "at": "2026-11-17"
+ },
+ "HCLTECH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "HDFCAMC": {
+  "done": true,
+  "quarters": 21,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "HDFCBANK": {
+  "done": true,
+  "quarters": 23,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "HDFCLIFE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "HINDALCO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "HINDUNILVR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "HINDZINC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 90,
+  "at": "2026-11-17"
+ },
+ "HYUNDAI": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "ICICIBANK": {
+  "done": true,
+  "quarters": 23,
+  "filings": 115,
+  "at": "2026-11-17"
+ },
+ "IDEA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 146,
+  "at": "2026-11-17"
+ },
+ "INDIGO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 63,
+  "at": "2026-11-17"
+ },
+ "INFY": {
+  "done": true,
+  "quarters": 23,
+  "filings": 144,
+  "at": "2026-11-17"
+ },
+ "IOC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 109,
+  "at": "2026-11-17"
+ },
+ "IRFC": {
+  "done": true,
+  "quarters": 14,
+  "filings": 15,
+  "at": "2026-11-17"
+ },
+ "ITC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "JINDALSTEL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "JIOFIN": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "JSWSTEEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "KOTAKBANK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "LT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 129,
+  "at": "2026-11-17"
+ },
+ "LTM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "M&M": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "MARUTI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "MAXHEALTH": {
+  "done": true,
+  "quarters": 18,
+  "filings": 36,
+  "at": "2026-11-17"
+ },
+ "MAZDOCK": {
+  "done": true,
+  "quarters": 18,
+  "filings": 36,
+  "at": "2026-11-17"
+ },
+ "MOTHERSON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "MUTHOOTFIN": {
+  "done": true,
+  "quarters": 21,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "NESTLEIND": {
+  "done": true,
+  "quarters": 6,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "NTPC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "ONGC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "PFC": {
+  "done": true,
+  "quarters": 21,
+  "filings": 95,
+  "at": "2026-11-17"
+ },
+ "PIDILITIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 149,
+  "at": "2026-11-17"
+ },
+ "PNB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "POLYCAB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 47,
+  "at": "2026-11-17"
+ },
+ "POWERGRID": {
+  "done": true,
+  "quarters": 23,
+  "filings": 93,
+  "at": "2026-11-17"
+ },
+ "POWERINDIA": {
+  "done": true,
+  "quarters": 17,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "RELIANCE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 130,
+  "at": "2026-11-17"
+ },
+ "SBILIFE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SBIN": {
+  "done": true,
+  "quarters": 21,
+  "filings": 145,
+  "at": "2026-11-17"
+ },
+ "SHRIRAMFIN": {
+  "done": true,
+  "quarters": 21,
+  "filings": 121,
+  "at": "2026-11-17"
+ },
+ "SIEMENS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "SOLARINDS": {
+  "done": true,
+  "quarters": 21,
+  "filings": 155,
+  "at": "2026-11-17"
+ },
+ "SUNPHARMA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 163,
+  "at": "2026-11-17"
+ },
+ "TATACAP": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "TATACONSUM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 156,
+  "at": "2026-11-17"
+ },
+ "TATAPOWER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 142,
+  "at": "2026-11-17"
+ },
+ "TATASTEEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 156,
+  "at": "2026-11-17"
+ },
+ "TCS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 162,
+  "at": "2026-11-17"
+ },
+ "TECHM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "TITAN": {
+  "done": true,
+  "quarters": 22,
+  "filings": 113,
+  "at": "2026-11-17"
+ },
+ "TMCV": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "TMPV": {
+  "done": true,
+  "quarters": 22,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "TORNTPHARM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 163,
+  "at": "2026-11-17"
+ },
+ "TRENT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "TVSMOTOR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "ULTRACEMCO": {
+  "done": true,
+  "quarters": 22,
+  "filings": 128,
+  "at": "2026-11-17"
+ },
+ "UNIONBANK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "VAML": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "VBL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 74,
+  "at": "2026-11-17"
+ },
+ "VEDL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 156,
+  "at": "2026-11-17"
+ },
+ "WIPRO": {
+  "done": true,
+  "quarters": 22,
+  "filings": 134,
+  "at": "2026-11-17"
+ },
+ "ZYDUSLIFE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "360ONE": {
+  "done": true,
+  "quarters": 20,
+  "filings": 42,
+  "at": "2026-11-17"
+ },
+ "ABBOTINDIA": {
+  "done": true,
+  "quarters": 0,
+  "filings": 1,
+  "at": "2026-11-17"
+ },
+ "ABCAPITAL": {
+  "done": true,
+  "quarters": 20,
+  "filings": 56,
+  "at": "2026-11-17"
+ },
+ "AIAENG": {
+  "done": true,
+  "quarters": 23,
+  "filings": 158,
+  "at": "2026-11-17"
+ },
+ "AIIL": {
+  "done": true,
+  "quarters": 4,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "AJANTPHARM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 125,
+  "at": "2026-11-17"
+ },
+ "ALKEM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 77,
+  "at": "2026-11-17"
+ },
+ "ANTHEM": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "APARINDS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 117,
+  "at": "2026-11-17"
+ },
+ "APLAPOLLO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 115,
+  "at": "2026-11-17"
+ },
+ "ASHOKLEY": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "ASTERDM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 62,
+  "at": "2026-11-17"
+ },
+ "ASTRAL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "ATGL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 49,
+  "at": "2026-11-17"
+ },
+ "AUBANK": {
+  "done": true,
+  "quarters": 18,
+  "filings": 36,
+  "at": "2026-11-17"
+ },
+ "AUROPHARMA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 154,
+  "at": "2026-11-17"
+ },
+ "BAJAJHFL": {
+  "done": true,
+  "quarters": 2,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "BALKRISIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "BANKINDIA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "BDL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "BERGEPAINT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 142,
+  "at": "2026-11-17"
+ },
+ "BHARATFORG": {
+  "done": true,
+  "quarters": 22,
+  "filings": 109,
+  "at": "2026-11-17"
+ },
+ "BHARTIHEXA": {
+  "done": true,
+  "quarters": 4,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "BHEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "BIOCON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "BLUESTARCO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 121,
+  "at": "2026-11-17"
+ },
+ "COCHINSHIP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 58,
+  "at": "2026-11-17"
+ },
+ "COFORGE": {
+  "done": true,
+  "quarters": 22,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "COLPAL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 72,
+  "at": "2026-11-17"
+ },
+ "CONCOR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "COROMANDEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 155,
+  "at": "2026-11-17"
+ },
+ "CRISIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 167,
+  "at": "2026-11-17"
+ },
+ "DABUR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "DALBHARAT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 50,
+  "at": "2026-11-17"
+ },
+ "DIXON": {
+  "done": true,
+  "quarters": 22,
+  "filings": 60,
+  "at": "2026-11-17"
+ },
+ "EMBASSY": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ENDURANCE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 74,
+  "at": "2026-11-17"
+ },
+ "ESCORTS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "EXIDEIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "FACT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "FEDERALBNK": {
+  "done": true,
+  "quarters": 20,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "FLUOROCHEM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 43,
+  "at": "2026-11-17"
+ },
+ "FORTIS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "GICRE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "GLAXO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "GLENMARK": {
+  "done": true,
+  "quarters": 23,
+  "filings": 151,
+  "at": "2026-11-17"
+ },
+ "GMRAIRPORT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 151,
+  "at": "2026-11-17"
+ },
+ "GODFRYPHLP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "GODREJIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 151,
+  "at": "2026-11-17"
+ },
+ "GODREJPROP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 128,
+  "at": "2026-11-17"
+ },
+ "GROWW": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "GVT&D": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "HAVELLS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 113,
+  "at": "2026-11-17"
+ },
+ "HDBFS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "HEROMOTOCO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "HEXT": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "HINDCOPPER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "HINDPETRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "HUDCO": {
+  "done": true,
+  "quarters": 21,
+  "filings": 57,
+  "at": "2026-11-17"
+ },
+ "ICICIAMC": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ICICIGI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ICICILIFE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "IDFCFIRSTB": {
+  "done": true,
+  "quarters": 21,
+  "filings": 59,
+  "at": "2026-11-17"
+ },
+ "INDHOTEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 128,
+  "at": "2026-11-17"
+ },
+ "INDIANB": {
+  "done": true,
+  "quarters": 20,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "INDUSINDBK": {
+  "done": true,
+  "quarters": 18,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "INDUSTOWER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "IOB": {
+  "done": true,
+  "quarters": 22,
+  "filings": 89,
+  "at": "2026-11-17"
+ },
+ "IPCALAB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "IRCTC": {
+  "done": true,
+  "quarters": 18,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "IREDA": {
+  "done": true,
+  "quarters": 5,
+  "filings": 5,
+  "at": "2026-11-17"
+ },
+ "ITCHOTELS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "JKCEMENT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "JSL": {
+  "done": true,
+  "quarters": 20,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "JSWENERGY": {
+  "done": true,
+  "quarters": 22,
+  "filings": 125,
+  "at": "2026-11-17"
+ },
+ "JSWINFRA": {
+  "done": true,
+  "quarters": 5,
+  "filings": 10,
+  "at": "2026-11-17"
+ },
+ "JUBLFOOD": {
+  "done": true,
+  "quarters": 22,
+  "filings": 89,
+  "at": "2026-11-17"
+ },
+ "KALYANKJIL": {
+  "done": true,
+  "quarters": 16,
+  "filings": 31,
+  "at": "2026-11-17"
+ },
+ "KEI": {
+  "done": true,
+  "quarters": 23,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "KPRMILL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 138,
+  "at": "2026-11-17"
+ },
+ "LAURUSLABS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 72,
+  "at": "2026-11-17"
+ },
+ "LENSKART": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "LGEINDIA": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "LICHSGFIN": {
+  "done": true,
+  "quarters": 21,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "LICI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "LINDEINDIA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "LLOYDSME": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "LODHA": {
+  "done": true,
+  "quarters": 16,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "LTF": {
+  "done": true,
+  "quarters": 20,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "LTTS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 75,
+  "at": "2026-11-17"
+ },
+ "LUPIN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 163,
+  "at": "2026-11-17"
+ },
+ "M&MFIN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "MAHABANK": {
+  "done": true,
+  "quarters": 19,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "MANKIND": {
+  "done": true,
+  "quarters": 8,
+  "filings": 16,
+  "at": "2026-11-17"
+ },
+ "MARICO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "MCX": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "MEDANTA": {
+  "done": true,
+  "quarters": 9,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "MEESHO": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "MFSL": {
+  "done": true,
+  "quarters": 19,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "MOTILALOFS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 139,
+  "at": "2026-11-17"
+ },
+ "MPHASIS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 158,
+  "at": "2026-11-17"
+ },
+ "MRF": {
+  "done": true,
+  "quarters": 23,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "NAM-INDIA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 62,
+  "at": "2026-11-17"
+ },
+ "NATIONALUM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "NAUKRI": {
+  "done": true,
+  "quarters": 21,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "NH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "NHPC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "NLCINDIA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 100,
+  "at": "2026-11-17"
+ },
+ "NMDC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 95,
+  "at": "2026-11-17"
+ },
+ "NTPCGREEN": {
+  "done": true,
+  "quarters": 1,
+  "filings": 3,
+  "at": "2026-11-17"
+ },
+ "NYKAA": {
+  "done": true,
+  "quarters": 14,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "OBEROIRLTY": {
+  "done": true,
+  "quarters": 22,
+  "filings": 124,
+  "at": "2026-11-17"
+ },
+ "OFSS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 128,
+  "at": "2026-11-17"
+ },
+ "OIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 91,
+  "at": "2026-11-17"
+ },
+ "PAGEIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "PATANJALI": {
+  "done": true,
+  "quarters": 21,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "PAYTM": {
+  "done": true,
+  "quarters": 14,
+  "filings": 27,
+  "at": "2026-11-17"
+ },
+ "PERSISTENT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 121,
+  "at": "2026-11-17"
+ },
+ "PETRONET": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "PHOENIXLTD": {
+  "done": true,
+  "quarters": 23,
+  "filings": 124,
+  "at": "2026-11-17"
+ },
+ "PIIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "PIRAMALFIN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "POLICYBZR": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "PREMIERENE": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "PRESTIGE": {
+  "done": true,
+  "quarters": 22,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "RADICO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "RECLTD": {
+  "done": true,
+  "quarters": 21,
+  "filings": 92,
+  "at": "2026-11-17"
+ },
+ "RVNL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 47,
+  "at": "2026-11-17"
+ },
+ "SAIL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "SBICARD": {
+  "done": true,
+  "quarters": 20,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "SCHAEFFLER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 89,
+  "at": "2026-11-17"
+ },
+ "SHREECEM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "SRF": {
+  "done": true,
+  "quarters": 21,
+  "filings": 122,
+  "at": "2026-11-17"
+ },
+ "SUNDARMFIN": {
+  "done": true,
+  "quarters": 20,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "SUPREMEIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 139,
+  "at": "2026-11-17"
+ },
+ "SUZLON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "SWIGGY": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "TATACOMM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 142,
+  "at": "2026-11-17"
+ },
+ "TATAINVEST": {
+  "done": true,
+  "quarters": 21,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "THERMAX": {
+  "done": true,
+  "quarters": 22,
+  "filings": 126,
+  "at": "2026-11-17"
+ },
+ "TIINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 63,
+  "at": "2026-11-17"
+ },
+ "TORNTPOWER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 145,
+  "at": "2026-11-17"
+ },
+ "UBL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 93,
+  "at": "2026-11-17"
+ },
+ "UNITDSPR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "UNOMINDA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 124,
+  "at": "2026-11-17"
+ },
+ "UPL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "VMM": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "VOLTAS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 145,
+  "at": "2026-11-17"
+ },
+ "WAAREEENER": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "YESBANK": {
+  "done": true,
+  "quarters": 23,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "AADHARHFC": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "AARTIIND": {
+  "done": true,
+  "quarters": 21,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "AAVAS": {
+  "done": true,
+  "quarters": 21,
+  "filings": 45,
+  "at": "2026-11-17"
+ },
+ "ABDL": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "ABREL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "ABSLAMC": {
+  "done": true,
+  "quarters": 14,
+  "filings": 27,
+  "at": "2026-11-17"
+ },
+ "ACC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 157,
+  "at": "2026-11-17"
+ },
+ "ACE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "ACMESOLAR": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "ACUTAAS": {
+  "done": true,
+  "quarters": 14,
+  "filings": 28,
+  "at": "2026-11-17"
+ },
+ "AEGISLOG": {
+  "done": true,
+  "quarters": 23,
+  "filings": 153,
+  "at": "2026-11-17"
+ },
+ "AEGISVOPAK": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "AETHER": {
+  "done": true,
+  "quarters": 10,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "AFCONS": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "AFFLE": {
+  "done": true,
+  "quarters": 22,
+  "filings": 43,
+  "at": "2026-11-17"
+ },
+ "AMBER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 54,
+  "at": "2026-11-17"
+ },
+ "ANANDRATHI": {
+  "done": true,
+  "quarters": 13,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "ANANTRAJ": {
+  "done": true,
+  "quarters": 23,
+  "filings": 146,
+  "at": "2026-11-17"
+ },
+ "ANGELONE": {
+  "done": true,
+  "quarters": 18,
+  "filings": 35,
+  "at": "2026-11-17"
+ },
+ "ANURAS": {
+  "done": true,
+  "quarters": 16,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "APOLLOTYRE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "APTUS": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "ARE&M": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ASAHIINDIA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "ATHERENERG": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ATUL": {
+  "done": true,
+  "quarters": 18,
+  "filings": 92,
+  "at": "2026-11-17"
+ },
+ "AVANTIFEED": {
+  "done": true,
+  "quarters": 21,
+  "filings": 84,
+  "at": "2026-11-17"
+ },
+ "AWL": {
+  "done": true,
+  "quarters": 13,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "AZAD": {
+  "done": true,
+  "quarters": 5,
+  "filings": 10,
+  "at": "2026-11-17"
+ },
+ "BAGMANE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "BALRAMCHIN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "BANDHANBNK": {
+  "done": true,
+  "quarters": 19,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "BATAINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "BBOX": {
+  "done": true,
+  "quarters": 23,
+  "filings": 154,
+  "at": "2026-11-17"
+ },
+ "BELRISE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "BEML": {
+  "done": true,
+  "quarters": 21,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "BHARATCOAL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "BIRET": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "BLS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 76,
+  "at": "2026-11-17"
+ },
+ "BRIGADE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 117,
+  "at": "2026-11-17"
+ },
+ "BSOFT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 164,
+  "at": "2026-11-17"
+ },
+ "CAMS": {
+  "done": true,
+  "quarters": 15,
+  "filings": 29,
+  "at": "2026-11-17"
+ },
+ "CANFINHOME": {
+  "done": true,
+  "quarters": 19,
+  "filings": 80,
+  "at": "2026-11-17"
+ },
+ "CANHLIFE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CAPLIPOINT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 89,
+  "at": "2026-11-17"
+ },
+ "CARBORUNIV": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "CARTRADE": {
+  "done": true,
+  "quarters": 13,
+  "filings": 27,
+  "at": "2026-11-17"
+ },
+ "CASTROLIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 47,
+  "at": "2026-11-17"
+ },
+ "CCL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 167,
+  "at": "2026-11-17"
+ },
+ "CDSL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 67,
+  "at": "2026-11-17"
+ },
+ "CEATLTD": {
+  "done": true,
+  "quarters": 22,
+  "filings": 125,
+  "at": "2026-11-17"
+ },
+ "CEMPRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 149,
+  "at": "2026-11-17"
+ },
+ "CENTRALBK": {
+  "done": true,
+  "quarters": 21,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "CESC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "CGCL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "CHAMBLFERT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "CHENNPETRO": {
+  "done": true,
+  "quarters": 21,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "CHOICEIN": {
+  "done": true,
+  "quarters": 11,
+  "filings": 22,
+  "at": "2026-11-17"
+ },
+ "CHOLAHLDNG": {
+  "done": true,
+  "quarters": 21,
+  "filings": 57,
+  "at": "2026-11-17"
+ },
+ "CIEINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "CLEAN": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "CLEANMAX": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CMPDI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "COHANCE": {
+  "done": true,
+  "quarters": 19,
+  "filings": 38,
+  "at": "2026-11-17"
+ },
+ "CONCORDBIO": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "CPPLUS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CRAFTSMAN": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "CREDITACC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 45,
+  "at": "2026-11-17"
+ },
+ "CROMPTON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 62,
+  "at": "2026-11-17"
+ },
+ "CUB": {
+  "done": true,
+  "quarters": 16,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "CUPID": {
+  "done": true,
+  "quarters": 23,
+  "filings": 39,
+  "at": "2026-11-17"
+ },
+ "CYIENT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 166,
+  "at": "2026-11-17"
+ },
+ "DATAPATTNS": {
+  "done": true,
+  "quarters": 13,
+  "filings": 13,
+  "at": "2026-11-17"
+ },
+ "DEEPAKFERT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 118,
+  "at": "2026-11-17"
+ },
+ "DEEPAKNTR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 87,
+  "at": "2026-11-17"
+ },
+ "DELHIVERY": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "DEVYANI": {
+  "done": true,
+  "quarters": 14,
+  "filings": 28,
+  "at": "2026-11-17"
+ },
+ "DOMS": {
+  "done": true,
+  "quarters": 5,
+  "filings": 10,
+  "at": "2026-11-17"
+ },
+ "DUMMYHEG": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ECLERX": {
+  "done": true,
+  "quarters": 23,
+  "filings": 144,
+  "at": "2026-11-17"
+ },
+ "EIDPARRY": {
+  "done": true,
+  "quarters": 22,
+  "filings": 157,
+  "at": "2026-11-17"
+ },
+ "EIHOTEL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "ELECON": {
+  "done": true,
+  "quarters": 22,
+  "filings": 117,
+  "at": "2026-11-17"
+ },
+ "ELGIEQUIP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 156,
+  "at": "2026-11-17"
+ },
+ "EMAMILTD": {
+  "done": true,
+  "quarters": 22,
+  "filings": 146,
+  "at": "2026-11-17"
+ },
+ "EMCURE": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "EMMVEE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ENGINERSIN": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "FINCABLES": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "FIRSTCRY": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "FIVESTAR": {
+  "done": true,
+  "quarters": 9,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "FORCEMOT": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "FRACTAL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "FSL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 151,
+  "at": "2026-11-17"
+ },
+ "GABRIEL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 90,
+  "at": "2026-11-17"
+ },
+ "GALLANTT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 100,
+  "at": "2026-11-17"
+ },
+ "GESHIP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 144,
+  "at": "2026-11-17"
+ },
+ "GILLETTE": {
+  "done": true,
+  "quarters": 21,
+  "filings": 81,
+  "at": "2026-11-17"
+ },
+ "GLAND": {
+  "done": true,
+  "quarters": 16,
+  "filings": 31,
+  "at": "2026-11-17"
+ },
+ "GMDCLTD": {
+  "done": true,
+  "quarters": 21,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "GPIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 141,
+  "at": "2026-11-17"
+ },
+ "GRANULES": {
+  "done": true,
+  "quarters": 22,
+  "filings": 145,
+  "at": "2026-11-17"
+ },
+ "GRAPHITE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 109,
+  "at": "2026-11-17"
+ },
+ "GRAVITA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "GRSE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 27,
+  "at": "2026-11-17"
+ },
+ "HBLENGINE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 96,
+  "at": "2026-11-17"
+ },
+ "HEGAM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "HFCL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "HOMEFIRST": {
+  "done": true,
+  "quarters": 16,
+  "filings": 17,
+  "at": "2026-11-17"
+ },
+ "HONASA": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "HONAUT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "HSCL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 94,
+  "at": "2026-11-17"
+ },
+ "IDBI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "IEX": {
+  "done": true,
+  "quarters": 23,
+  "filings": 55,
+  "at": "2026-11-17"
+ },
+ "IFCI": {
+  "done": true,
+  "quarters": 21,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "IGIL": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "IGL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "IIFL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "IKS": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "INDIACEM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "INDIAMART": {
+  "done": true,
+  "quarters": 23,
+  "filings": 45,
+  "at": "2026-11-17"
+ },
+ "INOXINDIA": {
+  "done": true,
+  "quarters": 5,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "INOXWIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "INTELLECT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "IRB": {
+  "done": true,
+  "quarters": 22,
+  "filings": 141,
+  "at": "2026-11-17"
+ },
+ "IRCON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 51,
+  "at": "2026-11-17"
+ },
+ "ITI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 114,
+  "at": "2026-11-17"
+ },
+ "J&KBANK": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "JAINREC": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "JBMA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 139,
+  "at": "2026-11-17"
+ },
+ "JINDALSAW": {
+  "done": true,
+  "quarters": 21,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "JKTYRE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 123,
+  "at": "2026-11-17"
+ },
+ "JMFINANCIL": {
+  "done": true,
+  "quarters": 19,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "JPPOWER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "JSWCEMENT": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "JUBLINGREA": {
+  "done": true,
+  "quarters": 16,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "JWL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 71,
+  "at": "2026-11-17"
+ },
+ "JYOTICNC": {
+  "done": true,
+  "quarters": 5,
+  "filings": 10,
+  "at": "2026-11-17"
+ },
+ "KAJARIACER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 143,
+  "at": "2026-11-17"
+ },
+ "KARURVYSYA": {
+  "done": true,
+  "quarters": 13,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "KAYNES": {
+  "done": true,
+  "quarters": 9,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "KEC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 146,
+  "at": "2026-11-17"
+ },
+ "KFINTECH": {
+  "done": true,
+  "quarters": 9,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "KIMS": {
+  "done": true,
+  "quarters": 15,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "KIRLOSBROS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 88,
+  "at": "2026-11-17"
+ },
+ "KIRLOSENG": {
+  "done": true,
+  "quarters": 22,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "KPIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "KPITTECH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 47,
+  "at": "2026-11-17"
+ },
+ "KSB": {
+  "done": true,
+  "quarters": 22,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "LALPATHLAB": {
+  "done": true,
+  "quarters": 22,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "LEMONTREE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 55,
+  "at": "2026-11-17"
+ },
+ "LTFOODS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 143,
+  "at": "2026-11-17"
+ },
+ "MANAPPURAM": {
+  "done": true,
+  "quarters": 21,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "MGL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 44,
+  "at": "2026-11-17"
+ },
+ "MINDACORP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 113,
+  "at": "2026-11-17"
+ },
+ "MMTC": {
+  "done": true,
+  "quarters": 20,
+  "filings": 75,
+  "at": "2026-11-17"
+ },
+ "MRPL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "MSUMI": {
+  "done": true,
+  "quarters": 12,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "MTARTECH": {
+  "done": true,
+  "quarters": 16,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "NATCOPHARM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "NAVA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 124,
+  "at": "2026-11-17"
+ },
+ "NAVINFLUOR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "NBCC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "NCC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 135,
+  "at": "2026-11-17"
+ },
+ "NETWEB": {
+  "done": true,
+  "quarters": 7,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "NEULANDLAB": {
+  "done": true,
+  "quarters": 22,
+  "filings": 94,
+  "at": "2026-11-17"
+ },
+ "NIACL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "NSLNISP": {
+  "done": true,
+  "quarters": 8,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "NUVAMA": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "NUVOCO": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "OLAELEC": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "OLECTRA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 114,
+  "at": "2026-11-17"
+ },
+ "ONESOURCE": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "PARADEEP": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "PCBL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "PFOCUS": {
+  "done": true,
+  "quarters": 21,
+  "filings": 143,
+  "at": "2026-11-17"
+ },
+ "PGEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 75,
+  "at": "2026-11-17"
+ },
+ "PINELABS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "PNBHOUSING": {
+  "done": true,
+  "quarters": 20,
+  "filings": 64,
+  "at": "2026-11-17"
+ },
+ "POLYMED": {
+  "done": true,
+  "quarters": 23,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "POONAWALLA": {
+  "done": true,
+  "quarters": 21,
+  "filings": 142,
+  "at": "2026-11-17"
+ },
+ "PPLPHARMA": {
+  "done": true,
+  "quarters": 10,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "PRIVISCL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 75,
+  "at": "2026-11-17"
+ },
+ "PTCIL": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "PVRINOX": {
+  "done": true,
+  "quarters": 22,
+  "filings": 140,
+  "at": "2026-11-17"
+ },
+ "PWL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "RAILTEL": {
+  "done": true,
+  "quarters": 17,
+  "filings": 28,
+  "at": "2026-11-17"
+ },
+ "RAINBOW": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "RAMCOCEM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 112,
+  "at": "2026-11-17"
+ },
+ "RBLBANK": {
+  "done": true,
+  "quarters": 19,
+  "filings": 56,
+  "at": "2026-11-17"
+ },
+ "REDINGTON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "RHIM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "RITES": {
+  "done": true,
+  "quarters": 23,
+  "filings": 50,
+  "at": "2026-11-17"
+ },
+ "RKFORGE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "RPOWER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 134,
+  "at": "2026-11-17"
+ },
+ "RRKABEL": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "RUBICON": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SAGILITY": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "SAILIFE": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "SAMMAANCAP": {
+  "done": true,
+  "quarters": 20,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "SANSERA": {
+  "done": true,
+  "quarters": 14,
+  "filings": 28,
+  "at": "2026-11-17"
+ },
+ "SARDAEN": {
+  "done": true,
+  "quarters": 22,
+  "filings": 94,
+  "at": "2026-11-17"
+ },
+ "SCHNEIDER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 55,
+  "at": "2026-11-17"
+ },
+ "SCI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "SHRIPISTON": {
+  "done": true,
+  "quarters": 22,
+  "filings": 65,
+  "at": "2026-11-17"
+ },
+ "SHYAMMETL": {
+  "done": true,
+  "quarters": 15,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "SIGNATURE": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "SJVN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "SOBHA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 129,
+  "at": "2026-11-17"
+ },
+ "SONACOMS": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "STARHEALTH": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "STLTECH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 125,
+  "at": "2026-11-17"
+ },
+ "SUMICHEM": {
+  "done": true,
+  "quarters": 21,
+  "filings": 42,
+  "at": "2026-11-17"
+ },
+ "SUNTV": {
+  "done": true,
+  "quarters": 21,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "SWANCORP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "SYNGENE": {
+  "done": true,
+  "quarters": 22,
+  "filings": 69,
+  "at": "2026-11-17"
+ },
+ "SYRMA": {
+  "done": true,
+  "quarters": 10,
+  "filings": 22,
+  "at": "2026-11-17"
+ },
+ "TARIL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "TATACHEM": {
+  "done": true,
+  "quarters": 22,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "TATAELXSI": {
+  "done": true,
+  "quarters": 21,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "TATATECH": {
+  "done": true,
+  "quarters": 5,
+  "filings": 11,
+  "at": "2026-11-17"
+ },
+ "TBOTEK": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "TDPOWERSYS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 115,
+  "at": "2026-11-17"
+ },
+ "TECHNOE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 51,
+  "at": "2026-11-17"
+ },
+ "TEGA": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "TEJASNET": {
+  "done": true,
+  "quarters": 22,
+  "filings": 71,
+  "at": "2026-11-17"
+ },
+ "TENNIND": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "THANGAMAYL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 63,
+  "at": "2026-11-17"
+ },
+ "TIMKEN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 75,
+  "at": "2026-11-17"
+ },
+ "TITAGARH": {
+  "done": true,
+  "quarters": 21,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "TRIDENT": {
+  "done": true,
+  "quarters": 22,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "TRITURBINE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "TTML": {
+  "done": true,
+  "quarters": 23,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "UCOBANK": {
+  "done": true,
+  "quarters": 20,
+  "filings": 87,
+  "at": "2026-11-17"
+ },
+ "URBANCO": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "USHAMART": {
+  "done": true,
+  "quarters": 23,
+  "filings": 153,
+  "at": "2026-11-17"
+ },
+ "UTIAMC": {
+  "done": true,
+  "quarters": 18,
+  "filings": 36,
+  "at": "2026-11-17"
+ },
+ "VEDPOWER": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "VIJAYA": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "VISL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "VOGL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "VTL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 126,
+  "at": "2026-11-17"
+ },
+ "WELCORP": {
+  "done": true,
+  "quarters": 22,
+  "filings": 142,
+  "at": "2026-11-17"
+ },
+ "WELSPUNLIV": {
+  "done": true,
+  "quarters": 23,
+  "filings": 140,
+  "at": "2026-11-17"
+ },
+ "WHIRLPOOL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 85,
+  "at": "2026-11-17"
+ },
+ "WOCKPHARMA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 166,
+  "at": "2026-11-17"
+ },
+ "ZEEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 166,
+  "at": "2026-11-17"
+ },
+ "ZENSARTECH": {
+  "done": true,
+  "quarters": 22,
+  "filings": 172,
+  "at": "2026-11-17"
+ },
+ "ZENTEC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 70,
+  "at": "2026-11-17"
+ },
+ "ZFCVINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 81,
+  "at": "2026-11-17"
+ },
+ "ZYDUSWELL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 122,
+  "at": "2026-11-17"
+ },
+ "AARTIPHARM": {
+  "done": true,
+  "quarters": 8,
+  "filings": 16,
+  "at": "2026-11-17"
+ },
+ "ABFRL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 72,
+  "at": "2026-11-17"
+ },
+ "ABLBL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ACI": {
+  "done": true,
+  "quarters": 9,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "ADVENZYMES": {
+  "done": true,
+  "quarters": 23,
+  "filings": 76,
+  "at": "2026-11-17"
+ },
+ "AEQUS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "AEROFLEX": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "AKUMS": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "ALKYLAMINE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 71,
+  "at": "2026-11-17"
+ },
+ "AMAGI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "APOLLO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 48,
+  "at": "2026-11-17"
+ },
+ "ARVIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "ARVINDFASN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 48,
+  "at": "2026-11-17"
+ },
+ "ASHAPURMIN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 160,
+  "at": "2026-11-17"
+ },
+ "ASHOKA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 112,
+  "at": "2026-11-17"
+ },
+ "ASTRAMICRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "ATLANTAELE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "AURIONPRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 161,
+  "at": "2026-11-17"
+ },
+ "AVALON": {
+  "done": true,
+  "quarters": 8,
+  "filings": 16,
+  "at": "2026-11-17"
+ },
+ "AVL": {
+  "done": true,
+  "quarters": 2,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "AXISCADES": {
+  "done": true,
+  "quarters": 22,
+  "filings": 149,
+  "at": "2026-11-17"
+ },
+ "BAJAJCON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 84,
+  "at": "2026-11-17"
+ },
+ "BALAMINES": {
+  "done": true,
+  "quarters": 23,
+  "filings": 100,
+  "at": "2026-11-17"
+ },
+ "BALUFORGE": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "BANCOINDIA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 136,
+  "at": "2026-11-17"
+ },
+ "BECTORFOOD": {
+  "done": true,
+  "quarters": 17,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "BIRLACORPN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 119,
+  "at": "2026-11-17"
+ },
+ "BLACKBUCK": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "BLUEJET": {
+  "done": true,
+  "quarters": 6,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "BLUESTONE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "BORORENEW": {
+  "done": true,
+  "quarters": 23,
+  "filings": 43,
+  "at": "2026-11-17"
+ },
+ "CAMPUS": {
+  "done": true,
+  "quarters": 12,
+  "filings": 15,
+  "at": "2026-11-17"
+ },
+ "CAPILLARY": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CEIGALL": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "CELLO": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "CENTUM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 139,
+  "at": "2026-11-17"
+ },
+ "CERA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 96,
+  "at": "2026-11-17"
+ },
+ "CHALET": {
+  "done": true,
+  "quarters": 23,
+  "filings": 50,
+  "at": "2026-11-17"
+ },
+ "CMRGREEN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CMSINFO": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "CRAMC": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "CSBBANK": {
+  "done": true,
+  "quarters": 14,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "DATAMATICS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 162,
+  "at": "2026-11-17"
+ },
+ "DBL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 59,
+  "at": "2026-11-17"
+ },
+ "DBREALTY": {
+  "done": true,
+  "quarters": 22,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "DCBBANK": {
+  "done": true,
+  "quarters": 16,
+  "filings": 73,
+  "at": "2026-11-17"
+ },
+ "DIACABS": {
+  "done": true,
+  "quarters": 6,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "DUMMYINXGN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "DYNAMATECH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 150,
+  "at": "2026-11-17"
+ },
+ "E2E": {
+  "done": true,
+  "quarters": 11,
+  "filings": 11,
+  "at": "2026-11-17"
+ },
+ "EBGNG": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "EDELWEISS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 136,
+  "at": "2026-11-17"
+ },
+ "EIEL": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "ELECTCAST": {
+  "done": true,
+  "quarters": 23,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "ELLEN": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "EMBDL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 144,
+  "at": "2026-11-17"
+ },
+ "EMIL": {
+  "done": true,
+  "quarters": 10,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "ENNATURE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "ENTERO": {
+  "done": true,
+  "quarters": 5,
+  "filings": 10,
+  "at": "2026-11-17"
+ },
+ "EPL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 159,
+  "at": "2026-11-17"
+ },
+ "EQUITASBNK": {
+  "done": true,
+  "quarters": 11,
+  "filings": 17,
+  "at": "2026-11-17"
+ },
+ "ERIS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 65,
+  "at": "2026-11-17"
+ },
+ "FEDFINA": {
+  "done": true,
+  "quarters": 6,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "FIEMIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 100,
+  "at": "2026-11-17"
+ },
+ "FINPIPE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "GAEL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 101,
+  "at": "2026-11-17"
+ },
+ "GENUSPOWER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 109,
+  "at": "2026-11-17"
+ },
+ "GMRP&UI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "GNFC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "GODREJAGRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 66,
+  "at": "2026-11-17"
+ },
+ "GOKEX": {
+  "done": true,
+  "quarters": 22,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "GOKULAGRO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 60,
+  "at": "2026-11-17"
+ },
+ "GOLDIAM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 156,
+  "at": "2026-11-17"
+ },
+ "GPPL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "GREAVESCOT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "GRINDWELL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 120,
+  "at": "2026-11-17"
+ },
+ "GRWRHITECH": {
+  "done": true,
+  "quarters": 13,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "GSFC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "GUJALKALI": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "HAPPSTMNDS": {
+  "done": true,
+  "quarters": 18,
+  "filings": 35,
+  "at": "2026-11-17"
+ },
+ "HAPPYFORGE": {
+  "done": true,
+  "quarters": 5,
+  "filings": 11,
+  "at": "2026-11-17"
+ },
+ "HCC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "HCG": {
+  "done": true,
+  "quarters": 23,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "HERITGFOOD": {
+  "done": true,
+  "quarters": 23,
+  "filings": 153,
+  "at": "2026-11-17"
+ },
+ "HGINFRA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 58,
+  "at": "2026-11-17"
+ },
+ "ICIL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 104,
+  "at": "2026-11-17"
+ },
+ "IFBIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 116,
+  "at": "2026-11-17"
+ },
+ "IIFLCAPS": {
+  "done": true,
+  "quarters": 19,
+  "filings": 45,
+  "at": "2026-11-17"
+ },
+ "IMFA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 91,
+  "at": "2026-11-17"
+ },
+ "INDGN": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "INDIAGLYCO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "INDIGOPNTS": {
+  "done": true,
+  "quarters": 16,
+  "filings": 23,
+  "at": "2026-11-17"
+ },
+ "IONEXCHANG": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "IXIGO": {
+  "done": true,
+  "quarters": 4,
+  "filings": 8,
+  "at": "2026-11-17"
+ },
+ "JAIBALAJI": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "JAMNAAUTO": {
+  "done": true,
+  "quarters": 22,
+  "filings": 120,
+  "at": "2026-11-17"
+ },
+ "JAYNECOIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "JKPAPER": {
+  "done": true,
+  "quarters": 21,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "JSFB": {
+  "done": true,
+  "quarters": 5,
+  "filings": 5,
+  "at": "2026-11-17"
+ },
+ "JSLL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "JUBLPHARMA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 168,
+  "at": "2026-11-17"
+ },
+ "JUSTDIAL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 71,
+  "at": "2026-11-17"
+ },
+ "JYOTHYLAB": {
+  "done": true,
+  "quarters": 23,
+  "filings": 111,
+  "at": "2026-11-17"
+ },
+ "KANSAINER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "KIRLPNU": {
+  "done": true,
+  "quarters": 8,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "KISSHT": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "KITEX": {
+  "done": true,
+  "quarters": 23,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "KMEW": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "KNRCON": {
+  "done": true,
+  "quarters": 23,
+  "filings": 97,
+  "at": "2026-11-17"
+ },
+ "KPIGREEN": {
+  "done": true,
+  "quarters": 15,
+  "filings": 30,
+  "at": "2026-11-17"
+ },
+ "KRBL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 152,
+  "at": "2026-11-17"
+ },
+ "KRN": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "KSCL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 112,
+  "at": "2026-11-17"
+ },
+ "KTKBANK": {
+  "done": true,
+  "quarters": 16,
+  "filings": 95,
+  "at": "2026-11-17"
+ },
+ "KWIL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "LATENTVIEW": {
+  "done": true,
+  "quarters": 13,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "LLOYDSENGG": {
+  "done": true,
+  "quarters": 21,
+  "filings": 40,
+  "at": "2026-11-17"
+ },
+ "LLOYDSENT": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "LOTUSDEV": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "LUMAXIND": {
+  "done": true,
+  "quarters": 22,
+  "filings": 120,
+  "at": "2026-11-17"
+ },
+ "LUMAXTECH": {
+  "done": true,
+  "quarters": 22,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "LXCHEM": {
+  "done": true,
+  "quarters": 16,
+  "filings": 33,
+  "at": "2026-11-17"
+ },
+ "MANORAMA": {
+  "done": true,
+  "quarters": 11,
+  "filings": 13,
+  "at": "2026-11-17"
+ },
+ "MANYAVAR": {
+  "done": true,
+  "quarters": 13,
+  "filings": 25,
+  "at": "2026-11-17"
+ },
+ "MAPMYINDIA": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "MARKSANS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 145,
+  "at": "2026-11-17"
+ },
+ "MASTEK": {
+  "done": true,
+  "quarters": 21,
+  "filings": 165,
+  "at": "2026-11-17"
+ },
+ "MBAPL": {
+  "done": true,
+  "quarters": 20,
+  "filings": 20,
+  "at": "2026-11-17"
+ },
+ "MEDPLUS": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "METROPOLIS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 47,
+  "at": "2026-11-17"
+ },
+ "MIDHANI": {
+  "done": true,
+  "quarters": 23,
+  "filings": 50,
+  "at": "2026-11-17"
+ },
+ "MOIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 67,
+  "at": "2026-11-17"
+ },
+ "MSTCLTD": {
+  "done": true,
+  "quarters": 22,
+  "filings": 45,
+  "at": "2026-11-17"
+ },
+ "NAZARA": {
+  "done": true,
+  "quarters": 16,
+  "filings": 32,
+  "at": "2026-11-17"
+ },
+ "NEOGEN": {
+  "done": true,
+  "quarters": 22,
+  "filings": 44,
+  "at": "2026-11-17"
+ },
+ "NEPHROPLUS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "NETWORK18": {
+  "done": true,
+  "quarters": 21,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "NEWGEN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 56,
+  "at": "2026-11-17"
+ },
+ "NFL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "NIVABUPA": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "NORTHARC": {
+  "done": true,
+  "quarters": 3,
+  "filings": 7,
+  "at": "2026-11-17"
+ },
+ "OMNI": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "OSWALPUMPS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "PAISALO": {
+  "done": true,
+  "quarters": 21,
+  "filings": 99,
+  "at": "2026-11-17"
+ },
+ "PARAS": {
+  "done": true,
+  "quarters": 13,
+  "filings": 27,
+  "at": "2026-11-17"
+ },
+ "PARKHOSPS": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "PCJEWELLER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 77,
+  "at": "2026-11-17"
+ },
+ "PDSL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "PFIZER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "PGHL": {
+  "done": true,
+  "quarters": 21,
+  "filings": 80,
+  "at": "2026-11-17"
+ },
+ "PGIL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 152,
+  "at": "2026-11-17"
+ },
+ "PICCADIL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "PNCINFRA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "PNGJL": {
+  "done": true,
+  "quarters": 3,
+  "filings": 6,
+  "at": "2026-11-17"
+ },
+ "POWERICA": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "POWERMECH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 79,
+  "at": "2026-11-17"
+ },
+ "PRAJIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 130,
+  "at": "2026-11-17"
+ },
+ "PRECWIRE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "PRICOLLTD": {
+  "done": true,
+  "quarters": 23,
+  "filings": 58,
+  "at": "2026-11-17"
+ },
+ "PTC": {
+  "done": true,
+  "quarters": 21,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "PURVA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 149,
+  "at": "2026-11-17"
+ },
+ "QPOWER": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "QUESS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "RAIN": {
+  "done": true,
+  "quarters": 22,
+  "filings": 133,
+  "at": "2026-11-17"
+ },
+ "RALLIS": {
+  "done": true,
+  "quarters": 22,
+  "filings": 130,
+  "at": "2026-11-17"
+ },
+ "RATEGAIN": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "RATNAMANI": {
+  "done": true,
+  "quarters": 21,
+  "filings": 102,
+  "at": "2026-11-17"
+ },
+ "RAYMONDLSL": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "RBA": {
+  "done": true,
+  "quarters": 17,
+  "filings": 29,
+  "at": "2026-11-17"
+ },
+ "RCF": {
+  "done": true,
+  "quarters": 21,
+  "filings": 108,
+  "at": "2026-11-17"
+ },
+ "REFEX": {
+  "done": true,
+  "quarters": 23,
+  "filings": 85,
+  "at": "2026-11-17"
+ },
+ "RELAXO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 59,
+  "at": "2026-11-17"
+ },
+ "RELIGARE": {
+  "done": true,
+  "quarters": 21,
+  "filings": 121,
+  "at": "2026-11-17"
+ },
+ "RENUKA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 129,
+  "at": "2026-11-17"
+ },
+ "RESPONIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 113,
+  "at": "2026-11-17"
+ },
+ "ROUTE": {
+  "done": true,
+  "quarters": 18,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "RTNPOWER": {
+  "done": true,
+  "quarters": 22,
+  "filings": 112,
+  "at": "2026-11-17"
+ },
+ "SAFARI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 44,
+  "at": "2026-11-17"
+ },
+ "SAMHI": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "SANDUMA": {
+  "done": true,
+  "quarters": 6,
+  "filings": 12,
+  "at": "2026-11-17"
+ },
+ "SAPPHIRE": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "SAREGAMA": {
+  "done": true,
+  "quarters": 23,
+  "filings": 107,
+  "at": "2026-11-17"
+ },
+ "SBFC": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "SEDEMAC": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SENCO": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "SENORES": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "SFL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 73,
+  "at": "2026-11-17"
+ },
+ "SGMART": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SHADOWFAX": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SHAILY": {
+  "done": true,
+  "quarters": 12,
+  "filings": 24,
+  "at": "2026-11-17"
+ },
+ "SHAKTIPUMP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 91,
+  "at": "2026-11-17"
+ },
+ "SHARDACROP": {
+  "done": true,
+  "quarters": 22,
+  "filings": 90,
+  "at": "2026-11-17"
+ },
+ "SHAREINDIA": {
+  "done": true,
+  "quarters": 17,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "SHILCTECH": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SHILPAMED": {
+  "done": true,
+  "quarters": 22,
+  "filings": 130,
+  "at": "2026-11-17"
+ },
+ "SHREEJISPG": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SIGMAADV": {
+  "done": true,
+  "quarters": 23,
+  "filings": 147,
+  "at": "2026-11-17"
+ },
+ "SJS": {
+  "done": true,
+  "quarters": 13,
+  "filings": 26,
+  "at": "2026-11-17"
+ },
+ "SKIPPER": {
+  "done": true,
+  "quarters": 23,
+  "filings": 67,
+  "at": "2026-11-17"
+ },
+ "SKYGOLD": {
+  "done": true,
+  "quarters": 9,
+  "filings": 18,
+  "at": "2026-11-17"
+ },
+ "SMLMAH": {
+  "done": true,
+  "quarters": 21,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "SONATSOFTW": {
+  "done": true,
+  "quarters": 23,
+  "filings": 166,
+  "at": "2026-11-17"
+ },
+ "SOUTHBANK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 89,
+  "at": "2026-11-17"
+ },
+ "SPARC": {
+  "done": true,
+  "quarters": 23,
+  "filings": 78,
+  "at": "2026-11-17"
+ },
+ "SPLPETRO": {
+  "done": true,
+  "quarters": 11,
+  "filings": 11,
+  "at": "2026-11-17"
+ },
+ "STAR": {
+  "done": true,
+  "quarters": 22,
+  "filings": 148,
+  "at": "2026-11-17"
+ },
+ "STYLAMIND": {
+  "done": true,
+  "quarters": 13,
+  "filings": 23,
+  "at": "2026-11-17"
+ },
+ "SUBROS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 105,
+  "at": "2026-11-17"
+ },
+ "SUDARSCHEM": {
+  "done": true,
+  "quarters": 23,
+  "filings": 106,
+  "at": "2026-11-17"
+ },
+ "SUDEEPPHRM": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "SUNDRMFAST": {
+  "done": true,
+  "quarters": 21,
+  "filings": 103,
+  "at": "2026-11-17"
+ },
+ "SUNFLAG": {
+  "done": true,
+  "quarters": 21,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "SUNTECK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 131,
+  "at": "2026-11-17"
+ },
+ "SUPRIYA": {
+  "done": true,
+  "quarters": 13,
+  "filings": 13,
+  "at": "2026-11-17"
+ },
+ "SURYAROSNI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "SUVEN": {
+  "done": true,
+  "quarters": 23,
+  "filings": 110,
+  "at": "2026-11-17"
+ },
+ "SWSOLAR": {
+  "done": true,
+  "quarters": 22,
+  "filings": 44,
+  "at": "2026-11-17"
+ },
+ "TANLA": {
+  "done": true,
+  "quarters": 22,
+  "filings": 154,
+  "at": "2026-11-17"
+ },
+ "TARC": {
+  "done": true,
+  "quarters": 17,
+  "filings": 34,
+  "at": "2026-11-17"
+ },
+ "TEXRAIL": {
+  "done": true,
+  "quarters": 22,
+  "filings": 86,
+  "at": "2026-11-17"
+ },
+ "THELEELA": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "THOMASCOOK": {
+  "done": true,
+  "quarters": 22,
+  "filings": 163,
+  "at": "2026-11-17"
+ },
+ "THYROCARE": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "TI": {
+  "done": true,
+  "quarters": 22,
+  "filings": 124,
+  "at": "2026-11-17"
+ },
+ "TIMETECHNO": {
+  "done": true,
+  "quarters": 23,
+  "filings": 141,
+  "at": "2026-11-17"
+ },
+ "TIMEX": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "TIPSMUSIC": {
+  "done": true,
+  "quarters": 22,
+  "filings": 83,
+  "at": "2026-11-17"
+ },
+ "TMB": {
+  "done": true,
+  "quarters": 6,
+  "filings": 9,
+  "at": "2026-11-17"
+ },
+ "TRANSRAILL": {
+  "done": true,
+  "quarters": 2,
+  "filings": 4,
+  "at": "2026-11-17"
+ },
+ "TTKPRESTIG": {
+  "done": true,
+  "quarters": 23,
+  "filings": 116,
+  "at": "2026-11-17"
+ },
+ "TVSSCS": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "UJJIVANSFB": {
+  "done": true,
+  "quarters": 15,
+  "filings": 21,
+  "at": "2026-11-17"
+ },
+ "UNIMECH": {
+  "done": true,
+  "quarters": 1,
+  "filings": 2,
+  "at": "2026-11-17"
+ },
+ "UTLSOLAR": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "V2RETAIL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "VAIBHAVGBL": {
+  "done": true,
+  "quarters": 23,
+  "filings": 141,
+  "at": "2026-11-17"
+ },
+ "VESUVIUS": {
+  "done": true,
+  "quarters": 23,
+  "filings": 85,
+  "at": "2026-11-17"
+ },
+ "VGUARD": {
+  "done": true,
+  "quarters": 23,
+  "filings": 98,
+  "at": "2026-11-17"
+ },
+ "VIKRAMSOLR": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "VIPIND": {
+  "done": true,
+  "quarters": 23,
+  "filings": 131,
+  "at": "2026-11-17"
+ },
+ "VIYASH": {
+  "done": true,
+  "quarters": 23,
+  "filings": 82,
+  "at": "2026-11-17"
+ },
+ "VMART": {
+  "done": true,
+  "quarters": 22,
+  "filings": 53,
+  "at": "2026-11-17"
+ },
+ "VOLTAMP": {
+  "done": true,
+  "quarters": 23,
+  "filings": 77,
+  "at": "2026-11-17"
+ },
+ "WAAREERTL": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "WABAG": {
+  "done": true,
+  "quarters": 23,
+  "filings": 125,
+  "at": "2026-11-17"
+ },
+ "WAKEFIT": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "WEBELSOLAR": {
+  "done": true,
+  "quarters": 23,
+  "filings": 73,
+  "at": "2026-11-17"
+ },
+ "WELENT": {
+  "done": true,
+  "quarters": 23,
+  "filings": 130,
+  "at": "2026-11-17"
+ },
+ "WESTLIFE": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "WEWORK": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-17"
+ },
+ "YATHARTH": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ },
+ "ZAGGLE": {
+  "done": true,
+  "quarters": 7,
+  "filings": 14,
+  "at": "2026-11-17"
+ }
+}

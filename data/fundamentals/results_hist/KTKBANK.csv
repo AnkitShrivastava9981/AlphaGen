@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+,2019-06-30,standalone,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_45978_115802_12072019060317_WEB.xml
+,2019-12-31,standalone,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_51487_204337_17012020014011_WEB.xml
+,2020-03-31,standalone,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_55689_264034_07062020120445_WEB.xml
+,2020-06-30,standalone,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_57723_278935_10072020063103_WEB.xml
+,2020-09-30,consolidated,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_65880_368766_07122020042658_WEB.xml
+,2020-12-31,consolidated,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_65952_385451_12012021042611_WEB.xml
+,2021-03-31,consolidated,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_70487_451886_27052021032305_WEB.xml
+,2022-03-31,consolidated,,,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_85992_664517_27052022104623_WEB.xml
+2022-04-01,2022-06-30,consolidated,16290800000.0,1140500000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_600590_2805_23072022191138_WEB.xml
+2022-07-01,2022-09-30,consolidated,17710500000.0,4114700000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_828327_5146_01112022203639_WEB.xml
+2023-07-01,2023-09-30,consolidated,20265900000.0,3302400000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_98544_974507_02112023041113.xml
+2023-10-01,2023-12-31,consolidated,21126100000.0,3312100000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_101331_1033951_23012024052823.xml
+2024-01-01,2024-03-31,consolidated,22005600000.0,2744300000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_108736_1153398_05062024042022.xml
+2024-04-01,2024-06-30,consolidated,22779900000.0,4004300000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109371_1201264_24072024050844.xml
+2024-07-01,2024-09-30,consolidated,22341300000.0,3362400000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_113755_1291915_29102024120135.xml
+2024-10-01,2024-12-31,consolidated,22430200000.0,2835500000.0,,KTKBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_118332_1367589_31012025055732.xml

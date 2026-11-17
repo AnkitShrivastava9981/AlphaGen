@@ -1,56 +1,26 @@
 {
-  "started_ist": "2026-11-15T14:21:37+05:30",
-  "finished_ist": "2026-11-15T14:47:13+05:30",
+  "started_ist": "2026-11-17T14:24:41+05:30",
+  "finished_ist": "2026-11-17T17:44:02+05:30",
   "steps": {
-    "universe": {
+    "index_pe_history": {
       "ok": true,
-      "rows": 753,
-      "note": "ok"
+      "rows": 33750,
+      "note": "26/49 indices ok; missing: NIFTY SMALLCAP 250, NIFTY MICROCAP 250, NIFTY PRIVATE BANK, NIFTY FINANCIAL SERVICES, NIFTY FINANCIAL SERVICES EX-BANK, NIFTY CAPITAL MARKETS, NIFTY MIDSMALL FINANCIAL SERVICES, NIFTY HEALTHCARE INDEX"
     },
-    "prices": {
-      "ok": true,
-      "rows": 27143,
-      "note": "777/780 tickers; incremental"
-    },
-    "nse_delivery": {
-      "ok": true,
-      "rows": 0,
-      "note": "0 new day files"
-    },
-    "nse_fo": {
-      "ok": true,
-      "rows": 0,
-      "note": "0 new day files"
-    },
-    "nse_participant_oi": {
-      "ok": true,
-      "rows": 0,
-      "note": "0 new day files"
-    },
-    "nse_fii_dii": {
-      "ok": true,
-      "rows": 2,
-      "note": "running history"
-    },
-    "nse_deals": {
-      "ok": true,
-      "rows": 162,
-      "note": "bulk-deals API failed; used today's file; block-deals API failed; used today's file"
-    },
-    "mutual_funds": {
-      "ok": true,
-      "rows": 223,
-      "note": "4162 schemes in master; 223 tracked; appended latest NAVs"
-    },
-    "macro": {
+    "classification": {
       "ok": false,
       "rows": 0,
-      "note": "RuntimeError: all FRED series failed"
+      "note": "RuntimeError: quote API blocked: https://www.nseindia.com/api/quote-equity?symbol=CIPLA -> HTTP 403 [curl_cffi]"
     },
-    "fundamentals": {
+    "shareholding": {
       "ok": true,
-      "rows": 750,
-      "note": "750/753 stocks"
+      "rows": 131244,
+      "note": "4353 new filings parsed, 0 errors"
+    },
+    "results_history": {
+      "ok": true,
+      "rows": 12595,
+      "note": "753 companies this run, 0 left, 0 errors"
     }
   }
 }

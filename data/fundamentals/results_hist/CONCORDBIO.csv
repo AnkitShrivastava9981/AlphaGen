@@ -1,0 +1,8 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-04-01,2023-06-30,consolidated,1948277000.0,544943000.0,5.21,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97509_927647_06092023040619.xml
+2023-07-01,2023-09-30,consolidated,2623456000.0,810199000.0,7.74,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99732_982155_09112023010725.xml
+2023-10-01,2023-12-31,consolidated,2407965000.0,775727000.0,7.41,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102918_1049054_09022024110636.xml
+2024-01-01,2024-03-31,consolidated,3189694000.0,950163000.0,9.08,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106950_1136757_24052024120014.xml
+2024-04-01,2024-06-30,consolidated,2158017000.0,595931000.0,5.7,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110963_1218261_09082024014644.xml
+2024-07-01,2024-09-30,consolidated,3101812000.0,0.0,9.15,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114988_1305062_12112024105651.xml
+2024-10-01,2024-12-31,consolidated,2442202000.0,759211000.0,7.26,CONCORDBIO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_120474_1383551_14022025010242.xml

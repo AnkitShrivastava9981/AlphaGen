@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-01-01,2021-03-31,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70421_451428_26052021051559_WEB.xml
+2021-04-01,2021-06-30,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_74653_502572_10082021063609_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77876_551950_04112021011450_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_81056_602392_03022022104136_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83980_651289_05052022055028_WEB.xml
+2022-04-01,2022-06-30,consolidated,7566110000.0,648630000.0,2.452,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_610884_3996_28072022165347_WEB.xml
+2022-07-01,2022-09-30,consolidated,6521981000.0,85993000.0,0.322,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_849866_6478_09112022171358_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87854_778799_25012023043026_WEB.xml
+2023-01-01,2023-03-31,consolidated,7331900000.0,243160000.0,0.92,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91683_842266_13052023061015.xml
+2023-04-01,2023-06-30,consolidated,7335785000.0,383285000.0,1.45,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94807_902628_28072023040849.xml
+2023-07-01,2023-09-30,consolidated,6522690000.0,107130000.0,0.41,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98031_968983_27102023042510.xml
+2023-10-01,2023-12-31,consolidated,6942970000.0,271890000.0,0.99,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101483_1035552_25012024114244.xml
+2024-01-01,2024-03-31,consolidated,7920600000.0,443050000.0,1.63,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106717_1134028_22052024055128.xml
+2024-04-01,2024-06-30,consolidated,7181670000.0,343530000.0,1.24,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109611_1204080_26072024090015.xml
+2024-07-01,2024-09-30,consolidated,7712532000.0,280866000.0,1.01,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114021_1294577_30102024055411.xml
+2024-10-01,2024-12-31,consolidated,7863350000.0,293080000.0,1.06,LXCHEM,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117552_1359473_23012025055044.xml

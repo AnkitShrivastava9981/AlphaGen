@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,consolidated,3690660000.0,466270000.0,4.58,TBOTEK,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_108510_1150176_31052024023750.xml
+2024-04-01,2024-06-30,consolidated,4184640000.0,609190000.0,5.85,TBOTEK,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111905_1224282_13082024073942.xml
+2024-07-01,2024-09-30,consolidated,4506920000.0,600880000.0,5.71,TBOTEK,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_115474_1307840_13112024010253.xml
+2024-10-01,2024-12-31,consolidated,4221880000.0,499760000.0,4.7,TBOTEK,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_120116_1381093_13022025114503.xml

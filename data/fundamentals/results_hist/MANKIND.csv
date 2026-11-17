@@ -1,0 +1,9 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-01-01,2023-03-31,consolidated,20526670000.0,2854386000.0,7.13,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_93990_860756_31052023061708.xml
+2023-04-01,2023-06-30,consolidated,25786175000.0,4941884000.0,12.15,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95143_906534_02082023064649.xml
+2023-07-01,2023-09-30,consolidated,27080990000.0,5010260000.0,12.51,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98360_972745_31102023074140.xml
+2023-10-01,2023-12-31,consolidated,26069589000.0,4537600000.0,11.33,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101928_1040815_31012024071609.xml
+2024-01-01,2024-03-31,consolidated,24410992000.0,4712385000.0,11.76,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106022_1125905_15052024085539.xml
+2024-04-01,2024-06-30,consolidated,28934200000.0,5364900000.0,13.39,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109983_1208280_31072024063748.xml
+2024-07-01,2024-09-30,consolidated,30765100000.0,6534700000.0,16.31,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114201_1297968_05112024094959.xml
+2024-10-01,2024-12-31,consolidated,32300000000.0,3802300000.0,9.45,MANKIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117596_1360019_24012025124230.xml

@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-01-01,2021-03-31,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_69984_448032_14052021072034_WEB.xml
+2021-04-01,2021-06-30,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_73810_498203_30072021073119_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76560_544256_21102021080825_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80507_599031_25012022111517_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83655_648552_27042022044255_WEB.xml
+2022-04-01,2022-06-30,standalone,22393900000.0,1386900000.0,2.88,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_603912_4020_26072022111527_WEB.xml
+2022-07-01,2022-09-30,consolidated,17654300000.0,-9330700000.0,-19.53,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_842245_6505_07112022111908_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87805_778487_25012023010433_WEB.xml
+2023-01-01,2023-03-31,consolidated,32553800000.0,7443600000.0,15.45,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_90798_831827_22042023091416.xml
+2023-04-01,2023-06-30,consolidated,16174000000.0,1784000000.0,1.85,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94823_902771_28072023045126.xml
+2023-07-01,2023-09-30,consolidated,17496000000.0,2019000000.0,2.09,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98176_970310_28102023072032.xml
+2023-10-01,2023-12-31,consolidated,29306000000.0,5033000000.0,5.22,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101621_1037245_27012024093008.xml
+2024-01-01,2024-03-31,consolidated,40185000000.0,6655000000.0,6.84,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104684_1107573_24042024080511.xml
+2024-04-01,2024-06-30,consolidated,28465000000.0,4753000000.0,4.78,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109859_1207094_30072024071959.xml
+2024-07-01,2024-09-30,consolidated,26257000000.0,4229000000.0,4.25,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113434_1289215_25102024075004.xml
+2024-10-01,2024-12-31,consolidated,40830000000.0,9444000000.0,9.48,LODHA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_121037_1394674_11032025110759.xml

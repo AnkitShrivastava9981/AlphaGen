@@ -1,0 +1,12 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-04-01,2022-06-30,standalone,729710000.0,67687000.0,5.68,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_647174_4181_10082022163925_WEB.xml
+2022-07-01,2022-09-30,standalone,807133000.0,58453700.0,4.9,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_866906_6696_12112022234504_WEB.xml
+2022-10-01,2022-12-31,standalone,,,,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87981_779644_27012023074808_WEB.xml
+2023-01-01,2023-03-31,standalone,1017429000.0,99971000.0,8.39,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91429_839889_10052023120332.xml
+2023-04-01,2023-06-30,standalone,1115631000.0,115534000.0,9.69,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95461_909240_05082023040938.xml
+2023-07-01,2023-09-30,standalone,1177298000.0,86086000.0,7.22,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100157_984382_10112023114619.xml
+2023-10-01,2023-12-31,standalone,984525000.0,74420000.0,6.24,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103377_1051405_10022024062803.xml
+2024-01-01,2024-03-31,standalone,1293347000.0,125048000.0,2.1,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105754_1121603_12052024091106.xml
+2024-04-01,2024-06-30,standalone,1334148000.0,135398000.0,2.27,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109866_1207201_30072024082831.xml
+2024-07-01,2024-09-30,consolidated,1954166000.0,257429000.0,4.32,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113148_1286585_23102024100420.xml
+2024-10-01,2024-12-31,consolidated,2092047000.0,0.0,5.11,MANORAMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117431_1355284_21012025042418.xml

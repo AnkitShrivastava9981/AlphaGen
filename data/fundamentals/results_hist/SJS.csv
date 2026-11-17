@@ -1,0 +1,14 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-10-01,2021-12-31,consolidated,,,,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_81705_605409_09022022044427_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85699_662646_27052022010046_WEB.xml
+2022-04-01,2022-06-30,standalone,735290000.0,151870000.0,4.99,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_630062_4070_04082022192605_WEB.xml
+2022-07-01,2022-09-30,consolidated,1169380000.0,199479000.0,6.55,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_857675_6563_11112022123532_WEB.xml
+2022-10-01,2022-12-31,consolidated,1063740000.0,157140000.0,5.16,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89314_790456_10022023121844.xml
+2023-01-01,2023-03-31,consolidated,1065690000.0,153819000.0,5.05,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91765_843542_16052023030941.xml
+2023-04-01,2023-06-30,consolidated,1172480000.0,180040000.0,5.9,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94586_900598_26072023045103.xml
+2023-07-01,2023-09-30,consolidated,1631780000.0,193220000.0,6.23,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99412_980364_08112023031526.xml
+2023-10-01,2023-12-31,consolidated,1605850000.0,207670000.0,6.72,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102074_1042416_02022024012008.xml
+2024-01-01,2024-03-31,consolidated,1867892000.0,267010000.0,8.64,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106523_1131692_21052024044719.xml
+2024-04-01,2024-06-30,consolidated,1886240000.0,278400000.0,8.97,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110191_1210478_02082024034930.xml
+2024-07-01,2024-09-30,consolidated,1927880000.0,290040000.0,9.34,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113778_1292078_29102024011923.xml
+2024-10-01,2024-12-31,consolidated,1785620000.0,275570000.0,8.83,SJS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118189_1366396_30012025064628.xml

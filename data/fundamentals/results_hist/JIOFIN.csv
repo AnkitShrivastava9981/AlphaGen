@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,consolidated,6080400000.0,6681900000.0,1.05,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_97609_955221_17102023012133.xml
+2023-10-01,2023-12-31,consolidated,4136100000.0,2938200000.0,0.46,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_101061_1021906_15012024085644.xml
+2024-01-01,2024-03-31,consolidated,4181000000.0,3106300000.0,0.49,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_104606_1102707_19042024080602.xml
+2024-04-01,2024-06-30,consolidated,4178200000.0,3126300000.0,0.49,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_109013_1186175_15072024082250.xml
+2024-07-01,2024-09-30,consolidated,6935000000.0,6890700000.0,1.09,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_112898_1279044_18102024072811.xml
+2024-10-01,2024-12-31,consolidated,4383500000.0,2947800000.0,0.46,JIOFIN,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_117340_1350263_17012025080115.xml

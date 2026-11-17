@@ -1,0 +1,5 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-01-01,2024-03-31,consolidated,20112100000.0,1402600000.0,106.45,FORCEMOT,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104820_1109479_26042024062630.xml
+2024-04-01,2024-06-30,consolidated,18849000000.0,1157000000.0,87.81,FORCEMOT,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109845_1206993_30072024064848.xml
+2024-07-01,2024-09-30,consolidated,19413300000.0,1350200000.0,102.46,FORCEMOT,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113873_1292989_29102024064015.xml
+2024-10-01,2024-12-31,consolidated,18894900000.0,1153100000.0,87.52,FORCEMOT,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119456_1377099_10022025072234.xml

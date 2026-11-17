@@ -1,0 +1,13 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-10-01,2021-12-31,consolidated,,,,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82406_608419_11022022074401_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84665_655926_18052022112246_WEB.xml
+2022-04-01,2022-06-30,consolidated,5462670000.0,382660000.0,6.02,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_654039_4076_11082022200357_WEB.xml
+2022-10-01,2022-12-31,consolidated,5961320000.0,326130000.0,5.14,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89203_789852_09022023051839.xml
+2023-01-01,2023-03-31,consolidated,5604090000.0,1355930000.0,21.34,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91619_841703_12052023070228.xml
+2023-04-01,2023-06-30,consolidated,6543840000.0,249430000.0,3.92,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95112_906237_02082023044732.xml
+2023-07-01,2023-09-30,consolidated,6426400000.0,153370000.0,2.41,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98594_974925_02112023063338.xml
+2023-10-01,2023-12-31,consolidated,6655600000.0,101390000.0,1.59,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103115_1050132_09022024054813.xml
+2024-01-01,2024-03-31,consolidated,6316950000.0,23900000.0,0.38,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105648_1120515_10052024071523.xml
+2024-04-01,2024-06-30,consolidated,7182890000.0,85150000.0,1.34,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109852_1207051_30072024070718.xml
+2024-07-01,2024-09-30,consolidated,6956970000.0,-30370000.0,-0.1,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113645_1291091_28102024055856.xml
+2024-10-01,2024-12-31,consolidated,7565370000.0,119840000.0,0.37,SAPPHIRE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118897_1373220_06022025052912.xml

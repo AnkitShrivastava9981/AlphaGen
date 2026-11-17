@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,consolidated,1848100000.0,0.0,10.02,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99921_983057_09112023051650.xml
+2023-10-01,2023-12-31,consolidated,1530200000.0,0.0,0.56,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103020_1049630_09022024035506.xml
+2024-01-01,2024-03-31,consolidated,5517700000.0,1636100000.0,10.1,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106110_1126946_16052024055344.xml
+2024-04-01,2024-06-30,consolidated,6016700000.0,0.0,8.92,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110439_1213549_06082024123153.xml
+2024-07-01,2024-09-30,consolidated,2602500000.0,321400000.0,1.98,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_116114_1311612_14112024044557.xml
+2024-10-01,2024-12-31,consolidated,9518700000.0,1373300000.0,8.48,SANDUMA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_120813_1385820_15022025113454.xml

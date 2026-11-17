@@ -1,0 +1,8 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-04-01,2023-06-30,consolidated,829305000.0,0.0,0.97,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97513_932281_20092023020013.xml
+2023-07-01,2023-09-30,consolidated,840756000.0,0.0,0.94,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98725_976011_03112023061614.xml
+2023-10-01,2023-12-31,consolidated,731290000.0,0.0,0.7,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101545_1036324_25012024054805.xml
+2024-01-01,2024-03-31,consolidated,777721000.0,0.0,0.78,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105331_1116248_06052024064520.xml
+2024-04-01,2024-06-30,consolidated,897473000.0,0.0,0.96,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110222_1210912_02082024061805.xml
+2024-07-01,2024-09-30,consolidated,949936000.0,0.0,1.06,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114009_1294475_30102024052626.xml
+2024-10-01,2024-12-31,consolidated,997954000.0,0.0,1.18,AEROFLEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117250_1346570_15012025064118.xml

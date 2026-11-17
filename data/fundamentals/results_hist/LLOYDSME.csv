@@ -1,0 +1,8 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-04-01,2023-06-30,consolidated,19655200000.0,4032600000.0,7.99,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95762_911381_08082023072201.xml
+2023-07-01,2023-09-30,consolidated,10913100000.0,2312500000.0,4.58,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97873_966670_24102023012405.xml
+2023-10-01,2023-12-31,consolidated,19105300000.0,3315000000.0,6.57,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101296_1033421_23012024104842.xml
+2024-01-01,2024-03-31,consolidated,15542900000.0,2769100000.0,5.49,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105190_1114223_03052024101304.xml
+2024-04-01,2024-06-30,consolidated,24172400000.0,5574000000.0,11.06,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109774_1206167_30072024013540.xml
+2024-07-01,2024-09-30,consolidated,13644300000.0,3013200000.0,5.88,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113122_1286377_23102024065702.xml
+2024-10-01,2024-12-31,consolidated,16751700000.0,3892900000.0,7.55,LLOYDSME,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117922_1363767_28012025082534.xml

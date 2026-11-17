@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,16520730000.0,-567070000.0,-1.28,FIRSTCRY,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112619_1235655_31082024042530.xml
+2024-07-01,2024-09-30,consolidated,19049170000.0,-502250000.0,-1.09,FIRSTCRY,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_116484_1313935_15112024120225.xml
+2024-10-01,2024-12-31,consolidated,21723090000.0,-77930000.0,-0.16,FIRSTCRY,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119312_1375941_08022025091656.xml

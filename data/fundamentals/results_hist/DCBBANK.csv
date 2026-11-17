@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+,2019-06-30,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_45997_119096_16072019065440_WEB.xml
+,2019-09-30,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_48659_154795_19102019060725_WEB.xml
+,2019-12-31,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_51732_211034_25012020054625_WEB.xml
+,2020-03-31,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_55297_260728_23052020011537_WEB.xml
+,2020-06-30,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_59663_304291_08082020040428_WEB.xml
+,2020-09-30,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_62806_353349_31102020055428_WEB.xml
+,2020-12-31,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_66283_397899_23012021045235_WEB.xml
+,2021-03-31,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_69796_446608_08052021072518_WEB.xml
+,2022-03-31,standalone,,,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_84097_652000_07052022052523_WEB.xml
+2022-07-01,2022-09-30,standalone,9999900000.0,1123500000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_840719_5399_05112022164335_WEB.xml
+2023-07-01,2023-09-30,standalone,13056000000.0,1267900000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_98327_972441_31102023060727.xml
+2023-10-01,2023-12-31,standalone,13741000000.0,1265800000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_101410_1034841_24012024042524.xml
+2024-01-01,2024-03-31,standalone,14446000000.0,1556800000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_104664_1107171_24042024034025.xml
+2024-04-01,2024-06-30,standalone,14892500000.0,1313600000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109356_1201017_24072024034303.xml
+2024-07-01,2024-09-30,standalone,15684000000.0,1554700000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_113196_1287173_24102024045308.xml
+2024-10-01,2024-12-31,standalone,16710500000.0,1514400000.0,,DCBBANK,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_117634_1360493_24012025051839.xml

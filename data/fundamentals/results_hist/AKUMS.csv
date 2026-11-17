@@ -1,0 +1,4 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2024-04-01,2024-06-30,consolidated,10191130000.0,601710000.0,4.21,AKUMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112588_1231834_24082024053833.xml
+2024-07-01,2024-09-30,consolidated,10330870000.0,652060000.0,4.37,AKUMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114777_1303110_09112024060007.xml
+2024-10-01,2024-12-31,consolidated,10104110000.0,651820000.0,4.26,AKUMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118923_1373501_06022025064400.xml

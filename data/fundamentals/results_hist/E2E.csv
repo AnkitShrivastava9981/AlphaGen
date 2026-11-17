@@ -1,0 +1,12 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-01-01,2022-03-31,standalone,,,,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86059_664943_28052022015241_WEB.xml
+2022-07-01,2022-09-30,standalone,165188000.0,26289000.0,1.83,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_837703_6291_04112022162251_WEB.xml
+2022-10-01,2022-12-31,standalone,169050000.0,21935000.0,1.52,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88932_788365_08022023124438.xml
+2023-01-01,2023-03-31,standalone,175901000.0,25338000.0,1.75,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92492_850909_24052023044906.xml
+2023-04-01,2023-06-30,standalone,194557000.0,69711000.0,4.82,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97426_919527_15082023012041.xml
+2023-07-01,2023-09-30,standalone,216494000.0,57911000.0,4.0,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100218_984692_10112023012656.xml
+2023-10-01,2023-12-31,standalone,239500000.0,55776000.0,3.85,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104327_1056256_15022024123858.xml
+2024-01-01,2024-03-31,standalone,294084000.0,35271000.0,2.44,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107087_1137969_24052024064858.xml
+2024-04-01,2024-06-30,standalone,413267000.0,101421000.0,7.0,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109068_1190744_18072024114422.xml
+2024-07-01,2024-09-30,standalone,475523000.0,121463000.0,8.24,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113012_1284837_22102024042132.xml
+2024-10-01,2024-12-31,standalone,416047000.0,115934000.0,7.35,E2E,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117536_1359142_23012025023412.xml

@@ -1,0 +1,6 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-10-01,2023-12-31,consolidated,3779160000.0,480400000.0,2.45,JYOTICNC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104304_1056173_15022024121028.xml
+2024-01-01,2024-03-31,consolidated,4501340000.0,0.0,4.45,JYOTICNC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106410_1129970_18052024083826.xml
+2024-04-01,2024-06-30,consolidated,3618420000.0,509180000.0,2.24,JYOTICNC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111285_1220308_10082024043206.xml
+2024-07-01,2024-09-30,consolidated,4306710000.0,758790000.0,3.33,JYOTICNC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_116464_1313853_15112024114122.xml
+2024-10-01,2024-12-31,consolidated,4495080000.0,802380000.0,3.53,JYOTICNC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119252_1375595_08022025031422.xml

@@ -1,0 +1,14 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-07-01,2021-09-30,consolidated,,,,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79281_558025_13112021034744_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84979_657958_21052022120446_WEB.xml
+2022-04-01,2022-06-30,standalone,414800000.0,75300000.0,1.93,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_624938_4023_03082022162253_WEB.xml
+2022-07-01,2022-09-30,consolidated,556900000.0,84800000.0,2.17,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_866424_6509_12112022184648_WEB.xml
+2022-10-01,2022-12-31,consolidated,608800000.0,97600000.0,2.5,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89148_789580_09022023031845.xml
+2023-01-01,2023-03-31,consolidated,651000000.0,107600000.0,2.76,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91805_843949_16052023065207.xml
+2023-04-01,2023-06-30,consolidated,483200000.0,60100000.0,1.54,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95519_909821_07082023015425.xml
+2023-07-01,2023-09-30,consolidated,613100000.0,94200000.0,2.42,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98983_977889_06112023064704.xml
+2023-10-01,2023-12-31,consolidated,641800000.0,66600000.0,1.71,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103042_1049745_09022024042056.xml
+2024-01-01,2024-03-31,consolidated,796900000.0,99700000.0,2.56,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107268_1139329_25052024064627.xml
+2024-04-01,2024-06-30,consolidated,835700000.0,148500000.0,3.81,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110361_1212552_05082024034543.xml
+2024-07-01,2024-09-30,consolidated,870900000.0,138600000.0,3.55,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113696_1291426_28102024073225.xml
+2024-10-01,2024-12-31,consolidated,857700000.0,150400000.0,3.74,PARAS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119270_1375701_08022025042415.xml

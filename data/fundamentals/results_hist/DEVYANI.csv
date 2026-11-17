@@ -1,0 +1,15 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-07-01,2021-09-30,consolidated,,,,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77516_550112_01112021044224_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_81233_603165_04022022030226_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83839_650369_02052022050916_WEB.xml
+2022-04-01,2022-06-30,consolidated,7047230000.0,738480000.0,0.61,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_625614_4046_03082022180924_WEB.xml
+2022-07-01,2022-09-30,consolidated,7474250000.0,587620000.0,0.49,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_839707_6535_05112022110609_WEB.xml
+2022-10-01,2022-12-31,consolidated,7905980000.0,716670000.0,0.59,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89161_789634_09022023035905.xml
+2023-01-01,2023-03-31,consolidated,7549770000.0,607200000.0,0.5,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91883_844626_17052023042435.xml
+2023-04-01,2023-06-30,consolidated,8466340000.0,117580000.0,0.1,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95346_908268_04082023043838.xml
+2023-07-01,2023-09-30,consolidated,8194710000.0,333520000.0,0.28,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99198_979155_07112023055223.xml
+2023-10-01,2023-12-31,consolidated,8431340000.0,96180000.0,0.08,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102102_1042652_02022024034643.xml
+2024-01-01,2024-03-31,consolidated,10470780000.0,-74650000.0,-0.06,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105838_1123678_14052024051937.xml
+2024-04-01,2024-06-30,consolidated,12219010000.0,301060000.0,0.25,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110353_1212437_05082024030358.xml
+2024-07-01,2024-09-30,consolidated,12221560000.0,170000.0,0.0,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114849_1303971_11112024045559.xml
+2024-10-01,2024-12-31,consolidated,12944040000.0,-4920000.0,0.0,DEVYANI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119589_1378019_11022025034725.xml

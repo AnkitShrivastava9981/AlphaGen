@@ -1,0 +1,10 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2022-10-01,2022-12-31,consolidated,1881260000.0,533760000.0,3.19,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89604_791770_10022023104445.xml
+2023-01-01,2023-03-31,consolidated,1831330000.0,0.0,3.38,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91274_838261_06052023101819.xml
+2023-04-01,2023-06-30,consolidated,1815030000.0,0.0,2.56,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94857_903146_28072023073734.xml
+2023-07-01,2023-09-30,consolidated,2089720000.0,613790000.0,3.62,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97818_965252_21102023035436.xml
+2023-10-01,2023-12-31,consolidated,2187170000.0,0.0,3.92,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101566_1036637_25012024072056.xml
+2024-01-01,2024-03-31,consolidated,2283410000.0,0.0,4.36,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104961_1111394_29042024090825.xml
+2024-04-01,2024-06-30,consolidated,2375620000.0,0.0,3.98,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109589_1203747_26072024061556.xml
+2024-07-01,2024-09-30,consolidated,2804740000.0,0.0,5.21,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113692_1291401_28102024072230.xml
+2024-10-01,2024-12-31,consolidated,2900180000.0,0.0,5.25,KFINTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117561_1359627_23012025064838.xml

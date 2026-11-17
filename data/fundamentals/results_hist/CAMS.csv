@@ -1,0 +1,16 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-04-01,2021-06-30,consolidated,,,,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_74567_502145_10082021023121_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79634_559214_14112021013327_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_81858_606033_10022022014544_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83947_651108_05052022011512_WEB.xml
+2022-04-01,2022-06-30,consolidated,2366461000.0,647768000.0,13.24,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_631730_3983_05082022142132_WEB.xml
+2022-07-01,2022-09-30,consolidated,2423701000.0,721431000.0,14.74,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_839172_6465_04112022191453_WEB.xml
+2022-10-01,2022-12-31,consolidated,2435723000.0,737173000.0,15.05,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88768_787269_07022023125253.xml
+2023-01-01,2023-03-31,consolidated,2492387000.0,746112000.0,15.23,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91296_838376_06052023014418.xml
+2023-04-01,2023-06-30,consolidated,2612987000.0,763397000.0,15.58,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95313_907993_04082023015414.xml
+2023-07-01,2023-09-30,consolidated,2750831000.0,845074000.0,17.24,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_99390_980249_08112023023437.xml
+2023-10-01,2023-12-31,consolidated,2896775000.0,892934000.0,18.13,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102417_1045579_06022024022956.xml
+2024-01-01,2024-03-31,consolidated,3104588000.0,1035002000.0,21.07,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105512_1118753_09052024015719.xml
+2024-04-01,2024-06-30,consolidated,3314025000.0,1082137000.0,22.01,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110168_1210272_02082024020300.xml
+2024-07-01,2024-09-30,consolidated,3651721000.0,1224658000.0,24.88,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113590_1290412_28102024013348.xml
+2024-10-01,2024-12-31,consolidated,3697429000.0,1254928000.0,25.45,CAMS,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117968_1364281_29012025023635.xml

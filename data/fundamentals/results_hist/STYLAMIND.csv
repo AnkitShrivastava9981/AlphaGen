@@ -1,0 +1,14 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-07-01,2021-09-30,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76663_545255_23102021020031_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80743_600462_29012022105658_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84232_652954_11052022023255_WEB.xml
+2022-04-01,2022-06-30,consolidated,2349935000.0,209857000.0,12.38,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_593666_4004_20072022154516_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87520_772672_19012023125155_WEB.xml
+2023-01-01,2023-03-31,consolidated,2368259000.0,267900000.0,15.81,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91285_838322_06052023123758.xml
+2023-04-01,2023-06-30,consolidated,2256820000.0,0.0,16.39,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95536_909986_07082023045734.xml
+2023-07-01,2023-09-30,consolidated,2339401000.0,0.0,18.73,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98968_977790_06112023062238.xml
+2023-10-01,2023-12-31,consolidated,2145786000.0,313347000.0,18.49,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101643_1037778_29012024050539.xml
+2024-01-01,2024-03-31,consolidated,2398818000.0,375736000.0,22.17,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107420_1141088_28052024112903.xml
+2024-04-01,2024-06-30,consolidated,2425901000.0,0.0,16.73,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109904_1207595_31072024022843.xml
+2024-07-01,2024-09-30,consolidated,2627041000.0,0.0,19.66,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_112797_1271904_16102024010130.xml
+2024-10-01,2024-12-31,consolidated,2545190000.0,0.0,17.55,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119278_1375755_08022025052555.xml

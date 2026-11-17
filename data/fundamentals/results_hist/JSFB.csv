@@ -1,0 +1,6 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-10-01,2023-12-31,standalone,10380240000.0,1346410000.0,,JSFB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_104468_1059602_22022024082645.xml
+2024-01-01,2024-03-31,standalone,11110790000.0,3216740000.0,,JSFB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_104951_1111313_29042024081725.xml
+2024-04-01,2024-06-30,standalone,11670560000.0,1705620000.0,,JSFB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109262_1199379_22072024063313.xml
+2024-07-01,2024-09-30,standalone,11660470000.0,967180000.0,,JSFB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_112979_1284361_22102024091219.xml
+2024-10-01,2024-12-31,standalone,11774120000.0,1106580000.0,,JSFB,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_117444_1355975_21012025062433.xml

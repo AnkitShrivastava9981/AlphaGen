@@ -1,0 +1,17 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2020-10-01,2020-12-31,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_68725_408734_13022021110742_WEB.xml
+2021-01-01,2021-03-31,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_69647_445745_04052021044622_WEB.xml
+2021-04-01,2021-06-30,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_73724_497810_30072021024116_WEB.xml
+2021-07-01,2021-09-30,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_76743_546132_26102021042116_WEB.xml
+2021-10-01,2021-12-31,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_80558_599444_27012022061954_WEB.xml
+2022-01-01,2022-03-31,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_83884_650683_03052022063649_WEB.xml
+2022-04-01,2022-06-30,standalone,1693450000.0,512470000.0,5.85,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_608451_3945_27072022183350_WEB.xml
+2022-10-01,2022-12-31,standalone,,,,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_87779_778299_25012023112557_WEB.xml
+2023-01-01,2023-03-31,standalone,2268440000.0,640280000.0,7.28,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_91115_836551_03052023013212.xml
+2023-04-01,2023-06-30,standalone,2550470000.0,691220000.0,7.85,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_94694_901721_27072023053849.xml
+2023-07-01,2023-09-30,standalone,2733310000.0,743080000.0,8.43,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_97980_968379_26102023073420.xml
+2023-10-01,2023-12-31,standalone,2963070000.0,788210000.0,8.93,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_101145_1027520_18012024054952.xml
+2024-01-01,2024-03-31,standalone,3127610000.0,834660000.0,9.43,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_105503_1118618_09052024110150.xml
+2024-04-01,2024-06-30,standalone,3364190000.0,877680000.0,9.9,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_109494_1202733_25072024064843.xml
+2024-07-01,2024-09-30,standalone,3729160000.0,922250000.0,10.36,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_117113_1329616_20122024063728.xml
+2024-10-01,2024-12-31,standalone,4059470000.0,973830000.0,10.9,HOMEFIRST,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_117927_1363812_28012025092056.xml

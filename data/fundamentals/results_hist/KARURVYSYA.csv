@@ -1,0 +1,14 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+,2019-06-30,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_46168_124588_24072019051746_WEB.xml
+,2019-09-30,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_49149_159386_01112019085115_WEB.xml
+,2019-12-31,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_52194_213823_01022020044746_WEB.xml
+,2020-03-31,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_56444_268519_25062020010422_WEB.xml
+,2020-06-30,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_58649_299561_30072020044104_WEB.xml
+,2020-09-30,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_62727_353004_30102020083059_WEB.xml
+,2020-12-31,standalone,,,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_68162_406804_12022021114028_WEB.xml
+2022-07-01,2022-09-30,standalone,15794800000.0,2502300000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_786586_4782_21102022161825_WEB.xml
+2023-10-01,2023-12-31,standalone,21393800000.0,4116300000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_101276_1033097_22012024042423.xml
+2024-01-01,2024-03-31,standalone,21845700000.0,4561000000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_105781_1122668_13052024065519.xml
+2024-04-01,2024-06-30,standalone,22845300000.0,4586500000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_109103_1192893_18072024072240.xml
+2024-07-01,2024-09-30,standalone,23840000000.0,4736000000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_112852_1276062_17102024075940.xml
+2024-10-01,2024-12-31,standalone,24860100000.0,4960300000.0,,KARURVYSYA,https://nsearchives.nseindia.in/corporate/xbrl/BANKING_117414_1353635_20012025064443.xml

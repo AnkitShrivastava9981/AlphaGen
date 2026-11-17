@@ -1,0 +1,14 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-07-01,2021-09-30,consolidated,,,,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77903_552204_08112021022311_WEB.xml
+2021-10-01,2021-12-31,consolidated,,,,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80463_598781_25012022052900_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83964_651196_05052022040516_WEB.xml
+2022-07-01,2022-09-30,consolidated,878870000.0,34422000.0,0.74,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_788685_6532_21102022191004_WEB.xml
+2022-10-01,2022-12-31,consolidated,,,,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87725_778048_25012023095509_WEB.xml
+2023-01-01,2023-03-31,consolidated,958648000.0,149552000.0,3.19,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91007_834964_28042023083646.xml
+2023-04-01,2023-06-30,consolidated,860697000.0,129986000.0,2.77,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_96236_913846_10082023070926.xml
+2023-07-01,2023-09-30,consolidated,3143387000.0,109349000.0,2.33,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100092_984030_09112023083408.xml
+2023-10-01,2023-12-31,consolidated,1385881000.0,-242303000.0,-5.17,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_102829_1048547_08022024060106.xml
+2024-01-01,2024-03-31,consolidated,1452771000.0,225197000.0,4.8,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105344_1116415_06052024082712.xml
+2024-04-01,2024-06-30,consolidated,1411778000.0,222579000.0,4.72,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109819_1206715_30072024052108.xml
+2024-07-01,2024-09-30,consolidated,1542094000.0,278789000.0,5.9,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113639_1291033_28102024054551.xml
+2024-10-01,2024-12-31,consolidated,1762154000.0,426932000.0,8.95,CARTRADE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118004_1364558_29012025042742.xml

@@ -1,0 +1,16 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2021-01-01,2021-03-31,consolidated,,,,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_72979_475911_08072021031338_WEB.xml
+2021-04-01,2021-06-30,consolidated,,,,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_73125_491443_20072021030705_WEB.xml
+2021-07-01,2021-09-30,consolidated,,,,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77928_552385_08112021063136_WEB.xml
+2022-01-01,2022-03-31,consolidated,,,,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84793_656766_19052022041003_WEB.xml
+2022-04-01,2022-06-30,standalone,14428600000.0,1482700000.0,5.81,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_623668_4030_03082022112311_WEB.xml
+2022-07-01,2022-09-30,consolidated,30852000000.0,1109100000.0,4.35,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_852694_6517_10112022134158_WEB.xml
+2022-10-01,2022-12-31,consolidated,29217000000.0,672700000.0,2.54,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_90518_795890_15022023033535.xml
+2023-01-01,2023-03-31,consolidated,33800800000.0,2611800000.0,10.15,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92626_851904_25052023042116.xml
+2023-04-01,2023-06-30,consolidated,33068100000.0,2373900000.0,9.22,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94779_902406_28072023022053.xml
+2023-07-01,2023-09-30,consolidated,29407000000.0,4840900000.0,18.89,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100622_986814_11112023010906.xml
+2023-10-01,2023-12-31,consolidated,33152900000.0,1273000000.0,4.93,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101820_1039848_31012024120046.xml
+2024-01-01,2024-03-31,standalone,17589200000.0,1103100000.0,3.98,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_105925_1124676_15052024010820.xml
+2024-04-01,2024-06-30,consolidated,36116100000.0,2761400000.0,9.93,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109817_1206685_30072024051251.xml
+2024-07-01,2024-09-30,consolidated,36340200000.0,2155000000.0,7.76,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114468_1300872_08112024112538.xml
+2024-10-01,2024-12-31,consolidated,37525100000.0,1977100000.0,7.1,SHYAMMETL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_121000_1393480_07032025123734.xml

@@ -1,0 +1,7 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-07-01,2023-09-30,consolidated,4961080000.0,294380000.0,0.96,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100948_990838_22112023064212.xml
+2023-10-01,2023-12-31,consolidated,4882150000.0,259010000.0,0.82,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103062_1049842_09022024044152.xml
+2024-01-01,2024-03-31,consolidated,4710942000.0,304744000.0,0.97,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_106922_1136531_23052024102812.xml
+2024-04-01,2024-06-30,consolidated,5540569000.0,402588000.0,1.24,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111030_1218738_09082024042659.xml
+2024-07-01,2024-09-30,consolidated,4618220000.0,-185752000.0,-0.57,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_116154_1311805_14112024051234.xml
+2024-10-01,2024-12-31,consolidated,5175096000.0,260244000.0,0.8,HONASA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119910_1379915_12022025045824.xml

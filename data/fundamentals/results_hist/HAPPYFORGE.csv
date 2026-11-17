@@ -1,0 +1,6 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-10-01,2023-12-31,standalone,3419908000.0,578976000.0,6.15,HAPPYFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_103352_1051296_10022024045958.xml
+2024-01-01,2024-03-31,consolidated,3433444000.0,657839000.0,7.25,HAPPYFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107860_1144602_29052024045843.xml
+2024-04-01,2024-06-30,consolidated,3414656000.0,637998000.0,6.77,HAPPYFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_110714_1216418_08082024115905.xml
+2024-07-01,2024-09-30,consolidated,3611322000.0,713696000.0,7.58,HAPPYFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_114518_1301282_08112024031257.xml
+2024-10-01,2024-12-31,consolidated,3543246000.0,645474000.0,6.85,HAPPYFORGE,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_119221_1375450_08022025125519.xml

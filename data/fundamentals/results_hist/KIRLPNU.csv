@@ -1,0 +1,9 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-01-01,2023-03-31,standalone,3595800000.0,322400000.0,4.99,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_90915_834001_27042023064127.xml
+2023-04-01,2023-06-30,standalone,2422200000.0,179300000.0,2.77,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94330_896626_21072023121040.xml
+2023-07-01,2023-09-30,standalone,2819200000.0,201800000.0,3.12,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97693_960281_19102023035558.xml
+2023-10-01,2023-12-31,standalone,3085200000.0,349400000.0,5.4,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_101431_1035037_24012024053342.xml
+2024-01-01,2024-03-31,standalone,4899600000.0,602300000.0,9.31,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104712_1108322_25042024070716.xml
+2024-04-01,2024-06-30,standalone,2752700000.0,269000000.0,4.15,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_109219_1197906_20072024060006.xml
+2024-07-01,2024-09-30,standalone,4306700000.0,675300000.0,10.42,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_113354_1288645_25102024051627.xml
+2024-10-01,2024-12-31,consolidated,3426300000.0,364300000.0,5.67,KIRLPNU,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_117886_1363463_28012025061024.xml

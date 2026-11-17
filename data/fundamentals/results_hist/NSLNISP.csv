@@ -1,0 +1,9 @@
+period_start,period_end,nature,revenue,net_profit,eps,symbol,source
+2023-01-01,2023-03-31,standalone,0.0,0.0,0.0,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_92419_850326_23052023093153.xml
+2023-04-01,2023-06-30,standalone,0.0,0.0,0.0,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_97015_917497_12082023070332.xml
+2023-07-01,2023-09-30,standalone,2774100000.0,-1311000000.0,-0.45,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100855_988408_14112023101231.xml
+2023-10-01,2023-12-31,standalone,9258500000.0,-5683900000.0,-1.94,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_104315_1056210_15022024122458.xml
+2024-01-01,2024-03-31,standalone,18457300000.0,-8608500000.0,-2.94,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_107503_1141783_28052024040137.xml
+2024-04-01,2024-06-30,standalone,20229100000.0,-5472500000.0,-1.87,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_111956_1224603_14082024062812.xml
+2024-07-01,2024-09-30,standalone,15223500000.0,-5953700000.0,-2.03,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_115560_1308287_13112024033751.xml
+2024-10-01,2024-12-31,standalone,21195400000.0,-7577800000.0,-2.59,NSLNISP,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_118988_1373952_07022025121249.xml
