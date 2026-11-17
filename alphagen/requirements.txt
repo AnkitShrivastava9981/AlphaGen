@@ -1,6 +1,0 @@
-pandas>=2.1
-pyarrow>=15
-requests>=2.31
-yfinance>=0.2.50
-curl_cffi>=0.7
-jugaad-xbrl>=0.6
