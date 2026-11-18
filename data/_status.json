@@ -1,26 +1,31 @@
 {
-  "started_ist": "2026-11-18T03:18:15+05:30",
-  "finished_ist": "2026-11-18T03:32:59+05:30",
+  "started_ist": "2026-11-18T17:15:38+05:30",
+  "finished_ist": "2026-11-18T20:04:26+05:30",
   "steps": {
     "index_pe_history": {
-      "ok": true,
-      "rows": 26,
-      "note": "26/49 indices ok; missing: NIFTY SMALLCAP 250, NIFTY MICROCAP 250, NIFTY PRIVATE BANK, NIFTY FINANCIAL SERVICES, NIFTY FINANCIAL SERVICES EX-BANK, NIFTY CAPITAL MARKETS, NIFTY MIDSMALL FINANCIAL SERVICES, NIFTY HEALTHCARE INDEX"
-    },
-    "classification": {
       "ok": false,
       "rows": 0,
-      "note": "RuntimeError: quote API blocked: https://www.nseindia.com/api/quote-equity?symbol=CIPLA -> HTTP 403 [curl_cffi]"
+      "note": "RuntimeError: no index P/E data downloaded"
+    },
+    "index_archive": {
+      "ok": true,
+      "rows": 190219,
+      "note": "1701 new days, 0 days left, 95 holidays/missing"
+    },
+    "classification": {
+      "ok": true,
+      "rows": 753,
+      "note": "NSE quote API blocked (https://www.nseindia.com/api/quote-equity?symbol=AEGISLOG -> HTTP 403 [curl_cffi); used Yahoo industry for 753"
     },
     "shareholding": {
       "ok": true,
-      "rows": 23,
-      "note": "1 new filings parsed, 0 errors"
+      "rows": 0,
+      "note": "0 new filings parsed, 0 errors"
     },
     "results_history": {
       "ok": true,
-      "rows": 0,
-      "note": "backfill complete"
+      "rows": 2115,
+      "note": "backfill complete; repair pass fixed 2115/2822 quarters"
     }
   }
 }

@@ -1,0 +1,754 @@
+symbol,macro,sector,industry,basic_industry,source
+360ONE,,Financial Services,Asset Management,,yahoo
+AADHARHFC,,Financial Services,Mortgage Finance,,yahoo
+AARTIIND,,Basic Materials,Specialty Chemicals,,yahoo
+AARTIPHARM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+AAVAS,,Financial Services,Mortgage Finance,,yahoo
+ABB,,Industrials,Specialty Industrial Machinery,,yahoo
+ABBOTINDIA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ABCAPITAL,,Financial Services,Financial Conglomerates,,yahoo
+ABDL,,Consumer Defensive,Beverages - Wineries & Distilleries,,yahoo
+ABFRL,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+ABLBL,,Consumer Cyclical,Apparel Retail,,yahoo
+ABREL,,Real Estate,Real Estate Services,,yahoo
+ABSLAMC,,Financial Services,Asset Management,,yahoo
+ACC,,Basic Materials,Building Materials,,yahoo
+ACE,,Industrials,Farm & Heavy Construction Machinery,,yahoo
+ACI,,Basic Materials,Chemicals,,yahoo
+ACMESOLAR,,Utilities,Utilities - Renewable,,yahoo
+ACUTAAS,,Basic Materials,Specialty Chemicals,,yahoo
+ADANIENSOL,,Utilities,Utilities - Independent Power Producers,,yahoo
+ADANIENT,,Energy,Thermal Coal,,yahoo
+ADANIGREEN,,Utilities,Utilities - Renewable,,yahoo
+ADANIPORTS,,Industrials,Marine Shipping,,yahoo
+ADANIPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+ADVENZYMES,,Basic Materials,Specialty Chemicals,,yahoo
+AEGISLOG,,Energy,Oil & Gas Refining & Marketing,,yahoo
+AEGISVOPAK,,Energy,Oil & Gas Equipment & Services,,yahoo
+AEQUS,,Industrials,Aerospace & Defense,,yahoo
+AEROFLEX,,Industrials,Metal Fabrication,,yahoo
+AETHER,,Basic Materials,Specialty Chemicals,,yahoo
+AFCONS,,Industrials,Engineering & Construction,,yahoo
+AFFLE,,Communication Services,Advertising Agencies,,yahoo
+AIAENG,,Industrials,Specialty Industrial Machinery,,yahoo
+AIIL,,Financial Services,Capital Markets,,yahoo
+AJANTPHARM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+AKUMS,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ALKEM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ALKYLAMINE,,Basic Materials,Specialty Chemicals,,yahoo
+AMAGI,,Technology,Software - Application,,yahoo
+AMBER,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+AMBUJACEM,,Basic Materials,Building Materials,,yahoo
+ANANDRATHI,,Financial Services,Asset Management,,yahoo
+ANANTRAJ,,Real Estate,Real Estate - Development,,yahoo
+ANGELONE,,Financial Services,Capital Markets,,yahoo
+ANTHEM,,Healthcare,Biotechnology,,yahoo
+ANURAS,,Basic Materials,Specialty Chemicals,,yahoo
+APARINDS,,Industrials,Electrical Equipment & Parts,,yahoo
+APLAPOLLO,,Basic Materials,Steel,,yahoo
+APOLLO,,Industrials,Aerospace & Defense,,yahoo
+APOLLOHOSP,,Healthcare,Medical Care Facilities,,yahoo
+APOLLOTYRE,,Consumer Cyclical,Auto Parts,,yahoo
+APTUS,,Financial Services,Mortgage Finance,,yahoo
+ARE&M,,Industrials,Electrical Equipment & Parts,,yahoo
+ARVIND,,Consumer Cyclical,Textile Manufacturing,,yahoo
+ARVINDFASN,,Consumer Cyclical,Apparel Retail,,yahoo
+ASAHIINDIA,,Consumer Cyclical,Auto Parts,,yahoo
+ASHAPURMIN,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+ASHOKA,,Industrials,Engineering & Construction,,yahoo
+ASHOKLEY,,Industrials,Farm & Heavy Construction Machinery,,yahoo
+ASIANPAINT,,Basic Materials,Specialty Chemicals,,yahoo
+ASTERDM,,Healthcare,Medical Care Facilities,,yahoo
+ASTRAL,,Industrials,Building Products & Equipment,,yahoo
+ASTRAMICRO,,Technology,Communication Equipment,,yahoo
+ATGL,,Utilities,Utilities - Regulated Gas,,yahoo
+ATHERENERG,,Consumer Cyclical,Auto Manufacturers,,yahoo
+ATLANTAELE,,Industrials,Electrical Equipment & Parts,,yahoo
+ATUL,,Basic Materials,Specialty Chemicals,,yahoo
+AUBANK,,Financial Services,Banks - Regional,,yahoo
+AURIONPRO,,Technology,Software - Application,,yahoo
+AUROPHARMA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+AVALON,,Technology,Electronic Components,,yahoo
+AVANTIFEED,,Consumer Defensive,Packaged Foods,,yahoo
+AVL,,Consumer Cyclical,Specialty Retail,,yahoo
+AWL,,Consumer Defensive,Packaged Foods,,yahoo
+AXISBANK,,Financial Services,Banks - Regional,,yahoo
+AXISCADES,,Industrials,Engineering & Construction,,yahoo
+AZAD,,Industrials,Specialty Industrial Machinery,,yahoo
+BAGMANE,,,,,yahoo
+BAJAJ-AUTO,,Consumer Cyclical,Auto Manufacturers,,yahoo
+BAJAJCON,,Consumer Defensive,Household & Personal Products,,yahoo
+BAJAJFINSV,,Financial Services,Financial Conglomerates,,yahoo
+BAJAJHFL,,Financial Services,Mortgage Finance,,yahoo
+BAJAJHLDNG,,Financial Services,Asset Management,,yahoo
+BAJFINANCE,,Financial Services,Credit Services,,yahoo
+BALAMINES,,Basic Materials,Specialty Chemicals,,yahoo
+BALKRISIND,,Consumer Cyclical,Auto Parts,,yahoo
+BALRAMCHIN,,Consumer Defensive,Confectioners,,yahoo
+BALUFORGE,,Industrials,Metal Fabrication,,yahoo
+BANCOINDIA,,Consumer Cyclical,Auto Parts,,yahoo
+BANDHANBNK,,Financial Services,Banks - Regional,,yahoo
+BANKBARODA,,Financial Services,Banks - Regional,,yahoo
+BANKINDIA,,Financial Services,Banks - Regional,,yahoo
+BATAINDIA,,Consumer Cyclical,Footwear & Accessories,,yahoo
+BBOX,,Technology,Software - Application,,yahoo
+BDL,,Industrials,Aerospace & Defense,,yahoo
+BECTORFOOD,,Consumer Defensive,Packaged Foods,,yahoo
+BEL,,Industrials,Aerospace & Defense,,yahoo
+BELRISE,,Consumer Cyclical,Auto Parts,,yahoo
+BEML,,Industrials,Conglomerates,,yahoo
+BERGEPAINT,,Basic Materials,Specialty Chemicals,,yahoo
+BHARATCOAL,,Basic Materials,Coking Coal,,yahoo
+BHARATFORG,,Industrials,Metal Fabrication,,yahoo
+BHARTIARTL,,Communication Services,Telecom Services,,yahoo
+BHARTIHEXA,,Communication Services,Telecom Services,,yahoo
+BHEL,,Industrials,Specialty Industrial Machinery,,yahoo
+BIOCON,,Healthcare,Biotechnology,,yahoo
+BIRET,,,,,yahoo
+BIRLACORPN,,Basic Materials,Building Materials,,yahoo
+BLACKBUCK,,Technology,Software - Application,,yahoo
+BLS,,Industrials,Specialty Business Services,,yahoo
+BLUEJET,,Healthcare,Biotechnology,,yahoo
+BLUESTARCO,,Industrials,Building Products & Equipment,,yahoo
+BLUESTONE,,Consumer Cyclical,Luxury Goods,,yahoo
+BORORENEW,,Technology,Solar,,yahoo
+BOSCHLTD,,Consumer Cyclical,Auto Parts,,yahoo
+BPCL,,Energy,Oil & Gas Refining & Marketing,,yahoo
+BRIGADE,,Real Estate,Real Estate - Development,,yahoo
+BRITANNIA,,Consumer Defensive,Packaged Foods,,yahoo
+BSE,,Financial Services,Financial Data & Stock Exchanges,,yahoo
+BSOFT,,Technology,Information Technology Services,,yahoo
+CAMPUS,,Consumer Cyclical,Footwear & Accessories,,yahoo
+CAMS,,Technology,Information Technology Services,,yahoo
+CANBK,,Financial Services,Banks - Regional,,yahoo
+CANFINHOME,,Financial Services,Mortgage Finance,,yahoo
+CANHLIFE,,Financial Services,Insurance - Life,,yahoo
+CAPILLARY,,Technology,Software - Application,,yahoo
+CAPLIPOINT,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+CARBORUNIV,,Industrials,Tools & Accessories,,yahoo
+CARTRADE,,Consumer Cyclical,Auto & Truck Dealerships,,yahoo
+CASTROLIND,,Energy,Oil & Gas Refining & Marketing,,yahoo
+CCL,,Consumer Defensive,Packaged Foods,,yahoo
+CDSL,,Financial Services,Capital Markets,,yahoo
+CEATLTD,,Consumer Cyclical,Auto Parts,,yahoo
+CEIGALL,,Industrials,Engineering & Construction,,yahoo
+CELLO,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+CEMPRO,,Industrials,Engineering & Construction,,yahoo
+CENTRALBK,,Financial Services,Banks - Regional,,yahoo
+CENTUM,,Technology,Electronic Components,,yahoo
+CERA,,Industrials,Building Products & Equipment,,yahoo
+CESC,,Utilities,Utilities - Regulated Electric,,yahoo
+CGCL,,Financial Services,Credit Services,,yahoo
+CGPOWER,,Industrials,Electrical Equipment & Parts,,yahoo
+CHALET,,Consumer Cyclical,Lodging,,yahoo
+CHAMBLFERT,,Basic Materials,Agricultural Inputs,,yahoo
+CHENNPETRO,,Energy,Oil & Gas Refining & Marketing,,yahoo
+CHOICEIN,,Financial Services,Capital Markets,,yahoo
+CHOLAFIN,,Financial Services,Credit Services,,yahoo
+CHOLAHLDNG,,Financial Services,Credit Services,,yahoo
+CIEINDIA,,Consumer Cyclical,Auto Parts,,yahoo
+CIPLA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+CLEAN,,Basic Materials,Specialty Chemicals,,yahoo
+CLEANMAX,,Utilities,Utilities - Renewable,,yahoo
+CMPDI,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+CMRGREEN,,Basic Materials,Aluminum,,yahoo
+CMSINFO,,Industrials,Specialty Business Services,,yahoo
+COALINDIA,,Energy,Thermal Coal,,yahoo
+COCHINSHIP,,Industrials,Aerospace & Defense,,yahoo
+COFORGE,,Technology,Information Technology Services,,yahoo
+COHANCE,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+COLPAL,,Consumer Defensive,Household & Personal Products,,yahoo
+CONCOR,,Industrials,Railroads,,yahoo
+CONCORDBIO,,Healthcare,Biotechnology,,yahoo
+COROMANDEL,,Basic Materials,Agricultural Inputs,,yahoo
+CPPLUS,,Industrials,Building Products & Equipment,,yahoo
+CRAFTSMAN,,Consumer Cyclical,Auto Parts,,yahoo
+CRAMC,,Financial Services,Asset Management,,yahoo
+CREDITACC,,Financial Services,Credit Services,,yahoo
+CRISIL,,Financial Services,Financial Data & Stock Exchanges,,yahoo
+CROMPTON,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+CSBBANK,,Financial Services,Banks - Regional,,yahoo
+CUB,,Financial Services,Banks - Regional,,yahoo
+CUMMINSIND,,Industrials,Specialty Industrial Machinery,,yahoo
+CUPID,,Consumer Defensive,Household & Personal Products,,yahoo
+CYIENT,,Industrials,Conglomerates,,yahoo
+DABUR,,Consumer Defensive,Household & Personal Products,,yahoo
+DALBHARAT,,Basic Materials,Building Materials,,yahoo
+DATAMATICS,,Technology,Information Technology Services,,yahoo
+DATAPATTNS,,Industrials,Aerospace & Defense,,yahoo
+DBL,,Industrials,Engineering & Construction,,yahoo
+DBREALTY,,Real Estate,Real Estate - Development,,yahoo
+DCBBANK,,Financial Services,Banks - Regional,,yahoo
+DEEPAKFERT,,Basic Materials,Chemicals,,yahoo
+DEEPAKNTR,,Basic Materials,Chemicals,,yahoo
+DELHIVERY,,Industrials,Integrated Freight & Logistics,,yahoo
+DEVYANI,,Consumer Cyclical,Restaurants,,yahoo
+DIACABS,,Industrials,Specialty Industrial Machinery,,yahoo
+DIVISLAB,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+DIXON,,Technology,Consumer Electronics,,yahoo
+DLF,,Real Estate,Real Estate - Development,,yahoo
+DMART,,Consumer Defensive,Discount Stores,,yahoo
+DOMS,,Industrials,Business Equipment & Supplies,,yahoo
+DRREDDY,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+DUMMYHEG,,,,,yahoo
+DUMMYINXGN,,,,,yahoo
+DYNAMATECH,,Consumer Cyclical,Auto Parts,,yahoo
+E2E,,Technology,Software - Infrastructure,,yahoo
+EBGNG,,Technology,Computer Hardware,,yahoo
+ECLERX,,Technology,Information Technology Services,,yahoo
+EDELWEISS,,Financial Services,Financial Conglomerates,,yahoo
+EICHERMOT,,Consumer Cyclical,Auto Manufacturers,,yahoo
+EIDPARRY,,Basic Materials,Agricultural Inputs,,yahoo
+EIEL,,Industrials,Engineering & Construction,,yahoo
+EIHOTEL,,Consumer Cyclical,Lodging,,yahoo
+ELECON,,Industrials,Specialty Industrial Machinery,,yahoo
+ELECTCAST,,Industrials,Building Products & Equipment,,yahoo
+ELGIEQUIP,,Industrials,Specialty Industrial Machinery,,yahoo
+ELLEN,,Basic Materials,Chemicals,,yahoo
+EMAMILTD,,Consumer Defensive,Household & Personal Products,,yahoo
+EMBASSY,,,,,yahoo
+EMBDL,,Real Estate,Real Estate - Diversified,,yahoo
+EMCURE,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+EMIL,,Consumer Cyclical,Specialty Retail,,yahoo
+EMMVEE,,Technology,Solar,,yahoo
+ENDURANCE,,Consumer Cyclical,Auto Parts,,yahoo
+ENGINERSIN,,Industrials,Engineering & Construction,,yahoo
+ENNATURE,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ENRIN,,Utilities,Utilities - Renewable,,yahoo
+ENTERO,,Healthcare,Medical Distribution,,yahoo
+EPL,,Consumer Cyclical,Packaging & Containers,,yahoo
+EQUITASBNK,,Financial Services,Banks - Regional,,yahoo
+ERIS,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ESCORTS,,Industrials,Farm & Heavy Construction Machinery,,yahoo
+ETERNAL,,Consumer Cyclical,Internet Retail,,yahoo
+EXIDEIND,,Consumer Cyclical,Auto Parts,,yahoo
+FACT,,Basic Materials,Agricultural Inputs,,yahoo
+FEDERALBNK,,Financial Services,Banks - Regional,,yahoo
+FEDFINA,,Financial Services,Credit Services,,yahoo
+FIEMIND,,Consumer Cyclical,Auto Parts,,yahoo
+FINCABLES,,Industrials,Electrical Equipment & Parts,,yahoo
+FINPIPE,,Industrials,Building Products & Equipment,,yahoo
+FIRSTCRY,,Consumer Cyclical,Internet Retail,,yahoo
+FIVESTAR,,Financial Services,Credit Services,,yahoo
+FLUOROCHEM,,Basic Materials,Specialty Chemicals,,yahoo
+FORCEMOT,,Consumer Cyclical,Auto Manufacturers,,yahoo
+FORTIS,,Healthcare,Medical Care Facilities,,yahoo
+FRACTAL,,Technology,Software - Infrastructure,,yahoo
+FSL,,Technology,Information Technology Services,,yahoo
+GABRIEL,,Consumer Cyclical,Auto Parts,,yahoo
+GAEL,,Consumer Defensive,Packaged Foods,,yahoo
+GAIL,,Utilities,Utilities - Regulated Gas,,yahoo
+GALLANTT,,Basic Materials,Steel,,yahoo
+GENUSPOWER,,Industrials,Electrical Equipment & Parts,,yahoo
+GESHIP,,Industrials,Marine Shipping,,yahoo
+GICRE,,Financial Services,Insurance - Reinsurance,,yahoo
+GILLETTE,,Consumer Defensive,Household & Personal Products,,yahoo
+GLAND,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+GLAXO,,Healthcare,Drug Manufacturers - General,,yahoo
+GLENMARK,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+GMDCLTD,,Energy,Thermal Coal,,yahoo
+GMRAIRPORT,,Industrials,Airports & Air Services,,yahoo
+GMRP&UI,,Energy,Thermal Coal,,yahoo
+GNFC,,Basic Materials,Chemicals,,yahoo
+GODFRYPHLP,,Consumer Defensive,Tobacco,,yahoo
+GODREJAGRO,,Consumer Defensive,Packaged Foods,,yahoo
+GODREJCP,,Consumer Defensive,Household & Personal Products,,yahoo
+GODREJIND,,Industrials,Conglomerates,,yahoo
+GODREJPROP,,Real Estate,Real Estate - Development,,yahoo
+GOKEX,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+GOKULAGRO,,Consumer Defensive,Packaged Foods,,yahoo
+GOLDIAM,,Consumer Cyclical,Luxury Goods,,yahoo
+GPIL,,Basic Materials,Steel,,yahoo
+GPPL,,Industrials,Marine Shipping,,yahoo
+GRANULES,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+GRAPHITE,,Industrials,Electrical Equipment & Parts,,yahoo
+GRASIM,,Basic Materials,Building Materials,,yahoo
+GRAVITA,,Industrials,Metal Fabrication,,yahoo
+GREAVESCOT,,Industrials,Specialty Industrial Machinery,,yahoo
+GRINDWELL,,Industrials,Building Products & Equipment,,yahoo
+GROWW,,Financial Services,Capital Markets,,yahoo
+GRSE,,Industrials,Aerospace & Defense,,yahoo
+GRWRHITECH,,Basic Materials,Specialty Chemicals,,yahoo
+GSFC,,Basic Materials,Agricultural Inputs,,yahoo
+GUJALKALI,,Basic Materials,Chemicals,,yahoo
+GVT&D,,Industrials,Specialty Industrial Machinery,,yahoo
+HAL,,Industrials,Aerospace & Defense,,yahoo
+HAPPSTMNDS,,Technology,Information Technology Services,,yahoo
+HAPPYFORGE,,Industrials,Metal Fabrication,,yahoo
+HAVELLS,,Industrials,Electrical Equipment & Parts,,yahoo
+HBLENGINE,,Industrials,Electrical Equipment & Parts,,yahoo
+HCC,,Industrials,Engineering & Construction,,yahoo
+HCG,,Healthcare,Medical Care Facilities,,yahoo
+HCLTECH,,Technology,Information Technology Services,,yahoo
+HDBFS,,Financial Services,Credit Services,,yahoo
+HDFCAMC,,Financial Services,Asset Management,,yahoo
+HDFCBANK,,Financial Services,Banks - Regional,,yahoo
+HDFCLIFE,,Financial Services,Insurance - Life,,yahoo
+HEGAM,,Industrials,Electrical Equipment & Parts,,yahoo
+HERITGFOOD,,Consumer Defensive,Packaged Foods,,yahoo
+HEROMOTOCO,,Consumer Cyclical,Auto Manufacturers,,yahoo
+HEXT,,Technology,Information Technology Services,,yahoo
+HFCL,,Technology,Communication Equipment,,yahoo
+HGINFRA,,Industrials,Engineering & Construction,,yahoo
+HINDALCO,,Basic Materials,Aluminum,,yahoo
+HINDCOPPER,,Basic Materials,Copper,,yahoo
+HINDPETRO,,Energy,Oil & Gas Refining & Marketing,,yahoo
+HINDUNILVR,,Consumer Defensive,Household & Personal Products,,yahoo
+HINDZINC,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+HOMEFIRST,,Financial Services,Mortgage Finance,,yahoo
+HONASA,,Consumer Defensive,Household & Personal Products,,yahoo
+HONAUT,,Industrials,Electrical Equipment & Parts,,yahoo
+HSCL,,Basic Materials,Specialty Chemicals,,yahoo
+HUDCO,,Financial Services,Credit Services,,yahoo
+HYUNDAI,,Consumer Cyclical,Auto Manufacturers,,yahoo
+ICICIAMC,,Financial Services,Asset Management,,yahoo
+ICICIBANK,,Financial Services,Banks - Regional,,yahoo
+ICICIGI,,Financial Services,Insurance - Diversified,,yahoo
+ICICILIFE,,Financial Services,Insurance - Life,,yahoo
+ICIL,,Consumer Cyclical,Textile Manufacturing,,yahoo
+IDBI,,Financial Services,Banks - Regional,,yahoo
+IDEA,,Communication Services,Telecom Services,,yahoo
+IDFCFIRSTB,,Financial Services,Banks - Regional,,yahoo
+IEX,,Financial Services,Capital Markets,,yahoo
+IFBIND,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+IFCI,,Financial Services,Credit Services,,yahoo
+IGIL,,Basic Materials,Other Precious Metals & Mining,,yahoo
+IGL,,Utilities,Utilities - Regulated Gas,,yahoo
+IIFL,,Financial Services,Credit Services,,yahoo
+IIFLCAPS,,Financial Services,Capital Markets,,yahoo
+IKS,,Healthcare,Health Information Services,,yahoo
+IMFA,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+INDGN,,Healthcare,Health Information Services,,yahoo
+INDHOTEL,,Consumer Cyclical,Lodging,,yahoo
+INDIACEM,,Basic Materials,Building Materials,,yahoo
+INDIAGLYCO,,Basic Materials,Chemicals,,yahoo
+INDIAMART,,Consumer Cyclical,Internet Retail,,yahoo
+INDIANB,,Financial Services,Banks - Regional,,yahoo
+INDIGO,,Industrials,Airlines,,yahoo
+INDIGOPNTS,,Basic Materials,Specialty Chemicals,,yahoo
+INDUSINDBK,,Financial Services,Banks - Regional,,yahoo
+INDUSTOWER,,Communication Services,Telecom Services,,yahoo
+INFY,,Technology,Information Technology Services,,yahoo
+INOXINDIA,,Industrials,Specialty Industrial Machinery,,yahoo
+INOXWIND,,Industrials,Specialty Industrial Machinery,,yahoo
+INTELLECT,,Technology,Software - Application,,yahoo
+IOB,,Financial Services,Banks - Regional,,yahoo
+IOC,,Energy,Oil & Gas Refining & Marketing,,yahoo
+IONEXCHANG,,Industrials,Pollution & Treatment Controls,,yahoo
+IPCALAB,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+IRB,,Industrials,Infrastructure Operations,,yahoo
+IRCON,,Industrials,Engineering & Construction,,yahoo
+IRCTC,,Consumer Cyclical,Travel Services,,yahoo
+IREDA,,Financial Services,Credit Services,,yahoo
+IRFC,,Financial Services,Credit Services,,yahoo
+ITC,,Consumer Defensive,Tobacco,,yahoo
+ITCHOTELS,,Consumer Cyclical,Resorts & Casinos,,yahoo
+ITI,,Technology,Communication Equipment,,yahoo
+IXIGO,,Consumer Cyclical,Travel Services,,yahoo
+J&KBANK,,Financial Services,Banks - Regional,,yahoo
+JAIBALAJI,,Basic Materials,Steel,,yahoo
+JAINREC,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+JAMNAAUTO,,Consumer Cyclical,Auto Parts,,yahoo
+JAYNECOIND,,Basic Materials,Steel,,yahoo
+JBMA,,Consumer Cyclical,Auto Parts,,yahoo
+JINDALSAW,,Basic Materials,Steel,,yahoo
+JINDALSTEL,,Basic Materials,Steel,,yahoo
+JIOFIN,,Financial Services,Asset Management,,yahoo
+JKCEMENT,,Basic Materials,Building Materials,,yahoo
+JKPAPER,,Basic Materials,Paper & Paper Products,,yahoo
+JKTYRE,,Consumer Cyclical,Auto Parts,,yahoo
+JMFINANCIL,,Financial Services,Capital Markets,,yahoo
+JPPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+JSFB,,Financial Services,Banks - Regional,,yahoo
+JSL,,Basic Materials,Steel,,yahoo
+JSLL,,Healthcare,Medical Care Facilities,,yahoo
+JSWCEMENT,,Basic Materials,Building Materials,,yahoo
+JSWENERGY,,Utilities,Utilities - Independent Power Producers,,yahoo
+JSWINFRA,,Industrials,Marine Shipping,,yahoo
+JSWSTEEL,,Basic Materials,Steel,,yahoo
+JUBLFOOD,,Consumer Cyclical,Restaurants,,yahoo
+JUBLINGREA,,Basic Materials,Specialty Chemicals,,yahoo
+JUBLPHARMA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+JUSTDIAL,,Communication Services,Internet Content & Information,,yahoo
+JWL,,Industrials,Railroads,,yahoo
+JYOTHYLAB,,Consumer Defensive,Household & Personal Products,,yahoo
+JYOTICNC,,Industrials,Specialty Industrial Machinery,,yahoo
+KAJARIACER,,Industrials,Building Products & Equipment,,yahoo
+KALYANKJIL,,Consumer Cyclical,Luxury Goods,,yahoo
+KANSAINER,,Basic Materials,Specialty Chemicals,,yahoo
+KARURVYSYA,,Financial Services,Banks - Regional,,yahoo
+KAYNES,,Technology,Electronic Components,,yahoo
+KEC,,Industrials,Engineering & Construction,,yahoo
+KEI,,Industrials,Electrical Equipment & Parts,,yahoo
+KFINTECH,,Technology,Software - Application,,yahoo
+KIMS,,Healthcare,Medical Care Facilities,,yahoo
+KIRLOSBROS,,Industrials,Specialty Industrial Machinery,,yahoo
+KIRLOSENG,,Industrials,Specialty Industrial Machinery,,yahoo
+KIRLPNU,,Industrials,Specialty Industrial Machinery,,yahoo
+KISSHT,,Financial Services,Credit Services,,yahoo
+KITEX,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+KMEW,,Industrials,Marine Shipping,,yahoo
+KNRCON,,Industrials,Engineering & Construction,,yahoo
+KOTAKBANK,,Financial Services,Banks - Regional,,yahoo
+KPIGREEN,,Utilities,Utilities - Renewable,,yahoo
+KPIL,,Industrials,Engineering & Construction,,yahoo
+KPITTECH,,Technology,Software - Application,,yahoo
+KPRMILL,,Consumer Cyclical,Textile Manufacturing,,yahoo
+KRBL,,Consumer Defensive,Packaged Foods,,yahoo
+KRN,,Technology,Electronic Components,,yahoo
+KSB,,Industrials,Specialty Industrial Machinery,,yahoo
+KSCL,,Basic Materials,Agricultural Inputs,,yahoo
+KTKBANK,,Financial Services,Banks - Regional,,yahoo
+KWIL,,Consumer Defensive,Packaged Foods,,yahoo
+LALPATHLAB,,Healthcare,Diagnostics & Research,,yahoo
+LATENTVIEW,,Industrials,Consulting Services,,yahoo
+LAURUSLABS,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+LEMONTREE,,Consumer Cyclical,Lodging,,yahoo
+LENSKART,,Healthcare,Medical Instruments & Supplies,,yahoo
+LGEINDIA,,Technology,Consumer Electronics,,yahoo
+LICHSGFIN,,Financial Services,Mortgage Finance,,yahoo
+LICI,,Financial Services,Insurance - Life,,yahoo
+LINDEINDIA,,Basic Materials,Specialty Chemicals,,yahoo
+LLOYDSENGG,,Industrials,Specialty Industrial Machinery,,yahoo
+LLOYDSENT,,Basic Materials,Steel,,yahoo
+LLOYDSME,,Basic Materials,Steel,,yahoo
+LODHA,,Real Estate,Real Estate - Development,,yahoo
+LOTUSDEV,,Industrials,Engineering & Construction,,yahoo
+LT,,Industrials,Engineering & Construction,,yahoo
+LTF,,Financial Services,Credit Services,,yahoo
+LTFOODS,,Consumer Defensive,Packaged Foods,,yahoo
+LTM,,Technology,Information Technology Services,,yahoo
+LTTS,,Technology,Information Technology Services,,yahoo
+LUMAXIND,,Consumer Cyclical,Auto Parts,,yahoo
+LUMAXTECH,,Consumer Cyclical,Auto Parts,,yahoo
+LUPIN,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+LXCHEM,,Basic Materials,Specialty Chemicals,,yahoo
+M&M,,Consumer Cyclical,Auto Manufacturers,,yahoo
+M&MFIN,,Financial Services,Credit Services,,yahoo
+MAHABANK,,Financial Services,Banks - Regional,,yahoo
+MANAPPURAM,,Financial Services,Credit Services,,yahoo
+MANKIND,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+MANORAMA,,Consumer Defensive,Packaged Foods,,yahoo
+MANYAVAR,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+MAPMYINDIA,,Technology,Software - Infrastructure,,yahoo
+MARICO,,Consumer Defensive,Household & Personal Products,,yahoo
+MARKSANS,,Healthcare,Drug Manufacturers - General,,yahoo
+MARUTI,,Consumer Cyclical,Auto Manufacturers,,yahoo
+MASTEK,,Technology,Information Technology Services,,yahoo
+MAXHEALTH,,Healthcare,Medical Care Facilities,,yahoo
+MAZDOCK,,Industrials,Aerospace & Defense,,yahoo
+MBAPL,,Basic Materials,Agricultural Inputs,,yahoo
+MCX,,Financial Services,Financial Data & Stock Exchanges,,yahoo
+MEDANTA,,Healthcare,Medical Care Facilities,,yahoo
+MEDPLUS,,Healthcare,Pharmaceutical Retailers,,yahoo
+MEESHO,,Consumer Cyclical,Internet Retail,,yahoo
+METROPOLIS,,Healthcare,Diagnostics & Research,,yahoo
+MFSL,,Financial Services,Insurance - Life,,yahoo
+MGL,,Utilities,Utilities - Regulated Gas,,yahoo
+MIDHANI,,Basic Materials,Steel,,yahoo
+MINDACORP,,Consumer Cyclical,Auto Parts,,yahoo
+MMTC,,Industrials,Conglomerates,,yahoo
+MOIL,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+MOTHERSON,,Consumer Cyclical,Auto Parts,,yahoo
+MOTILALOFS,,Financial Services,Capital Markets,,yahoo
+MPHASIS,,Technology,Information Technology Services,,yahoo
+MRF,,Consumer Cyclical,Auto Parts,,yahoo
+MRPL,,Energy,Oil & Gas Refining & Marketing,,yahoo
+MSTCLTD,,Industrials,Conglomerates,,yahoo
+MSUMI,,Consumer Cyclical,Auto Parts,,yahoo
+MTARTECH,,Industrials,Specialty Industrial Machinery,,yahoo
+MUTHOOTFIN,,Financial Services,Credit Services,,yahoo
+NAM-INDIA,,Financial Services,Asset Management,,yahoo
+NATCOPHARM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+NATIONALUM,,Basic Materials,Aluminum,,yahoo
+NAUKRI,,Communication Services,Internet Content & Information,,yahoo
+NAVA,,Industrials,Conglomerates,,yahoo
+NAVINFLUOR,,Basic Materials,Chemicals,,yahoo
+NAZARA,,Communication Services,Electronic Gaming & Multimedia,,yahoo
+NBCC,,Industrials,Engineering & Construction,,yahoo
+NCC,,Industrials,Engineering & Construction,,yahoo
+NEOGEN,,Basic Materials,Specialty Chemicals,,yahoo
+NEPHROPLUS,,Healthcare,Medical Care Facilities,,yahoo
+NESTLEIND,,Consumer Defensive,Packaged Foods,,yahoo
+NETWEB,,Technology,Computer Hardware,,yahoo
+NETWORK18,,Communication Services,Entertainment,,yahoo
+NEULANDLAB,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+NEWGEN,,Technology,Software - Infrastructure,,yahoo
+NFL,,Basic Materials,Agricultural Inputs,,yahoo
+NH,,Healthcare,Medical Care Facilities,,yahoo
+NHPC,,Utilities,Utilities - Renewable,,yahoo
+NIACL,,Financial Services,Insurance - Diversified,,yahoo
+NIVABUPA,,Financial Services,Insurance - Life,,yahoo
+NLCINDIA,,Utilities,Utilities - Regulated Electric,,yahoo
+NMDC,,Basic Materials,Steel,,yahoo
+NORTHARC,,Financial Services,Credit Services,,yahoo
+NSLNISP,,Basic Materials,Steel,,yahoo
+NTPC,,Utilities,Utilities - Regulated Electric,,yahoo
+NTPCGREEN,,Utilities,Utilities - Renewable,,yahoo
+NUVAMA,,Financial Services,Asset Management,,yahoo
+NUVOCO,,Basic Materials,Building Materials,,yahoo
+NYKAA,,Consumer Cyclical,Internet Retail,,yahoo
+OBEROIRLTY,,Real Estate,Real Estate - Development,,yahoo
+OFSS,,Technology,Software - Infrastructure,,yahoo
+OIL,,Energy,Oil & Gas Integrated,,yahoo
+OLAELEC,,Consumer Cyclical,Auto Manufacturers,,yahoo
+OLECTRA,,Industrials,Farm & Heavy Construction Machinery,,yahoo
+OMNI,,Industrials,Specialty Industrial Machinery,,yahoo
+ONESOURCE,,Healthcare,Biotechnology,,yahoo
+ONGC,,Energy,Oil & Gas Integrated,,yahoo
+OSWALPUMPS,,Industrials,Electrical Equipment & Parts,,yahoo
+PAGEIND,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+PAISALO,,Financial Services,Credit Services,,yahoo
+PARADEEP,,Basic Materials,Agricultural Inputs,,yahoo
+PARAS,,Industrials,Aerospace & Defense,,yahoo
+PARKHOSPS,,Healthcare,Medical Care Facilities,,yahoo
+PATANJALI,,Consumer Defensive,Packaged Foods,,yahoo
+PAYTM,,Technology,Software - Infrastructure,,yahoo
+PCBL,,Basic Materials,Specialty Chemicals,,yahoo
+PCJEWELLER,,Consumer Cyclical,Luxury Goods,,yahoo
+PDSL,,Industrials,Specialty Business Services,,yahoo
+PERSISTENT,,Technology,Information Technology Services,,yahoo
+PETRONET,,Energy,Oil & Gas Refining & Marketing,,yahoo
+PFC,,Financial Services,Credit Services,,yahoo
+PFIZER,,Healthcare,Drug Manufacturers - General,,yahoo
+PFOCUS,,Communication Services,Entertainment,,yahoo
+PGEL,,Technology,Electronic Components,,yahoo
+PGHL,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+PGIL,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+PHOENIXLTD,,Real Estate,Real Estate - Diversified,,yahoo
+PICCADIL,,Consumer Defensive,Beverages - Wineries & Distilleries,,yahoo
+PIDILITIND,,Basic Materials,Specialty Chemicals,,yahoo
+PIIND,,Basic Materials,Agricultural Inputs,,yahoo
+PINELABS,,Technology,Software - Infrastructure,,yahoo
+PIRAMALFIN,,Financial Services,Credit Services,,yahoo
+PNB,,Financial Services,Banks - Regional,,yahoo
+PNBHOUSING,,Financial Services,Mortgage Finance,,yahoo
+PNCINFRA,,Industrials,Engineering & Construction,,yahoo
+PNGJL,,Consumer Cyclical,Luxury Goods,,yahoo
+POLICYBZR,,Financial Services,Insurance Brokers,,yahoo
+POLYCAB,,Industrials,Electrical Equipment & Parts,,yahoo
+POLYMED,,Healthcare,Medical Instruments & Supplies,,yahoo
+POONAWALLA,,Financial Services,Credit Services,,yahoo
+POWERGRID,,Utilities,Utilities - Regulated Electric,,yahoo
+POWERICA,,Industrials,Specialty Industrial Machinery,,yahoo
+POWERINDIA,,Industrials,Electrical Equipment & Parts,,yahoo
+POWERMECH,,Industrials,Engineering & Construction,,yahoo
+PPLPHARMA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+PRAJIND,,Industrials,Engineering & Construction,,yahoo
+PRECWIRE,,Industrials,Electrical Equipment & Parts,,yahoo
+PREMIERENE,,Technology,Solar,,yahoo
+PRESTIGE,,Real Estate,Real Estate - Diversified,,yahoo
+PRICOLLTD,,Consumer Cyclical,Auto Parts,,yahoo
+PRIVISCL,,Basic Materials,Specialty Chemicals,,yahoo
+PTC,,Utilities,Utilities - Independent Power Producers,,yahoo
+PTCIL,,Industrials,Metal Fabrication,,yahoo
+PURVA,,Real Estate,Real Estate - Development,,yahoo
+PVRINOX,,Communication Services,Entertainment,,yahoo
+PWL,,Consumer Defensive,Education & Training Services,,yahoo
+QPOWER,,Industrials,Electrical Equipment & Parts,,yahoo
+QUESS,,Industrials,Staffing & Employment Services,,yahoo
+RADICO,,Consumer Defensive,Beverages - Wineries & Distilleries,,yahoo
+RAILTEL,,Communication Services,Telecom Services,,yahoo
+RAIN,,Basic Materials,Specialty Chemicals,,yahoo
+RAINBOW,,Healthcare,Medical Care Facilities,,yahoo
+RALLIS,,Basic Materials,Agricultural Inputs,,yahoo
+RAMCOCEM,,Basic Materials,Building Materials,,yahoo
+RATEGAIN,,Technology,Software - Application,,yahoo
+RATNAMANI,,Basic Materials,Steel,,yahoo
+RAYMONDLSL,,Consumer Cyclical,Apparel Manufacturing,,yahoo
+RBA,,Consumer Cyclical,Restaurants,,yahoo
+RBLBANK,,Financial Services,Banks - Regional,,yahoo
+RCF,,Basic Materials,Agricultural Inputs,,yahoo
+RECLTD,,Financial Services,Credit Services,,yahoo
+REDINGTON,,Technology,Information Technology Services,,yahoo
+REFEX,,Energy,Thermal Coal,,yahoo
+RELAXO,,Consumer Cyclical,Footwear & Accessories,,yahoo
+RELIANCE,,Energy,Oil & Gas Refining & Marketing,,yahoo
+RELIGARE,,Financial Services,Insurance - Life,,yahoo
+RENUKA,,Consumer Defensive,Confectioners,,yahoo
+RESPONIND,,Basic Materials,Specialty Chemicals,,yahoo
+RHIM,,Industrials,Metal Fabrication,,yahoo
+RITES,,Industrials,Engineering & Construction,,yahoo
+RKFORGE,,Industrials,Metal Fabrication,,yahoo
+ROUTE,,Communication Services,Telecom Services,,yahoo
+RPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+RRKABEL,,Industrials,Electrical Equipment & Parts,,yahoo
+RTNPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+RUBICON,,Healthcare,Drug Manufacturers - General,,yahoo
+RVNL,,Industrials,Engineering & Construction,,yahoo
+SAFARI,,Consumer Cyclical,Footwear & Accessories,,yahoo
+SAGILITY,,Healthcare,Health Information Services,,yahoo
+SAIL,,Basic Materials,Steel,,yahoo
+SAILIFE,,Healthcare,Diagnostics & Research,,yahoo
+SAMHI,,Consumer Cyclical,Lodging,,yahoo
+SAMMAANCAP,,Financial Services,Mortgage Finance,,yahoo
+SANDUMA,,Basic Materials,Steel,,yahoo
+SANSERA,,Consumer Cyclical,Auto Parts,,yahoo
+SAPPHIRE,,Consumer Cyclical,Restaurants,,yahoo
+SARDAEN,,Basic Materials,Steel,,yahoo
+SAREGAMA,,Communication Services,Entertainment,,yahoo
+SBFC,,Financial Services,Credit Services,,yahoo
+SBICARD,,Financial Services,Credit Services,,yahoo
+SBILIFE,,Financial Services,Insurance - Life,,yahoo
+SBIN,,Financial Services,Banks - Regional,,yahoo
+SCHAEFFLER,,Consumer Cyclical,Auto Parts,,yahoo
+SCHNEIDER,,Industrials,Electrical Equipment & Parts,,yahoo
+SCI,,Industrials,Marine Shipping,,yahoo
+SEDEMAC,,Consumer Cyclical,Auto Parts,,yahoo
+SENCO,,Consumer Cyclical,Luxury Goods,,yahoo
+SENORES,,Healthcare,Drug Manufacturers - General,,yahoo
+SFL,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+SGMART,,Industrials,Industrial Distribution,,yahoo
+SHADOWFAX,,Industrials,Integrated Freight & Logistics,,yahoo
+SHAILY,,Basic Materials,Specialty Chemicals,,yahoo
+SHAKTIPUMP,,Industrials,Specialty Industrial Machinery,,yahoo
+SHARDACROP,,Basic Materials,Agricultural Inputs,,yahoo
+SHAREINDIA,,Financial Services,Capital Markets,,yahoo
+SHILCTECH,,Industrials,Electrical Equipment & Parts,,yahoo
+SHILPAMED,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+SHREECEM,,Basic Materials,Building Materials,,yahoo
+SHREEJISPG,,Industrials,Marine Shipping,,yahoo
+SHRIPISTON,,Consumer Cyclical,Auto Parts,,yahoo
+SHRIRAMFIN,,Financial Services,Credit Services,,yahoo
+SHYAMMETL,,Basic Materials,Steel,,yahoo
+SIEMENS,,Industrials,Specialty Industrial Machinery,,yahoo
+SIGMAADV,,Industrials,Aerospace & Defense,,yahoo
+SIGNATURE,,Real Estate,Real Estate - Development,,yahoo
+SJS,,Consumer Cyclical,Auto Parts,,yahoo
+SJVN,,Utilities,Utilities - Renewable,,yahoo
+SKIPPER,,Industrials,Engineering & Construction,,yahoo
+SKYGOLD,,Consumer Cyclical,Luxury Goods,,yahoo
+SMLMAH,,Consumer Cyclical,Auto Manufacturers,,yahoo
+SOBHA,,Real Estate,Real Estate - Development,,yahoo
+SOLARINDS,,Basic Materials,Specialty Chemicals,,yahoo
+SONACOMS,,Consumer Cyclical,Auto Parts,,yahoo
+SONATSOFTW,,Technology,Information Technology Services,,yahoo
+SOUTHBANK,,Financial Services,Banks - Regional,,yahoo
+SPARC,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+SPLPETRO,,Basic Materials,Specialty Chemicals,,yahoo
+SRF,,Industrials,Conglomerates,,yahoo
+STAR,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+STARHEALTH,,Financial Services,Insurance - Life,,yahoo
+STLTECH,,Technology,Communication Equipment,,yahoo
+STYLAMIND,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+SUBROS,,Consumer Cyclical,Auto Parts,,yahoo
+SUDARSCHEM,,Basic Materials,Specialty Chemicals,,yahoo
+SUDEEPPHRM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+SUMICHEM,,Basic Materials,Agricultural Inputs,,yahoo
+SUNDARMFIN,,Financial Services,Credit Services,,yahoo
+SUNDRMFAST,,Consumer Cyclical,Auto Parts,,yahoo
+SUNFLAG,,Basic Materials,Steel,,yahoo
+SUNPHARMA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+SUNTECK,,Real Estate,Real Estate - Development,,yahoo
+SUNTV,,Communication Services,Broadcasting,,yahoo
+SUPREMEIND,,Industrials,Building Products & Equipment,,yahoo
+SUPRIYA,,Healthcare,Biotechnology,,yahoo
+SURYAROSNI,,Basic Materials,Steel,,yahoo
+SUVEN,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+SUZLON,,Industrials,Specialty Industrial Machinery,,yahoo
+SWANCORP,,Industrials,Conglomerates,,yahoo
+SWIGGY,,Consumer Cyclical,Internet Retail,,yahoo
+SWSOLAR,,Technology,Solar,,yahoo
+SYNGENE,,Healthcare,Diagnostics & Research,,yahoo
+SYRMA,,Technology,Electronic Components,,yahoo
+TANLA,,Technology,Software - Application,,yahoo
+TARC,,Real Estate,Real Estate - Development,,yahoo
+TARIL,,Industrials,Electrical Equipment & Parts,,yahoo
+TATACAP,,Financial Services,Credit Services,,yahoo
+TATACHEM,,Basic Materials,Chemicals,,yahoo
+TATACOMM,,Communication Services,Telecom Services,,yahoo
+TATACONSUM,,Consumer Defensive,Packaged Foods,,yahoo
+TATAELXSI,,Technology,Software - Application,,yahoo
+TATAINVEST,,Financial Services,Asset Management,,yahoo
+TATAPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+TATASTEEL,,Basic Materials,Steel,,yahoo
+TATATECH,,Technology,Information Technology Services,,yahoo
+TBOTEK,,Consumer Cyclical,Travel Services,,yahoo
+TCS,,Technology,Information Technology Services,,yahoo
+TDPOWERSYS,,Industrials,Specialty Industrial Machinery,,yahoo
+TECHM,,Technology,Information Technology Services,,yahoo
+TECHNOE,,Industrials,Engineering & Construction,,yahoo
+TEGA,,Industrials,Specialty Industrial Machinery,,yahoo
+TEJASNET,,Technology,Communication Equipment,,yahoo
+TENNIND,,Consumer Cyclical,Auto Parts,,yahoo
+TEXRAIL,,Industrials,Railroads,,yahoo
+THANGAMAYL,,Consumer Cyclical,Luxury Goods,,yahoo
+THELEELA,,Consumer Cyclical,Lodging,,yahoo
+THERMAX,,Industrials,Conglomerates,,yahoo
+THOMASCOOK,,Consumer Cyclical,Travel Services,,yahoo
+THYROCARE,,Healthcare,Diagnostics & Research,,yahoo
+TI,,Consumer Defensive,Beverages - Wineries & Distilleries,,yahoo
+TIINDIA,,Industrials,Conglomerates,,yahoo
+TIMETECHNO,,Consumer Cyclical,Packaging & Containers,,yahoo
+TIMEX,,Consumer Cyclical,Luxury Goods,,yahoo
+TIMKEN,,Industrials,Tools & Accessories,,yahoo
+TIPSMUSIC,,Communication Services,Entertainment,,yahoo
+TITAGARH,,Industrials,Railroads,,yahoo
+TITAN,,Consumer Cyclical,Luxury Goods,,yahoo
+TMB,,Financial Services,Banks - Regional,,yahoo
+TMCV,,Consumer Cyclical,Auto Manufacturers,,yahoo
+TMPV,,Consumer Cyclical,Auto Manufacturers,,yahoo
+TORNTPHARM,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+TORNTPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+TRANSRAILL,,Industrials,Engineering & Construction,,yahoo
+TRENT,,Consumer Cyclical,Apparel Retail,,yahoo
+TRIDENT,,Consumer Cyclical,Textile Manufacturing,,yahoo
+TRITURBINE,,Industrials,Specialty Industrial Machinery,,yahoo
+TTKPRESTIG,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+TTML,,Communication Services,Telecom Services,,yahoo
+TVSMOTOR,,Consumer Cyclical,Auto Manufacturers,,yahoo
+TVSSCS,,Industrials,Integrated Freight & Logistics,,yahoo
+UBL,,Consumer Defensive,Beverages - Brewers,,yahoo
+UCOBANK,,Financial Services,Banks - Regional,,yahoo
+UJJIVANSFB,,Financial Services,Banks - Regional,,yahoo
+ULTRACEMCO,,Basic Materials,Building Materials,,yahoo
+UNIMECH,,Industrials,Aerospace & Defense,,yahoo
+UNIONBANK,,Financial Services,Banks - Regional,,yahoo
+UNITDSPR,,Consumer Defensive,Beverages - Wineries & Distilleries,,yahoo
+UNOMINDA,,Consumer Cyclical,Auto Parts,,yahoo
+UPL,,Basic Materials,Agricultural Inputs,,yahoo
+URBANCO,,Technology,Software - Application,,yahoo
+USHAMART,,Basic Materials,Steel,,yahoo
+UTIAMC,,Financial Services,Asset Management,,yahoo
+UTLSOLAR,,Technology,Solar,,yahoo
+V2RETAIL,,Consumer Cyclical,Apparel Retail,,yahoo
+VAIBHAVGBL,,Consumer Cyclical,Luxury Goods,,yahoo
+VAML,,Basic Materials,Aluminum,,yahoo
+VBL,,Consumer Defensive,Beverages - Non-Alcoholic,,yahoo
+VEDL,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+VEDPOWER,,Utilities,Utilities - Independent Power Producers,,yahoo
+VESUVIUS,,Industrials,Specialty Industrial Machinery,,yahoo
+VGUARD,,Industrials,Electrical Equipment & Parts,,yahoo
+VIJAYA,,Healthcare,Diagnostics & Research,,yahoo
+VIKRAMSOLR,,Technology,Solar,,yahoo
+VIPIND,,Consumer Cyclical,Footwear & Accessories,,yahoo
+VISL,,Basic Materials,Steel,,yahoo
+VIYASH,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+VMART,,Consumer Cyclical,Department Stores,,yahoo
+VMM,,Consumer Cyclical,Department Stores,,yahoo
+VOGL,,Basic Materials,Other Industrial Metals & Mining,,yahoo
+VOLTAMP,,Industrials,Electrical Equipment & Parts,,yahoo
+VOLTAS,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+VTL,,Consumer Cyclical,Textile Manufacturing,,yahoo
+WAAREEENER,,Technology,Solar,,yahoo
+WAAREERTL,,Industrials,Engineering & Construction,,yahoo
+WABAG,,Industrials,Engineering & Construction,,yahoo
+WAKEFIT,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+WEBELSOLAR,,Technology,Solar,,yahoo
+WELCORP,,Basic Materials,Steel,,yahoo
+WELENT,,Industrials,Engineering & Construction,,yahoo
+WELSPUNLIV,,Consumer Cyclical,Textile Manufacturing,,yahoo
+WESTLIFE,,Consumer Cyclical,Restaurants,,yahoo
+WEWORK,,Real Estate,Real Estate Services,,yahoo
+WHIRLPOOL,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",,yahoo
+WIPRO,,Technology,Information Technology Services,,yahoo
+WOCKPHARMA,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+YATHARTH,,Healthcare,Medical Care Facilities,,yahoo
+YESBANK,,Financial Services,Banks - Regional,,yahoo
+ZAGGLE,,Technology,Software - Infrastructure,,yahoo
+ZEEL,,Communication Services,Broadcasting,,yahoo
+ZENSARTECH,,Technology,Information Technology Services,,yahoo
+ZENTEC,,Industrials,Aerospace & Defense,,yahoo
+ZFCVINDIA,,Consumer Cyclical,Auto Parts,,yahoo
+ZYDUSLIFE,,Healthcare,Drug Manufacturers - Specialty & Generic,,yahoo
+ZYDUSWELL,,Consumer Defensive,Packaged Foods,,yahoo
