@@ -72,6 +72,14 @@ def parse_results_xbrl(content: bytes) -> dict:
         if e.get("contextRef") and e.text and e.text.strip():
             facts.setdefault(n, []).append((e.get("contextRef"), e.text.strip()))
 
+    # Older filings (2019-2022) often reference contexts ("OneD", "FourD") that the file never
+    # defines; their period is carried by the DateOfStart/EndOfReportingPeriod facts instead.
+    starts = {c: _date(v) for c, v in facts.get("DateOfStartOfReportingPeriod", [])}
+    ends = {c: _date(v) for c, v in facts.get("DateOfEndOfReportingPeriod", [])}
+    for ctx in set(starts) & set(ends):
+        if ctx not in contexts and starts[ctx] and ends[ctx]:
+            contexts[ctx] = (starts[ctx], ends[ctx], False)
+
     def first_text(*names):
         for name in names:
             for _, v in facts.get(name, []):
@@ -171,13 +179,45 @@ def backfill_symbol(api, symbol, last_q_end=dt.date(2024, 12, 31), save_sample=F
     return pd.DataFrame(rows), len(filings)
 
 
+def repair(budget_minutes=60):
+    """Re-download and re-parse quarters stored without a profit figure (parser improvements)."""
+    api = NseApi()
+    t0 = time.time()
+    fixed = tried = 0
+    for path in sorted(DIR.glob("*.csv")):
+        if time.time() - t0 > budget_minutes * 60:
+            break
+        df = pd.read_csv(path)
+        bad = df["net_profit"].isna() & df["source"].notna() & (df.get("repaired", 0) != 1)
+        if not bad.any():
+            continue
+        if "repaired" not in df:
+            df["repaired"] = 0
+        for i in df.index[bad]:
+            tried += 1
+            content = api.raw(df.at[i, "source"])
+            df.at[i, "repaired"] = 1
+            if not content:
+                continue
+            try:
+                r = parse_results_xbrl(content)
+            except ET.ParseError:
+                continue
+            for k in ("revenue", "net_profit", "eps"):
+                df.at[i, k] = r[k]
+            fixed += r["net_profit"] is not None
+        df.to_csv(path, index=False)
+    return fixed, tried
+
+
 def collect(budget_minutes=60, max_symbols=None):
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     symbols = [s for s in load_universe()["symbol"] if not state.get(s, {}).get("done")]
     if max_symbols:
         symbols = symbols[:max_symbols]
     if not symbols:
-        return 0, "backfill complete"
+        fixed, tried = repair(budget_minutes)
+        return fixed, f"backfill complete; repair pass fixed {fixed}/{tried} quarters"
     api = NseApi()
     t0 = time.time()
     done = rows = fails = 0

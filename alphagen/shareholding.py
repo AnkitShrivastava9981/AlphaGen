@@ -25,6 +25,14 @@ SAMPLES = DATA / "_samples"
 KEEP_QUARTERS = 6  # first fill: last six quarters, then one new quarter at a time
 
 
+def quarter_of(filing_date) -> str:
+    """NSE lists the submission date; the holding date is the last quarter-end before it."""
+    d = pd.Timestamp(filing_date)
+    if d.is_quarter_end:
+        return d.date().isoformat()
+    return (d.to_period("Q") - 1).end_time.date().isoformat()
+
+
 def walk(node, path, cats, holders):
     """Flatten jugaad-xbrl's nested shareholding dict."""
     if not isinstance(node, dict):
@@ -73,7 +81,7 @@ def _filings(api, symbol):
 
 def collect(budget_minutes=45):
     have_c = pd.read_csv(CAT) if CAT.exists() else pd.DataFrame(columns=["symbol", "quarter_end"])
-    done_keys = set(zip(have_c["symbol"], have_c["quarter_end"].astype(str)))
+    done_keys = set(zip(have_c["symbol"], have_c["quarter_end"].astype(str).map(quarter_of)))
     api = NseApi()
     t0 = time.time()
     cats_new, hold_new = [], []
@@ -92,7 +100,7 @@ def collect(budget_minutes=45):
                 break
             continue
         for q, url in filings:
-            if (sym, q.isoformat()) in done_keys:
+            if (sym, quarter_of(q)) in done_keys:
                 continue
             content = api.raw(url)
             if not content:
@@ -105,14 +113,19 @@ def collect(budget_minutes=45):
             except Exception as e:
                 log.warning("SHP parse failed %s %s: %s", sym, q, e)
                 continue
-            cats_new += [(sym, q.isoformat(), p, v) for p, v in cats]
-            hold_new += [(sym, q.isoformat(), p, n, s, v) for p, n, s, v in holders]
+            qe = quarter_of(q)
+            done_keys.add((sym, qe))
+            cats_new += [(sym, qe, p, v) for p, v in cats]
+            hold_new += [(sym, qe, p, n, s_, v) for p, n, s_, v in holders]
             n_ok += 1
     if cats_new:
         c = pd.DataFrame(cats_new, columns=["symbol", "quarter_end", "category_path", "percentage"])
         h = pd.DataFrame(hold_new, columns=["symbol", "quarter_end", "category_path", "name", "shares", "percentage"])
+        have_c["quarter_end"] = have_c["quarter_end"].astype(str).map(quarter_of)
         pd.concat([have_c, c]).to_csv(ensure(CAT), index=False)
         h0 = pd.read_csv(HOLD) if HOLD.exists() else None
+        if h0 is not None:
+            h0["quarter_end"] = h0["quarter_end"].astype(str).map(quarter_of)
         (pd.concat([h0, h]) if h0 is not None else h).to_csv(ensure(HOLD), index=False)
     if n_ok == 0 and fails:
         raise RuntimeError(f"shareholding API failing: {first_err}")

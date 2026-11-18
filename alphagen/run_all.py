@@ -2,7 +2,7 @@
 import os
 import sys
 
-from . import (classification, fundamentals, indices_pe, macro, mutual_funds, nse, prices, results_history,
+from . import (classification, fundamentals, index_archive, indices_pe, macro, mutual_funds, nse, prices, results_history,
                shareholding, universe)
 from .common import Status, log
 
@@ -34,6 +34,7 @@ def main():
     run_step(status, "macro", macro.collect)
     run_step(status, "fundamentals", fundamentals.collect, max_tickers)
     run_step(status, "index_pe_history", indices_pe.collect)
+    run_step(status, "index_archive", index_archive.collect, 15)
     run_step(status, "classification", classification.collect)
     run_step(status, "shareholding", shareholding.collect, 40)
     run_step(status, "sast", shareholding.sast)
