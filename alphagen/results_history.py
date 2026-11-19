@@ -46,8 +46,18 @@ def _date(s):
         return None
 
 
+def _quarter_start(end):
+    m = end.month - 2
+    y = end.year
+    if m <= 0:
+        m += 12
+        y -= 1
+    return dt.date(y, m, 1)
+
+
 def parse_results_xbrl(content: bytes) -> dict:
     """Namespace-agnostic extraction of one quarter's headline numbers from a results XBRL."""
+    content = content.lstrip(b"\xef\xbb\xbf \r\n\t")
     root = ET.fromstring(content)
     contexts = {}
     for c in root.iter():
@@ -79,6 +89,14 @@ def parse_results_xbrl(content: bytes) -> dict:
     for ctx in set(starts) & set(ends):
         if ctx not in contexts and starts[ctx] and ends[ctx]:
             contexts[ctx] = (starts[ctx], ends[ctx], False)
+    # Last resort: undefined "One…D" contexts are the current quarter in NSE's old template.
+    rp_start = next((v for v in starts.values() if v), None)
+    rp_end = next((v for v in ends.values() if v), None)
+    if rp_start and rp_end:
+        for name in facts:
+            for ctx, _ in facts[name]:
+                if ctx not in contexts and ctx.startswith("One") and ctx.endswith("D") and ctx[3:-1] in ("", "Q"):
+                    contexts[ctx] = (_quarter_start(rp_end), rp_end, False)
 
     def first_text(*names):
         for name in names:
@@ -179,8 +197,21 @@ def backfill_symbol(api, symbol, last_q_end=dt.date(2024, 12, 31), save_sample=F
     return pd.DataFrame(rows), len(filings)
 
 
+_DIAG = {}
+
+
+def note(reason, kind, src, content):
+    """Keep two raw examples of each failure type so the parser can be fixed from real files."""
+    key = f"{reason}_{kind}"
+    _DIAG[key] = _DIAG.get(key, 0) + 1
+    if _DIAG[key] <= 2:
+        name = src.rsplit("/", 1)[-1]
+        ensure(SAMPLES / "failed" / f"{key}__{name}").write_bytes(content or src.encode())
+
+
 def repair(budget_minutes=60):
-    """Re-download and re-parse quarters stored without a profit figure (parser improvements)."""
+    """Re-download and re-parse quarters stored without a profit figure (parser improvements).
+    Rows are re-tried each run until they parse; failures leave raw samples in data/_samples/failed."""
     api = NseApi()
     t0 = time.time()
     fixed = tried = 0
@@ -188,23 +219,29 @@ def repair(budget_minutes=60):
         if time.time() - t0 > budget_minutes * 60:
             break
         df = pd.read_csv(path)
-        bad = df["net_profit"].isna() & df["source"].notna() & (df.get("repaired", 0) != 1)
+        bad = df["net_profit"].isna() & df["source"].notna()
         if not bad.any():
             continue
         if "repaired" not in df:
             df["repaired"] = 0
         for i in df.index[bad]:
             tried += 1
-            content = api.raw(df.at[i, "source"])
-            df.at[i, "repaired"] = 1
+            src = df.at[i, "source"]
+            content = api.raw(src)
+            kind = src.rsplit("/", 1)[-1].split("_")[0]
             if not content:
+                note("download_failed", kind, src, b"")
                 continue
             try:
                 r = parse_results_xbrl(content)
             except ET.ParseError:
+                note("parse_error", kind, src, content)
                 continue
+            df.at[i, "repaired"] = 1
             for k in ("revenue", "net_profit", "eps"):
                 df.at[i, k] = r[k]
+            if r["net_profit"] is None:
+                note("no_profit", kind, src, content)
             fixed += r["net_profit"] is not None
         df.to_csv(path, index=False)
     return fixed, tried
@@ -217,7 +254,8 @@ def collect(budget_minutes=60, max_symbols=None):
         symbols = symbols[:max_symbols]
     if not symbols:
         fixed, tried = repair(budget_minutes)
-        return fixed, f"backfill complete; repair pass fixed {fixed}/{tried} quarters"
+        diag = ", ".join(f"{k}:{v}" for k, v in sorted(_DIAG.items()))
+        return fixed, f"backfill complete; repair fixed {fixed}/{tried} quarters" + (f"; failures {diag}" if diag else "")
     api = NseApi()
     t0 = time.time()
     done = rows = fails = 0
