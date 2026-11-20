@@ -1,9 +1,9 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2021-07-01,2021-09-30,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76663_545255_23102021020031_WEB.xml,0
-2021-10-01,2021-12-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80743_600462_29012022105658_WEB.xml,0
-2022-01-01,2022-03-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84232_652954_11052022023255_WEB.xml,0
+2021-07-01,2021-09-30,consolidated,1719502000.0,0.0,8.85,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76663_545255_23102021020031_WEB.xml,1
+2021-10-01,2021-12-31,consolidated,1687103000.0,155907000.0,9.23,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80743_600462_29012022105658_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,1796852000.0,166108000.0,9.78,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84232_652954_11052022023255_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,2349935000.0,209857000.0,12.38,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_593666_4004_20072022154516_WEB.xml,0
-2022-10-01,2022-12-31,consolidated,,,,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87520_772672_19012023125155_WEB.xml,0
+2022-10-01,2022-12-31,consolidated,2339787000.0,240307000.0,14.18,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87520_772672_19012023125155_WEB.xml,1
 2023-01-01,2023-03-31,consolidated,2368259000.0,267900000.0,15.81,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_91285_838322_06052023123758.xml,0
 2023-04-01,2023-06-30,consolidated,2256820000.0,0.0,16.39,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_95536_909986_07082023045734.xml,0
 2023-07-01,2023-09-30,consolidated,2339401000.0,0.0,18.73,STYLAMIND,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98968_977790_06112023062238.xml,0

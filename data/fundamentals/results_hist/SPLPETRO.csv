@@ -1,7 +1,7 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
 2022-04-01,2022-06-30,standalone,14853961000.0,1890900000.0,20.11,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_600092_4150_23072022145429_WEB.xml,0
 2022-07-01,2022-09-30,standalone,12345767000.0,596475000.0,6.34,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_805915_6689_28102022170855_WEB.xml,0
-2022-10-01,2022-12-31,standalone,,,,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87755_778194_25012023105404_WEB.xml,0
+2022-10-01,2022-12-31,standalone,11803787000.0,895934000.0,9.53,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87755_778194_25012023105404_WEB.xml,1
 2023-01-01,2023-03-31,standalone,13868532000.0,1598069000.0,8.5,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_90873_833503_26042023100633.xml,0
 2023-04-01,2023-06-30,standalone,12251463000.0,692629000.0,3.68,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_94820_902699_28072023043233.xml,0
 2023-07-01,2023-09-30,standalone,12776746000.0,780554000.0,4.15,SPLPETRO,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_98166_970185_28102023050634.xml,0

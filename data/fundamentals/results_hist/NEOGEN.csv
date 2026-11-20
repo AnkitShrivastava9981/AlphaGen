@@ -1,8 +1,8 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-04-01,2019-06-30,standalone,,,,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_47190_129803_09082019073911_WEB.xml,1
-2019-10-01,2019-12-31,consolidated,,,,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_53015_217162_08022020063759_WEB.xml,1
-2020-01-01,2020-03-31,consolidated,,,,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_55326_260900_24052020011348_WEB.xml,1
-2020-04-01,2020-06-30,consolidated,,,,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_59690_304402_08082020074322_WEB.xml,1
+2019-04-01,2019-06-30,standalone,644418000.0,54912000.0,2.35,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_47190_129803_09082019073911_WEB.xml,1
+2019-10-01,2019-12-31,consolidated,822948000.0,0.0,3.46,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_53015_217162_08022020063759_WEB.xml,1
+2020-01-01,2020-03-31,consolidated,822992000.0,0.0,3.13,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_55326_260900_24052020011348_WEB.xml,1
+2020-04-01,2020-06-30,consolidated,765906000.0,0.0,2.62,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_59690_304402_08082020074322_WEB.xml,1
 2020-07-01,2020-09-30,consolidated,819504000.0,0.0,3.16,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_63624_356699_07112020084018_WEB.xml,1
 2020-10-01,2020-12-31,consolidated,851785000.0,0.0,3.66,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_69052_409793_13022021060333_WEB.xml,1
 2021-01-01,2021-03-31,consolidated,926961000.0,93231000.0,3.99,NEOGEN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70693_453326_29052021104521_WEB.xml,1
