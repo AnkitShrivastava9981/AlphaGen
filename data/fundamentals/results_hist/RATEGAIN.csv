@@ -1,6 +1,6 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2021-10-01,2021-12-31,consolidated,,,,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82559_608928_12022022024730_WEB.xml,1
-2022-01-01,2022-03-31,consolidated,,,,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84649_655830_17052022072159_WEB.xml,1
+2021-10-01,2021-12-31,consolidated,990090000.0,0.0,0.01,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82559_608928_12022022024730_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,1078770000.0,116100000.0,1.09,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_84649_655830_17052022072159_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,1193010000.0,0.0,0.78,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_620100_4087_01082022193415_WEB.xml,0
 2022-07-01,2022-09-30,consolidated,1246080000.0,0.0,1.2,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_845485_6582_08112022120946_WEB.xml,0
 2022-10-01,2022-12-31,consolidated,1382870000.0,132340000.0,1.23,RATEGAIN,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89565_791618_10022023080747.xml,0

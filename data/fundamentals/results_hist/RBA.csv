@@ -1,10 +1,10 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2020-10-01,2020-12-31,standalone,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_67679_404889_10022021031221_WEB.xml,1
-2021-01-01,2021-03-31,standalone,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70489_451898_27052021033052_WEB.xml,1
-2021-04-01,2021-06-30,standalone,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_75552_506170_13082021051658_WEB.xml,1
-2021-07-01,2021-09-30,standalone,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79021_557114_12112021085124_WEB.xml,1
-2021-10-01,2021-12-31,standalone,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80415_598371_24012022071648_WEB.xml,1
-2022-01-01,2022-03-31,consolidated,,,,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86812_669765_31052022025550_WEB.xml,1
+2020-10-01,2020-12-31,standalone,1631910000.0,-290260000.0,-0.98,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_67679_404889_10022021031221_WEB.xml,1
+2021-01-01,2021-03-31,standalone,1960530000.0,-259400000.0,-0.68,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70489_451898_27052021033052_WEB.xml,1
+2021-04-01,2021-06-30,standalone,1497280000.0,-443500000.0,-1.16,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_75552_506170_13082021051658_WEB.xml,1
+2021-07-01,2021-09-30,standalone,2453950000.0,-202310000.0,-0.53,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79021_557114_12112021085124_WEB.xml,1
+2021-10-01,2021-12-31,standalone,2798910000.0,-151570000.0,-0.39,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_80415_598371_24012022071648_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,3997900000.0,-670740000.0,-1.53,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_86812_669765_31052022025550_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,4892220000.0,-475030000.0,-0.96,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_659685_3939_12082022195705_WEB.xml,0
 2022-07-01,2022-09-30,consolidated,5247670000.0,-499450000.0,-1.01,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_862782_6413_11112022202458_WEB.xml,0
 2022-10-01,2022-12-31,consolidated,5263390000.0,-504170000.0,-1.02,RBA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89044_789042_08022023080557.xml,0

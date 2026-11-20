@@ -1,5 +1,5 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2022-10-01,2022-12-31,standalone,,,,FIVESTAR,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_88031_780100_28012023065952_WEB.xml,1
+2022-10-01,2022-12-31,standalone,3865426000.0,1510022000.0,5.18,FIVESTAR,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_88031_780100_28012023065952_WEB.xml,1
 2023-01-01,2023-03-31,standalone,4392863000.0,1688835000.0,5.79,FIVESTAR,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_91463_840121_10052023034538.xml,0
 2023-04-01,2023-06-30,standalone,4803705000.0,1837088000.0,6.3,FIVESTAR,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_94887_903559_29072023031929.xml,0
 2023-07-01,2023-09-30,standalone,5223650000.0,1993893000.0,6.85,FIVESTAR,https://nsearchives.nseindia.in/corporate/xbrl/NBFC_INDAS_98338_972570_31102023064723.xml,0

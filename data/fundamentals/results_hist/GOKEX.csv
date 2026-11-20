@@ -1,6 +1,6 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-07-01,2019-09-30,consolidated,,,,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51048_172061_15112019044356_WEB.xml,1
-2019-10-01,2019-12-31,consolidated,,,,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_52380_214635_04022020072539_WEB.xml,1
+2019-07-01,2019-09-30,consolidated,3618750000.0,0.0,0.95,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51048_172061_15112019044356_WEB.xml,1
+2019-10-01,2019-12-31,consolidated,3220297000.0,0.0,-3.12,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_52380_214635_04022020072539_WEB.xml,1
 2020-01-01,2020-03-31,consolidated,3559151000.0,0.0,1.39,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56723_269807_26062020093225_WEB.xml,1
 2020-04-01,2020-06-30,consolidated,2339108000.0,0.0,0.99,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_58523_298870_29072020072206_WEB.xml,1
 2020-07-01,2020-09-30,consolidated,3405383000.0,0.0,2.02,GOKEX,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_62304_349618_22102020062530_WEB.xml,1

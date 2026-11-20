@@ -1,6 +1,6 @@
 {
-  "started_ist": "2026-11-19T03:17:23+05:30",
-  "finished_ist": "2026-11-19T05:51:46+05:30",
+  "started_ist": "2026-11-20T03:15:38+05:30",
+  "finished_ist": "2026-11-20T05:51:03+05:30",
   "steps": {
     "index_pe_history": {
       "ok": true,
@@ -9,8 +9,8 @@
     },
     "index_archive": {
       "ok": true,
-      "rows": 0,
-      "note": "0 new days, 0 days left, 96 holidays/missing"
+      "rows": 169,
+      "note": "1 new days, 0 days left, 96 holidays/missing"
     },
     "classification": {
       "ok": true,
@@ -24,8 +24,8 @@
     },
     "results_history": {
       "ok": true,
-      "rows": 1256,
-      "note": "backfill complete; repair pass fixed 1256/1892 quarters"
+      "rows": 1125,
+      "note": "backfill complete; repair fixed 1125/1894 quarters; failures download_failed_BANKING:140, download_failed_INDAS:394, download_failed_NBFC:40, no_profit_BANKING:193, no_profit_NONINDAS:2"
     }
   }
 }
