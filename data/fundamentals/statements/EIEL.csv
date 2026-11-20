@@ -76,43 +76,52 @@ EIEL,Q,income,Basic EPS,2025-06-30,2.39
 EIEL,Q,income,Basic EPS,2025-12-31,2.3
 EIEL,Q,income,Basic EPS,2026-03-31,2.96
 EIEL,Q,income,Basic EPS,2026-06-30,2.27
+EIEL,Q,income,Basic EPS,2026-09-30,2.36
 EIEL,Q,income,Diluted EPS,2025-03-31,4.89
 EIEL,Q,income,Diluted EPS,2025-06-30,2.39
 EIEL,Q,income,Diluted EPS,2025-12-31,2.3
 EIEL,Q,income,Diluted EPS,2026-03-31,2.96
 EIEL,Q,income,Diluted EPS,2026-06-30,2.27
+EIEL,Q,income,Diluted EPS,2026-09-30,2.36
 EIEL,Q,income,EBITDA,2025-03-31,1101817000.0
 EIEL,Q,income,EBITDA,2025-06-30,675342000.0
 EIEL,Q,income,EBITDA,2025-12-31,762327000.0
 EIEL,Q,income,EBITDA,2026-03-31,912382000.0
 EIEL,Q,income,EBITDA,2026-06-30,816949000.0
+EIEL,Q,income,EBITDA,2026-09-30,832249000.0
 EIEL,Q,income,Interest Expense,2025-03-31,80823000.0
 EIEL,Q,income,Interest Expense,2025-06-30,70485000.0
 EIEL,Q,income,Interest Expense,2025-12-31,99966000.0
 EIEL,Q,income,Interest Expense,2026-03-31,115895000.0
 EIEL,Q,income,Interest Expense,2026-06-30,144594000.0
+EIEL,Q,income,Interest Expense,2026-09-30,180081000.0
 EIEL,Q,income,Net Income,2025-03-31,732417000.0
 EIEL,Q,income,Net Income,2025-06-30,418962000.0
 EIEL,Q,income,Net Income,2025-12-31,404095000.0
 EIEL,Q,income,Net Income,2026-03-31,519236000.0
 EIEL,Q,income,Net Income,2026-06-30,398266000.0
+EIEL,Q,income,Net Income,2026-09-30,414176000.0
 EIEL,Q,income,Net Income Common Stockholders,2025-03-31,732417000.0
 EIEL,Q,income,Net Income Common Stockholders,2025-06-30,418962000.0
 EIEL,Q,income,Net Income Common Stockholders,2025-12-31,404095000.0
 EIEL,Q,income,Net Income Common Stockholders,2026-03-31,519236000.0
 EIEL,Q,income,Net Income Common Stockholders,2026-06-30,398266000.0
+EIEL,Q,income,Net Income Common Stockholders,2026-09-30,414176000.0
 EIEL,Q,income,Operating Income,2025-03-31,967057000.0
 EIEL,Q,income,Operating Income,2025-06-30,609652000.0
 EIEL,Q,income,Operating Income,2025-12-31,597634000.0
 EIEL,Q,income,Operating Income,2026-03-31,713142000.0
 EIEL,Q,income,Operating Income,2026-06-30,669805000.0
+EIEL,Q,income,Operating Income,2026-09-30,650390000.0
 EIEL,Q,income,Pretax Income,2025-03-31,993749000.0
 EIEL,Q,income,Pretax Income,2025-06-30,572392000.0
 EIEL,Q,income,Pretax Income,2025-12-31,582517000.0
 EIEL,Q,income,Pretax Income,2026-03-31,710534000.0
 EIEL,Q,income,Pretax Income,2026-06-30,585299000.0
+EIEL,Q,income,Pretax Income,2026-09-30,554006000.0
 EIEL,Q,income,Total Revenue,2025-03-31,3929163000.0
 EIEL,Q,income,Total Revenue,2025-06-30,2409202000.0
 EIEL,Q,income,Total Revenue,2025-12-31,2500178000.0
 EIEL,Q,income,Total Revenue,2026-03-31,4273137000.0
 EIEL,Q,income,Total Revenue,2026-06-30,3591835000.0
+EIEL,Q,income,Total Revenue,2026-09-30,3637697000.0

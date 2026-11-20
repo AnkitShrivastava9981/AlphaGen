@@ -1,8 +1,8 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-04-01,2019-06-30,standalone,,,,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_46359_126071_29072019040806_WEB.xml,1
-2019-10-01,2019-12-31,standalone,,,,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51702_210647_24012020045015_WEB.xml,1
-2020-01-01,2020-03-31,standalone,,,,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56184_267186_20062020094816_WEB.xml,1
-2020-04-01,2020-06-30,standalone,,,,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61330_316167_12092020015603_WEB.xml,1
+2019-04-01,2019-06-30,standalone,330292000.0,14995000.0,0.02,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_46359_126071_29072019040806_WEB.xml,1
+2019-10-01,2019-12-31,standalone,424960000.0,5996000.0,0.01,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51702_210647_24012020045015_WEB.xml,1
+2020-01-01,2020-03-31,standalone,245024000.0,-1154000.0,0.0,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56184_267186_20062020094816_WEB.xml,1
+2020-04-01,2020-06-30,standalone,99924000.0,2833000.0,0.0,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61330_316167_12092020015603_WEB.xml,1
 2020-07-01,2020-09-30,standalone,163819000.0,5834000.0,0.01,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_64670_360281_12112020034350_WEB.xml,1
 2020-10-01,2020-12-31,standalone,394924000.0,8734000.0,0.01,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_67752_405198_10022021055727_WEB.xml,1
 2021-01-01,2021-03-31,standalone,41842000.0,-12364000.0,-0.01,LLOYDSENGG,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70807_454143_01062021011841_WEB.xml,1

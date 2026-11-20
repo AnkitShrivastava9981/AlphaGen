@@ -72,47 +72,56 @@ HCC,A,income,Total Revenue,2024-03-31,66282100000.0
 HCC,A,income,Total Revenue,2025-03-31,54051300000.0
 HCC,A,income,Total Revenue,2026-03-31,36635600000.0
 HCC,Q,income,Basic EPS,2025-06-30,0.25
-HCC,Q,income,Basic EPS,2025-09-30,0.218785
+HCC,Q,income,Basic EPS,2025-09-30,0.23
 HCC,Q,income,Basic EPS,2025-12-31,0.04
 HCC,Q,income,Basic EPS,2026-03-31,0.27
 HCC,Q,income,Basic EPS,2026-06-30,0.19
+HCC,Q,income,Basic EPS,2026-09-30,0.09
 HCC,Q,income,Diluted EPS,2025-06-30,0.25
-HCC,Q,income,Diluted EPS,2025-09-30,0.218785
+HCC,Q,income,Diluted EPS,2025-09-30,0.23
 HCC,Q,income,Diluted EPS,2025-12-31,0.04
 HCC,Q,income,Diluted EPS,2026-03-31,0.27
 HCC,Q,income,Diluted EPS,2026-06-30,0.19
+HCC,Q,income,Diluted EPS,2026-09-30,0.09
 HCC,Q,income,EBITDA,2025-03-31,3069500000.0
 HCC,Q,income,EBITDA,2025-06-30,2068000000.0
 HCC,Q,income,EBITDA,2025-12-31,1432400000.0
 HCC,Q,income,EBITDA,2026-03-31,2017900000.0
 HCC,Q,income,EBITDA,2026-06-30,1672000000.0
+HCC,Q,income,EBITDA,2026-09-30,1311600000.0
 HCC,Q,income,Interest Expense,2025-03-31,1113600000.0
 HCC,Q,income,Interest Expense,2025-06-30,1219200000.0
 HCC,Q,income,Interest Expense,2025-12-31,1229500000.0
 HCC,Q,income,Interest Expense,2026-03-31,1046500000.0
 HCC,Q,income,Interest Expense,2026-06-30,868400000.0
+HCC,Q,income,Interest Expense,2026-09-30,894700000.0
 HCC,Q,income,Net Income,2025-03-31,900800000.0
 HCC,Q,income,Net Income,2025-06-30,507300000.0
 HCC,Q,income,Net Income,2025-12-31,80700000.0
 HCC,Q,income,Net Income,2026-03-31,589400000.0
 HCC,Q,income,Net Income,2026-06-30,510800000.0
+HCC,Q,income,Net Income,2026-09-30,225600000.0
 HCC,Q,income,Net Income Common Stockholders,2025-03-31,900800000.0
 HCC,Q,income,Net Income Common Stockholders,2025-06-30,507300000.0
 HCC,Q,income,Net Income Common Stockholders,2025-12-31,80700000.0
 HCC,Q,income,Net Income Common Stockholders,2026-03-31,589400000.0
 HCC,Q,income,Net Income Common Stockholders,2026-06-30,510800000.0
+HCC,Q,income,Net Income Common Stockholders,2026-09-30,225600000.0
 HCC,Q,income,Operating Income,2025-03-31,4071500000.0
 HCC,Q,income,Operating Income,2025-06-30,1679100000.0
 HCC,Q,income,Operating Income,2025-12-31,622900000.0
 HCC,Q,income,Operating Income,2026-03-31,1655700000.0
 HCC,Q,income,Operating Income,2026-06-30,986800000.0
+HCC,Q,income,Operating Income,2026-09-30,963200000.0
 HCC,Q,income,Pretax Income,2025-03-31,1732500000.0
 HCC,Q,income,Pretax Income,2025-06-30,733200000.0
 HCC,Q,income,Pretax Income,2025-12-31,153900000.0
 HCC,Q,income,Pretax Income,2026-03-31,919600000.0
 HCC,Q,income,Pretax Income,2026-06-30,744000000.0
+HCC,Q,income,Pretax Income,2026-09-30,352400000.0
 HCC,Q,income,Total Revenue,2025-03-31,13737000000.0
 HCC,Q,income,Total Revenue,2025-06-30,10913300000.0
 HCC,Q,income,Total Revenue,2025-12-31,9253200000.0
 HCC,Q,income,Total Revenue,2026-03-31,9922000000.0
 HCC,Q,income,Total Revenue,2026-06-30,9934200000.0
+HCC,Q,income,Total Revenue,2026-09-30,8968300000.0

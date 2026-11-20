@@ -72,43 +72,57 @@ ABB,Q,income,Basic EPS,2025-06-30,16.6
 ABB,Q,income,Basic EPS,2025-12-31,20.43
 ABB,Q,income,Basic EPS,2026-03-31,84.18
 ABB,Q,income,Basic EPS,2026-06-30,17.09
+ABB,Q,income,Basic EPS,2026-09-30,20.89
 ABB,Q,income,Diluted EPS,2025-03-31,22.4
 ABB,Q,income,Diluted EPS,2025-06-30,16.6
 ABB,Q,income,Diluted EPS,2025-12-31,20.43
 ABB,Q,income,Diluted EPS,2026-03-31,84.18
 ABB,Q,income,Diluted EPS,2026-06-30,17.09
+ABB,Q,income,Diluted EPS,2026-09-30,20.89
 ABB,Q,income,EBITDA,2025-03-31,6519300000.0
 ABB,Q,income,EBITDA,2025-06-30,5009100000.0
+ABB,Q,income,EBITDA,2025-09-30,5696100000.0
 ABB,Q,income,EBITDA,2025-12-31,6225800000.0
 ABB,Q,income,EBITDA,2026-03-31,5080400000.0
 ABB,Q,income,EBITDA,2026-06-30,5397100000.0
+ABB,Q,income,EBITDA,2026-09-30,6303300000.0
 ABB,Q,income,Interest Expense,2025-03-31,46900000.0
 ABB,Q,income,Interest Expense,2025-06-30,41800000.0
+ABB,Q,income,Interest Expense,2025-09-30,55700000.0
 ABB,Q,income,Interest Expense,2025-12-31,53500000.0
 ABB,Q,income,Interest Expense,2026-03-31,38100000.0
 ABB,Q,income,Interest Expense,2026-06-30,17100000.0
+ABB,Q,income,Interest Expense,2026-09-30,54200000.0
 ABB,Q,income,Net Income,2025-03-31,4746300000.0
 ABB,Q,income,Net Income,2025-06-30,3517400000.0
 ABB,Q,income,Net Income,2025-12-31,4328500000.0
 ABB,Q,income,Net Income,2026-03-31,17836500000.0
 ABB,Q,income,Net Income,2026-06-30,3623000000.0
+ABB,Q,income,Net Income,2026-09-30,4425200000.0
 ABB,Q,income,Net Income Common Stockholders,2025-03-31,4746300000.0
 ABB,Q,income,Net Income Common Stockholders,2025-06-30,3517400000.0
 ABB,Q,income,Net Income Common Stockholders,2025-12-31,4328500000.0
 ABB,Q,income,Net Income Common Stockholders,2026-03-31,17836500000.0
 ABB,Q,income,Net Income Common Stockholders,2026-06-30,3623000000.0
+ABB,Q,income,Net Income Common Stockholders,2026-09-30,4425200000.0
 ABB,Q,income,Operating Income,2025-03-31,5260200000.0
 ABB,Q,income,Operating Income,2025-06-30,3658100000.0
+ABB,Q,income,Operating Income,2025-09-30,4492600000.0
 ABB,Q,income,Operating Income,2025-12-31,5066100000.0
 ABB,Q,income,Operating Income,2026-03-31,3660400000.0
 ABB,Q,income,Operating Income,2026-06-30,4078100000.0
+ABB,Q,income,Operating Income,2026-09-30,5077100000.0
 ABB,Q,income,Pretax Income,2025-03-31,6136600000.0
 ABB,Q,income,Pretax Income,2025-06-30,4613800000.0
+ABB,Q,income,Pretax Income,2025-09-30,5276400000.0
 ABB,Q,income,Pretax Income,2025-12-31,5775900000.0
 ABB,Q,income,Pretax Income,2026-03-31,4618700000.0
 ABB,Q,income,Pretax Income,2026-06-30,4987700000.0
+ABB,Q,income,Pretax Income,2026-09-30,5806400000.0
 ABB,Q,income,Total Revenue,2025-03-31,29901900000.0
 ABB,Q,income,Total Revenue,2025-06-30,29095600000.0
+ABB,Q,income,Total Revenue,2025-09-30,31047300000.0
 ABB,Q,income,Total Revenue,2025-12-31,34957900000.0
 ABB,Q,income,Total Revenue,2026-03-31,31624100000.0
 ABB,Q,income,Total Revenue,2026-06-30,35210300000.0
+ABB,Q,income,Total Revenue,2026-09-30,37019300000.0

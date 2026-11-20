@@ -10,7 +10,7 @@ GPIL,A,balance,Ordinary Shares Number,2024-03-31,657224940.0
 GPIL,A,balance,Ordinary Shares Number,2025-03-31,646474940.0
 GPIL,A,balance,Ordinary Shares Number,2026-03-31,648864910.0
 GPIL,A,balance,Stockholders Equity,2023-03-31,39054524000.0
-GPIL,A,balance,Stockholders Equity,2024-03-31,44958846000.0
+GPIL,A,balance,Stockholders Equity,2024-03-31,44958844000.0
 GPIL,A,balance,Stockholders Equity,2025-03-31,49059846000.0
 GPIL,A,balance,Stockholders Equity,2026-03-31,58081590000.0
 GPIL,A,balance,Total Assets,2023-03-31,51593642000.0
@@ -74,43 +74,52 @@ GPIL,Q,income,Basic EPS,2025-09-30,2.63
 GPIL,Q,income,Basic EPS,2025-12-31,2.33
 GPIL,Q,income,Basic EPS,2026-03-31,4.56
 GPIL,Q,income,Basic EPS,2026-06-30,3.59
+GPIL,Q,income,Basic EPS,2026-09-30,1.38
 GPIL,Q,income,Diluted EPS,2025-06-30,3.5
 GPIL,Q,income,Diluted EPS,2025-09-30,2.61
 GPIL,Q,income,Diluted EPS,2025-12-31,2.25
 GPIL,Q,income,Diluted EPS,2026-03-31,4.4
 GPIL,Q,income,Diluted EPS,2026-06-30,3.48
+GPIL,Q,income,Diluted EPS,2026-09-30,1.32
 GPIL,Q,income,EBITDA,2025-06-30,3496500000.0
-GPIL,Q,income,EBITDA,2025-09-30,2831000000.0
+GPIL,Q,income,EBITDA,2025-09-30,2831100000.0
 GPIL,Q,income,EBITDA,2025-12-31,2448900000.0
 GPIL,Q,income,EBITDA,2026-03-31,4574700000.0
 GPIL,Q,income,EBITDA,2026-06-30,3722000000.0
+GPIL,Q,income,EBITDA,2026-09-30,1974300000.0
 GPIL,Q,income,Interest Expense,2025-06-30,152500000.0
 GPIL,Q,income,Interest Expense,2025-09-30,112400000.0
 GPIL,Q,income,Interest Expense,2025-12-31,125200000.0
 GPIL,Q,income,Interest Expense,2026-03-31,194500000.0
 GPIL,Q,income,Interest Expense,2026-06-30,203300000.0
+GPIL,Q,income,Interest Expense,2026-09-30,247800000.0
 GPIL,Q,income,Net Income,2025-06-30,2159600000.0
 GPIL,Q,income,Net Income,2025-09-30,1614400000.0
 GPIL,Q,income,Net Income,2025-12-31,1432500000.0
 GPIL,Q,income,Net Income,2026-03-31,2800900000.0
 GPIL,Q,income,Net Income,2026-06-30,2217400000.0
+GPIL,Q,income,Net Income,2026-09-30,847000000.0
 GPIL,Q,income,Net Income Common Stockholders,2025-06-30,2159600000.0
 GPIL,Q,income,Net Income Common Stockholders,2025-09-30,1614400000.0
 GPIL,Q,income,Net Income Common Stockholders,2025-12-31,1432500000.0
 GPIL,Q,income,Net Income Common Stockholders,2026-03-31,2800900000.0
 GPIL,Q,income,Net Income Common Stockholders,2026-06-30,2217400000.0
+GPIL,Q,income,Net Income Common Stockholders,2026-09-30,847000000.0
 GPIL,Q,income,Operating Income,2025-06-30,2802200000.0
 GPIL,Q,income,Operating Income,2025-09-30,2188300000.0
 GPIL,Q,income,Operating Income,2025-12-31,1850700000.0
 GPIL,Q,income,Operating Income,2026-03-31,3906200000.0
 GPIL,Q,income,Operating Income,2026-06-30,2836800000.0
+GPIL,Q,income,Operating Income,2026-09-30,1437400000.0
 GPIL,Q,income,Pretax Income,2025-06-30,2905300000.0
-GPIL,Q,income,Pretax Income,2025-09-30,2305500000.0
+GPIL,Q,income,Pretax Income,2025-09-30,2305600000.0
 GPIL,Q,income,Pretax Income,2025-12-31,1876000000.0
 GPIL,Q,income,Pretax Income,2026-03-31,3896300000.0
 GPIL,Q,income,Pretax Income,2026-06-30,3018200000.0
+GPIL,Q,income,Pretax Income,2026-09-30,1204100000.0
 GPIL,Q,income,Total Revenue,2025-06-30,13232500000.0
 GPIL,Q,income,Total Revenue,2025-09-30,13076800000.0
 GPIL,Q,income,Total Revenue,2025-12-31,11394500000.0
 GPIL,Q,income,Total Revenue,2026-03-31,16102700000.0
 GPIL,Q,income,Total Revenue,2026-06-30,17504700000.0
+GPIL,Q,income,Total Revenue,2026-09-30,16315300000.0

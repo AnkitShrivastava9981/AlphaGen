@@ -1,7 +1,57 @@
 {
-  "started_ist": "2026-11-20T03:15:38+05:30",
-  "finished_ist": "2026-11-20T05:51:03+05:30",
+  "started_ist": "2026-11-20T20:53:27+05:30",
+  "finished_ist": "2026-11-20T22:48:32+05:30",
   "steps": {
+    "universe": {
+      "ok": true,
+      "rows": 750,
+      "note": "ok"
+    },
+    "prices": {
+      "ok": true,
+      "rows": 27144,
+      "note": "776/777 tickers; incremental"
+    },
+    "nse_delivery": {
+      "ok": true,
+      "rows": 3715,
+      "note": "5 new day files"
+    },
+    "nse_fo": {
+      "ok": true,
+      "rows": 1120,
+      "note": "5 new day files"
+    },
+    "nse_participant_oi": {
+      "ok": true,
+      "rows": 25,
+      "note": "5 new day files"
+    },
+    "nse_fii_dii": {
+      "ok": true,
+      "rows": 4,
+      "note": "running history"
+    },
+    "nse_deals": {
+      "ok": true,
+      "rows": 140,
+      "note": "bulk-deals: 7-day API ok; block-deals: 7-day API ok"
+    },
+    "mutual_funds": {
+      "ok": true,
+      "rows": 743,
+      "note": "4146 schemes in master; 743 tracked; appended latest NAVs; backfilled 0 new funds"
+    },
+    "macro": {
+      "ok": true,
+      "rows": 0,
+      "note": "FRED not reachable from GitHub - skipped (Yahoo covers yields, dollar, INR, crude)"
+    },
+    "fundamentals": {
+      "ok": true,
+      "rows": 749,
+      "note": "749/750 stocks"
+    },
     "index_pe_history": {
       "ok": true,
       "rows": 26,
@@ -9,23 +59,28 @@
     },
     "index_archive": {
       "ok": true,
-      "rows": 169,
-      "note": "1 new days, 0 days left, 96 holidays/missing"
+      "rows": 146,
+      "note": "1 new days, 53 days left, 42 holidays/missing"
     },
     "classification": {
       "ok": true,
-      "rows": 753,
-      "note": "NSE quote API blocked (https://www.nseindia.com/api/quote-equity?symbol=AEGISLOG -> HTTP 403 [curl_cffi); used Yahoo industry for 753"
+      "rows": 750,
+      "note": "NSE quote API blocked (https://www.nseindia.com/api/quote-equity?symbol=AEGISLOG -> HTTP 403 [curl_cffi); used Yahoo industry for 750"
     },
     "shareholding": {
       "ok": true,
       "rows": 0,
       "note": "0 new filings parsed, 0 errors"
     },
+    "sast": {
+      "ok": true,
+      "rows": 161,
+      "note": "/api/corporate-sast-reg29"
+    },
     "results_history": {
       "ok": true,
-      "rows": 1125,
-      "note": "backfill complete; repair fixed 1125/1894 quarters; failures download_failed_BANKING:140, download_failed_INDAS:394, download_failed_NBFC:40, no_profit_BANKING:193, no_profit_NONINDAS:2"
+      "rows": 322,
+      "note": "backfill complete; repair fixed 322/843 quarters; failures download_failed_BANKING:55, download_failed_INDAS:177, download_failed_NBFC:9, download_failed_NONINDAS:1, no_profit_BANKING:278, no_profit_NONINDAS:1"
     }
   }
 }

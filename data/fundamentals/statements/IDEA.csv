@@ -76,43 +76,52 @@ IDEA,Q,income,Basic EPS,2025-09-30,-0.51
 IDEA,Q,income,Basic EPS,2025-12-31,-0.49
 IDEA,Q,income,Basic EPS,2026-03-31,4.8
 IDEA,Q,income,Basic EPS,2026-06-30,-0.35
+IDEA,Q,income,Basic EPS,2026-09-30,-0.55
 IDEA,Q,income,Diluted EPS,2025-06-30,-0.63
 IDEA,Q,income,Diluted EPS,2025-09-30,-0.51
 IDEA,Q,income,Diluted EPS,2025-12-31,-0.49
 IDEA,Q,income,Diluted EPS,2026-03-31,4.8
 IDEA,Q,income,Diluted EPS,2026-06-30,-0.35
+IDEA,Q,income,Diluted EPS,2026-09-30,-0.55
 IDEA,Q,income,EBITDA,2025-06-30,47540000000.0
-IDEA,Q,income,EBITDA,2025-09-30,48246000000.0
+IDEA,Q,income,EBITDA,2025-09-30,48250000000.0
 IDEA,Q,income,EBITDA,2025-12-31,60880000000.0
 IDEA,Q,income,EBITDA,2026-03-31,624840000000.0
 IDEA,Q,income,EBITDA,2026-06-30,68400000000.0
+IDEA,Q,income,EBITDA,2026-09-30,48950000000.0
 IDEA,Q,income,Interest Expense,2025-06-30,58930000000.0
-IDEA,Q,income,Interest Expense,2025-09-30,47844000000.0
+IDEA,Q,income,Interest Expense,2025-09-30,47840000000.0
 IDEA,Q,income,Interest Expense,2025-12-31,58280000000.0
 IDEA,Q,income,Interest Expense,2026-03-31,49900000000.0
 IDEA,Q,income,Interest Expense,2026-06-30,51200000000.0
+IDEA,Q,income,Interest Expense,2026-09-30,53510000000.0
 IDEA,Q,income,Net Income,2025-06-30,-66080000000.0
-IDEA,Q,income,Net Income,2025-09-30,-55242000000.0
+IDEA,Q,income,Net Income,2025-09-30,-55240000000.0
 IDEA,Q,income,Net Income,2025-12-31,-52860000000.0
 IDEA,Q,income,Net Income,2026-03-31,519700000000.0
 IDEA,Q,income,Net Income,2026-06-30,-37540000000.0
+IDEA,Q,income,Net Income,2026-09-30,-59750000000.0
 IDEA,Q,income,Net Income Common Stockholders,2025-06-30,-66080000000.0
-IDEA,Q,income,Net Income Common Stockholders,2025-09-30,-55242000000.0
+IDEA,Q,income,Net Income Common Stockholders,2025-09-30,-55240000000.0
 IDEA,Q,income,Net Income Common Stockholders,2025-12-31,-52860000000.0
 IDEA,Q,income,Net Income Common Stockholders,2026-03-31,519700000000.0
 IDEA,Q,income,Net Income Common Stockholders,2026-06-30,-37540000000.0
+IDEA,Q,income,Net Income Common Stockholders,2026-09-30,-59750000000.0
 IDEA,Q,income,Operating Income,2025-06-30,-8600000000.0
-IDEA,Q,income,Operating Income,2025-09-30,-8824000000.0
+IDEA,Q,income,Operating Income,2025-09-30,-8830000000.0
 IDEA,Q,income,Operating Income,2025-12-31,-7330000000.0
 IDEA,Q,income,Operating Income,2026-03-31,-6290000000.0
 IDEA,Q,income,Operating Income,2026-06-30,-4330000000.0
+IDEA,Q,income,Operating Income,2026-09-30,-5240000000.0
 IDEA,Q,income,Pretax Income,2025-06-30,-66110000000.0
-IDEA,Q,income,Pretax Income,2025-09-30,-55273000000.0
+IDEA,Q,income,Pretax Income,2025-09-30,-55270000000.0
 IDEA,Q,income,Pretax Income,2025-12-31,-52900000000.0
 IDEA,Q,income,Pretax Income,2026-03-31,519760000000.0
 IDEA,Q,income,Pretax Income,2026-06-30,-37470000000.0
+IDEA,Q,income,Pretax Income,2026-09-30,-59610000000.0
 IDEA,Q,income,Total Revenue,2025-06-30,110080000000.0
-IDEA,Q,income,Total Revenue,2025-09-30,111696000000.0
+IDEA,Q,income,Total Revenue,2025-09-30,111700000000.0
 IDEA,Q,income,Total Revenue,2025-12-31,113080000000.0
 IDEA,Q,income,Total Revenue,2026-03-31,113030000000.0
 IDEA,Q,income,Total Revenue,2026-06-30,116820000000.0
+IDEA,Q,income,Total Revenue,2026-09-30,118700000000.0

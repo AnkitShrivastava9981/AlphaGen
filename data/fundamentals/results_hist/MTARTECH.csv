@@ -1,9 +1,9 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2021-01-01,2021-03-31,consolidated,,,,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70875_455034_03062021023922_WEB.xml,1
-2021-04-01,2021-06-30,consolidated,,,,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_74327_501076_07082021104128_WEB.xml,1
-2021-07-01,2021-09-30,consolidated,,,,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77797_551411_03112021012315_WEB.xml,1
-2021-10-01,2021-12-31,consolidated,,,,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82166_607446_11022022013259_WEB.xml,1
-2022-01-01,2022-03-31,consolidated,,,,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85341_660323_25052022040058_WEB.xml,1
+2021-01-01,2021-03-31,consolidated,691640000.0,0.0,6.65,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70875_455034_03062021023922_WEB.xml,1
+2021-04-01,2021-06-30,consolidated,540330000.0,87080000.0,2.83,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_74327_501076_07082021104128_WEB.xml,1
+2021-07-01,2021-09-30,consolidated,912970000.0,190540000.0,6.2,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_77797_551411_03112021012315_WEB.xml,1
+2021-10-01,2021-12-31,consolidated,780960000.0,133090000.0,4.32,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82166_607446_11022022013259_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,985800000.0,0.0,6.44,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85341_660323_25052022040058_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,910070000.0,162160000.0,5.27,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_645630_3999_10082022142818_WEB.xml,0
 2022-07-01,2022-09-30,consolidated,1261780000.0,246850000.0,8.03,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_839793_6481_05112022113234_WEB.xml,0
 2022-10-01,2022-12-31,consolidated,1601690000.0,0.0,10.22,MTARTECH,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_89362_790658_10022023022502.xml,0

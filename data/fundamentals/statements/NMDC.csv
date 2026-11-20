@@ -76,43 +76,53 @@ NMDC,Q,income,Basic EPS,2025-06-30,2.24
 NMDC,Q,income,Basic EPS,2025-12-31,2.0
 NMDC,Q,income,Basic EPS,2026-03-31,2.31
 NMDC,Q,income,Basic EPS,2026-06-30,2.25
+NMDC,Q,income,Basic EPS,2026-09-30,1.9
 NMDC,Q,income,Diluted EPS,2025-03-31,1.68
 NMDC,Q,income,Diluted EPS,2025-06-30,2.24
 NMDC,Q,income,Diluted EPS,2025-12-31,2.0
 NMDC,Q,income,Diluted EPS,2026-03-31,2.31
 NMDC,Q,income,Diluted EPS,2026-06-30,2.25
+NMDC,Q,income,Diluted EPS,2026-09-30,1.9
 NMDC,Q,income,EBITDA,2025-03-31,25436900000.0
 NMDC,Q,income,EBITDA,2025-06-30,27786000000.0
 NMDC,Q,income,EBITDA,2025-12-31,25167700000.0
 NMDC,Q,income,EBITDA,2026-03-31,30758800000.0
 NMDC,Q,income,EBITDA,2026-06-30,28157200000.0
+NMDC,Q,income,EBITDA,2026-09-30,24339500000.0
 NMDC,Q,income,Interest Expense,2025-03-31,649300000.0
 NMDC,Q,income,Interest Expense,2025-06-30,271500000.0
 NMDC,Q,income,Interest Expense,2025-12-31,349600000.0
 NMDC,Q,income,Interest Expense,2026-03-31,514100000.0
 NMDC,Q,income,Interest Expense,2026-06-30,216100000.0
+NMDC,Q,income,Interest Expense,2026-09-30,252600000.0
 NMDC,Q,income,Net Income,2025-03-31,14776800000.0
 NMDC,Q,income,Net Income,2025-06-30,19677400000.0
 NMDC,Q,income,Net Income,2025-12-31,17565900000.0
 NMDC,Q,income,Net Income,2026-03-31,20272300000.0
 NMDC,Q,income,Net Income,2026-06-30,19763300000.0
+NMDC,Q,income,Net Income,2026-09-30,16685300000.0
 NMDC,Q,income,Net Income Common Stockholders,2025-03-31,14776800000.0
 NMDC,Q,income,Net Income Common Stockholders,2025-06-30,19677400000.0
 NMDC,Q,income,Net Income Common Stockholders,2025-12-31,17565900000.0
 NMDC,Q,income,Net Income Common Stockholders,2026-03-31,20272300000.0
 NMDC,Q,income,Net Income Common Stockholders,2026-06-30,19763300000.0
+NMDC,Q,income,Net Income Common Stockholders,2026-09-30,16685300000.0
 NMDC,Q,income,Operating Income,2025-03-31,19102300000.0
 NMDC,Q,income,Operating Income,2025-06-30,23698700000.0
+NMDC,Q,income,Operating Income,2025-09-30,18832700000.0
 NMDC,Q,income,Operating Income,2025-12-31,20372100000.0
 NMDC,Q,income,Operating Income,2026-03-31,24919000000.0
 NMDC,Q,income,Operating Income,2026-06-30,23654100000.0
+NMDC,Q,income,Operating Income,2026-09-30,17896300000.0
 NMDC,Q,income,Pretax Income,2025-03-31,23378800000.0
 NMDC,Q,income,Pretax Income,2025-06-30,26428300000.0
 NMDC,Q,income,Pretax Income,2025-12-31,23748400000.0
 NMDC,Q,income,Pretax Income,2026-03-31,28728500000.0
 NMDC,Q,income,Pretax Income,2026-06-30,26910900000.0
+NMDC,Q,income,Pretax Income,2026-09-30,22582900000.0
 NMDC,Q,income,Total Revenue,2025-03-31,70045900000.0
 NMDC,Q,income,Total Revenue,2025-06-30,67388600000.0
 NMDC,Q,income,Total Revenue,2025-12-31,76107900000.0
 NMDC,Q,income,Total Revenue,2026-03-31,113431300000.0
 NMDC,Q,income,Total Revenue,2026-06-30,67952500000.0
+NMDC,Q,income,Total Revenue,2026-09-30,66382300000.0

@@ -76,43 +76,52 @@ BBOX,Q,income,Basic EPS,2025-09-30,3.28
 BBOX,Q,income,Basic EPS,2025-12-31,2.92
 BBOX,Q,income,Basic EPS,2026-03-31,3.78
 BBOX,Q,income,Basic EPS,2026-06-30,3.15
+BBOX,Q,income,Basic EPS,2026-09-30,4.09
 BBOX,Q,income,Diluted EPS,2025-06-30,2.79
 BBOX,Q,income,Diluted EPS,2025-09-30,3.25
 BBOX,Q,income,Diluted EPS,2025-12-31,2.89
 BBOX,Q,income,Diluted EPS,2026-03-31,3.75
 BBOX,Q,income,Diluted EPS,2026-06-30,3.15
+BBOX,Q,income,Diluted EPS,2026-09-30,4.09
 BBOX,Q,income,EBITDA,2025-06-30,1053400000.0
 BBOX,Q,income,EBITDA,2025-09-30,1295200000.0
 BBOX,Q,income,EBITDA,2025-12-31,1261900000.0
 BBOX,Q,income,EBITDA,2026-03-31,1520800000.0
 BBOX,Q,income,EBITDA,2026-06-30,1447200000.0
+BBOX,Q,income,EBITDA,2026-09-30,1658500000.0
 BBOX,Q,income,Interest Expense,2025-06-30,335800000.0
 BBOX,Q,income,Interest Expense,2025-09-30,394600000.0
 BBOX,Q,income,Interest Expense,2025-12-31,395800000.0
 BBOX,Q,income,Interest Expense,2026-03-31,450200000.0
 BBOX,Q,income,Interest Expense,2026-06-30,480000000.0
+BBOX,Q,income,Interest Expense,2026-09-30,496700000.0
 BBOX,Q,income,Net Income,2025-06-30,474300000.0
 BBOX,Q,income,Net Income,2025-09-30,556500000.0
 BBOX,Q,income,Net Income,2025-12-31,496800000.0
 BBOX,Q,income,Net Income,2026-03-31,647600000.0
 BBOX,Q,income,Net Income,2026-06-30,559200000.0
+BBOX,Q,income,Net Income,2026-09-30,726800000.0
 BBOX,Q,income,Net Income Common Stockholders,2025-06-30,474300000.0
 BBOX,Q,income,Net Income Common Stockholders,2025-09-30,556500000.0
 BBOX,Q,income,Net Income Common Stockholders,2025-12-31,496800000.0
 BBOX,Q,income,Net Income Common Stockholders,2026-03-31,647600000.0
 BBOX,Q,income,Net Income Common Stockholders,2026-06-30,559200000.0
+BBOX,Q,income,Net Income Common Stockholders,2026-09-30,726800000.0
 BBOX,Q,income,Operating Income,2025-06-30,782300000.0
 BBOX,Q,income,Operating Income,2025-09-30,1143000000.0
 BBOX,Q,income,Operating Income,2025-12-31,1215400000.0
 BBOX,Q,income,Operating Income,2026-03-31,1263100000.0
 BBOX,Q,income,Operating Income,2026-06-30,1133400000.0
+BBOX,Q,income,Operating Income,2026-09-30,1485400000.0
 BBOX,Q,income,Pretax Income,2025-06-30,452000000.0
 BBOX,Q,income,Pretax Income,2025-09-30,610300000.0
 BBOX,Q,income,Pretax Income,2025-12-31,567700000.0
 BBOX,Q,income,Pretax Income,2026-03-31,761400000.0
 BBOX,Q,income,Pretax Income,2026-06-30,611300000.0
+BBOX,Q,income,Pretax Income,2026-09-30,812800000.0
 BBOX,Q,income,Total Revenue,2025-06-30,13867400000.0
 BBOX,Q,income,Total Revenue,2025-09-30,15845900000.0
 BBOX,Q,income,Total Revenue,2025-12-31,16595800000.0
 BBOX,Q,income,Total Revenue,2026-03-31,16909400000.0
 BBOX,Q,income,Total Revenue,2026-06-30,17185000000.0
+BBOX,Q,income,Total Revenue,2026-09-30,19363000000.0

@@ -1,8 +1,8 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-10-01,2019-12-31,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_53533_219209_12022020044400_WEB.xml,1
-2020-01-01,2020-03-31,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56269_267696_23062020045726_WEB.xml,1
-2020-04-01,2020-06-30,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61100_314386_08092020111113_WEB.xml,1
-2020-07-01,2020-09-30,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_64162_358542_11112020030620_WEB.xml,1
+2019-10-01,2019-12-31,consolidated,3350550000.0,-598470000.0,-4.9,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_53533_219209_12022020044400_WEB.xml,1
+2020-01-01,2020-03-31,consolidated,3275990000.0,1190970000.0,9.74,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56269_267696_23062020045726_WEB.xml,1
+2020-04-01,2020-06-30,consolidated,2850460000.0,936630000.0,7.66,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61100_314386_08092020111113_WEB.xml,1
+2020-07-01,2020-09-30,consolidated,2609120000.0,3280290000.0,26.05,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_64162_358542_11112020030620_WEB.xml,1
 2020-10-01,2020-12-31,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_68686_408602_12022021100405_WEB.xml,1
 2021-01-01,2021-03-31,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_71573_461683_21062021054052_WEB.xml,1
 2021-04-01,2021-06-30,consolidated,,,,NAUKRI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76150_508335_14082021103341_WEB.xml,1

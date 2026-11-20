@@ -72,47 +72,56 @@ MBAPL,A,income,Total Revenue,2024-03-31,4927781000.0
 MBAPL,A,income,Total Revenue,2025-03-31,6909066000.0
 MBAPL,A,income,Total Revenue,2026-03-31,11957404000.0
 MBAPL,Q,income,Basic EPS,2025-06-30,0.128
-MBAPL,Q,income,Basic EPS,2025-09-30,0.696
+MBAPL,Q,income,Basic EPS,2025-09-30,0.7
 MBAPL,Q,income,Basic EPS,2025-12-31,0.724
 MBAPL,Q,income,Basic EPS,2026-03-31,1.364
-MBAPL,Q,income,Basic EPS,2026-06-30,0.15
+MBAPL,Q,income,Basic EPS,2026-06-30,0.75
+MBAPL,Q,income,Basic EPS,2026-09-30,1.76
 MBAPL,Q,income,Diluted EPS,2025-06-30,0.128
-MBAPL,Q,income,Diluted EPS,2025-09-30,0.696
+MBAPL,Q,income,Diluted EPS,2025-09-30,0.7
 MBAPL,Q,income,Diluted EPS,2025-12-31,0.724
 MBAPL,Q,income,Diluted EPS,2026-03-31,1.364
-MBAPL,Q,income,Diluted EPS,2026-06-30,0.15
+MBAPL,Q,income,Diluted EPS,2026-06-30,0.75
+MBAPL,Q,income,Diluted EPS,2026-09-30,1.76
 MBAPL,Q,income,EBITDA,2025-03-31,424513000.0
 MBAPL,Q,income,EBITDA,2025-06-30,600097000.0
 MBAPL,Q,income,EBITDA,2025-12-31,693855000.0
 MBAPL,Q,income,EBITDA,2026-03-31,503721000.0
 MBAPL,Q,income,EBITDA,2026-06-30,713514000.0
+MBAPL,Q,income,EBITDA,2026-09-30,1298697000.0
 MBAPL,Q,income,Interest Expense,2025-03-31,72319000.0
 MBAPL,Q,income,Interest Expense,2025-06-30,65800000.0
 MBAPL,Q,income,Interest Expense,2025-12-31,94094000.0
 MBAPL,Q,income,Interest Expense,2026-03-31,106421000.0
 MBAPL,Q,income,Interest Expense,2026-06-30,148535000.0
+MBAPL,Q,income,Interest Expense,2026-09-30,158643000.0
 MBAPL,Q,income,Net Income,2025-03-31,142533000.0
 MBAPL,Q,income,Net Income,2025-06-30,282062000.0
 MBAPL,Q,income,Net Income,2025-12-31,317590000.0
 MBAPL,Q,income,Net Income,2026-03-31,597572000.0
 MBAPL,Q,income,Net Income,2026-06-30,329622000.0
+MBAPL,Q,income,Net Income,2026-09-30,778479000.0
 MBAPL,Q,income,Net Income Common Stockholders,2025-03-31,142533000.0
 MBAPL,Q,income,Net Income Common Stockholders,2025-06-30,282062000.0
 MBAPL,Q,income,Net Income Common Stockholders,2025-12-31,317590000.0
 MBAPL,Q,income,Net Income Common Stockholders,2026-03-31,597572000.0
 MBAPL,Q,income,Net Income Common Stockholders,2026-06-30,329622000.0
+MBAPL,Q,income,Net Income Common Stockholders,2026-09-30,778479000.0
 MBAPL,Q,income,Operating Income,2025-03-31,278234000.0
 MBAPL,Q,income,Operating Income,2025-06-30,476831000.0
 MBAPL,Q,income,Operating Income,2025-12-31,572127000.0
 MBAPL,Q,income,Operating Income,2026-03-31,321483000.0
 MBAPL,Q,income,Operating Income,2026-06-30,536604000.0
+MBAPL,Q,income,Operating Income,2026-09-30,1179484000.0
 MBAPL,Q,income,Pretax Income,2025-03-31,269594000.0
 MBAPL,Q,income,Pretax Income,2025-06-30,441411000.0
 MBAPL,Q,income,Pretax Income,2025-12-31,507248000.0
 MBAPL,Q,income,Pretax Income,2026-03-31,306490000.0
 MBAPL,Q,income,Pretax Income,2026-06-30,442542000.0
+MBAPL,Q,income,Pretax Income,2026-09-30,1041720000.0
 MBAPL,Q,income,Total Revenue,2025-03-31,2967896000.0
 MBAPL,Q,income,Total Revenue,2025-06-30,4096863000.0
 MBAPL,Q,income,Total Revenue,2025-12-31,6123894000.0
 MBAPL,Q,income,Total Revenue,2026-03-31,3947145000.0
 MBAPL,Q,income,Total Revenue,2026-06-30,4163008000.0
+MBAPL,Q,income,Total Revenue,2026-09-30,7151528000.0

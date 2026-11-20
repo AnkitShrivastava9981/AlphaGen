@@ -6,7 +6,7 @@ CMSINFO,A,balance,Cash And Cash Equivalents,2026-03-31,1122550000.0
 CMSINFO,A,balance,Ordinary Shares Number,2023-03-31,154400078.0
 CMSINFO,A,balance,Ordinary Shares Number,2024-03-31,162762291.0
 CMSINFO,A,balance,Ordinary Shares Number,2025-03-31,164365041.0
-CMSINFO,A,balance,Ordinary Shares Number,2026-03-31,164637541.0
+CMSINFO,A,balance,Ordinary Shares Number,2026-03-31,160063415.0
 CMSINFO,A,balance,Stockholders Equity,2023-03-31,15624550000.0
 CMSINFO,A,balance,Stockholders Equity,2024-03-31,19467590000.0
 CMSINFO,A,balance,Stockholders Equity,2025-03-31,22665140000.0
@@ -72,43 +72,52 @@ CMSINFO,Q,income,Basic EPS,2025-06-30,5.69
 CMSINFO,Q,income,Basic EPS,2025-12-31,3.49
 CMSINFO,Q,income,Basic EPS,2026-03-31,4.81
 CMSINFO,Q,income,Basic EPS,2026-06-30,5.1
+CMSINFO,Q,income,Basic EPS,2026-09-30,5.05
 CMSINFO,Q,income,Diluted EPS,2025-03-31,5.811
 CMSINFO,Q,income,Diluted EPS,2025-06-30,5.59
 CMSINFO,Q,income,Diluted EPS,2025-12-31,3.45
 CMSINFO,Q,income,Diluted EPS,2026-03-31,4.76
 CMSINFO,Q,income,Diluted EPS,2026-06-30,5.1
+CMSINFO,Q,income,Diluted EPS,2026-09-30,5.05
 CMSINFO,Q,income,EBITDA,2025-03-31,1758940000.0
 CMSINFO,Q,income,EBITDA,2025-06-30,1742400000.0
 CMSINFO,Q,income,EBITDA,2025-12-31,1371340000.0
 CMSINFO,Q,income,EBITDA,2026-03-31,1728260000.0
 CMSINFO,Q,income,EBITDA,2026-06-30,1839610000.0
+CMSINFO,Q,income,EBITDA,2026-09-30,1827850000.0
 CMSINFO,Q,income,Interest Expense,2025-03-31,45630000.0
 CMSINFO,Q,income,Interest Expense,2025-06-30,41220000.0
 CMSINFO,Q,income,Interest Expense,2025-12-31,44990000.0
 CMSINFO,Q,income,Interest Expense,2026-03-31,63190000.0
 CMSINFO,Q,income,Interest Expense,2026-06-30,62110000.0
+CMSINFO,Q,income,Interest Expense,2026-09-30,61180000.0
 CMSINFO,Q,income,Net Income,2025-03-31,975610000.0
 CMSINFO,Q,income,Net Income,2025-06-30,935790000.0
 CMSINFO,Q,income,Net Income,2025-12-31,574030000.0
 CMSINFO,Q,income,Net Income,2026-03-31,790600000.0
 CMSINFO,Q,income,Net Income,2026-06-30,836840000.0
+CMSINFO,Q,income,Net Income,2026-09-30,808890000.0
 CMSINFO,Q,income,Net Income Common Stockholders,2025-03-31,975610000.0
 CMSINFO,Q,income,Net Income Common Stockholders,2025-06-30,935790000.0
 CMSINFO,Q,income,Net Income Common Stockholders,2025-12-31,574030000.0
 CMSINFO,Q,income,Net Income Common Stockholders,2026-03-31,790600000.0
 CMSINFO,Q,income,Net Income Common Stockholders,2026-06-30,836840000.0
+CMSINFO,Q,income,Net Income Common Stockholders,2026-09-30,808890000.0
 CMSINFO,Q,income,Operating Income,2025-03-31,1193710000.0
 CMSINFO,Q,income,Operating Income,2025-06-30,1133620000.0
 CMSINFO,Q,income,Operating Income,2025-12-31,840040000.0
 CMSINFO,Q,income,Operating Income,2026-03-31,1018720000.0
 CMSINFO,Q,income,Operating Income,2026-06-30,960830000.0
+CMSINFO,Q,income,Operating Income,2026-09-30,987310000.0
 CMSINFO,Q,income,Pretax Income,2025-03-31,1286190000.0
 CMSINFO,Q,income,Pretax Income,2025-06-30,1255950000.0
 CMSINFO,Q,income,Pretax Income,2025-12-31,770280000.0
 CMSINFO,Q,income,Pretax Income,2026-03-31,1071830000.0
 CMSINFO,Q,income,Pretax Income,2026-06-30,1049860000.0
+CMSINFO,Q,income,Pretax Income,2026-09-30,1034030000.0
 CMSINFO,Q,income,Total Revenue,2025-03-31,6190680000.0
 CMSINFO,Q,income,Total Revenue,2025-06-30,6274050000.0
 CMSINFO,Q,income,Total Revenue,2025-12-31,6182220000.0
 CMSINFO,Q,income,Total Revenue,2026-03-31,6329340000.0
 CMSINFO,Q,income,Total Revenue,2026-06-30,6346970000.0
+CMSINFO,Q,income,Total Revenue,2026-09-30,6496160000.0

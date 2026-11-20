@@ -1,5 +1,5 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2022-01-01,2022-03-31,standalone,,,,MSUMI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85651_662304_26052022105232_WEB.xml,1
+2022-01-01,2022-03-31,standalone,16615200000.0,464200000.0,0.15,MSUMI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85651_662304_26052022105232_WEB.xml,1
 2022-04-01,2022-06-30,standalone,16709400000.0,1259600000.0,0.4,MSUMI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_633231_4139_05082022180940_WEB.xml,0
 2022-07-01,2022-09-30,standalone,18352100000.0,1164500000.0,0.37,MSUMI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_823031_6660_31102022183032_WEB.xml,0
 2022-10-01,2022-12-31,standalone,16868000000.0,1061600000.0,0.24,MSUMI,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88852_787811_07022023054516.xml,0

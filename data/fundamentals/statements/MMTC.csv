@@ -74,43 +74,52 @@ MMTC,Q,income,Basic EPS,2025-09-30,1.14
 MMTC,Q,income,Basic EPS,2025-12-31,0.31
 MMTC,Q,income,Basic EPS,2026-03-31,0.84
 MMTC,Q,income,Basic EPS,2026-06-30,0.69
+MMTC,Q,income,Basic EPS,2026-09-30,0.17
 MMTC,Q,income,Diluted EPS,2025-06-30,0.3
 MMTC,Q,income,Diluted EPS,2025-09-30,1.14
 MMTC,Q,income,Diluted EPS,2025-12-31,0.31
 MMTC,Q,income,Diluted EPS,2026-03-31,0.84
 MMTC,Q,income,Diluted EPS,2026-06-30,0.69
+MMTC,Q,income,Diluted EPS,2026-09-30,0.17
 MMTC,Q,income,EBITDA,2025-06-30,547000000.0
 MMTC,Q,income,EBITDA,2025-09-30,4305400000.0
 MMTC,Q,income,EBITDA,2025-12-31,469600000.0
 MMTC,Q,income,EBITDA,2026-03-31,1123200000.0
 MMTC,Q,income,EBITDA,2026-06-30,1358100000.0
+MMTC,Q,income,EBITDA,2026-09-30,274400000.0
 MMTC,Q,income,Interest Expense,2025-06-30,2200000.0
 MMTC,Q,income,Interest Expense,2025-09-30,200000.0
 MMTC,Q,income,Interest Expense,2025-12-31,3100000.0
 MMTC,Q,income,Interest Expense,2026-03-31,2300000.0
 MMTC,Q,income,Interest Expense,2026-06-30,500000.0
+MMTC,Q,income,Interest Expense,2026-09-30,1100000.0
 MMTC,Q,income,Net Income,2025-06-30,442600000.0
 MMTC,Q,income,Net Income,2025-09-30,1708100000.0
 MMTC,Q,income,Net Income,2025-12-31,462700000.0
 MMTC,Q,income,Net Income,2026-03-31,1260400000.0
 MMTC,Q,income,Net Income,2026-06-30,1042400000.0
+MMTC,Q,income,Net Income,2026-09-30,251700000.0
 MMTC,Q,income,Net Income Common Stockholders,2025-06-30,442600000.0
 MMTC,Q,income,Net Income Common Stockholders,2025-09-30,1708100000.0
 MMTC,Q,income,Net Income Common Stockholders,2025-12-31,462700000.0
 MMTC,Q,income,Net Income Common Stockholders,2026-03-31,1260400000.0
 MMTC,Q,income,Net Income Common Stockholders,2026-06-30,1042400000.0
+MMTC,Q,income,Net Income Common Stockholders,2026-09-30,251700000.0
 MMTC,Q,income,Operating Income,2025-06-30,-241100000.0
 MMTC,Q,income,Operating Income,2025-09-30,-230200000.0
 MMTC,Q,income,Operating Income,2025-12-31,-239600000.0
 MMTC,Q,income,Operating Income,2026-03-31,-1157100000.0
 MMTC,Q,income,Operating Income,2026-06-30,-208900000.0
+MMTC,Q,income,Operating Income,2026-09-30,-202500000.0
 MMTC,Q,income,Pretax Income,2025-06-30,534700000.0
 MMTC,Q,income,Pretax Income,2025-09-30,4295500000.0
 MMTC,Q,income,Pretax Income,2025-12-31,457000000.0
 MMTC,Q,income,Pretax Income,2026-03-31,1098800000.0
 MMTC,Q,income,Pretax Income,2026-06-30,1350600000.0
+MMTC,Q,income,Pretax Income,2026-09-30,266500000.0
 MMTC,Q,income,Total Revenue,2025-06-30,13600000.0
 MMTC,Q,income,Total Revenue,2025-09-30,11000000.0
 MMTC,Q,income,Total Revenue,2025-12-31,3400000.0
 MMTC,Q,income,Total Revenue,2026-03-31,6100000.0
 MMTC,Q,income,Total Revenue,2026-06-30,6800000.0
+MMTC,Q,income,Total Revenue,2026-09-30,12700000.0

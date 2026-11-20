@@ -76,43 +76,52 @@ FACT,Q,income,Basic EPS,2025-06-30,0.07
 FACT,Q,income,Basic EPS,2025-12-31,-1.05
 FACT,Q,income,Basic EPS,2026-03-31,0.05
 FACT,Q,income,Basic EPS,2026-06-30,-0.96
+FACT,Q,income,Basic EPS,2026-09-30,0.61
 FACT,Q,income,Diluted EPS,2025-03-31,1.09
 FACT,Q,income,Diluted EPS,2025-06-30,0.07
 FACT,Q,income,Diluted EPS,2025-12-31,-1.05
 FACT,Q,income,Diluted EPS,2026-03-31,0.05
 FACT,Q,income,Diluted EPS,2026-06-30,-0.96
+FACT,Q,income,Diluted EPS,2026-09-30,0.61
 FACT,Q,income,EBITDA,2025-03-31,1611000000.0
 FACT,Q,income,EBITDA,2025-06-30,757700000.0
 FACT,Q,income,EBITDA,2025-12-31,-36700000.0
 FACT,Q,income,EBITDA,2026-03-31,826500000.0
 FACT,Q,income,EBITDA,2026-06-30,42000000.0
+FACT,Q,income,EBITDA,2026-09-30,1312900000.0
 FACT,Q,income,Interest Expense,2025-03-31,603300000.0
 FACT,Q,income,Interest Expense,2025-06-30,617400000.0
 FACT,Q,income,Interest Expense,2025-12-31,618200000.0
 FACT,Q,income,Interest Expense,2026-03-31,643100000.0
 FACT,Q,income,Interest Expense,2026-06-30,619800000.0
+FACT,Q,income,Interest Expense,2026-09-30,588200000.0
 FACT,Q,income,Net Income,2025-03-31,707200000.0
 FACT,Q,income,Net Income,2025-06-30,42800000.0
 FACT,Q,income,Net Income,2025-12-31,-679000000.0
 FACT,Q,income,Net Income,2026-03-31,31600000.0
 FACT,Q,income,Net Income,2026-06-30,-619400000.0
+FACT,Q,income,Net Income,2026-09-30,392800000.0
 FACT,Q,income,Net Income Common Stockholders,2025-03-31,707200000.0
 FACT,Q,income,Net Income Common Stockholders,2025-06-30,42800000.0
 FACT,Q,income,Net Income Common Stockholders,2025-12-31,-679000000.0
 FACT,Q,income,Net Income Common Stockholders,2026-03-31,31600000.0
 FACT,Q,income,Net Income Common Stockholders,2026-06-30,-619400000.0
+FACT,Q,income,Net Income Common Stockholders,2026-09-30,392800000.0
 FACT,Q,income,Operating Income,2025-03-31,720200000.0
 FACT,Q,income,Operating Income,2025-06-30,170300000.0
 FACT,Q,income,Operating Income,2025-12-31,-514500000.0
 FACT,Q,income,Operating Income,2026-03-31,361600000.0
 FACT,Q,income,Operating Income,2026-06-30,-365200000.0
+FACT,Q,income,Operating Income,2026-09-30,914400000.0
 FACT,Q,income,Pretax Income,2025-03-31,879600000.0
 FACT,Q,income,Pretax Income,2025-06-30,70800000.0
 FACT,Q,income,Pretax Income,2025-12-31,-740600000.0
 FACT,Q,income,Pretax Income,2026-03-31,58500000.0
 FACT,Q,income,Pretax Income,2026-06-30,-645000000.0
+FACT,Q,income,Pretax Income,2026-09-30,655400000.0
 FACT,Q,income,Total Revenue,2025-03-31,10532800000.0
 FACT,Q,income,Total Revenue,2025-06-30,10427700000.0
 FACT,Q,income,Total Revenue,2025-12-31,15678400000.0
 FACT,Q,income,Total Revenue,2026-03-31,14838500000.0
 FACT,Q,income,Total Revenue,2026-06-30,12534000000.0
+FACT,Q,income,Total Revenue,2026-09-30,14637300000.0
