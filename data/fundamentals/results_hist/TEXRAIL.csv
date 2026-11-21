@@ -1,8 +1,8 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-07-01,2019-09-30,consolidated,,,,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_48849_157391_24102019124225_WEB_2.xml,0
-2019-10-01,2019-12-31,consolidated,,,,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_52179_213751_01022020021708_WEB.xml,0
-2020-01-01,2020-03-31,consolidated,,,,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56042_266424_18062020044936_WEB.xml,0
-2020-04-01,2020-06-30,consolidated,,,,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61154_314927_09092020055531_WEB.xml,0
+2019-07-01,2019-09-30,consolidated,4758995000.0,91960000.0,0.41,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_48849_157391_24102019124225_WEB_2.xml,1
+2019-10-01,2019-12-31,consolidated,5301332000.0,164992000.0,0.73,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_52179_213751_01022020021708_WEB.xml,1
+2020-01-01,2020-03-31,consolidated,4336805000.0,-1007584000.0,-4.48,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_56042_266424_18062020044936_WEB.xml,1
+2020-04-01,2020-06-30,consolidated,2184171000.0,-264339000.0,-1.18,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_61154_314927_09092020055531_WEB.xml,1
 2020-07-01,2020-09-30,consolidated,4064796000.0,11119000.0,0.05,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_62175_346026_20102020112130_WEB.xml,1
 2020-10-01,2020-12-31,consolidated,4583146000.0,190756000.0,0.85,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_66650_400137_29012021064730_WEB.xml,1
 2021-01-01,2021-03-31,consolidated,6056366000.0,204047000.0,0.81,TEXRAIL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_70004_448142_15052021121140_WEB.xml,1

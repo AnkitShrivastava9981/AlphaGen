@@ -1,7 +1,7 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2019-04-01,2019-06-30,consolidated,,,,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_46471_126785_31072019041302_WEB.xml,0
-2019-07-01,2019-09-30,consolidated,,,,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_49130_159215_01112019035645_WEB.xml,0
-2019-10-01,2019-12-31,consolidated,,,,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51966_212869_30012020034613_WEB.xml,0
+2019-04-01,2019-06-30,consolidated,4399564000.0,360136000.0,11.02,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_46471_126785_31072019041302_WEB.xml,1
+2019-07-01,2019-09-30,consolidated,4851920000.0,489528000.0,14.97,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_49130_159215_01112019035645_WEB.xml,1
+2019-10-01,2019-12-31,consolidated,5632669000.0,0.0,20.16,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_51966_212869_30012020034613_WEB.xml,1
 2020-01-01,2020-03-31,consolidated,4980545000.0,0.0,12.25,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_55435_261869_28052020090522_WEB.xml,1
 2020-04-01,2020-06-30,consolidated,5504379000.0,528750000.0,16.37,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_58954_300887_31072020063740_WEB.xml,1
 2020-07-01,2020-09-30,consolidated,5987867000.0,705550000.0,21.82,VAIBHAVGBL,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_62732_353032_30102020090106_WEB.xml,1

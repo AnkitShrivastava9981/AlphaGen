@@ -1,10 +1,10 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2020-10-01,2020-12-31,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_67893_405777_11022021013846_WEB.xml,0
-2021-01-01,2021-03-31,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_72652_470652_01072021010437_WEB.xml,0
-2021-04-01,2021-06-30,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76127_508256_14082021083627_WEB.xml,0
-2021-07-01,2021-09-30,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79581_559048_14112021122258_WEB.xml,0
-2021-10-01,2021-12-31,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83274_611466_15022022030317_WEB.xml,0
-2022-01-01,2022-03-31,consolidated,,,,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87112_671021_31052022075600_WEB.xml,0
+2020-10-01,2020-12-31,consolidated,583487000.0,89027000.0,0.3,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_67893_405777_11022021013846_WEB.xml,1
+2021-01-01,2021-03-31,consolidated,764809000.0,9564000.0,0.03,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_72652_470652_01072021010437_WEB.xml,1
+2021-04-01,2021-06-30,consolidated,262464000.0,-31839000.0,-0.11,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_76127_508256_14082021083627_WEB.xml,1
+2021-07-01,2021-09-30,consolidated,1597468000.0,53029000.0,0.18,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_79581_559048_14112021122258_WEB.xml,1
+2021-10-01,2021-12-31,consolidated,531225000.0,85043000.0,0.29,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_83274_611466_15022022030317_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,114388000.0,-2427269000.0,-8.23,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_87112_671021_31052022075600_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,679067000.0,93135000.0,0.32,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_650482_3997_11082022000719_WEB.xml,0
 2022-07-01,2022-09-30,consolidated,416688000.0,81727000.0,0.28,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_866947_6479_13112022043016_WEB.xml,0
 2022-10-01,2022-12-31,consolidated,942131000.0,13493000.0,0.04,TARC,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_90121_794155_14022023030911.xml,0

@@ -1,9 +1,9 @@
 period_start,period_end,nature,revenue,net_profit,eps,symbol,source,repaired
-2021-10-01,2021-12-31,consolidated,,,,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82623_609139_12022022043826_WEB.xml,0
-2022-01-01,2022-03-31,consolidated,,,,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85337_660276_25052022034035_WEB.xml,0
+2021-10-01,2021-12-31,consolidated,2577850000.0,333850000.0,5.73,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_82623_609139_12022022043826_WEB.xml,1
+2022-01-01,2022-03-31,consolidated,2900530000.0,488810000.0,7.37,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_85337_660276_25052022034035_WEB.xml,1
 2022-04-01,2022-06-30,consolidated,2444470000.0,230490000.0,3.48,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_636245_4086_07082022112331_WEB.xml,0
 2022-07-01,2022-09-30,consolidated,2761860000.0,353510000.0,5.33,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_863465_6581_12112022104803_WEB.xml,0
-2022-10-01,2022-12-31,consolidated,,,,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88247_782662_01022023020532_WEB.xml,0
+2022-10-01,2022-12-31,consolidated,2969320000.0,483720000.0,7.3,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_88247_782662_01022023020532_WEB.xml,1
 2023-01-01,2023-03-31,consolidated,3964070000.0,772580000.0,11.65,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_93699_859114_30052023084735.xml,0
 2023-04-01,2023-06-30,consolidated,2680730000.0,213910000.0,3.22,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_96607_915607_11082023055328.xml,0
 2023-07-01,2023-09-30,consolidated,3774620000.0,473610000.0,7.13,TEGA,https://nsearchives.nseindia.in/corporate/xbrl/INDAS_100182_984509_10112023124050.xml,0
