@@ -1,16 +1,16 @@
 {
-  "started_ist": "2026-11-24T03:17:25+05:30",
-  "finished_ist": "2026-11-24T03:34:54+05:30",
+  "started_ist": "2026-11-25T03:22:53+05:30",
+  "finished_ist": "2026-11-25T03:40:59+05:30",
   "steps": {
     "index_pe_history": {
-      "ok": true,
-      "rows": 26,
-      "note": "26/49 indices ok; missing: NIFTY SMALLCAP 250, NIFTY MICROCAP 250, NIFTY PRIVATE BANK, NIFTY FINANCIAL SERVICES, NIFTY FINANCIAL SERVICES EX-BANK, NIFTY CAPITAL MARKETS, NIFTY MIDSMALL FINANCIAL SERVICES, NIFTY HEALTHCARE INDEX"
+      "ok": false,
+      "rows": 0,
+      "note": "RuntimeError: no index P/E data downloaded"
     },
     "index_archive": {
       "ok": true,
-      "rows": 169,
-      "note": "1 new days, 0 days left, 96 holidays/missing"
+      "rows": 0,
+      "note": "0 new days, 0 days left, 97 holidays/missing"
     },
     "classification": {
       "ok": true,
