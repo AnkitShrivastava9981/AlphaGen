@@ -1,6 +1,6 @@
 # Data collection status
 
-Last run: Thu 26 Nov 2026, 03:41 IST
+Last run: Fri 27 Nov 2026, 03:37 IST
 
 | Step | Result | Rows | Note |
 |---|---|---|---|
