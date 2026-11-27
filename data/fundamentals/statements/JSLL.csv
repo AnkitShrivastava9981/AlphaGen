@@ -73,43 +73,52 @@ JSLL,Q,income,Basic EPS,2025-09-30,4.73
 JSLL,Q,income,Basic EPS,2025-12-31,5.36
 JSLL,Q,income,Basic EPS,2026-03-31,3.63
 JSLL,Q,income,Basic EPS,2026-06-30,5.3
+JSLL,Q,income,Basic EPS,2026-09-30,2.95
 JSLL,Q,income,Diluted EPS,2025-06-30,4.12
 JSLL,Q,income,Diluted EPS,2025-09-30,4.72
 JSLL,Q,income,Diluted EPS,2025-12-31,5.35
 JSLL,Q,income,Diluted EPS,2026-03-31,3.62
 JSLL,Q,income,Diluted EPS,2026-06-30,5.29
+JSLL,Q,income,Diluted EPS,2026-09-30,2.94
 JSLL,Q,income,EBITDA,2025-06-30,798212000.0
 JSLL,Q,income,EBITDA,2025-09-30,934700000.0
 JSLL,Q,income,EBITDA,2025-12-31,1032908000.0
 JSLL,Q,income,EBITDA,2026-03-31,813370000.0
 JSLL,Q,income,EBITDA,2026-06-30,1063923000.0
+JSLL,Q,income,EBITDA,2026-09-30,700584000.0
 JSLL,Q,income,Interest Expense,2025-06-30,16598000.0
 JSLL,Q,income,Interest Expense,2025-09-30,43463000.0
 JSLL,Q,income,Interest Expense,2025-12-31,31004000.0
 JSLL,Q,income,Interest Expense,2026-03-31,37270000.0
 JSLL,Q,income,Interest Expense,2026-06-30,34735000.0
+JSLL,Q,income,Interest Expense,2026-09-30,40396000.0
 JSLL,Q,income,Net Income,2025-06-30,512910000.0
-JSLL,Q,income,Net Income,2025-09-30,587501000.0
+JSLL,Q,income,Net Income,2025-09-30,587676000.0
 JSLL,Q,income,Net Income,2025-12-31,666609000.0
 JSLL,Q,income,Net Income,2026-03-31,451313000.0
 JSLL,Q,income,Net Income,2026-06-30,659454000.0
+JSLL,Q,income,Net Income,2026-09-30,366726000.0
 JSLL,Q,income,Net Income Common Stockholders,2025-06-30,512910000.0
-JSLL,Q,income,Net Income Common Stockholders,2025-09-30,587501000.0
+JSLL,Q,income,Net Income Common Stockholders,2025-09-30,587676000.0
 JSLL,Q,income,Net Income Common Stockholders,2025-12-31,666609000.0
 JSLL,Q,income,Net Income Common Stockholders,2026-03-31,451313000.0
 JSLL,Q,income,Net Income Common Stockholders,2026-06-30,659454000.0
+JSLL,Q,income,Net Income Common Stockholders,2026-09-30,366726000.0
 JSLL,Q,income,Operating Income,2025-06-30,691011000.0
 JSLL,Q,income,Operating Income,2025-09-30,816281000.0
 JSLL,Q,income,Operating Income,2025-12-31,894645000.0
 JSLL,Q,income,Operating Income,2026-03-31,615372000.0
 JSLL,Q,income,Operating Income,2026-06-30,766769000.0
+JSLL,Q,income,Operating Income,2026-09-30,555021000.0
 JSLL,Q,income,Pretax Income,2025-06-30,685098000.0
 JSLL,Q,income,Pretax Income,2025-09-30,787267000.0
 JSLL,Q,income,Pretax Income,2025-12-31,889309000.0
 JSLL,Q,income,Pretax Income,2026-03-31,612261000.0
 JSLL,Q,income,Pretax Income,2026-06-30,875299000.0
+JSLL,Q,income,Pretax Income,2026-09-30,495273000.0
 JSLL,Q,income,Total Revenue,2025-06-30,1742859000.0
 JSLL,Q,income,Total Revenue,2025-09-30,1898451000.0
 JSLL,Q,income,Total Revenue,2025-12-31,2216797000.0
 JSLL,Q,income,Total Revenue,2026-03-31,2155532000.0
 JSLL,Q,income,Total Revenue,2026-06-30,2244048000.0
+JSLL,Q,income,Total Revenue,2026-09-30,2351291000.0

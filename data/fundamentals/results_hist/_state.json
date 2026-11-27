@@ -4516,5 +4516,11 @@
   "quarters": 7,
   "filings": 14,
   "at": "2026-11-17"
+ },
+ "HEGRAPHITE": {
+  "done": true,
+  "quarters": 0,
+  "filings": 0,
+  "at": "2026-11-27"
  }
 }

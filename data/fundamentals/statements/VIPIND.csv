@@ -76,43 +76,52 @@ VIPIND,Q,income,Basic EPS,2025-09-30,-10.08
 VIPIND,Q,income,Basic EPS,2025-12-31,-10.08
 VIPIND,Q,income,Basic EPS,2026-03-31,-3.72
 VIPIND,Q,income,Basic EPS,2026-06-30,-3.77
+VIPIND,Q,income,Basic EPS,2026-09-30,-2.15
 VIPIND,Q,income,Diluted EPS,2025-06-30,-0.92
 VIPIND,Q,income,Diluted EPS,2025-09-30,-10.08
 VIPIND,Q,income,Diluted EPS,2025-12-31,-10.08
 VIPIND,Q,income,Diluted EPS,2026-03-31,-3.72
 VIPIND,Q,income,Diluted EPS,2026-06-30,-3.77
+VIPIND,Q,income,Diluted EPS,2026-09-30,-2.15
 VIPIND,Q,income,EBITDA,2025-06-30,312000000.0
 VIPIND,Q,income,EBITDA,2025-09-30,-913400000.0
 VIPIND,Q,income,EBITDA,2025-12-31,-23000000.0
 VIPIND,Q,income,EBITDA,2026-03-31,-779500000.0
 VIPIND,Q,income,EBITDA,2026-06-30,-70500000.0
+VIPIND,Q,income,EBITDA,2026-09-30,220500000.0
 VIPIND,Q,income,Interest Expense,2025-06-30,166600000.0
 VIPIND,Q,income,Interest Expense,2025-09-30,176000000.0
 VIPIND,Q,income,Interest Expense,2025-12-31,159600000.0
 VIPIND,Q,income,Interest Expense,2026-03-31,201200000.0
 VIPIND,Q,income,Interest Expense,2026-06-30,161700000.0
+VIPIND,Q,income,Interest Expense,2026-09-30,199400000.0
 VIPIND,Q,income,Net Income,2025-06-30,-131000000.0
 VIPIND,Q,income,Net Income,2025-09-30,-1431400000.0
 VIPIND,Q,income,Net Income,2025-12-31,-528700000.0
 VIPIND,Q,income,Net Income,2026-03-31,-1289000000.0
 VIPIND,Q,income,Net Income,2026-06-30,-535600000.0
+VIPIND,Q,income,Net Income,2026-09-30,-305200000.0
 VIPIND,Q,income,Net Income Common Stockholders,2025-06-30,-131000000.0
 VIPIND,Q,income,Net Income Common Stockholders,2025-09-30,-1431400000.0
 VIPIND,Q,income,Net Income Common Stockholders,2025-12-31,-528700000.0
 VIPIND,Q,income,Net Income Common Stockholders,2026-03-31,-1289000000.0
 VIPIND,Q,income,Net Income Common Stockholders,2026-06-30,-535600000.0
+VIPIND,Q,income,Net Income Common Stockholders,2026-09-30,-305200000.0
 VIPIND,Q,income,Operating Income,2025-06-30,-69400000.0
 VIPIND,Q,income,Operating Income,2025-09-30,-1393800000.0
 VIPIND,Q,income,Operating Income,2025-12-31,-1088100000.0
 VIPIND,Q,income,Operating Income,2026-03-31,-1129300000.0
 VIPIND,Q,income,Operating Income,2026-06-30,-424100000.0
+VIPIND,Q,income,Operating Income,2026-09-30,-634700000.0
 VIPIND,Q,income,Pretax Income,2025-06-30,-170500000.0
 VIPIND,Q,income,Pretax Income,2025-09-30,-1419300000.0
 VIPIND,Q,income,Pretax Income,2025-12-31,-502400000.0
 VIPIND,Q,income,Pretax Income,2026-03-31,-1288000000.0
 VIPIND,Q,income,Pretax Income,2026-06-30,-546500000.0
+VIPIND,Q,income,Pretax Income,2026-09-30,-283100000.0
 VIPIND,Q,income,Total Revenue,2025-06-30,5614300000.0
 VIPIND,Q,income,Total Revenue,2025-09-30,4063400000.0
 VIPIND,Q,income,Total Revenue,2025-12-31,4541300000.0
 VIPIND,Q,income,Total Revenue,2026-03-31,4362300000.0
 VIPIND,Q,income,Total Revenue,2026-06-30,5783600000.0
+VIPIND,Q,income,Total Revenue,2026-09-30,4681200000.0

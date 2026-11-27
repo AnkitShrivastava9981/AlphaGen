@@ -75,43 +75,52 @@ ZAGGLE,Q,income,Basic EPS,2025-09-30,2.61
 ZAGGLE,Q,income,Basic EPS,2025-12-31,2.76
 ZAGGLE,Q,income,Basic EPS,2026-03-31,3.02
 ZAGGLE,Q,income,Basic EPS,2026-06-30,1.3
+ZAGGLE,Q,income,Basic EPS,2026-09-30,1.82
 ZAGGLE,Q,income,Diluted EPS,2025-06-30,1.94
 ZAGGLE,Q,income,Diluted EPS,2025-09-30,2.6
 ZAGGLE,Q,income,Diluted EPS,2025-12-31,2.75
 ZAGGLE,Q,income,Diluted EPS,2026-03-31,3.02
 ZAGGLE,Q,income,Diluted EPS,2026-06-30,1.3
+ZAGGLE,Q,income,Diluted EPS,2026-09-30,1.82
 ZAGGLE,Q,income,EBITDA,2025-06-30,428460000.0
 ZAGGLE,Q,income,EBITDA,2025-09-30,550490000.0
 ZAGGLE,Q,income,EBITDA,2025-12-31,608640000.0
 ZAGGLE,Q,income,EBITDA,2026-03-31,686070000.0
 ZAGGLE,Q,income,EBITDA,2026-06-30,398260000.0
+ZAGGLE,Q,income,EBITDA,2026-09-30,493040000.0
 ZAGGLE,Q,income,Interest Expense,2025-06-30,10790000.0
 ZAGGLE,Q,income,Interest Expense,2025-09-30,13710000.0
 ZAGGLE,Q,income,Interest Expense,2025-12-31,12780000.0
 ZAGGLE,Q,income,Interest Expense,2026-03-31,16020000.0
 ZAGGLE,Q,income,Interest Expense,2026-06-30,16580000.0
+ZAGGLE,Q,income,Interest Expense,2026-09-30,23120000.0
 ZAGGLE,Q,income,Net Income,2025-06-30,261110000.0
 ZAGGLE,Q,income,Net Income,2025-09-30,349840000.0
 ZAGGLE,Q,income,Net Income,2025-12-31,363890000.0
 ZAGGLE,Q,income,Net Income,2026-03-31,406040000.0
 ZAGGLE,Q,income,Net Income,2026-06-30,175330000.0
+ZAGGLE,Q,income,Net Income,2026-09-30,244670000.0
 ZAGGLE,Q,income,Net Income Common Stockholders,2025-06-30,261110000.0
 ZAGGLE,Q,income,Net Income Common Stockholders,2025-09-30,349840000.0
 ZAGGLE,Q,income,Net Income Common Stockholders,2025-12-31,363890000.0
 ZAGGLE,Q,income,Net Income Common Stockholders,2026-03-31,406040000.0
 ZAGGLE,Q,income,Net Income Common Stockholders,2026-06-30,175330000.0
+ZAGGLE,Q,income,Net Income Common Stockholders,2026-09-30,244670000.0
 ZAGGLE,Q,income,Operating Income,2025-06-30,234710000.0
 ZAGGLE,Q,income,Operating Income,2025-09-30,364880000.0
 ZAGGLE,Q,income,Operating Income,2025-12-31,423160000.0
 ZAGGLE,Q,income,Operating Income,2026-03-31,457960000.0
 ZAGGLE,Q,income,Operating Income,2026-06-30,182130000.0
+ZAGGLE,Q,income,Operating Income,2026-09-30,265100000.0
 ZAGGLE,Q,income,Pretax Income,2025-06-30,347460000.0
 ZAGGLE,Q,income,Pretax Income,2025-09-30,462070000.0
 ZAGGLE,Q,income,Pretax Income,2025-12-31,497390000.0
 ZAGGLE,Q,income,Pretax Income,2026-03-31,544640000.0
 ZAGGLE,Q,income,Pretax Income,2026-06-30,254800000.0
+ZAGGLE,Q,income,Pretax Income,2026-09-30,317830000.0
 ZAGGLE,Q,income,Total Revenue,2025-06-30,3319650000.0
 ZAGGLE,Q,income,Total Revenue,2025-09-30,4322160000.0
 ZAGGLE,Q,income,Total Revenue,2025-12-31,5255490000.0
 ZAGGLE,Q,income,Total Revenue,2026-03-31,6179160000.0
 ZAGGLE,Q,income,Total Revenue,2026-06-30,4232650000.0
+ZAGGLE,Q,income,Total Revenue,2026-09-30,5798550000.0

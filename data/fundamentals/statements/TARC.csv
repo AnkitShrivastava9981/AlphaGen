@@ -76,43 +76,52 @@ TARC,Q,income,Basic EPS,2025-09-30,-0.53
 TARC,Q,income,Basic EPS,2025-12-31,-0.71
 TARC,Q,income,Basic EPS,2026-03-31,0.05
 TARC,Q,income,Basic EPS,2026-06-30,0.77
+TARC,Q,income,Basic EPS,2026-09-30,0.15
 TARC,Q,income,Diluted EPS,2025-06-30,1.84
 TARC,Q,income,Diluted EPS,2025-09-30,-0.53
 TARC,Q,income,Diluted EPS,2025-12-31,-0.71
 TARC,Q,income,Diluted EPS,2026-03-31,0.05
 TARC,Q,income,Diluted EPS,2026-06-30,0.77
+TARC,Q,income,Diluted EPS,2026-09-30,0.15
 TARC,Q,income,EBITDA,2025-06-30,991551000.0
 TARC,Q,income,EBITDA,2025-09-30,-84094000.0
 TARC,Q,income,EBITDA,2025-12-31,-142848000.0
 TARC,Q,income,EBITDA,2026-03-31,10530000.0
 TARC,Q,income,EBITDA,2026-06-30,417671000.0
+TARC,Q,income,EBITDA,2026-09-30,28002000.0
 TARC,Q,income,Interest Expense,2025-06-30,152788000.0
 TARC,Q,income,Interest Expense,2025-09-30,112267000.0
 TARC,Q,income,Interest Expense,2025-12-31,108916000.0
 TARC,Q,income,Interest Expense,2026-03-31,152131000.0
 TARC,Q,income,Interest Expense,2026-06-30,176947000.0
+TARC,Q,income,Interest Expense,2026-09-30,136145000.0
 TARC,Q,income,Net Income,2025-06-30,542329000.0
 TARC,Q,income,Net Income,2025-09-30,-157570000.0
 TARC,Q,income,Net Income,2025-12-31,-210258000.0
 TARC,Q,income,Net Income,2026-03-31,16211000.0
 TARC,Q,income,Net Income,2026-06-30,226527000.0
+TARC,Q,income,Net Income,2026-09-30,44015000.0
 TARC,Q,income,Net Income Common Stockholders,2025-06-30,542329000.0
 TARC,Q,income,Net Income Common Stockholders,2025-09-30,-157570000.0
 TARC,Q,income,Net Income Common Stockholders,2025-12-31,-210258000.0
 TARC,Q,income,Net Income Common Stockholders,2026-03-31,16211000.0
 TARC,Q,income,Net Income Common Stockholders,2026-06-30,226527000.0
+TARC,Q,income,Net Income Common Stockholders,2026-09-30,44015000.0
 TARC,Q,income,Operating Income,2025-06-30,-1227242000.0
 TARC,Q,income,Operating Income,2025-09-30,-380435000.0
 TARC,Q,income,Operating Income,2025-12-31,-206037000.0
 TARC,Q,income,Operating Income,2026-03-31,-931617000.0
 TARC,Q,income,Operating Income,2026-06-30,380872000.0
+TARC,Q,income,Operating Income,2026-09-30,-47026000.0
 TARC,Q,income,Pretax Income,2025-06-30,814683000.0
 TARC,Q,income,Pretax Income,2025-09-30,-220404000.0
 TARC,Q,income,Pretax Income,2025-12-31,-275708000.0
 TARC,Q,income,Pretax Income,2026-03-31,-170570000.0
 TARC,Q,income,Pretax Income,2026-06-30,219771000.0
+TARC,Q,income,Pretax Income,2026-09-30,-130615000.0
 TARC,Q,income,Total Revenue,2025-06-30,758948000.0
 TARC,Q,income,Total Revenue,2025-09-30,68706000.0
 TARC,Q,income,Total Revenue,2025-12-31,383769000.0
 TARC,Q,income,Total Revenue,2026-03-31,2086984000.0
 TARC,Q,income,Total Revenue,2026-06-30,2171259000.0
+TARC,Q,income,Total Revenue,2026-09-30,1288142000.0
