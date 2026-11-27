@@ -1,66 +1,16 @@
 {
-  "started_ist": "2026-11-27T20:57:33+05:30",
-  "finished_ist": "2026-11-27T21:42:18+05:30",
+  "started_ist": "2026-11-28T03:21:40+05:30",
+  "finished_ist": "2026-11-28T03:39:56+05:30",
   "steps": {
-    "universe": {
-      "ok": true,
-      "rows": 751,
-      "note": "ok"
-    },
-    "prices": {
-      "ok": true,
-      "rows": 27140,
-      "note": "777/778 tickers; incremental"
-    },
-    "nse_delivery": {
-      "ok": true,
-      "rows": 3715,
-      "note": "5 new day files"
-    },
-    "nse_fo": {
-      "ok": true,
-      "rows": 896,
-      "note": "4 new day files"
-    },
-    "nse_participant_oi": {
-      "ok": true,
-      "rows": 20,
-      "note": "4 new day files"
-    },
-    "nse_fii_dii": {
-      "ok": true,
-      "rows": 6,
-      "note": "running history"
-    },
-    "nse_deals": {
-      "ok": true,
-      "rows": 140,
-      "note": "bulk-deals: 7-day API ok; block-deals: 7-day API ok"
-    },
-    "mutual_funds": {
-      "ok": true,
-      "rows": 743,
-      "note": "4146 schemes in master; 743 tracked; appended latest NAVs; backfilled 0 new funds"
-    },
-    "macro": {
-      "ok": true,
-      "rows": 0,
-      "note": "FRED not reachable from GitHub - skipped (Yahoo covers yields, dollar, INR, crude)"
-    },
-    "fundamentals": {
-      "ok": true,
-      "rows": 749,
-      "note": "749/751 stocks"
-    },
     "index_pe_history": {
-      "ok": true,
-      "rows": 26,
-      "note": "26/49 indices ok; missing: NIFTY SMALLCAP 250, NIFTY MICROCAP 250, NIFTY PRIVATE BANK, NIFTY FINANCIAL SERVICES, NIFTY FINANCIAL SERVICES EX-BANK, NIFTY CAPITAL MARKETS, NIFTY MIDSMALL FINANCIAL SERVICES, NIFTY HEALTHCARE INDEX"
+      "ok": false,
+      "rows": 0,
+      "note": "RuntimeError: no index P/E data downloaded"
     },
     "index_archive": {
       "ok": true,
-      "rows": 146,
-      "note": "1 new days, 0 days left, 96 holidays/missing"
+      "rows": 0,
+      "note": "0 new days, 0 days left, 96 holidays/missing"
     },
     "classification": {
       "ok": true,
@@ -69,18 +19,13 @@
     },
     "shareholding": {
       "ok": true,
-      "rows": 31,
-      "note": "1 new filings parsed, 0 errors"
-    },
-    "sast": {
-      "ok": true,
-      "rows": 174,
-      "note": "/api/corporate-sast-reg29"
+      "rows": 0,
+      "note": "0 new filings parsed, 0 errors"
     },
     "results_history": {
       "ok": true,
       "rows": 0,
-      "note": "1 companies this run, 0 left, 0 errors"
+      "note": "backfill complete; repair fixed 0/385 quarters; failures no_profit_BANKING:382, no_profit_NONINDAS:3"
     }
   }
 }
